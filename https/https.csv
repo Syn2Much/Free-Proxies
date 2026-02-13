@@ -1,234 +1,308 @@
 proxy,country,region
 185.191.236.162:3128,Switzerland,Zurich
+34.14.143.185:3128,India,Maharashtra
 185.191.236.162:3128,Switzerland,Zurich
-194.59.204.87:9080,Germany,Bavaria
-128.140.118.165:1080,Germany,Saxony
-13.36.243.194:9899,Germany,Berlin
-35.180.127.14:1001,Germany,Berlin
-165.225.46.46:10002,United States,California
-165.225.46.46:10017,United States,California
-165.225.46.46:443,United States,California
-165.225.46.46:10000,United States,California
-66.80.0.115:3128,United States,California
-128.199.121.61:9090,Singapore,Southeast
-34.14.143.185:3128,India,Maharashtra
-35.225.22.61:80,United States,Iowa
-94.176.3.42:7443,Netherlands,North Holland
-165.225.46.46:80,United States,California
-190.9.109.198:999,Mexico,Quintana Roo
-165.227.5.10:8888,United States,California
-128.199.113.85:9090,Singapore,Southeast
 185.115.74.185:8080,Czech Republic,Moravia-Silesia
-140.238.242.189:8100,India,Maharashtra
-35.225.22.61:80,United States,Iowa
-140.238.242.189:8100,India,Maharashtra
-72.10.164.178:18443,Peru,Lima
-94.176.3.109:7443,Netherlands,North Holland
+165.225.46.46:10000,United States,California
+165.225.46.46:80,United States,California
+168.235.110.63:3128,United States,New Jersey
+165.225.46.46:443,United States,California
+67.43.228.250:33189,France,Occitania
+94.176.3.43:7443,Netherlands,North Holland
+168.235.110.63:3128,United States,New Jersey
+5.9.218.168:3128,United States,North Carolina
+8.212.178.171:8080,Philippines,Metro Manila
+103.156.15.14:8080,Indonesia,Banten
 34.14.143.185:3128,India,Maharashtra
-150.230.104.3:16728,Japan,Chiba Prefecture
-91.238.104.171:2023,Ukraine,Kyiv city
-94.176.3.42:7443,Netherlands,North Holland
-103.172.70.191:8181,Indonesia,Central Java
-103.139.98.50:8080,Indonesia,Lampung
-128.199.120.45:9090,Singapore,Southeast
-43.167.193.58:3128,Japan,Tokyo
-160.25.46.58:1111,Indonesia,East Java
-41.185.72.62:3030,South Africa,Western Cape
-179.96.28.58:80,Brazil,Goiás
-101.43.255.96:80,China,Beijing
-67.43.228.250:7079,Argentina,Buenos Aires
-103.172.42.81:8080,Indonesia,Jawa Barat
-107.173.51.248:7890,Hong Kong,Hong Kong
-18.192.100.176:8080,Germany,Brandenburg
-72.10.160.91:11051,Brazil,Amazonas
-110.42.227.103:3128,China,Shanghai
-81.70.169.194:80,China,Beijing
-72.10.160.90:10459,Colombia,Cundinamarca
-120.238.159.228:22222,China,Guangdong Province
-67.43.236.20:9735,Philippines,Cavite
-121.187.175.106:9877,Republic of Korea,Gyeonggi
-193.106.150.70:1080,Netherlands,Drenthe
-120.240.35.176:22222,China,Guangdong Province
-67.43.236.20:9735,Philippines,Cavite
-67.43.228.254:12075,Argentina,Misiónes
-67.43.236.20:27237,United Arab Emirates,Sharjah Emirate
-62.113.119.14:8080,Russia,Moscow
-62.113.119.14:8080,Russia,Moscow
-223.113.134.116:22222,China,Jiangsu
-72.10.160.170:20055,United States,District of Columbia
-43.224.118.156:1120,Bangladesh,Dhaka Division
-49.48.66.94:8080,Thailand,Surin Province
-115.114.77.133:9090,India,Delhi
 8.212.178.171:8080,Philippines,Metro Manila
-163.5.128.110:14270,United States,New York
-217.217.254.94:8080,Singapore,Southeast
-27.147.137.234:9108,Bangladesh,Dhaka Division
-117.159.239.51:22222,China,Henan
-117.159.239.47:22222,China,Shanghai
-3.110.197.155:49815,United States,Washington
-188.130.160.209:80,Kazakhstan,Karaganda Region
-72.10.164.178:22683,Australia,New South Wales
-103.165.157.247:8088,Indonesia,Central Java
-40.177.212.16:197,Germany,Brandenburg
-217.217.254.94:8080,Singapore,Southeast
-182.53.202.208:8080,Thailand,Chiang Mai Province
-202.191.127.9:1121,Bangladesh,Dhaka Division
-205.209.118.30:3138,United States,New Jersey
-113.11.127.179:64300,Bangladesh,Dhaka Division
-103.230.62.189:5555,Bangladesh,Dhaka Division
-168.235.110.63:3128,United States,New Jersey
-195.133.41.113:1080,Netherlands,North Holland
-163.5.128.11:14270,United States,New York
-91.202.72.105:8080,Ukraine,Kyiv city
-111.79.111.126:3128,China,Jiangsu
-168.235.110.63:3128,United States,New Jersey
-117.159.239.52:22222,China,Henan
-162.240.154.26:3128,United States,Utah
-119.93.201.156:8082,Philippines,Metro Manila
-182.93.95.80:8080,Nepal,Bagmati Pradesh
-115.147.8.120:8082,Philippines,Metro Manila
-38.7.195.49:999,Chile,Santiago Metropolitan Region
-103.97.140.96:8080,Indonesia,Special Capital Region of Jakarta
-67.43.228.253:12075,Argentina,Misiónes
-103.54.43.131:8080,Bangladesh,Dhaka Division
-190.242.157.215:8080,Colombia,Cauca
-221.202.27.194:10811,China,Liaoning
-187.190.114.60:999,Mexico,Veracruz
-190.242.157.215:8080,Colombia,Cauca
-91.238.104.171:2023,Ukraine,Kyiv city
-157.20.244.194:7777,Indonesia,Central Java
-181.209.81.82:999,Argentina,Santa Fe
-150.230.104.3:16728,Japan,Chiba Prefecture
-36.136.27.2:4999,China,Guangdong Province
-103.198.154.196:8080,Pakistan,Punjab
-117.159.239.54:22222,China,Henan
-65.108.159.129:8080,Finland,Mainland Finland
-161.49.89.217:8081,Philippines,Metro Manila
-190.94.213.78:999,Venezuela,Capital District
-121.204.158.249:3128,China,Fujian
-160.25.196.12:8090,Indonesia,East Java
-41.33.219.140:1981,Egypt,Cairo
-187.190.58.152:80,Mexico,Sinaloa
-103.122.0.151:8181,Indonesia,Lampung
-103.140.25.230:8080,Bangladesh,Chattogram Division
-144.31.30.210:443,Netherlands,North Holland
-149.40.26.240:8080,Brazil,Espírito Santo
-121.204.158.249:3128,China,Fujian
-178.130.47.129:1082,United States,Arizona
-175.158.63.166:1111,Indonesia,Banten
-103.189.249.210:8080,Indonesia,Central Java
-103.245.110.198:1452,Bangladesh,Dhaka Division
-200.95.184.62:999,Chile,Ñuble Region
-177.241.119.191:8080,Mexico,Puebla
-157.66.36.130:8080,Indonesia,Banten
-197.164.101.13:1976,Egypt,Cairo
-201.184.68.220:8080,Colombia,Bogota
-65.108.159.129:8081,Finland,Mainland Finland
-8.212.178.171:8080,Philippines,Metro Manila
-103.156.75.84:8181,Indonesia,Bali
-43.225.151.30:20505,Bangladesh,Dhaka Division
-202.180.21.213:80,Indonesia,Special Capital Region of Jakarta
-52.66.191.112:16924,United States,Missouri
-103.156.15.209:1080,Indonesia,Banten
-179.96.28.58:80,Brazil,Goiás
-103.152.238.29:1080,Indonesia,Jawa Barat
-190.9.109.196:999,Mexico,Quintana Roo
-167.249.29.218:999,Chile,Santiago Metropolitan Region
-103.53.77.38:8085,Indonesia,East Java
-103.193.144.15:8080,Indonesia,Riau Islands
-103.169.254.45:6080,Indonesia,East Java
-195.149.125.150:8080,Ukraine,Odesa Oblast
-103.165.128.171:8080,Indonesia,Special Capital Region of Jakarta
-200.24.159.230:8080,Ecuador,Guayas
-103.133.63.179:8181,Indonesia,West Kalimantan
-182.253.26.196:8080,Indonesia,Special Capital Region of Jakarta
-160.20.165.13:6248,Ecuador,Guayas
-67.43.228.253:15035,France,Nouvelle-Aquitaine
-101.47.73.135:3128,Hong Kong,Hong Kong
-113.192.31.79:8080,Indonesia,Jawa Barat
-94.183.188.7:6891,France,Île-de-France
-131.0.234.54:55555,Argentina,Buenos Aires
-200.92.201.126:999,Mexico,Guanajuato
-146.190.80.158:9090,Singapore,Southeast
-165.16.59.65:8080,Libya,Jabal al Gharbi
-94.176.3.109:7443,Netherlands,North Holland
-58.136.171.166:8080,Thailand,Udon Thani Province
-103.129.3.246:83,India,Odisha
-91.107.148.58:53967,Germany,Bavaria
-190.2.214.137:9992,Colombia,Bogota
-197.164.101.13:1981,Egypt,Cairo
-165.99.56.135:8080,Indonesia,Lampung
-67.43.228.251:12075,Argentina,Misiónes
-163.223.116.81:8080,Indonesia,Jawa Barat
-180.191.23.149:8082,Philippines,Bulacan
-197.164.101.10:1976,Egypt,Cairo
-177.184.199.36:80,Brazil,State of São Paulo
-103.15.214.20:8080,Indonesia,East Java
-13.126.187.20:1080,Germany,Bavaria
-212.110.188.207:34405,United Kingdom,England
-20.31.25.199:3128,Netherlands,North Holland
-38.159.232.109:999,Dominican Republic,La Vega
-31.58.158.150:8080,Indonesia,East Java
-41.65.55.27:1981,Egypt,Western
-147.75.202.36:10006,United States,California
-101.251.204.174:8080,China,Beijing
-103.122.67.165:8000,Indonesia,East Java
-109.224.242.151:8080,Turkey,Mediterranean Region
-157.66.16.38:8070,Indonesia,Jawa Barat
-144.31.30.210:443,Netherlands,North Holland
-103.174.145.46:83,India,Gujarat
-72.10.160.90:4921,India,Rajasthan
-180.180.218.250:8080,Thailand,Bangkok
-8.219.97.248:80,Singapore,Southeast
-72.10.160.90:4921,India,Rajasthan
-202.152.44.19:8081,Indonesia,Special Capital Region of Jakarta
-154.73.29.65:8080,Libya,Tripoli
-36.89.212.251:8080,Indonesia,Jawa Barat
-114.141.54.221:8080,Indonesia,Jawa Barat
-213.219.215.233:3128,Russia,Moscow
-115.231.181.40:8128,China,Zhejiang
-41.185.72.62:3030,South Africa,Western Cape
-200.59.191.232:999,Venezuela,Trujillo State
-103.48.71.58:83,India,Telangana
-200.59.186.176:999,Venezuela,Trujillo State
-200.59.186.179:999,Venezuela,Trujillo State
-163.5.128.150:14270,United States,New York
-200.24.130.144:999,Ecuador,Los Ríos
-128.199.116.219:9090,Singapore,Southeast
-91.217.33.161:8080,Slovak Republic,Trnava
-43.130.6.42:80,United States,California
-103.122.64.169:8181,Indonesia,Central Kalimantan
-45.70.236.194:999,Ecuador,El Oro
-103.76.151.202:8080,Indonesia,Jambi
-101.47.73.135:3128,Hong Kong,Hong Kong
-180.191.32.166:8081,Philippines,Nueva Ecija
-154.58.138.220:3125,Indonesia,Central Java
-136.233.136.41:48976,India,Maharashtra
-205.209.118.30:3138,United States,New Jersey
-58.187.104.67:2113,Vietnam,Nam Dinh province
-202.152.44.19:8081,Indonesia,Special Capital Region of Jakarta
-202.152.44.18:8081,Indonesia,Special Capital Region of Jakarta
-134.249.185.223:41890,Ukraine,Odesa Oblast
-200.24.130.145:999,Ecuador,Los Ríos
-115.114.77.133:9090,India,Delhi
-38.7.195.53:999,Chile,Santiago Metropolitan Region
-182.160.110.154:9898,Bangladesh,Dhaka Division
-181.78.217.50:999,Paraguay,Distrito Capital de Paraguay
-103.86.131.62:80,Malaysia,Perlis
-195.133.41.113:1080,Netherlands,North Holland
-157.20.252.30:8080,Indonesia,Riau Islands
-109.224.242.151:8080,Turkey,Mediterranean Region
-154.64.211.145:999,Puerto Rico,Puerto Rico
-182.176.164.41:8080,Pakistan,Punjab
-123.16.15.41:1452,Vietnam,Son La province
-125.27.24.41:8080,Thailand,Chanthaburi Province
-43.167.193.58:3128,Japan,Tokyo
-200.59.186.178:999,Venezuela,Trujillo State
-157.66.192.91:8080,Indonesia,Central Java
-223.113.134.84:22222,China,Jiangsu
-181.78.75.84:999,Colombia,Antioquia
-103.76.149.162:8080,Indonesia,Jambi
-43.130.6.42:80,United States,California
-179.60.53.26:999,Ecuador,Azuay
+165.225.46.46:10017,United States,California
+145.40.68.148:10065,Netherlands,North Holland
+62.113.119.14:8080,Russia,Moscow
+85.133.227.182:80,Iran,Kerman Province
+120.26.147.60:7890,China,Zhejiang
 59.46.216.131:30001,China,Liaoning
-163.5.128.252:14270,United States,New York
+94.176.3.42:7443,Netherlands,North Holland
+67.43.236.20:9735,Philippines,Cavite
+147.75.202.36:9443,United States,California
+43.167.193.58:3128,Japan,Tokyo
+150.230.104.3:16728,Japan,Chiba Prefecture
+110.42.227.103:3128,China,Shanghai
+91.238.104.171:2023,Ukraine,Kyiv city
+14.225.71.183:25565,Vietnam,Hanoi
+37.238.63.44:8080,Iraq,Baghdad Governorate
+179.96.28.58:80,Brazil,Goiás
+121.187.175.106:9877,Republic of Korea,Gyeonggi
+190.9.109.196:999,Mexico,Quintana Roo
+59.46.216.131:30001,China,Liaoning
+62.113.119.14:8080,Russia,Moscow
+101.43.255.96:80,China,Beijing
+150.230.104.3:16728,Japan,Chiba Prefecture
+223.113.134.84:22222,China,Jiangsu
+43.224.118.156:1120,Bangladesh,Dhaka Division
+67.43.236.20:27237,United Arab Emirates,Sharjah Emirate
+190.9.109.198:999,Mexico,Quintana Roo
+67.43.236.20:9735,Philippines,Cavite
+85.133.227.150:80,Iran,Kerman Province
+103.139.138.194:3128,Indonesia,North Sumatra
+176.117.106.149:8080,Turkey,İstanbul
+103.231.236.239:8182,Indonesia,Central Java
+158.160.215.167:8124,Russia,Moscow
+81.70.169.194:80,China,Beijing
+18.192.100.176:8080,Germany,Bavaria
+43.167.193.58:3128,Japan,Tokyo
+223.113.134.116:22222,China,Jiangsu
+85.133.227.182:80,Iran,Kerman Province
+38.156.73.61:8080,Turkey,Kilis
+209.14.114.14:999,Colombia,Risaralda
+121.230.9.86:1080,China,Jiangsu
+138.59.20.140:9999,Brazil,State of Minas Gerais
+160.22.31.3:8080,Indonesia,East Java
+91.238.104.171:2023,Ukraine,Kyiv city
+201.76.9.115:8080,Brazil,Santa Catarina
+202.152.44.19:8081,Indonesia,Special Capital Region of Jakarta
+190.242.157.215:8080,Colombia,Cauca
+103.38.106.13:1111,Indonesia,Jawa Barat
+185.241.5.57:3128,Israel,Haifa District
+46.99.178.155:1339,Kosovo,Municipality of Pristina
+103.175.80.202:8080,Indonesia,Central Java
+103.183.8.59:8181,Indonesia,Special Capital Region of Jakarta
+200.59.186.178:999,Venezuela,Trujillo State
+163.223.117.211:8080,Indonesia,Jawa Barat
+94.176.3.43:7443,Netherlands,North Holland
+181.79.93.145:999,Colombia,Tolima
+154.64.215.193:999,Puerto Rico,Puerto Rico
+200.59.191.234:999,Venezuela,Trujillo State
+120.240.35.175:22222,China,Guangdong Province
+147.75.202.36:10006,United States,California
+62.133.62.12:1082,France,Île-de-France
+200.121.48.195:999,Peru,Tacna
+176.236.227.98:8080,Turkey,İstanbul
+103.111.39.179:8080,Pakistan,Punjab
+52.66.191.112:16924,Germany,Bavaria
+200.92.201.126:999,Mexico,Guanajuato
+202.152.44.19:8081,Indonesia,Special Capital Region of Jakarta
+204.199.139.53:999,Chile,Santiago Metropolitan Region
+103.17.150.33:8080,Bangladesh,Dhaka Division
+103.158.242.62:83,India,Andhra Pradesh
+103.157.78.118:7777,Indonesia,Special Capital Region of Jakarta
+202.191.127.9:1121,Bangladesh,Dhaka Division
+202.58.77.112:8080,Indonesia,East Java
+103.157.24.79:7777,Indonesia,Jawa Barat
+43.252.107.12:7777,Indonesia,East Java
+103.19.78.127:3125,Indonesia,East Java
+185.241.5.57:3128,Israel,Haifa District
+190.12.150.244:999,Ecuador,Pichincha
+8.219.97.248:80,Singapore,Southeast
+45.151.182.9:3128,Russia,Moscow
+185.166.24.191:1981,Iraq,Iraqi Kurdistan Region
+120.240.35.176:22222,China,Guangdong Province
+202.131.159.222:80,India,Gujarat
+89.43.134.40:8080,Syria,Aleppo Governorate
+180.232.171.210:8080,Philippines,Metro Manila
+103.159.96.171:3122,Indonesia,East Java
+69.75.140.157:8080,United States,California
+101.47.73.135:3128,Hong Kong,Hong Kong
+103.172.254.145:84,India,Telangana
+212.108.115.195:8080,Syria,Damascus Governorate
+47.176.240.250:4228,United States,California
+117.159.239.51:22222,China,Henan
+124.83.110.105:8082,Philippines,Metro Manila
+103.156.17.132:8070,Indonesia,Jawa Barat
+103.48.71.46:83,India,Telangana
+165.16.59.65:8080,Libya,Jabal al Gharbi
+38.183.183.114:999,Peru,Lima
+103.231.236.235:8182,Indonesia,Central Java
+62.133.62.12:1082,France,Île-de-France
+40.177.212.16:197,Sweden,Stockholm County
+103.177.177.250:8080,Indonesia,Special Capital Region of Jakarta
+203.190.117.251:8123,Indonesia,East Kalimantan
+190.242.157.215:8080,Colombia,Cauca
+115.114.77.133:9090,India,Delhi
+179.96.28.58:80,Brazil,Goiás
+102.207.128.2:8080,Angola,Luanda Province
+43.225.151.30:20505,Bangladesh,Dhaka Division
+200.59.186.177:999,Venezuela,Trujillo State
+101.255.122.170:8080,Indonesia,Daerah Khusus Ibukota Jakarta
+202.152.44.18:8081,Indonesia,Special Capital Region of Jakarta
+158.160.215.167:8127,Russia,Moscow
+115.127.95.82:8080,Bangladesh,Dhaka Division
+203.175.103.9:3125,Indonesia,Special Capital Region of Jakarta
+223.205.182.169:8080,Thailand,Songkhla Province
+120.28.216.166:8082,Philippines,Bukidnon
+94.176.3.42:7443,Netherlands,North Holland
+103.139.127.244:8080,Indonesia,Jawa Barat
+103.84.177.30:8083,Philippines,Iloilo
+103.148.45.60:8833,Indonesia,Jambi
+141.136.63.126:8080,Venezuela,Tachira State
+181.48.39.89:8080,Colombia,Bogota
+203.172.136.211:8080,Thailand,Prachin Buri Province
+103.182.52.15:8080,Indonesia,East Java
+36.88.249.106:8080,Indonesia,Special Capital Region of Jakarta
+103.46.8.85:8080,Indonesia,East Java
+203.196.8.6:3128,Hong Kong,Hong Kong
+177.23.156.0:18800,Brazil,Goiás
+103.181.255.105:8080,Indonesia,East Java
+120.89.91.194:8085,Indonesia,Jawa Barat
+5.102.109.41:999,Mexico,Querétaro
+128.140.118.165:1080,Germany,Saxony
+165.227.5.10:8888,United States,California
+163.223.117.211:8080,Indonesia,Jawa Barat
+160.25.196.44:8090,Indonesia,East Java
+221.202.27.194:10809,China,Liaoning
+203.150.166.170:8080,Thailand,Khon Kaen Province
+47.105.98.23:3128,China,Shandong
+186.215.87.194:30002,Brazil,Mato Grosso do Sul
+179.1.131.129:8080,Colombia,Bogota
+188.130.160.209:80,Kazakhstan,Karaganda Region
+110.232.87.251:8080,Indonesia,North Sumatra
+139.159.99.242:8080,China,Guangdong Province
+103.178.41.51:8080,Indonesia,Gorontalo
+45.127.56.194:83,India,Telangana
+190.109.6.121:999,Colombia,Cundinamarca
+181.78.195.137:999,Ecuador,Azuay
+103.166.255.170:8080,Indonesia,South Sumatra
+103.61.16.50:8080,Indonesia,Jawa Barat
+122.52.157.209:8081,Philippines,Cordillera Administrative Region
+103.106.78.193:7979,Indonesia,Special Capital Region of Jakarta
+181.78.202.28:8080,Ecuador,Guayas
+103.227.186.61:6080,Indonesia,East Java
+103.139.98.50:8080,Indonesia,Lampung
+103.193.145.22:8082,Indonesia,West Sumatra
+45.4.3.6:999,Chile,Santiago Metropolitan Region
+45.4.202.170:999,Ecuador,Pichincha
+91.238.105.64:2024,Ukraine,Kyiv city
+41.185.72.62:3030,South Africa,Western Cape
+103.170.97.17:8080,Indonesia,East Java
+194.59.204.87:9080,Germany,Bavaria
+203.223.89.185:8080,Bangladesh,Dhaka Division
+165.99.56.135:8080,Indonesia,Lampung
+45.119.113.65:82,India,Telangana
+139.159.99.242:8080,China,Guangdong Province
+103.193.145.185:8181,Indonesia,North Sumatra
+138.0.143.119:8080,Brazil,State of São Paulo
+186.235.123.3:8080,Brazil,State of Rio de Janeiro
+200.59.191.233:999,Venezuela,Trujillo State
+181.78.195.137:999,Ecuador,Azuay
+103.154.230.80:8090,Indonesia,East Java
+200.59.191.235:999,Venezuela,Trujillo State
+103.133.27.137:8080,Indonesia,Jawa Barat
+205.209.118.30:3138,United States,New Jersey
+160.19.84.23:61943,Indonesia,South Sumatra
+38.191.165.230:8080,Indonesia,Central Java
+38.158.83.241:999,Peru,Arequipa
+49.147.122.248:8082,Philippines,Negros Occidental
+203.190.117.122:8123,Indonesia,East Kalimantan
+157.20.233.184:8080,Indonesia,Central Java
+213.178.39.170:8080,Russia,Samara Oblast
+36.37.251.137:8080,Cambodia,Phnom Penh
+189.73.53.94:8080,Brazil,State of Paraná
+188.130.160.209:80,Kazakhstan,Karaganda Region
+85.117.56.115:8080,Georgia,Lower Kartli
+200.59.191.232:999,Venezuela,Trujillo State
+207.248.3.81:999,Chile,Santiago Metropolitan Region
+154.236.191.49:1976,Egypt,Cairo
+177.234.217.82:999,Ecuador,Azuay
+92.62.149.82:8080,Russia,Orenburg Oblast
+72.10.164.178:4337,France,Brittany
+103.204.211.48:32255,Bangladesh,Dhaka Division
+103.109.204.94:8080,Indonesia,East Java
+212.34.137.97:33905,Netherlands,North Holland
+103.48.68.170:83,India,Telangana
+38.52.220.122:999,Dominican Republic,Distrito Nacional
+177.234.194.30:999,Ecuador,Guayas
+158.160.215.167:8123,Russia,Saint Petersburg
+177.234.217.234:999,Ecuador,Pichincha
+45.182.21.165:999,Honduras,Santa Bárbara
+192.214.193.136:8080,France,Île-de-France
+35.180.127.14:1001,Sweden,Stockholm County
+157.15.66.120:8080,Indonesia,East Java
+189.196.45.158:999,Mexico,Durango
+58.187.104.67:2070,Vietnam,Nam Dinh province
+203.150.172.151:8080,Thailand,Pathum Thani Province
+202.51.106.229:8080,Indonesia,Special Capital Region of Jakarta
+120.238.159.228:22222,China,Guangdong Province
+165.225.46.46:10002,United States,California
+94.176.3.109:7443,Netherlands,North Holland
+187.190.127.212:80,Mexico,Jalisco
+38.194.246.34:999,Mexico,Guanajuato
+94.176.3.109:7443,Netherlands,North Holland
+119.93.201.156:8082,Philippines,Metro Manila
+150.107.140.238:3128,Indonesia,Jawa Barat
+102.209.18.68:8080,Kenya,Kiambu
+103.165.155.68:1111,Indonesia,Banten
+193.181.35.104:8118,Sweden,Stockholm County
+202.57.25.80:8080,Indonesia,Central Java
+194.124.36.14:8080,Turkey,İstanbul
+36.88.150.66:8080,Indonesia,Special Capital Region of Jakarta
+189.7.145.111:3128,Brazil,State of Rio Grande do Sul
+103.126.86.91:7777,Indonesia,Central Java
+121.204.158.249:3128,China,Fujian
+38.7.195.53:999,Chile,Santiago Metropolitan Region
+163.61.76.70:8088,Indonesia,East Java
+38.191.204.146:999,Colombia,Meta
+103.156.217.101:1111,Indonesia,Special Capital Region of Jakarta
+103.204.208.211:8080,Bangladesh,Khulna Division
+176.117.104.88:8080,Turkey,İstanbul
+157.230.106.35:8080,Germany,Hesse
+143.255.85.180:999,Venezuela,Merida State
+103.156.16.189:8080,Indonesia,Jawa Barat
+52.188.28.218:3128,United States,District of Columbia
+147.75.202.36:10001,United States,California
+200.24.130.150:999,Ecuador,Los Ríos
+212.110.188.201:34408,United Kingdom,England
+202.5.56.227:11726,Bangladesh,Chattogram Division
+205.209.118.30:3138,United States,New Jersey
+58.137.174.101:8080,Thailand,Bangkok
+103.160.182.125:8080,Indonesia,East Java
+190.60.45.83:999,Colombia,Antioquia
+200.24.130.149:999,Ecuador,Los Ríos
+45.230.169.5:999,Venezuela,Capital District
+103.155.197.103:8080,Indonesia,Jawa Barat
+103.48.68.170:83,India,Telangana
+212.110.188.203:34410,United Kingdom,England
+38.224.21.1:999,Colombia,Valle del Cauca
+45.136.198.40:3128,Bulgaria,Sofia-city
+217.217.254.94:8080,Singapore,Southeast
+170.239.205.74:8080,Colombia,Bogota
+45.136.198.40:3128,Bulgaria,Sofia-city
+177.130.104.106:33333,Brazil,State of São Paulo
+200.59.186.176:999,Venezuela,Trujillo State
+217.217.254.94:8080,Singapore,Southeast
+122.53.59.59:8080,Philippines,Metro Manila
+213.230.110.191:3128,Uzbekistan,Yunusabad district
+43.130.6.42:80,United States,California
+103.159.96.171:3122,Indonesia,East Java
+217.26.67.57:3180,Serbia,Central Serbia
+176.119.16.40:8534,Russia,Republic of Khakassia
+58.187.104.67:2120,Vietnam,Nam Dinh province
+103.15.140.177:44759,Bangladesh,Dhaka Division
+5.180.180.32:1080,Netherlands,North Holland
+84.51.15.250:32650,Turkey,İstanbul
+119.82.240.46:6060,Indonesia,Central Java
+103.195.142.50:8180,Indonesia,South Sulawesi
+36.66.130.147:8080,Indonesia,Special Capital Region of Jakarta
+163.61.55.173:1111,Indonesia,East Java
+117.159.239.47:22222,China,Shanghai
+43.130.6.42:80,United States,California
+121.204.158.249:3128,China,Fujian
+45.151.182.9:3128,Russia,Moscow
+200.59.10.42:999,Argentina,Buenos Aires
+177.125.208.1:8080,Brazil,State of Rio de Janeiro
+200.59.186.179:999,Venezuela,Trujillo State
+37.187.109.70:10111,France,Hauts-de-France
+181.49.100.190:8080,Colombia,Bogota
+128.199.120.45:9090,Singapore,Southeast
+175.139.208.65:8080,Malaysia,Selangor
+158.160.215.167:8126,Russia,Moscow
+140.238.242.189:8100,India,Maharashtra
+221.202.27.194:10809,China,Liaoning
+195.133.41.113:1080,Netherlands,North Holland
+103.54.43.131:8080,Bangladesh,Dhaka Division
+154.19.38.197:8080,Indonesia,Central Java
+103.172.42.105:1111,Indonesia,Jawa Barat
+150.107.140.238:3128,Indonesia,Jawa Barat
+202.5.34.54:30126,Bangladesh,Dhaka Division
+157.230.106.35:8080,Germany,Hesse
+36.92.140.113:8080,Indonesia,Special Capital Region of Jakarta
+186.190.224.86:999,Colombia,Meta
+220.197.44.36:3128,China,Guizhou
