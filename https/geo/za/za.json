@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "https://129.151.160.199:443",
+    "tested_at": "2026-02-13T22:47:24Z",
+    "ip": "129.151.160.199",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Gauteng",
+    "region_code": "GT",
+    "city": "Edenvale",
+    "latitude": -26.1326268,
+    "longitude": 28.1766294,
+    "is_eu": false,
+    "postal": "1610",
+    "connection": {
+      "asn": 31898,
+      "org": "Oracle Corporation",
+      "isp": "Oracle Corporation",
+      "domain": "oracle.com"
+    }
+  }
+]

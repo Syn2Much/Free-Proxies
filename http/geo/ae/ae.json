@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://38.180.26.208:3128",
+    "tested_at": "2026-02-13T22:47:53Z",
+    "ip": "38.180.26.41",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "region": "Dubai",
+    "region_code": "DU",
+    "city": "Dubai",
+    "latitude": 25.2048493,
+    "longitude": 55.2707828,
+    "is_eu": false,
+    "postal": "39205",
+    "connection": {
+      "asn": 9009,
+      "org": "Cogent Communications",
+      "isp": "M Europe SRL",
+      "domain": "3nt.com"
+    }
+  }
+]

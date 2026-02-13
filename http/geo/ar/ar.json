@@ -1,0 +1,94 @@
+[
+  {
+    "proxy": "http://191.97.96.86:8080",
+    "tested_at": "2026-02-13T22:47:35Z",
+    "ip": "191.97.96.86",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Río Negro",
+    "region_code": "R",
+    "city": "General Roca",
+    "latitude": -39.032803,
+    "longitude": -67.5892227,
+    "is_eu": false,
+    "postal": "8332",
+    "connection": {
+      "asn": 263213,
+      "org": "VISION NET",
+      "isp": "VISION NET",
+      "domain": "sierravision.com.ar"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:31285",
+    "tested_at": "2026-02-13T22:47:45Z",
+    "ip": "132.255.113.91",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Mendoza",
+    "region_code": "M",
+    "city": "San Rafael",
+    "latitude": -34.6128922,
+    "longitude": -68.3390622,
+    "is_eu": false,
+    "postal": "5600",
+    "connection": {
+      "asn": 52436,
+      "org": "Cable Televisora Color",
+      "isp": "Cable Televisora Color",
+      "domain": "cabletelevisoracolor.com"
+    }
+  },
+  {
+    "proxy": "http://181.209.72.174:999",
+    "tested_at": "2026-02-13T22:48:09Z",
+    "ip": "181.209.72.174",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Corrientes",
+    "region_code": "W",
+    "city": "Empedrado",
+    "latitude": -27.952497,
+    "longitude": -58.8031921,
+    "is_eu": false,
+    "postal": "3400",
+    "connection": {
+      "asn": 52361,
+      "org": "CHAB DIGITAL SRL",
+      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
+      "domain": "chabdigital.com.ar"
+    }
+  },
+  {
+    "proxy": "http://200.114.81.219:8080",
+    "tested_at": "2026-02-13T22:48:12Z",
+    "ip": "200.114.81.20",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Corrientes",
+    "region_code": "W",
+    "city": "Saladas",
+    "latitude": -28.2557422,
+    "longitude": -58.6233566,
+    "is_eu": false,
+    "postal": "3420",
+    "connection": {
+      "asn": 273088,
+      "org": "SIGOT ALEXIS RAUL SPEED INTERNET",
+      "isp": "SIGOT ALEXIS RAUL SPEED INTERNET",
+      "domain": "speedinternet.com.ar"
+    }
+  }
+]

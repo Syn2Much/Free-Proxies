@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://72.10.164.178:29739",
+    "tested_at": "2026-02-13T22:47:56Z",
+    "ip": "186.188.192.231",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Panama",
+    "country_code": "PA",
+    "region": "Panamá Oeste",
+    "region_code": "10",
+    "city": "Nuevo Chorrillo",
+    "latitude": 8.9595293,
+    "longitude": -79.6947706,
+    "is_eu": false,
+    "postal": "1001",
+    "connection": {
+      "asn": 18809,
+      "org": "Cable Onda",
+      "isp": "Cable Onda",
+      "domain": "cableonda.com"
+    }
+  }
+]

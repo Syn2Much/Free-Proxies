@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://195.189.190.245:9090",
+    "tested_at": "2026-02-13T22:48:17Z",
+    "ip": "195.189.190.245",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Spain",
+    "country_code": "ES",
+    "region": "Las Palmas",
+    "region_code": "GC",
+    "city": "Mácher",
+    "latitude": 28.9484605,
+    "longitude": -13.6837399,
+    "is_eu": true,
+    "postal": "35571",
+    "connection": {
+      "asn": 207906,
+      "org": "SUBALLOCATED IT1",
+      "isp": "VERITA NETWORKS SOCIEDAD LIMITADA",
+      "domain": "veritanetworks.com"
+    }
+  }
+]

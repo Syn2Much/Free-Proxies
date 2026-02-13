@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "https://65.109.40.163:8443",
+    "tested_at": "2026-02-13T22:48:04Z",
+    "ip": "95.217.220.211",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Finland",
+    "country_code": "FI",
+    "region": "Mainland Finland",
+    "region_code": "",
+    "city": "Helsinki",
+    "latitude": 60.1698557,
+    "longitude": 24.938379,
+    "is_eu": true,
+    "postal": "02101",
+    "connection": {
+      "asn": 24940,
+      "org": "Hetzner Online GmbH",
+      "isp": "Hetzner Online GmbH",
+      "domain": "hetzner.com"
+    }
+  }
+]

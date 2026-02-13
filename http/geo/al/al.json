@@ -1,0 +1,48 @@
+[
+  {
+    "proxy": "http://79.106.165.246:8989",
+    "tested_at": "2026-02-13T22:47:38Z",
+    "ip": "79.106.165.246",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Albania",
+    "country_code": "AL",
+    "region": "Southern Albania",
+    "region_code": "",
+    "city": "Korçë",
+    "latitude": 40.6140785,
+    "longitude": 20.7778071,
+    "is_eu": false,
+    "postal": "7001",
+    "connection": {
+      "asn": 42313,
+      "org": "TEST",
+      "isp": "ONE ALBANIA SH.A.",
+      "domain": "one.al"
+    }
+  },
+  {
+    "proxy": "http://79.106.36.85:8989",
+    "tested_at": "2026-02-13T22:47:55Z",
+    "ip": "79.106.36.83",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Albania",
+    "country_code": "AL",
+    "region": "Central Albania",
+    "region_code": "",
+    "city": "Tirana",
+    "latitude": 41.3275459,
+    "longitude": 19.8186982,
+    "is_eu": false,
+    "postal": "1051",
+    "connection": {
+      "asn": 42313,
+      "org": "TEST 0",
+      "isp": "ONE ALBANIA SH.A.",
+      "domain": "one.al"
+    }
+  }
+]

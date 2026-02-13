@@ -1,0 +1,117 @@
+[
+  {
+    "proxy": "http://41.185.72.62:3030",
+    "tested_at": "2026-02-13T22:47:23Z",
+    "ip": "41.185.72.62",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Western Cape",
+    "region_code": "WC",
+    "city": "Cape Town",
+    "latitude": -33.9248685,
+    "longitude": 18.4240553,
+    "is_eu": false,
+    "postal": "8001",
+    "connection": {
+      "asn": 36943,
+      "org": "1 grid",
+      "isp": "1 GRID PTY LTD",
+      "domain": "1-grid.com"
+    }
+  },
+  {
+    "proxy": "http://102.66.104.162:8865",
+    "tested_at": "2026-02-13T22:47:25Z",
+    "ip": "102.66.104.162",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Mpumalanga",
+    "region_code": "MP",
+    "city": "Acornhoek",
+    "latitude": -24.6056556,
+    "longitude": 31.0874925,
+    "is_eu": false,
+    "postal": "1360",
+    "connection": {
+      "asn": 328471,
+      "org": "Herotel Ra Subscriber Block A",
+      "isp": "HERO TELECOMS PTY LTD",
+      "domain": "herotel.com"
+    }
+  },
+  {
+    "proxy": "http://156.155.50.93:8080",
+    "tested_at": "2026-02-13T22:47:27Z",
+    "ip": "156.155.50.93",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "KwaZulu-Natal",
+    "region_code": "KZN",
+    "city": "Durban",
+    "latitude": -29.8586804,
+    "longitude": 31.0218404,
+    "is_eu": false,
+    "postal": "4023",
+    "connection": {
+      "asn": 37611,
+      "org": "Axxess Networks",
+      "isp": "AFRIHOST SP PTY LTD",
+      "domain": "axxess.co.za"
+    }
+  },
+  {
+    "proxy": "http://196.251.221.2:8104",
+    "tested_at": "2026-02-13T22:48:00Z",
+    "ip": "196.251.222.154",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Gauteng",
+    "region_code": "GT",
+    "city": "Johannesburg",
+    "latitude": -26.2041028,
+    "longitude": 28.0473051,
+    "is_eu": false,
+    "postal": "2001",
+    "connection": {
+      "asn": 37403,
+      "org": "Infogro Dsl",
+      "isp": "Info gro pty LTD",
+      "domain": "infogro.net"
+    }
+  },
+  {
+    "proxy": "http://102.217.139.31:8180",
+    "tested_at": "2026-02-13T22:48:20Z",
+    "ip": "102.217.139.31",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Western Cape",
+    "region_code": "WC",
+    "city": "Cape Town",
+    "latitude": -34.1340882,
+    "longitude": 18.4187029,
+    "is_eu": false,
+    "postal": "7975",
+    "connection": {
+      "asn": 329181,
+      "org": "Bluedog Technology",
+      "isp": "Bluedog Technology",
+      "domain": "bluedogtech.co.za"
+    }
+  }
+]

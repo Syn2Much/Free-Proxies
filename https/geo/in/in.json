@@ -1,0 +1,48 @@
+[
+  {
+    "proxy": "https://45.114.142.178:443",
+    "tested_at": "2026-02-13T22:47:54Z",
+    "ip": "45.114.142.178",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "India",
+    "country_code": "IN",
+    "region": "Telangana",
+    "region_code": "TG",
+    "city": "Hyderabad",
+    "latitude": 17.385044,
+    "longitude": 78.486671,
+    "is_eu": false,
+    "postal": "500002",
+    "connection": {
+      "asn": 18229,
+      "org": "Psr Holdings Private Limited",
+      "isp": "CtrlS",
+      "domain": "psrholdings.in"
+    }
+  },
+  {
+    "proxy": "https://165.231.253.242:443",
+    "tested_at": "2026-02-13T22:48:14Z",
+    "ip": "165.231.253.253",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "India",
+    "country_code": "IN",
+    "region": "Delhi",
+    "region_code": "DL",
+    "city": "New Delhi",
+    "latitude": 28.6139391,
+    "longitude": 77.2090212,
+    "is_eu": false,
+    "postal": "110001",
+    "connection": {
+      "asn": 41564,
+      "org": "Fiber Grid",
+      "isp": "Orion Network Limited",
+      "domain": "fibergrid.co.za"
+    }
+  }
+]

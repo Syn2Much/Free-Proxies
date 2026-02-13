@@ -1,0 +1,94 @@
+[
+  {
+    "proxy": "http://138.118.200.49:999",
+    "tested_at": "2026-02-13T22:47:29Z",
+    "ip": "138.118.200.80",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Zulia State",
+    "region_code": "V",
+    "city": "La Concepcion",
+    "latitude": 10.4136422,
+    "longitude": -71.6999646,
+    "is_eu": false,
+    "postal": "4033",
+    "connection": {
+      "asn": 270073,
+      "org": "IGUANA NETWORK SERVICES C.A.",
+      "isp": "IGUANA NETWORK SERVICES C.A.",
+      "domain": "iguananetworkservices.net"
+    }
+  },
+  {
+    "proxy": "http://190.97.249.30:999",
+    "tested_at": "2026-02-13T22:47:31Z",
+    "ip": "190.97.249.17",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Lara State",
+    "region_code": "K",
+    "city": "Barquisimeto",
+    "latitude": 10.0677719,
+    "longitude": -69.3473509,
+    "is_eu": false,
+    "postal": "3001",
+    "connection": {
+      "asn": 263703,
+      "org": "VIGINET C.A",
+      "isp": "VIGINET C.A",
+      "domain": "viginet.com.ve"
+    }
+  },
+  {
+    "proxy": "http://190.94.213.80:999",
+    "tested_at": "2026-02-13T22:47:51Z",
+    "ip": "190.94.213.80",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Capital District",
+    "region_code": "A",
+    "city": "Caracas",
+    "latitude": 10.4805937,
+    "longitude": -66.9036063,
+    "is_eu": false,
+    "postal": "1012",
+    "connection": {
+      "asn": 8053,
+      "org": "Ifx Networks Venezuela C.A.",
+      "isp": "Ifx Networks Venezuela C.A.",
+      "domain": "ifxnw.com.ve"
+    }
+  },
+  {
+    "proxy": "http://190.94.212.198:999",
+    "tested_at": "2026-02-13T22:48:17Z",
+    "ip": "190.94.212.198",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Capital District",
+    "region_code": "A",
+    "city": "Caracas",
+    "latitude": 10.4805937,
+    "longitude": -66.9036063,
+    "is_eu": false,
+    "postal": "1012",
+    "connection": {
+      "asn": 8053,
+      "org": "Ifx Networks Venezuela C.A.",
+      "isp": "Ifx Networks Venezuela C.A.",
+      "domain": "ifxnw.com.ve"
+    }
+  }
+]

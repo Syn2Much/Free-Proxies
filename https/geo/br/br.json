@@ -1,0 +1,140 @@
+[
+  {
+    "proxy": "https://47.243.181.85:41804",
+    "tested_at": "2026-02-13T22:47:25Z",
+    "ip": "2804:5b04:42c:df01:88e9:4856:ed22:6700",
+    "success": true,
+    "type": "IPv6",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "Pará",
+    "region_code": "PA",
+    "city": "Santana do Araguaia",
+    "latitude": -9.3356812,
+    "longitude": -50.3382157,
+    "is_eu": false,
+    "postal": "68560-000",
+    "connection": {
+      "asn": 268813,
+      "org": "Freitas Sistema De Comunica o Internet Eireli me",
+      "isp": "Freitas Sistema De Comunica o Internet Eireli me",
+      "domain": "netmil.com.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41795",
+    "tested_at": "2026-02-13T22:47:25Z",
+    "ip": "168.228.215.92",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "Goiás",
+    "region_code": "GO",
+    "city": "Rua Boa Vista",
+    "latitude": -14.3080951,
+    "longitude": -47.2900296,
+    "is_eu": false,
+    "postal": "73760-000",
+    "connection": {
+      "asn": 264930,
+      "org": "Conecta Up",
+      "isp": "Conecta Up",
+      "domain": "conectasja.com.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41799",
+    "tested_at": "2026-02-13T22:47:26Z",
+    "ip": "45.164.117.26",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "Rio Grande do Norte",
+    "region_code": "RN",
+    "city": "Mossoró",
+    "latitude": -5.1841285,
+    "longitude": -37.3477805,
+    "is_eu": false,
+    "postal": "59600-200",
+    "connection": {
+      "asn": 268615,
+      "org": "Inforseven .",
+      "isp": "Inforseven .",
+      "domain": "inforseven.com.br"
+    }
+  },
+  {
+    "proxy": "https://134.65.238.25:3128",
+    "tested_at": "2026-02-13T22:47:33Z",
+    "ip": "134.65.238.25",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of Minas Gerais",
+    "region_code": "MG",
+    "city": "Florestal",
+    "latitude": -19.8885078,
+    "longitude": -44.432162,
+    "is_eu": false,
+    "postal": "35690-000",
+    "connection": {
+      "asn": 31898,
+      "org": "Oracle Corporation",
+      "isp": "Oracle Corporation",
+      "domain": "oracle.com"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41797",
+    "tested_at": "2026-02-13T22:47:36Z",
+    "ip": "2804:29b8:508e:f860:f513:1f5e:161:885f",
+    "success": true,
+    "type": "IPv6",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "Paraíba",
+    "region_code": "PB",
+    "city": "João Pessoa",
+    "latitude": -7.1194958,
+    "longitude": -34.8450118,
+    "is_eu": false,
+    "postal": "58013-131",
+    "connection": {
+      "asn": 28126,
+      "org": "BRISANET SERVICOS DE TELECOMUNICACOES S.A",
+      "isp": "BRISANET SERVICOS DE TELECOMUNICACOES S.A",
+      "domain": "grupobrisanet.com.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41803",
+    "tested_at": "2026-02-13T22:47:56Z",
+    "ip": "2804:1b2:2044:4916:79f8:6577:5336:a4a5",
+    "success": true,
+    "type": "IPv6",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of Pernambuco",
+    "region_code": "PE",
+    "city": "Recife",
+    "latitude": -8.0578381,
+    "longitude": -34.8828969,
+    "is_eu": false,
+    "postal": "50060-080",
+    "connection": {
+      "asn": 18881,
+      "org": "TELEF NICA BRASIL S.A",
+      "isp": "TELEF NICA BRASIL S.A",
+      "domain": "telefonica.com.br"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "https://37.120.213.210:9443",
+    "tested_at": "2026-02-13T22:47:23Z",
+    "ip": "37.120.213.216",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "region": "Zurich",
+    "region_code": "ZH",
+    "city": "Zürich",
+    "latitude": 47.3768866,
+    "longitude": 8.541694,
+    "is_eu": false,
+    "postal": "8001",
+    "connection": {
+      "asn": 9009,
+      "org": "M LTD Zurich",
+      "isp": "M Europe SRL",
+      "domain": "m247.ro"
+    }
+  }
+]

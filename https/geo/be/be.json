@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "https://35.205.61.211:3128",
+    "tested_at": "2026-02-13T22:48:05Z",
+    "ip": "35.205.61.211",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Belgium",
+    "country_code": "BE",
+    "region": "Brussels-Capital",
+    "region_code": "",
+    "city": "Brussels",
+    "latitude": 50.8503396,
+    "longitude": 4.3517103,
+    "is_eu": true,
+    "postal": "1000",
+    "connection": {
+      "asn": 396982,
+      "org": "Google LLC",
+      "isp": "Google LLC",
+      "domain": "google.com"
+    }
+  }
+]

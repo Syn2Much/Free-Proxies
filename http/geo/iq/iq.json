@@ -1,0 +1,48 @@
+[
+  {
+    "proxy": "http://37.238.63.49:8080",
+    "tested_at": "2026-02-13T22:47:32Z",
+    "ip": "37.237.229.128",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Baghdad Governorate",
+    "region_code": "BG",
+    "city": "Baghdad",
+    "latitude": 33.3128057,
+    "longitude": 44.3614875,
+    "is_eu": false,
+    "postal": "10001",
+    "connection": {
+      "asn": 199739,
+      "org": "Earthlink Ltd. Communications internet Services orange",
+      "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
+      "domain": "earthlink.iq"
+    }
+  },
+  {
+    "proxy": "http://37.238.63.45:8082",
+    "tested_at": "2026-02-13T22:47:38Z",
+    "ip": "37.237.229.128",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Baghdad Governorate",
+    "region_code": "BG",
+    "city": "Baghdad",
+    "latitude": 33.3128057,
+    "longitude": 44.3614875,
+    "is_eu": false,
+    "postal": "10001",
+    "connection": {
+      "asn": 199739,
+      "org": "Earthlink Ltd. Communications internet Services orange",
+      "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
+      "domain": "earthlink.iq"
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "proxy": "https://47.240.86.21:3128",
+    "tested_at": "2026-02-13T22:47:33Z",
+    "ip": "47.240.86.21",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.276022,
+    "longitude": 114.1751471,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 45102,
+      "org": "Alibaba Cloud Hk",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibabacloud.com"
+    }
+  },
+  {
+    "proxy": "https://47.242.121.18:8443",
+    "tested_at": "2026-02-13T22:47:48Z",
+    "ip": "47.242.121.18",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.276022,
+    "longitude": 114.1751471,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 45102,
+      "org": "Alibaba Cloud Hk",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibabacloud.com"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:28085",
+    "tested_at": "2026-02-13T22:48:04Z",
+    "ip": "47.243.181.85",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.276022,
+    "longitude": 114.1751471,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 45102,
+      "org": "Alibaba Cloud Hk",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibabacloud.com"
+    }
+  },
+  {
+    "proxy": "https://20.205.138.223:443",
+    "tested_at": "2026-02-13T22:48:08Z",
+    "ip": "20.205.138.223",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.276022,
+    "longitude": 114.1751471,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 8075,
+      "org": "Microsoft Corporation",
+      "isp": "Microsoft Corporation",
+      "domain": "microsoft.com"
+    }
+  }
+]

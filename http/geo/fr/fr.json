@@ -1,0 +1,94 @@
+[
+  {
+    "proxy": "http://185.41.152.110:3128",
+    "tested_at": "2026-02-13T22:47:43Z",
+    "ip": "185.41.152.110",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Grand Est",
+    "region_code": "GES",
+    "city": "Marly",
+    "latitude": 49.059828,
+    "longitude": 6.154795,
+    "is_eu": true,
+    "postal": "57155",
+    "connection": {
+      "asn": 197922,
+      "org": "FIRSTHEBERG",
+      "isp": "Techcrea Solutions SAS",
+      "domain": "techcrea.fr"
+    }
+  },
+  {
+    "proxy": "http://164.132.248.251:80",
+    "tested_at": "2026-02-13T22:48:02Z",
+    "ip": "164.132.248.251",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "is_eu": true,
+    "postal": "75007",
+    "connection": {
+      "asn": 16276,
+      "org": "OVH SAS",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
+    }
+  },
+  {
+    "proxy": "http://94.183.188.7:6891",
+    "tested_at": "2026-02-13T22:48:12Z",
+    "ip": "94.183.188.7",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "is_eu": true,
+    "postal": "75007",
+    "connection": {
+      "asn": 56971,
+      "org": "CGI GLOBAL LIMITED",
+      "isp": "CGI GLOBAL LIMITED",
+      "domain": "cloudbackbone.net"
+    }
+  },
+  {
+    "proxy": "http://62.23.184.84:8080",
+    "tested_at": "2026-02-13T22:48:21Z",
+    "ip": "62.23.184.84",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "is_eu": true,
+    "postal": "75007",
+    "connection": {
+      "asn": 8220,
+      "org": "",
+      "isp": "Colt Technology Services",
+      "domain": ""
+    }
+  }
+]

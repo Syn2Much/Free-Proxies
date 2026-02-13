@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://185.4.29.243:7887",
+    "tested_at": "2026-02-13T22:48:11Z",
+    "ip": "185.4.29.243",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iran",
+    "country_code": "IR",
+    "region": "Tehran Province",
+    "region_code": "23",
+    "city": "Tehran",
+    "latitude": 35.7952267,
+    "longitude": 51.4322706,
+    "is_eu": false,
+    "postal": "1317947564",
+    "connection": {
+      "asn": 61173,
+      "org": "Green Web Samaneh Novin Co LTD",
+      "isp": "Green Web Samaneh Novin Pjsc",
+      "domain": "greenweb.ir"
+    }
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "proxy": "http://116.90.224.50:8080",
+    "tested_at": "2026-02-13T22:48:08Z",
+    "ip": "116.90.224.50",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Nepal",
+    "country_code": "NP",
+    "region": "Bagmati Pradesh",
+    "region_code": "",
+    "city": "Kathmandu",
+    "latitude": 27.7172453,
+    "longitude": 85.3239605,
+    "is_eu": false,
+    "postal": "46600",
+    "connection": {
+      "asn": 24550,
+      "org": "Websurfer Nepal Communication System Pvt. LTD",
+      "isp": "Websurfer Nepal Communication System Pvt. LTD",
+      "domain": "websurfer.com.np"
+    }
+  },
+  {
+    "proxy": "http://103.1.93.184:55443",
+    "tested_at": "2026-02-13T22:48:09Z",
+    "ip": "103.1.93.184",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Nepal",
+    "country_code": "NP",
+    "region": "Bagmati Pradesh",
+    "region_code": "",
+    "city": "Kathmandu",
+    "latitude": 27.7172453,
+    "longitude": 85.3239605,
+    "is_eu": false,
+    "postal": "46600",
+    "connection": {
+      "asn": 55915,
+      "org": "Classic Tech Pvt. Ltd.",
+      "isp": "Classic Tech Pvt. Ltd.",
+      "domain": "classic.com.np"
+    }
+  }
+]

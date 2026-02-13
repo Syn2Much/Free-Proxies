@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "https://148.233.136.213:443",
+    "tested_at": "2026-02-13T22:48:14Z",
+    "ip": "200.34.32.138",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Mexico",
+    "country_code": "MX",
+    "region": "Hidalgo",
+    "region_code": "HID",
+    "city": "Pachuca",
+    "latitude": 20.1010608,
+    "longitude": -98.7591311,
+    "is_eu": false,
+    "postal": "42000",
+    "connection": {
+      "asn": 8151,
+      "org": "Gesti n De Direccionamiento Uninet",
+      "isp": "UNINET",
+      "domain": "uninet.com.mx"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://72.10.164.178:4895",
+    "tested_at": "2026-02-13T22:48:16Z",
+    "ip": "46.184.188.246",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Bahrain",
+    "country_code": "BH",
+    "region": "Capital Governorate",
+    "region_code": "",
+    "city": "Manama",
+    "latitude": 26.2285161,
+    "longitude": 50.5860497,
+    "is_eu": false,
+    "postal": "309",
+    "connection": {
+      "asn": 51375,
+      "org": "Broadband",
+      "isp": "STC BAHRAIN B.S.C CLOSED",
+      "domain": "stc.com.bh"
+    }
+  }
+]

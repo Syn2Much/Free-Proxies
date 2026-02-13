@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://5.83.244.250:8080",
+    "tested_at": "2026-02-13T22:48:19Z",
+    "ip": "5.83.244.250",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ireland",
+    "country_code": "IE",
+    "region": "Leinster",
+    "region_code": "L",
+    "city": "Athlone",
+    "latitude": 53.4239331,
+    "longitude": -7.9406898,
+    "is_eu": true,
+    "postal": "N37 PV34",
+    "connection": {
+      "asn": 57791,
+      "org": "EURONA BRISKNETT",
+      "isp": "Arden Broadband LTD",
+      "domain": "eurona.ie"
+    }
+  }
+]

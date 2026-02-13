@@ -1,0 +1,140 @@
+[
+  {
+    "proxy": "http://38.188.247.12:999",
+    "tested_at": "2026-02-13T22:47:37Z",
+    "ip": "38.44.17.142",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Monte Plata",
+    "region_code": "29",
+    "city": "Yamasá",
+    "latitude": 18.7727461,
+    "longitude": -70.0250065,
+    "is_eu": false,
+    "postal": "92000",
+    "connection": {
+      "asn": 272083,
+      "org": "Cogent Communications",
+      "isp": "REYNOSO, S.R.L.",
+      "domain": "reynosord.com"
+    }
+  },
+  {
+    "proxy": "http://38.156.236.186:999",
+    "tested_at": "2026-02-13T22:47:37Z",
+    "ip": "38.156.236.178",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Distrito Nacional",
+    "region_code": "01",
+    "city": "Santo Domingo",
+    "latitude": 18.4610416,
+    "longitude": -69.9277577,
+    "is_eu": false,
+    "postal": "10119",
+    "connection": {
+      "asn": 272882,
+      "org": "BITNET DOMINICANA, S.R.L.",
+      "isp": "BITNET DOMINICANA, S.R.L.",
+      "domain": "bitnet.com.do"
+    }
+  },
+  {
+    "proxy": "http://170.80.203.40:999",
+    "tested_at": "2026-02-13T22:47:51Z",
+    "ip": "170.80.203.34",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Santiago",
+    "region_code": "25",
+    "city": "Santiago De Los Caballeros",
+    "latitude": 19.4791963,
+    "longitude": -70.6930568,
+    "is_eu": false,
+    "postal": "51000",
+    "connection": {
+      "asn": 271819,
+      "org": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
+      "isp": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
+      "domain": "rgdimax.com"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:23021",
+    "tested_at": "2026-02-13T22:47:54Z",
+    "ip": "128.201.114.143",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Espaillat",
+    "region_code": "09",
+    "city": "Gaspar Hernandez",
+    "latitude": 19.6294953,
+    "longitude": -70.2795243,
+    "is_eu": false,
+    "postal": "56000",
+    "connection": {
+      "asn": 265721,
+      "org": "Cable Atlantico SRL",
+      "isp": "Cable Atlantico SRL",
+      "domain": "cableatlantico.com"
+    }
+  },
+  {
+    "proxy": "http://38.253.86.11:999",
+    "tested_at": "2026-02-13T22:48:14Z",
+    "ip": "38.253.86.43",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Puerto Plata",
+    "region_code": "18",
+    "city": "Maimón",
+    "latitude": 19.8224199,
+    "longitude": -70.7792902,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 273048,
+      "org": "Cogent Communications",
+      "isp": "WIMAS, S.R.L.",
+      "domain": "wimas-srl.com"
+    }
+  },
+  {
+    "proxy": "http://177.200.239.141:999",
+    "tested_at": "2026-02-13T22:48:21Z",
+    "ip": "177.200.239.141",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Santiago",
+    "region_code": "25",
+    "city": "Santiago De Los Caballeros",
+    "latitude": 19.4791963,
+    "longitude": -70.6930568,
+    "is_eu": false,
+    "postal": "51000",
+    "connection": {
+      "asn": 269983,
+      "org": "ESQUIRE CORPORATE SERVICES, S.R.L.",
+      "isp": "ESQUIRE CORPORATE SERVICES, S.R.L.",
+      "domain": "esquirecs.com"
+    }
+  }
+]

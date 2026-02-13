@@ -1,0 +1,48 @@
+[
+  {
+    "proxy": "http://91.238.104.171:2023",
+    "tested_at": "2026-02-13T22:48:14Z",
+    "ip": "91.238.104.171",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Kyiv city",
+    "region_code": "30",
+    "city": "Kyiv",
+    "latitude": 50.4501,
+    "longitude": 30.5234,
+    "is_eu": false,
+    "postal": "01001",
+    "connection": {
+      "asn": 50321,
+      "org": "Fop Reznichenko Sergey Mykolayovich",
+      "isp": "Fop Reznichenko Sergey Mykolayovich",
+      "domain": "bytes.ua"
+    }
+  },
+  {
+    "proxy": "http://176.37.21.46:41890",
+    "tested_at": "2026-02-13T22:48:18Z",
+    "ip": "176.37.21.46",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Kyiv city",
+    "region_code": "30",
+    "city": "Kyiv",
+    "latitude": 50.4501,
+    "longitude": 30.5234,
+    "is_eu": false,
+    "postal": "01001",
+    "connection": {
+      "asn": 39608,
+      "org": "Lanet Network LTD",
+      "isp": "Lanet Network LTD",
+      "domain": "lanet.ua"
+    }
+  }
+]

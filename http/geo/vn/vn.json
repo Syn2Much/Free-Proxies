@@ -1,0 +1,163 @@
+[
+  {
+    "proxy": "http://118.70.13.38:41857",
+    "tested_at": "2026-02-13T22:47:32Z",
+    "ip": "118.70.13.38",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Hanoi",
+    "region_code": "HN",
+    "city": "Hanoi",
+    "latitude": 21.0277644,
+    "longitude": 105.8341598,
+    "is_eu": false,
+    "postal": "110905",
+    "connection": {
+      "asn": 18403,
+      "org": "Dai Ip Dong Ket Noi Xdsl",
+      "isp": "Fpt Telecom Company",
+      "domain": "fpt.com"
+    }
+  },
+  {
+    "proxy": "http://103.3.246.71:3128",
+    "tested_at": "2026-02-13T22:47:36Z",
+    "ip": "103.3.246.71",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Tien Giang province",
+    "region_code": "46",
+    "city": "Tân Phú",
+    "latitude": 10.7900517,
+    "longitude": 106.6281901,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 135967,
+      "org": "New Vision Trading Co.,ltd",
+      "isp": "Bach Kim Network Solutions Join Stock Company",
+      "domain": "vdata.vn"
+    }
+  },
+  {
+    "proxy": "http://14.248.84.131:8080",
+    "tested_at": "2026-02-13T22:47:59Z",
+    "ip": "14.248.84.131",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Hanoi",
+    "region_code": "HN",
+    "city": "Hanoi",
+    "latitude": 21.0277644,
+    "longitude": 105.8341598,
+    "is_eu": false,
+    "postal": "110905",
+    "connection": {
+      "asn": 45899,
+      "org": "Vietnam Posts And Telecommunications Group",
+      "isp": "Vnpt Corp",
+      "domain": "vnpt.com.vn"
+    }
+  },
+  {
+    "proxy": "http://110.172.29.131:3128",
+    "tested_at": "2026-02-13T22:48:00Z",
+    "ip": "110.172.29.131",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Ho Chi Minh",
+    "region_code": "SG",
+    "city": "Ho Chi Minh City",
+    "latitude": 10.8230989,
+    "longitude": 106.6296638,
+    "is_eu": false,
+    "postal": "708000",
+    "connection": {
+      "asn": 135918,
+      "org": "Contabo Company Limited",
+      "isp": "VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",
+      "domain": "contabo.vn"
+    }
+  },
+  {
+    "proxy": "http://113.160.130.82:443",
+    "tested_at": "2026-02-13T22:48:07Z",
+    "ip": "113.160.130.82",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Hải Dương Province",
+    "region_code": "61",
+    "city": "Chí Linh",
+    "latitude": 21.1132497,
+    "longitude": 106.3031948,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 45899,
+      "org": "Vietnam Posts And Telecommunications Group",
+      "isp": "Vnpt Corp",
+      "domain": "vnpt.com.vn"
+    }
+  },
+  {
+    "proxy": "http://58.187.104.67:2113",
+    "tested_at": "2026-02-13T22:48:09Z",
+    "ip": "58.187.104.105",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Nam Dinh province",
+    "region_code": "67",
+    "city": "Nam Định",
+    "latitude": 20.4388225,
+    "longitude": 106.1621053,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 18403,
+      "org": "Fpt Telecom Company",
+      "isp": "Fpt Telecom Company",
+      "domain": "fpt.net"
+    }
+  },
+  {
+    "proxy": "http://42.115.230.253:10009",
+    "tested_at": "2026-02-13T22:48:18Z",
+    "ip": "1.54.63.120",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Hanoi",
+    "region_code": "HN",
+    "city": "Hanoi",
+    "latitude": 21.0277644,
+    "longitude": 105.8341598,
+    "is_eu": false,
+    "postal": "110905",
+    "connection": {
+      "asn": 18403,
+      "org": "Fpt Telecom Company",
+      "isp": "Fpt Telecom Company",
+      "domain": "fpt.net"
+    }
+  }
+]

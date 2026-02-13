@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://185.115.74.185:8080",
+    "tested_at": "2026-02-13T22:47:24Z",
+    "ip": "185.115.75.43",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "region": "Moravia-Silesia",
+    "region_code": "",
+    "city": "Ostrava",
+    "latitude": 49.8209226,
+    "longitude": 18.2625243,
+    "is_eu": true,
+    "postal": "702 00",
+    "connection": {
+      "asn": 212975,
+      "org": "Teamcity S.R.O.",
+      "isp": "Teamcity S.R.O.",
+      "domain": "teamcity.cz"
+    }
+  }
+]

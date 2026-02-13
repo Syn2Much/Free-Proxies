@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://92.247.12.136:9510",
+    "tested_at": "2026-02-13T22:47:24Z",
+    "ip": "92.247.12.130",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "region": "Sofia-city",
+    "region_code": "",
+    "city": "Sofia",
+    "latitude": 42.6977082,
+    "longitude": 23.3218675,
+    "is_eu": true,
+    "postal": "1000",
+    "connection": {
+      "asn": 8717,
+      "org": "Spectrum Net Sofia",
+      "isp": "A1 Bulgaria Ead",
+      "domain": "a1.bg"
+    }
+  }
+]
