@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://54.249.15.205:38338",
-    "tested_at": "2026-02-13T23:11:40Z",
-    "ip": "203.55.81.2",
+    "proxy": "http://51.159.66.158:3128",
+    "tested_at": "2026-02-13T23:43:07Z",
+    "ip": "51.159.66.158",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,153 +16,15 @@
     "is_eu": true,
     "postal": "75007",
     "connection": {
-      "asn": 213873,
-      "org": "MOJI SAS",
-      "isp": "MOJI SAS",
-      "domain": "moji.fr"
-    }
-  },
-  {
-    "proxy": "http://164.132.248.251:80",
-    "tested_at": "2026-02-13T23:11:55Z",
-    "ip": "164.132.248.251",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 16276,
-      "org": "OVH SAS",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
-    }
-  },
-  {
-    "proxy": "http://141.253.127.218:3169",
-    "tested_at": "2026-02-13T23:12:01Z",
-    "ip": "141.145.198.169",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 31898,
-      "org": "Oracle Svenska Ab",
-      "isp": "Oracle Corporation",
-      "domain": "oracle.com"
-    }
-  },
-  {
-    "proxy": "http://37.187.109.70:10111",
-    "tested_at": "2026-02-13T23:12:02Z",
-    "ip": "2001:41d0:a:6246::1",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Hauts-de-France",
-    "region_code": "HDF",
-    "city": "Roubaix",
-    "latitude": 50.6927049,
-    "longitude": 3.177847,
-    "is_eu": true,
-    "postal": "59100",
-    "connection": {
-      "asn": 16276,
-      "org": "OVH",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
-    }
-  },
-  {
-    "proxy": "http://94.183.188.7:6891",
-    "tested_at": "2026-02-13T23:12:10Z",
-    "ip": "94.183.188.7",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 56971,
-      "org": "CGI GLOBAL LIMITED",
-      "isp": "CGI GLOBAL LIMITED",
-      "domain": "cloudbackbone.net"
-    }
-  },
-  {
-    "proxy": "http://92.119.126.229:8118",
-    "tested_at": "2026-02-13T23:12:11Z",
-    "ip": "92.119.126.229",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Grand Est",
-    "region_code": "GES",
-    "city": "Strasbourg",
-    "latitude": 48.5734053,
-    "longitude": 7.7521113,
-    "is_eu": true,
-    "postal": "67000",
-    "connection": {
-      "asn": 29066,
-      "org": "Racknerd LLC",
-      "isp": "Velia.net Internetdienste GmbH",
-      "domain": "racknerd.com"
-    }
-  },
-  {
-    "proxy": "http://158.178.213.92:3169",
-    "tested_at": "2026-02-13T23:12:11Z",
-    "ip": "141.145.198.169",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 31898,
-      "org": "Oracle Svenska Ab",
-      "isp": "Oracle Corporation",
-      "domain": "oracle.com"
+      "asn": 12876,
+      "org": "Scaleway",
+      "isp": "SCALEWAY S.A.S.",
+      "domain": "scaleway.com"
     }
   },
   {
     "proxy": "http://62.133.62.12:1082",
-    "tested_at": "2026-02-13T23:12:21Z",
+    "tested_at": "2026-02-13T23:43:07Z",
     "ip": "62.133.62.12",
     "success": true,
     "type": "IPv4",
@@ -181,29 +43,6 @@
       "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
       "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
       "domain": "gir.network"
-    }
-  },
-  {
-    "proxy": "http://109.199.125.66:3128",
-    "tested_at": "2026-02-13T23:12:26Z",
-    "ip": "109.199.125.66",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Grand Est",
-    "region_code": "GES",
-    "city": "Lauterbourg",
-    "latitude": 48.974797,
-    "longitude": 8.176773,
-    "is_eu": true,
-    "postal": "67630",
-    "connection": {
-      "asn": 51167,
-      "org": "Contabo GmbH",
-      "isp": "Contabo GmbH",
-      "domain": "contabo.de"
     }
   }
 ]

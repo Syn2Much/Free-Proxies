@@ -1,0 +1,48 @@
+[
+  {
+    "proxy": "http://3.110.197.155:49815",
+    "tested_at": "2026-02-13T23:43:37Z",
+    "ip": "64.190.76.2",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Italy",
+    "country_code": "IT",
+    "region": "Piemont",
+    "region_code": "21",
+    "city": "Turin",
+    "latitude": 45.070312,
+    "longitude": 7.6868565,
+    "is_eu": true,
+    "postal": "10100",
+    "connection": {
+      "asn": 214094,
+      "org": "Davide Silvetti Trading AS association Osservatorio Nessuno Odv",
+      "isp": "Davide Silvetti Trading AS association Osservatorio Nessuno Odv",
+      "domain": "osservatorionessuno.org"
+    }
+  },
+  {
+    "proxy": "http://3.110.197.155:50760",
+    "tested_at": "2026-02-13T23:43:45Z",
+    "ip": "64.190.76.2",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Italy",
+    "country_code": "IT",
+    "region": "Piemont",
+    "region_code": "21",
+    "city": "Turin",
+    "latitude": 45.070312,
+    "longitude": 7.6868565,
+    "is_eu": true,
+    "postal": "10100",
+    "connection": {
+      "asn": 214094,
+      "org": "Davide Silvetti Trading AS association Osservatorio Nessuno Odv",
+      "isp": "Davide Silvetti Trading AS association Osservatorio Nessuno Odv",
+      "domain": "osservatorionessuno.org"
+    }
+  }
+]

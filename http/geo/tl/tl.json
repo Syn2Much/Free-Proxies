@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://103.148.184.82:8080",
+    "tested_at": "2026-02-13T23:43:12Z",
+    "ip": "103.148.184.82",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Oceania",
+    "country": "East Timor",
+    "country_code": "TL",
+    "region": "Dili",
+    "region_code": "DI",
+    "city": "Díli",
+    "latitude": -8.5568557,
+    "longitude": 125.5603143,
+    "is_eu": false,
+    "postal": "10",
+    "connection": {
+      "asn": 140223,
+      "org": "METROLINK,LDA.",
+      "isp": "METROLINK,LDA.",
+      "domain": "metrolink.tl"
+    }
+  }
+]

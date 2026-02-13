@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://196.251.222.41:8104",
-    "tested_at": "2026-02-13T23:12:26Z",
-    "ip": "196.251.222.250",
+    "proxy": "http://41.169.135.242:8080",
+    "tested_at": "2026-02-13T23:43:18Z",
+    "ip": "41.180.70.2",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,33 +16,56 @@
     "is_eu": false,
     "postal": "2001",
     "connection": {
+      "asn": 36916,
+      "org": "Fixed Line ISP",
+      "isp": "X dsl Networking Solutions",
+      "domain": "x-dsl.co.za"
+    }
+  },
+  {
+    "proxy": "http://196.251.222.1:8083",
+    "tested_at": "2026-02-13T23:43:37Z",
+    "ip": "41.222.152.21",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "North West",
+    "region_code": "NW",
+    "city": "Brits",
+    "latitude": -25.6099895,
+    "longitude": 27.7959713,
+    "is_eu": false,
+    "postal": "0250",
+    "connection": {
       "asn": 37403,
-      "org": "Infogro Dsl",
+      "org": "Infogro Netblock",
       "isp": "Info gro pty LTD",
       "domain": "infogro.net"
     }
   },
   {
-    "proxy": "http://154.0.14.116:3128",
-    "tested_at": "2026-02-13T23:12:34Z",
-    "ip": "154.0.14.116",
+    "proxy": "http://41.242.40.6:8083",
+    "tested_at": "2026-02-13T23:43:41Z",
+    "ip": "41.222.152.21",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "South Africa",
     "country_code": "ZA",
-    "region": "Gauteng",
-    "region_code": "GT",
-    "city": "Johannesburg",
-    "latitude": -26.2041028,
-    "longitude": 28.0473051,
+    "region": "North West",
+    "region_code": "NW",
+    "city": "Brits",
+    "latitude": -25.6099895,
+    "longitude": 27.7959713,
     "is_eu": false,
-    "postal": "2001",
+    "postal": "0250",
     "connection": {
-      "asn": 37680,
-      "org": "Cisp Internal",
-      "isp": "Cool Ideas Service Provider pty LTD",
-      "domain": "coolideas.co.za"
+      "asn": 37403,
+      "org": "Infogro Netblock",
+      "isp": "Info gro pty LTD",
+      "domain": "infogro.net"
     }
   }
 ]

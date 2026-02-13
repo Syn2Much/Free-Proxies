@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://38.253.86.11:999",
-    "tested_at": "2026-02-13T23:11:41Z",
-    "ip": "38.253.86.13",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Puerto Plata",
-    "region_code": "18",
-    "city": "Maimón",
-    "latitude": 19.8224199,
-    "longitude": -70.7792902,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 273048,
-      "org": "Cogent Communications",
-      "isp": "WIMAS, S.R.L.",
-      "domain": "wimas-srl.com"
-    }
-  },
-  {
     "proxy": "http://72.10.164.178:23021",
-    "tested_at": "2026-02-13T23:11:59Z",
+    "tested_at": "2026-02-13T23:43:10Z",
     "ip": "128.201.114.143",
     "success": true,
     "type": "IPv4",
@@ -46,9 +23,78 @@
     }
   },
   {
-    "proxy": "http://190.93.189.142:999",
-    "tested_at": "2026-02-13T23:12:13Z",
-    "ip": "190.93.189.139",
+    "proxy": "http://190.110.35.228:999",
+    "tested_at": "2026-02-13T23:43:11Z",
+    "ip": "168.196.124.138",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Santiago",
+    "region_code": "25",
+    "city": "Santiago De Los Caballeros",
+    "latitude": 19.4791963,
+    "longitude": -70.6930568,
+    "is_eu": false,
+    "postal": "51000",
+    "connection": {
+      "asn": 264821,
+      "org": "COMCAST SRL",
+      "isp": "COMCAST SRL",
+      "domain": "comcast-srl.com"
+    }
+  },
+  {
+    "proxy": "http://38.159.232.108:999",
+    "tested_at": "2026-02-13T23:43:21Z",
+    "ip": "24.152.49.188",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "La Vega",
+    "region_code": "13",
+    "city": "La Vega",
+    "latitude": 19.2152609,
+    "longitude": -70.5205436,
+    "is_eu": false,
+    "postal": "41000",
+    "connection": {
+      "asn": 269965,
+      "org": "LIGHTWAVE S.R.L",
+      "isp": "LIGHTWAVE S.R.L",
+      "domain": "lightwave.com.do"
+    }
+  },
+  {
+    "proxy": "http://200.125.170.221:999",
+    "tested_at": "2026-02-13T23:43:28Z",
+    "ip": "200.125.170.218",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Monte Plata",
+    "region_code": "29",
+    "city": "Mejía de Navarrete",
+    "latitude": 18.735693,
+    "longitude": -70.162651,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 269931,
+      "org": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
+      "isp": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
+      "domain": "wmservice.com.do"
+    }
+  },
+  {
+    "proxy": "http://190.93.191.19:999",
+    "tested_at": "2026-02-13T23:43:33Z",
+    "ip": "190.93.191.2",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -66,6 +112,75 @@
       "org": "JOSE DIGITAL MEDIA DOMINICANA SRL",
       "isp": "JOSE DIGITAL MEDIA DOMINICANA SRL",
       "domain": "jdimax.com"
+    }
+  },
+  {
+    "proxy": "http://177.200.239.141:999",
+    "tested_at": "2026-02-13T23:43:42Z",
+    "ip": "177.200.239.141",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Santiago",
+    "region_code": "25",
+    "city": "Santiago De Los Caballeros",
+    "latitude": 19.4791963,
+    "longitude": -70.6930568,
+    "is_eu": false,
+    "postal": "51000",
+    "connection": {
+      "asn": 269983,
+      "org": "ESQUIRE CORPORATE SERVICES, S.R.L.",
+      "isp": "ESQUIRE CORPORATE SERVICES, S.R.L.",
+      "domain": "esquirecs.com"
+    }
+  },
+  {
+    "proxy": "http://38.95.89.204:999",
+    "tested_at": "2026-02-13T23:43:46Z",
+    "ip": "38.95.89.202",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "San José de Ocoa",
+    "region_code": "31",
+    "city": "San Jose de Ocoa",
+    "latitude": 18.543858,
+    "longitude": -70.5041816,
+    "is_eu": false,
+    "postal": "93000",
+    "connection": {
+      "asn": 272112,
+      "org": "Cogent Communications",
+      "isp": "TELECABLE DOMINICANO, S.A.",
+      "domain": "telecabledominicano.com.do"
+    }
+  },
+  {
+    "proxy": "http://38.156.23.41:999",
+    "tested_at": "2026-02-13T23:43:51Z",
+    "ip": "38.156.23.250",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Santiago",
+    "region_code": "25",
+    "city": "Santiago De Los Caballeros",
+    "latitude": 19.4791963,
+    "longitude": -70.6930568,
+    "is_eu": false,
+    "postal": "51000",
+    "connection": {
+      "asn": 64134,
+      "org": "VISNETWORK SRL",
+      "isp": "VISNETWORK SRL",
+      "domain": "visnetworkrd.com"
     }
   }
 ]

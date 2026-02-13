@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://92.180.22.224:8081",
-    "tested_at": "2026-02-13T22:47:28Z",
-    "ip": "92.180.22.224",
+    "proxy": "https://3.137.167.45:10801",
+    "tested_at": "2026-02-13T23:43:04Z",
+    "ip": "45.137.99.182",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Romania",
     "country_code": "RO",
-    "region": "Cluj",
-    "region_code": "CJ",
-    "city": "Turda",
-    "latitude": 46.564676,
-    "longitude": 23.7971063,
+    "region": "Hunedoara",
+    "region_code": "HD",
+    "city": "Orăștie",
+    "latitude": 45.8451246,
+    "longitude": 23.2019265,
     "is_eu": true,
-    "postal": "401100",
+    "postal": "335700",
     "connection": {
-      "asn": 8953,
-      "org": "Orange Romania",
-      "isp": "Orange Romania S.A.",
-      "domain": "orange.ro"
+      "asn": 214209,
+      "org": "Internet Magnate pty LTD",
+      "isp": "Internet Magnate pty LTD",
+      "domain": "magnates.co.za"
     }
   }
 ]

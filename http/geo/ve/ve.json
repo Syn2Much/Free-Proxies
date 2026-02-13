@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "http://190.97.226.134:999",
-    "tested_at": "2026-02-13T23:11:43Z",
-    "ip": "190.97.232.196",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Lara State",
-    "region_code": "K",
-    "city": "Barquisimeto",
-    "latitude": 10.0677719,
-    "longitude": -69.3473509,
-    "is_eu": false,
-    "postal": "3001",
-    "connection": {
-      "asn": 263703,
-      "org": "VIGINET C.A",
-      "isp": "VIGINET C.A",
-      "domain": "viginet.com.ve"
-    }
-  },
-  {
-    "proxy": "http://38.255.85.145:999",
-    "tested_at": "2026-02-13T23:12:12Z",
-    "ip": "38.255.85.145",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Capital District",
-    "region_code": "A",
-    "city": "Caracas",
-    "latitude": 10.4805937,
-    "longitude": -66.9036063,
-    "is_eu": false,
-    "postal": "1012",
-    "connection": {
-      "asn": 266841,
-      "org": "Cogent Communications",
-      "isp": "GALANET SOLUTION C.A.",
-      "domain": "galanet.com.ve"
-    }
-  },
-  {
-    "proxy": "http://190.94.212.216:999",
-    "tested_at": "2026-02-13T23:12:13Z",
-    "ip": "190.94.212.216",
+    "proxy": "http://190.94.232.39:999",
+    "tested_at": "2026-02-13T23:43:11Z",
+    "ip": "190.94.232.36",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -69,32 +23,32 @@
     }
   },
   {
-    "proxy": "http://45.184.103.110:999",
-    "tested_at": "2026-02-13T23:12:13Z",
-    "ip": "45.184.103.110",
+    "proxy": "http://67.43.236.20:15877",
+    "tested_at": "2026-02-13T23:43:29Z",
+    "ip": "179.63.37.135",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Venezuela",
     "country_code": "VE",
-    "region": "Carabobo State",
-    "region_code": "G",
-    "city": "Valencia",
-    "latitude": 10.1579312,
-    "longitude": -67.9972104,
+    "region": "Tachira State",
+    "region_code": "S",
+    "city": "San Antonio del Táchira",
+    "latitude": 7.8178141,
+    "longitude": -72.4425819,
     "is_eu": false,
-    "postal": "2001",
+    "postal": "5007",
     "connection": {
-      "asn": 269771,
-      "org": "PRINTER NET SERVICE, C.A.",
-      "isp": "PRINTER NET SERVICE, C.A.",
-      "domain": "pns.com.ve"
+      "asn": 272134,
+      "org": "POWER LINK CORP, C.A.",
+      "isp": "POWER LINK CORP, C.A.",
+      "domain": "grupohedez.com"
     }
   },
   {
-    "proxy": "http://38.41.12.89:999",
-    "tested_at": "2026-02-13T23:12:33Z",
-    "ip": "38.41.12.89",
+    "proxy": "http://190.94.232.42:999",
+    "tested_at": "2026-02-13T23:43:48Z",
+    "ip": "190.94.232.42",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -108,33 +62,10 @@
     "is_eu": false,
     "postal": "1012",
     "connection": {
-      "asn": 269832,
-      "org": "Mds Telecom",
-      "isp": "MDS TELECOM C.A.",
-      "domain": "mdstelecom.com.ve"
-    }
-  },
-  {
-    "proxy": "http://190.97.243.140:999",
-    "tested_at": "2026-02-13T23:12:36Z",
-    "ip": "190.97.243.140",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Zulia State",
-    "region_code": "V",
-    "city": "La Concepcion",
-    "latitude": 10.4136422,
-    "longitude": -71.6999646,
-    "is_eu": false,
-    "postal": "4033",
-    "connection": {
-      "asn": 263703,
-      "org": "VIGINET C.A",
-      "isp": "VIGINET C.A",
-      "domain": "viginet.com.ve"
+      "asn": 8053,
+      "org": "Ifx Networks Venezuela C.A.",
+      "isp": "Ifx Networks Venezuela C.A.",
+      "domain": "ifxnw.com.ve"
     }
   }
 ]

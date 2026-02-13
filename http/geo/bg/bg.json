@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://45.136.198.40:3128",
-    "tested_at": "2026-02-13T23:11:50Z",
-    "ip": "45.136.198.40",
+    "proxy": "http://92.247.12.136:9510",
+    "tested_at": "2026-02-13T23:43:27Z",
+    "ip": "92.247.12.130",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +16,33 @@
     "is_eu": true,
     "postal": "1000",
     "connection": {
-      "asn": 9009,
-      "org": "Iroko Networks Corporation",
-      "isp": "M Europe SRL",
-      "domain": "iroko.net"
+      "asn": 8717,
+      "org": "Spectrum Net Sofia",
+      "isp": "A1 Bulgaria Ead",
+      "domain": "a1.bg"
+    }
+  },
+  {
+    "proxy": "http://52.66.191.112:16924",
+    "tested_at": "2026-02-13T23:43:45Z",
+    "ip": "91.92.109.126",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "region": "Sofia-city",
+    "region_code": "",
+    "city": "Sofia",
+    "latitude": 42.6977082,
+    "longitude": 23.3218675,
+    "is_eu": true,
+    "postal": "1000",
+    "connection": {
+      "asn": 34224,
+      "org": "VPSBG",
+      "isp": "Neterra Ltd.",
+      "domain": "neterra.net"
     }
   }
 ]

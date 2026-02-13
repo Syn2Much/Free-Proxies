@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://65.108.159.129:8081",
-    "tested_at": "2026-02-13T23:11:40Z",
+    "tested_at": "2026-02-13T23:43:04Z",
     "ip": "65.108.159.129",
     "success": true,
     "type": "IPv4",
@@ -23,55 +23,9 @@
     }
   },
   {
-    "proxy": "http://91.217.76.97:1080",
-    "tested_at": "2026-02-13T23:11:50Z",
-    "ip": "91.217.76.97",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Finland",
-    "country_code": "FI",
-    "region": "Mainland Finland",
-    "region_code": "",
-    "city": "Helsinki",
-    "latitude": 60.1698557,
-    "longitude": 24.938379,
-    "is_eu": true,
-    "postal": "02101",
-    "connection": {
-      "asn": 200740,
-      "org": "FIRST SERVER LIMITED",
-      "isp": "FIRST SERVER LIMITED",
-      "domain": "first-server.net"
-    }
-  },
-  {
-    "proxy": "http://65.108.159.129:3128",
-    "tested_at": "2026-02-13T23:12:09Z",
+    "proxy": "http://65.108.159.129:5153",
+    "tested_at": "2026-02-13T23:43:14Z",
     "ip": "65.108.159.129",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Finland",
-    "country_code": "FI",
-    "region": "Mainland Finland",
-    "region_code": "",
-    "city": "Helsinki",
-    "latitude": 60.1698557,
-    "longitude": 24.938379,
-    "is_eu": true,
-    "postal": "02101",
-    "connection": {
-      "asn": 24940,
-      "org": "Hetzner Online GmbH",
-      "isp": "Hetzner Online GmbH",
-      "domain": "hetzner.com"
-    }
-  },
-  {
-    "proxy": "http://178.252.171.230:8080",
-    "tested_at": "2026-02-13T23:12:13Z",
-    "ip": "95.216.106.60",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -93,7 +47,7 @@
   },
   {
     "proxy": "http://193.47.60.119:52681",
-    "tested_at": "2026-02-13T23:12:18Z",
+    "tested_at": "2026-02-13T23:43:24Z",
     "ip": "193.47.60.119",
     "success": true,
     "type": "IPv4",

@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "https://165.231.253.66:9443",
-    "tested_at": "2026-02-13T23:11:38Z",
-    "ip": "196.240.60.216",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "India",
-    "country_code": "IN",
-    "region": "Delhi",
-    "region_code": "DL",
-    "city": "New Delhi",
-    "latitude": 28.6139391,
-    "longitude": 77.2090212,
-    "is_eu": false,
-    "postal": "110001",
-    "connection": {
-      "asn": 41564,
-      "org": "Fiber Grid",
-      "isp": "Orion Network Limited",
-      "domain": "fibergrid.co.za"
-    }
-  },
-  {
     "proxy": "https://45.114.142.178:443",
-    "tested_at": "2026-02-13T23:11:54Z",
+    "tested_at": "2026-02-13T23:43:14Z",
     "ip": "45.114.142.178",
     "success": true,
     "type": "IPv4",

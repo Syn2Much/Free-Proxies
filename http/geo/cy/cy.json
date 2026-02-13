@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://185.135.99.14:8080",
+    "tested_at": "2026-02-13T23:43:10Z",
+    "ip": "185.135.99.14",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Cyprus",
+    "country_code": "CY",
+    "region": "Gazimağusa District",
+    "region_code": "",
+    "city": "Famagusta",
+    "latitude": 35.1149116,
+    "longitude": 33.919245,
+    "is_eu": true,
+    "postal": "",
+    "connection": {
+      "asn": 43242,
+      "org": "fixnet1",
+      "isp": "ARINET SECURITY INTERNET CONSULTANCY LTD",
+      "domain": "fixnetbroadband.com"
+    }
+  }
+]

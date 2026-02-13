@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://85.208.108.43:10808",
-    "tested_at": "2026-02-13T23:11:58Z",
-    "ip": "85.208.108.43",
+    "proxy": "http://143.198.37.6:8888",
+    "tested_at": "2026-02-13T23:43:04Z",
+    "ip": "178.249.214.14",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -16,56 +16,33 @@
     "is_eu": false,
     "postal": "M5H 2N2",
     "connection": {
-      "asn": 53363,
-      "org": "Worktitans B.V.",
-      "isp": "TANGRAM CANADA INC.",
-      "domain": "the.hosting"
+      "asn": 212238,
+      "org": "CDNEXT TOR",
+      "isp": "Datacamp Limited",
+      "domain": "datacamp.co.uk"
     }
   },
   {
-    "proxy": "http://67.43.228.253:3977",
-    "tested_at": "2026-02-13T23:11:59Z",
-    "ip": "142.120.142.128",
+    "proxy": "http://188.227.196.62:1080",
+    "tested_at": "2026-02-13T23:43:34Z",
+    "ip": "188.227.196.62",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Canada",
     "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Ottawa",
-    "latitude": 45.4215296,
-    "longitude": -75.6971931,
+    "region": "Québec",
+    "region_code": "QC",
+    "city": "Québec City",
+    "latitude": 46.8138783,
+    "longitude": -71.2079809,
     "is_eu": false,
-    "postal": "K1P 1J1",
+    "postal": "G1R 4S9",
     "connection": {
-      "asn": 577,
-      "org": "Sympatico Hse",
-      "isp": "Bell Canada",
-      "domain": "virginmobile.ca"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:10563",
-    "tested_at": "2026-02-13T23:12:09Z",
-    "ip": "198.162.116.72",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "British Columbia",
-    "region_code": "BC",
-    "city": "Abbotsford",
-    "latitude": 49.054587,
-    "longitude": -122.328026,
-    "is_eu": false,
-    "postal": "V2T 1W7",
-    "connection": {
-      "asn": 271,
-      "org": "University of The Fraser Valley",
-      "isp": "BCNET",
-      "domain": "ufv.ca"
+      "asn": 400897,
+      "org": "PetroSky",
+      "isp": "PETROSKY CLOUD LLC",
+      "domain": "abuseradar.com"
     }
   }
 ]

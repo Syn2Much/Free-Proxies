@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://185.4.29.243:7887",
-    "tested_at": "2026-02-13T23:12:24Z",
-    "ip": "185.4.29.243",
+    "proxy": "http://178.252.165.122:8080",
+    "tested_at": "2026-02-13T23:43:10Z",
+    "ip": "178.252.165.122",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -11,15 +11,15 @@
     "region": "Tehran Province",
     "region_code": "23",
     "city": "Tehran",
-    "latitude": 35.7952267,
-    "longitude": 51.4322706,
+    "latitude": 35.6891975,
+    "longitude": 51.3889736,
     "is_eu": false,
     "postal": "1317947564",
     "connection": {
-      "asn": 61173,
-      "org": "Green Web Samaneh Novin Co LTD",
-      "isp": "Green Web Samaneh Novin Pjsc",
-      "domain": "greenweb.ir"
+      "asn": 51074,
+      "org": "MABNA",
+      "isp": "Gostaresh e ertebatat e Mabna Company private Joint Stock",
+      "domain": "mabnatelecom.com"
     }
   }
 ]

@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://175.138.75.137:8080",
+    "tested_at": "2026-02-13T23:43:09Z",
+    "ip": "175.138.75.137",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "region": "Selangor",
+    "region_code": "10",
+    "city": "Klang",
+    "latitude": 3.044917,
+    "longitude": 101.4455621,
+    "is_eu": false,
+    "postal": "42100",
+    "connection": {
+      "asn": 4788,
+      "org": "TMNST",
+      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+      "domain": "tm.com.my"
+    }
+  }
+]

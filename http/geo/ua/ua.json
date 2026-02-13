@@ -1,30 +1,30 @@
 [
   {
-    "proxy": "http://91.228.217.195:8989",
-    "tested_at": "2026-02-13T23:11:52Z",
-    "ip": "91.228.217.195",
+    "proxy": "http://91.202.72.105:8080",
+    "tested_at": "2026-02-13T23:43:16Z",
+    "ip": "91.202.72.105",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Ukraine",
     "country_code": "UA",
-    "region": "Ivano-Frankivsk Oblast",
-    "region_code": "",
-    "city": "Kryvorivnya",
-    "latitude": 48.1736874,
-    "longitude": 24.8963763,
+    "region": "Kyiv city",
+    "region_code": "30",
+    "city": "Kyiv",
+    "latitude": 50.4501,
+    "longitude": 30.5234,
     "is_eu": false,
-    "postal": "78710",
+    "postal": "01001",
     "connection": {
-      "asn": 209907,
-      "org": "Fop Saiv Igor Stepanovich",
-      "isp": "Fop Saiv Igor Stepanovich",
-      "domain": "gipernet.com.ua"
+      "asn": 44600,
+      "org": "GIGATRANS UKRAINE, LLC",
+      "isp": "GIGATRANS UKRAINE, LLC",
+      "domain": "gigatrans.ua"
     }
   },
   {
     "proxy": "http://91.238.104.171:2023",
-    "tested_at": "2026-02-13T23:12:28Z",
+    "tested_at": "2026-02-13T23:43:26Z",
     "ip": "91.238.104.171",
     "success": true,
     "type": "IPv4",
@@ -43,29 +43,6 @@
       "org": "Fop Reznichenko Sergey Mykolayovich",
       "isp": "Fop Reznichenko Sergey Mykolayovich",
       "domain": "bytes.ua"
-    }
-  },
-  {
-    "proxy": "http://195.149.125.150:8080",
-    "tested_at": "2026-02-13T23:12:32Z",
-    "ip": "195.149.125.150",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Odesa Oblast",
-    "region_code": "51",
-    "city": "Moldove",
-    "latitude": 46.2141398,
-    "longitude": 29.6513956,
-    "is_eu": false,
-    "postal": "68271",
-    "connection": {
-      "asn": 29475,
-      "org": "Complex Communication Systems LTD",
-      "isp": "Complex Communication Systems LTD",
-      "domain": "tst.od.ua"
     }
   }
 ]

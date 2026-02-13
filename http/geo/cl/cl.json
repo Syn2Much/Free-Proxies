@@ -1,7 +1,7 @@
 [
   {
-    "proxy": "http://38.7.195.51:999",
-    "tested_at": "2026-02-13T23:12:04Z",
+    "proxy": "http://38.7.195.52:999",
+    "tested_at": "2026-02-13T23:43:06Z",
     "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
@@ -23,32 +23,9 @@
     }
   },
   {
-    "proxy": "http://64.176.6.165:13920",
-    "tested_at": "2026-02-13T23:12:05Z",
-    "ip": "2001:19f0:c800:232c:5400:4ff:fe4a:8ebe",
-    "success": true,
-    "type": "IPv6",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
-    "is_eu": false,
-    "postal": "832 0202",
-    "connection": {
-      "asn": 20473,
-      "org": "The Constant Company, LLC",
-      "isp": "The Constant Company, LLC",
-      "domain": "constant.com"
-    }
-  },
-  {
-    "proxy": "http://67.43.236.20:18689",
-    "tested_at": "2026-02-13T23:12:12Z",
-    "ip": "200.120.97.49",
+    "proxy": "http://190.54.100.74:8080",
+    "tested_at": "2026-02-13T23:43:08Z",
+    "ip": "190.54.100.74",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -62,16 +39,16 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 22047,
-      "org": "VTR BANDA ANCHA S.A.",
-      "isp": "VTR BANDA ANCHA S.A.",
-      "domain": "vtr.net"
+      "asn": 6429,
+      "org": "Telmex Servicios Empresariales S.A",
+      "isp": "Telmex Chile Internet S.A.",
+      "domain": ""
     }
   },
   {
-    "proxy": "http://204.199.139.36:999",
-    "tested_at": "2026-02-13T23:12:33Z",
-    "ip": "200.123.41.1",
+    "proxy": "http://204.199.139.76:999",
+    "tested_at": "2026-02-13T23:43:15Z",
+    "ip": "204.199.139.75",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -79,16 +56,154 @@
     "country_code": "CL",
     "region": "Santiago Metropolitan Region",
     "region_code": "",
-    "city": "Quinta Normal",
-    "latitude": -33.4317378,
-    "longitude": -70.6923917,
+    "city": "Isla de Maipo",
+    "latitude": -33.7464562,
+    "longitude": -70.9,
     "is_eu": false,
-    "postal": "8500000",
+    "postal": "979 0152",
     "connection": {
       "asn": 273237,
       "org": "INGBELL CHILE SPA",
       "isp": "INGBELL CHILE SPA",
       "domain": "ingbell.cl"
+    }
+  },
+  {
+    "proxy": "http://204.199.139.71:999",
+    "tested_at": "2026-02-13T23:43:17Z",
+    "ip": "204.199.139.70",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Talagante",
+    "latitude": -33.6637468,
+    "longitude": -70.9273937,
+    "is_eu": false,
+    "postal": "975 0000",
+    "connection": {
+      "asn": 273237,
+      "org": "INGBELL CHILE SPA",
+      "isp": "INGBELL CHILE SPA",
+      "domain": "ingbell.cl"
+    }
+  },
+  {
+    "proxy": "http://204.199.140.24:999",
+    "tested_at": "2026-02-13T23:43:24Z",
+    "ip": "204.199.140.23",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 273237,
+      "org": "INGBELL CHILE SPA",
+      "isp": "INGBELL CHILE SPA",
+      "domain": "ingbell.cl"
+    }
+  },
+  {
+    "proxy": "http://38.7.195.54:999",
+    "tested_at": "2026-02-13T23:43:27Z",
+    "ip": "38.7.195.49",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 263702,
+      "org": "Cogent Communications",
+      "isp": "GRUPO ZGH SPA",
+      "domain": "zglobalhost.com"
+    }
+  },
+  {
+    "proxy": "http://38.3.162.129:999",
+    "tested_at": "2026-02-13T23:43:28Z",
+    "ip": "38.3.162.130",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Puente Alto",
+    "latitude": -33.6186082,
+    "longitude": -70.5906057,
+    "is_eu": false,
+    "postal": "815 0000",
+    "connection": {
+      "asn": 274025,
+      "org": "Cogent Communications",
+      "isp": "SERVICIOS INTEGRALES METFY TELECOM SPA",
+      "domain": "metfy.cl"
+    }
+  },
+  {
+    "proxy": "http://200.95.184.58:999",
+    "tested_at": "2026-02-13T23:43:53Z",
+    "ip": "200.95.184.146",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Ñuble Region",
+    "region_code": "NB",
+    "city": "Chillán",
+    "latitude": -36.6062618,
+    "longitude": -72.1023351,
+    "is_eu": false,
+    "postal": "3780000",
+    "connection": {
+      "asn": 264859,
+      "org": "Comunicaciones Cablevision Ltda.",
+      "isp": "Comunicaciones Cablevision Ltda.",
+      "domain": "wmnet.cl"
+    }
+  },
+  {
+    "proxy": "http://179.57.171.227:999",
+    "tested_at": "2026-02-13T23:43:55Z",
+    "ip": "179.57.171.227",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Araucanía Region",
+    "region_code": "AR",
+    "city": "Villarrica",
+    "latitude": -39.2820124,
+    "longitude": -72.2307798,
+    "is_eu": false,
+    "postal": "493 0611",
+    "connection": {
+      "asn": 14117,
+      "org": "Telefonica del Sur S.A",
+      "isp": "Telefonica Del Sur S.A.",
+      "domain": ""
     }
   }
 ]

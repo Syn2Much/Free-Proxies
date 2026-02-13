@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://5.83.244.250:8080",
-    "tested_at": "2026-02-13T22:48:19Z",
-    "ip": "5.83.244.250",
+    "proxy": "http://94.102.193.91:8080",
+    "tested_at": "2026-02-13T23:43:06Z",
+    "ip": "94.102.193.91",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,16 +10,16 @@
     "country_code": "IE",
     "region": "Leinster",
     "region_code": "L",
-    "city": "Athlone",
-    "latitude": 53.4239331,
-    "longitude": -7.9406898,
+    "city": "Carlow",
+    "latitude": 52.8365072,
+    "longitude": -6.9341359,
     "is_eu": true,
-    "postal": "N37 PV34",
+    "postal": "R93 TE83",
     "connection": {
-      "asn": 57791,
-      "org": "EURONA BRISKNETT",
-      "isp": "Arden Broadband LTD",
-      "domain": "eurona.ie"
+      "asn": 47942,
+      "org": "Regional Broadband",
+      "isp": "Regional Telecom LTD",
+      "domain": "regionalbroadband.ie"
     }
   }
 ]

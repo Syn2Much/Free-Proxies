@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://210.223.44.230:3128",
-    "tested_at": "2026-02-13T23:11:39Z",
-    "ip": "210.223.44.230",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Republic of Korea",
-    "country_code": "KR",
-    "region": "",
-    "region_code": "",
-    "city": "Seoul",
-    "latitude": 37.566535,
-    "longitude": 126.9779692,
-    "is_eu": false,
-    "postal": "04523",
-    "connection": {
-      "asn": 4766,
-      "org": "Korea Telecom",
-      "isp": "Korea Telecom",
-      "domain": "kt.com"
-    }
-  },
-  {
     "proxy": "http://8.213.151.128:3128",
-    "tested_at": "2026-02-13T23:11:39Z",
+    "tested_at": "2026-02-13T23:43:05Z",
     "ip": "8.213.151.128",
     "success": true,
     "type": "IPv4",
@@ -47,7 +24,7 @@
   },
   {
     "proxy": "http://211.230.49.122:3128",
-    "tested_at": "2026-02-13T23:11:49Z",
+    "tested_at": "2026-02-13T23:43:14Z",
     "ip": "211.230.49.122",
     "success": true,
     "type": "IPv4",
@@ -69,8 +46,31 @@
     }
   },
   {
+    "proxy": "http://14.34.180.21:38157",
+    "tested_at": "2026-02-13T23:43:14Z",
+    "ip": "14.34.180.21",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "Gyeonggi",
+    "region_code": "41",
+    "city": "Seongnam-si",
+    "latitude": 37.4449168,
+    "longitude": 127.1388684,
+    "is_eu": false,
+    "postal": "13437",
+    "connection": {
+      "asn": 4766,
+      "org": "Kornet",
+      "isp": "Korea Telecom",
+      "domain": ""
+    }
+  },
+  {
     "proxy": "http://121.187.175.106:9877",
-    "tested_at": "2026-02-13T23:12:09Z",
+    "tested_at": "2026-02-13T23:43:36Z",
     "ip": "121.187.175.106",
     "success": true,
     "type": "IPv4",

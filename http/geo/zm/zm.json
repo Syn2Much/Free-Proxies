@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://41.223.119.156:3128",
+    "tested_at": "2026-02-13T23:43:35Z",
+    "ip": "41.223.119.156",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Zambia",
+    "country_code": "ZM",
+    "region": "Lusaka Province",
+    "region_code": "09",
+    "city": "Lusaka",
+    "latitude": -15.3899638,
+    "longitude": 28.4224029,
+    "is_eu": false,
+    "postal": "10101",
+    "connection": {
+      "asn": 36962,
+      "org": "Datacom And Core Network",
+      "isp": "Mtn Zambia",
+      "domain": "mtnzambia.co.zm"
+    }
+  }
+]
