@@ -10,7 +10,7 @@ A regularly updated, ready-to-use list of free HTTP proxies. We scrape from ever
 Pull the latest directly:
 
 ```bash
-curl -s https://raw.githubusercontent.com/syn2much>/Free-Proxies/main/http.txt
+curl -s https://raw.githubusercontent.com/syn2much/Free-Proxies/main/http.txt
 ```
 
 Or clone the repo:
