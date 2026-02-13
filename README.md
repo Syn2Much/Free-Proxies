@@ -8,7 +8,7 @@ Scraped → Deduplicated → Verified → Published — every 30 minutes, 24/7.
 
 [![GitHub Stars](https://img.shields.io/github/stars/Syn2Much/Free-Proxies?style=for-the-badge&logo=github&color=yellow)](https://github.com/Syn2Much/Free-Proxies/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/Syn2Much/Free-Proxies?style=for-the-badge&logo=github&color=blue)](https://github.com/Syn2Much/Free-Proxies/commits/main)
-[![License](https://img.shields.io/github/license/Syn2Much/Free-Proxies?style=for-the-badge&color=green)](LICENSE)
+
 
 </div>
 
