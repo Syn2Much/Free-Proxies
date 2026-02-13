@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://138.0.228.122:8080",
-    "tested_at": "2026-02-13T22:47:31Z",
-    "ip": "138.0.228.185",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Honduras",
-    "country_code": "HN",
-    "region": "Cortés",
-    "region_code": "CR",
-    "city": "San Pedro Sula",
-    "latitude": 15.5149204,
-    "longitude": -87.9922684,
-    "is_eu": false,
-    "postal": "21101",
-    "connection": {
-      "asn": 263725,
-      "org": "MULTICABLE DE HONDURAS",
-      "isp": "MULTICABLE DE HONDURAS",
-      "domain": "multicable.hn"
-    }
-  },
-  {
     "proxy": "http://181.78.44.63:999",
-    "tested_at": "2026-02-13T22:47:35Z",
+    "tested_at": "2026-02-13T23:12:21Z",
     "ip": "181.78.44.63",
     "success": true,
     "type": "IPv4",
@@ -46,26 +23,26 @@
     }
   },
   {
-    "proxy": "http://179.49.113.230:999",
-    "tested_at": "2026-02-13T22:48:03Z",
-    "ip": "179.49.113.230",
+    "proxy": "http://181.78.45.74:999",
+    "tested_at": "2026-02-13T23:12:33Z",
+    "ip": "45.68.63.133",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Honduras",
     "country_code": "HN",
-    "region": "Cortés",
-    "region_code": "CR",
-    "city": "San Pedro Sula",
-    "latitude": 15.5149204,
-    "longitude": -87.9922684,
+    "region": "Yoro",
+    "region_code": "YO",
+    "city": "La Mina",
+    "latitude": 15.3173064,
+    "longitude": -87.8328712,
     "is_eu": false,
-    "postal": "21101",
+    "postal": "23201",
     "connection": {
-      "asn": 262234,
-      "org": "ASOCIACION DE SERVICIO DE INTERNET S. DE RL.",
-      "isp": "ASOCIACION DE SERVICIO DE INTERNET S. DE RL.",
-      "domain": "asi.hn"
+      "asn": 64150,
+      "org": "PIT HONDURAS S. DE R.L. DE C.V.",
+      "isp": "PIT HONDURAS S. DE R.L. DE C.V.",
+      "domain": "pithonduras.hn"
     }
   }
 ]

@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "https://78.12.230.52:8995",
+    "tested_at": "2026-02-13T23:12:00Z",
+    "ip": "107.189.13.254",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Luxembourg",
+    "country_code": "LU",
+    "region": "Canton Mersch",
+    "region_code": "ME",
+    "city": "Bissen",
+    "latitude": 49.7876693,
+    "longitude": 6.0657007,
+    "is_eu": true,
+    "postal": "7772",
+    "connection": {
+      "asn": 53667,
+      "org": "Frantech Solutions",
+      "isp": "Frantech Solutions",
+      "domain": "frantech.ca"
+    }
+  }
+]

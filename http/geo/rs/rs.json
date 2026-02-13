@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://195.178.56.33:8080",
+    "tested_at": "2026-02-13T23:11:46Z",
+    "ip": "195.178.33.86",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Serbia",
+    "country_code": "RS",
+    "region": "Central Serbia",
+    "region_code": "",
+    "city": "Belgrade",
+    "latitude": 44.786568,
+    "longitude": 20.4489216,
+    "is_eu": false,
+    "postal": "11000",
+    "connection": {
+      "asn": 8400,
+      "org": "TELEKOM SRBIJA",
+      "isp": "Telekom Srbija A.D.",
+      "domain": "telekom.rs"
+    }
+  }
+]

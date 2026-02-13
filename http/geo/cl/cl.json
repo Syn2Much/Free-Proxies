@@ -1,7 +1,7 @@
 [
   {
-    "proxy": "http://38.7.195.54:999",
-    "tested_at": "2026-02-13T22:47:26Z",
+    "proxy": "http://38.7.195.51:999",
+    "tested_at": "2026-02-13T23:12:04Z",
     "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
@@ -23,55 +23,32 @@
     }
   },
   {
-    "proxy": "http://164.77.40.112:8080",
-    "tested_at": "2026-02-13T22:47:39Z",
-    "ip": "164.77.40.112",
+    "proxy": "http://64.176.6.165:13920",
+    "tested_at": "2026-02-13T23:12:05Z",
+    "ip": "2001:19f0:c800:232c:5400:4ff:fe4a:8ebe",
     "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Araucanía Region",
-    "region_code": "AR",
-    "city": "Temuco",
-    "latitude": -38.7359018,
-    "longitude": -72.5903739,
-    "is_eu": false,
-    "postal": "479 1047",
-    "connection": {
-      "asn": 27651,
-      "org": "ENTEL CHILE S.A.",
-      "isp": "ENTEL CHILE S.A.",
-      "domain": "entel.cl"
-    }
-  },
-  {
-    "proxy": "http://207.248.3.81:999",
-    "tested_at": "2026-02-13T22:47:52Z",
-    "ip": "207.248.3.81",
-    "success": true,
-    "type": "IPv4",
+    "type": "IPv6",
     "continent": "South America",
     "country": "Chile",
     "country_code": "CL",
     "region": "Santiago Metropolitan Region",
     "region_code": "",
-    "city": "Buin",
-    "latitude": -33.7309374,
-    "longitude": -70.7423218,
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
     "is_eu": false,
-    "postal": "9500000",
+    "postal": "832 0202",
     "connection": {
-      "asn": 64139,
-      "org": "GRUPO METROWAN TELECOM SPA",
-      "isp": "GRUPO METROWAN TELECOM SPA",
-      "domain": "metrowan.cl"
+      "asn": 20473,
+      "org": "The Constant Company, LLC",
+      "isp": "The Constant Company, LLC",
+      "domain": "constant.com"
     }
   },
   {
-    "proxy": "http://38.7.195.49:999",
-    "tested_at": "2026-02-13T22:47:56Z",
-    "ip": "38.7.195.49",
+    "proxy": "http://67.43.236.20:18689",
+    "tested_at": "2026-02-13T23:12:12Z",
+    "ip": "200.120.97.49",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -85,10 +62,33 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 263702,
-      "org": "Cogent Communications",
-      "isp": "GRUPO ZGH SPA",
-      "domain": "zglobalhost.com"
+      "asn": 22047,
+      "org": "VTR BANDA ANCHA S.A.",
+      "isp": "VTR BANDA ANCHA S.A.",
+      "domain": "vtr.net"
+    }
+  },
+  {
+    "proxy": "http://204.199.139.36:999",
+    "tested_at": "2026-02-13T23:12:33Z",
+    "ip": "200.123.41.1",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Quinta Normal",
+    "latitude": -33.4317378,
+    "longitude": -70.6923917,
+    "is_eu": false,
+    "postal": "8500000",
+    "connection": {
+      "asn": 273237,
+      "org": "INGBELL CHILE SPA",
+      "isp": "INGBELL CHILE SPA",
+      "domain": "ingbell.cl"
     }
   }
 ]

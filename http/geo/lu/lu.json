@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://3.110.197.155:49815",
+    "tested_at": "2026-02-13T23:11:39Z",
+    "ip": "107.189.30.69",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Luxembourg",
+    "country_code": "LU",
+    "region": "Canton Mersch",
+    "region_code": "ME",
+    "city": "Bissen",
+    "latitude": 49.7876693,
+    "longitude": 6.0657007,
+    "is_eu": true,
+    "postal": "7772",
+    "connection": {
+      "asn": 53667,
+      "org": "BuyVM",
+      "isp": "Frantech Solutions",
+      "domain": "frantech.ca"
+    }
+  }
+]

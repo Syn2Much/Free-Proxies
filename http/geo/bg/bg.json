@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://92.247.12.136:9510",
-    "tested_at": "2026-02-13T22:47:24Z",
-    "ip": "92.247.12.130",
+    "proxy": "http://45.136.198.40:3128",
+    "tested_at": "2026-02-13T23:11:50Z",
+    "ip": "45.136.198.40",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +16,10 @@
     "is_eu": true,
     "postal": "1000",
     "connection": {
-      "asn": 8717,
-      "org": "Spectrum Net Sofia",
-      "isp": "A1 Bulgaria Ead",
-      "domain": "a1.bg"
+      "asn": 9009,
+      "org": "Iroko Networks Corporation",
+      "isp": "M Europe SRL",
+      "domain": "iroko.net"
     }
   }
 ]

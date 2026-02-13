@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://213.230.110.191:3128",
+    "tested_at": "2026-02-13T23:12:01Z",
+    "ip": "213.230.110.191",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Uzbekistan",
+    "country_code": "UZ",
+    "region": "Yunusabad district",
+    "region_code": "",
+    "city": "Tashkent",
+    "latitude": 41.2994958,
+    "longitude": 69.2400734,
+    "is_eu": false,
+    "postal": "100128",
+    "connection": {
+      "asn": 8193,
+      "org": "UZTELECOM",
+      "isp": "Uzbektelekom Joint Stock Company",
+      "domain": "bkm.uz"
+    }
+  }
+]

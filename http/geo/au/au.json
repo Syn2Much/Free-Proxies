@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://61.29.96.146:80",
+    "tested_at": "2026-02-13T23:11:45Z",
+    "ip": "61.29.96.146",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Oceania",
+    "country": "Australia",
+    "country_code": "AU",
+    "region": "Victoria",
+    "region_code": "VIC",
+    "city": "Hawthorn",
+    "latitude": -37.826,
+    "longitude": 145.034,
+    "is_eu": false,
+    "postal": "3122",
+    "connection": {
+      "asn": 2764,
+      "org": "Aapt Limited",
+      "isp": "Aapt Limited",
+      "domain": "powertel.co.zw"
+    }
+  }
+]

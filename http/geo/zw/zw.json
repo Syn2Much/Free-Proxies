@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://154.119.80.27:3128",
+    "tested_at": "2026-02-13T23:11:59Z",
+    "ip": "154.119.80.27",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Zimbabwe",
+    "country_code": "ZW",
+    "region": "Harare",
+    "region_code": "HA",
+    "city": "Harare",
+    "latitude": -17.8251657,
+    "longitude": 31.03351,
+    "is_eu": false,
+    "postal": "04-263",
+    "connection": {
+      "asn": 37123,
+      "org": "Servers",
+      "isp": "Telecontract Pvt LTD",
+      "domain": "teamtelco.co.zw"
+    }
+  }
+]

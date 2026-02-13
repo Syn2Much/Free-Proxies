@@ -1,0 +1,48 @@
+[
+  {
+    "proxy": "http://94.68.245.147:8080",
+    "tested_at": "2026-02-13T23:12:02Z",
+    "ip": "94.68.245.147",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Greece",
+    "country_code": "GR",
+    "region": "Macedonia and Thrace",
+    "region_code": "",
+    "city": "Kopanos",
+    "latitude": 40.6350113,
+    "longitude": 22.1299742,
+    "is_eu": true,
+    "postal": "59035",
+    "connection": {
+      "asn": 6799,
+      "org": "Multiprotocol Service Provider to Other Isp s And End Users",
+      "isp": "Ote SA hellenic Telecommunications Organisation",
+      "domain": "ote.gr"
+    }
+  },
+  {
+    "proxy": "http://91.236.74.11:8080",
+    "tested_at": "2026-02-13T23:12:34Z",
+    "ip": "91.236.74.11",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Greece",
+    "country_code": "GR",
+    "region": "Macedonia and Thrace",
+    "region_code": "",
+    "city": "Komotini",
+    "latitude": 41.1224394,
+    "longitude": 25.4065582,
+    "is_eu": true,
+    "postal": "69100",
+    "connection": {
+      "asn": 212442,
+      "org": "Mechmet Chatip Memet Trading AS Speednet",
+      "isp": "Mechmet Chatip Memet Trading AS Speednet",
+      "domain": "speednet.cz"
+    }
+  }
+]

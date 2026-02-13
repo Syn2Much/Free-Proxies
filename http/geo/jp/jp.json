@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://43.167.193.58:3128",
-    "tested_at": "2026-02-13T22:47:37Z",
-    "ip": "43.167.193.58",
+    "proxy": "http://116.80.62.22:3128",
+    "tested_at": "2026-02-13T23:12:11Z",
+    "ip": "116.80.62.22",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Kanagawa Prefecture",
+    "region_code": "14",
+    "city": "Yokohama",
+    "latitude": 35.4437078,
+    "longitude": 139.6380256,
+    "is_eu": false,
+    "postal": "231-0017",
+    "connection": {
+      "asn": 2514,
+      "org": "Server Hosting Service nttpccommunications,inc.",
+      "isp": "NTT Pc Communications, Inc.",
+      "domain": "nttpc.co.jp"
+    }
+  },
+  {
+    "proxy": "http://48.218.158.203:3128",
+    "tested_at": "2026-02-13T23:12:16Z",
+    "ip": "130.33.205.207",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,44 +33,21 @@
     "country_code": "JP",
     "region": "Tokyo",
     "region_code": "13",
-    "city": "Shibuya City",
-    "latitude": 35.6549037,
-    "longitude": 139.6945698,
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
     "is_eu": false,
-    "postal": "150-0036",
+    "postal": "100-0002",
     "connection": {
-      "asn": 132203,
-      "org": "ACEVILLE PTE.LTD.",
-      "isp": "Shenzhen Tencent Computer Systems Company Limited",
-      "domain": "tencent.com"
-    }
-  },
-  {
-    "proxy": "http://168.138.202.218:3128",
-    "tested_at": "2026-02-13T22:47:50Z",
-    "ip": "168.138.202.218",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Chiba Prefecture",
-    "region_code": "12",
-    "city": "Inzai",
-    "latitude": 35.8323485,
-    "longitude": 140.1458154,
-    "is_eu": false,
-    "postal": "270-1327",
-    "connection": {
-      "asn": 31898,
-      "org": "Oracle Public Cloud",
-      "isp": "Oracle Corporation",
-      "domain": "oracleemaildelivery.com"
+      "asn": 8075,
+      "org": "cloud",
+      "isp": "Microsoft Corporation",
+      "domain": "microsoft.com"
     }
   },
   {
     "proxy": "http://8.209.255.13:3128",
-    "tested_at": "2026-02-13T22:47:53Z",
+    "tested_at": "2026-02-13T23:12:20Z",
     "ip": "8.209.255.13",
     "success": true,
     "type": "IPv4",
@@ -66,75 +66,6 @@
       "org": "Shiodome Sumitomo Blog 1 Tokyo",
       "isp": "Alibaba us Technology Co., Ltd.",
       "domain": "alibaba-inc.com"
-    }
-  },
-  {
-    "proxy": "http://150.230.104.3:16728",
-    "tested_at": "2026-02-13T22:48:02Z",
-    "ip": "150.230.104.3",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Chiba Prefecture",
-    "region_code": "12",
-    "city": "Inzai",
-    "latitude": 35.8323485,
-    "longitude": 140.1458154,
-    "is_eu": false,
-    "postal": "270-1327",
-    "connection": {
-      "asn": 31898,
-      "org": "Oracle Corporation",
-      "isp": "Oracle Corporation",
-      "domain": "oracle.com"
-    }
-  },
-  {
-    "proxy": "http://61.118.38.234:60808",
-    "tested_at": "2026-02-13T22:48:21Z",
-    "ip": "61.118.38.234",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Chiba Prefecture",
-    "region_code": "12",
-    "city": "Funabashi",
-    "latitude": 35.6999967,
-    "longitude": 139.9868982,
-    "is_eu": false,
-    "postal": "273-0005",
-    "connection": {
-      "asn": 4713,
-      "org": "Open Computer Network",
-      "isp": "NTT Docomo Business,inc.",
-      "domain": "ntt.com"
-    }
-  },
-  {
-    "proxy": "http://150.249.255.91:3128",
-    "tested_at": "2026-02-13T22:48:22Z",
-    "ip": "150.249.255.91",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
-    "is_eu": false,
-    "postal": "100-0002",
-    "connection": {
-      "asn": 2527,
-      "org": "So net Service",
-      "isp": "Sony Network Communications Inc.",
-      "domain": "sonynetwork.co.jp"
     }
   }
 ]

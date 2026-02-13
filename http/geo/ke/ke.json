@@ -1,0 +1,48 @@
+[
+  {
+    "proxy": "http://102.208.166.248:8082",
+    "tested_at": "2026-02-13T23:12:03Z",
+    "ip": "102.208.166.248",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Nairobi",
+    "region_code": "110",
+    "city": "Nairobi",
+    "latitude": -1.2920659,
+    "longitude": 36.8219462,
+    "is_eu": false,
+    "postal": "200",
+    "connection": {
+      "asn": 329452,
+      "org": "Alwen Networks Co. Limited",
+      "isp": "Alwen Networks Co. Limited",
+      "domain": "alwennetworks.com"
+    }
+  },
+  {
+    "proxy": "http://197.232.158.189:41890",
+    "tested_at": "2026-02-13T23:12:25Z",
+    "ip": "197.232.158.189",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Nairobi",
+    "region_code": "110",
+    "city": "Nairobi",
+    "latitude": -1.2920659,
+    "longitude": 36.8219462,
+    "is_eu": false,
+    "postal": "200",
+    "connection": {
+      "asn": 36866,
+      "org": "FAIBA Business",
+      "isp": "Jamii Telecommunications Limited",
+      "domain": ""
+    }
+  }
+]

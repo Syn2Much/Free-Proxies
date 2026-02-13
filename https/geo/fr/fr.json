@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://173.249.37.45:5006",
-    "tested_at": "2026-02-13T22:47:42Z",
-    "ip": "173.249.37.45",
+    "proxy": "https://5.189.184.6:443",
+    "tested_at": "2026-02-13T23:11:59Z",
+    "ip": "5.189.184.6",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -24,7 +24,7 @@
   },
   {
     "proxy": "https://173.249.37.45:5051",
-    "tested_at": "2026-02-13T22:47:43Z",
+    "tested_at": "2026-02-13T23:12:13Z",
     "ip": "173.249.37.45",
     "success": true,
     "type": "IPv4",
@@ -47,7 +47,7 @@
   },
   {
     "proxy": "https://152.228.163.79:443",
-    "tested_at": "2026-02-13T22:47:49Z",
+    "tested_at": "2026-02-13T23:12:28Z",
     "ip": "2001:41d0:304:200::d951",
     "success": true,
     "type": "IPv6",
@@ -70,7 +70,7 @@
   },
   {
     "proxy": "https://51.38.191.151:443",
-    "tested_at": "2026-02-13T22:47:54Z",
+    "tested_at": "2026-02-13T23:12:29Z",
     "ip": "2001:41d0:305:2100::4801",
     "success": true,
     "type": "IPv6",
@@ -92,9 +92,9 @@
     }
   },
   {
-    "proxy": "https://5.189.184.6:443",
-    "tested_at": "2026-02-13T22:48:07Z",
-    "ip": "5.189.184.6",
+    "proxy": "https://173.249.37.45:5006",
+    "tested_at": "2026-02-13T23:12:30Z",
+    "ip": "173.249.37.45",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -112,29 +112,6 @@
       "org": "Contabo GmbH",
       "isp": "Contabo GmbH",
       "domain": "contabo.de"
-    }
-  },
-  {
-    "proxy": "https://91.121.88.53:443",
-    "tested_at": "2026-02-13T22:48:07Z",
-    "ip": "2001:41d0:1:8d35::1",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Hauts-de-France",
-    "region_code": "HDF",
-    "city": "Roubaix",
-    "latitude": 50.6927049,
-    "longitude": 3.177847,
-    "is_eu": true,
-    "postal": "59100",
-    "connection": {
-      "asn": 16276,
-      "org": "OVH",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
     }
   }
 ]

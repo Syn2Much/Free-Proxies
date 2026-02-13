@@ -1,8 +1,54 @@
 [
   {
-    "proxy": "http://197.164.101.10:1976",
-    "tested_at": "2026-02-13T22:47:59Z",
-    "ip": "197.164.101.10",
+    "proxy": "http://62.193.108.131:1976",
+    "tested_at": "2026-02-13T23:11:56Z",
+    "ip": "62.193.108.131",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Asyut",
+    "region_code": "AST",
+    "city": "Al Qusiyyah",
+    "latitude": 27.4393096,
+    "longitude": 30.8171333,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 36992,
+      "org": "Services in Cairo",
+      "isp": "ETISALAT MISR",
+      "domain": "etisalatdata.net"
+    }
+  },
+  {
+    "proxy": "http://196.204.138.244:1976",
+    "tested_at": "2026-02-13T23:12:24Z",
+    "ip": "196.204.138.244",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Giza",
+    "region_code": "",
+    "city": "Abo El Nomros",
+    "latitude": 29.9517097,
+    "longitude": 31.219709,
+    "is_eu": false,
+    "postal": "12911",
+    "connection": {
+      "asn": 24835,
+      "org": "Vodafone Data",
+      "isp": "Vodafone Data",
+      "domain": "localisp.com"
+    }
+  },
+  {
+    "proxy": "http://41.65.146.182:1981",
+    "tested_at": "2026-02-13T23:12:35Z",
+    "ip": "41.65.146.170",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,56 +62,10 @@
     "is_eu": false,
     "postal": "28625",
     "connection": {
-      "asn": 24863,
-      "org": "",
-      "isp": "Link Egypt link.net",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://197.164.101.12:1976",
-    "tested_at": "2026-02-13T22:48:04Z",
-    "ip": "197.164.101.12",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Egypt",
-    "country_code": "EG",
-    "region": "Cairo",
-    "region_code": "C",
-    "city": "Cairo",
-    "latitude": 30.0444196,
-    "longitude": 31.2357116,
-    "is_eu": false,
-    "postal": "28625",
-    "connection": {
-      "asn": 24863,
-      "org": "",
-      "isp": "Link Egypt link.net",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://41.33.89.100:1981",
-    "tested_at": "2026-02-13T22:48:09Z",
-    "ip": "41.33.89.100",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Egypt",
-    "country_code": "EG",
-    "region": "Al Minya",
-    "region_code": "MN",
-    "city": "Bani Mazar",
-    "latitude": 28.4916998,
-    "longitude": 30.8026155,
-    "is_eu": false,
-    "postal": "61671",
-    "connection": {
-      "asn": 8452,
-      "org": "Te Data",
-      "isp": "TE AS",
-      "domain": "tedata.net"
+      "asn": 36992,
+      "org": "Roda Area Enterprise Customers With Static Ips",
+      "isp": "ETISALAT MISR",
+      "domain": "etisalatdata.net"
     }
   }
 ]

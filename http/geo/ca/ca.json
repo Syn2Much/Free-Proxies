@@ -1,30 +1,30 @@
 [
   {
-    "proxy": "http://72.10.164.178:10563",
-    "tested_at": "2026-02-13T22:47:23Z",
-    "ip": "198.162.116.72",
+    "proxy": "http://85.208.108.43:10808",
+    "tested_at": "2026-02-13T23:11:58Z",
+    "ip": "85.208.108.43",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Canada",
     "country_code": "CA",
-    "region": "British Columbia",
-    "region_code": "BC",
-    "city": "Abbotsford",
-    "latitude": 49.054587,
-    "longitude": -122.328026,
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
     "is_eu": false,
-    "postal": "V2T 1W7",
+    "postal": "M5H 2N2",
     "connection": {
-      "asn": 271,
-      "org": "University of The Fraser Valley",
-      "isp": "BCNET",
-      "domain": "ufv.ca"
+      "asn": 53363,
+      "org": "Worktitans B.V.",
+      "isp": "TANGRAM CANADA INC.",
+      "domain": "the.hosting"
     }
   },
   {
     "proxy": "http://67.43.228.253:3977",
-    "tested_at": "2026-02-13T22:47:53Z",
+    "tested_at": "2026-02-13T23:11:59Z",
     "ip": "142.120.142.128",
     "success": true,
     "type": "IPv4",
@@ -46,49 +46,26 @@
     }
   },
   {
-    "proxy": "http://72.10.164.178:1723",
-    "tested_at": "2026-02-13T22:47:58Z",
-    "ip": "24.202.12.63",
+    "proxy": "http://72.10.164.178:10563",
+    "tested_at": "2026-02-13T23:12:09Z",
+    "ip": "198.162.116.72",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Canada",
     "country_code": "CA",
-    "region": "Québec",
-    "region_code": "QC",
-    "city": "Montreal",
-    "latitude": 45.5016889,
-    "longitude": -73.567256,
+    "region": "British Columbia",
+    "region_code": "BC",
+    "city": "Abbotsford",
+    "latitude": 49.054587,
+    "longitude": -122.328026,
     "is_eu": false,
-    "postal": "H3A 2A6",
+    "postal": "V2T 1W7",
     "connection": {
-      "asn": 5769,
-      "org": "Videotron Ltee",
-      "isp": "Videotron Ltee",
-      "domain": "videotron.com"
-    }
-  },
-  {
-    "proxy": "http://188.227.196.62:1080",
-    "tested_at": "2026-02-13T22:48:12Z",
-    "ip": "188.227.196.62",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Québec",
-    "region_code": "QC",
-    "city": "Québec City",
-    "latitude": 46.8138783,
-    "longitude": -71.2079809,
-    "is_eu": false,
-    "postal": "G1R 4S9",
-    "connection": {
-      "asn": 400897,
-      "org": "PetroSky",
-      "isp": "PETROSKY CLOUD LLC",
-      "domain": "abuseradar.com"
+      "asn": 271,
+      "org": "University of The Fraser Valley",
+      "isp": "BCNET",
+      "domain": "ufv.ca"
     }
   }
 ]

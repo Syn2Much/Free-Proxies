@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://197.211.45.4:10000",
+    "tested_at": "2026-02-13T23:12:04Z",
+    "ip": "129.222.204.27",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "region": "Lagos",
+    "region_code": "LA",
+    "city": "Lagos",
+    "latitude": 6.5243793,
+    "longitude": 3.3792057,
+    "is_eu": false,
+    "postal": "8600-000",
+    "connection": {
+      "asn": 14593,
+      "org": "Starlink",
+      "isp": "Space Exploration Technologies Corporation",
+      "domain": "spacex.com"
+    }
+  }
+]

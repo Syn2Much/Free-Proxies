@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://72.10.164.178:29739",
-    "tested_at": "2026-02-13T22:47:56Z",
+    "tested_at": "2026-02-13T23:11:39Z",
     "ip": "186.188.192.231",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,29 @@
       "org": "Cable Onda",
       "isp": "Cable Onda",
       "domain": "cableonda.com"
+    }
+  },
+  {
+    "proxy": "http://45.229.56.64:999",
+    "tested_at": "2026-02-13T23:11:43Z",
+    "ip": "186.72.64.114",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Panama",
+    "country_code": "PA",
+    "region": "Panama",
+    "region_code": "8",
+    "city": "Panama City",
+    "latitude": 9.1011785,
+    "longitude": -79.4028639,
+    "is_eu": false,
+    "postal": "32417",
+    "connection": {
+      "asn": 11556,
+      "org": "Cable Wireless Panama",
+      "isp": "Cable Wireless Panama",
+      "domain": "cwpanama.net"
     }
   }
 ]
