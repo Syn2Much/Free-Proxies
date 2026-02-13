@@ -1,7 +1,8 @@
 
 # Free Proxies
 
-> This repository provides a regularly refreshed list of free HTTP proxies sourced from the most widely maintained public proxy lists on GitHub. Each proxy undergoes validation to confirm connectivity and response before being added, ensuring a higher quality list compared to raw, unfiltered aggregations.
+> A continuously updated list of free, validated HTTP proxies. Proxies are scraped from all major GitHub sources, deduplicated, and verified before publishing. Every proxy listed was confirmed working at the time of posting.
+
 
 ## How It Works
 
@@ -15,6 +16,13 @@
 
 The proxy list is refreshed on a regular interval. Refer to the latest commit timestamp for the most recent update. Due to the nature of free proxies, individual entries may go offline between updates.
 
-## Disclaimer
+## Support the Project
 
-These proxies are provided as-is for educational and research purposes. Free public proxies carry inherent risks including instability, lack of encryption, and potential logging by the proxy operator. Do not transmit sensitive information through public proxies. Always ensure your usage complies with applicable laws and terms of service.
+If you find this list useful, consider leaving a star on the repository. Stars help gauge interest and directly encourage more frequent validation checks and source expansion.
+
+## Author
+
+**Syn2Much**
+
+- Email: [dev@sinnners.city](mailto:dev@sinnners.city)
+- X: [@synacket](https://x.com/synacket)
