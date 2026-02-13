@@ -2,3 +2,8 @@ main.go
 proxy
 source_analysis.json
 *.exe
+run.sh
+proxyctl
+daemon.log
+.paused
+go.mod
