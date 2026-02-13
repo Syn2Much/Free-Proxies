@@ -37,7 +37,7 @@
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
-    "country": "France",
+    "country": "France", 
     "country_code": "FR",
     "region": "Grand Est",
     "region_code": "GES",
