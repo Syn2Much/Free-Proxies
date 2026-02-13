@@ -1,24 +1,31 @@
 
 # Free Proxies
 
-> A continuously updated list of free, validated HTTP proxies. Proxies are scraped from all major GitHub sources, deduplicated, and verified before publishing. Every proxy listed was confirmed working at the time of posting.
+A regularly updated, ready-to-use list of free HTTP proxies. We scrape from every major public source on GitHub, remove duplicates, and verify each proxy before posting. If it's on the list, it was working when we checked.
 
+---
 
-## How It Works
+## Grab the List
 
-1. **Aggregation** — Proxies are collected from all major public GitHub proxy sources.
-2. **Deduplication** — Duplicate entries across sources are removed.
-3. **Validation** — Each proxy is checked for connectivity, response time, and anonymity level.
-4. **Publishing** — Only proxies that pass validation are committed to this repository.
+Pull the latest directly:
 
+```bash
+curl -s https://raw.githubusercontent.com/syn2much/Free-Proxies/main/http.txt
+```
 
-## Update Schedule
+Or clone the repo:
 
-The proxy list is refreshed on a regular interval. Refer to the latest commit timestamp for the most recent update. Due to the nature of free proxies, individual entries may go offline between updates.
+```bash
+git clone https://github.com/syn2much/Free-Proxies.git
+```
+
+## Updates
+
+The list is refreshed on a regular cycle. Check the latest commit timestamp to see when it was last validated. Free proxies are volatile by nature, so some may drop off between updates.
 
 ## Support the Project
 
-If you find this list useful, consider leaving a star on the repository. Stars help gauge interest and directly encourage more frequent validation checks and source expansion.
+If this saves you time, drop a star on the repo. It helps us know people are using it and motivates more frequent checks and source expansion.
 
 ## Author
 
@@ -26,3 +33,4 @@ If you find this list useful, consider leaving a star on the repository. Stars h
 
 - Email: [dev@sinnners.city](mailto:dev@sinnners.city)
 - X: [@synacket](https://x.com/synacket)
+
