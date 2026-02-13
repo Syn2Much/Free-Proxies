@@ -6,4 +6,6 @@ run.sh
 proxyctl
 daemon.log
 .paused
+.next_run
+.interval
 go.mod
