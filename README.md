@@ -1,10 +1,10 @@
 # Free Proxies
 
-A regularly updated, battle-tested list of free HTTP/HTTPS proxies.
+A regularly updated, validated list of free HTTP/HTTPS proxies.
 
 ✅ Scraped from major GitHub sources  
 ✅ No duplicates  
-✅ Verified before posting  
+✅ Checked before posting 
 
 ---
 
