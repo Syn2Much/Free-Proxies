@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://204.199.139.72:999",
-    "tested_at": "2026-02-14T11:43:18Z",
-    "ip": "204.199.139.70",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Talagante",
-    "latitude": -33.6637468,
-    "longitude": -70.9273937,
-    "is_eu": false,
-    "postal": "975 0000",
-    "connection": {
-      "asn": 273237,
-      "org": "INGBELL CHILE SPA",
-      "isp": "INGBELL CHILE SPA",
-      "domain": "ingbell.cl"
-    }
-  },
-  {
-    "proxy": "http://38.7.221.191:8080",
-    "tested_at": "2026-02-14T11:43:20Z",
-    "ip": "38.7.221.191",
+    "proxy": "http://38.7.195.51:999",
+    "tested_at": "2026-02-14T12:46:04Z",
+    "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -46,8 +23,31 @@
     }
   },
   {
-    "proxy": "http://204.199.139.125:999",
-    "tested_at": "2026-02-14T11:43:56Z",
+    "proxy": "http://179.61.98.3:999",
+    "tested_at": "2026-02-14T12:46:21Z",
+    "ip": "179.61.98.3",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Maule Region",
+    "region_code": "ML",
+    "city": "Molina",
+    "latitude": -35.1164987,
+    "longitude": -71.2829759,
+    "is_eu": false,
+    "postal": "38030",
+    "connection": {
+      "asn": 266900,
+      "org": "SOC. TELEVISIVA CABLE SANTA JUANA LIMITADA.",
+      "isp": "SOC. TELEVISIVA CABLE SANTA JUANA LIMITADA.",
+      "domain": "iptel.cl"
+    }
+  },
+  {
+    "proxy": "http://204.199.139.126:999",
+    "tested_at": "2026-02-14T12:46:25Z",
     "ip": "45.225.204.99",
     "success": true,
     "type": "IPv4",
@@ -69,55 +69,9 @@
     }
   },
   {
-    "proxy": "http://200.95.184.50:999",
-    "tested_at": "2026-02-14T11:44:03Z",
-    "ip": "200.95.184.207",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Ñuble Region",
-    "region_code": "NB",
-    "city": "Chillán",
-    "latitude": -36.6062618,
-    "longitude": -72.1023351,
-    "is_eu": false,
-    "postal": "3780000",
-    "connection": {
-      "asn": 264859,
-      "org": "Comunicaciones Cablevision Ltda.",
-      "isp": "Comunicaciones Cablevision Ltda.",
-      "domain": "wmnet.cl"
-    }
-  },
-  {
-    "proxy": "http://200.95.184.62:999",
-    "tested_at": "2026-02-14T11:44:13Z",
-    "ip": "200.95.184.186",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Ñuble Region",
-    "region_code": "NB",
-    "city": "Chillán",
-    "latitude": -36.6062618,
-    "longitude": -72.1023351,
-    "is_eu": false,
-    "postal": "3780000",
-    "connection": {
-      "asn": 264859,
-      "org": "Comunicaciones Cablevision Ltda.",
-      "isp": "Comunicaciones Cablevision Ltda.",
-      "domain": "wmnet.cl"
-    }
-  },
-  {
-    "proxy": "http://38.7.195.52:999",
-    "tested_at": "2026-02-14T11:44:14Z",
-    "ip": "38.7.195.49",
+    "proxy": "http://190.153.237.6:37453",
+    "tested_at": "2026-02-14T12:46:26Z",
+    "ip": "190.153.237.5",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -131,10 +85,33 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 263702,
-      "org": "Cogent Communications",
-      "isp": "GRUPO ZGH SPA",
-      "domain": "zglobalhost.com"
+      "asn": 14259,
+      "org": "Gtd Internet S.A.",
+      "isp": "Gtd Internet S.A.",
+      "domain": "gtdinternet.com"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:29629",
+    "tested_at": "2026-02-14T12:46:50Z",
+    "ip": "179.60.68.216",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Maule Region",
+    "region_code": "ML",
+    "city": "Curico",
+    "latitude": -34.9779853,
+    "longitude": -71.2528803,
+    "is_eu": false,
+    "postal": "334 2121",
+    "connection": {
+      "asn": 27901,
+      "org": "Pacifico Cable Spa.",
+      "isp": "Pacifico Cable Spa.",
+      "domain": "mundopacifico.cl"
     }
   }
 ]

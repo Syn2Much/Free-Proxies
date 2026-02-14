@@ -1,10 +1,56 @@
 [
   {
-    "proxy": "http://5.75.198.16:1080",
-    "tested_at": "2026-02-14T12:14:53Z",
-    "ip": "2a01:4f8:1c1b:12a0::1",
+    "proxy": "http://15.168.235.57:407",
+    "tested_at": "2026-02-14T12:46:00Z",
+    "ip": "95.164.123.34",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Hesse",
+    "region_code": "HE",
+    "city": "Frankfurt",
+    "latitude": 50.1109221,
+    "longitude": 8.6821267,
+    "is_eu": true,
+    "postal": "60311",
+    "connection": {
+      "asn": 213702,
+      "org": "QWINS LTD",
+      "isp": "QWINS LTD",
+      "domain": "qwins.co"
+    }
+  },
+  {
+    "proxy": "http://206.81.31.215:80",
+    "tested_at": "2026-02-14T12:46:11Z",
+    "ip": "2a03:b0c0:3:d0::f1c:5001",
     "success": true,
     "type": "IPv6",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Hesse",
+    "region_code": "HE",
+    "city": "Frankfurt",
+    "latitude": 50.1109221,
+    "longitude": 8.6821267,
+    "is_eu": true,
+    "postal": "60311",
+    "connection": {
+      "asn": 14061,
+      "org": "DIGITALOCEAN",
+      "isp": "Digitalocean, LLC",
+      "domain": "digitalocean.com"
+    }
+  },
+  {
+    "proxy": "http://5.75.198.16:1080",
+    "tested_at": "2026-02-14T12:46:17Z",
+    "ip": "5.75.198.16",
+    "success": true,
+    "type": "IPv4",
     "continent": "Europe",
     "country": "Germany",
     "country_code": "DE",
@@ -23,31 +69,8 @@
     }
   },
   {
-    "proxy": "http://194.59.204.87:9080",
-    "tested_at": "2026-02-14T12:14:57Z",
-    "ip": "194.59.204.87",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Bavaria",
-    "region_code": "BY",
-    "city": "Nuremberg",
-    "latitude": 49.4254092,
-    "longitude": 11.0796553,
-    "is_eu": true,
-    "postal": "90403",
-    "connection": {
-      "asn": 197540,
-      "org": "Netcup GmbH",
-      "isp": "Netcup GmbH",
-      "domain": "netcup.de"
-    }
-  },
-  {
     "proxy": "http://47.91.65.23:3128",
-    "tested_at": "2026-02-14T12:14:59Z",
+    "tested_at": "2026-02-14T12:46:51Z",
     "ip": "47.91.65.23",
     "success": true,
     "type": "IPv4",
@@ -66,75 +89,6 @@
       "org": "Alibaba Cloud De",
       "isp": "Alibaba us Technology Co., Ltd.",
       "domain": "alibabacloud.com"
-    }
-  },
-  {
-    "proxy": "http://128.140.118.165:1080",
-    "tested_at": "2026-02-14T12:15:00Z",
-    "ip": "2a01:4f8:c17:162d::1",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Saxony",
-    "region_code": "SN",
-    "city": "Falkenstein",
-    "latitude": 50.4750046,
-    "longitude": 12.3649754,
-    "is_eu": true,
-    "postal": "08324",
-    "connection": {
-      "asn": 24940,
-      "org": "Hetzner Online GmbH",
-      "isp": "Hetzner Online GmbH",
-      "domain": "hetzner.de"
-    }
-  },
-  {
-    "proxy": "http://195.133.64.177:3128",
-    "tested_at": "2026-02-14T12:15:12Z",
-    "ip": "195.133.64.177",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Hesse",
-    "region_code": "HE",
-    "city": "Frankfurt",
-    "latitude": 50.1109221,
-    "longitude": 8.6821267,
-    "is_eu": true,
-    "postal": "60311",
-    "connection": {
-      "asn": 199785,
-      "org": "Cloud Hosting Solutions, Limited.",
-      "isp": "Cloud Hosting Solutions, Limited.",
-      "domain": "chosting.solutions"
-    }
-  },
-  {
-    "proxy": "http://195.133.44.205:8443",
-    "tested_at": "2026-02-14T12:15:22Z",
-    "ip": "195.133.44.205",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Hesse",
-    "region_code": "HE",
-    "city": "Frankfurt",
-    "latitude": 50.1109221,
-    "longitude": 8.6821267,
-    "is_eu": true,
-    "postal": "60311",
-    "connection": {
-      "asn": 215346,
-      "org": "Glb Bulut Teknolojisi Limited Sirketi",
-      "isp": "Big Data Host LLC",
-      "domain": "yandex.com"
     }
   }
 ]

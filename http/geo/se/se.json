@@ -1,71 +1,25 @@
 [
   {
-    "proxy": "http://83.219.250.8:62920",
-    "tested_at": "2026-02-14T12:15:18Z",
-    "ip": "83.219.250.8",
+    "proxy": "http://65.108.203.37:18080",
+    "tested_at": "2026-02-14T12:46:17Z",
+    "ip": "2001:67c:2660:425:1f::2c7",
     "success": true,
-    "type": "IPv4",
+    "type": "IPv6",
     "continent": "Europe",
     "country": "Sweden",
     "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Stockholm",
-    "latitude": 59.3293235,
-    "longitude": 18.0685808,
+    "region": "Östergötland County",
+    "region_code": "E",
+    "city": "Linköping",
+    "latitude": 58.410807,
+    "longitude": 15.6213727,
     "is_eu": true,
-    "postal": "111 29",
+    "postal": "582 24",
     "connection": {
-      "asn": 41745,
-      "org": "Baykov Ilya Sergeevich",
-      "isp": "Baykov Ilya Sergeevich",
-      "domain": "fortis.host"
-    }
-  },
-  {
-    "proxy": "http://193.181.35.95:8118",
-    "tested_at": "2026-02-14T12:15:24Z",
-    "ip": "193.181.35.95",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Stockholm",
-    "latitude": 59.3293235,
-    "longitude": 18.0685808,
-    "is_eu": true,
-    "postal": "111 29",
-    "connection": {
-      "asn": 42201,
-      "org": "Pvdatanet Ab",
-      "isp": "Pvdatanet Ab",
-      "domain": "pvdatanet.com"
-    }
-  },
-  {
-    "proxy": "http://46.246.1.106:3128",
-    "tested_at": "2026-02-14T12:15:29Z",
-    "ip": "46.246.1.106",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Stockholm",
-    "latitude": 59.3,
-    "longitude": 17.966667,
-    "is_eu": true,
-    "postal": "129 41",
-    "connection": {
-      "asn": 206804,
-      "org": "Swedish Infra",
-      "isp": "Estnoc Ou",
-      "domain": "estnoc.ee"
+      "asn": 205016,
+      "org": "Hern Labs Ab",
+      "isp": "Hern Labs Ab",
+      "domain": "hernlabs.se"
     }
   }
 ]

@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://46.55.143.145:8080",
-    "tested_at": "2026-02-14T12:15:06Z",
-    "ip": "46.55.143.145",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "region": "Plovdiv",
-    "region_code": "16",
-    "city": "Plovdiv",
-    "latitude": 42.1354079,
-    "longitude": 24.7452904,
-    "is_eu": true,
-    "postal": "4000",
-    "connection": {
-      "asn": 51582,
-      "org": "Dcc Plovdiv",
-      "isp": "Cifrova Kabelna Korporacia Eood",
-      "domain": "dcc.bg"
-    }
-  },
-  {
     "proxy": "http://77.238.79.111:8080",
-    "tested_at": "2026-02-14T12:15:10Z",
+    "tested_at": "2026-02-14T12:46:05Z",
     "ip": "77.238.79.111",
     "success": true,
     "type": "IPv4",
@@ -46,26 +23,26 @@
     }
   },
   {
-    "proxy": "http://85.187.224.21:8080",
-    "tested_at": "2026-02-14T12:15:11Z",
-    "ip": "85.187.224.21",
+    "proxy": "http://85.217.192.39:1414",
+    "tested_at": "2026-02-14T12:46:45Z",
+    "ip": "85.217.192.39",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Bulgaria",
     "country_code": "BG",
-    "region": "Vratsa",
-    "region_code": "06",
-    "city": "Vratsa",
-    "latitude": 43.2102375,
-    "longitude": 23.5528803,
+    "region": "Veliko Tarnovo",
+    "region_code": "04",
+    "city": "Svishtov",
+    "latitude": 43.618351,
+    "longitude": 25.3506225,
     "is_eu": true,
-    "postal": "3000",
+    "postal": "5250",
     "connection": {
-      "asn": 199173,
-      "org": "Technolux Ltd.",
-      "isp": "Technolux Ltd.",
-      "domain": "technolux.com"
+      "asn": 34368,
+      "org": "NETERRA THEZONE NET",
+      "isp": "Zonata Invest Sllc",
+      "domain": "neterra.net"
     }
   }
 ]

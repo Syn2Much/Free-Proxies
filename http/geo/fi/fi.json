@@ -1,7 +1,7 @@
 [
   {
-    "proxy": "http://65.108.159.129:8081",
-    "tested_at": "2026-02-14T12:14:44Z",
+    "proxy": "http://65.108.159.129:5153",
+    "tested_at": "2026-02-14T12:45:58Z",
     "ip": "65.108.159.129",
     "success": true,
     "type": "IPv4",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://193.47.60.119:52681",
-    "tested_at": "2026-02-14T12:14:46Z",
-    "ip": "193.47.60.119",
+    "proxy": "http://65.108.159.129:4145",
+    "tested_at": "2026-02-14T12:46:03Z",
+    "ip": "65.108.159.129",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,33 +39,10 @@
     "is_eu": true,
     "postal": "02101",
     "connection": {
-      "asn": 41745,
-      "org": "Baykov Ilya Sergeevich",
-      "isp": "Baykov Ilya Sergeevich",
-      "domain": "fortis.host"
-    }
-  },
-  {
-    "proxy": "http://31.57.62.235:37982",
-    "tested_at": "2026-02-14T12:15:24Z",
-    "ip": "31.57.62.235",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Finland",
-    "country_code": "FI",
-    "region": "Mainland Finland",
-    "region_code": "",
-    "city": "Helsinki",
-    "latitude": 60.1698557,
-    "longitude": 24.938379,
-    "is_eu": true,
-    "postal": "02101",
-    "connection": {
-      "asn": 56971,
-      "org": "CGI GLOBAL LIMITED",
-      "isp": "CGI GLOBAL LIMITED",
-      "domain": "cloudbackbone.net"
+      "asn": 24940,
+      "org": "Hetzner Online GmbH",
+      "isp": "Hetzner Online GmbH",
+      "domain": "hetzner.com"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://47.79.91.116:1122",
-    "tested_at": "2026-02-14T12:14:44Z",
-    "ip": "47.79.91.116",
+    "proxy": "http://67.43.236.18:20809",
+    "tested_at": "2026-02-14T12:46:08Z",
+    "ip": "126.107.124.202",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,21 +10,21 @@
     "country_code": "JP",
     "region": "Tokyo",
     "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
+    "city": "Minato",
+    "latitude": 35.6580681,
+    "longitude": 139.7515992,
     "is_eu": false,
-    "postal": "100-0002",
+    "postal": "108-0074",
     "connection": {
-      "asn": 45102,
-      "org": "Alibaba Cloud LLC",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibaba-inc.com"
+      "asn": 17676,
+      "org": "Softbank Corp.",
+      "isp": "Softbank Mobile Corp.",
+      "domain": "bbtec.net"
     }
   },
   {
     "proxy": "http://8.209.255.13:3128",
-    "tested_at": "2026-02-14T12:14:47Z",
+    "tested_at": "2026-02-14T12:46:38Z",
     "ip": "8.209.255.13",
     "success": true,
     "type": "IPv4",
@@ -46,31 +46,8 @@
     }
   },
   {
-    "proxy": "http://72.10.164.178:27555",
-    "tested_at": "2026-02-14T12:15:01Z",
-    "ip": "202.12.244.136",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
-    "is_eu": false,
-    "postal": "100-0002",
-    "connection": {
-      "asn": 55900,
-      "org": "Glbb Japan KK",
-      "isp": "Glbb Japan KK",
-      "domain": "glbb.ne.jp"
-    }
-  },
-  {
     "proxy": "http://150.230.104.3:16728",
-    "tested_at": "2026-02-14T12:15:04Z",
+    "tested_at": "2026-02-14T12:46:46Z",
     "ip": "150.230.104.3",
     "success": true,
     "type": "IPv4",
@@ -89,6 +66,29 @@
       "org": "Oracle Corporation",
       "isp": "Oracle Corporation",
       "domain": "oracle.com"
+    }
+  },
+  {
+    "proxy": "http://47.79.94.191:1122",
+    "tested_at": "2026-02-14T12:46:53Z",
+    "ip": "47.79.94.191",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
+    "is_eu": false,
+    "postal": "100-0002",
+    "connection": {
+      "asn": 45102,
+      "org": "Alibaba Cloud LLC",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibaba-inc.com"
     }
   }
 ]

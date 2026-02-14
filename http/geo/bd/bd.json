@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://103.112.54.21:58080",
-    "tested_at": "2026-02-14T12:14:45Z",
-    "ip": "103.112.54.21",
+    "proxy": "http://175.29.125.242:8080",
+    "tested_at": "2026-02-14T12:46:04Z",
+    "ip": "202.4.112.82",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,39 +16,62 @@
     "is_eu": false,
     "postal": "1229",
     "connection": {
-      "asn": 63526,
-      "org": "Carnival Internet",
-      "isp": "Systems Solutions Development Technologies Limited",
-      "domain": "carnival.com.bd"
+      "asn": 23956,
+      "org": "Amber IT Limited",
+      "isp": "Amber IT Limited",
+      "domain": "amberit.com.bd"
     }
   },
   {
-    "proxy": "http://103.148.178.10:80",
-    "tested_at": "2026-02-14T12:14:48Z",
-    "ip": "103.148.178.10",
+    "proxy": "http://163.227.144.104:8090",
+    "tested_at": "2026-02-14T12:46:04Z",
+    "ip": "163.227.144.109",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Bangladesh",
     "country_code": "BD",
-    "region": "Dhaka Division",
-    "region_code": "13",
-    "city": "Dhaka",
-    "latitude": 23.810332,
-    "longitude": 90.4125181,
+    "region": "Rangpur Division",
+    "region_code": "F",
+    "city": "Gaibandha District",
+    "latitude": 25.3296928,
+    "longitude": 89.5429652,
     "is_eu": false,
-    "postal": "1229",
+    "postal": "৫৭০০",
     "connection": {
-      "asn": 140216,
-      "org": "Bandhon Enterprise",
-      "isp": "Bandhon Enterprise",
-      "domain": "bandhon.com.bd"
+      "asn": 133605,
+      "org": "M s Mehedi Traders",
+      "isp": "Bright Technologies Limited",
+      "domain": "btl.net.bd"
     }
   },
   {
-    "proxy": "http://180.211.177.206:58080",
-    "tested_at": "2026-02-14T12:14:51Z",
-    "ip": "180.211.177.206",
+    "proxy": "http://182.252.74.40:8080",
+    "tested_at": "2026-02-14T12:46:05Z",
+    "ip": "182.252.74.146",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "region": "Sylhet Division",
+    "region_code": "60",
+    "city": "Moulvibazar",
+    "latitude": 24.4842661,
+    "longitude": 91.768487,
+    "is_eu": false,
+    "postal": "3200",
+    "connection": {
+      "asn": 23923,
+      "org": "Wimax Customer Allocation for Agni Dhaka Zone gp",
+      "isp": "Agni Systems Limited",
+      "domain": "agni.com"
+    }
+  },
+  {
+    "proxy": "http://180.211.161.110:8080",
+    "tested_at": "2026-02-14T12:46:12Z",
+    "ip": "180.211.161.110",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -69,9 +92,55 @@
     }
   },
   {
-    "proxy": "http://103.140.235.38:8080",
-    "tested_at": "2026-02-14T12:15:01Z",
-    "ip": "103.140.234.39",
+    "proxy": "http://103.115.243.237:2214",
+    "tested_at": "2026-02-14T12:46:21Z",
+    "ip": "161.248.205.220",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "region": "Dhaka Division",
+    "region_code": "13",
+    "city": "Gazipur",
+    "latitude": 23.9999405,
+    "longitude": 90.4202724,
+    "is_eu": false,
+    "postal": "1701",
+    "connection": {
+      "asn": 131464,
+      "org": "Net Express",
+      "isp": "Digi Jadoo Broadband LTD",
+      "domain": "netexpressbd.net"
+    }
+  },
+  {
+    "proxy": "http://103.140.25.230:8080",
+    "tested_at": "2026-02-14T12:46:41Z",
+    "ip": "103.140.25.230",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "region": "Chattogram Division",
+    "region_code": "B",
+    "city": "Chittagong",
+    "latitude": 22.3475365,
+    "longitude": 91.8123324,
+    "is_eu": false,
+    "postal": "4225",
+    "connection": {
+      "asn": 139227,
+      "org": "AS1",
+      "isp": "Hello IT",
+      "domain": "telenusa.net"
+    }
+  },
+  {
+    "proxy": "http://118.179.151.57:5020",
+    "tested_at": "2026-02-14T12:46:43Z",
+    "ip": "118.179.151.57",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -85,15 +154,38 @@
     "is_eu": false,
     "postal": "1229",
     "connection": {
-      "asn": 139294,
-      "org": "Skynet Broadband Network",
-      "isp": "Skynet Broadband Network",
-      "domain": "skynetbn.com"
+      "asn": 23956,
+      "org": "Amber IT Limited",
+      "isp": "Amber IT Limited",
+      "domain": "amberit.com.bd"
+    }
+  },
+  {
+    "proxy": "http://103.161.69.233:2698",
+    "tested_at": "2026-02-14T12:46:52Z",
+    "ip": "103.161.69.253",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "region": "Chattogram Division",
+    "region_code": "B",
+    "city": "Chittagong",
+    "latitude": 22.3475365,
+    "longitude": 91.8123324,
+    "is_eu": false,
+    "postal": "4225",
+    "connection": {
+      "asn": 137967,
+      "org": "Confidence Power Bogra Unit Limited",
+      "isp": "Digicon Telecommunication LTD",
+      "domain": "confidencegroup.com.bd"
     }
   },
   {
     "proxy": "http://123.0.18.20:1452",
-    "tested_at": "2026-02-14T12:15:18Z",
+    "tested_at": "2026-02-14T12:46:54Z",
     "ip": "123.0.18.20",
     "success": true,
     "type": "IPv4",
@@ -112,29 +204,6 @@
       "org": "Icon Infotech Limited",
       "isp": "Icon Infotech Limited",
       "domain": "icon-infotech.net"
-    }
-  },
-  {
-    "proxy": "http://123.200.6.206:2314",
-    "tested_at": "2026-02-14T12:15:28Z",
-    "ip": "123.200.6.205",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Bangladesh",
-    "country_code": "BD",
-    "region": "Dhaka Division",
-    "region_code": "13",
-    "city": "Dhaka",
-    "latitude": 23.810332,
-    "longitude": 90.4125181,
-    "is_eu": false,
-    "postal": "1229",
-    "connection": {
-      "asn": 23688,
-      "org": "Link Technologies Ltd",
-      "isp": "Link Technologies Limited",
-      "domain": "link3.net"
     }
   }
 ]

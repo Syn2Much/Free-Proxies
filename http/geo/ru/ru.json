@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://158.160.133.16:8087",
-    "tested_at": "2026-02-14T12:14:53Z",
+    "tested_at": "2026-02-14T12:45:57Z",
     "ip": "158.160.133.16",
     "success": true,
     "type": "IPv4",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://91.203.242.66:222",
-    "tested_at": "2026-02-14T12:15:07Z",
-    "ip": "91.203.242.66",
+    "proxy": "http://46.28.88.19:8080",
+    "tested_at": "2026-02-14T12:46:01Z",
+    "ip": "46.28.88.19",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,62 +39,16 @@
     "is_eu": false,
     "postal": "103073",
     "connection": {
-      "asn": 47335,
-      "org": "ABN LTD",
-      "isp": "ABN LTD",
-      "domain": "abn-telecom.ru"
+      "asn": 25227,
+      "org": "Avantel Static Ip Block",
+      "isp": "JSC Avantel",
+      "domain": "avantel.ru"
     }
   },
   {
-    "proxy": "http://158.160.215.167:8127",
-    "tested_at": "2026-02-14T12:15:13Z",
-    "ip": "170.168.253.16",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Moscow",
-    "region_code": "MOW",
-    "city": "Zelenograd",
-    "latitude": 55.9871526,
-    "longitude": 37.2021514,
-    "is_eu": false,
-    "postal": "124460",
-    "connection": {
-      "asn": 44559,
-      "org": "IT Hostline LTD",
-      "isp": "IT HOSTLINE LTD",
-      "domain": "ithostline.com"
-    }
-  },
-  {
-    "proxy": "http://45.151.182.9:3128",
-    "tested_at": "2026-02-14T12:15:17Z",
-    "ip": "45.151.182.9",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Moscow",
-    "region_code": "MOW",
-    "city": "Moscow",
-    "latitude": 55.755826,
-    "longitude": 37.6173,
-    "is_eu": false,
-    "postal": "103073",
-    "connection": {
-      "asn": 213220,
-      "org": "THUNDER NETWORK LIMITED",
-      "isp": "Delta LTD",
-      "domain": "telkom.co.za"
-    }
-  },
-  {
-    "proxy": "http://158.160.215.167:8123",
-    "tested_at": "2026-02-14T12:15:18Z",
-    "ip": "195.19.170.219",
+    "proxy": "http://5.53.125.99:3128",
+    "tested_at": "2026-02-14T12:46:21Z",
+    "ip": "5.53.125.99",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -109,15 +63,15 @@
     "postal": "191186",
     "connection": {
       "asn": 49505,
-      "org": "Comfortel Ltd.",
+      "org": "Selectel Network",
       "isp": "JSC Selectel",
-      "domain": "comfortel.pro"
+      "domain": "selectel.ru"
     }
   },
   {
-    "proxy": "http://176.124.219.49:3128",
-    "tested_at": "2026-02-14T12:15:21Z",
-    "ip": "176.124.219.49",
+    "proxy": "http://45.87.140.155:8080",
+    "tested_at": "2026-02-14T12:46:36Z",
+    "ip": "45.87.140.155",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -131,39 +85,16 @@
     "is_eu": false,
     "postal": "103073",
     "connection": {
-      "asn": 9123,
-      "org": "JSC TIMEWEB",
-      "isp": "JSC TIMEWEB",
-      "domain": "timeweb.ru"
+      "asn": 208879,
+      "org": "Teraline Telecom LTD",
+      "isp": "Teraline Telecom LTD",
+      "domain": "teraline.net"
     }
   },
   {
-    "proxy": "http://87.76.1.80:8080",
-    "tested_at": "2026-02-14T12:15:21Z",
-    "ip": "87.76.1.80",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Ulyanovsk Oblast",
-    "region_code": "ULY",
-    "city": "Ulyanovsk",
-    "latitude": 54.3181598,
-    "longitude": 48.3837914,
-    "is_eu": false,
-    "postal": "432005",
-    "connection": {
-      "asn": 50716,
-      "org": "Telecom.ru LTD",
-      "isp": "Telecom.ru LTD",
-      "domain": "telecom.ru"
-    }
-  },
-  {
-    "proxy": "http://158.160.215.167:8124",
-    "tested_at": "2026-02-14T12:15:23Z",
-    "ip": "154.212.30.205",
+    "proxy": "http://158.160.215.167:8126",
+    "tested_at": "2026-02-14T12:46:40Z",
+    "ip": "45.195.99.254",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -177,10 +108,33 @@
     "is_eu": false,
     "postal": "103073",
     "connection": {
-      "asn": 49505,
+      "asn": 44559,
       "org": "IT HOST BKPL",
-      "isp": "JSC Selectel",
-      "domain": "backupland.com"
+      "isp": "IT HOSTLINE LTD",
+      "domain": "blsync.com"
+    }
+  },
+  {
+    "proxy": "http://91.203.179.72:65056",
+    "tested_at": "2026-02-14T12:46:42Z",
+    "ip": "91.203.179.72",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Russia",
+    "country_code": "RU",
+    "region": "Smolensk Oblast",
+    "region_code": "SMO",
+    "city": "Smolensk",
+    "latitude": 54.7903112,
+    "longitude": 32.0503663,
+    "is_eu": false,
+    "postal": "210000",
+    "connection": {
+      "asn": 47118,
+      "org": "Man Net Ltd.",
+      "isp": "Man Net Ltd.",
+      "domain": "mannet.ru"
     }
   }
 ]

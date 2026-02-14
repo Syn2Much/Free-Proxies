@@ -1,23 +1,23 @@
 [
   {
-    "proxy": "http://60.54.47.75:8081",
-    "tested_at": "2026-02-14T12:14:56Z",
-    "ip": "60.54.47.75",
+    "proxy": "http://72.10.160.90:29961",
+    "tested_at": "2026-02-14T12:46:09Z",
+    "ip": "210.186.196.237",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Malaysia",
     "country_code": "MY",
-    "region": "Selangor",
-    "region_code": "10",
-    "city": "Cyberjaya",
-    "latitude": 2.921318,
-    "longitude": 101.6559349,
+    "region": "Federal Territory of Kuala Lumpur",
+    "region_code": "",
+    "city": "Kuala Lumpur",
+    "latitude": 3.139003,
+    "longitude": 101.686855,
     "is_eu": false,
-    "postal": "63200",
+    "postal": "50050",
     "connection": {
       "asn": 4788,
-      "org": "TM TECHNOLOGY SERVICES SDN BHD",
+      "org": "TMNET",
       "isp": "TM TECHNOLOGY SERVICES SDN BHD",
       "domain": "tm.com.my"
     }

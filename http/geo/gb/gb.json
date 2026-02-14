@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://109.120.135.230:2030",
-    "tested_at": "2026-02-14T12:14:55Z",
+    "tested_at": "2026-02-14T12:46:01Z",
     "ip": "2a0b:4140:685e::2",
     "success": true,
     "type": "IPv6",
@@ -20,29 +20,6 @@
       "org": "AEZA NETWORK STOCKHOLM",
       "isp": "AEZA INTERNATIONAL LTD",
       "domain": "aeza.net"
-    }
-  },
-  {
-    "proxy": "http://67.43.236.20:2321",
-    "tested_at": "2026-02-14T12:15:25Z",
-    "ip": "82.31.23.59",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "Manchester",
-    "latitude": 53.4807593,
-    "longitude": -2.2426305,
-    "is_eu": false,
-    "postal": "M2 3FU",
-    "connection": {
-      "asn": 5089,
-      "org": "STOKE",
-      "isp": "Virgin Media Limited",
-      "domain": "stoke.gov.uk"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://217.29.208.206:9999",
-    "tested_at": "2026-02-14T12:15:07Z",
-    "ip": "217.29.208.206",
+    "proxy": "http://41.57.6.30:6060",
+    "tested_at": "2026-02-14T12:46:05Z",
+    "ip": "41.57.6.30",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -10,62 +10,39 @@
     "country_code": "ZA",
     "region": "North West",
     "region_code": "NW",
-    "city": "Potchefstroom",
-    "latitude": -26.7145297,
-    "longitude": 27.0970475,
+    "city": "Rustenburg",
+    "latitude": -25.6544483,
+    "longitude": 27.255854,
     "is_eu": false,
-    "postal": "2520",
+    "postal": "0300",
     "connection": {
-      "asn": 328471,
-      "org": "HERO TELECOMS PTY LTD",
-      "isp": "HERO TELECOMS PTY LTD",
-      "domain": "herotel.com"
+      "asn": 327688,
+      "org": "Breakout Point 1",
+      "isp": "Screamer Telecommunications",
+      "domain": "screamer.co.za"
     }
   },
   {
-    "proxy": "http://196.216.134.71:8865",
-    "tested_at": "2026-02-14T12:15:26Z",
-    "ip": "196.216.134.71",
+    "proxy": "http://102.217.139.31:8180",
+    "tested_at": "2026-02-14T12:46:24Z",
+    "ip": "102.217.139.31",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "South Africa",
     "country_code": "ZA",
-    "region": "North West",
-    "region_code": "NW",
-    "city": "Vryburg",
-    "latitude": -26.9584048,
-    "longitude": 24.7298615,
+    "region": "Western Cape",
+    "region_code": "WC",
+    "city": "Cape Town",
+    "latitude": -34.1340882,
+    "longitude": 18.4187029,
     "is_eu": false,
-    "postal": "8601",
+    "postal": "7975",
     "connection": {
-      "asn": 328471,
-      "org": "HERO TELECOMS PTY LTD",
-      "isp": "HERO TELECOMS PTY LTD",
-      "domain": "herotel.com"
-    }
-  },
-  {
-    "proxy": "http://196.251.222.154:8103",
-    "tested_at": "2026-02-14T12:15:31Z",
-    "ip": "196.251.222.154",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Gauteng",
-    "region_code": "GT",
-    "city": "Johannesburg",
-    "latitude": -26.2041028,
-    "longitude": 28.0473051,
-    "is_eu": false,
-    "postal": "2001",
-    "connection": {
-      "asn": 37403,
-      "org": "Infogro Dsl",
-      "isp": "Info gro pty LTD",
-      "domain": "infogro.net"
+      "asn": 329181,
+      "org": "Bluedog Technology",
+      "isp": "Bluedog Technology",
+      "domain": "bluedogtech.co.za"
     }
   }
 ]

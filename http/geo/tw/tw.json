@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://35.234.17.221:8080",
-    "tested_at": "2026-02-14T12:14:44Z",
-    "ip": "35.234.17.221",
+    "proxy": "http://220.128.223.136:8081",
+    "tested_at": "2026-02-14T12:45:58Z",
+    "ip": "220.128.223.136",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,33 @@
     "is_eu": false,
     "postal": "11008",
     "connection": {
-      "asn": 396982,
-      "org": "Google LLC",
-      "isp": "Google LLC",
-      "domain": "google.com"
+      "asn": 3462,
+      "org": "Chunghwa Telecom CO.,LTD.",
+      "isp": "Chunghwa Telecom Co., Ltd.",
+      "domain": "twnic.tw"
+    }
+  },
+  {
+    "proxy": "http://220.128.223.136:8083",
+    "tested_at": "2026-02-14T12:46:29Z",
+    "ip": "220.128.223.136",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "region": "Keelung City",
+    "region_code": "KEE",
+    "city": "Taipei",
+    "latitude": 25.0329694,
+    "longitude": 121.5654177,
+    "is_eu": false,
+    "postal": "11008",
+    "connection": {
+      "asn": 3462,
+      "org": "Chunghwa Telecom CO.,LTD.",
+      "isp": "Chunghwa Telecom Co., Ltd.",
+      "domain": "twnic.tw"
     }
   }
 ]
