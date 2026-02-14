@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://89.26.83.25:8080",
+    "tested_at": "2026-02-14T00:14:56Z",
+    "ip": "89.26.83.25",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Austria",
+    "country_code": "AT",
+    "region": "Salzburg",
+    "region_code": "5",
+    "city": "Rauris",
+    "latitude": 47.2291409,
+    "longitude": 12.9943159,
+    "is_eu": true,
+    "postal": "5661",
+    "connection": {
+      "asn": 8445,
+      "org": "Salzburg AG Fur Energie, Verkehr Und Telekommunikation",
+      "isp": "Salzburg AG Fur Energie, Verkehr Und Telekommunikation",
+      "domain": "salzburg-ag.at"
+    }
+  }
+]

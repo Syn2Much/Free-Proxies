@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://92.247.12.136:9510",
-    "tested_at": "2026-02-13T23:43:27Z",
-    "ip": "92.247.12.130",
+    "proxy": "http://45.136.198.40:3128",
+    "tested_at": "2026-02-14T00:14:30Z",
+    "ip": "45.136.198.40",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,16 +16,16 @@
     "is_eu": true,
     "postal": "1000",
     "connection": {
-      "asn": 8717,
-      "org": "Spectrum Net Sofia",
-      "isp": "A1 Bulgaria Ead",
-      "domain": "a1.bg"
+      "asn": 9009,
+      "org": "Iroko Networks Corporation",
+      "isp": "M Europe SRL",
+      "domain": "iroko.net"
     }
   },
   {
-    "proxy": "http://52.66.191.112:16924",
-    "tested_at": "2026-02-13T23:43:45Z",
-    "ip": "91.92.109.126",
+    "proxy": "http://77.238.79.111:8080",
+    "tested_at": "2026-02-14T00:14:45Z",
+    "ip": "77.238.79.111",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,9 +39,32 @@
     "is_eu": true,
     "postal": "1000",
     "connection": {
-      "asn": 34224,
-      "org": "VPSBG",
-      "isp": "Neterra Ltd.",
+      "asn": 39135,
+      "org": "FIBER1",
+      "isp": "Fiber 1 Ltd.",
+      "domain": "fiber1.bg"
+    }
+  },
+  {
+    "proxy": "http://85.217.192.39:1414",
+    "tested_at": "2026-02-14T00:14:53Z",
+    "ip": "85.217.192.39",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "region": "Veliko Tarnovo",
+    "region_code": "04",
+    "city": "Svishtov",
+    "latitude": 43.618351,
+    "longitude": 25.3506225,
+    "is_eu": true,
+    "postal": "5250",
+    "connection": {
+      "asn": 34368,
+      "org": "NETERRA THEZONE NET",
+      "isp": "Zonata Invest Sllc",
       "domain": "neterra.net"
     }
   }

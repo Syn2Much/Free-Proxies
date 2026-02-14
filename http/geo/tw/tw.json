@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://210.61.216.63:60808",
-    "tested_at": "2026-02-13T23:12:03Z",
-    "ip": "114.45.134.60",
+    "proxy": "http://106.104.177.158:60808",
+    "tested_at": "2026-02-14T00:14:31Z",
+    "ip": "106.104.177.158",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "region": "Keelung City",
+    "region_code": "KEE",
+    "city": "Taipei",
+    "latitude": 25.0329694,
+    "longitude": 121.5654177,
+    "is_eu": false,
+    "postal": "11008",
+    "connection": {
+      "asn": 4780,
+      "org": "New Century Infocomm Tech. Co., Ltd.",
+      "isp": "Digital United Inc.",
+      "domain": "seed.net.tw"
+    }
+  },
+  {
+    "proxy": "http://118.163.120.181:58837",
+    "tested_at": "2026-02-14T00:14:46Z",
+    "ip": "118.163.120.181",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",

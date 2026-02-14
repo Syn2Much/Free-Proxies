@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "https://165.231.141.122:9443",
-    "tested_at": "2026-02-13T23:43:03Z",
-    "ip": "165.231.193.201",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Estonia",
-    "country_code": "EE",
-    "region": "Harju maakond",
-    "region_code": "",
-    "city": "Tallinn",
-    "latitude": 59.4369608,
-    "longitude": 24.7535746,
-    "is_eu": true,
-    "postal": "10123",
-    "connection": {
-      "asn": 58065,
-      "org": "Fiber Grid",
-      "isp": "Orion Network Limited",
-      "domain": "fibergrid.net"
-    }
-  },
-  {
-    "proxy": "https://165.231.141.138:443",
-    "tested_at": "2026-02-13T23:43:03Z",
-    "ip": "165.231.193.103",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Estonia",
-    "country_code": "EE",
-    "region": "Harju maakond",
-    "region_code": "",
-    "city": "Tallinn",
-    "latitude": 59.4369608,
-    "longitude": 24.7535746,
-    "is_eu": true,
-    "postal": "10123",
-    "connection": {
-      "asn": 58065,
-      "org": "Fiber Grid",
-      "isp": "Orion Network Limited",
-      "domain": "fibergrid.net"
-    }
-  },
-  {
-    "proxy": "https://165.231.141.74:9443",
-    "tested_at": "2026-02-13T23:43:25Z",
-    "ip": "196.196.122.231",
+    "proxy": "https://165.231.141.130:9443",
+    "tested_at": "2026-02-14T00:14:12Z",
+    "ip": "165.231.141.134",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -66,29 +20,6 @@
       "org": "Fiber Grid",
       "isp": "Orion Network Limited",
       "domain": "fibergrid.co.za"
-    }
-  },
-  {
-    "proxy": "https://165.231.141.138:9443",
-    "tested_at": "2026-02-13T23:43:35Z",
-    "ip": "165.231.193.103",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Estonia",
-    "country_code": "EE",
-    "region": "Harju maakond",
-    "region_code": "",
-    "city": "Tallinn",
-    "latitude": 59.4369608,
-    "longitude": 24.7535746,
-    "is_eu": true,
-    "postal": "10123",
-    "connection": {
-      "asn": 58065,
-      "org": "Fiber Grid",
-      "isp": "Orion Network Limited",
-      "domain": "fibergrid.net"
     }
   }
 ]

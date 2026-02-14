@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://143.198.37.6:8888",
-    "tested_at": "2026-02-13T23:43:04Z",
-    "ip": "178.249.214.14",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 212238,
-      "org": "CDNEXT TOR",
-      "isp": "Datacamp Limited",
-      "domain": "datacamp.co.uk"
-    }
-  },
-  {
-    "proxy": "http://188.227.196.62:1080",
-    "tested_at": "2026-02-13T23:43:34Z",
-    "ip": "188.227.196.62",
+    "proxy": "http://72.10.160.94:12221",
+    "tested_at": "2026-02-14T00:14:17Z",
+    "ip": "66.46.169.237",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -33,16 +10,39 @@
     "country_code": "CA",
     "region": "Québec",
     "region_code": "QC",
-    "city": "Québec City",
-    "latitude": 46.8138783,
-    "longitude": -71.2079809,
+    "city": "Montreal",
+    "latitude": 45.5016889,
+    "longitude": -73.567256,
     "is_eu": false,
-    "postal": "G1R 4S9",
+    "postal": "H3A 2A6",
     "connection": {
-      "asn": 400897,
-      "org": "PetroSky",
-      "isp": "PETROSKY CLOUD LLC",
-      "domain": "abuseradar.com"
+      "asn": 6461,
+      "org": "Znet.ca",
+      "isp": "Zayo Bandwidth",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://67.43.228.253:23633",
+    "tested_at": "2026-02-14T00:15:08Z",
+    "ip": "70.55.67.80",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Québec",
+    "region_code": "QC",
+    "city": "Gatineau",
+    "latitude": 45.4765446,
+    "longitude": -75.7012723,
+    "is_eu": false,
+    "postal": "J8T 8H9",
+    "connection": {
+      "asn": 577,
+      "org": "Sympatico Hse",
+      "isp": "Bell Canada",
+      "domain": "bell.ca"
     }
   }
 ]

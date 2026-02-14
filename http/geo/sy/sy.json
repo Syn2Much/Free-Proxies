@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://89.43.132.75:8080",
-    "tested_at": "2026-02-13T23:43:04Z",
-    "ip": "89.43.132.80",
+    "proxy": "http://212.108.115.66:8080",
+    "tested_at": "2026-02-14T00:14:44Z",
+    "ip": "212.108.115.154",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Syria",
     "country_code": "SY",
-    "region": "Idlib Governorate",
-    "region_code": "ID",
-    "city": "Ad Dana",
-    "latitude": 36.2184032,
-    "longitude": 36.7684838,
+    "region": "Damascus Governorate",
+    "region_code": "DI",
+    "city": "Damascus",
+    "latitude": 33.5138073,
+    "longitude": 36.2765279,
     "is_eu": false,
-    "postal": "",
+    "postal": "2277",
     "connection": {
       "asn": 216472,
-      "org": "HU PANTEL INT 00 11",
+      "org": "TELECOME SY",
       "isp": "High Speed For Internet Services L.L.C",
-      "domain": "turktelekomint.com"
+      "domain": "kaer.technology"
     }
   }
 ]

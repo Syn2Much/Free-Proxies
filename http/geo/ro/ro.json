@@ -1,7 +1,7 @@
 [
   {
-    "proxy": "https://3.137.167.45:10801",
-    "tested_at": "2026-02-13T23:43:04Z",
+    "proxy": "http://52.66.191.112:16924",
+    "tested_at": "2026-02-14T00:14:24Z",
     "ip": "45.137.99.182",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,75 @@
       "org": "Internet Magnate pty LTD",
       "isp": "Internet Magnate pty LTD",
       "domain": "magnates.co.za"
+    }
+  },
+  {
+    "proxy": "http://18.61.254.187:51902",
+    "tested_at": "2026-02-14T00:14:44Z",
+    "ip": "72.5.43.62",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Romania",
+    "country_code": "RO",
+    "region": "Bucharest",
+    "region_code": "B",
+    "city": "Bucharest",
+    "latitude": 44.4267674,
+    "longitude": 26.1025384,
+    "is_eu": true,
+    "postal": "030163",
+    "connection": {
+      "asn": 399629,
+      "org": "Bl Networks",
+      "isp": "Bl Networks",
+      "domain": "blnwx.com"
+    }
+  },
+  {
+    "proxy": "http://18.61.254.187:1254",
+    "tested_at": "2026-02-14T00:14:45Z",
+    "ip": "72.5.43.62",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Romania",
+    "country_code": "RO",
+    "region": "Bucharest",
+    "region_code": "B",
+    "city": "Bucharest",
+    "latitude": 44.4267674,
+    "longitude": 26.1025384,
+    "is_eu": true,
+    "postal": "030163",
+    "connection": {
+      "asn": 399629,
+      "org": "Bl Networks",
+      "isp": "Bl Networks",
+      "domain": "blnwx.com"
+    }
+  },
+  {
+    "proxy": "http://18.60.222.217:16825",
+    "tested_at": "2026-02-14T00:15:01Z",
+    "ip": "84.239.46.144",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Romania",
+    "country_code": "RO",
+    "region": "Bucharest",
+    "region_code": "B",
+    "city": "Bucharest",
+    "latitude": 44.4267674,
+    "longitude": 26.1025384,
+    "is_eu": true,
+    "postal": "030163",
+    "connection": {
+      "asn": 201308,
+      "org": "CASTLEGEM",
+      "isp": "Castlegem SRL",
+      "domain": "castlegem.co.uk"
     }
   }
 ]

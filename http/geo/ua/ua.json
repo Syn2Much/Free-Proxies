@@ -1,7 +1,76 @@
 [
   {
+    "proxy": "http://176.32.2.193:8080",
+    "tested_at": "2026-02-14T00:14:19Z",
+    "ip": "176.32.2.193",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Khmelnytskyi Oblast",
+    "region_code": "68",
+    "city": "Kam'yanets'-Podil's'kyi",
+    "latitude": 48.6967162,
+    "longitude": 26.5825364,
+    "is_eu": false,
+    "postal": "32320",
+    "connection": {
+      "asn": 49332,
+      "org": "Lanet Network LTD",
+      "isp": "Lanet Network LTD",
+      "domain": "lanet.ua"
+    }
+  },
+  {
+    "proxy": "http://176.105.212.219:8080",
+    "tested_at": "2026-02-14T00:14:41Z",
+    "ip": "91.195.2.84",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Poltava Oblast",
+    "region_code": "53",
+    "city": "Poltava",
+    "latitude": 49.588267,
+    "longitude": 34.551417,
+    "is_eu": false,
+    "postal": "36000",
+    "connection": {
+      "asn": 49817,
+      "org": "F COM LLC",
+      "isp": "F COM LLC",
+      "domain": "fcom.pl.ua"
+    }
+  },
+  {
+    "proxy": "http://91.228.217.195:8989",
+    "tested_at": "2026-02-14T00:14:43Z",
+    "ip": "91.228.217.195",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Ivano-Frankivsk Oblast",
+    "region_code": "",
+    "city": "Kryvorivnya",
+    "latitude": 48.1736874,
+    "longitude": 24.8963763,
+    "is_eu": false,
+    "postal": "78710",
+    "connection": {
+      "asn": 209907,
+      "org": "Fop Saiv Igor Stepanovich",
+      "isp": "Fop Saiv Igor Stepanovich",
+      "domain": "gipernet.com.ua"
+    }
+  },
+  {
     "proxy": "http://91.202.72.105:8080",
-    "tested_at": "2026-02-13T23:43:16Z",
+    "tested_at": "2026-02-14T00:14:45Z",
     "ip": "91.202.72.105",
     "success": true,
     "type": "IPv4",
@@ -24,7 +93,7 @@
   },
   {
     "proxy": "http://91.238.104.171:2023",
-    "tested_at": "2026-02-13T23:43:26Z",
+    "tested_at": "2026-02-14T00:14:54Z",
     "ip": "91.238.104.171",
     "success": true,
     "type": "IPv4",

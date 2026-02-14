@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://197.164.101.10:1981",
-    "tested_at": "2026-02-13T23:43:07Z",
-    "ip": "197.164.101.10",
+    "proxy": "http://154.236.191.38:1981",
+    "tested_at": "2026-02-14T00:14:19Z",
+    "ip": "154.236.191.38",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Cairo",
+    "region_code": "C",
+    "city": "El-Reyad",
+    "latitude": 30.6522489,
+    "longitude": 31.2299414,
+    "is_eu": false,
+    "postal": "19519",
+    "connection": {
+      "asn": 36992,
+      "org": "Nile Online",
+      "isp": "ETISALAT MISR",
+      "domain": "nile-online.com"
+    }
+  },
+  {
+    "proxy": "http://197.164.101.13:1976",
+    "tested_at": "2026-02-14T00:14:20Z",
+    "ip": "197.164.101.13",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -23,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://41.33.219.140:1981",
-    "tested_at": "2026-02-13T23:43:29Z",
-    "ip": "41.33.219.132",
+    "proxy": "http://41.65.103.5:1976",
+    "tested_at": "2026-02-14T00:14:38Z",
+    "ip": "41.65.103.5",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -39,16 +62,16 @@
     "is_eu": false,
     "postal": "28625",
     "connection": {
-      "asn": 8452,
+      "asn": 36992,
       "org": "",
-      "isp": "TE Data",
+      "isp": "Etisalat Misr Mobile BB",
       "domain": ""
     }
   },
   {
-    "proxy": "http://196.219.202.74:8080",
-    "tested_at": "2026-02-13T23:43:39Z",
-    "ip": "196.219.202.74",
+    "proxy": "http://41.65.146.182:1974",
+    "tested_at": "2026-02-14T00:15:01Z",
+    "ip": "41.65.146.170",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -62,10 +85,10 @@
     "is_eu": false,
     "postal": "28625",
     "connection": {
-      "asn": 8452,
-      "org": "Te Data",
-      "isp": "TE AS",
-      "domain": "tedata.net"
+      "asn": 36992,
+      "org": "Roda Area Enterprise Customers With Static Ips",
+      "isp": "ETISALAT MISR",
+      "domain": "etisalatdata.net"
     }
   }
 ]

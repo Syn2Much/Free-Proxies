@@ -1,76 +1,7 @@
 [
   {
-    "proxy": "https://47.243.181.85:41803",
-    "tested_at": "2026-02-13T23:43:07Z",
-    "ip": "179.160.41.239",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of São Paulo",
-    "region_code": "SP",
-    "city": "Campinas",
-    "latitude": -22.9099384,
-    "longitude": -47.0626332,
-    "is_eu": false,
-    "postal": "13010-151",
-    "connection": {
-      "asn": 26599,
-      "org": "TELEF NICA BRASIL S.A",
-      "isp": "TELEF NICA BRASIL S.A",
-      "domain": "telefonica.com.br"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41804",
-    "tested_at": "2026-02-13T23:43:15Z",
-    "ip": "2804:7f2:7900:2633:c184:9cc1:6a45:ab51",
-    "success": true,
-    "type": "IPv6",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "Ceará",
-    "region_code": "CE",
-    "city": "Juazeiro do Norte",
-    "latitude": -7.2290365,
-    "longitude": -39.3124461,
-    "is_eu": false,
-    "postal": "63010-215",
-    "connection": {
-      "asn": 18881,
-      "org": "TELEF NICA BRASIL S.A",
-      "isp": "TELEF NICA BRASIL S.A",
-      "domain": "telefonica.com.br"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41795",
-    "tested_at": "2026-02-13T23:43:17Z",
-    "ip": "177.129.116.183",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of Bahia",
-    "region_code": "BA",
-    "city": "Utinga",
-    "latitude": -12.0762008,
-    "longitude": -41.0929339,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 53029,
-      "org": "Seabra Informatica LTDA",
-      "isp": "Seabra Informatica LTDA",
-      "domain": "agilseabra.com.br"
-    }
-  },
-  {
     "proxy": "https://134.65.238.25:3128",
-    "tested_at": "2026-02-13T23:43:24Z",
+    "tested_at": "2026-02-14T00:14:15Z",
     "ip": "134.65.238.25",
     "success": true,
     "type": "IPv4",
@@ -92,26 +23,72 @@
     }
   },
   {
-    "proxy": "https://47.243.181.85:41799",
-    "tested_at": "2026-02-13T23:43:47Z",
-    "ip": "170.244.3.248",
+    "proxy": "https://47.243.181.85:41804",
+    "tested_at": "2026-02-14T00:14:26Z",
+    "ip": "2804:d51:4fa4:1400:7985:cf5a:1558:6cb",
+    "success": true,
+    "type": "IPv6",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of Rio Grande do Sul",
+    "region_code": "RS",
+    "city": "Vila Cristina",
+    "latitude": -29.2988746,
+    "longitude": -51.1610638,
+    "is_eu": false,
+    "postal": "95124-000",
+    "connection": {
+      "asn": 8167,
+      "org": "V Tal",
+      "isp": "V Tal",
+      "domain": "vtal.com"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41795",
+    "tested_at": "2026-02-14T00:14:36Z",
+    "ip": "2804:1ec4:81:d100:e17a:5af9:ed32:3400",
+    "success": true,
+    "type": "IPv6",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of São Paulo",
+    "region_code": "SP",
+    "city": "Atibaia",
+    "latitude": -23.1175492,
+    "longitude": -46.5567066,
+    "is_eu": false,
+    "postal": "12940-700",
+    "connection": {
+      "asn": 262278,
+      "org": "RGR TELECOM LTDA",
+      "isp": "CROSS CONECTION PROVEDOR DE INTERNET LTDA",
+      "domain": "telecomrgr.com.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41797",
+    "tested_at": "2026-02-14T00:14:45Z",
+    "ip": "191.6.159.1",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Brazil",
     "country_code": "BR",
-    "region": "State of Rio de Janeiro",
-    "region_code": "RJ",
-    "city": "Itaperuna",
-    "latitude": -21.1877747,
-    "longitude": -41.8799408,
+    "region": "State of Rio Grande do Sul",
+    "region_code": "RS",
+    "city": "Chapada",
+    "latitude": -28.0576777,
+    "longitude": -53.0684395,
     "is_eu": false,
-    "postal": "28300-000",
+    "postal": "99530-000",
     "connection": {
-      "asn": 52699,
-      "org": "ITANET CONECTA LTDA",
-      "isp": "ITANET CONECTA LTDA",
-      "domain": "itanet.psi.br"
+      "asn": 61915,
+      "org": "Sicalnet comercio De Equipamentos De Informatica L",
+      "isp": "Sicalnet comercio De Equipamentos De Informatica L",
+      "domain": "sicalnet.com.br"
     }
   }
 ]

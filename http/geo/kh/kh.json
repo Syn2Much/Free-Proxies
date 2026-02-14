@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://110.74.195.34:25",
-    "tested_at": "2026-02-13T23:43:09Z",
-    "ip": "110.74.195.34",
+    "proxy": "http://103.216.48.124:8080",
+    "tested_at": "2026-02-14T00:14:46Z",
+    "ip": "103.216.48.124",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,16 +16,16 @@
     "is_eu": false,
     "postal": "120603",
     "connection": {
-      "asn": 38901,
-      "org": "EZECOM CO., LTD.",
-      "isp": "EZECOM CO., LTD.",
-      "domain": "ezecom.com.kh"
+      "asn": 135375,
+      "org": "Today Communication Co.,ltd",
+      "isp": "Today Communication Co.,ltd",
+      "domain": "today.com.kh"
     }
   },
   {
-    "proxy": "http://203.217.169.26:8080",
-    "tested_at": "2026-02-13T23:43:51Z",
-    "ip": "203.217.169.26",
+    "proxy": "http://49.156.44.115:8080",
+    "tested_at": "2026-02-14T00:15:10Z",
+    "ip": "49.156.44.115",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,10 +39,10 @@
     "is_eu": false,
     "postal": "120603",
     "connection": {
-      "asn": 131207,
-      "org": "Sinet, Dedicated Fiber, Dedicated Speed, Dedicated Support, Dedicated Always.",
-      "isp": "S.i Group",
-      "domain": "sinet.com.kh"
+      "asn": 24492,
+      "org": "Wicam Corporation Ltd.",
+      "isp": "Wicam Corporation Ltd.",
+      "domain": "wicam.com.kh"
     }
   }
 ]

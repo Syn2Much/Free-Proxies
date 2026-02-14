@@ -1,8 +1,8 @@
 [
   {
     "proxy": "http://185.191.236.162:3128",
-    "tested_at": "2026-02-13T23:43:44Z",
-    "ip": "2a0a:20c0:dc01:3::7f0b",
+    "tested_at": "2026-02-14T00:14:22Z",
+    "ip": "2a0a:20c0:f001:81:4498:fcff:febf:cefb",
     "success": true,
     "type": "IPv6",
     "continent": "Europe",

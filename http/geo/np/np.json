@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://110.34.8.110:8080",
-    "tested_at": "2026-02-13T23:43:17Z",
-    "ip": "110.34.13.4",
+    "proxy": "http://36.253.18.38:8181",
+    "tested_at": "2026-02-14T00:14:58Z",
+    "ip": "36.253.18.38",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,56 +16,10 @@
     "is_eu": false,
     "postal": "44707",
     "connection": {
-      "asn": 4007,
-      "org": "Subisu Retail Pool",
-      "isp": "Subisu Cablenet",
-      "domain": "subisu.net.np"
-    }
-  },
-  {
-    "proxy": "http://110.34.1.178:7777",
-    "tested_at": "2026-02-13T23:43:47Z",
-    "ip": "110.34.1.178",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Nepal",
-    "country_code": "NP",
-    "region": "Bagmati Pradesh",
-    "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
-    "is_eu": false,
-    "postal": "46600",
-    "connection": {
-      "asn": 4007,
-      "org": "Server Networks",
-      "isp": "Subisu Cablenet",
-      "domain": "subisu.net.np"
-    }
-  },
-  {
-    "proxy": "http://103.232.228.138:8080",
-    "tested_at": "2026-02-13T23:43:52Z",
-    "ip": "103.232.228.138",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Nepal",
-    "country_code": "NP",
-    "region": "Bagmati Pradesh",
-    "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
-    "is_eu": false,
-    "postal": "46600",
-    "connection": {
-      "asn": 55427,
-      "org": "Route Object Broadlink",
-      "isp": "Broadlink Networks And Communications",
-      "domain": "broadlink.com.np"
+      "asn": 38565,
+      "org": "Ncell Pty. Ltd.",
+      "isp": "Ncell Pty. Ltd.",
+      "domain": "ncell.com.np"
     }
   }
 ]

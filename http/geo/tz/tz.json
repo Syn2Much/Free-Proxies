@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://41.93.63.66:8080",
-    "tested_at": "2026-02-13T23:11:59Z",
-    "ip": "41.93.63.66",
+    "proxy": "http://41.59.115.217:8081",
+    "tested_at": "2026-02-14T00:14:39Z",
+    "ip": "41.59.115.217",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "11101",
     "connection": {
-      "asn": 37182,
-      "org": "Tanzania Education And Research Network",
-      "isp": "Tanzania Education And Research Network",
-      "domain": "ternet.or.tz"
+      "asn": 33765,
+      "org": "Broadband Subscribers in Tanzania Republic",
+      "isp": "TANZANIA TELECOMMUNICATIONS CO. LTD",
+      "domain": "ttcldata.net"
     }
   }
 ]

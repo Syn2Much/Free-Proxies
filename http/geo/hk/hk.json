@@ -1,53 +1,7 @@
 [
   {
-    "proxy": "http://124.156.179.148:3128",
-    "tested_at": "2026-02-13T23:43:11Z",
-    "ip": "124.156.179.148",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.276022,
-    "longitude": 114.1751471,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 132203,
-      "org": "1 COLLYER QUAY",
-      "isp": "Shenzhen Tencent Computer Systems Company Limited",
-      "domain": "tencent.com"
-    }
-  },
-  {
-    "proxy": "http://185.74.222.94:8090",
-    "tested_at": "2026-02-13T23:43:22Z",
-    "ip": "185.74.222.94",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Chai Wan",
-    "latitude": 22.2678103,
-    "longitude": 114.2360778,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 209847,
-      "org": "Worktitans B.V.",
-      "isp": "Worktitans B.V.",
-      "domain": "dgtl.tech"
-    }
-  },
-  {
     "proxy": "http://101.47.73.135:3128",
-    "tested_at": "2026-02-13T23:43:28Z",
+    "tested_at": "2026-02-14T00:14:13Z",
     "ip": "101.47.73.135",
     "success": true,
     "type": "IPv4",
@@ -66,6 +20,29 @@
       "org": "BYTEPLUS",
       "isp": "Byteplus Pte. Ltd.",
       "domain": "bytedance.com"
+    }
+  },
+  {
+    "proxy": "http://160.20.55.235:8080",
+    "tested_at": "2026-02-14T00:14:54Z",
+    "ip": "160.20.55.235",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.276022,
+    "longitude": 114.1751471,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 58411,
+      "org": "Datamax Osi Limited",
+      "isp": "Gateway Technology Development Company Limited",
+      "domain": "datamaxosi.com"
     }
   }
 ]

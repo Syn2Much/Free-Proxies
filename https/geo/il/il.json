@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "https://47.243.181.85:41690",
+    "tested_at": "2026-02-14T00:14:37Z",
+    "ip": "79.177.149.34",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Israel",
+    "country_code": "IL",
+    "region": "Haifa District",
+    "region_code": "",
+    "city": "Haifa",
+    "latitude": 32.7940463,
+    "longitude": 34.989571,
+    "is_eu": false,
+    "postal": "3341231",
+    "connection": {
+      "asn": 6810,
+      "org": "BEZEQ ISP BROADBAND",
+      "isp": "Bezeq The Israel Telecommunication Corp. Ltd.",
+      "domain": "bezeqint.net"
+    }
+  }
+]

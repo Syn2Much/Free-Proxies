@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://51.159.66.158:3128",
-    "tested_at": "2026-02-13T23:43:07Z",
-    "ip": "51.159.66.158",
+    "proxy": "http://171.37.178.127:7890",
+    "tested_at": "2026-02-14T00:14:21Z",
+    "ip": "144.24.196.169",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "region_code": "PAC",
+    "city": "Marseille",
+    "latitude": 43.296482,
+    "longitude": 5.36978,
+    "is_eu": true,
+    "postal": "13000",
+    "connection": {
+      "asn": 31898,
+      "org": "Oracle Svenska Ab",
+      "isp": "Oracle Corporation",
+      "domain": "oracle.com"
+    }
+  },
+  {
+    "proxy": "http://54.250.163.86:58694",
+    "tested_at": "2026-02-14T00:14:37Z",
+    "ip": "203.55.81.1",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,15 +39,15 @@
     "is_eu": true,
     "postal": "75007",
     "connection": {
-      "asn": 12876,
-      "org": "Scaleway",
-      "isp": "SCALEWAY S.A.S.",
-      "domain": "scaleway.com"
+      "asn": 213873,
+      "org": "MOJI SAS",
+      "isp": "MOJI SAS",
+      "domain": "moji.fr"
     }
   },
   {
     "proxy": "http://62.133.62.12:1082",
-    "tested_at": "2026-02-13T23:43:07Z",
+    "tested_at": "2026-02-14T00:14:39Z",
     "ip": "62.133.62.12",
     "success": true,
     "type": "IPv4",
@@ -43,6 +66,75 @@
       "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
       "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
       "domain": "gir.network"
+    }
+  },
+  {
+    "proxy": "https://95.40.79.184:76",
+    "tested_at": "2026-02-14T00:14:58Z",
+    "ip": "203.55.81.2",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "is_eu": true,
+    "postal": "75007",
+    "connection": {
+      "asn": 213873,
+      "org": "MOJI SAS",
+      "isp": "MOJI SAS",
+      "domain": "moji.fr"
+    }
+  },
+  {
+    "proxy": "http://5.189.161.47:3128",
+    "tested_at": "2026-02-14T00:14:44Z",
+    "ip": "5.189.161.47",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Grand Est",
+    "region_code": "GES",
+    "city": "Lauterbourg",
+    "latitude": 48.974797,
+    "longitude": 8.176773,
+    "is_eu": true,
+    "postal": "67630",
+    "connection": {
+      "asn": 51167,
+      "org": "Contabo GmbH",
+      "isp": "Contabo GmbH",
+      "domain": "contabo.de"
+    }
+  },
+  {
+    "proxy": "http://185.41.152.110:3128",
+    "tested_at": "2026-02-14T00:14:50Z",
+    "ip": "185.41.152.110",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Grand Est",
+    "region_code": "GES",
+    "city": "Marly",
+    "latitude": 49.059828,
+    "longitude": 6.154795,
+    "is_eu": true,
+    "postal": "57155",
+    "connection": {
+      "asn": 197922,
+      "org": "FIRSTHEBERG",
+      "isp": "Techcrea Solutions SAS",
+      "domain": "techcrea.fr"
     }
   }
 ]
