@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://185.202.165.1:53281",
-    "tested_at": "2026-02-14T02:19:39Z",
-    "ip": "185.44.232.30",
+    "proxy": "http://188.227.140.181:8080",
+    "tested_at": "2026-02-14T03:22:29Z",
+    "ip": "188.227.140.181",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Spain",
     "country_code": "ES",
-    "region": "Andalusia",
-    "region_code": "AN",
-    "city": "Fuengirola",
-    "latitude": 36.544148,
-    "longitude": -4.6249439,
+    "region": "Madrid",
+    "region_code": "M",
+    "city": "Madrid",
+    "latitude": 40.4167754,
+    "longitude": -3.7037902,
     "is_eu": true,
-    "postal": "29640",
+    "postal": "28080",
     "connection": {
-      "asn": 200845,
-      "org": "AVATEL TELECOM, SA",
-      "isp": "AVATEL TELECOM, SA",
-      "domain": "avatel.es"
+      "asn": 56882,
+      "org": "AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+      "isp": "AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+      "domain": "airenetworks.es"
+    }
+  },
+  {
+    "proxy": "http://213.97.158.42:3128",
+    "tested_at": "2026-02-14T03:23:04Z",
+    "ip": "213.97.158.42",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Spain",
+    "country_code": "ES",
+    "region": "Balearic Islands",
+    "region_code": "PM",
+    "city": "Sant Antoni de Portmany",
+    "latitude": 38.9826357,
+    "longitude": 1.3015192,
+    "is_eu": true,
+    "postal": "07820",
+    "connection": {
+      "asn": 3352,
+      "org": "Telefonica De Espana Sau ncc 00001",
+      "isp": "TELEFONICA DE ESPANA S.A.U.",
+      "domain": "telefonica.com"
     }
   }
 ]

@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "http://103.124.97.12:8080",
-    "tested_at": "2026-02-14T02:51:05Z",
-    "ip": "103.124.97.12",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Nepal",
-    "country_code": "NP",
-    "region": "Gandaki Pradesh",
-    "region_code": "",
-    "city": "Parbat",
-    "latitude": 28.2586837,
-    "longitude": 83.7743509,
-    "is_eu": false,
-    "postal": "33400",
-    "connection": {
-      "asn": 138388,
-      "org": "Pi net Prefix",
-      "isp": "Pokhara Internet Pvt. Ltd.",
-      "domain": "pokharainternet.com.np"
-    }
-  },
-  {
-    "proxy": "http://36.253.18.38:8181",
-    "tested_at": "2026-02-14T02:51:24Z",
-    "ip": "36.253.18.38",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Nepal",
-    "country_code": "NP",
-    "region": "Bagmati Pradesh",
-    "region_code": "",
-    "city": "Patan",
-    "latitude": 27.6644011,
-    "longitude": 85.3187914,
-    "is_eu": false,
-    "postal": "44707",
-    "connection": {
-      "asn": 38565,
-      "org": "Ncell Pty. Ltd.",
-      "isp": "Ncell Pty. Ltd.",
-      "domain": "ncell.com.np"
-    }
-  },
-  {
-    "proxy": "http://116.90.224.50:8080",
-    "tested_at": "2026-02-14T02:51:52Z",
-    "ip": "116.90.224.50",
+    "proxy": "http://202.166.197.177:2121",
+    "tested_at": "2026-02-14T03:22:35Z",
+    "ip": "202.166.217.188",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -62,10 +16,56 @@
     "is_eu": false,
     "postal": "46600",
     "connection": {
-      "asn": 24550,
-      "org": "Websurfer Nepal Communication System Pvt. LTD",
-      "isp": "Websurfer Nepal Communication System Pvt. LTD",
-      "domain": "websurfer.com.np"
+      "asn": 17501,
+      "org": "Assigned by Kathmandu, Jawalakhel",
+      "isp": "Worldlink Communications",
+      "domain": "worldlink.com.np"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.170:18929",
+    "tested_at": "2026-02-14T03:22:45Z",
+    "ip": "103.134.219.68",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Nepal",
+    "country_code": "NP",
+    "region": "Bagmati Pradesh",
+    "region_code": "",
+    "city": "Kathmandu",
+    "latitude": 27.7172453,
+    "longitude": 85.3239605,
+    "is_eu": false,
+    "postal": "46600",
+    "connection": {
+      "asn": 151396,
+      "org": "Sajilo Net Pvt LTD",
+      "isp": "Sajilo Net Pvt LTD",
+      "domain": "sajilonet.com.np"
+    }
+  },
+  {
+    "proxy": "http://103.1.93.184:55443",
+    "tested_at": "2026-02-14T03:23:08Z",
+    "ip": "103.1.93.184",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Nepal",
+    "country_code": "NP",
+    "region": "Bagmati Pradesh",
+    "region_code": "",
+    "city": "Kathmandu",
+    "latitude": 27.7172453,
+    "longitude": 85.3239605,
+    "is_eu": false,
+    "postal": "46600",
+    "connection": {
+      "asn": 55915,
+      "org": "Classic Tech Pvt. Ltd.",
+      "isp": "Classic Tech Pvt. Ltd.",
+      "domain": "classic.com.np"
     }
   }
 ]

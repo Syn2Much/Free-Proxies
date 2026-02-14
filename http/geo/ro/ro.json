@@ -1,7 +1,7 @@
 [
   {
-    "proxy": "http://35.183.64.191:30309",
-    "tested_at": "2026-02-14T02:19:28Z",
+    "proxy": "http://43.208.16.199:7158",
+    "tested_at": "2026-02-14T03:22:12Z",
     "ip": "72.5.43.62",
     "success": true,
     "type": "IPv4",
@@ -20,29 +20,6 @@
       "org": "Bl Networks",
       "isp": "Bl Networks",
       "domain": "blnwx.com"
-    }
-  },
-  {
-    "proxy": "http://81.196.74.147:8080",
-    "tested_at": "2026-02-14T02:20:13Z",
-    "ip": "81.196.74.147",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Romania",
-    "country_code": "RO",
-    "region": "Mehedinți",
-    "region_code": "MH",
-    "city": "Drobeta-Turnu Severin",
-    "latitude": 44.6369227,
-    "longitude": 22.6597342,
-    "is_eu": true,
-    "postal": "220131",
-    "connection": {
-      "asn": 8708,
-      "org": "RCS RDS S.A.",
-      "isp": "DIGI ROMANIA S.A.",
-      "domain": "digi.ro"
     }
   }
 ]

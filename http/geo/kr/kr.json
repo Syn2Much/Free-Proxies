@@ -1,53 +1,53 @@
 [
   {
-    "proxy": "http://72.10.164.178:23407",
-    "tested_at": "2026-02-14T02:50:59Z",
-    "ip": "114.203.67.198",
+    "proxy": "http://121.187.175.106:9877",
+    "tested_at": "2026-02-14T03:22:19Z",
+    "ip": "121.187.175.106",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Republic of Korea",
     "country_code": "KR",
-    "region": "",
-    "region_code": "",
-    "city": "Seoul",
-    "latitude": 37.566535,
-    "longitude": 126.9779692,
+    "region": "Gyeonggi",
+    "region_code": "41",
+    "city": "Seongnam-si",
+    "latitude": 37.4449168,
+    "longitude": 127.1388684,
     "is_eu": false,
-    "postal": "04523",
-    "connection": {
-      "asn": 9318,
-      "org": "broadNnet",
-      "isp": "Sk Broadband Co LTD",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://210.223.44.230:3128",
-    "tested_at": "2026-02-14T02:51:28Z",
-    "ip": "210.223.44.230",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Republic of Korea",
-    "country_code": "KR",
-    "region": "",
-    "region_code": "",
-    "city": "Seoul",
-    "latitude": 37.566535,
-    "longitude": 126.9779692,
-    "is_eu": false,
-    "postal": "04523",
+    "postal": "13437",
     "connection": {
       "asn": 4766,
       "org": "Korea Telecom",
       "isp": "Korea Telecom",
-      "domain": "kt.com"
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://72.10.160.171:4755",
+    "tested_at": "2026-02-14T03:22:20Z",
+    "ip": "58.143.113.52",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "Gyeonggi",
+    "region_code": "41",
+    "city": "Seongnam-si",
+    "latitude": 37.4449168,
+    "longitude": 127.1388684,
+    "is_eu": false,
+    "postal": "13437",
+    "connection": {
+      "asn": 10036,
+      "org": "DLIVE",
+      "isp": "DLIVE",
+      "domain": "dlive.kr"
     }
   },
   {
     "proxy": "http://8.213.151.128:3128",
-    "tested_at": "2026-02-14T02:51:31Z",
+    "tested_at": "2026-02-14T03:22:21Z",
     "ip": "8.213.151.128",
     "success": true,
     "type": "IPv4",
@@ -69,9 +69,32 @@
     }
   },
   {
-    "proxy": "http://121.187.175.106:9877",
-    "tested_at": "2026-02-14T02:51:38Z",
-    "ip": "121.187.175.106",
+    "proxy": "http://72.10.164.178:23407",
+    "tested_at": "2026-02-14T03:22:30Z",
+    "ip": "114.203.67.198",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "",
+    "region_code": "",
+    "city": "Seoul",
+    "latitude": 37.566535,
+    "longitude": 126.9779692,
+    "is_eu": false,
+    "postal": "04523",
+    "connection": {
+      "asn": 9318,
+      "org": "broadNnet",
+      "isp": "Sk Broadband Co LTD",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://14.34.180.21:38157",
+    "tested_at": "2026-02-14T03:22:35Z",
+    "ip": "14.34.180.21",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -86,7 +109,7 @@
     "postal": "13437",
     "connection": {
       "asn": 4766,
-      "org": "Korea Telecom",
+      "org": "Kornet",
       "isp": "Korea Telecom",
       "domain": ""
     }

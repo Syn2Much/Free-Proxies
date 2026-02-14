@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://45.233.67.226:999",
-    "tested_at": "2026-02-14T02:51:00Z",
-    "ip": "45.233.64.2",
+    "proxy": "http://143.208.59.2:999",
+    "tested_at": "2026-02-14T03:22:09Z",
+    "ip": "143.208.59.2",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "region": "Guatemala Department",
+    "region_code": "GU",
+    "city": "Guatemala City",
+    "latitude": 14.6349149,
+    "longitude": -90.5068824,
+    "is_eu": false,
+    "postal": "01004",
+    "connection": {
+      "asn": 22869,
+      "org": "COMUNICACIONES METROPOLITANAS CABLECOLOR",
+      "isp": "CABLECOLOR S.A.",
+      "domain": "cablecolor.com.gt"
+    }
+  },
+  {
+    "proxy": "http://24.152.53.7:999",
+    "tested_at": "2026-02-14T03:22:22Z",
+    "ip": "24.152.53.3",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -16,10 +39,10 @@
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 266755,
-      "org": "CONECTIVIDAD Y TECNOLOGIA S.A.",
-      "isp": "CONECTIVIDAD Y TECNOLOGIA S.A.",
-      "domain": "fabri3d.com.ar"
+      "asn": 269964,
+      "org": "TV CABLE UNIVERSAL S.A",
+      "isp": "TV CABLE UNIVERSAL S.A",
+      "domain": "vosguatemala.com"
     }
   }
 ]

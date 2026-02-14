@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://154.64.211.145:999",
-    "tested_at": "2026-02-14T02:51:06Z",
-    "ip": "198.52.241.102",
+    "proxy": "http://23.131.56.129:999",
+    "tested_at": "2026-02-14T03:22:37Z",
+    "ip": "23.131.56.46",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,16 +10,16 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "Corozal",
-    "latitude": 18.3410622,
-    "longitude": -66.3168357,
+    "city": "Betances",
+    "latitude": 18.0299225,
+    "longitude": -67.1321012,
     "is_eu": false,
-    "postal": "00783",
+    "postal": "00623",
     "connection": {
-      "asn": 21559,
-      "org": "Wireless Network",
-      "isp": "OSNET",
-      "domain": "wirelessns.com"
+      "asn": 399826,
+      "org": "Webiffi LLC",
+      "isp": "Webiffi LLC",
+      "domain": "webiffi.com"
     }
   }
 ]

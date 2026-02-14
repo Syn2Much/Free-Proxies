@@ -1,7 +1,7 @@
 [
   {
-    "proxy": "http://89.135.59.71:8090",
-    "tested_at": "2026-02-14T02:19:42Z",
+    "proxy": "http://89.135.59.65:8090",
+    "tested_at": "2026-02-14T03:22:25Z",
     "ip": "89.135.59.71",
     "success": true,
     "type": "IPv4",
@@ -20,29 +20,6 @@
       "org": "One Hungary Ltd.",
       "isp": "One Hungary Ltd.",
       "domain": "one.hu"
-    }
-  },
-  {
-    "proxy": "http://79.121.102.227:8080",
-    "tested_at": "2026-02-14T02:20:21Z",
-    "ip": "79.121.102.227",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Hungary",
-    "country_code": "HU",
-    "region": "Central Transdanubia",
-    "region_code": "",
-    "city": "Esztergom",
-    "latitude": 47.7883949,
-    "longitude": 18.7434452,
-    "is_eu": true,
-    "postal": "2500",
-    "connection": {
-      "asn": 5483,
-      "org": "JUROPNET",
-      "isp": "Magyar Telekom Plc.",
-      "domain": "telekom.hu"
     }
   }
 ]

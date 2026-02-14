@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://78.9.232.205:8080",
-    "tested_at": "2026-02-14T02:51:38Z",
-    "ip": "78.9.232.205",
+    "proxy": "http://212.182.119.149:8080",
+    "tested_at": "2026-02-14T03:22:21Z",
+    "ip": "212.182.119.149",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Poland",
     "country_code": "PL",
-    "region": "West Pomeranian Voivodeship",
-    "region_code": "32",
-    "city": "Swinoujscie",
-    "latitude": 53.9100327,
-    "longitude": 14.2475775,
+    "region": "Lublin Voivodeship",
+    "region_code": "06",
+    "city": "Lublin",
+    "latitude": 51.2464536,
+    "longitude": 22.5684463,
     "is_eu": true,
-    "postal": "72-600",
+    "postal": "20-484",
     "connection": {
-      "asn": 12741,
-      "org": "Dynamic Broadband Services",
-      "isp": "Netia SA",
-      "domain": "netia.pl"
+      "asn": 12346,
+      "org": "Avir Sp. z o.o.",
+      "isp": "non academic part of Lublin MAN",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://54.90.159.174:57825",
+    "tested_at": "2026-02-14T03:22:40Z",
+    "ip": "45.141.215.97",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Poland",
+    "country_code": "PL",
+    "region": "Masovian Voivodeship",
+    "region_code": "14",
+    "city": "Warsaw",
+    "latitude": 52.2296756,
+    "longitude": 21.0122287,
+    "is_eu": true,
+    "postal": "00-110",
+    "connection": {
+      "asn": 210558,
+      "org": "1 Services GmbH",
+      "isp": "1 Services GmbH",
+      "domain": "as210558.net"
     }
   }
 ]

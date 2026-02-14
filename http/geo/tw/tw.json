@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://35.234.17.221:8080",
-    "tested_at": "2026-02-14T02:51:28Z",
-    "ip": "35.234.17.221",
+    "proxy": "http://44.30.18.32:8080",
+    "tested_at": "2026-02-14T03:22:15Z",
+    "ip": "44.30.18.32",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Taiwan",
     "country_code": "TW",
-    "region": "Keelung City",
-    "region_code": "KEE",
-    "city": "Taipei",
-    "latitude": 25.0329694,
-    "longitude": 121.5654177,
+    "region": "New Taipei City",
+    "region_code": "",
+    "city": "Zhitan 5th Street",
+    "latitude": 24.941202,
+    "longitude": 121.534131,
     "is_eu": false,
-    "postal": "11008",
+    "postal": "231",
     "connection": {
-      "asn": 396982,
-      "org": "Google LLC",
-      "isp": "Google LLC",
-      "domain": "google.com"
+      "asn": 207468,
+      "org": "Amateur Radio Digital Communications",
+      "isp": "Li Heng Yu",
+      "domain": "ardc.net"
     }
   }
 ]

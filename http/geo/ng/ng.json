@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://154.113.209.162:8082",
-    "tested_at": "2026-02-14T01:48:41Z",
-    "ip": "154.113.209.162",
+    "proxy": "http://41.203.76.166:8080",
+    "tested_at": "2026-02-14T03:22:10Z",
+    "ip": "41.203.76.166",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "8600-000",
     "connection": {
-      "asn": 37282,
-      "org": "Mdxi Cloud Infrastructure",
-      "isp": "Mainone Cable Company",
-      "domain": "mainonecable.com"
+      "asn": 37148,
+      "org": "GLO 1 SUBMARINE CABLE",
+      "isp": "Globacom Limited",
+      "domain": "gloworld.com"
     }
   }
 ]

@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://38.156.237.214:999",
-    "tested_at": "2026-02-14T02:51:09Z",
-    "ip": "38.156.237.214",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Distrito Nacional",
-    "region_code": "01",
-    "city": "Santo Domingo",
-    "latitude": 18.4860575,
-    "longitude": -69.9312117,
-    "is_eu": false,
-    "postal": "10119",
-    "connection": {
-      "asn": 272882,
-      "org": "BITNET DOMINICANA, S.R.L.",
-      "isp": "BITNET DOMINICANA, S.R.L.",
-      "domain": "bitnet.com.do"
-    }
-  },
-  {
     "proxy": "http://170.80.202.217:999",
-    "tested_at": "2026-02-14T02:51:10Z",
+    "tested_at": "2026-02-14T03:22:14Z",
     "ip": "170.80.202.221",
     "success": true,
     "type": "IPv4",
@@ -46,9 +23,32 @@
     }
   },
   {
-    "proxy": "http://168.196.124.164:999",
-    "tested_at": "2026-02-14T02:51:13Z",
-    "ip": "168.196.124.162",
+    "proxy": "http://200.26.187.146:999",
+    "tested_at": "2026-02-14T03:22:34Z",
+    "ip": "38.196.221.248",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Monte Plata",
+    "region_code": "29",
+    "city": "Los Botados",
+    "latitude": 18.7389138,
+    "longitude": -70.0011868,
+    "is_eu": false,
+    "postal": "92000",
+    "connection": {
+      "asn": 273217,
+      "org": "Alcome Tech Srl.",
+      "isp": "ACOLME TECH, SRL",
+      "domain": "alcom.ax"
+    }
+  },
+  {
+    "proxy": "http://170.80.202.216:999",
+    "tested_at": "2026-02-14T03:22:45Z",
+    "ip": "170.80.202.221",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -62,56 +62,79 @@
     "is_eu": false,
     "postal": "51000",
     "connection": {
-      "asn": 264821,
-      "org": "COMCAST SRL",
-      "isp": "COMCAST SRL",
-      "domain": "comcast-srl.com"
+      "asn": 271819,
+      "org": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
+      "isp": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
+      "domain": "rgdimax.com"
     }
   },
   {
-    "proxy": "http://38.253.86.11:999",
-    "tested_at": "2026-02-14T02:51:24Z",
-    "ip": "38.253.86.13",
+    "proxy": "http://38.188.247.12:999",
+    "tested_at": "2026-02-14T03:22:46Z",
+    "ip": "38.44.17.142",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Dominican Republic",
     "country_code": "DO",
-    "region": "Puerto Plata",
-    "region_code": "18",
-    "city": "Maimón",
-    "latitude": 19.8224199,
-    "longitude": -70.7792902,
+    "region": "Monte Plata",
+    "region_code": "29",
+    "city": "Yamasá",
+    "latitude": 18.7727461,
+    "longitude": -70.0250065,
     "is_eu": false,
-    "postal": "",
+    "postal": "92000",
     "connection": {
-      "asn": 273048,
+      "asn": 272083,
       "org": "Cogent Communications",
-      "isp": "WIMAS, S.R.L.",
-      "domain": "wimas-srl.com"
+      "isp": "REYNOSO, S.R.L.",
+      "domain": "reynosord.com"
     }
   },
   {
-    "proxy": "http://38.156.235.35:999",
-    "tested_at": "2026-02-14T02:51:33Z",
-    "ip": "38.156.235.34",
+    "proxy": "http://190.110.36.198:999",
+    "tested_at": "2026-02-14T03:22:47Z",
+    "ip": "190.110.36.192",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Dominican Republic",
     "country_code": "DO",
-    "region": "San Pedro de Macoris",
-    "region_code": "23",
-    "city": "San Pedro De Macoris",
-    "latitude": 18.4720698,
-    "longitude": -69.2996732,
+    "region": "Santiago",
+    "region_code": "25",
+    "city": "Santiago De Los Caballeros",
+    "latitude": 19.4791963,
+    "longitude": -70.6930568,
     "is_eu": false,
-    "postal": "21000",
+    "postal": "51000",
     "connection": {
-      "asn": 272882,
-      "org": "BITNET DOMINICANA, S.R.L.",
-      "isp": "BITNET DOMINICANA, S.R.L.",
-      "domain": "bitnet.com.do"
+      "asn": 271968,
+      "org": "CENTRIC MOBILITY CEMO , S.R.L",
+      "isp": "CENTRIC MOBILITY CEMO , S.R.L",
+      "domain": "cemo.com.do"
+    }
+  },
+  {
+    "proxy": "http://38.159.37.173:999",
+    "tested_at": "2026-02-14T03:22:58Z",
+    "ip": "38.159.37.170",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Distrito Nacional",
+    "region_code": "01",
+    "city": "Santo Domingo",
+    "latitude": 18.4860575,
+    "longitude": -69.9312117,
+    "is_eu": false,
+    "postal": "10119",
+    "connection": {
+      "asn": 271965,
+      "org": "Cogent Communications",
+      "isp": "ORBITEK SRL",
+      "domain": "orbiteksrl.com"
     }
   }
 ]

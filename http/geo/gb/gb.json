@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "http://217.28.18.4:8104",
-    "tested_at": "2026-02-14T02:51:21Z",
-    "ip": "217.28.18.4",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "Liverpool",
-    "latitude": 53.4083714,
-    "longitude": -2.9915726,
-    "is_eu": false,
-    "postal": "L2 3SW",
-    "connection": {
-      "asn": 25582,
-      "org": "Nwip LTD",
-      "isp": "Nwip LTD",
-      "domain": "nwip.co.uk"
-    }
-  },
-  {
-    "proxy": "http://51.195.236.200:21688",
-    "tested_at": "2026-02-14T02:51:28Z",
-    "ip": "2.124.15.157",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "Saint Helens",
-    "latitude": 53.456307,
-    "longitude": -2.737095,
-    "is_eu": false,
-    "postal": "97051",
-    "connection": {
-      "asn": 5607,
-      "org": "Sky UK Limited",
-      "isp": "Sky UK Limited",
-      "domain": "sky.uk"
-    }
-  },
-  {
-    "proxy": "http://212.110.188.199:34406",
-    "tested_at": "2026-02-14T02:51:38Z",
-    "ip": "212.110.188.199",
+    "proxy": "http://212.110.188.210:34408",
+    "tested_at": "2026-02-14T03:22:18Z",
+    "ip": "212.110.188.210",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -69,26 +23,26 @@
     }
   },
   {
-    "proxy": "http://109.120.135.230:2030",
-    "tested_at": "2026-02-14T02:51:50Z",
-    "ip": "2a0b:4140:685e::2",
+    "proxy": "http://62.255.223.195:8080",
+    "tested_at": "2026-02-14T03:23:00Z",
+    "ip": "62.255.223.195",
     "success": true,
-    "type": "IPv6",
+    "type": "IPv4",
     "continent": "Europe",
     "country": "United Kingdom",
     "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "London",
-    "latitude": 51.5073509,
-    "longitude": -0.1277583,
+    "region": "Scotland",
+    "region_code": "SCT",
+    "city": "Edinburgh",
+    "latitude": 55.953252,
+    "longitude": -3.188267,
     "is_eu": false,
-    "postal": "SW1",
+    "postal": "EH1 3EG",
     "connection": {
-      "asn": 210644,
-      "org": "AEZA NETWORK STOCKHOLM",
-      "isp": "AEZA INTERNATIONAL LTD",
-      "domain": "aeza.net"
+      "asn": 5089,
+      "org": "Virgin Media Limited",
+      "isp": "Virgin Media Limited",
+      "domain": "adsgroup.org.uk"
     }
   }
 ]

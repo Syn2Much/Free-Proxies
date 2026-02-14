@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://103.155.62.141:8081",
-    "tested_at": "2026-02-14T02:51:00Z",
+    "tested_at": "2026-02-14T03:23:01Z",
     "ip": "103.155.62.141",
     "success": true,
     "type": "IPv4",
@@ -20,29 +20,6 @@
       "org": "Hometelecom Pvt LTD",
       "isp": "Z COM NETWORKS",
       "domain": "hometel.pk"
-    }
-  },
-  {
-    "proxy": "http://110.39.183.34:8080",
-    "tested_at": "2026-02-14T02:51:05Z",
-    "ip": "110.39.183.34",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Pakistan",
-    "country_code": "PK",
-    "region": "Punjab",
-    "region_code": "PB",
-    "city": "Lahore",
-    "latitude": 31.5546061,
-    "longitude": 74.3571581,
-    "is_eu": false,
-    "postal": "54000",
-    "connection": {
-      "asn": 38264,
-      "org": "National Wimax ims Environment",
-      "isp": "Wateen Telecom Limited",
-      "domain": "wateen.com"
     }
   }
 ]

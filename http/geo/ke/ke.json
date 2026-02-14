@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://41.217.220.61:32650",
-    "tested_at": "2026-02-14T02:51:11Z",
-    "ip": "41.217.220.214",
+    "proxy": "http://102.209.76.109:8080",
+    "tested_at": "2026-02-14T03:23:03Z",
+    "ip": "102.209.76.109",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Kiambu",
+    "region_code": "13",
+    "city": "Githunguri",
+    "latitude": -1.0586336,
+    "longitude": 36.7779108,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 329422,
+      "org": "SAFHOME FIBRE LIMITED",
+      "isp": "SAFHOME FIBRE LIMITED",
+      "domain": "safhomefibre.com"
+    }
+  },
+  {
+    "proxy": "http://41.203.213.211:8102",
+    "tested_at": "2026-02-14T03:23:05Z",
+    "ip": "41.203.213.211",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,54 +39,8 @@
     "is_eu": false,
     "postal": "200",
     "connection": {
-      "asn": 37109,
-      "org": "Myisp Core Network",
-      "isp": "Myisp Limited",
-      "domain": "myisp.co.ke"
-    }
-  },
-  {
-    "proxy": "http://102.68.79.213:8080",
-    "tested_at": "2026-02-14T02:51:15Z",
-    "ip": "41.90.162.33",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Uasin Gishu",
-    "region_code": "44",
-    "city": "Eldoret",
-    "latitude": 0.5142775,
-    "longitude": 35.2697802,
-    "is_eu": false,
-    "postal": "30100",
-    "connection": {
       "asn": 37061,
-      "org": "Safaricom Limited",
-      "isp": "Safaricom Limited",
-      "domain": "safaricom.co.ke"
-    }
-  },
-  {
-    "proxy": "http://197.248.75.221:8103",
-    "tested_at": "2026-02-14T02:51:24Z",
-    "ip": "197.248.75.221",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Nakuru",
-    "region_code": "31",
-    "city": "Naivasha",
-    "latitude": -0.7171778,
-    "longitude": 36.4310251,
-    "is_eu": false,
-    "postal": "2050 -20117",
-    "connection": {
-      "asn": 37061,
-      "org": "For Safaricom Kenya Enterprise Business Unit",
+      "org": "This Is for Fixed Wimax for Corporate Customers",
       "isp": "Safaricom Limited",
       "domain": "safaricom.co.ke"
     }

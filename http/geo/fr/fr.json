@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "http://92.119.126.229:8118",
-    "tested_at": "2026-02-14T02:50:57Z",
-    "ip": "92.119.126.229",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Grand Est",
-    "region_code": "GES",
-    "city": "Strasbourg",
-    "latitude": 48.5734053,
-    "longitude": 7.7521113,
-    "is_eu": true,
-    "postal": "67000",
-    "connection": {
-      "asn": 29066,
-      "org": "Racknerd LLC",
-      "isp": "Velia.net Internetdienste GmbH",
-      "domain": "racknerd.com"
-    }
-  },
-  {
-    "proxy": "http://185.41.152.110:3128",
-    "tested_at": "2026-02-14T02:51:08Z",
-    "ip": "185.41.152.110",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Grand Est",
-    "region_code": "GES",
-    "city": "Marly",
-    "latitude": 49.059828,
-    "longitude": 6.154795,
-    "is_eu": true,
-    "postal": "57155",
-    "connection": {
-      "asn": 197922,
-      "org": "FIRSTHEBERG",
-      "isp": "Techcrea Solutions SAS",
-      "domain": "techcrea.fr"
-    }
-  },
-  {
-    "proxy": "http://164.132.248.251:80",
-    "tested_at": "2026-02-14T02:51:14Z",
-    "ip": "164.132.248.251",
+    "proxy": "http://62.133.62.12:1082",
+    "tested_at": "2026-02-14T03:22:09Z",
+    "ip": "62.133.62.12",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -62,15 +16,15 @@
     "is_eu": true,
     "postal": "75007",
     "connection": {
-      "asn": 16276,
-      "org": "OVH SAS",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
+      "asn": 215540,
+      "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "domain": "gir.network"
     }
   },
   {
-    "proxy": "http://13.59.113.45:8922",
-    "tested_at": "2026-02-14T02:51:18Z",
+    "proxy": "http://40.177.151.5:38489",
+    "tested_at": "2026-02-14T03:22:09Z",
     "ip": "203.55.81.2",
     "success": true,
     "type": "IPv4",
@@ -92,26 +46,49 @@
     }
   },
   {
-    "proxy": "http://37.187.109.70:10111",
-    "tested_at": "2026-02-14T02:51:20Z",
-    "ip": "2001:41d0:a:6246::1",
+    "proxy": "http://94.183.188.7:6891",
+    "tested_at": "2026-02-14T03:22:39Z",
+    "ip": "94.183.188.7",
     "success": true,
-    "type": "IPv6",
+    "type": "IPv4",
     "continent": "Europe",
     "country": "France",
     "country_code": "FR",
-    "region": "Hauts-de-France",
-    "region_code": "HDF",
-    "city": "Roubaix",
-    "latitude": 50.6927049,
-    "longitude": 3.177847,
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
     "is_eu": true,
-    "postal": "59100",
+    "postal": "75007",
     "connection": {
-      "asn": 16276,
-      "org": "OVH",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
+      "asn": 56971,
+      "org": "CGI GLOBAL LIMITED",
+      "isp": "CGI GLOBAL LIMITED",
+      "domain": "cloudbackbone.net"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.170:16353",
+    "tested_at": "2026-02-14T03:22:49Z",
+    "ip": "91.166.252.105",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Champigny-sur-Marne",
+    "latitude": 48.817049,
+    "longitude": 2.515556,
+    "is_eu": true,
+    "postal": "94500",
+    "connection": {
+      "asn": 12322,
+      "org": "Broadband Pool",
+      "isp": "Free SAS",
+      "domain": "scaleway.com"
     }
   }
 ]
