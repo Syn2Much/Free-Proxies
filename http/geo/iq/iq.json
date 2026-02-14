@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://46.161.196.139:8080",
+    "tested_at": "2026-02-14T10:40:56Z",
+    "ip": "46.161.196.139",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Iraqi Kurdistan Region",
+    "region_code": "",
+    "city": "Duhok",
+    "latitude": 36.8632107,
+    "longitude": 42.9884805,
+    "is_eu": false,
+    "postal": "42001",
+    "connection": {
+      "asn": 205254,
+      "org": "Valeen for General Trading, Internet Services And Information Technology LTD",
+      "isp": "Valeen for General Trading, Internet Services And Information Technology LTD",
+      "domain": "valeenonline.com"
+    }
+  },
+  {
     "proxy": "http://37.238.63.44:8080",
-    "tested_at": "2026-02-14T10:09:26Z",
+    "tested_at": "2026-02-14T10:41:23Z",
     "ip": "37.237.229.128",
     "success": true,
     "type": "IPv4",

@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://37.230.57.112:999",
-    "tested_at": "2026-02-14T10:09:28Z",
-    "ip": "138.59.227.111",
+    "proxy": "http://190.128.195.58:999",
+    "tested_at": "2026-02-14T10:40:39Z",
+    "ip": "190.128.195.58",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Paraguay",
     "country_code": "PY",
-    "region": "Concepción",
-    "region_code": "1",
-    "city": "Concepción",
-    "latitude": -23.4214264,
-    "longitude": -57.4344451,
+    "region": "Itapúa",
+    "region_code": "7",
+    "city": "Carlos Antonio López, Paraguay",
+    "latitude": -26.3980997,
+    "longitude": -54.7604286,
     "is_eu": false,
-    "postal": "8100",
+    "postal": "6550",
     "connection": {
-      "asn": 270052,
-      "org": "STARTELECOM S.A.",
-      "isp": "STARTELECOM S.A.",
-      "domain": "startpy.com.py"
+      "asn": 23201,
+      "org": "Telecel S.A.",
+      "isp": "Telecel S.A.",
+      "domain": "telecel.com.py"
+    }
+  },
+  {
+    "proxy": "http://181.78.217.50:999",
+    "tested_at": "2026-02-14T10:40:59Z",
+    "ip": "181.78.217.50",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "region": "Distrito Capital de Paraguay",
+    "region_code": "",
+    "city": "Asuncion",
+    "latitude": -25.2637399,
+    "longitude": -57.575926,
+    "is_eu": false,
+    "postal": "1226",
+    "connection": {
+      "asn": 52468,
+      "org": "UFINET PARAGUAY S.A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "ufinet.com"
     }
   }
 ]

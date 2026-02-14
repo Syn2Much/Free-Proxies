@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://195.133.64.177:3128",
-    "tested_at": "2026-02-14T10:09:25Z",
-    "ip": "195.133.64.177",
+    "proxy": "http://43.208.240.77:8890",
+    "tested_at": "2026-02-14T10:40:51Z",
+    "ip": "109.71.252.97",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,84 +16,15 @@
     "is_eu": true,
     "postal": "60311",
     "connection": {
-      "asn": 199785,
-      "org": "Cloud Hosting Solutions, Limited.",
-      "isp": "Cloud Hosting Solutions, Limited.",
-      "domain": "chosting.solutions"
-    }
-  },
-  {
-    "proxy": "http://157.230.106.35:8080",
-    "tested_at": "2026-02-14T10:09:30Z",
-    "ip": "157.230.106.35",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Hesse",
-    "region_code": "HE",
-    "city": "Frankfurt",
-    "latitude": 50.1109221,
-    "longitude": 8.6821267,
-    "is_eu": true,
-    "postal": "60311",
-    "connection": {
-      "asn": 14061,
-      "org": "Digitalocean, LLC",
-      "isp": "Digitalocean, LLC",
-      "domain": "digitalocean.com"
-    }
-  },
-  {
-    "proxy": "http://85.234.69.102:3128",
-    "tested_at": "2026-02-14T10:09:31Z",
-    "ip": "85.234.69.102",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Hesse",
-    "region_code": "HE",
-    "city": "Eschborn",
-    "latitude": 50.1467469,
-    "longitude": 8.5614555,
-    "is_eu": true,
-    "postal": "65760",
-    "connection": {
-      "asn": 199524,
-      "org": "G core Labs S.A.",
-      "isp": "G core Labs S.A.",
-      "domain": "gcore.com"
-    }
-  },
-  {
-    "proxy": "http://152.53.136.194:10000",
-    "tested_at": "2026-02-14T10:09:33Z",
-    "ip": "92.206.86.117",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Saxony",
-    "region_code": "SN",
-    "city": "Hoyerswerda",
-    "latitude": 51.4388605,
-    "longitude": 14.2536419,
-    "is_eu": true,
-    "postal": "02977",
-    "connection": {
-      "asn": 16202,
-      "org": "PRIMACOM",
-      "isp": "Tele Columbus Betriebs GmbH",
-      "domain": ""
+      "asn": 58087,
+      "org": "Datalix",
+      "isp": "Florian Kolb",
+      "domain": "datalix.de"
     }
   },
   {
     "proxy": "http://5.75.198.16:1080",
-    "tested_at": "2026-02-14T10:09:39Z",
+    "tested_at": "2026-02-14T10:41:07Z",
     "ip": "2a01:4f8:1c1b:12a0::1",
     "success": true,
     "type": "IPv6",
@@ -115,9 +46,32 @@
     }
   },
   {
-    "proxy": "http://47.91.65.23:3128",
-    "tested_at": "2026-02-14T10:09:41Z",
-    "ip": "47.91.65.23",
+    "proxy": "http://15.168.235.57:34957",
+    "tested_at": "2026-02-14T10:41:08Z",
+    "ip": "185.220.101.103",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Brandenburg",
+    "region_code": "BB",
+    "city": "Brandenburg",
+    "latitude": 52.4125287,
+    "longitude": 12.5316444,
+    "is_eu": true,
+    "postal": "14770",
+    "connection": {
+      "asn": 60729,
+      "org": "Artikel10 E.V.",
+      "isp": "Stiftung Erneuerbare Freiheit",
+      "domain": "relayon.org"
+    }
+  },
+  {
+    "proxy": "http://109.91.247.181:8080",
+    "tested_at": "2026-02-14T10:41:11Z",
+    "ip": "109.91.247.181",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -125,21 +79,21 @@
     "country_code": "DE",
     "region": "Hesse",
     "region_code": "HE",
-    "city": "Frankfurt",
-    "latitude": 50.1109221,
-    "longitude": 8.6821267,
+    "city": "Darmstadt",
+    "latitude": 49.8728253,
+    "longitude": 8.6511929,
     "is_eu": true,
-    "postal": "60311",
+    "postal": "64283",
     "connection": {
-      "asn": 45102,
-      "org": "Alibaba Cloud De",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibabacloud.com"
+      "asn": 3209,
+      "org": "Unitymedia Static B B Customer Pool",
+      "isp": "Vodafone GmbH",
+      "domain": "unitymedia.de"
     }
   },
   {
     "proxy": "http://51.250.88.121:9998",
-    "tested_at": "2026-02-14T10:09:43Z",
+    "tested_at": "2026-02-14T10:41:18Z",
     "ip": "139.59.148.123",
     "success": true,
     "type": "IPv4",
@@ -158,75 +112,6 @@
       "org": "Digitalocean, LLC",
       "isp": "Digitalocean, LLC",
       "domain": "digitalocean.com"
-    }
-  },
-  {
-    "proxy": "http://85.234.69.183:3128",
-    "tested_at": "2026-02-14T10:09:44Z",
-    "ip": "85.234.69.183",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Hesse",
-    "region_code": "HE",
-    "city": "Eschborn",
-    "latitude": 50.1467469,
-    "longitude": 8.5614555,
-    "is_eu": true,
-    "postal": "65760",
-    "connection": {
-      "asn": 199524,
-      "org": "G core Labs S.A.",
-      "isp": "G core Labs S.A.",
-      "domain": "gcore.com"
-    }
-  },
-  {
-    "proxy": "https://3.113.13.224:3453",
-    "tested_at": "2026-02-14T10:10:07Z",
-    "ip": "95.164.123.34",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Hesse",
-    "region_code": "HE",
-    "city": "Frankfurt",
-    "latitude": 50.1109221,
-    "longitude": 8.6821267,
-    "is_eu": true,
-    "postal": "60311",
-    "connection": {
-      "asn": 213702,
-      "org": "QWINS LTD",
-      "isp": "QWINS LTD",
-      "domain": "qwins.co"
-    }
-  },
-  {
-    "proxy": "https://95.40.79.184:8091",
-    "tested_at": "2026-02-14T10:10:07Z",
-    "ip": "185.220.101.148",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Brandenburg",
-    "region_code": "BB",
-    "city": "Brandenburg",
-    "latitude": 52.4125287,
-    "longitude": 12.5316444,
-    "is_eu": true,
-    "postal": "14770",
-    "connection": {
-      "asn": 60729,
-      "org": "Artikel10 E.V.",
-      "isp": "Stiftung Erneuerbare Freiheit",
-      "domain": "relayon.org"
     }
   }
 ]

@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://41.90.167.149:8082",
-    "tested_at": "2026-02-14T10:09:27Z",
-    "ip": "41.90.167.149",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Nairobi",
-    "region_code": "110",
-    "city": "Nairobi",
-    "latitude": -1.3237958,
-    "longitude": 36.8808553,
-    "is_eu": false,
-    "postal": "200",
-    "connection": {
-      "asn": 37061,
-      "org": "Safaricom Limited",
-      "isp": "Safaricom Limited",
-      "domain": "safaricom.co.ke"
-    }
-  },
-  {
-    "proxy": "http://67.43.228.250:18629",
-    "tested_at": "2026-02-14T10:09:57Z",
-    "ip": "41.209.14.75",
+    "proxy": "http://102.209.18.96:8080",
+    "tested_at": "2026-02-14T10:41:08Z",
+    "ip": "102.209.18.96",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -33,85 +10,16 @@
     "country_code": "KE",
     "region": "Kiambu",
     "region_code": "13",
-    "city": "Ruiru",
-    "latitude": -1.1457029,
-    "longitude": 36.9648534,
+    "city": "Kikuyu",
+    "latitude": -1.2543366,
+    "longitude": 36.681661,
     "is_eu": false,
-    "postal": "01001",
+    "postal": "",
     "connection": {
-      "asn": 9129,
-      "org": "AS 1 MNT 1 0 1 0",
-      "isp": "MTN SA",
-      "domain": "mtnbusiness.co.ke"
-    }
-  },
-  {
-    "proxy": "http://102.68.78.19:8080",
-    "tested_at": "2026-02-14T10:10:00Z",
-    "ip": "102.68.79.203",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Kisumu",
-    "region_code": "17",
-    "city": "Kisumu",
-    "latitude": -0.0917016,
-    "longitude": 34.7679568,
-    "is_eu": false,
-    "postal": "40100",
-    "connection": {
-      "asn": 328490,
-      "org": "Unwired Communications LTD",
-      "isp": "Unwired Communications Limited",
-      "domain": "unwired.co.ke"
-    }
-  },
-  {
-    "proxy": "http://102.68.79.213:8080",
-    "tested_at": "2026-02-14T10:10:07Z",
-    "ip": "41.90.162.33",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Uasin Gishu",
-    "region_code": "44",
-    "city": "Eldoret",
-    "latitude": 0.5142775,
-    "longitude": 35.2697802,
-    "is_eu": false,
-    "postal": "30100",
-    "connection": {
-      "asn": 37061,
-      "org": "Safaricom Limited",
-      "isp": "Safaricom Limited",
-      "domain": "safaricom.co.ke"
-    }
-  },
-  {
-    "proxy": "http://197.155.64.226:8090",
-    "tested_at": "2026-02-14T10:10:13Z",
-    "ip": "197.155.64.226",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Nairobi",
-    "region_code": "110",
-    "city": "Nairobi",
-    "latitude": -1.2920659,
-    "longitude": 36.8219462,
-    "is_eu": false,
-    "postal": "200",
-    "connection": {
-      "asn": 30844,
-      "org": "Pioneer Hi Bred",
-      "isp": "Liquid Telecommunications LTD",
-      "domain": "liquidtelecom.mu"
+      "asn": 329437,
+      "org": "VENNET SOLUTIONS LIMITED",
+      "isp": "VENNET SOLUTIONS LIMITED",
+      "domain": "vennet.co.ke"
     }
   }
 ]

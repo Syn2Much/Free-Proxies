@@ -1,8 +1,100 @@
 [
   {
-    "proxy": "http://38.156.73.136:8080",
-    "tested_at": "2026-02-14T10:09:41Z",
-    "ip": "212.108.115.246",
+    "proxy": "http://193.43.145.124:8080",
+    "tested_at": "2026-02-14T10:40:39Z",
+    "ip": "193.43.145.124",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Syria",
+    "country_code": "SY",
+    "region": "Homs Governorate",
+    "region_code": "HI",
+    "city": "Talbiseh",
+    "latitude": 34.8422936,
+    "longitude": 36.7307641,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 29256,
+      "org": "Wafa Telecom J.S.C",
+      "isp": "Syrian Telecommunication Private Closed Joint Stock Company",
+      "domain": "syriantelecom.sy"
+    }
+  },
+  {
+    "proxy": "http://89.43.133.165:8080",
+    "tested_at": "2026-02-14T10:40:41Z",
+    "ip": "89.43.133.165",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Syria",
+    "country_code": "SY",
+    "region": "Idlib Governorate",
+    "region_code": "ID",
+    "city": "Idlib",
+    "latitude": 35.9310271,
+    "longitude": 36.6417777,
+    "is_eu": false,
+    "postal": "+96323",
+    "connection": {
+      "asn": 216472,
+      "org": "HU PANTEL INT 00 11",
+      "isp": "High Speed For Internet Services L.L.C",
+      "domain": "turktelekomint.com"
+    }
+  },
+  {
+    "proxy": "http://89.43.133.174:8080",
+    "tested_at": "2026-02-14T10:41:03Z",
+    "ip": "89.43.133.174",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Syria",
+    "country_code": "SY",
+    "region": "Idlib Governorate",
+    "region_code": "ID",
+    "city": "Idlib",
+    "latitude": 35.9310271,
+    "longitude": 36.6417777,
+    "is_eu": false,
+    "postal": "+96323",
+    "connection": {
+      "asn": 216472,
+      "org": "HU PANTEL INT 00 11",
+      "isp": "High Speed For Internet Services L.L.C",
+      "domain": "turktelekomint.com"
+    }
+  },
+  {
+    "proxy": "http://91.144.45.166:8082",
+    "tested_at": "2026-02-14T10:41:09Z",
+    "ip": "91.144.45.166",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Syria",
+    "country_code": "SY",
+    "region": "Rif Dimashq Governorate",
+    "region_code": "RD",
+    "city": "Sahnaya",
+    "latitude": 33.4293662,
+    "longitude": 36.2223985,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 29256,
+      "org": "Tarassul Inetnet Service Provider",
+      "isp": "Syrian Telecommunication Private Closed Joint Stock Company",
+      "domain": "syriantelecom.sy"
+    }
+  },
+  {
+    "proxy": "http://212.108.115.59:8080",
+    "tested_at": "2026-02-14T10:41:11Z",
+    "ip": "212.108.115.59",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -23,32 +115,9 @@
     }
   },
   {
-    "proxy": "http://212.108.115.172:8080",
-    "tested_at": "2026-02-14T10:09:43Z",
-    "ip": "212.108.115.172",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Syria",
-    "country_code": "SY",
-    "region": "Damascus Governorate",
-    "region_code": "DI",
-    "city": "Damascus",
-    "latitude": 33.5138073,
-    "longitude": 36.2765279,
-    "is_eu": false,
-    "postal": "2277",
-    "connection": {
-      "asn": 216472,
-      "org": "TELECOME SY",
-      "isp": "High Speed For Internet Services L.L.C",
-      "domain": "kaer.technology"
-    }
-  },
-  {
-    "proxy": "http://139.28.49.7:8080",
-    "tested_at": "2026-02-14T10:10:07Z",
-    "ip": "139.28.49.7",
+    "proxy": "http://89.43.134.40:8080",
+    "tested_at": "2026-02-14T10:41:25Z",
+    "ip": "89.43.134.40",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -63,15 +132,15 @@
     "postal": "720",
     "connection": {
       "asn": 216472,
-      "org": "Telecom Sy",
+      "org": "HU PANTEL INT 00 11",
       "isp": "High Speed For Internet Services L.L.C",
-      "domain": "highspeed-sy.com"
+      "domain": "turktelekomint.com"
     }
   },
   {
-    "proxy": "http://212.108.115.66:8080",
-    "tested_at": "2026-02-14T10:10:14Z",
-    "ip": "212.108.115.154",
+    "proxy": "http://212.108.115.146:8080",
+    "tested_at": "2026-02-14T10:41:31Z",
+    "ip": "212.108.115.146",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",

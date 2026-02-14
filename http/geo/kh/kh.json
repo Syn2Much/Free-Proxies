@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://110.235.250.77:8080",
-    "tested_at": "2026-02-14T10:09:32Z",
-    "ip": "110.235.250.77",
+    "proxy": "http://96.9.66.208:80",
+    "tested_at": "2026-02-14T10:40:49Z",
+    "ip": "96.9.66.208",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,33 +16,10 @@
     "is_eu": false,
     "postal": "120603",
     "connection": {
-      "asn": 23673,
-      "org": "Cogetel Ltd, Online Isp, Cambodia",
-      "isp": "COGETEL LTD.",
-      "domain": "cogetel.com.kh"
-    }
-  },
-  {
-    "proxy": "http://36.37.251.137:8080",
-    "tested_at": "2026-02-14T10:09:36Z",
-    "ip": "36.37.251.137",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Cambodia",
-    "country_code": "KH",
-    "region": "Phnom Penh",
-    "region_code": "12",
-    "city": "Phnom Phen City",
-    "latitude": 11.5448729,
-    "longitude": 104.8921668,
-    "is_eu": false,
-    "postal": "120603",
-    "connection": {
-      "asn": 38623,
-      "org": "VIETTEL CAMBODIA PTE., LTD.",
-      "isp": "VIETTEL CAMBODIA PTE., LTD",
-      "domain": "viettel.com.vn"
+      "asn": 131207,
+      "org": "Sinet, Dedicated Fiber, Dedicated Speed, Dedicated Support, Dedicated Always.",
+      "isp": "S.i Group",
+      "domain": "sinet.com.kh"
     }
   }
 ]

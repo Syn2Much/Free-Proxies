@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://67.43.236.20:4017",
-    "tested_at": "2026-02-14T10:10:02Z",
-    "ip": "43.245.153.7",
+    "proxy": "http://67.43.236.20:5047",
+    "tested_at": "2026-02-14T10:40:55Z",
+    "ip": "49.190.22.100",
     "success": true,
     "type": "IPv4",
     "continent": "Oceania",
@@ -10,16 +10,16 @@
     "country_code": "AU",
     "region": "Victoria",
     "region_code": "VIC",
-    "city": "Caulfield South",
-    "latitude": -37.891,
-    "longitude": 145.026,
+    "city": "Melbourne",
+    "latitude": -37.8136276,
+    "longitude": 144.9630576,
     "is_eu": false,
-    "postal": "3162",
+    "postal": "3000",
     "connection": {
-      "asn": 38195,
-      "org": "Superloop Limited",
-      "isp": "SUPERLOOP AUSTRALIA PTY LTD",
-      "domain": "superloop.com"
+      "asn": 4804,
+      "org": "Optus Internet Pty LTD",
+      "isp": "Singtel Optus Pty LTD",
+      "domain": "optus.net.au"
     }
   }
 ]

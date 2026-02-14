@@ -1,7 +1,30 @@
 [
   {
-    "proxy": "http://72.10.160.171:7905",
-    "tested_at": "2026-02-14T09:38:27Z",
+    "proxy": "http://67.43.236.19:2781",
+    "tested_at": "2026-02-14T10:40:48Z",
+    "ip": "101.53.219.235",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Oceania",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "region": "Bay Of Plenty",
+    "region_code": "BOP",
+    "city": "Tauranga",
+    "latitude": -37.6877975,
+    "longitude": 176.1651295,
+    "is_eu": false,
+    "postal": "3143",
+    "connection": {
+      "asn": 55850,
+      "org": "Mercury Nz Limited",
+      "isp": "Mercury Nz Limited",
+      "domain": "mercury.co.nz"
+    }
+  },
+  {
+    "proxy": "http://67.43.236.20:2781",
+    "tested_at": "2026-02-14T10:40:58Z",
     "ip": "101.53.219.235",
     "success": true,
     "type": "IPv4",

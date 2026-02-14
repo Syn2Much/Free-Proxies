@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://111.90.143.197:60808",
-    "tested_at": "2026-02-14T10:09:41Z",
-    "ip": "111.90.143.197",
+    "proxy": "http://60.54.47.75:8081",
+    "tested_at": "2026-02-14T10:41:31Z",
+    "ip": "60.54.47.75",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Malaysia",
     "country_code": "MY",
-    "region": "Federal Territory of Kuala Lumpur",
-    "region_code": "",
-    "city": "Kuala Lumpur",
-    "latitude": 3.139003,
-    "longitude": 101.686855,
+    "region": "Selangor",
+    "region_code": "10",
+    "city": "Cyberjaya",
+    "latitude": 2.921318,
+    "longitude": 101.6559349,
     "is_eu": false,
-    "postal": "50050",
+    "postal": "63200",
     "connection": {
-      "asn": 45839,
-      "org": "Shinjiru Technology Sdn Bhd",
-      "isp": "Shinjiru Technology Sdn Bhd",
-      "domain": "shinjiru.com.my"
+      "asn": 4788,
+      "org": "TM TECHNOLOGY SERVICES SDN BHD",
+      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+      "domain": "tm.com.my"
     }
   }
 ]

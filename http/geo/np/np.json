@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://182.93.95.80:8080",
-    "tested_at": "2026-02-14T10:09:27Z",
-    "ip": "182.93.95.80",
+    "proxy": "http://103.1.93.184:55443",
+    "tested_at": "2026-02-14T10:40:51Z",
+    "ip": "103.1.93.184",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,16 +16,16 @@
     "is_eu": false,
     "postal": "46600",
     "connection": {
-      "asn": 4007,
-      "org": "Subisu Corporate Pool10",
-      "isp": "Subisu Cablenet",
-      "domain": "subisu.net.np"
+      "asn": 55915,
+      "org": "Classic Tech Pvt. Ltd.",
+      "isp": "Classic Tech Pvt. Ltd.",
+      "domain": "classic.com.np"
     }
   },
   {
-    "proxy": "http://110.34.13.4:8080",
-    "tested_at": "2026-02-14T10:09:49Z",
-    "ip": "110.34.13.4",
+    "proxy": "http://182.93.85.225:8080",
+    "tested_at": "2026-02-14T10:41:18Z",
+    "ip": "182.93.85.225",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -33,11 +33,11 @@
     "country_code": "NP",
     "region": "Bagmati Pradesh",
     "region_code": "",
-    "city": "Patan",
-    "latitude": 27.6644011,
-    "longitude": 85.3187914,
+    "city": "Kathmandu",
+    "latitude": 27.7172453,
+    "longitude": 85.3239605,
     "is_eu": false,
-    "postal": "44707",
+    "postal": "46600",
     "connection": {
       "asn": 4007,
       "org": "Subisu Retail Pool",

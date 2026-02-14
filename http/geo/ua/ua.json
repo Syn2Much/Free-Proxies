@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://176.100.60.249:3128",
+    "tested_at": "2026-02-14T10:41:19Z",
+    "ip": "176.100.60.249",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Kyiv city",
+    "region_code": "30",
+    "city": "Kyiv",
+    "latitude": 50.4501,
+    "longitude": 30.5234,
+    "is_eu": false,
+    "postal": "01001",
+    "connection": {
+      "asn": 57460,
+      "org": "Pe Scherban Evgeniy Aleksandrovich",
+      "isp": "Pe Scherban Evgeniy Aleksandrovich",
+      "domain": "linknet.org.ua"
+    }
+  },
+  {
     "proxy": "http://91.238.104.171:2023",
-    "tested_at": "2026-02-14T10:09:27Z",
+    "tested_at": "2026-02-14T10:41:23Z",
     "ip": "91.238.104.171",
     "success": true,
     "type": "IPv4",
@@ -23,49 +46,26 @@
     }
   },
   {
-    "proxy": "http://91.228.217.195:8989",
-    "tested_at": "2026-02-14T10:09:28Z",
-    "ip": "91.228.217.195",
+    "proxy": "http://91.236.156.30:8282",
+    "tested_at": "2026-02-14T10:41:27Z",
+    "ip": "91.236.156.30",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Ukraine",
     "country_code": "UA",
-    "region": "Ivano-Frankivsk Oblast",
-    "region_code": "",
-    "city": "Kryvorivnya",
-    "latitude": 48.1736874,
-    "longitude": 24.8963763,
+    "region": "Poltava Oblast",
+    "region_code": "53",
+    "city": "Lokhvytsya",
+    "latitude": 50.3589,
+    "longitude": 33.259,
     "is_eu": false,
-    "postal": "78710",
+    "postal": "37200",
     "connection": {
-      "asn": 209907,
-      "org": "Fop Saiv Igor Stepanovich",
-      "isp": "Fop Saiv Igor Stepanovich",
-      "domain": "gipernet.com.ua"
-    }
-  },
-  {
-    "proxy": "http://194.29.60.220:8080",
-    "tested_at": "2026-02-14T10:10:00Z",
-    "ip": "194.29.60.220",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Vinnytsia Oblast",
-    "region_code": "05",
-    "city": "Vinnytsia",
-    "latitude": 49.233083,
-    "longitude": 28.468217,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 31520,
-      "org": "PRIVATE JOINT STOCK COMPANY DATAGROUP",
-      "isp": "PRIVATE JOINT STOCK COMPANY DATAGROUP",
-      "domain": "datagroup.ua"
+      "asn": 205318,
+      "org": "Limited Liability Company Avator ISP",
+      "isp": "Limited Liability Company Avator ISP",
+      "domain": "avator.ua"
     }
   }
 ]

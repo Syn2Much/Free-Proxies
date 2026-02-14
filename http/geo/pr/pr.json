@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://23.143.160.193:999",
-    "tested_at": "2026-02-14T09:38:44Z",
-    "ip": "23.143.160.21",
+    "proxy": "http://192.203.0.166:999",
+    "tested_at": "2026-02-14T10:41:08Z",
+    "ip": "192.203.0.166",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,16 +10,16 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "Ponce",
-    "latitude": 18.0110768,
-    "longitude": -66.6140616,
+    "city": "Fajardo",
+    "latitude": 18.3257869,
+    "longitude": -65.6523838,
     "is_eu": false,
-    "postal": "00733-1910",
+    "postal": "00738-4805",
     "connection": {
-      "asn": 14534,
-      "org": "UNONET CORP",
-      "isp": "UNONET CORP",
-      "domain": "myunonet.net"
+      "asn": 63393,
+      "org": "BOOM NET",
+      "isp": "BOOM NET",
+      "domain": "boomsolutionspr.com"
     }
   }
 ]

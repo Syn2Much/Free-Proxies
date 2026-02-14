@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://149.86.206.27:8080",
-    "tested_at": "2026-02-14T10:09:25Z",
-    "ip": "149.86.206.27",
+    "proxy": "http://78.134.20.48:8080",
+    "tested_at": "2026-02-14T10:40:41Z",
+    "ip": "78.134.20.48",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,16 +10,16 @@
     "country_code": "IT",
     "region": "Tuscany",
     "region_code": "52",
-    "city": "Pistoia",
-    "latitude": 43.9303475,
-    "longitude": 10.9078587,
+    "city": "Pitigliano",
+    "latitude": 42.6353182,
+    "longitude": 11.6699906,
     "is_eu": true,
-    "postal": "51100",
+    "postal": "58017",
     "connection": {
-      "asn": 60501,
-      "org": "Cogent Communications",
-      "isp": "Sirius Technology SRL",
-      "domain": "siriustec.it"
+      "asn": 35612,
+      "org": "Eolo S.P.A.",
+      "isp": "Eolo S.P.A.",
+      "domain": "eolo.it"
     }
   }
 ]

@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://80.78.75.80:8080",
+    "tested_at": "2026-02-14T10:41:22Z",
+    "ip": "80.78.75.80",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Albania",
+    "country_code": "AL",
+    "region": "Central Albania",
+    "region_code": "",
+    "city": "Prezë",
+    "latitude": 41.4283649,
+    "longitude": 19.6654188,
+    "is_eu": false,
+    "postal": "1039",
+    "connection": {
+      "asn": 21183,
+      "org": "Business Clients at The Fiber Abcom Infrastructure",
+      "isp": "Vodafone Albania SH.A.",
+      "domain": "vodafone.al"
+    }
+  },
+  {
     "proxy": "http://46.252.35.91:8080",
-    "tested_at": "2026-02-14T10:09:50Z",
+    "tested_at": "2026-02-14T10:41:33Z",
     "ip": "46.252.35.91",
     "success": true,
     "type": "IPv4",

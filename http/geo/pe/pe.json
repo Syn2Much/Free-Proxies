@@ -1,53 +1,7 @@
 [
   {
-    "proxy": "http://38.172.128.104:999",
-    "tested_at": "2026-02-14T10:09:25Z",
-    "ip": "38.172.128.105",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Lima",
-    "region_code": "LIM",
-    "city": "Lima District",
-    "latitude": -12.046374,
-    "longitude": -77.0427934,
-    "is_eu": false,
-    "postal": "15081",
-    "connection": {
-      "asn": 273133,
-      "org": "Cogent Communications",
-      "isp": "CONEX TV E.I.R.L.",
-      "domain": "conextv.pe"
-    }
-  },
-  {
-    "proxy": "http://200.215.229.14:999",
-    "tested_at": "2026-02-14T10:09:39Z",
-    "ip": "200.215.229.14",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Cusco",
-    "region_code": "CUS",
-    "city": "Cusco",
-    "latitude": -13.5294272,
-    "longitude": -71.9355221,
-    "is_eu": false,
-    "postal": "08001",
-    "connection": {
-      "asn": 271868,
-      "org": "GPON NETWORKS S.A.C.",
-      "isp": "GPON NETWORKS S.A.C.",
-      "domain": "gpon.pe"
-    }
-  },
-  {
-    "proxy": "http://38.172.130.241:999",
-    "tested_at": "2026-02-14T10:09:47Z",
+    "proxy": "http://38.172.130.240:999",
+    "tested_at": "2026-02-14T10:40:40Z",
     "ip": "38.159.166.157",
     "success": true,
     "type": "IPv4",
@@ -69,26 +23,49 @@
     }
   },
   {
-    "proxy": "http://190.119.90.114:8080",
-    "tested_at": "2026-02-14T10:10:10Z",
-    "ip": "190.119.90.114",
+    "proxy": "http://200.215.229.3:999",
+    "tested_at": "2026-02-14T10:40:50Z",
+    "ip": "200.215.229.213",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Peru",
     "country_code": "PE",
-    "region": "Ayacucho",
-    "region_code": "AYA",
-    "city": "Ayacucho",
-    "latitude": -13.1543514,
-    "longitude": -74.2152875,
+    "region": "Cusco",
+    "region_code": "CUS",
+    "city": "Cusco",
+    "latitude": -13.53195,
+    "longitude": -71.9674626,
     "is_eu": false,
-    "postal": "05011",
+    "postal": "08001",
     "connection": {
-      "asn": 12252,
-      "org": "America Movil Peru S.A.C",
-      "isp": "America Movil Peru S.A.C.",
-      "domain": ""
+      "asn": 271868,
+      "org": "GPON NETWORKS S.A.C.",
+      "isp": "GPON NETWORKS S.A.C.",
+      "domain": "gpon.pe"
+    }
+  },
+  {
+    "proxy": "http://201.230.15.57:999",
+    "tested_at": "2026-02-14T10:41:20Z",
+    "ip": "201.230.15.57",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Tacna",
+    "region_code": "TAC",
+    "city": "Tacna",
+    "latitude": -17.9833329,
+    "longitude": -70.183333,
+    "is_eu": false,
+    "postal": "23000",
+    "connection": {
+      "asn": 6147,
+      "org": "PE TDPERX1 LACNIC",
+      "isp": "INTEGRATEL PER S.A.A.",
+      "domain": "tdp.net.pe"
     }
   }
 ]
