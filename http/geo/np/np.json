@@ -1,31 +1,31 @@
 [
   {
-    "proxy": "http://103.1.93.184:55443",
-    "tested_at": "2026-02-14T10:40:51Z",
-    "ip": "103.1.93.184",
+    "proxy": "http://67.43.228.252:23137",
+    "tested_at": "2026-02-14T11:12:11Z",
+    "ip": "27.34.110.7",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Nepal",
     "country_code": "NP",
-    "region": "Bagmati Pradesh",
+    "region": "Karnali Pradesh",
     "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
+    "city": "Jumla",
+    "latitude": 29.2787765,
+    "longitude": 82.12784,
     "is_eu": false,
-    "postal": "46600",
+    "postal": "",
     "connection": {
-      "asn": 55915,
-      "org": "Classic Tech Pvt. Ltd.",
-      "isp": "Classic Tech Pvt. Ltd.",
-      "domain": "classic.com.np"
+      "asn": 17501,
+      "org": "Dynamic Allocation for Broadband Subscribers",
+      "isp": "Worldlink Communications",
+      "domain": "worldlink.com.np"
     }
   },
   {
-    "proxy": "http://182.93.85.225:8080",
-    "tested_at": "2026-02-14T10:41:18Z",
-    "ip": "182.93.85.225",
+    "proxy": "http://182.50.65.145:8080",
+    "tested_at": "2026-02-14T11:12:32Z",
+    "ip": "103.232.228.138",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,10 +39,10 @@
     "is_eu": false,
     "postal": "46600",
     "connection": {
-      "asn": 4007,
-      "org": "Subisu Retail Pool",
-      "isp": "Subisu Cablenet",
-      "domain": "subisu.net.np"
+      "asn": 55427,
+      "org": "Route Object Broadlink",
+      "isp": "Broadlink Networks And Communications",
+      "domain": "broadlink.com.np"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://149.57.28.9:9443",
-    "tested_at": "2026-02-14T10:40:59Z",
-    "ip": "149.57.28.253",
+    "proxy": "https://149.57.28.10:9443",
+    "tested_at": "2026-02-14T11:12:13Z",
+    "ip": "149.57.28.53",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "https://181.215.52.192:9443",
-    "tested_at": "2026-02-14T10:41:07Z",
-    "ip": "181.215.52.199",
+    "proxy": "https://181.215.52.2:9443",
+    "tested_at": "2026-02-14T11:12:23Z",
+    "ip": "181.215.52.56",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -46,32 +46,9 @@
     }
   },
   {
-    "proxy": "https://181.215.52.6:9443",
-    "tested_at": "2026-02-14T10:41:08Z",
-    "ip": "181.215.52.10",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 397540,
-      "org": "Private Customer",
-      "isp": "Windscribe",
-      "domain": "us.com"
-    }
-  },
-  {
-    "proxy": "https://181.215.52.101:9443",
-    "tested_at": "2026-02-14T10:41:29Z",
-    "ip": "181.215.52.111",
+    "proxy": "https://181.215.52.122:9443",
+    "tested_at": "2026-02-14T11:12:24Z",
+    "ip": "181.215.52.126",
     "success": true,
     "type": "IPv4",
     "continent": "North America",

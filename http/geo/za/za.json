@@ -1,25 +1,71 @@
 [
   {
-    "proxy": "http://41.57.136.115:6060",
-    "tested_at": "2026-02-14T10:41:03Z",
-    "ip": "41.57.136.115",
+    "proxy": "http://102.135.142.234:12354",
+    "tested_at": "2026-02-14T11:12:12Z",
+    "ip": "102.135.142.234",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "South Africa",
     "country_code": "ZA",
-    "region": "North West",
-    "region_code": "NW",
-    "city": "Carousel View",
-    "latitude": -25.3186765,
-    "longitude": 28.2821295,
+    "region": "Gauteng",
+    "region_code": "GT",
+    "city": "Centurion",
+    "latitude": -25.864029,
+    "longitude": 28.0888578,
     "is_eu": false,
-    "postal": "0421",
+    "postal": "0014",
     "connection": {
-      "asn": 327688,
-      "org": "Screamer Pretoria Office.",
-      "isp": "Screamer Telecommunications",
-      "domain": "screamer.co.za"
+      "asn": 327907,
+      "org": "ISPDIVISION",
+      "isp": "Session Telecoms pty LTD",
+      "domain": "sessiontelecoms.co.za"
+    }
+  },
+  {
+    "proxy": "http://156.155.50.93:8080",
+    "tested_at": "2026-02-14T11:12:20Z",
+    "ip": "156.155.50.93",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "KwaZulu-Natal",
+    "region_code": "KZN",
+    "city": "Durban",
+    "latitude": -29.8586804,
+    "longitude": 31.0218404,
+    "is_eu": false,
+    "postal": "4023",
+    "connection": {
+      "asn": 37611,
+      "org": "Axxess Networks",
+      "isp": "AFRIHOST SP PTY LTD",
+      "domain": "axxess.co.za"
+    }
+  },
+  {
+    "proxy": "http://160.119.228.146:12354",
+    "tested_at": "2026-02-14T11:12:55Z",
+    "ip": "160.119.228.146",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Gauteng",
+    "region_code": "GT",
+    "city": "Randburg",
+    "latitude": -26.1438399,
+    "longitude": 27.9951862,
+    "is_eu": false,
+    "postal": "2194",
+    "connection": {
+      "asn": 328137,
+      "org": "Web Squad Connect",
+      "isp": "Web Squad Connect pty LTD",
+      "domain": "websquad.co.za"
     }
   }
 ]

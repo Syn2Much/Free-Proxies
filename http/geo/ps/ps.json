@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://46.60.15.72:8082",
-    "tested_at": "2026-02-14T09:38:48Z",
-    "ip": "46.60.15.42",
+    "proxy": "http://84.242.58.9:8080",
+    "tested_at": "2026-02-14T11:12:16Z",
+    "ip": "84.242.58.9",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,16 +10,16 @@
     "country_code": "PS",
     "region": "West Bank",
     "region_code": "",
-    "city": "Salfit",
-    "latitude": 32.085094,
-    "longitude": 35.180832,
+    "city": "Ramallah",
+    "latitude": 31.9037641,
+    "longitude": 35.2034184,
     "is_eu": false,
-    "postal": "390",
+    "postal": "123",
     "connection": {
-      "asn": 197350,
-      "org": "ZAYTONA NETWORK",
-      "isp": "Al Zaytona Company For Communication Ltd.",
-      "domain": "zaytona.ps"
+      "asn": 51407,
+      "org": "Mada Al arab General Services Company",
+      "isp": "Mada Al arab General Services Company",
+      "domain": "mada.ps"
     }
   }
 ]

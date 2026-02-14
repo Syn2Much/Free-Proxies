@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://150.230.104.3:16728",
-    "tested_at": "2026-02-14T10:40:49Z",
+    "tested_at": "2026-02-14T11:12:05Z",
     "ip": "150.230.104.3",
     "success": true,
     "type": "IPv4",
@@ -24,7 +24,7 @@
   },
   {
     "proxy": "http://8.209.255.13:3128",
-    "tested_at": "2026-02-14T10:41:09Z",
+    "tested_at": "2026-02-14T11:12:07Z",
     "ip": "8.209.255.13",
     "success": true,
     "type": "IPv4",
@@ -46,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://94.177.131.12:3128",
-    "tested_at": "2026-02-14T10:41:12Z",
-    "ip": "94.177.131.12",
+    "proxy": "http://47.79.94.34:1122",
+    "tested_at": "2026-02-14T11:12:35Z",
+    "ip": "47.79.94.34",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -62,56 +62,10 @@
     "is_eu": false,
     "postal": "100-0002",
     "connection": {
-      "asn": 199524,
-      "org": "G core Labs S.A.",
-      "isp": "G core Labs S.A.",
-      "domain": "gcore.com"
-    }
-  },
-  {
-    "proxy": "http://43.167.193.58:3128",
-    "tested_at": "2026-02-14T10:41:31Z",
-    "ip": "43.167.193.58",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Shibuya City",
-    "latitude": 35.6549037,
-    "longitude": 139.6945698,
-    "is_eu": false,
-    "postal": "150-0036",
-    "connection": {
-      "asn": 132203,
-      "org": "ACEVILLE PTE.LTD.",
-      "isp": "Shenzhen Tencent Computer Systems Company Limited",
-      "domain": "tencent.com"
-    }
-  },
-  {
-    "proxy": "http://116.80.62.22:3128",
-    "tested_at": "2026-02-14T10:41:32Z",
-    "ip": "116.80.62.22",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Kanagawa Prefecture",
-    "region_code": "14",
-    "city": "Yokohama",
-    "latitude": 35.4437078,
-    "longitude": 139.6380256,
-    "is_eu": false,
-    "postal": "231-0017",
-    "connection": {
-      "asn": 2514,
-      "org": "Server Hosting Service nttpccommunications,inc.",
-      "isp": "NTT Pc Communications, Inc.",
-      "domain": "nttpc.co.jp"
+      "asn": 45102,
+      "org": "Alibaba Cloud LLC",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibaba-inc.com"
     }
   }
 ]

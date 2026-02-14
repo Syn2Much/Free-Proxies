@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "https://47.243.181.85:41406",
+    "tested_at": "2026-02-14T11:12:46Z",
+    "ip": "103.151.57.112",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Hải Dương Province",
+    "region_code": "61",
+    "city": "Thành phố Hải Dương",
+    "latitude": 20.9366944,
+    "longitude": 106.2551563,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 63739,
+      "org": "Vietpn Company Limited",
+      "isp": "Vietpn Company Limited",
+      "domain": "vietpn.com"
+    }
+  }
+]

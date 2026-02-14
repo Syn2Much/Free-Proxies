@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://38.7.195.51:999",
-    "tested_at": "2026-02-14T10:40:42Z",
-    "ip": "38.7.195.49",
+    "proxy": "http://38.7.195.40:999",
+    "tested_at": "2026-02-14T11:12:11Z",
+    "ip": "38.7.195.41",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -23,32 +23,9 @@
     }
   },
   {
-    "proxy": "http://179.57.215.99:999",
-    "tested_at": "2026-02-14T10:40:49Z",
-    "ip": "179.57.215.99",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Los Ríos Region",
-    "region_code": "LR",
-    "city": "Paillaco",
-    "latitude": -40.0684279,
-    "longitude": -72.8748414,
-    "is_eu": false,
-    "postal": "523 0000",
-    "connection": {
-      "asn": 14117,
-      "org": "Telefonica del Sur S.A",
-      "isp": "Telefonica Del Sur S.A.",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://204.199.140.16:999",
-    "tested_at": "2026-02-14T10:41:07Z",
-    "ip": "204.199.140.16",
+    "proxy": "http://204.199.140.27:999",
+    "tested_at": "2026-02-14T11:12:30Z",
+    "ip": "204.199.140.27",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -69,49 +46,49 @@
     }
   },
   {
-    "proxy": "http://179.57.171.227:999",
-    "tested_at": "2026-02-14T10:41:24Z",
-    "ip": "179.57.171.227",
+    "proxy": "http://170.233.193.129:999",
+    "tested_at": "2026-02-14T11:12:51Z",
+    "ip": "170.233.193.129",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Chile",
     "country_code": "CL",
-    "region": "Araucanía Region",
-    "region_code": "AR",
-    "city": "Villarrica",
-    "latitude": -39.2820124,
-    "longitude": -72.2307798,
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
     "is_eu": false,
-    "postal": "493 0611",
+    "postal": "832 0202",
     "connection": {
-      "asn": 14117,
-      "org": "Telefonica del Sur S.A",
-      "isp": "Telefonica Del Sur S.A.",
-      "domain": ""
+      "asn": 52510,
+      "org": "MI INTERNET SPA",
+      "isp": "MI INTERNET SPA",
+      "domain": "miinternet.cl"
     }
   },
   {
-    "proxy": "http://201.220.112.98:999",
-    "tested_at": "2026-02-14T10:41:26Z",
-    "ip": "201.220.112.98",
+    "proxy": "http://45.4.0.18:999",
+    "tested_at": "2026-02-14T11:12:58Z",
+    "ip": "45.4.0.18",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Chile",
     "country_code": "CL",
-    "region": "Araucanía Region",
-    "region_code": "AR",
-    "city": "Padre Las Casas",
-    "latitude": -38.7667,
-    "longitude": -72.6,
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "San José de Tango",
+    "latitude": -33.616667,
+    "longitude": -70.8,
     "is_eu": false,
-    "postal": "486 1600",
+    "postal": "971 0000",
     "connection": {
-      "asn": 14117,
-      "org": "MUNDACA SILVA FERNANDO NIBALDO",
-      "isp": "Telefonica Del Sur S.A.",
-      "domain": "telsur.cl"
+      "asn": 265662,
+      "org": "TLINK SPA",
+      "isp": "TLINK SPA",
+      "domain": "tlink.cl"
     }
   }
 ]

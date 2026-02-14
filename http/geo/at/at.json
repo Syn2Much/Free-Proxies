@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://89.26.83.25:8080",
-    "tested_at": "2026-02-14T06:30:45Z",
-    "ip": "89.26.83.25",
+    "proxy": "http://205.147.201.77:8080",
+    "tested_at": "2026-02-14T11:12:44Z",
+    "ip": "205.147.201.77",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Austria",
     "country_code": "AT",
-    "region": "Salzburg",
-    "region_code": "5",
-    "city": "Rauris",
-    "latitude": 47.2291409,
-    "longitude": 12.9943159,
+    "region": "Lower Austria",
+    "region_code": "3",
+    "city": "Langenzersdorf",
+    "latitude": 48.3041049,
+    "longitude": 16.3608632,
     "is_eu": true,
-    "postal": "5661",
+    "postal": "2103",
     "connection": {
-      "asn": 8445,
-      "org": "Salzburg AG Fur Energie, Verkehr Und Telekommunikation",
-      "isp": "Salzburg AG Fur Energie, Verkehr Und Telekommunikation",
-      "domain": "salzburg-ag.at"
+      "asn": 40994,
+      "org": "Alwyzon, A Trading Name of Hohl IT E.U.",
+      "isp": "Hohl IT E.U.",
+      "domain": "alwyzon.net"
     }
   }
 ]

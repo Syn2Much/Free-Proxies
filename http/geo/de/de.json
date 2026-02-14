@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://43.208.240.77:8890",
-    "tested_at": "2026-02-14T10:40:51Z",
-    "ip": "109.71.252.97",
+    "proxy": "https://95.40.79.184:8091",
+    "tested_at": "2026-02-14T11:12:05Z",
+    "ip": "185.220.101.177",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Berlin",
+    "region_code": "BE",
+    "city": "Berlin",
+    "latitude": 52.5200066,
+    "longitude": 13.404954,
+    "is_eu": true,
+    "postal": "10178",
+    "connection": {
+      "asn": 60729,
+      "org": "Artikel10 E.V.",
+      "isp": "Stiftung Erneuerbare Freiheit",
+      "domain": "relayon.org"
+    }
+  },
+  {
+    "proxy": "http://157.230.106.35:8080",
+    "tested_at": "2026-02-14T11:12:09Z",
+    "ip": "157.230.106.35",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,15 +39,84 @@
     "is_eu": true,
     "postal": "60311",
     "connection": {
-      "asn": 58087,
-      "org": "Datalix",
-      "isp": "Florian Kolb",
-      "domain": "datalix.de"
+      "asn": 14061,
+      "org": "Digitalocean, LLC",
+      "isp": "Digitalocean, LLC",
+      "domain": "digitalocean.com"
+    }
+  },
+  {
+    "proxy": "http://172.86.92.68:31337",
+    "tested_at": "2026-02-14T11:12:13Z",
+    "ip": "2602:fa59:8:83::1",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Hesse",
+    "region_code": "HE",
+    "city": "Frankfurt",
+    "latitude": 50.1109221,
+    "longitude": 8.6821267,
+    "is_eu": true,
+    "postal": "60311",
+    "connection": {
+      "asn": 30823,
+      "org": "Routerhosting LLC",
+      "isp": "Aurologic GmbH",
+      "domain": "cloudzy.com"
+    }
+  },
+  {
+    "proxy": "http://51.250.88.121:9998",
+    "tested_at": "2026-02-14T11:12:24Z",
+    "ip": "139.59.148.123",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Hesse",
+    "region_code": "HE",
+    "city": "Frankfurt",
+    "latitude": 50.1109221,
+    "longitude": 8.6821267,
+    "is_eu": true,
+    "postal": "60311",
+    "connection": {
+      "asn": 14061,
+      "org": "Digitalocean, LLC",
+      "isp": "Digitalocean, LLC",
+      "domain": "digitalocean.com"
+    }
+  },
+  {
+    "proxy": "http://47.91.65.23:3128",
+    "tested_at": "2026-02-14T11:12:31Z",
+    "ip": "47.91.65.23",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Hesse",
+    "region_code": "HE",
+    "city": "Frankfurt",
+    "latitude": 50.1109221,
+    "longitude": 8.6821267,
+    "is_eu": true,
+    "postal": "60311",
+    "connection": {
+      "asn": 45102,
+      "org": "Alibaba Cloud De",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibabacloud.com"
     }
   },
   {
     "proxy": "http://5.75.198.16:1080",
-    "tested_at": "2026-02-14T10:41:07Z",
+    "tested_at": "2026-02-14T11:12:33Z",
     "ip": "2a01:4f8:1c1b:12a0::1",
     "success": true,
     "type": "IPv6",
@@ -46,32 +138,9 @@
     }
   },
   {
-    "proxy": "http://15.168.235.57:34957",
-    "tested_at": "2026-02-14T10:41:08Z",
-    "ip": "185.220.101.103",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Brandenburg",
-    "region_code": "BB",
-    "city": "Brandenburg",
-    "latitude": 52.4125287,
-    "longitude": 12.5316444,
-    "is_eu": true,
-    "postal": "14770",
-    "connection": {
-      "asn": 60729,
-      "org": "Artikel10 E.V.",
-      "isp": "Stiftung Erneuerbare Freiheit",
-      "domain": "relayon.org"
-    }
-  },
-  {
-    "proxy": "http://109.91.247.181:8080",
-    "tested_at": "2026-02-14T10:41:11Z",
-    "ip": "109.91.247.181",
+    "proxy": "http://85.234.69.183:3128",
+    "tested_at": "2026-02-14T11:12:36Z",
+    "ip": "85.234.69.183",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -79,39 +148,16 @@
     "country_code": "DE",
     "region": "Hesse",
     "region_code": "HE",
-    "city": "Darmstadt",
-    "latitude": 49.8728253,
-    "longitude": 8.6511929,
+    "city": "Eschborn",
+    "latitude": 50.1467469,
+    "longitude": 8.5614555,
     "is_eu": true,
-    "postal": "64283",
+    "postal": "65760",
     "connection": {
-      "asn": 3209,
-      "org": "Unitymedia Static B B Customer Pool",
-      "isp": "Vodafone GmbH",
-      "domain": "unitymedia.de"
-    }
-  },
-  {
-    "proxy": "http://51.250.88.121:9998",
-    "tested_at": "2026-02-14T10:41:18Z",
-    "ip": "139.59.148.123",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Hesse",
-    "region_code": "HE",
-    "city": "Frankfurt",
-    "latitude": 50.1109221,
-    "longitude": 8.6821267,
-    "is_eu": true,
-    "postal": "60311",
-    "connection": {
-      "asn": 14061,
-      "org": "Digitalocean, LLC",
-      "isp": "Digitalocean, LLC",
-      "domain": "digitalocean.com"
+      "asn": 199524,
+      "org": "G core Labs S.A.",
+      "isp": "G core Labs S.A.",
+      "domain": "gcore.com"
     }
   }
 ]

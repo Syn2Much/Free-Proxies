@@ -1,31 +1,31 @@
 [
   {
-    "proxy": "http://45.225.249.253:8080",
-    "tested_at": "2026-02-14T10:40:38Z",
-    "ip": "45.225.249.253",
+    "proxy": "http://200.26.187.146:999",
+    "tested_at": "2026-02-14T11:12:06Z",
+    "ip": "38.196.221.248",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Dominican Republic",
     "country_code": "DO",
-    "region": "Sánchez Ramírez",
-    "region_code": "24",
-    "city": "Cotui",
-    "latitude": 19.058339,
-    "longitude": -70.153032,
+    "region": "Monte Plata",
+    "region_code": "29",
+    "city": "Los Botados",
+    "latitude": 18.7389138,
+    "longitude": -70.0011868,
     "is_eu": false,
-    "postal": "",
+    "postal": "92000",
     "connection": {
-      "asn": 272132,
-      "org": "TELE COTUI, S.R.L.",
-      "isp": "TELE COTUI, S.R.L.",
-      "domain": "telecotui.tv"
+      "asn": 273217,
+      "org": "Alcome Tech Srl.",
+      "isp": "ACOLME TECH, SRL",
+      "domain": "alcom.ax"
     }
   },
   {
-    "proxy": "http://190.110.35.229:999",
-    "tested_at": "2026-02-14T10:40:44Z",
-    "ip": "168.196.124.138",
+    "proxy": "http://168.196.124.165:999",
+    "tested_at": "2026-02-14T11:12:17Z",
+    "ip": "168.196.124.162",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -46,26 +46,26 @@
     }
   },
   {
-    "proxy": "http://177.200.239.141:999",
-    "tested_at": "2026-02-14T10:41:03Z",
-    "ip": "177.200.239.141",
+    "proxy": "http://38.253.88.242:999",
+    "tested_at": "2026-02-14T11:12:40Z",
+    "ip": "190.112.200.146",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Dominican Republic",
     "country_code": "DO",
-    "region": "Santiago",
-    "region_code": "25",
-    "city": "Santiago De Los Caballeros",
-    "latitude": 19.4791963,
-    "longitude": -70.6930568,
+    "region": "La Vega",
+    "region_code": "13",
+    "city": "La Vega",
+    "latitude": 19.2152609,
+    "longitude": -70.5205436,
     "is_eu": false,
-    "postal": "51000",
+    "postal": "41000",
     "connection": {
-      "asn": 269983,
-      "org": "ESQUIRE CORPORATE SERVICES, S.R.L.",
-      "isp": "ESQUIRE CORPORATE SERVICES, S.R.L.",
-      "domain": "esquirecs.com"
+      "asn": 272027,
+      "org": "LAUAM MEGARED TELECOM, SRL.",
+      "isp": "LAUAM MEGARED TELECOM, S.R.L.",
+      "domain": "megared.com.do"
     }
   }
 ]

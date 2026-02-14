@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "https://37.120.156.34:9443",
+    "tested_at": "2026-02-14T11:12:33Z",
+    "ip": "37.120.156.44",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Poland",
+    "country_code": "PL",
+    "region": "Masovian Voivodeship",
+    "region_code": "14",
+    "city": "Warsaw",
+    "latitude": 52.2296756,
+    "longitude": 21.0122287,
+    "is_eu": true,
+    "postal": "00-110",
+    "connection": {
+      "asn": 9009,
+      "org": "M LTD Warsaw Infrastructure",
+      "isp": "M Europe SRL",
+      "domain": "m247.com"
+    }
+  },
+  {
     "proxy": "https://151.115.78.51:443",
-    "tested_at": "2026-02-14T10:40:46Z",
+    "tested_at": "2026-02-14T11:12:43Z",
     "ip": "151.115.78.51",
     "success": true,
     "type": "IPv4",
@@ -20,29 +43,6 @@
       "org": "Scaleway",
       "isp": "SCALEWAY S.A.S.",
       "domain": "scaleway.com"
-    }
-  },
-  {
-    "proxy": "https://37.120.156.18:9443",
-    "tested_at": "2026-02-14T10:40:46Z",
-    "ip": "37.120.156.25",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Poland",
-    "country_code": "PL",
-    "region": "Masovian Voivodeship",
-    "region_code": "14",
-    "city": "Warsaw",
-    "latitude": 52.2296756,
-    "longitude": 21.0122287,
-    "is_eu": true,
-    "postal": "00-110",
-    "connection": {
-      "asn": 9009,
-      "org": "M LTD Warsaw Infrastructure",
-      "isp": "M Europe SRL",
-      "domain": "m247.com"
     }
   }
 ]

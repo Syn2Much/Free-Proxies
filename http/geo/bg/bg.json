@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://213.169.33.3:8001",
+    "tested_at": "2026-02-14T11:12:08Z",
+    "ip": "213.169.33.7",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "region": "Sofia-city",
+    "region_code": "",
+    "city": "Sofia",
+    "latitude": 42.6977082,
+    "longitude": 23.3218675,
+    "is_eu": true,
+    "postal": "1000",
+    "connection": {
+      "asn": 8717,
+      "org": "A1 Bulgaria Ead",
+      "isp": "A1 Bulgaria Ead",
+      "domain": "a1.bg"
+    }
+  },
+  {
     "proxy": "http://45.136.198.40:3128",
-    "tested_at": "2026-02-14T10:09:44Z",
+    "tested_at": "2026-02-14T11:12:31Z",
     "ip": "45.136.198.40",
     "success": true,
     "type": "IPv4",
@@ -23,9 +46,32 @@
     }
   },
   {
-    "proxy": "http://213.169.33.8:8001",
-    "tested_at": "2026-02-14T10:10:12Z",
-    "ip": "213.169.33.7",
+    "proxy": "http://185.163.245.186:8080",
+    "tested_at": "2026-02-14T11:12:39Z",
+    "ip": "185.163.245.186",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "region": "Sofia-city",
+    "region_code": "",
+    "city": "Sofia",
+    "latitude": 42.6977082,
+    "longitude": 23.3218675,
+    "is_eu": true,
+    "postal": "1000",
+    "connection": {
+      "asn": 49188,
+      "org": "TAH LAN",
+      "isp": "Three A Hub Eood",
+      "domain": "threeahub.com"
+    }
+  },
+  {
+    "proxy": "http://92.247.12.136:9510",
+    "tested_at": "2026-02-14T11:12:48Z",
+    "ip": "92.247.12.130",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -40,7 +86,7 @@
     "postal": "1000",
     "connection": {
       "asn": 8717,
-      "org": "A1 Bulgaria Ead",
+      "org": "Spectrum Net Sofia",
       "isp": "A1 Bulgaria Ead",
       "domain": "a1.bg"
     }

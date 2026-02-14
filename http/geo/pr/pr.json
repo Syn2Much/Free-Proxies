@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://192.203.0.166:999",
-    "tested_at": "2026-02-14T10:41:08Z",
+    "tested_at": "2026-02-14T11:12:46Z",
     "ip": "192.203.0.166",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,29 @@
       "org": "BOOM NET",
       "isp": "BOOM NET",
       "domain": "boomsolutionspr.com"
+    }
+  },
+  {
+    "proxy": "http://23.138.88.96:999",
+    "tested_at": "2026-02-14T11:12:47Z",
+    "ip": "23.138.88.97",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "region": "Puerto Rico",
+    "region_code": "PR",
+    "city": "Adjuntas",
+    "latitude": 18.1627363,
+    "longitude": -66.7221187,
+    "is_eu": false,
+    "postal": "00601",
+    "connection": {
+      "asn": 400354,
+      "org": "ALPHANET CORP",
+      "isp": "ALPHANET CORP",
+      "domain": "alphanetwireless.net"
     }
   }
 ]

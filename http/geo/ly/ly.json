@@ -1,8 +1,8 @@
 [
   {
     "proxy": "http://102.68.128.212:8080",
-    "tested_at": "2026-02-14T10:40:44Z",
-    "ip": "102.68.128.200",
+    "tested_at": "2026-02-14T11:12:08Z",
+    "ip": "102.68.128.194",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -23,8 +23,8 @@
     }
   },
   {
-    "proxy": "http://154.73.29.161:8080",
-    "tested_at": "2026-02-14T10:41:03Z",
+    "proxy": "http://154.73.28.89:8080",
+    "tested_at": "2026-02-14T11:12:20Z",
     "ip": "154.73.28.74",
     "success": true,
     "type": "IPv4",
@@ -46,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://154.73.29.33:8080",
-    "tested_at": "2026-02-14T10:41:11Z",
-    "ip": "154.73.28.73",
+    "proxy": "http://41.254.48.188:1970",
+    "tested_at": "2026-02-14T11:12:29Z",
+    "ip": "41.254.48.188",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -63,9 +63,9 @@
     "postal": "350",
     "connection": {
       "asn": 21003,
-      "org": "RAWAFED LIBYA",
+      "org": "Libyan Telecom And Technology",
       "isp": "General Post And Telecommunication Company gptc",
-      "domain": "rltt.net"
+      "domain": "ltt.ly"
     }
   }
 ]

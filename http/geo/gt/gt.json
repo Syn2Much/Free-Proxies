@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://186.33.5.13:8080",
-    "tested_at": "2026-02-14T10:40:56Z",
-    "ip": "186.33.5.13",
+    "proxy": "http://143.208.59.2:999",
+    "tested_at": "2026-02-14T11:12:29Z",
+    "ip": "143.208.59.2",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -16,33 +16,33 @@
     "is_eu": false,
     "postal": "01004",
     "connection": {
-      "asn": 52468,
-      "org": "Ufinet Guatemala S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
+      "asn": 22869,
+      "org": "COMUNICACIONES METROPOLITANAS CABLECOLOR",
+      "isp": "CABLECOLOR S.A.",
+      "domain": "cablecolor.com.gt"
     }
   },
   {
-    "proxy": "http://45.5.118.249:999",
-    "tested_at": "2026-02-14T10:41:02Z",
-    "ip": "45.5.118.249",
+    "proxy": "http://138.117.230.131:999",
+    "tested_at": "2026-02-14T11:12:35Z",
+    "ip": "138.117.230.131",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Guatemala",
     "country_code": "GT",
-    "region": "Chimaltenango",
-    "region_code": "CM",
-    "city": "San José Poaquil",
-    "latitude": 14.8173986,
-    "longitude": -90.9128192,
+    "region": "Escuintla",
+    "region_code": "ES",
+    "city": "La Democracia",
+    "latitude": 14.229012,
+    "longitude": -90.9462345,
     "is_eu": false,
-    "postal": "04002",
+    "postal": "",
     "connection": {
-      "asn": 52468,
-      "org": "INFINITUM S.A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "infinitum.com.gt"
+      "asn": 269989,
+      "org": "FIBERNET S.A",
+      "isp": "FIBERNET S.A",
+      "domain": "fibernetgt.com"
     }
   }
 ]

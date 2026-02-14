@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://103.17.88.18:8080",
+    "tested_at": "2026-02-14T11:12:38Z",
+    "ip": "103.17.88.18",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Binh Duong province",
+    "region_code": "57",
+    "city": "Thủ Dầu Một",
+    "latitude": 10.9929842,
+    "longitude": 106.6557073,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 45557,
+      "org": "Vietnam Technology And Telecommunication JSC",
+      "isp": "Vietnam Technology And Telecommunication JSC",
+      "domain": "vntt.com.vn"
+    }
+  },
+  {
     "proxy": "http://103.3.246.71:3128",
-    "tested_at": "2026-02-14T10:40:44Z",
+    "tested_at": "2026-02-14T11:12:48Z",
     "ip": "103.3.246.71",
     "success": true,
     "type": "IPv4",
@@ -20,75 +43,6 @@
       "org": "New Vision Trading Co.,ltd",
       "isp": "Bach Kim Network Solutions Join Stock Company",
       "domain": "vdata.vn"
-    }
-  },
-  {
-    "proxy": "http://113.160.130.82:443",
-    "tested_at": "2026-02-14T10:41:02Z",
-    "ip": "113.160.130.82",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Hải Dương Province",
-    "region_code": "61",
-    "city": "Chí Linh",
-    "latitude": 21.1132497,
-    "longitude": 106.3031948,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 45899,
-      "org": "Vietnam Posts And Telecommunications Group",
-      "isp": "Vnpt Corp",
-      "domain": "vnpt.com.vn"
-    }
-  },
-  {
-    "proxy": "http://203.167.14.15:3128",
-    "tested_at": "2026-02-14T10:41:16Z",
-    "ip": "203.167.14.15",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Ho Chi Minh City",
-    "region_code": "SG",
-    "city": "District 4",
-    "latitude": 10.7578263,
-    "longitude": 106.7012968,
-    "is_eu": false,
-    "postal": "710200",
-    "connection": {
-      "asn": 38733,
-      "org": "Maxdata Online Services Company Limited",
-      "isp": "Cmc Telecom Infrastructure Company",
-      "domain": "maxdata.vn"
-    }
-  },
-  {
-    "proxy": "http://118.69.186.75:1452",
-    "tested_at": "2026-02-14T10:41:32Z",
-    "ip": "118.69.186.75",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Ho Chi Minh",
-    "region_code": "SG",
-    "city": "Ho Chi Minh City",
-    "latitude": 10.8230989,
-    "longitude": 106.6296638,
-    "is_eu": false,
-    "postal": "708000",
-    "connection": {
-      "asn": 18403,
-      "org": "",
-      "isp": "Vietnam Internet Network Information Center",
-      "domain": ""
     }
   }
 ]

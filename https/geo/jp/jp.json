@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "https://37.120.210.66:9443",
-    "tested_at": "2026-02-14T10:40:37Z",
-    "ip": "37.120.210.70",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
-    "is_eu": false,
-    "postal": "100-0002",
-    "connection": {
-      "asn": 9009,
-      "org": "M LTD Tokyo Infrastructure",
-      "isp": "M Europe SRL",
-      "domain": "m247.ro"
-    }
-  },
-  {
     "proxy": "https://47.243.181.85:41419",
-    "tested_at": "2026-02-14T10:40:38Z",
-    "ip": "124.44.192.62",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Ibaraki Prefecture",
-    "region_code": "08",
-    "city": "Kamisu",
-    "latitude": 35.889966,
-    "longitude": 140.6645134,
-    "is_eu": false,
-    "postal": "314-0143",
-    "connection": {
-      "asn": 9595,
-      "org": "Xephion ntt me Corporation",
-      "isp": "Ntt me Corporation",
-      "domain": "xephion.ad.jp"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41399",
-    "tested_at": "2026-02-14T10:40:47Z",
-    "ip": "240b:10:cda1:d00:71aa:dbc:88af:7b78",
+    "tested_at": "2026-02-14T11:12:04Z",
+    "ip": "240b:12:2c80:f600:1c87:26e5:8c1a:356a",
     "success": true,
     "type": "IPv6",
     "continent": "Asia",
@@ -69,31 +23,8 @@
     }
   },
   {
-    "proxy": "https://47.243.181.85:41393",
-    "tested_at": "2026-02-14T10:40:47Z",
-    "ip": "240a:61:6186:44b7:d71:eaf9:c0c1:d4ac",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Osaka Prefecture",
-    "region_code": "27",
-    "city": "Osaka",
-    "latitude": 34.6937378,
-    "longitude": 135.5021651,
-    "is_eu": false,
-    "postal": "530-8201",
-    "connection": {
-      "asn": 9605,
-      "org": "NTT DOCOMO,INC.",
-      "isp": "NTT DOCOMO, INC.",
-      "domain": "nttdocomo.com"
-    }
-  },
-  {
     "proxy": "https://20.78.213.56:443",
-    "tested_at": "2026-02-14T10:40:51Z",
+    "tested_at": "2026-02-14T11:12:04Z",
     "ip": "20.78.213.56",
     "success": true,
     "type": "IPv4",
@@ -115,8 +46,54 @@
     }
   },
   {
+    "proxy": "https://47.243.181.85:41400",
+    "tested_at": "2026-02-14T11:12:24Z",
+    "ip": "121.1.137.51",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Chiyoda",
+    "latitude": 35.6940027,
+    "longitude": 139.7535951,
+    "is_eu": false,
+    "postal": "100-0003",
+    "connection": {
+      "asn": 4685,
+      "org": "Asahi Net",
+      "isp": "Asahi Net",
+      "domain": "asahi-net.jp"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41408",
+    "tested_at": "2026-02-14T11:12:24Z",
+    "ip": "221.113.126.24",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Chiba Prefecture",
+    "region_code": "12",
+    "city": "Asahi",
+    "latitude": 35.7204338,
+    "longitude": 140.6464692,
+    "is_eu": false,
+    "postal": "289-2516",
+    "connection": {
+      "asn": 4685,
+      "org": "Asahi Net,inc.",
+      "isp": "Asahi Net",
+      "domain": "asahi-net.jp"
+    }
+  },
+  {
     "proxy": "https://103.100.159.145:443",
-    "tested_at": "2026-02-14T10:40:59Z",
+    "tested_at": "2026-02-14T11:12:34Z",
     "ip": "103.100.159.145",
     "success": true,
     "type": "IPv4",
@@ -138,31 +115,8 @@
     }
   },
   {
-    "proxy": "https://47.243.181.85:41400",
-    "tested_at": "2026-02-14T10:41:00Z",
-    "ip": "221.113.99.50",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
-    "is_eu": false,
-    "postal": "100-0002",
-    "connection": {
-      "asn": 4685,
-      "org": "Asahi Net,inc.",
-      "isp": "Asahi Net",
-      "domain": "asahi-net.jp"
-    }
-  },
-  {
     "proxy": "https://203.189.96.232:443",
-    "tested_at": "2026-02-14T10:41:08Z",
+    "tested_at": "2026-02-14T11:12:37Z",
     "ip": "203.189.96.232",
     "success": true,
     "type": "IPv4",
@@ -184,26 +138,49 @@
     }
   },
   {
-    "proxy": "https://47.243.181.85:41408",
-    "tested_at": "2026-02-14T10:41:28Z",
-    "ip": "210.170.186.69",
+    "proxy": "https://47.243.181.85:41399",
+    "tested_at": "2026-02-14T11:12:38Z",
+    "ip": "60.135.93.169",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Japan",
     "country_code": "JP",
-    "region": "Ibaraki Prefecture",
-    "region_code": "08",
-    "city": "Mito",
-    "latitude": 36.3665027,
-    "longitude": 140.4709965,
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
     "is_eu": false,
-    "postal": "310-0015",
+    "postal": "100-0002",
     "connection": {
-      "asn": 4685,
-      "org": "Asahi Net,inc.",
-      "isp": "Asahi Net",
-      "domain": "asahi-net.jp"
+      "asn": 17676,
+      "org": "Softbank Corp.",
+      "isp": "Softbank Mobile Corp.",
+      "domain": "bbtec.net"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41393",
+    "tested_at": "2026-02-14T11:12:51Z",
+    "ip": "212.102.51.245",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Shibuya City",
+    "latitude": 35.6549037,
+    "longitude": 139.6945698,
+    "is_eu": false,
+    "postal": "150-0036",
+    "connection": {
+      "asn": 212238,
+      "org": "CDNEXT TYO",
+      "isp": "Datacamp Limited",
+      "domain": "datacamp.co.uk"
     }
   }
 ]

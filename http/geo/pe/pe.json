@@ -1,8 +1,77 @@
 [
   {
-    "proxy": "http://38.172.130.240:999",
-    "tested_at": "2026-02-14T10:40:40Z",
-    "ip": "38.159.166.157",
+    "proxy": "http://200.215.229.14:999",
+    "tested_at": "2026-02-14T11:12:27Z",
+    "ip": "200.215.229.14",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Cusco",
+    "region_code": "CUS",
+    "city": "Cusco",
+    "latitude": -13.5294272,
+    "longitude": -71.9355221,
+    "is_eu": false,
+    "postal": "08001",
+    "connection": {
+      "asn": 271868,
+      "org": "GPON NETWORKS S.A.C.",
+      "isp": "GPON NETWORKS S.A.C.",
+      "domain": "gpon.pe"
+    }
+  },
+  {
+    "proxy": "http://38.183.183.114:999",
+    "tested_at": "2026-02-14T11:12:37Z",
+    "ip": "38.183.183.112",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Lima",
+    "region_code": "LIM",
+    "city": "Huaura Province",
+    "latitude": -11.1223461,
+    "longitude": -77.6109546,
+    "is_eu": false,
+    "postal": "15138",
+    "connection": {
+      "asn": 273084,
+      "org": "Cogent Communications",
+      "isp": "FORZA BUSSINES S.A.C.",
+      "domain": "forzatel.pe"
+    }
+  },
+  {
+    "proxy": "http://170.81.240.233:999",
+    "tested_at": "2026-02-14T11:12:42Z",
+    "ip": "170.81.241.14",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Lambayeque",
+    "region_code": "LAM",
+    "city": "Chiclayo",
+    "latitude": -6.778737,
+    "longitude": -79.886098,
+    "is_eu": false,
+    "postal": "14012",
+    "connection": {
+      "asn": 269803,
+      "org": "INVENTA TELECOMUNICACIONES EIRL",
+      "isp": "INVENTA TELECOMUNICACIONES EIRL",
+      "domain": "inventa.pe"
+    }
+  },
+  {
+    "proxy": "http://209.14.108.80:999",
+    "tested_at": "2026-02-14T11:12:53Z",
+    "ip": "209.14.108.67",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -16,56 +85,10 @@
     "is_eu": false,
     "postal": "15081",
     "connection": {
-      "asn": 274113,
+      "asn": 272106,
       "org": "Cogent Communications",
-      "isp": "CINTELSUR PERU S.A.C.",
-      "domain": "cintel.pe"
-    }
-  },
-  {
-    "proxy": "http://200.215.229.3:999",
-    "tested_at": "2026-02-14T10:40:50Z",
-    "ip": "200.215.229.213",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Cusco",
-    "region_code": "CUS",
-    "city": "Cusco",
-    "latitude": -13.53195,
-    "longitude": -71.9674626,
-    "is_eu": false,
-    "postal": "08001",
-    "connection": {
-      "asn": 271868,
-      "org": "GPON NETWORKS S.A.C.",
-      "isp": "GPON NETWORKS S.A.C.",
-      "domain": "gpon.pe"
-    }
-  },
-  {
-    "proxy": "http://201.230.15.57:999",
-    "tested_at": "2026-02-14T10:41:20Z",
-    "ip": "201.230.15.57",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Tacna",
-    "region_code": "TAC",
-    "city": "Tacna",
-    "latitude": -17.9833329,
-    "longitude": -70.183333,
-    "is_eu": false,
-    "postal": "23000",
-    "connection": {
-      "asn": 6147,
-      "org": "PE TDPERX1 LACNIC",
-      "isp": "INTEGRATEL PER S.A.A.",
-      "domain": "tdp.net.pe"
+      "isp": "CORPORACION TARAZONA CATV S.A.C.",
+      "domain": "fibernetperu.pe"
     }
   }
 ]

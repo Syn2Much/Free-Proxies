@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://46.161.196.139:8080",
-    "tested_at": "2026-02-14T10:40:56Z",
-    "ip": "46.161.196.139",
+    "proxy": "http://109.127.82.4:8085",
+    "tested_at": "2026-02-14T11:12:26Z",
+    "ip": "109.127.82.4",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Iraq",
     "country_code": "IQ",
-    "region": "Iraqi Kurdistan Region",
-    "region_code": "",
-    "city": "Duhok",
-    "latitude": 36.8632107,
-    "longitude": 42.9884805,
+    "region": "Erbil Governorate",
+    "region_code": "AR",
+    "city": "Erbil",
+    "latitude": 36.2062933,
+    "longitude": 44.0088697,
     "is_eu": false,
-    "postal": "42001",
+    "postal": "44001",
     "connection": {
-      "asn": 205254,
-      "org": "Valeen for General Trading, Internet Services And Information Technology LTD",
-      "isp": "Valeen for General Trading, Internet Services And Information Technology LTD",
-      "domain": "valeenonline.com"
-    }
-  },
-  {
-    "proxy": "http://37.238.63.44:8080",
-    "tested_at": "2026-02-14T10:41:23Z",
-    "ip": "37.237.229.128",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Iraq",
-    "country_code": "IQ",
-    "region": "Baghdad Governorate",
-    "region_code": "BG",
-    "city": "Baghdad",
-    "latitude": 33.3128057,
-    "longitude": 44.3614875,
-    "is_eu": false,
-    "postal": "10001",
-    "connection": {
-      "asn": 199739,
-      "org": "Earthlink Ltd. Communications internet Services orange",
-      "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
-      "domain": "earthlink.iq"
+      "asn": 21277,
+      "org": "Allai Newroz Telecom",
+      "isp": "Allay Nawroz Telecom Company for Communication ltd.",
+      "domain": "newroztelecom.com"
     }
   }
 ]

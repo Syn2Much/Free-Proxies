@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://125.209.110.83:39617",
-    "tested_at": "2026-02-14T10:40:55Z",
-    "ip": "58.27.152.162",
+    "proxy": "http://72.10.164.178:6129",
+    "tested_at": "2026-02-14T11:12:05Z",
+    "ip": "139.135.43.15",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "region": "Punjab",
+    "region_code": "PB",
+    "city": "Khanqah Dogran",
+    "latitude": 31.8299489,
+    "longitude": 73.6124102,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 9541,
+      "org": "Cyber Internet Services Pakistan",
+      "isp": "Cyber Internet Services private Limited",
+      "domain": "cyber.net.pk"
+    }
+  },
+  {
+    "proxy": "http://154.208.58.89:8080",
+    "tested_at": "2026-02-14T11:12:30Z",
+    "ip": "154.208.58.172",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,33 +39,10 @@
     "is_eu": false,
     "postal": "54000",
     "connection": {
-      "asn": 38264,
-      "org": "National Wimax ims Environment",
-      "isp": "Wateen Telecom Limited",
-      "domain": "wateen.com"
-    }
-  },
-  {
-    "proxy": "http://116.0.53.34:8080",
-    "tested_at": "2026-02-14T10:41:02Z",
-    "ip": "116.0.53.34",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Pakistan",
-    "country_code": "PK",
-    "region": "Sindh",
-    "region_code": "SD",
-    "city": "Karachi",
-    "latitude": 24.8614622,
-    "longitude": 67.0099388,
-    "is_eu": false,
-    "postal": "74400",
-    "connection": {
-      "asn": 24435,
-      "org": "Telecard Limited",
-      "isp": "Supernet, Pds Limited",
-      "domain": "telecard.com.pk"
+      "asn": 150750,
+      "org": "IN CABLE INTERNET PRIVATE LIMITED",
+      "isp": "IN CABLE INTERNET PRIVATE LIMITED",
+      "domain": "incableinternet.com"
     }
   }
 ]

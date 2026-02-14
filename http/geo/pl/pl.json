@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://144.31.0.166:3128",
-    "tested_at": "2026-02-14T10:09:36Z",
-    "ip": "144.31.0.166",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Poland",
-    "country_code": "PL",
-    "region": "Masovian Voivodeship",
-    "region_code": "14",
-    "city": "Warsaw",
-    "latitude": 52.2296756,
-    "longitude": 21.0122287,
-    "is_eu": true,
-    "postal": "00-110",
-    "connection": {
-      "asn": 215730,
-      "org": "H NEXUS LTD",
-      "isp": "H NEXUS LTD",
-      "domain": "h2.nexus"
-    }
-  },
-  {
     "proxy": "http://78.9.234.55:8080",
-    "tested_at": "2026-02-14T10:09:53Z",
+    "tested_at": "2026-02-14T11:12:35Z",
     "ip": "78.9.234.55",
     "success": true,
     "type": "IPv4",

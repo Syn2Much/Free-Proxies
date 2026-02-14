@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://102.209.18.96:8080",
-    "tested_at": "2026-02-14T10:41:08Z",
-    "ip": "102.209.18.96",
+    "proxy": "http://102.0.11.176:8080",
+    "tested_at": "2026-02-14T11:12:12Z",
+    "ip": "102.0.11.176",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -10,16 +10,62 @@
     "country_code": "KE",
     "region": "Kiambu",
     "region_code": "13",
-    "city": "Kikuyu",
-    "latitude": -1.2543366,
-    "longitude": 36.681661,
+    "city": "Ruiru",
+    "latitude": -1.1457029,
+    "longitude": 36.9648534,
+    "is_eu": false,
+    "postal": "01001",
+    "connection": {
+      "asn": 327708,
+      "org": "Allocated to Airtel Kenya Mobile Broadband And Fixed Internet",
+      "isp": "Airtel Rwanda LTD",
+      "domain": "airtel.com"
+    }
+  },
+  {
+    "proxy": "http://154.159.247.119:8080",
+    "tested_at": "2026-02-14T11:12:18Z",
+    "ip": "154.159.247.119",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Murang`a",
+    "region_code": "",
+    "city": "Maragua",
+    "latitude": -0.794421,
+    "longitude": 37.13122,
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 329437,
-      "org": "VENNET SOLUTIONS LIMITED",
-      "isp": "VENNET SOLUTIONS LIMITED",
-      "domain": "vennet.co.ke"
+      "asn": 36926,
+      "org": "",
+      "isp": "Airtel KE Mobile Fixed Internet",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://102.208.166.248:8082",
+    "tested_at": "2026-02-14T11:12:59Z",
+    "ip": "102.208.166.248",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Nairobi",
+    "region_code": "110",
+    "city": "Nairobi",
+    "latitude": -1.2920659,
+    "longitude": 36.8219462,
+    "is_eu": false,
+    "postal": "200",
+    "connection": {
+      "asn": 329452,
+      "org": "Alwen Networks Co. Limited",
+      "isp": "Alwen Networks Co. Limited",
+      "domain": "alwennetworks.com"
     }
   }
 ]
