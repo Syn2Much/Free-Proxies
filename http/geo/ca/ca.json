@@ -1,7 +1,53 @@
 [
   {
-    "proxy": "http://85.208.108.43:10808",
-    "tested_at": "2026-02-14T06:30:59Z",
+    "proxy": "http://188.227.196.62:1080",
+    "tested_at": "2026-02-14T07:01:41Z",
+    "ip": "188.227.196.62",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Québec",
+    "region_code": "QC",
+    "city": "Québec City",
+    "latitude": 46.8138783,
+    "longitude": -71.2079809,
+    "is_eu": false,
+    "postal": "G1R 4S9",
+    "connection": {
+      "asn": 400897,
+      "org": "PetroSky",
+      "isp": "PETROSKY CLOUD LLC",
+      "domain": "abuseradar.com"
+    }
+  },
+  {
+    "proxy": "http://149.56.24.51:3128",
+    "tested_at": "2026-02-14T07:01:59Z",
+    "ip": "149.56.24.51",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Québec",
+    "region_code": "QC",
+    "city": "Montreal",
+    "latitude": 45.5016889,
+    "longitude": -73.567256,
+    "is_eu": false,
+    "postal": "H3A 2A6",
+    "connection": {
+      "asn": 16276,
+      "org": "Teleprime LLC",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
+    }
+  },
+  {
+    "proxy": "http://85.208.108.43:2094",
+    "tested_at": "2026-02-14T07:02:21Z",
     "ip": "85.208.108.43",
     "success": true,
     "type": "IPv4",

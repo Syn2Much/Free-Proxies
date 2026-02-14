@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://78.12.230.52:8995",
-    "tested_at": "2026-02-14T06:30:31Z",
-    "ip": "45.141.215.156",
+    "proxy": "http://185.28.250.90:8090",
+    "tested_at": "2026-02-14T07:01:49Z",
+    "ip": "185.28.250.90",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Poland",
     "country_code": "PL",
-    "region": "Masovian Voivodeship",
-    "region_code": "14",
-    "city": "Warsaw",
-    "latitude": 52.2296756,
-    "longitude": 21.0122287,
+    "region": "Lesser Poland Voivodeship",
+    "region_code": "12",
+    "city": "Kraków",
+    "latitude": 50.0646501,
+    "longitude": 19.9449799,
     "is_eu": true,
-    "postal": "00-110",
+    "postal": "30-730",
     "connection": {
-      "asn": 210558,
-      "org": "1 Services GmbH",
-      "isp": "1 Services GmbH",
-      "domain": "as210558.net"
-    }
-  },
-  {
-    "proxy": "http://144.31.0.166:3128",
-    "tested_at": "2026-02-14T06:31:05Z",
-    "ip": "144.31.0.166",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Poland",
-    "country_code": "PL",
-    "region": "Masovian Voivodeship",
-    "region_code": "14",
-    "city": "Warsaw",
-    "latitude": 52.2296756,
-    "longitude": 21.0122287,
-    "is_eu": true,
-    "postal": "00-110",
-    "connection": {
-      "asn": 215730,
-      "org": "H NEXUS LTD",
-      "isp": "H NEXUS LTD",
-      "domain": "h2.nexus"
+      "asn": 206910,
+      "org": "BESTCONNECT CUST",
+      "isp": "Janusz Ciurus Trading AS Bestconnect",
+      "domain": "mynet.pl"
     }
   }
 ]

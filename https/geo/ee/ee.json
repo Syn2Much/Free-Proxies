@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://165.231.141.122:9443",
-    "tested_at": "2026-02-14T05:59:02Z",
-    "ip": "165.231.193.196",
+    "proxy": "https://165.231.141.138:9443",
+    "tested_at": "2026-02-14T07:01:41Z",
+    "ip": "165.231.193.110",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "https://165.231.141.74:9443",
-    "tested_at": "2026-02-14T05:59:24Z",
-    "ip": "196.196.122.237",
+    "proxy": "https://165.231.141.130:443",
+    "tested_at": "2026-02-14T07:01:41Z",
+    "ip": "165.231.193.120",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -42,7 +42,30 @@
       "asn": 58065,
       "org": "Fiber Grid",
       "isp": "Orion Network Limited",
-      "domain": "fibergrid.co.za"
+      "domain": "fibergrid.net"
+    }
+  },
+  {
+    "proxy": "https://165.231.141.138:443",
+    "tested_at": "2026-02-14T07:02:08Z",
+    "ip": "165.231.193.110",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Estonia",
+    "country_code": "EE",
+    "region": "Harju maakond",
+    "region_code": "",
+    "city": "Tallinn",
+    "latitude": 59.4369608,
+    "longitude": 24.7535746,
+    "is_eu": true,
+    "postal": "10123",
+    "connection": {
+      "asn": 58065,
+      "org": "Fiber Grid",
+      "isp": "Orion Network Limited",
+      "domain": "fibergrid.net"
     }
   }
 ]

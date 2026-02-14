@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://211.230.49.122:3128",
+    "tested_at": "2026-02-14T07:01:32Z",
+    "ip": "211.230.49.122",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "Gyeonggi",
+    "region_code": "41",
+    "city": "Seongnam-si",
+    "latitude": 37.4449168,
+    "longitude": 127.1388684,
+    "is_eu": false,
+    "postal": "13437",
+    "connection": {
+      "asn": 4766,
+      "org": "Kornet",
+      "isp": "Korea Telecom",
+      "domain": ""
+    }
+  },
+  {
     "proxy": "http://210.223.44.230:3128",
-    "tested_at": "2026-02-14T06:30:06Z",
+    "tested_at": "2026-02-14T07:01:32Z",
     "ip": "210.223.44.230",
     "success": true,
     "type": "IPv4",
@@ -23,31 +46,8 @@
     }
   },
   {
-    "proxy": "http://121.187.175.106:9877",
-    "tested_at": "2026-02-14T06:30:17Z",
-    "ip": "121.187.175.106",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Republic of Korea",
-    "country_code": "KR",
-    "region": "Gyeonggi",
-    "region_code": "41",
-    "city": "Seongnam-si",
-    "latitude": 37.4449168,
-    "longitude": 127.1388684,
-    "is_eu": false,
-    "postal": "13437",
-    "connection": {
-      "asn": 4766,
-      "org": "Korea Telecom",
-      "isp": "Korea Telecom",
-      "domain": ""
-    }
-  },
-  {
     "proxy": "http://8.213.151.128:3128",
-    "tested_at": "2026-02-14T06:30:24Z",
+    "tested_at": "2026-02-14T07:01:42Z",
     "ip": "8.213.151.128",
     "success": true,
     "type": "IPv4",
@@ -69,9 +69,9 @@
     }
   },
   {
-    "proxy": "http://211.230.49.122:3128",
-    "tested_at": "2026-02-14T06:30:26Z",
-    "ip": "211.230.49.122",
+    "proxy": "http://121.187.175.106:9877",
+    "tested_at": "2026-02-14T07:01:52Z",
+    "ip": "121.187.175.106",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -86,7 +86,7 @@
     "postal": "13437",
     "connection": {
       "asn": 4766,
-      "org": "Kornet",
+      "org": "Korea Telecom",
       "isp": "Korea Telecom",
       "domain": ""
     }

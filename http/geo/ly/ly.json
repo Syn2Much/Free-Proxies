@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "http://102.38.7.110:1972",
-    "tested_at": "2026-02-14T06:30:10Z",
-    "ip": "102.38.7.107",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Libya",
-    "country_code": "LY",
-    "region": "Tripoli",
-    "region_code": "TB",
-    "city": "Tripoli",
-    "latitude": 32.8872094,
-    "longitude": 13.1913383,
-    "is_eu": false,
-    "postal": "350",
-    "connection": {
-      "asn": 328539,
-      "org": "Giga for Telecommunication And Technology Limited",
-      "isp": "Giga for Telecommunication And Technology Limited",
-      "domain": "giga.ly"
-    }
-  },
-  {
-    "proxy": "http://165.16.58.124:8080",
-    "tested_at": "2026-02-14T06:30:18Z",
-    "ip": "165.16.58.124",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Libya",
-    "country_code": "LY",
-    "region": "Jabal al Gharbi",
-    "region_code": "JG",
-    "city": "Yefren",
-    "latitude": 32.053558,
-    "longitude": 12.5355393,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 37284,
-      "org": "Aljeel Aljadeed For Technology",
-      "isp": "Aljeel Aljadeed For Technology",
-      "domain": "aljeel.ly"
-    }
-  },
-  {
-    "proxy": "http://102.68.128.216:8080",
-    "tested_at": "2026-02-14T06:30:51Z",
-    "ip": "102.68.128.207",
+    "proxy": "http://154.73.28.89:8080",
+    "tested_at": "2026-02-14T07:01:53Z",
+    "ip": "154.73.28.73",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -63,9 +17,32 @@
     "postal": "350",
     "connection": {
       "asn": 21003,
-      "org": "For Company Use And Interface Assignments",
+      "org": "RAWAFED LIBYA",
       "isp": "General Post And Telecommunication Company gptc",
-      "domain": "noclibya.com"
+      "domain": "rltt.net"
+    }
+  },
+  {
+    "proxy": "http://62.68.48.22:8080",
+    "tested_at": "2026-02-14T07:02:00Z",
+    "ip": "62.68.48.22",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Tripoli",
+    "region_code": "TB",
+    "city": "Tripoli",
+    "latitude": 32.8872094,
+    "longitude": 13.1913383,
+    "is_eu": false,
+    "postal": "350",
+    "connection": {
+      "asn": 21003,
+      "org": "Libyan General Post And Telecommunication Company Network",
+      "isp": "General Post And Telecommunication Company gptc",
+      "domain": "ltt.ly"
     }
   }
 ]

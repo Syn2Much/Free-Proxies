@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://5.202.191.225:8080",
-    "tested_at": "2026-02-14T06:30:08Z",
-    "ip": "5.202.191.225",
+    "proxy": "http://185.4.29.243:7887",
+    "tested_at": "2026-02-14T07:01:56Z",
+    "ip": "185.4.29.243",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -11,38 +11,15 @@
     "region": "Tehran Province",
     "region_code": "23",
     "city": "Tehran",
-    "latitude": 35.6891975,
-    "longitude": 51.3889736,
+    "latitude": 35.7952267,
+    "longitude": 51.4322706,
     "is_eu": false,
     "postal": "1317947564",
     "connection": {
-      "asn": 49100,
-      "org": "PTE",
-      "isp": "Pishgaman Toseeh Ertebatat Company private Joint Stock",
-      "domain": "goledu.ir"
-    }
-  },
-  {
-    "proxy": "http://178.252.134.188:3128",
-    "tested_at": "2026-02-14T06:30:56Z",
-    "ip": "178.252.134.188",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Iran",
-    "country_code": "IR",
-    "region": "Tehran Province",
-    "region_code": "23",
-    "city": "Tehran",
-    "latitude": 35.6891975,
-    "longitude": 51.3889736,
-    "is_eu": false,
-    "postal": "1317947564",
-    "connection": {
-      "asn": 51074,
-      "org": "MABNA",
-      "isp": "Gostaresh e ertebatat e Mabna Company private Joint Stock",
-      "domain": "mabnatelecom.com"
+      "asn": 61173,
+      "org": "Green Web Samaneh Novin Co LTD",
+      "isp": "Green Web Samaneh Novin Pjsc",
+      "domain": "greenweb.ir"
     }
   }
 ]

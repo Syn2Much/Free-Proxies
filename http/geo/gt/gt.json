@@ -1,117 +1,25 @@
 [
   {
-    "proxy": "http://190.61.50.93:999",
-    "tested_at": "2026-02-14T06:30:08Z",
-    "ip": "190.61.50.93",
+    "proxy": "http://45.5.118.249:999",
+    "tested_at": "2026-02-14T07:02:26Z",
+    "ip": "45.5.118.249",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Guatemala",
     "country_code": "GT",
-    "region": "Escuintla",
-    "region_code": "ES",
-    "city": "Tiquisate",
-    "latitude": 14.2851374,
-    "longitude": -91.3638041,
+    "region": "Chimaltenango",
+    "region_code": "CM",
+    "city": "San José Poaquil",
+    "latitude": 14.8173986,
+    "longitude": -90.9128192,
     "is_eu": false,
-    "postal": "",
+    "postal": "04002",
     "connection": {
       "asn": 52468,
-      "org": "Ufinet Guatemala S. A.",
+      "org": "INFINITUM S.A.",
       "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://143.208.57.59:8080",
-    "tested_at": "2026-02-14T06:30:09Z",
-    "ip": "143.208.57.59",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "Guatemala Department",
-    "region_code": "GU",
-    "city": "Guatemala City",
-    "latitude": 14.6349149,
-    "longitude": -90.5068824,
-    "is_eu": false,
-    "postal": "01004",
-    "connection": {
-      "asn": 22869,
-      "org": "COMUNICACIONES METROPOLITANAS CABLECOLOR",
-      "isp": "CABLECOLOR S.A.",
-      "domain": "cablecolor.net"
-    }
-  },
-  {
-    "proxy": "http://143.208.57.163:999",
-    "tested_at": "2026-02-14T06:30:20Z",
-    "ip": "143.208.57.163",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "Guatemala Department",
-    "region_code": "GU",
-    "city": "Guatemala City",
-    "latitude": 14.6349149,
-    "longitude": -90.5068824,
-    "is_eu": false,
-    "postal": "01004",
-    "connection": {
-      "asn": 22869,
-      "org": "COMUNICACIONES METROPOLITANAS CABLECOLOR",
-      "isp": "CABLECOLOR S.A.",
-      "domain": "cablecolor.net"
-    }
-  },
-  {
-    "proxy": "http://138.117.231.133:999",
-    "tested_at": "2026-02-14T06:30:50Z",
-    "ip": "138.117.231.133",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "Huehuetenango",
-    "region_code": "HU",
-    "city": "Huehuetenango",
-    "latitude": 15.320133,
-    "longitude": -91.4700395,
-    "is_eu": false,
-    "postal": "13001",
-    "connection": {
-      "asn": 269989,
-      "org": "FIBERNET S.A",
-      "isp": "FIBERNET S.A",
-      "domain": "fibernetgt.com"
-    }
-  },
-  {
-    "proxy": "http://181.119.111.239:999",
-    "tested_at": "2026-02-14T06:31:02Z",
-    "ip": "181.119.111.53",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "Quetzaltenango",
-    "region_code": "QZ",
-    "city": "Coatepeque",
-    "latitude": 14.7038002,
-    "longitude": -91.8659809,
-    "is_eu": false,
-    "postal": "09020",
-    "connection": {
-      "asn": 52468,
-      "org": "Ufinet Guatemala S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
+      "domain": "infinitum.com.gt"
     }
   }
 ]

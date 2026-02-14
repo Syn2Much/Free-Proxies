@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://102.217.69.117:3128",
-    "tested_at": "2026-02-14T06:30:06Z",
-    "ip": "102.217.69.117",
+    "proxy": "http://196.219.202.74:8080",
+    "tested_at": "2026-02-14T07:01:48Z",
+    "ip": "196.219.202.74",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,38 +16,15 @@
     "is_eu": false,
     "postal": "28625",
     "connection": {
-      "asn": 37191,
-      "org": "RDC",
-      "isp": "Raya Holding",
-      "domain": "rayacorp.com"
-    }
-  },
-  {
-    "proxy": "http://154.236.191.48:1981",
-    "tested_at": "2026-02-14T06:30:14Z",
-    "ip": "154.236.191.48",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Egypt",
-    "country_code": "EG",
-    "region": "Cairo",
-    "region_code": "C",
-    "city": "El-Reyad",
-    "latitude": 30.6522489,
-    "longitude": 31.2299414,
-    "is_eu": false,
-    "postal": "19519",
-    "connection": {
-      "asn": 36992,
-      "org": "Nile Online",
-      "isp": "ETISALAT MISR",
-      "domain": "nile-online.com"
+      "asn": 8452,
+      "org": "Te Data",
+      "isp": "TE AS",
+      "domain": "tedata.net"
     }
   },
   {
     "proxy": "http://154.236.191.48:1976",
-    "tested_at": "2026-02-14T06:30:18Z",
+    "tested_at": "2026-02-14T07:01:50Z",
     "ip": "154.236.191.48",
     "success": true,
     "type": "IPv4",
@@ -69,21 +46,21 @@
     }
   },
   {
-    "proxy": "http://41.65.236.34:1981",
-    "tested_at": "2026-02-14T06:30:19Z",
-    "ip": "41.65.227.108",
+    "proxy": "http://154.236.191.38:1981",
+    "tested_at": "2026-02-14T07:01:56Z",
+    "ip": "154.236.191.38",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Egypt",
     "country_code": "EG",
-    "region": "Giza",
-    "region_code": "",
-    "city": "Giza",
-    "latitude": 30.0130557,
-    "longitude": 31.2088526,
+    "region": "Cairo",
+    "region_code": "C",
+    "city": "El-Reyad",
+    "latitude": 30.6522489,
+    "longitude": 31.2299414,
     "is_eu": false,
-    "postal": "12510",
+    "postal": "19519",
     "connection": {
       "asn": 36992,
       "org": "Nile Online",
@@ -92,9 +69,55 @@
     }
   },
   {
-    "proxy": "http://197.164.101.12:1976",
-    "tested_at": "2026-02-14T06:30:32Z",
-    "ip": "197.164.101.12",
+    "proxy": "http://196.204.83.237:1981",
+    "tested_at": "2026-02-14T07:02:10Z",
+    "ip": "156.207.244.78",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Eastern",
+    "region_code": "",
+    "city": "Minya Al Qamh",
+    "latitude": 30.5104799,
+    "longitude": 31.3455091,
+    "is_eu": false,
+    "postal": "44692",
+    "connection": {
+      "asn": 8452,
+      "org": "Te Data",
+      "isp": "TE AS",
+      "domain": "afrinic.net."
+    }
+  },
+  {
+    "proxy": "http://213.131.85.26:1981",
+    "tested_at": "2026-02-14T07:02:12Z",
+    "ip": "213.131.85.26",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "The Lake",
+    "region_code": "",
+    "city": "An Nubariyah",
+    "latitude": 30.666272,
+    "longitude": 30.069743,
+    "is_eu": false,
+    "postal": "22773",
+    "connection": {
+      "asn": 24863,
+      "org": "Link Egypt",
+      "isp": "Link Egypt link.net",
+      "domain": "link.net"
+    }
+  },
+  {
+    "proxy": "http://197.164.101.13:1981",
+    "tested_at": "2026-02-14T07:02:25Z",
+    "ip": "197.164.101.13",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -111,29 +134,6 @@
       "asn": 24863,
       "org": "",
       "isp": "Link Egypt link.net",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://41.128.72.148:1981",
-    "tested_at": "2026-02-14T06:31:00Z",
-    "ip": "41.128.72.148",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Egypt",
-    "country_code": "EG",
-    "region": "Eastern",
-    "region_code": "",
-    "city": "Faqus",
-    "latitude": 30.7292723,
-    "longitude": 31.7977797,
-    "is_eu": false,
-    "postal": "44641",
-    "connection": {
-      "asn": 24863,
-      "org": "Link Egypt Link.NET",
-      "isp": "LINKdotNET AS number",
       "domain": ""
     }
   }

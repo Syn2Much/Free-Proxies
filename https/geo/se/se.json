@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://43.208.16.9:9401",
-    "tested_at": "2026-02-14T06:30:13Z",
-    "ip": "193.189.100.205",
+    "proxy": "https://95.40.79.184:8091",
+    "tested_at": "2026-02-14T07:01:37Z",
+    "ip": "171.25.193.132",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +16,10 @@
     "is_eu": true,
     "postal": "111 29",
     "connection": {
-      "asn": 41281,
-      "org": "Keff Networks LTD",
-      "isp": "Keff Networks LTD",
-      "domain": "keff.org"
+      "asn": 198093,
+      "org": "Foreningen for Digitala Fri Och Rattigheter",
+      "isp": "Foreningen for Digitala Fri Och Rattigheter",
+      "domain": "dfri.net"
     }
   }
 ]

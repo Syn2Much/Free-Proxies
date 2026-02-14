@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://23.131.56.169:999",
-    "tested_at": "2026-02-14T06:30:44Z",
-    "ip": "23.131.56.38",
+    "proxy": "http://154.64.215.132:999",
+    "tested_at": "2026-02-14T07:02:16Z",
+    "ip": "23.130.144.12",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,39 +10,16 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "Betances",
-    "latitude": 18.0299225,
-    "longitude": -67.1321012,
+    "city": "San Sebastián",
+    "latitude": 18.3327741,
+    "longitude": -66.9958226,
     "is_eu": false,
-    "postal": "00623",
+    "postal": "00685",
     "connection": {
-      "asn": 399826,
-      "org": "Webiffi LLC",
-      "isp": "Webiffi LLC",
-      "domain": "webiffi.com"
-    }
-  },
-  {
-    "proxy": "http://192.203.0.250:999",
-    "tested_at": "2026-02-14T06:31:01Z",
-    "ip": "192.203.0.250",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Puerto Rico",
-    "country_code": "PR",
-    "region": "Puerto Rico",
-    "region_code": "PR",
-    "city": "Yabucoa",
-    "latitude": 18.0505201,
-    "longitude": -65.8793288,
-    "is_eu": false,
-    "postal": "00767",
-    "connection": {
-      "asn": 63393,
-      "org": "BOOM NET",
-      "isp": "BOOM NET",
-      "domain": "boomsolutionspr.com"
+      "asn": 397470,
+      "org": "Antoniol Electronic",
+      "isp": "Antoniol Electronic",
+      "domain": "alenet.co"
     }
   }
 ]

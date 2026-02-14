@@ -1,53 +1,7 @@
 [
   {
-    "proxy": "http://94.155.175.135:8080",
-    "tested_at": "2026-02-14T05:58:56Z",
-    "ip": "94.155.175.135",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "region": "Stara Zagora",
-    "region_code": "24",
-    "city": "Stara Zagora",
-    "latitude": 42.4257769,
-    "longitude": 25.6344644,
-    "is_eu": true,
-    "postal": "6002",
-    "connection": {
-      "asn": 62386,
-      "org": "OMEGA TRADE 1 OOD",
-      "isp": "Bulgarian Telecommunication Group Eood",
-      "domain": "utelecom.com.ua"
-    }
-  },
-  {
-    "proxy": "http://46.10.209.230:8080",
-    "tested_at": "2026-02-14T05:59:14Z",
-    "ip": "46.10.209.230",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "region": "Sofia-city",
-    "region_code": "",
-    "city": "Sofia",
-    "latitude": 42.6977082,
-    "longitude": 23.3218675,
-    "is_eu": true,
-    "postal": "1000",
-    "connection": {
-      "asn": 8866,
-      "org": "Business Customer Migration",
-      "isp": "Vivacom Bulgaria Ead",
-      "domain": "vivacom.bg"
-    }
-  },
-  {
     "proxy": "http://38.180.2.107:3128",
-    "tested_at": "2026-02-14T05:59:22Z",
+    "tested_at": "2026-02-14T07:01:41Z",
     "ip": "38.180.2.107",
     "success": true,
     "type": "IPv4",
@@ -66,6 +20,29 @@
       "org": "Cogent Communications",
       "isp": "M Europe SRL",
       "domain": "3nt.com"
+    }
+  },
+  {
+    "proxy": "http://213.169.33.10:8001",
+    "tested_at": "2026-02-14T07:01:46Z",
+    "ip": "213.169.33.7",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "region": "Sofia-city",
+    "region_code": "",
+    "city": "Sofia",
+    "latitude": 42.6977082,
+    "longitude": 23.3218675,
+    "is_eu": true,
+    "postal": "1000",
+    "connection": {
+      "asn": 8717,
+      "org": "A1 Bulgaria Ead",
+      "isp": "A1 Bulgaria Ead",
+      "domain": "a1.bg"
     }
   }
 ]
