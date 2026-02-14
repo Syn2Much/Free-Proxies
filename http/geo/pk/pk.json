@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://103.153.39.35:8083",
-    "tested_at": "2026-02-14T23:07:17Z",
-    "ip": "103.153.39.35",
+    "proxy": "http://154.208.58.89:8080",
+    "tested_at": "2026-02-14T23:38:31Z",
+    "ip": "154.208.58.175",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,16 +10,16 @@
     "country_code": "PK",
     "region": "Punjab",
     "region_code": "PB",
-    "city": "Burewala",
-    "latitude": 30.1592839,
-    "longitude": 72.694262,
+    "city": "Lahore",
+    "latitude": 31.5546061,
+    "longitude": 74.3571581,
     "is_eu": false,
-    "postal": "78646",
+    "postal": "54000",
     "connection": {
-      "asn": 140900,
-      "org": "Getlinks smc private Limited Market",
-      "isp": "Getlinks smc private Limited",
-      "domain": "getlinks.net.pk"
+      "asn": 150750,
+      "org": "IN CABLE INTERNET PRIVATE LIMITED",
+      "isp": "IN CABLE INTERNET PRIVATE LIMITED",
+      "domain": "incableinternet.com"
     }
   }
 ]

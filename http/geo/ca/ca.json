@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://67.43.228.250:20167",
-    "tested_at": "2026-02-14T23:06:50Z",
-    "ip": "96.45.199.242",
+    "proxy": "http://143.198.37.6:8888",
+    "tested_at": "2026-02-14T23:38:53Z",
+    "ip": "178.249.214.14",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -16,33 +16,10 @@
     "is_eu": false,
     "postal": "M5H 2N2",
     "connection": {
-      "asn": 21949,
-      "org": "Beanfield Technologies Inc.",
-      "isp": "Beanfield Technologies Inc.",
-      "domain": "beanfield.com"
-    }
-  },
-  {
-    "proxy": "http://67.43.228.253:20167",
-    "tested_at": "2026-02-14T23:06:50Z",
-    "ip": "96.45.199.242",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 21949,
-      "org": "Beanfield Technologies Inc.",
-      "isp": "Beanfield Technologies Inc.",
-      "domain": "beanfield.com"
+      "asn": 212238,
+      "org": "CDNEXT TOR",
+      "isp": "Datacamp Limited",
+      "domain": "datacamp.co.uk"
     }
   }
 ]

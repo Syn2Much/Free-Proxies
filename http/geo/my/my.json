@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://67.43.236.20:32821",
-    "tested_at": "2026-02-14T23:06:51Z",
-    "ip": "60.50.103.214",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Malaysia",
-    "country_code": "MY",
-    "region": "Selangor",
-    "region_code": "10",
-    "city": "Cyberjaya",
-    "latitude": 2.921318,
-    "longitude": 101.6559349,
-    "is_eu": false,
-    "postal": "63200",
-    "connection": {
-      "asn": 4788,
-      "org": "TMNST",
-      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-      "domain": "tm.com.my"
-    }
-  },
-  {
     "proxy": "http://72.10.160.172:7447",
-    "tested_at": "2026-02-14T23:07:27Z",
+    "tested_at": "2026-02-14T23:38:03Z",
     "ip": "115.132.75.167",
     "success": true,
     "type": "IPv4",
@@ -38,6 +15,52 @@
     "longitude": 103.7413591,
     "is_eu": false,
     "postal": "80350",
+    "connection": {
+      "asn": 4788,
+      "org": "TMNST",
+      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+      "domain": "tm.com.my"
+    }
+  },
+  {
+    "proxy": "http://175.139.208.65:8080",
+    "tested_at": "2026-02-14T23:38:25Z",
+    "ip": "175.139.208.65",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "region": "Selangor",
+    "region_code": "10",
+    "city": "Shah Alam",
+    "latitude": 3.1292909,
+    "longitude": 101.5221221,
+    "is_eu": false,
+    "postal": "40000",
+    "connection": {
+      "asn": 4788,
+      "org": "TMNST",
+      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+      "domain": "tm.com.my"
+    }
+  },
+  {
+    "proxy": "http://110.159.123.225:8080",
+    "tested_at": "2026-02-14T23:39:01Z",
+    "ip": "110.159.123.225",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "region": "Sabah",
+    "region_code": "12",
+    "city": "Lahad Datu",
+    "latitude": 5.024206,
+    "longitude": 118.3307461,
+    "is_eu": false,
+    "postal": "91110",
     "connection": {
       "asn": 4788,
       "org": "TMNST",

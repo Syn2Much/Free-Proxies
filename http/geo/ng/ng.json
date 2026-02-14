@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://155.93.96.210:8080",
-    "tested_at": "2026-02-14T23:07:24Z",
-    "ip": "155.93.96.210",
+    "proxy": "http://154.113.209.164:8082",
+    "tested_at": "2026-02-14T23:38:44Z",
+    "ip": "154.113.209.164",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -11,15 +11,15 @@
     "region": "Lagos",
     "region_code": "LA",
     "city": "Lagos",
-    "latitude": 6.5873161,
-    "longitude": 3.3785711,
+    "latitude": 6.5243793,
+    "longitude": 3.3792057,
     "is_eu": false,
     "postal": "8600-000",
     "connection": {
-      "asn": 16284,
-      "org": "Inq. Digital Nigeria",
-      "isp": "Inq. Digital Nigeria",
-      "domain": "inq.inc"
+      "asn": 37282,
+      "org": "Mdxi Cloud Infrastructure",
+      "isp": "Mainone Cable Company",
+      "domain": "mainonecable.com"
     }
   }
 ]

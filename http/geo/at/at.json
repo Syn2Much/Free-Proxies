@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://89.26.83.25:8080",
-    "tested_at": "2026-02-14T23:07:21Z",
-    "ip": "89.26.83.25",
+    "proxy": "http://115.136.121.54:3128",
+    "tested_at": "2026-02-14T23:38:36Z",
+    "ip": "109.70.100.12",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Austria",
     "country_code": "AT",
-    "region": "Salzburg",
-    "region_code": "5",
-    "city": "Rauris",
-    "latitude": 47.2291409,
-    "longitude": 12.9943159,
+    "region": "Vienna",
+    "region_code": "9",
+    "city": "Vienna",
+    "latitude": 48.2081743,
+    "longitude": 16.3738189,
     "is_eu": true,
-    "postal": "5661",
+    "postal": "1010",
     "connection": {
-      "asn": 8445,
-      "org": "Salzburg AG Fur Energie, Verkehr Und Telekommunikation",
-      "isp": "Salzburg AG Fur Energie, Verkehr Und Telekommunikation",
-      "domain": "salzburg-ag.at"
+      "asn": 208323,
+      "org": "Foundation for Applied Privacy",
+      "isp": "Foundation for Applied Privacy",
+      "domain": "appliedprivacy.net"
     }
   }
 ]

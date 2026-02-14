@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://185.32.6.131:8090",
-    "tested_at": "2026-02-14T23:07:05Z",
-    "ip": "212.127.88.213",
+    "proxy": "http://78.9.234.55:8080",
+    "tested_at": "2026-02-14T23:38:44Z",
+    "ip": "78.9.234.55",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Poland",
     "country_code": "PL",
-    "region": "Województwo dolnośląskie",
-    "region_code": "02",
-    "city": "Wrocław",
-    "latitude": 51.1078852,
-    "longitude": 17.0385376,
+    "region": "West Pomeranian Voivodeship",
+    "region_code": "32",
+    "city": "Szczecin",
+    "latitude": 53.4285438,
+    "longitude": 14.5528116,
     "is_eu": true,
-    "postal": "50-101",
+    "postal": "70-414",
     "connection": {
-      "asn": 35179,
-      "org": "Korbank S. A.",
-      "isp": "Korbank S. A.",
-      "domain": "korbank.pl"
-    }
-  },
-  {
-    "proxy": "http://212.182.119.149:8080",
-    "tested_at": "2026-02-14T23:07:24Z",
-    "ip": "212.182.119.149",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Poland",
-    "country_code": "PL",
-    "region": "Lublin Voivodeship",
-    "region_code": "06",
-    "city": "Lublin",
-    "latitude": 51.2464536,
-    "longitude": 22.5684463,
-    "is_eu": true,
-    "postal": "20-484",
-    "connection": {
-      "asn": 12346,
-      "org": "Avir Sp. z o.o.",
-      "isp": "non academic part of Lublin MAN",
-      "domain": ""
+      "asn": 12741,
+      "org": "Dynamic Broadband Services",
+      "isp": "Netia SA",
+      "domain": "netia.pl"
     }
   }
 ]

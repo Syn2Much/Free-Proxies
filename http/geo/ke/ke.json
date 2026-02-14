@@ -1,31 +1,31 @@
 [
   {
-    "proxy": "http://102.0.16.226:8080",
-    "tested_at": "2026-02-14T23:06:51Z",
-    "ip": "102.0.16.226",
+    "proxy": "http://154.159.247.119:8080",
+    "tested_at": "2026-02-14T23:38:26Z",
+    "ip": "154.159.247.119",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Kenya",
     "country_code": "KE",
-    "region": "Embu County",
-    "region_code": "06",
-    "city": "Embu",
-    "latitude": -0.5388381,
-    "longitude": 37.4596409,
+    "region": "Murang`a",
+    "region_code": "",
+    "city": "Maragua",
+    "latitude": -0.794421,
+    "longitude": 37.13122,
     "is_eu": false,
-    "postal": "60100",
+    "postal": "",
     "connection": {
-      "asn": 327708,
-      "org": "Allocated to Airtel Kenya Mobile Broadband And Fixed Internet",
-      "isp": "Airtel Rwanda LTD",
-      "domain": "airtel.com"
+      "asn": 36926,
+      "org": "",
+      "isp": "Airtel KE Mobile Fixed Internet",
+      "domain": ""
     }
   },
   {
-    "proxy": "http://197.248.204.231:8080",
-    "tested_at": "2026-02-14T23:07:19Z",
-    "ip": "197.248.204.231",
+    "proxy": "http://197.232.47.122:8080",
+    "tested_at": "2026-02-14T23:38:59Z",
+    "ip": "197.232.47.122",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -39,10 +39,10 @@
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 37061,
-      "org": "Safaricom Limited",
-      "isp": "Safaricom Limited",
-      "domain": ""
+      "asn": 36866,
+      "org": "Jamii Telecommunications Limited",
+      "isp": "Jamii Telecommunications Limited",
+      "domain": "jtl.co.ke"
     }
   }
 ]

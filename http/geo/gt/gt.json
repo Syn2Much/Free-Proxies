@@ -1,53 +1,30 @@
 [
   {
-    "proxy": "http://38.52.208.49:999",
-    "tested_at": "2026-02-14T23:06:56Z",
-    "ip": "38.52.212.255",
+    "proxy": "http://190.61.50.93:999",
+    "tested_at": "2026-02-14T23:38:04Z",
+    "ip": "190.61.50.93",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Guatemala",
     "country_code": "GT",
-    "region": "Guatemala Department",
-    "region_code": "GU",
-    "city": "Guatemala City",
-    "latitude": 14.6349149,
-    "longitude": -90.5068824,
+    "region": "Escuintla",
+    "region_code": "ES",
+    "city": "Tiquisate",
+    "latitude": 14.2851374,
+    "longitude": -91.3638041,
     "is_eu": false,
-    "postal": "01004",
+    "postal": "",
     "connection": {
-      "asn": 272818,
-      "org": "Cogent Communications",
-      "isp": "CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
-      "domain": "centralredes.com"
-    }
-  },
-  {
-    "proxy": "http://143.208.57.59:8080",
-    "tested_at": "2026-02-14T23:07:09Z",
-    "ip": "143.208.57.59",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "Guatemala Department",
-    "region_code": "GU",
-    "city": "Guatemala City",
-    "latitude": 14.6349149,
-    "longitude": -90.5068824,
-    "is_eu": false,
-    "postal": "01004",
-    "connection": {
-      "asn": 22869,
-      "org": "COMUNICACIONES METROPOLITANAS CABLECOLOR",
-      "isp": "CABLECOLOR S.A.",
-      "domain": "cablecolor.net"
+      "asn": 52468,
+      "org": "Ufinet Guatemala S. A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "ufinet.com"
     }
   },
   {
     "proxy": "http://181.119.103.237:999",
-    "tested_at": "2026-02-14T23:07:21Z",
+    "tested_at": "2026-02-14T23:38:17Z",
     "ip": "181.119.103.237",
     "success": true,
     "type": "IPv4",
@@ -69,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://190.122.185.170:999",
-    "tested_at": "2026-02-14T23:07:24Z",
-    "ip": "143.208.59.2",
+    "proxy": "http://38.52.208.49:999",
+    "tested_at": "2026-02-14T23:38:45Z",
+    "ip": "38.52.212.255",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -85,56 +62,10 @@
     "is_eu": false,
     "postal": "01004",
     "connection": {
-      "asn": 22869,
-      "org": "COMUNICACIONES METROPOLITANAS CABLECOLOR",
-      "isp": "CABLECOLOR S.A.",
-      "domain": "cablecolor.com.gt"
-    }
-  },
-  {
-    "proxy": "http://138.117.230.131:999",
-    "tested_at": "2026-02-14T23:07:35Z",
-    "ip": "138.117.230.131",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "Escuintla",
-    "region_code": "ES",
-    "city": "La Democracia",
-    "latitude": 14.229012,
-    "longitude": -90.9462345,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 269989,
-      "org": "FIBERNET S.A",
-      "isp": "FIBERNET S.A",
-      "domain": "fibernetgt.com"
-    }
-  },
-  {
-    "proxy": "http://181.78.49.177:999",
-    "tested_at": "2026-02-14T23:07:42Z",
-    "ip": "181.78.49.177",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "Guatemala Department",
-    "region_code": "GU",
-    "city": "Guatemala City",
-    "latitude": 14.6349149,
-    "longitude": -90.5068824,
-    "is_eu": false,
-    "postal": "01004",
-    "connection": {
-      "asn": 52468,
-      "org": "Ufinet Guatemala S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
+      "asn": 272818,
+      "org": "Cogent Communications",
+      "isp": "CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+      "domain": "centralredes.com"
     }
   }
 ]

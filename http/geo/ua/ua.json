@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://31.134.120.124:1214",
-    "tested_at": "2026-02-14T23:07:16Z",
-    "ip": "31.134.120.124",
+    "proxy": "http://77.52.187.196:18080",
+    "tested_at": "2026-02-14T23:38:05Z",
+    "ip": "77.52.187.196",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Dnipropetrovsk Oblast",
+    "region_code": "12",
+    "city": "Shyroke",
+    "latitude": 47.693307,
+    "longitude": 33.2682606,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 21497,
+      "org": "Prjsc Vf Ukraine",
+      "isp": "Prjsc Vf Ukraine",
+      "domain": "vodafone.ua"
+    }
+  },
+  {
+    "proxy": "http://185.65.247.133:48049",
+    "tested_at": "2026-02-14T23:38:58Z",
+    "ip": "185.65.247.133",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,56 +39,10 @@
     "is_eu": false,
     "postal": "01001",
     "connection": {
-      "asn": 56668,
-      "org": "Fop Demchuk Sergiy Olexandrovuch",
-      "isp": "Fop Demchuk Sergiy Olexandrovuch",
-      "domain": "simnet.kiev.ua"
-    }
-  },
-  {
-    "proxy": "http://178.165.42.166:3128",
-    "tested_at": "2026-02-14T23:07:16Z",
-    "ip": "178.165.42.166",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Kharkiv Oblast",
-    "region_code": "63",
-    "city": "Kharkiv",
-    "latitude": 49.9935,
-    "longitude": 36.230383,
-    "is_eu": false,
-    "postal": "61003",
-    "connection": {
-      "asn": 34700,
-      "org": "Maxnet Ltd., Kharkiv",
-      "isp": "MAXNET TELECOM, LTD",
-      "domain": "maxnet.ua"
-    }
-  },
-  {
-    "proxy": "http://95.67.121.206:45554",
-    "tested_at": "2026-02-14T23:07:25Z",
-    "ip": "95.67.121.206",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Kyiv city",
-    "region_code": "30",
-    "city": "Kyiv",
-    "latitude": 50.4501,
-    "longitude": 30.5234,
-    "is_eu": false,
-    "postal": "01001",
-    "connection": {
-      "asn": 34867,
-      "org": "Cosmonova LLC",
-      "isp": "Cosmonova LLC",
-      "domain": "cosmonova.net"
+      "asn": 200000,
+      "org": "Hosting Ukraine VPS Network",
+      "isp": "Hosting Ukraine LTD",
+      "domain": "ukraine.com.ua"
     }
   }
 ]

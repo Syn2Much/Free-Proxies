@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://45.136.198.40:3128",
-    "tested_at": "2026-02-14T23:07:05Z",
-    "ip": "45.136.198.40",
+    "proxy": "http://213.169.33.7:8001",
+    "tested_at": "2026-02-14T23:39:00Z",
+    "ip": "213.169.33.7",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,33 +16,10 @@
     "is_eu": true,
     "postal": "1000",
     "connection": {
-      "asn": 9009,
-      "org": "Iroko Networks Corporation",
-      "isp": "M Europe SRL",
-      "domain": "iroko.net"
-    }
-  },
-  {
-    "proxy": "http://85.217.192.39:1414",
-    "tested_at": "2026-02-14T23:07:20Z",
-    "ip": "85.217.192.39",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "region": "Veliko Tarnovo",
-    "region_code": "04",
-    "city": "Svishtov",
-    "latitude": 43.618351,
-    "longitude": 25.3506225,
-    "is_eu": true,
-    "postal": "5250",
-    "connection": {
-      "asn": 34368,
-      "org": "NETERRA THEZONE NET",
-      "isp": "Zonata Invest Sllc",
-      "domain": "neterra.net"
+      "asn": 8717,
+      "org": "A1 Bulgaria Ead",
+      "isp": "A1 Bulgaria Ead",
+      "domain": "a1.bg"
     }
   }
 ]

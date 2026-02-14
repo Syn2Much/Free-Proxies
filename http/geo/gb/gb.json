@@ -1,30 +1,53 @@
 [
   {
-    "proxy": "http://62.255.223.195:8080",
-    "tested_at": "2026-02-14T23:07:03Z",
-    "ip": "62.255.223.195",
+    "proxy": "http://212.110.188.203:34410",
+    "tested_at": "2026-02-14T23:38:11Z",
+    "ip": "212.110.188.203",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "United Kingdom",
     "country_code": "GB",
-    "region": "Scotland",
-    "region_code": "SCT",
-    "city": "Edinburgh",
-    "latitude": 55.953252,
-    "longitude": -3.188267,
+    "region": "England",
+    "region_code": "ENG",
+    "city": "York",
+    "latitude": 53.9599651,
+    "longitude": -1.0872979,
     "is_eu": false,
-    "postal": "EH1 3EG",
+    "postal": "YO1 8SG",
     "connection": {
-      "asn": 5089,
-      "org": "Virgin Media Limited",
-      "isp": "Virgin Media Limited",
-      "domain": "adsgroup.org.uk"
+      "asn": 35425,
+      "org": "Bytemark Services",
+      "isp": "IOMART MANAGED SERVICES LIMITED",
+      "domain": "rapidswitch.com"
+    }
+  },
+  {
+    "proxy": "http://212.110.188.201:34408",
+    "tested_at": "2026-02-14T23:38:20Z",
+    "ip": "212.110.188.201",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "England",
+    "region_code": "ENG",
+    "city": "York",
+    "latitude": 53.9599651,
+    "longitude": -1.0872979,
+    "is_eu": false,
+    "postal": "YO1 8SG",
+    "connection": {
+      "asn": 35425,
+      "org": "Bytemark Services",
+      "isp": "IOMART MANAGED SERVICES LIMITED",
+      "domain": "rapidswitch.com"
     }
   },
   {
     "proxy": "http://37.27.180.250:2081",
-    "tested_at": "2026-02-14T23:07:11Z",
+    "tested_at": "2026-02-14T23:38:33Z",
     "ip": "141.98.101.182",
     "success": true,
     "type": "IPv4",
@@ -46,9 +69,32 @@
     }
   },
   {
-    "proxy": "http://212.110.188.213:34411",
-    "tested_at": "2026-02-14T23:07:19Z",
-    "ip": "212.110.188.213",
+    "proxy": "http://62.255.223.195:8080",
+    "tested_at": "2026-02-14T23:38:47Z",
+    "ip": "62.255.223.195",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "Scotland",
+    "region_code": "SCT",
+    "city": "Edinburgh",
+    "latitude": 55.953252,
+    "longitude": -3.188267,
+    "is_eu": false,
+    "postal": "EH1 3EG",
+    "connection": {
+      "asn": 5089,
+      "org": "Virgin Media Limited",
+      "isp": "Virgin Media Limited",
+      "domain": "adsgroup.org.uk"
+    }
+  },
+  {
+    "proxy": "http://212.110.188.210:34408",
+    "tested_at": "2026-02-14T23:39:02Z",
+    "ip": "212.110.188.210",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -66,29 +112,6 @@
       "org": "Bytemark Services",
       "isp": "IOMART MANAGED SERVICES LIMITED",
       "domain": "rapidswitch.com"
-    }
-  },
-  {
-    "proxy": "http://157.125.220.80:8080",
-    "tested_at": "2026-02-14T23:07:33Z",
-    "ip": "157.125.220.80",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "Pudsey",
-    "latitude": 53.795766,
-    "longitude": -1.6761082,
-    "is_eu": false,
-    "postal": "LS28 7LH",
-    "connection": {
-      "asn": 31655,
-      "org": "Gamma Telecom Limited",
-      "isp": "Gamma Telecom Holdings LTD",
-      "domain": "gamma.co.uk"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://192.203.0.210:999",
-    "tested_at": "2026-02-14T23:07:04Z",
-    "ip": "192.203.0.210",
+    "proxy": "http://198.52.243.21:9999",
+    "tested_at": "2026-02-14T23:38:25Z",
+    "ip": "198.52.243.159",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,39 +10,62 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "Yabucoa",
-    "latitude": 18.0505201,
-    "longitude": -65.8793288,
+    "city": "Humacao",
+    "latitude": 18.1496828,
+    "longitude": -65.8273847,
     "is_eu": false,
-    "postal": "00767",
+    "postal": "00792",
+    "connection": {
+      "asn": 401013,
+      "org": "BNET",
+      "isp": "BNET",
+      "domain": "bnetglobal.com"
+    }
+  },
+  {
+    "proxy": "http://23.138.88.96:999",
+    "tested_at": "2026-02-14T23:38:29Z",
+    "ip": "23.138.88.97",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "region": "Puerto Rico",
+    "region_code": "PR",
+    "city": "Adjuntas",
+    "latitude": 18.1627363,
+    "longitude": -66.7221187,
+    "is_eu": false,
+    "postal": "00601",
+    "connection": {
+      "asn": 400354,
+      "org": "ALPHANET CORP",
+      "isp": "ALPHANET CORP",
+      "domain": "alphanetwireless.net"
+    }
+  },
+  {
+    "proxy": "http://192.203.0.166:999",
+    "tested_at": "2026-02-14T23:38:46Z",
+    "ip": "192.203.0.166",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "region": "Puerto Rico",
+    "region_code": "PR",
+    "city": "Fajardo",
+    "latitude": 18.3257869,
+    "longitude": -65.6523838,
+    "is_eu": false,
+    "postal": "00738-4805",
     "connection": {
       "asn": 63393,
       "org": "BOOM NET",
       "isp": "BOOM NET",
       "domain": "boomsolutionspr.com"
-    }
-  },
-  {
-    "proxy": "http://154.64.215.132:999",
-    "tested_at": "2026-02-14T23:07:25Z",
-    "ip": "23.130.144.12",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Puerto Rico",
-    "country_code": "PR",
-    "region": "Puerto Rico",
-    "region_code": "PR",
-    "city": "San Sebastián",
-    "latitude": 18.3327741,
-    "longitude": -66.9958226,
-    "is_eu": false,
-    "postal": "00685",
-    "connection": {
-      "asn": 397470,
-      "org": "Antoniol Electronic",
-      "isp": "Antoniol Electronic",
-      "domain": "alenet.co"
     }
   }
 ]
