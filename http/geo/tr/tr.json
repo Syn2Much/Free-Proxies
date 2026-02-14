@@ -1,8 +1,77 @@
 [
   {
-    "proxy": "http://38.156.72.51:8080",
-    "tested_at": "2026-02-14T00:14:25Z",
-    "ip": "188.132.222.146",
+    "proxy": "http://149.86.139.166:8085",
+    "tested_at": "2026-02-14T00:45:42Z",
+    "ip": "149.86.139.166",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Turkey",
+    "country_code": "TR",
+    "region": "Konya",
+    "region_code": "42",
+    "city": "Selçuklu",
+    "latitude": 38.0160383,
+    "longitude": 32.4920088,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 208972,
+      "org": "Cogent Communications",
+      "isp": "GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI",
+      "domain": "gibir.net.tr"
+    }
+  },
+  {
+    "proxy": "http://38.156.72.13:8080",
+    "tested_at": "2026-02-14T00:45:54Z",
+    "ip": "38.156.72.13",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Turkey",
+    "country_code": "TR",
+    "region": "Kilis",
+    "region_code": "79",
+    "city": "Kilis",
+    "latitude": 36.716477,
+    "longitude": 37.114661,
+    "is_eu": false,
+    "postal": "79002",
+    "connection": {
+      "asn": 202561,
+      "org": "Cogent Communications",
+      "isp": "High Speed Telekomunikasyon Ve Hab. Hiz. Ltd. Sti.",
+      "domain": "highspeed.com.tr"
+    }
+  },
+  {
+    "proxy": "http://195.87.182.10:9090",
+    "tested_at": "2026-02-14T00:45:56Z",
+    "ip": "62.244.206.114",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Turkey",
+    "country_code": "TR",
+    "region": "İstanbul",
+    "region_code": "34",
+    "city": "Istanbul",
+    "latitude": 41.0082376,
+    "longitude": 28.9783589,
+    "is_eu": false,
+    "postal": "34126",
+    "connection": {
+      "asn": 15924,
+      "org": "Borusan Telekom Serial Network",
+      "isp": "Vodafone Net Iletisim Hizmetler AS",
+      "domain": "vodafone.net.tr"
+    }
+  },
+  {
+    "proxy": "http://176.117.106.149:8080",
+    "tested_at": "2026-02-14T00:45:57Z",
+    "ip": "176.117.106.149",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -17,15 +86,15 @@
     "postal": "34126",
     "connection": {
       "asn": 202561,
-      "org": "HIGH SPEED TELEKOMUNIKASYON VE HABERLESME HIZMETLERI LTD. STI.",
+      "org": "Highspeed ISP",
       "isp": "High Speed Telekomunikasyon Ve Hab. Hiz. Ltd. Sti.",
-      "domain": "highspeed.com.tr"
+      "domain": "kaer.technology"
     }
   },
   {
-    "proxy": "http://188.132.222.11:8080",
-    "tested_at": "2026-02-14T00:14:29Z",
-    "ip": "195.62.50.2",
+    "proxy": "http://95.0.100.40:8085",
+    "tested_at": "2026-02-14T00:45:57Z",
+    "ip": "95.0.100.40",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,39 +108,39 @@
     "is_eu": false,
     "postal": "34126",
     "connection": {
-      "asn": 216472,
-      "org": "Hiperonline Iletisim Hizmetleri San. Tic. Ltd. Sti.",
-      "isp": "High Speed For Internet Services L.L.C",
-      "domain": "hiperonline.com.tr"
+      "asn": 9121,
+      "org": "Firatnet Telekom Internet Hizmetleri",
+      "isp": "Turk Telekomunikasyon Anonim Sirketi",
+      "domain": ""
     }
   },
   {
-    "proxy": "http://188.132.222.28:8080",
-    "tested_at": "2026-02-14T00:14:44Z",
-    "ip": "188.132.222.28",
+    "proxy": "http://38.156.72.40:8080",
+    "tested_at": "2026-02-14T00:45:58Z",
+    "ip": "38.156.72.40",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Turkey",
     "country_code": "TR",
-    "region": "Mediterranean Region",
-    "region_code": "",
-    "city": "Antakya",
-    "latitude": 36.2022842,
-    "longitude": 36.1613221,
+    "region": "Kilis",
+    "region_code": "79",
+    "city": "Kilis",
+    "latitude": 36.716477,
+    "longitude": 37.114661,
     "is_eu": false,
-    "postal": "31001",
+    "postal": "79002",
     "connection": {
       "asn": 202561,
-      "org": "HIGH SPEED TELEKOMUNIKASYON VE HABERLESME HIZMETLERI LTD. STI.",
+      "org": "Cogent Communications",
       "isp": "High Speed Telekomunikasyon Ve Hab. Hiz. Ltd. Sti.",
       "domain": "highspeed.com.tr"
     }
   },
   {
-    "proxy": "http://176.236.227.98:8080",
-    "tested_at": "2026-02-14T00:14:54Z",
-    "ip": "176.236.227.98",
+    "proxy": "http://164.138.207.81:8080",
+    "tested_at": "2026-02-14T00:46:15Z",
+    "ip": "164.138.207.81",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -84,11 +153,57 @@
     "longitude": 28.9783589,
     "is_eu": false,
     "postal": "34126",
+    "connection": {
+      "asn": 202561,
+      "org": "Highspeed ISP",
+      "isp": "High Speed Telekomunikasyon Ve Hab. Hiz. Ltd. Sti.",
+      "domain": "kaer.technology"
+    }
+  },
+  {
+    "proxy": "http://212.252.71.30:8080",
+    "tested_at": "2026-02-14T00:46:21Z",
+    "ip": "212.252.71.30",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Turkey",
+    "country_code": "TR",
+    "region": "Kilis",
+    "region_code": "79",
+    "city": "Kilis",
+    "latitude": 36.716477,
+    "longitude": 37.114661,
+    "is_eu": false,
+    "postal": "79002",
     "connection": {
       "asn": 34984,
-      "org": "SIBA BILISIM TELEKOMINIKASYON ELEKTRONIK ITHALAT IHRACAT LIMITED SIRKETI",
+      "org": "GUNEYDOGU TELEKOM INTERNET BILISIM VE ILETISIM HIZ TIC LTD S",
       "isp": "Superonline Iletisim Hizmetleri A.S.",
       "domain": "turkcell.com.tr"
+    }
+  },
+  {
+    "proxy": "http://176.235.182.71:8080",
+    "tested_at": "2026-02-14T00:46:29Z",
+    "ip": "176.235.182.71",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Turkey",
+    "country_code": "TR",
+    "region": "İstanbul",
+    "region_code": "34",
+    "city": "Gümüşsuyu Mahallesi",
+    "latitude": 41.0370023,
+    "longitude": 28.9850917,
+    "is_eu": false,
+    "postal": "34437",
+    "connection": {
+      "asn": 34984,
+      "org": "Superonline Iletisim Hizmetleri A.S.",
+      "isp": "Superonline Iletisim Hizmetleri A.S.",
+      "domain": "teletektelekom.com"
     }
   }
 ]

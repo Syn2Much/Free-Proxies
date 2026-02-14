@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://3.110.197.155:49815",
-    "tested_at": "2026-02-13T23:11:39Z",
-    "ip": "107.189.30.69",
+    "proxy": "https://3.137.167.45:10801",
+    "tested_at": "2026-02-14T00:46:22Z",
+    "ip": "107.189.13.254",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -17,7 +17,7 @@
     "postal": "7772",
     "connection": {
       "asn": 53667,
-      "org": "BuyVM",
+      "org": "Frantech Solutions",
       "isp": "Frantech Solutions",
       "domain": "frantech.ca"
     }

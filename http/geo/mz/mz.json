@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://165.90.64.216:8080",
+    "tested_at": "2026-02-14T00:46:06Z",
+    "ip": "165.90.64.216",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Mozambique",
+    "country_code": "MZ",
+    "region": "Distrito Municipal de KaMpfumo",
+    "region_code": "",
+    "city": "Maputo",
+    "latitude": -25.891968,
+    "longitude": 32.6051351,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 37110,
+      "org": "Maputo",
+      "isp": "Moztel Lda",
+      "domain": "clubnet.co.mz"
+    }
+  }
+]

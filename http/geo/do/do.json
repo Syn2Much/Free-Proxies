@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://38.191.88.128:999",
-    "tested_at": "2026-02-14T00:14:38Z",
-    "ip": "38.191.88.148",
+    "proxy": "http://181.37.240.89:999",
+    "tested_at": "2026-02-14T00:45:39Z",
+    "ip": "181.37.240.89",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -16,10 +16,102 @@
     "is_eu": false,
     "postal": "10119",
     "connection": {
-      "asn": 272027,
-      "org": "Megared Telecom LLC",
-      "isp": "LAUAM MEGARED TELECOM, S.R.L.",
-      "domain": "google.com"
+      "asn": 28118,
+      "org": "ALTICE DOMINICANA S.A.",
+      "isp": "ALTICE DOMINICANA S.A.",
+      "domain": "altice.com.do"
+    }
+  },
+  {
+    "proxy": "http://200.125.170.218:999",
+    "tested_at": "2026-02-14T00:45:45Z",
+    "ip": "200.125.170.218",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Monte Plata",
+    "region_code": "29",
+    "city": "Mejía de Navarrete",
+    "latitude": 18.735693,
+    "longitude": -70.162651,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 269931,
+      "org": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
+      "isp": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
+      "domain": "wmservice.com.do"
+    }
+  },
+  {
+    "proxy": "http://38.188.247.12:999",
+    "tested_at": "2026-02-14T00:46:23Z",
+    "ip": "38.44.17.142",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Monte Plata",
+    "region_code": "29",
+    "city": "Yamasá",
+    "latitude": 18.7727461,
+    "longitude": -70.0250065,
+    "is_eu": false,
+    "postal": "92000",
+    "connection": {
+      "asn": 272083,
+      "org": "Cogent Communications",
+      "isp": "REYNOSO, S.R.L.",
+      "domain": "reynosord.com"
+    }
+  },
+  {
+    "proxy": "http://38.10.129.178:999",
+    "tested_at": "2026-02-14T00:46:24Z",
+    "ip": "38.10.129.178",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "San Cristóbal",
+    "region_code": "21",
+    "city": "San Cristobal",
+    "latitude": 18.4188797,
+    "longitude": -70.1030668,
+    "is_eu": false,
+    "postal": "91000",
+    "connection": {
+      "asn": 272906,
+      "org": "Cogent Communications",
+      "isp": "LIBERTY TECHNOLOGY SRL",
+      "domain": "libertytechnology.com.do"
+    }
+  },
+  {
+    "proxy": "http://38.191.161.178:999",
+    "tested_at": "2026-02-14T00:46:27Z",
+    "ip": "38.191.161.178",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Distrito Nacional",
+    "region_code": "01",
+    "city": "Santo Domingo",
+    "latitude": 18.4860575,
+    "longitude": -69.9312117,
+    "is_eu": false,
+    "postal": "10119",
+    "connection": {
+      "asn": 273180,
+      "org": "Three Networks S.R.L",
+      "isp": "THREE NETWORKS SRL",
+      "domain": "threenetworks.net"
     }
   }
 ]

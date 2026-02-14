@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://154.208.58.89:8080",
+    "tested_at": "2026-02-14T00:45:40Z",
+    "ip": "154.208.58.175",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "region": "Punjab",
+    "region_code": "PB",
+    "city": "Lahore",
+    "latitude": 31.5546061,
+    "longitude": 74.3571581,
+    "is_eu": false,
+    "postal": "54000",
+    "connection": {
+      "asn": 150750,
+      "org": "IN CABLE INTERNET PRIVATE LIMITED",
+      "isp": "IN CABLE INTERNET PRIVATE LIMITED",
+      "domain": "incableinternet.com"
+    }
+  },
+  {
     "proxy": "http://110.38.226.139:8080",
-    "tested_at": "2026-02-14T00:14:35Z",
+    "tested_at": "2026-02-14T00:46:14Z",
     "ip": "110.38.226.139",
     "success": true,
     "type": "IPv4",
@@ -20,52 +43,6 @@
       "org": "National Wimax ims Environment",
       "isp": "Wateen Telecom Limited",
       "domain": "wateen.com"
-    }
-  },
-  {
-    "proxy": "http://115.42.67.186:8080",
-    "tested_at": "2026-02-14T00:15:01Z",
-    "ip": "115.42.67.186",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Pakistan",
-    "country_code": "PK",
-    "region": "Balochistan",
-    "region_code": "BA",
-    "city": "Gaddani",
-    "latitude": 25.0861084,
-    "longitude": 66.7307796,
-    "is_eu": false,
-    "postal": "90300",
-    "connection": {
-      "asn": 132165,
-      "org": "Connect Communication",
-      "isp": "Connect Communication",
-      "domain": "connect.net.pk"
-    }
-  },
-  {
-    "proxy": "http://59.103.34.162:8080",
-    "tested_at": "2026-02-14T00:15:10Z",
-    "ip": "59.103.34.162",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Pakistan",
-    "country_code": "PK",
-    "region": "Islamabad Capital Territory",
-    "region_code": "",
-    "city": "Islamabad",
-    "latitude": 33.7293882,
-    "longitude": 73.0931461,
-    "is_eu": false,
-    "postal": "44000",
-    "connection": {
-      "asn": 139820,
-      "org": "Narrowband Hsi Pool for Rawalpindi1",
-      "isp": "HG TELECOMMUNICATION PRIVATE LIMITED",
-      "domain": "ptcl.net.pk"
     }
   }
 ]

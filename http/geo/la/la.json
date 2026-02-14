@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://103.137.91.250:8080",
+    "tested_at": "2026-02-14T00:45:56Z",
+    "ip": "103.137.91.250",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Laos",
+    "country_code": "LA",
+    "region": "Vientiane Prefecture",
+    "region_code": "VT",
+    "city": "Vientiane",
+    "latitude": 17.9757058,
+    "longitude": 102.6331035,
+    "is_eu": false,
+    "postal": "01006",
+    "connection": {
+      "asn": 138934,
+      "org": "Slt Network Co.,ltd",
+      "isp": "Slt Network Co.,ltd",
+      "domain": "sltnetwork.la"
+    }
+  }
+]

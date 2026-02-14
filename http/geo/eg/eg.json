@@ -1,7 +1,76 @@
 [
   {
+    "proxy": "http://82.129.233.5:1976",
+    "tested_at": "2026-02-14T00:45:42Z",
+    "ip": "82.129.233.5",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Al Minufiya",
+    "region_code": "",
+    "city": "Sirs Al Layyanah",
+    "latitude": 30.4390852,
+    "longitude": 30.9671759,
+    "is_eu": false,
+    "postal": "32861",
+    "connection": {
+      "asn": 24835,
+      "org": "LOCAL ISP",
+      "isp": "Vodafone Data",
+      "domain": "rayatelecom.net"
+    }
+  },
+  {
+    "proxy": "http://41.65.55.27:1981",
+    "tested_at": "2026-02-14T00:45:43Z",
+    "ip": "41.65.55.27",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Western",
+    "region_code": "",
+    "city": "Madinet Qotour",
+    "latitude": 30.9727414,
+    "longitude": 30.9589496,
+    "is_eu": false,
+    "postal": "31726",
+    "connection": {
+      "asn": 36992,
+      "org": "Abbasia Enterprise Customers Static Ips",
+      "isp": "ETISALAT MISR",
+      "domain": "etisalatdata.net"
+    }
+  },
+  {
+    "proxy": "http://197.164.101.14:1981",
+    "tested_at": "2026-02-14T00:46:01Z",
+    "ip": "197.164.101.14",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Cairo",
+    "region_code": "C",
+    "city": "Cairo",
+    "latitude": 30.0444196,
+    "longitude": 31.2357116,
+    "is_eu": false,
+    "postal": "28625",
+    "connection": {
+      "asn": 24863,
+      "org": "",
+      "isp": "Link Egypt link.net",
+      "domain": ""
+    }
+  },
+  {
     "proxy": "http://154.236.191.38:1981",
-    "tested_at": "2026-02-14T00:14:19Z",
+    "tested_at": "2026-02-14T00:46:26Z",
     "ip": "154.236.191.38",
     "success": true,
     "type": "IPv4",
@@ -24,7 +93,7 @@
   },
   {
     "proxy": "http://197.164.101.13:1976",
-    "tested_at": "2026-02-14T00:14:20Z",
+    "tested_at": "2026-02-14T00:46:29Z",
     "ip": "197.164.101.13",
     "success": true,
     "type": "IPv4",
@@ -43,52 +112,6 @@
       "org": "",
       "isp": "Link Egypt link.net",
       "domain": ""
-    }
-  },
-  {
-    "proxy": "http://41.65.103.5:1976",
-    "tested_at": "2026-02-14T00:14:38Z",
-    "ip": "41.65.103.5",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Egypt",
-    "country_code": "EG",
-    "region": "Cairo",
-    "region_code": "C",
-    "city": "Cairo",
-    "latitude": 30.0444196,
-    "longitude": 31.2357116,
-    "is_eu": false,
-    "postal": "28625",
-    "connection": {
-      "asn": 36992,
-      "org": "",
-      "isp": "Etisalat Misr Mobile BB",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://41.65.146.182:1974",
-    "tested_at": "2026-02-14T00:15:01Z",
-    "ip": "41.65.146.170",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Egypt",
-    "country_code": "EG",
-    "region": "Cairo",
-    "region_code": "C",
-    "city": "Cairo",
-    "latitude": 30.0444196,
-    "longitude": 31.2357116,
-    "is_eu": false,
-    "postal": "28625",
-    "connection": {
-      "asn": 36992,
-      "org": "Roda Area Enterprise Customers With Static Ips",
-      "isp": "ETISALAT MISR",
-      "domain": "etisalatdata.net"
     }
   }
 ]

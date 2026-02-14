@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://36.253.18.38:8181",
-    "tested_at": "2026-02-14T00:14:58Z",
+    "tested_at": "2026-02-14T00:45:45Z",
     "ip": "36.253.18.38",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,29 @@
       "org": "Ncell Pty. Ltd.",
       "isp": "Ncell Pty. Ltd.",
       "domain": "ncell.com.np"
+    }
+  },
+  {
+    "proxy": "http://110.44.115.83:8080",
+    "tested_at": "2026-02-14T00:46:25Z",
+    "ip": "110.44.115.83",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Nepal",
+    "country_code": "NP",
+    "region": "Bagmati Pradesh",
+    "region_code": "",
+    "city": "Kathmandu",
+    "latitude": 27.7172453,
+    "longitude": 85.3239605,
+    "is_eu": false,
+    "postal": "46600",
+    "connection": {
+      "asn": 45650,
+      "org": "VIA NET COMMUNICATION PUBLIC LIMITED",
+      "isp": "VIA NET COMMUNICATION PUBLIC LIMITED",
+      "domain": "vianet.com.np"
     }
   }
 ]

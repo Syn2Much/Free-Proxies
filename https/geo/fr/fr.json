@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "https://5.189.184.6:443",
-    "tested_at": "2026-02-14T00:14:22Z",
-    "ip": "5.189.184.6",
+    "proxy": "https://91.121.88.53:443",
+    "tested_at": "2026-02-14T00:45:38Z",
+    "ip": "2001:41d0:1:8d35::1",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Hauts-de-France",
+    "region_code": "HDF",
+    "city": "Roubaix",
+    "latitude": 50.6927049,
+    "longitude": 3.177847,
+    "is_eu": true,
+    "postal": "59100",
+    "connection": {
+      "asn": 16276,
+      "org": "OVH",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
+    }
+  },
+  {
+    "proxy": "https://173.249.37.45:5006",
+    "tested_at": "2026-02-14T00:45:39Z",
+    "ip": "173.249.37.45",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -23,8 +46,8 @@
     }
   },
   {
-    "proxy": "https://173.249.37.45:5006",
-    "tested_at": "2026-02-14T00:14:26Z",
+    "proxy": "https://173.249.37.45:5051",
+    "tested_at": "2026-02-14T00:45:40Z",
     "ip": "173.249.37.45",
     "success": true,
     "type": "IPv4",
@@ -47,7 +70,7 @@
   },
   {
     "proxy": "https://51.38.191.151:443",
-    "tested_at": "2026-02-14T00:14:33Z",
+    "tested_at": "2026-02-14T00:45:49Z",
     "ip": "2001:41d0:305:2100::4801",
     "success": true,
     "type": "IPv6",
@@ -69,9 +92,9 @@
     }
   },
   {
-    "proxy": "https://173.249.37.45:5051",
-    "tested_at": "2026-02-14T00:14:35Z",
-    "ip": "173.249.37.45",
+    "proxy": "https://5.189.184.6:443",
+    "tested_at": "2026-02-14T00:45:58Z",
+    "ip": "5.189.184.6",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -93,7 +116,7 @@
   },
   {
     "proxy": "https://152.228.163.79:443",
-    "tested_at": "2026-02-14T00:14:35Z",
+    "tested_at": "2026-02-14T00:46:16Z",
     "ip": "2001:41d0:304:200::d951",
     "success": true,
     "type": "IPv6",
@@ -115,9 +138,9 @@
     }
   },
   {
-    "proxy": "https://95.40.79.184:76",
-    "tested_at": "2026-02-14T00:14:58Z",
-    "ip": "203.55.81.2",
+    "proxy": "https://47.243.181.85:41709",
+    "tested_at": "2026-02-14T00:46:20Z",
+    "ip": "176.170.97.212",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -131,33 +154,10 @@
     "is_eu": true,
     "postal": "75007",
     "connection": {
-      "asn": 213873,
-      "org": "MOJI SAS",
-      "isp": "MOJI SAS",
-      "domain": "moji.fr"
-    }
-  },
-  {
-    "proxy": "https://91.121.88.53:443",
-    "tested_at": "2026-02-14T00:14:55Z",
-    "ip": "2001:41d0:1:8d35::1",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Hauts-de-France",
-    "region_code": "HDF",
-    "city": "Roubaix",
-    "latitude": 50.6927049,
-    "longitude": 3.177847,
-    "is_eu": true,
-    "postal": "59100",
-    "connection": {
-      "asn": 16276,
-      "org": "OVH",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
+      "asn": 5410,
+      "org": "Pool for Broadband Dsl Customers",
+      "isp": "Bouygues Telecom SA",
+      "domain": "bouyguestelecom.fr"
     }
   }
 ]

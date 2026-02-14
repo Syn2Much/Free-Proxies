@@ -1,25 +1,71 @@
 [
   {
-    "proxy": "http://185.125.23.109:8899",
-    "tested_at": "2026-02-14T00:14:20Z",
-    "ip": "185.125.23.106",
+    "proxy": "http://85.9.87.26:8080",
+    "tested_at": "2026-02-14T00:45:56Z",
+    "ip": "85.9.87.26",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Iran",
     "country_code": "IR",
-    "region": "Hamadan Province",
-    "region_code": "13",
-    "city": "Hamedan",
-    "latitude": 34.7988575,
-    "longitude": 48.5150225,
+    "region": "Tehran Province",
+    "region_code": "23",
+    "city": "Tehran",
+    "latitude": 35.6891975,
+    "longitude": 51.3889736,
     "is_eu": false,
-    "postal": "",
+    "postal": "1317947564",
     "connection": {
-      "asn": 48359,
-      "org": "Taknet Wireless Network",
-      "isp": "Hesabgar Pardaz Gharb Pjsc",
-      "domain": "taknet.ir"
+      "asn": 47376,
+      "org": "Pishgaman",
+      "isp": "Web Gostaran Bandar Company pjs",
+      "domain": "pishgaman.net"
+    }
+  },
+  {
+    "proxy": "http://46.209.30.11:8080",
+    "tested_at": "2026-02-14T00:46:05Z",
+    "ip": "46.209.30.11",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iran",
+    "country_code": "IR",
+    "region": "Tehran Province",
+    "region_code": "23",
+    "city": "Tehran",
+    "latitude": 35.6891975,
+    "longitude": 51.3889736,
+    "is_eu": false,
+    "postal": "1317947564",
+    "connection": {
+      "asn": 42337,
+      "org": "National Library Of Iran",
+      "isp": "Respina Networks Beyond Pjsc",
+      "domain": "respina.net"
+    }
+  },
+  {
+    "proxy": "http://178.252.134.188:3128",
+    "tested_at": "2026-02-14T00:46:11Z",
+    "ip": "178.252.134.188",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iran",
+    "country_code": "IR",
+    "region": "Tehran Province",
+    "region_code": "23",
+    "city": "Tehran",
+    "latitude": 35.6891975,
+    "longitude": 51.3889736,
+    "is_eu": false,
+    "postal": "1317947564",
+    "connection": {
+      "asn": 51074,
+      "org": "MABNA",
+      "isp": "Gostaresh e ertebatat e Mabna Company private Joint Stock",
+      "domain": "mabnatelecom.com"
     }
   }
 ]

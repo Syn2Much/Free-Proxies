@@ -1,8 +1,54 @@
 [
   {
-    "proxy": "http://102.212.44.151:12354",
-    "tested_at": "2026-02-14T00:14:44Z",
-    "ip": "102.212.44.197",
+    "proxy": "http://102.39.233.4:8080",
+    "tested_at": "2026-02-14T00:45:41Z",
+    "ip": "102.39.233.4",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Western Cape",
+    "region_code": "WC",
+    "city": "Cape Town",
+    "latitude": -34.0756899,
+    "longitude": 18.8432656,
+    "is_eu": false,
+    "postal": "8001",
+    "connection": {
+      "asn": 11845,
+      "org": "Vox Telecom Pty Ltd",
+      "isp": "Vox Telecommunications Pty Limited",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://196.216.134.71:8865",
+    "tested_at": "2026-02-14T00:45:42Z",
+    "ip": "196.216.134.71",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "North West",
+    "region_code": "NW",
+    "city": "Vryburg",
+    "latitude": -26.9584048,
+    "longitude": 24.7298615,
+    "is_eu": false,
+    "postal": "8601",
+    "connection": {
+      "asn": 328471,
+      "org": "HERO TELECOMS PTY LTD",
+      "isp": "HERO TELECOMS PTY LTD",
+      "domain": "herotel.com"
+    }
+  },
+  {
+    "proxy": "http://41.180.70.2:8080",
+    "tested_at": "2026-02-14T00:46:04Z",
+    "ip": "41.180.70.2",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,10 +62,102 @@
     "is_eu": false,
     "postal": "2001",
     "connection": {
-      "asn": 329243,
-      "org": "OM SN",
-      "isp": "One Mile Telecoms pty Ltd.",
-      "domain": "1mile.co.za"
+      "asn": 36916,
+      "org": "Fixed Line ISP",
+      "isp": "X dsl Networking Solutions",
+      "domain": "x-dsl.co.za"
+    }
+  },
+  {
+    "proxy": "http://169.239.85.121:8080",
+    "tested_at": "2026-02-14T00:46:04Z",
+    "ip": "169.239.85.121",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Gauteng",
+    "region_code": "GT",
+    "city": "Lethabong",
+    "latitude": -26.0880026,
+    "longitude": 28.1444516,
+    "is_eu": false,
+    "postal": "2065",
+    "connection": {
+      "asn": 327943,
+      "org": "Mezobyte Allocation 1",
+      "isp": "Mezobyte pty LTD",
+      "domain": "mezobyte.com"
+    }
+  },
+  {
+    "proxy": "http://160.119.228.146:12354",
+    "tested_at": "2026-02-14T00:46:15Z",
+    "ip": "160.119.228.146",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Gauteng",
+    "region_code": "GT",
+    "city": "Randburg",
+    "latitude": -26.1438399,
+    "longitude": 27.9951862,
+    "is_eu": false,
+    "postal": "2194",
+    "connection": {
+      "asn": 328137,
+      "org": "Web Squad Connect",
+      "isp": "Web Squad Connect pty LTD",
+      "domain": "websquad.co.za"
+    }
+  },
+  {
+    "proxy": "http://196.251.193.252:8083",
+    "tested_at": "2026-02-14T00:46:19Z",
+    "ip": "196.251.193.116",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "North West",
+    "region_code": "NW",
+    "city": "Brits",
+    "latitude": -25.6099895,
+    "longitude": 27.7959713,
+    "is_eu": false,
+    "postal": "0250",
+    "connection": {
+      "asn": 37403,
+      "org": "Infogro Dsl",
+      "isp": "Info gro pty LTD",
+      "domain": "infogro.net"
+    }
+  },
+  {
+    "proxy": "http://41.79.148.233:8083",
+    "tested_at": "2026-02-14T00:46:22Z",
+    "ip": "41.222.152.21",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "North West",
+    "region_code": "NW",
+    "city": "Brits",
+    "latitude": -25.6099895,
+    "longitude": 27.7959713,
+    "is_eu": false,
+    "postal": "0250",
+    "connection": {
+      "asn": 37403,
+      "org": "Infogro Netblock",
+      "isp": "Info gro pty LTD",
+      "domain": "infogro.net"
     }
   }
 ]

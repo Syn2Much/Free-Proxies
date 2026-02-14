@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://79.106.229.115:8989",
-    "tested_at": "2026-02-13T23:43:30Z",
-    "ip": "79.106.229.115",
+    "proxy": "http://79.106.165.246:8989",
+    "tested_at": "2026-02-14T00:46:14Z",
+    "ip": "79.106.165.246",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,39 +10,16 @@
     "country_code": "AL",
     "region": "Southern Albania",
     "region_code": "",
-    "city": "Berat",
-    "latitude": 40.709678,
-    "longitude": 19.9391402,
+    "city": "Korçë",
+    "latitude": 40.6140785,
+    "longitude": 20.7778071,
     "is_eu": false,
-    "postal": "5001",
+    "postal": "7001",
     "connection": {
       "asn": 42313,
-      "org": "TEST 1",
+      "org": "TEST",
       "isp": "ONE ALBANIA SH.A.",
       "domain": "one.al"
-    }
-  },
-  {
-    "proxy": "http://79.106.231.17:8080",
-    "tested_at": "2026-02-13T23:43:48Z",
-    "ip": "79.106.231.17",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Albania",
-    "country_code": "AL",
-    "region": "Southern Albania",
-    "region_code": "",
-    "city": "KRUTJE E POSHME",
-    "latitude": 40.870296,
-    "longitude": 19.6788106,
-    "is_eu": false,
-    "postal": "9006",
-    "connection": {
-      "asn": 42313,
-      "org": "",
-      "isp": "ONE ALBANIA SH.A.",
-      "domain": ""
     }
   }
 ]

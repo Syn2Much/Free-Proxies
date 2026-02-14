@@ -1,7 +1,7 @@
 [
   {
     "proxy": "https://134.65.238.25:3128",
-    "tested_at": "2026-02-14T00:14:15Z",
+    "tested_at": "2026-02-14T00:45:39Z",
     "ip": "134.65.238.25",
     "success": true,
     "type": "IPv4",
@@ -23,55 +23,9 @@
     }
   },
   {
-    "proxy": "https://47.243.181.85:41804",
-    "tested_at": "2026-02-14T00:14:26Z",
-    "ip": "2804:d51:4fa4:1400:7985:cf5a:1558:6cb",
-    "success": true,
-    "type": "IPv6",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of Rio Grande do Sul",
-    "region_code": "RS",
-    "city": "Vila Cristina",
-    "latitude": -29.2988746,
-    "longitude": -51.1610638,
-    "is_eu": false,
-    "postal": "95124-000",
-    "connection": {
-      "asn": 8167,
-      "org": "V Tal",
-      "isp": "V Tal",
-      "domain": "vtal.com"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41795",
-    "tested_at": "2026-02-14T00:14:36Z",
-    "ip": "2804:1ec4:81:d100:e17a:5af9:ed32:3400",
-    "success": true,
-    "type": "IPv6",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of São Paulo",
-    "region_code": "SP",
-    "city": "Atibaia",
-    "latitude": -23.1175492,
-    "longitude": -46.5567066,
-    "is_eu": false,
-    "postal": "12940-700",
-    "connection": {
-      "asn": 262278,
-      "org": "RGR TELECOM LTDA",
-      "isp": "CROSS CONECTION PROVEDOR DE INTERNET LTDA",
-      "domain": "telecomrgr.com.br"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41797",
-    "tested_at": "2026-02-14T00:14:45Z",
-    "ip": "191.6.159.1",
+    "proxy": "https://47.243.181.85:41799",
+    "tested_at": "2026-02-14T00:46:05Z",
+    "ip": "192.141.27.86",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -79,16 +33,85 @@
     "country_code": "BR",
     "region": "State of Rio Grande do Sul",
     "region_code": "RS",
-    "city": "Chapada",
-    "latitude": -28.0576777,
-    "longitude": -53.0684395,
+    "city": "Porto Alegre",
+    "latitude": -30.0346471,
+    "longitude": -51.2176584,
     "is_eu": false,
-    "postal": "99530-000",
+    "postal": "90010-250",
     "connection": {
-      "asn": 61915,
-      "org": "Sicalnet comercio De Equipamentos De Informatica L",
-      "isp": "Sicalnet comercio De Equipamentos De Informatica L",
-      "domain": "sicalnet.com.br"
+      "asn": 267461,
+      "org": "Net Inform tica E Telecomunica es Eireli Me",
+      "isp": "GLEIDSON DE O. MARQUES ME",
+      "domain": "meganetscm.net.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41795",
+    "tested_at": "2026-02-14T00:46:10Z",
+    "ip": "138.185.7.211",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of São Paulo",
+    "region_code": "SP",
+    "city": "Leme",
+    "latitude": -22.1892464,
+    "longitude": -47.3978157,
+    "is_eu": false,
+    "postal": "13610-210",
+    "connection": {
+      "asn": 266433,
+      "org": "Super On Telecom",
+      "isp": "Super On Telecom",
+      "domain": "netaki.com.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41803",
+    "tested_at": "2026-02-14T00:46:15Z",
+    "ip": "2804:4724:6d00:ce00:9d7f:4691:89f5:63a",
+    "success": true,
+    "type": "IPv6",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of São Paulo",
+    "region_code": "SP",
+    "city": "Cabreúva",
+    "latitude": -23.3058194,
+    "longitude": -47.1367011,
+    "is_eu": false,
+    "postal": "13315-000",
+    "connection": {
+      "asn": 267034,
+      "org": "OPEN IT SOLUTIONS EIRELI",
+      "isp": "OPEN IT SOLUTIONS EIRELI",
+      "domain": "openitgroup.com.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41804",
+    "tested_at": "2026-02-14T00:46:20Z",
+    "ip": "170.254.153.116",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of Rio Grande do Sul",
+    "region_code": "RS",
+    "city": "Santa Bárbara do Sul",
+    "latitude": -28.3671863,
+    "longitude": -53.2517422,
+    "is_eu": false,
+    "postal": "98240-000",
+    "connection": {
+      "asn": 263077,
+      "org": "Razaoinfo Internet LTDA",
+      "isp": "Razaoinfo Internet LTDA",
+      "domain": "razaoinfo.com.br"
     }
   }
 ]

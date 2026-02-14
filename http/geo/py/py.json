@@ -1,94 +1,25 @@
 [
   {
-    "proxy": "http://181.78.27.38:999",
-    "tested_at": "2026-02-14T00:14:19Z",
-    "ip": "181.78.27.38",
+    "proxy": "http://181.94.197.37:8080",
+    "tested_at": "2026-02-14T00:46:32Z",
+    "ip": "181.94.197.37",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Paraguay",
     "country_code": "PY",
-    "region": "Distrito Capital de Paraguay",
-    "region_code": "",
-    "city": "Asuncion",
-    "latitude": -25.2637399,
-    "longitude": -57.575926,
-    "is_eu": false,
-    "postal": "1226",
-    "connection": {
-      "asn": 52468,
-      "org": "UFINET PARAGUAY S.A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://45.170.128.125:999",
-    "tested_at": "2026-02-14T00:14:38Z",
-    "ip": "45.170.128.120",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Paraguay",
-    "country_code": "PY",
-    "region": "Alto Paraná",
-    "region_code": "10",
-    "city": "Ciudad del Este",
-    "latitude": -25.5085286,
-    "longitude": -54.6753231,
-    "is_eu": false,
-    "postal": "7000",
-    "connection": {
-      "asn": 61512,
-      "org": "GIG NET SOCIEDAD ANONIMA",
-      "isp": "GIG NET SOCIEDAD ANONIMA",
-      "domain": "giganet.net.py"
-    }
-  },
-  {
-    "proxy": "http://181.78.27.39:999",
-    "tested_at": "2026-02-14T00:15:00Z",
-    "ip": "181.78.27.38",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Paraguay",
-    "country_code": "PY",
-    "region": "Distrito Capital de Paraguay",
-    "region_code": "",
-    "city": "Asuncion",
-    "latitude": -25.2637399,
-    "longitude": -57.575926,
-    "is_eu": false,
-    "postal": "1226",
-    "connection": {
-      "asn": 52468,
-      "org": "UFINET PARAGUAY S.A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://170.245.132.80:999",
-    "tested_at": "2026-02-14T00:15:02Z",
-    "ip": "170.245.132.80",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Paraguay",
-    "country_code": "PY",
-    "region": "Paraguarí",
-    "region_code": "9",
-    "city": "Carapeguá",
-    "latitude": -25.7643636,
-    "longitude": -57.2423411,
+    "region": "Central",
+    "region_code": "11",
+    "city": "Fernando De La Mora",
+    "latitude": -25.3252466,
+    "longitude": -57.5476145,
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 270096,
-      "org": "MACHADO BAEZ, NERY JAVIER LOCAL NET PARAGUAY",
-      "isp": "MACHADO BAEZ, NERY JAVIER LOCAL NET PARAGUAY",
-      "domain": "local.net.py"
+      "asn": 27895,
+      "org": "N cleo S.A.",
+      "isp": "N cleo S.A.",
+      "domain": "personal.com.py"
     }
   }
 ]

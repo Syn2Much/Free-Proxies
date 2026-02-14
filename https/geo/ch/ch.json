@@ -1,8 +1,31 @@
 [
   {
+    "proxy": "https://37.120.213.210:9443",
+    "tested_at": "2026-02-14T00:45:38Z",
+    "ip": "37.120.213.222",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "region": "Zurich",
+    "region_code": "ZH",
+    "city": "Zürich",
+    "latitude": 47.3768866,
+    "longitude": 8.541694,
+    "is_eu": false,
+    "postal": "8001",
+    "connection": {
+      "asn": 9009,
+      "org": "M LTD Zurich",
+      "isp": "M Europe SRL",
+      "domain": "m247.ro"
+    }
+  },
+  {
     "proxy": "https://37.120.213.194:9443",
-    "tested_at": "2026-02-13T23:43:03Z",
-    "ip": "37.120.213.204",
+    "tested_at": "2026-02-14T00:46:20Z",
+    "ip": "37.120.213.206",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",

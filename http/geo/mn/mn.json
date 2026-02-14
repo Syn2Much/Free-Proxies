@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://202.21.106.35:8080",
+    "tested_at": "2026-02-14T00:45:47Z",
+    "ip": "202.21.106.35",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Mongolia",
+    "country_code": "MN",
+    "region": "Ulaanbaatar",
+    "region_code": "1",
+    "city": "Ulaanbaatar",
+    "latitude": 47.8863988,
+    "longitude": 106.9057439,
+    "is_eu": false,
+    "postal": "14201",
+    "connection": {
+      "asn": 9484,
+      "org": "MobiNet Customer 1",
+      "isp": "Mobinet LLC",
+      "domain": "mobinet.mn"
+    }
+  }
+]

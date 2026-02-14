@@ -1,20 +1,20 @@
 [
   {
-    "proxy": "http://181.78.49.207:999",
-    "tested_at": "2026-02-13T23:43:08Z",
-    "ip": "181.78.49.207",
+    "proxy": "http://181.119.111.59:999",
+    "tested_at": "2026-02-14T00:45:52Z",
+    "ip": "181.119.111.59",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Guatemala",
     "country_code": "GT",
-    "region": "San Marcos",
-    "region_code": "SM",
-    "city": "San Marcos",
-    "latitude": 14.9609782,
-    "longitude": -91.8074586,
+    "region": "Quetzaltenango",
+    "region_code": "QZ",
+    "city": "Coatepeque",
+    "latitude": 14.7038002,
+    "longitude": -91.8659809,
     "is_eu": false,
-    "postal": "12001",
+    "postal": "09020",
     "connection": {
       "asn": 52468,
       "org": "Ufinet Guatemala S. A.",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://45.233.67.226:999",
-    "tested_at": "2026-02-13T23:43:11Z",
-    "ip": "45.233.64.2",
+    "proxy": "http://24.152.53.8:999",
+    "tested_at": "2026-02-14T00:46:02Z",
+    "ip": "24.152.53.3",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -39,79 +39,10 @@
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 266755,
-      "org": "CONECTIVIDAD Y TECNOLOGIA S.A.",
-      "isp": "CONECTIVIDAD Y TECNOLOGIA S.A.",
-      "domain": "fabri3d.com.ar"
-    }
-  },
-  {
-    "proxy": "http://181.119.103.237:999",
-    "tested_at": "2026-02-13T23:43:27Z",
-    "ip": "181.119.103.237",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "Guatemala Department",
-    "region_code": "GU",
-    "city": "Guatemala City",
-    "latitude": 14.6349149,
-    "longitude": -90.5068824,
-    "is_eu": false,
-    "postal": "01004",
-    "connection": {
-      "asn": 52468,
-      "org": "Ufinet Guatemala S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://167.250.222.233:999",
-    "tested_at": "2026-02-13T23:43:28Z",
-    "ip": "167.250.222.233",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "Sololá",
-    "region_code": "SO",
-    "city": "San Andrés Semetabaj",
-    "latitude": 14.7464196,
-    "longitude": -91.1329034,
-    "is_eu": false,
-    "postal": "07010",
-    "connection": {
-      "asn": 52468,
-      "org": "Ufinet Guatemala S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://181.233.62.9:999",
-    "tested_at": "2026-02-13T23:43:42Z",
-    "ip": "181.189.27.1",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "Guatemala Department",
-    "region_code": "GU",
-    "city": "Guatemala City",
-    "latitude": 14.6349149,
-    "longitude": -90.5068824,
-    "is_eu": false,
-    "postal": "01004",
-    "connection": {
-      "asn": 272061,
-      "org": "CROSS CONNECT LAC, S.A.",
-      "isp": "CROSS CONNECT LAC, S.A.",
-      "domain": "onc-latam.com"
+      "asn": 269964,
+      "org": "TV CABLE UNIVERSAL S.A",
+      "isp": "TV CABLE UNIVERSAL S.A",
+      "domain": "vosguatemala.com"
     }
   }
 ]

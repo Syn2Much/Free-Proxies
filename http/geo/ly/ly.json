@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://102.68.128.216:8080",
-    "tested_at": "2026-02-14T00:14:31Z",
-    "ip": "102.68.128.195",
+    "proxy": "http://62.68.48.22:8080",
+    "tested_at": "2026-02-14T00:46:07Z",
+    "ip": "62.68.48.22",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -17,38 +17,15 @@
     "postal": "350",
     "connection": {
       "asn": 21003,
-      "org": "For Company Use And Interface Assignments",
+      "org": "Libyan General Post And Telecommunication Company Network",
       "isp": "General Post And Telecommunication Company gptc",
-      "domain": "noclibya.com"
-    }
-  },
-  {
-    "proxy": "http://102.68.128.211:8080",
-    "tested_at": "2026-02-14T00:14:47Z",
-    "ip": "102.68.128.207",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Libya",
-    "country_code": "LY",
-    "region": "Tripoli",
-    "region_code": "TB",
-    "city": "Tripoli",
-    "latitude": 32.8872094,
-    "longitude": 13.1913383,
-    "is_eu": false,
-    "postal": "350",
-    "connection": {
-      "asn": 21003,
-      "org": "For Company Use And Interface Assignments",
-      "isp": "General Post And Telecommunication Company gptc",
-      "domain": "noclibya.com"
+      "domain": "ltt.ly"
     }
   },
   {
     "proxy": "http://102.68.128.217:8080",
-    "tested_at": "2026-02-14T00:14:51Z",
-    "ip": "102.68.128.203",
+    "tested_at": "2026-02-14T00:46:28Z",
+    "ip": "102.68.128.199",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -66,75 +43,6 @@
       "org": "For Company Use And Interface Assignments",
       "isp": "General Post And Telecommunication Company gptc",
       "domain": "noclibya.com"
-    }
-  },
-  {
-    "proxy": "http://102.38.29.36:8080",
-    "tested_at": "2026-02-14T00:14:57Z",
-    "ip": "102.38.29.36",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Libya",
-    "country_code": "LY",
-    "region": "Nuqat al Khams",
-    "region_code": "NQ",
-    "city": "Zuwara",
-    "latitude": 32.9234588,
-    "longitude": 12.0775411,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 328539,
-      "org": "Giga for Telecommunication And Technology Limited",
-      "isp": "Giga for Telecommunication And Technology Limited",
-      "domain": "giga.ly"
-    }
-  },
-  {
-    "proxy": "http://165.16.2.254:9999",
-    "tested_at": "2026-02-14T00:15:00Z",
-    "ip": "165.16.2.250",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Libya",
-    "country_code": "LY",
-    "region": "Al Hizam Al Akhdar",
-    "region_code": "HZ",
-    "city": "Qaminis",
-    "latitude": 31.661538,
-    "longitude": 20.0181673,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 37284,
-      "org": "Aljeel Aljadeed For Technology",
-      "isp": "Aljeel Aljadeed For Technology",
-      "domain": "aljeel.ly"
-    }
-  },
-  {
-    "proxy": "http://154.73.28.157:8080",
-    "tested_at": "2026-02-14T00:15:04Z",
-    "ip": "154.73.28.74",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Libya",
-    "country_code": "LY",
-    "region": "Tripoli",
-    "region_code": "TB",
-    "city": "Tripoli",
-    "latitude": 32.8872094,
-    "longitude": 13.1913383,
-    "is_eu": false,
-    "postal": "350",
-    "connection": {
-      "asn": 21003,
-      "org": "RAWAFED LIBYA",
-      "isp": "General Post And Telecommunication Company gptc",
-      "domain": "rltt.net"
     }
   }
 ]

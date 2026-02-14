@@ -1,71 +1,25 @@
 [
   {
-    "proxy": "http://45.136.198.40:3128",
-    "tested_at": "2026-02-14T00:14:30Z",
-    "ip": "45.136.198.40",
+    "proxy": "http://5.104.174.199:23500",
+    "tested_at": "2026-02-14T00:46:27Z",
+    "ip": "5.104.174.199",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Bulgaria",
     "country_code": "BG",
-    "region": "Sofia-city",
-    "region_code": "",
-    "city": "Sofia",
-    "latitude": 42.6977082,
-    "longitude": 23.3218675,
+    "region": "Dobrich",
+    "region_code": "08",
+    "city": "Dobrich",
+    "latitude": 43.57259,
+    "longitude": 27.8272606,
     "is_eu": true,
-    "postal": "1000",
+    "postal": "9300",
     "connection": {
-      "asn": 9009,
-      "org": "Iroko Networks Corporation",
-      "isp": "M Europe SRL",
-      "domain": "iroko.net"
-    }
-  },
-  {
-    "proxy": "http://77.238.79.111:8080",
-    "tested_at": "2026-02-14T00:14:45Z",
-    "ip": "77.238.79.111",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "region": "Sofia-city",
-    "region_code": "",
-    "city": "Sofia",
-    "latitude": 42.6977082,
-    "longitude": 23.3218675,
-    "is_eu": true,
-    "postal": "1000",
-    "connection": {
-      "asn": 39135,
-      "org": "FIBER1",
-      "isp": "Fiber 1 Ltd.",
-      "domain": "fiber1.bg"
-    }
-  },
-  {
-    "proxy": "http://85.217.192.39:1414",
-    "tested_at": "2026-02-14T00:14:53Z",
-    "ip": "85.217.192.39",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "region": "Veliko Tarnovo",
-    "region_code": "04",
-    "city": "Svishtov",
-    "latitude": 43.618351,
-    "longitude": 25.3506225,
-    "is_eu": true,
-    "postal": "5250",
-    "connection": {
-      "asn": 34368,
-      "org": "NETERRA THEZONE NET",
-      "isp": "Zonata Invest Sllc",
-      "domain": "neterra.net"
+      "asn": 57344,
+      "org": "Dobrudjacable Ltd.",
+      "isp": "Telehouse Ead",
+      "domain": "lir.bg"
     }
   }
 ]

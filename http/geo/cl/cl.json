@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://204.199.140.25:999",
-    "tested_at": "2026-02-14T00:14:37Z",
-    "ip": "204.199.140.26",
+    "proxy": "http://190.153.237.6:37453",
+    "tested_at": "2026-02-14T00:45:49Z",
+    "ip": "190.153.237.5",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -16,15 +16,15 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 273237,
-      "org": "INGBELL CHILE SPA",
-      "isp": "INGBELL CHILE SPA",
-      "domain": "ingbell.cl"
+      "asn": 14259,
+      "org": "Gtd Internet S.A.",
+      "isp": "Gtd Internet S.A.",
+      "domain": "gtdinternet.com"
     }
   },
   {
     "proxy": "http://38.7.195.54:999",
-    "tested_at": "2026-02-14T00:14:39Z",
+    "tested_at": "2026-02-14T00:46:07Z",
     "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
@@ -46,78 +46,9 @@
     }
   },
   {
-    "proxy": "http://45.180.26.1:999",
-    "tested_at": "2026-02-14T00:14:41Z",
-    "ip": "201.236.21.58",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Valparaiso Region",
-    "region_code": "VS",
-    "city": "La Calera",
-    "latitude": -32.7877958,
-    "longitude": -71.2039963,
-    "is_eu": false,
-    "postal": "229 0000",
-    "connection": {
-      "asn": 15311,
-      "org": "MONTALVA PROPIEDADES LTDA",
-      "isp": "TELEFONICA EMPRESAS CHILE SA",
-      "domain": "movistar.cl"
-    }
-  },
-  {
-    "proxy": "http://179.57.171.227:999",
-    "tested_at": "2026-02-14T00:14:45Z",
-    "ip": "179.57.171.227",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Araucanía Region",
-    "region_code": "AR",
-    "city": "Villarrica",
-    "latitude": -39.2820124,
-    "longitude": -72.2307798,
-    "is_eu": false,
-    "postal": "493 0611",
-    "connection": {
-      "asn": 14117,
-      "org": "Telefonica del Sur S.A",
-      "isp": "Telefonica Del Sur S.A.",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://200.39.139.65:999",
-    "tested_at": "2026-02-14T00:14:48Z",
-    "ip": "200.39.139.65",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
-    "is_eu": false,
-    "postal": "832 0202",
-    "connection": {
-      "asn": 270024,
-      "org": "ICONEX SPA",
-      "isp": "ICONEX SPA",
-      "domain": "iconex.cl"
-    }
-  },
-  {
-    "proxy": "http://38.7.195.40:999",
-    "tested_at": "2026-02-14T00:14:58Z",
-    "ip": "38.7.195.41",
+    "proxy": "http://38.7.195.50:999",
+    "tested_at": "2026-02-14T00:46:25Z",
+    "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -138,26 +69,26 @@
     }
   },
   {
-    "proxy": "http://186.67.94.10:999",
-    "tested_at": "2026-02-14T00:15:00Z",
-    "ip": "201.236.20.98",
+    "proxy": "http://186.67.47.230:999",
+    "tested_at": "2026-02-14T00:46:29Z",
+    "ip": "186.10.219.154",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Chile",
     "country_code": "CL",
-    "region": "Valparaiso Region",
-    "region_code": "VS",
-    "city": "Quillota",
-    "latitude": -32.8803027,
-    "longitude": -71.2497156,
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
     "is_eu": false,
-    "postal": "226 0000",
+    "postal": "832 0202",
     "connection": {
-      "asn": 15311,
-      "org": "MONTALVA PROPIEDADES LTDA",
-      "isp": "TELEFONICA EMPRESAS CHILE SA",
-      "domain": "movistar.cl"
+      "asn": 27651,
+      "org": "ENTEL CHILE S.A.",
+      "isp": "ENTEL CHILE S.A.",
+      "domain": "entel.cl"
     }
   }
 ]

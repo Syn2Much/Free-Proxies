@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://31.15.169.77:808",
+    "tested_at": "2026-02-14T00:46:05Z",
+    "ip": "31.15.169.77",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "region": "Ljubljana",
+    "region_code": "061",
+    "city": "Ljubljana",
+    "latitude": 46.0569465,
+    "longitude": 14.5057515,
+    "is_eu": true,
+    "postal": "1000",
+    "connection": {
+      "asn": 3212,
+      "org": "Telemach NET",
+      "isp": "Telemach Slovenija D.O.O.",
+      "domain": "telemach.si"
+    }
+  }
+]

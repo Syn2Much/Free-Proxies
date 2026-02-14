@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://144.31.0.166:3128",
-    "tested_at": "2026-02-14T00:14:21Z",
+    "tested_at": "2026-02-14T00:45:40Z",
     "ip": "144.31.0.166",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,52 @@
       "org": "H NEXUS LTD",
       "isp": "H NEXUS LTD",
       "domain": "h2.nexus"
+    }
+  },
+  {
+    "proxy": "http://148.81.121.5:8080",
+    "tested_at": "2026-02-14T00:45:58Z",
+    "ip": "148.81.121.5",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Poland",
+    "country_code": "PL",
+    "region": "Masovian Voivodeship",
+    "region_code": "14",
+    "city": "Warsaw",
+    "latitude": 52.2296756,
+    "longitude": 21.0122287,
+    "is_eu": true,
+    "postal": "00-110",
+    "connection": {
+      "asn": 1887,
+      "org": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA PANSTWOWY INSTYTUT BADAWCZY",
+      "isp": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA PANSTWOWY INSTYTUT BADAWCZY",
+      "domain": "nask.pl"
+    }
+  },
+  {
+    "proxy": "http://212.182.119.149:8080",
+    "tested_at": "2026-02-14T00:46:29Z",
+    "ip": "212.182.119.149",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Poland",
+    "country_code": "PL",
+    "region": "Lublin Voivodeship",
+    "region_code": "06",
+    "city": "Lublin",
+    "latitude": 51.2464536,
+    "longitude": 22.5684463,
+    "is_eu": true,
+    "postal": "20-484",
+    "connection": {
+      "asn": 12346,
+      "org": "Avir Sp. z o.o.",
+      "isp": "non academic part of Lublin MAN",
+      "domain": ""
     }
   }
 ]
