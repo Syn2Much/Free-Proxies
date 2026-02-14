@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://175.100.35.103:8080",
-    "tested_at": "2026-02-14T02:19:57Z",
+    "tested_at": "2026-02-14T02:50:58Z",
     "ip": "175.100.35.103",
     "success": true,
     "type": "IPv4",
@@ -23,9 +23,32 @@
     }
   },
   {
-    "proxy": "http://110.74.215.171:8080",
-    "tested_at": "2026-02-14T02:20:16Z",
-    "ip": "110.74.215.171",
+    "proxy": "http://175.100.34.177:8080",
+    "tested_at": "2026-02-14T02:51:06Z",
+    "ip": "175.100.34.177",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "region": "Phnom Penh",
+    "region_code": "12",
+    "city": "Phnom Phen City",
+    "latitude": 11.5448729,
+    "longitude": 104.8921668,
+    "is_eu": false,
+    "postal": "120603",
+    "connection": {
+      "asn": 38623,
+      "org": "VIETTEL CAMBODIA PTE., LTD.",
+      "isp": "VIETTEL CAMBODIA PTE., LTD",
+      "domain": "viettel.com.vn"
+    }
+  },
+  {
+    "proxy": "http://103.9.190.130:8080",
+    "tested_at": "2026-02-14T02:51:47Z",
+    "ip": "103.9.190.130",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",

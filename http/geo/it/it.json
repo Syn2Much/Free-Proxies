@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://15.168.235.57:38191",
-    "tested_at": "2026-02-14T01:16:50Z",
-    "ip": "64.190.76.14",
+    "proxy": "http://79.16.45.168:8080",
+    "tested_at": "2026-02-14T02:51:23Z",
+    "ip": "79.16.45.168",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Italy",
     "country_code": "IT",
-    "region": "Piemont",
-    "region_code": "21",
-    "city": "Turin",
-    "latitude": 45.070312,
-    "longitude": 7.6868565,
+    "region": "Lazio",
+    "region_code": "62",
+    "city": "Fabrica di Roma",
+    "latitude": 42.3347553,
+    "longitude": 12.2949282,
     "is_eu": true,
-    "postal": "10100",
+    "postal": "01034",
     "connection": {
-      "asn": 214094,
-      "org": "Davide Silvetti Trading AS association Osservatorio Nessuno Odv",
-      "isp": "Davide Silvetti Trading AS association Osservatorio Nessuno Odv",
-      "domain": "osservatorionessuno.org"
-    }
-  },
-  {
-    "proxy": "http://18.61.254.187:4045",
-    "tested_at": "2026-02-14T01:17:40Z",
-    "ip": "172.232.209.254",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Italy",
-    "country_code": "IT",
-    "region": "Lombardy",
-    "region_code": "25",
-    "city": "Milan",
-    "latitude": 45.4654219,
-    "longitude": 9.1859243,
-    "is_eu": true,
-    "postal": "20122",
-    "connection": {
-      "asn": 63949,
-      "org": "Linode",
-      "isp": "Akamai Technologies, Inc.",
-      "domain": "linode.com"
+      "asn": 3269,
+      "org": "Nas Dhcp Pool Bologna",
+      "isp": "Telecom Italia S.P.A.",
+      "domain": "telecomitalia.it"
     }
   }
 ]

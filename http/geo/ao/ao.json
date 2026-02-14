@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://102.207.128.2:8080",
-    "tested_at": "2026-02-14T02:19:36Z",
-    "ip": "102.207.128.2",
+    "proxy": "http://105.174.43.194:8080",
+    "tested_at": "2026-02-14T02:51:10Z",
+    "ip": "105.174.43.194",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "1120",
     "connection": {
-      "asn": 329506,
-      "org": "MSBYTE SOLUTION,LIMITADA",
-      "isp": "MSBYTE SOLUTION,LIMITADA",
-      "domain": "msbytesolution.com"
+      "asn": 37119,
+      "org": "UnitelNetworkPool",
+      "isp": "UNITEL SA",
+      "domain": ""
     }
   }
 ]

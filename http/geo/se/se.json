@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://15.160.134.84:37527",
-    "tested_at": "2026-02-14T02:19:38Z",
-    "ip": "45.84.107.128",
+    "proxy": "http://3.110.197.155:49815",
+    "tested_at": "2026-02-14T02:51:18Z",
+    "ip": "45.84.107.97",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://40.177.212.16:197",
-    "tested_at": "2026-02-14T02:19:39Z",
-    "ip": "45.84.107.33",
+    "proxy": "http://18.228.196.31:38520",
+    "tested_at": "2026-02-14T02:51:41Z",
+    "ip": "45.84.107.54",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -43,121 +43,6 @@
       "org": "R0CKET CLOUD",
       "isp": "Quxlabs Ab",
       "domain": "quxlabs.com"
-    }
-  },
-  {
-    "proxy": "http://18.163.3.251:8168",
-    "tested_at": "2026-02-14T02:19:39Z",
-    "ip": "45.84.107.198",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Sundbyberg",
-    "latitude": 59.3670471,
-    "longitude": 17.9663093,
-    "is_eu": true,
-    "postal": "172 31",
-    "connection": {
-      "asn": 214503,
-      "org": "R0CKET CLOUD",
-      "isp": "Quxlabs Ab",
-      "domain": "quxlabs.com"
-    }
-  },
-  {
-    "proxy": "http://18.60.222.217:16825",
-    "tested_at": "2026-02-14T02:19:49Z",
-    "ip": "193.189.100.197",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Stockholm",
-    "latitude": 59.3293235,
-    "longitude": 18.0685808,
-    "is_eu": true,
-    "postal": "111 29",
-    "connection": {
-      "asn": 41281,
-      "org": "Keff Networks LTD",
-      "isp": "Keff Networks LTD",
-      "domain": "keff.org"
-    }
-  },
-  {
-    "proxy": "http://95.40.79.184:733",
-    "tested_at": "2026-02-14T02:19:49Z",
-    "ip": "45.84.107.47",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Sundbyberg",
-    "latitude": 59.3670471,
-    "longitude": 17.9663093,
-    "is_eu": true,
-    "postal": "172 31",
-    "connection": {
-      "asn": 214503,
-      "org": "R0CKET CLOUD",
-      "isp": "Quxlabs Ab",
-      "domain": "quxlabs.com"
-    }
-  },
-  {
-    "proxy": "http://193.181.35.95:8118",
-    "tested_at": "2026-02-14T02:20:00Z",
-    "ip": "193.181.35.95",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Stockholm",
-    "latitude": 59.3293235,
-    "longitude": 18.0685808,
-    "is_eu": true,
-    "postal": "111 29",
-    "connection": {
-      "asn": 42201,
-      "org": "Pvdatanet Ab",
-      "isp": "Pvdatanet Ab",
-      "domain": "pvdatanet.com"
-    }
-  },
-  {
-    "proxy": "http://109.120.135.230:2030",
-    "tested_at": "2026-02-14T02:20:00Z",
-    "ip": "109.120.135.230",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Stockholm",
-    "latitude": 59.3293235,
-    "longitude": 18.0685808,
-    "is_eu": true,
-    "postal": "111 29",
-    "connection": {
-      "asn": 210644,
-      "org": "Aeza International LTD",
-      "isp": "AEZA INTERNATIONAL LTD",
-      "domain": "aeza.net"
     }
   }
 ]

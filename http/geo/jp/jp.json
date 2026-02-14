@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://20.78.118.91:8561",
-    "tested_at": "2026-02-14T02:19:36Z",
-    "ip": "20.78.26.206",
+    "proxy": "http://20.27.14.220:8561",
+    "tested_at": "2026-02-14T02:50:57Z",
+    "ip": "20.27.15.111",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -23,8 +23,31 @@
     }
   },
   {
+    "proxy": "http://20.27.15.111:8561",
+    "tested_at": "2026-02-14T02:50:58Z",
+    "ip": "20.222.217.57",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Shibuya City",
+    "latitude": 35.6549037,
+    "longitude": 139.6945698,
+    "is_eu": false,
+    "postal": "150-0036",
+    "connection": {
+      "asn": 8075,
+      "org": "Microsoft Corporation",
+      "isp": "Microsoft Corporation",
+      "domain": "microsoft.com"
+    }
+  },
+  {
     "proxy": "http://8.209.255.13:3128",
-    "tested_at": "2026-02-14T02:19:38Z",
+    "tested_at": "2026-02-14T02:51:08Z",
     "ip": "8.209.255.13",
     "success": true,
     "type": "IPv4",
@@ -46,9 +69,9 @@
     }
   },
   {
-    "proxy": "http://94.177.131.12:3128",
-    "tested_at": "2026-02-14T02:19:44Z",
-    "ip": "94.177.131.12",
+    "proxy": "http://140.227.61.201:3128",
+    "tested_at": "2026-02-14T02:51:09Z",
+    "ip": "140.227.61.201",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -56,44 +79,21 @@
     "country_code": "JP",
     "region": "Tokyo",
     "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
+    "city": "Chiyoda",
+    "latitude": 35.6940027,
+    "longitude": 139.7535951,
     "is_eu": false,
-    "postal": "100-0002",
+    "postal": "100-0003",
     "connection": {
-      "asn": 199524,
-      "org": "G core Labs S.A.",
-      "isp": "G core Labs S.A.",
-      "domain": "gcore.com"
-    }
-  },
-  {
-    "proxy": "http://47.245.30.253:8080",
-    "tested_at": "2026-02-14T02:19:55Z",
-    "ip": "47.245.30.253",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Shibuya City",
-    "latitude": 35.6549037,
-    "longitude": 139.6945698,
-    "is_eu": false,
-    "postal": "150-0036",
-    "connection": {
-      "asn": 45102,
-      "org": "Alibaba Cloud Jp",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibabacloud.com"
+      "asn": 2514,
+      "org": "Infosphere nttpc Communications, Inc.",
+      "isp": "NTT Pc Communications, Inc.",
+      "domain": "nttpc.co.jp"
     }
   },
   {
     "proxy": "http://43.167.193.58:3128",
-    "tested_at": "2026-02-14T02:19:58Z",
+    "tested_at": "2026-02-14T02:51:18Z",
     "ip": "43.167.193.58",
     "success": true,
     "type": "IPv4",
@@ -115,9 +115,9 @@
     }
   },
   {
-    "proxy": "http://162.43.36.42:8080",
-    "tested_at": "2026-02-14T02:20:05Z",
-    "ip": "162.43.36.42",
+    "proxy": "http://94.177.131.12:3128",
+    "tested_at": "2026-02-14T02:51:29Z",
+    "ip": "94.177.131.12",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -125,21 +125,90 @@
     "country_code": "JP",
     "region": "Tokyo",
     "region_code": "13",
-    "city": "Chiyoda",
-    "latitude": 35.6940027,
-    "longitude": 139.7535951,
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
     "is_eu": false,
-    "postal": "100-0003",
+    "postal": "100-0002",
     "connection": {
-      "asn": 131965,
-      "org": "Xserver Inc.",
-      "isp": "Xserver Inc.",
-      "domain": "xserver.co.jp"
+      "asn": 199524,
+      "org": "G core Labs S.A.",
+      "isp": "G core Labs S.A.",
+      "domain": "gcore.com"
+    }
+  },
+  {
+    "proxy": "http://47.79.91.116:1122",
+    "tested_at": "2026-02-14T02:51:31Z",
+    "ip": "47.79.91.116",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
+    "is_eu": false,
+    "postal": "100-0002",
+    "connection": {
+      "asn": 45102,
+      "org": "Alibaba Cloud LLC",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibaba-inc.com"
+    }
+  },
+  {
+    "proxy": "http://20.210.39.153:8561",
+    "tested_at": "2026-02-14T02:51:36Z",
+    "ip": "20.78.118.91",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
+    "is_eu": false,
+    "postal": "100-0002",
+    "connection": {
+      "asn": 8075,
+      "org": "Microsoft Corporation",
+      "isp": "Microsoft Corporation",
+      "domain": "microsoft.com"
+    }
+  },
+  {
+    "proxy": "http://47.79.95.136:1122",
+    "tested_at": "2026-02-14T02:51:38Z",
+    "ip": "47.79.95.136",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
+    "is_eu": false,
+    "postal": "100-0002",
+    "connection": {
+      "asn": 45102,
+      "org": "Alibaba Cloud LLC",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibaba-inc.com"
     }
   },
   {
     "proxy": "http://150.230.104.3:16728",
-    "tested_at": "2026-02-14T02:20:13Z",
+    "tested_at": "2026-02-14T02:51:43Z",
     "ip": "150.230.104.3",
     "success": true,
     "type": "IPv4",
@@ -161,9 +230,9 @@
     }
   },
   {
-    "proxy": "http://20.27.14.220:8561",
-    "tested_at": "2026-02-14T02:20:30Z",
-    "ip": "20.27.40.156",
+    "proxy": "http://20.78.26.206:8561",
+    "tested_at": "2026-02-14T02:51:46Z",
+    "ip": "20.78.118.91",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",

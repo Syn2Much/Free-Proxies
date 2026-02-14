@@ -1,31 +1,31 @@
 [
   {
-    "proxy": "http://38.159.62.32:999",
-    "tested_at": "2026-02-14T02:19:40Z",
-    "ip": "38.159.62.225",
+    "proxy": "http://38.41.12.88:999",
+    "tested_at": "2026-02-14T02:51:03Z",
+    "ip": "38.41.12.89",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Venezuela",
     "country_code": "VE",
-    "region": "Lara State",
-    "region_code": "K",
-    "city": "Barquisimeto",
-    "latitude": 10.0677719,
-    "longitude": -69.3473509,
+    "region": "Capital District",
+    "region_code": "A",
+    "city": "Caracas",
+    "latitude": 10.4805937,
+    "longitude": -66.9036063,
     "is_eu": false,
-    "postal": "3001",
+    "postal": "1012",
     "connection": {
-      "asn": 269946,
-      "org": "Boom Solutions C.A.",
-      "isp": "BOOM SOLUTIONS C.A.",
-      "domain": "boomsolutionspr.com"
+      "asn": 269832,
+      "org": "Mds Telecom",
+      "isp": "MDS TELECOM C.A.",
+      "domain": "mdstelecom.com.ve"
     }
   },
   {
-    "proxy": "http://190.94.212.82:999",
-    "tested_at": "2026-02-14T02:19:51Z",
-    "ip": "190.94.212.85",
+    "proxy": "http://190.94.213.78:999",
+    "tested_at": "2026-02-14T02:51:07Z",
+    "ip": "190.94.213.76",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -46,55 +46,9 @@
     }
   },
   {
-    "proxy": "http://138.59.10.112:999",
-    "tested_at": "2026-02-14T02:20:11Z",
-    "ip": "138.59.10.8",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Carabobo State",
-    "region_code": "G",
-    "city": "Valencia",
-    "latitude": 10.1579312,
-    "longitude": -67.9972104,
-    "is_eu": false,
-    "postal": "2001",
-    "connection": {
-      "asn": 269788,
-      "org": "Fonet",
-      "isp": "DISTRIBUIDORA OFIC TECH DE VENEZUELA C.A.",
-      "domain": "fonet.com.ve"
-    }
-  },
-  {
-    "proxy": "http://138.118.200.49:999",
-    "tested_at": "2026-02-14T02:20:11Z",
-    "ip": "138.118.200.80",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Zulia State",
-    "region_code": "V",
-    "city": "La Concepcion",
-    "latitude": 10.4136422,
-    "longitude": -71.6999646,
-    "is_eu": false,
-    "postal": "4033",
-    "connection": {
-      "asn": 270073,
-      "org": "IGUANA NETWORK SERVICES C.A.",
-      "isp": "IGUANA NETWORK SERVICES C.A.",
-      "domain": "iguananetworkservices.net"
-    }
-  },
-  {
-    "proxy": "http://190.52.110.31:999",
-    "tested_at": "2026-02-14T02:20:11Z",
-    "ip": "190.52.110.26",
+    "proxy": "http://45.230.169.129:999",
+    "tested_at": "2026-02-14T02:51:44Z",
+    "ip": "45.230.169.130",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -108,39 +62,16 @@
     "is_eu": false,
     "postal": "1012",
     "connection": {
-      "asn": 394684,
-      "org": "Gold Data Inc.",
-      "isp": "GOLD DATA USA INC",
-      "domain": "gold-data.net"
+      "asn": 266742,
+      "org": "SOLUCIONES DCN NETWORK C.A",
+      "isp": "SOLUCIONES DCN NETWORK C.A",
+      "domain": ""
     }
   },
   {
-    "proxy": "http://38.159.63.8:999",
-    "tested_at": "2026-02-14T02:20:24Z",
-    "ip": "38.159.63.8",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Lara State",
-    "region_code": "K",
-    "city": "Barquisimeto",
-    "latitude": 10.0677719,
-    "longitude": -69.3473509,
-    "is_eu": false,
-    "postal": "3001",
-    "connection": {
-      "asn": 269946,
-      "org": "Boom Solutions C.A.",
-      "isp": "BOOM SOLUTIONS C.A.",
-      "domain": "boomsolutionspr.com"
-    }
-  },
-  {
-    "proxy": "http://190.97.239.40:999",
-    "tested_at": "2026-02-14T02:20:24Z",
-    "ip": "190.97.239.47",
+    "proxy": "http://190.94.213.80:999",
+    "tested_at": "2026-02-14T02:51:46Z",
+    "ip": "190.94.213.80",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -154,10 +85,10 @@
     "is_eu": false,
     "postal": "1012",
     "connection": {
-      "asn": 263703,
-      "org": "VIGINET C.A",
-      "isp": "VIGINET C.A",
-      "domain": "viginet.com.ve"
+      "asn": 8053,
+      "org": "Ifx Networks Venezuela C.A.",
+      "isp": "Ifx Networks Venezuela C.A.",
+      "domain": "ifxnw.com.ve"
     }
   }
 ]

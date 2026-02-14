@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://67.43.236.18:15307",
-    "tested_at": "2026-02-14T02:19:38Z",
-    "ip": "103.233.207.42",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Myanmar [Burma]",
-    "country_code": "MM",
-    "region": "Yangon",
-    "region_code": "06",
-    "city": "Yangon",
-    "latitude": 16.7636231,
-    "longitude": 96.1114652,
-    "is_eu": false,
-    "postal": "00000",
-    "connection": {
-      "asn": 133524,
-      "org": "Route Object for Global Technology",
-      "isp": "Global Technology Co., Ltd.",
-      "domain": "globalnetmm.com"
-    }
-  },
-  {
-    "proxy": "http://136.228.160.250:8080",
-    "tested_at": "2026-02-14T02:19:50Z",
-    "ip": "136.228.160.250",
+    "proxy": "http://203.81.69.126:1248",
+    "tested_at": "2026-02-14T02:51:51Z",
+    "ip": "203.81.69.126",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -40,7 +17,7 @@
     "postal": "00000",
     "connection": {
       "asn": 9988,
-      "org": "Myanma Post Telecommunication",
+      "org": "Myanma Post And Telecommunication",
       "isp": "Myanma Post Telecommunication",
       "domain": "mptjo.com.mm"
     }

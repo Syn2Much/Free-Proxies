@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://94.159.112.138:3129",
+    "tested_at": "2026-02-14T02:50:57Z",
+    "ip": "94.159.112.138",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Finland",
+    "country_code": "FI",
+    "region": "Mainland Finland",
+    "region_code": "",
+    "city": "Helsinki",
+    "latitude": 60.1698557,
+    "longitude": 24.938379,
+    "is_eu": true,
+    "postal": "02101",
+    "connection": {
+      "asn": 216300,
+      "org": "New Hosting Technologies LLC",
+      "isp": "Closed Joint Stock Company Abkhazmedia",
+      "domain": "landvps.ru"
+    }
+  },
+  {
     "proxy": "http://65.108.159.129:8081",
-    "tested_at": "2026-02-14T02:19:32Z",
+    "tested_at": "2026-02-14T02:50:59Z",
     "ip": "65.108.159.129",
     "success": true,
     "type": "IPv4",
@@ -23,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://185.88.101.227:3128",
-    "tested_at": "2026-02-14T02:20:01Z",
-    "ip": "185.88.101.227",
+    "proxy": "http://193.47.60.119:52681",
+    "tested_at": "2026-02-14T02:51:00Z",
+    "ip": "193.47.60.119",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",

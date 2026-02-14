@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://46.161.195.133:8080",
-    "tested_at": "2026-02-14T02:19:44Z",
-    "ip": "46.161.195.133",
+    "proxy": "http://185.166.24.221:1981",
+    "tested_at": "2026-02-14T02:51:06Z",
+    "ip": "185.166.25.201",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Iraqi Kurdistan Region",
+    "region_code": "",
+    "city": "Qalat Dizah",
+    "latitude": 36.1754734,
+    "longitude": 45.1333303,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 207097,
+      "org": "RANGE",
+      "isp": "Online Company for Technological Information, Supply of Electronic Equipment And Internet Services Through Wifi Ltd.",
+      "domain": "onlineco.net"
+    }
+  },
+  {
+    "proxy": "http://46.161.196.139:8080",
+    "tested_at": "2026-02-14T02:51:32Z",
+    "ip": "46.161.196.139",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -23,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://65.20.154.62:28080",
-    "tested_at": "2026-02-14T02:20:04Z",
-    "ip": "65.20.154.62",
+    "proxy": "http://37.238.45.74:8080",
+    "tested_at": "2026-02-14T02:51:42Z",
+    "ip": "37.238.45.74",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,15 +62,15 @@
     "is_eu": false,
     "postal": "10001",
     "connection": {
-      "asn": 203214,
-      "org": "Earthlink Telecommunications Equipment Trading Services Dmcc",
-      "isp": "Hulum Almustakbal Company for Communication Engineering And Services LTD",
+      "asn": 199739,
+      "org": "Earthlink Ltd. Communications internet Services",
+      "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
       "domain": "earthlink.iq"
     }
   },
   {
     "proxy": "http://37.237.224.164:8080",
-    "tested_at": "2026-02-14T02:20:10Z",
+    "tested_at": "2026-02-14T02:51:48Z",
     "ip": "37.237.224.164",
     "success": true,
     "type": "IPv4",
@@ -66,6 +89,29 @@
       "org": "Earthlink Ltd. Communications internet Services orange",
       "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
       "domain": "earthlink.iq"
+    }
+  },
+  {
+    "proxy": "http://185.138.120.109:8080",
+    "tested_at": "2026-02-14T02:51:48Z",
+    "ip": "93.180.217.20",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Karbala",
+    "region_code": "KA",
+    "city": "Karbala",
+    "latitude": 32.6068464,
+    "longitude": 44.0103922,
+    "is_eu": false,
+    "postal": "56001",
+    "connection": {
+      "asn": 203217,
+      "org": "Horizon Scope Mobile Telecom Wll",
+      "isp": "Horizon Scope Mobile Telecom Wll",
+      "domain": "horizonscope.com"
     }
   }
 ]

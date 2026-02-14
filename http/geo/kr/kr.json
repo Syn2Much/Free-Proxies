@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://72.10.164.178:23407",
+    "tested_at": "2026-02-14T02:50:59Z",
+    "ip": "114.203.67.198",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "",
+    "region_code": "",
+    "city": "Seoul",
+    "latitude": 37.566535,
+    "longitude": 126.9779692,
+    "is_eu": false,
+    "postal": "04523",
+    "connection": {
+      "asn": 9318,
+      "org": "broadNnet",
+      "isp": "Sk Broadband Co LTD",
+      "domain": ""
+    }
+  },
+  {
     "proxy": "http://210.223.44.230:3128",
-    "tested_at": "2026-02-14T02:19:27Z",
+    "tested_at": "2026-02-14T02:51:28Z",
     "ip": "210.223.44.230",
     "success": true,
     "type": "IPv4",
@@ -23,54 +46,8 @@
     }
   },
   {
-    "proxy": "http://211.230.49.122:3128",
-    "tested_at": "2026-02-14T02:19:48Z",
-    "ip": "211.230.49.122",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Republic of Korea",
-    "country_code": "KR",
-    "region": "Gyeonggi",
-    "region_code": "41",
-    "city": "Seongnam-si",
-    "latitude": 37.4449168,
-    "longitude": 127.1388684,
-    "is_eu": false,
-    "postal": "13437",
-    "connection": {
-      "asn": 4766,
-      "org": "Kornet",
-      "isp": "Korea Telecom",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://183.98.143.134:8037",
-    "tested_at": "2026-02-14T02:19:53Z",
-    "ip": "218.159.161.55",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Republic of Korea",
-    "country_code": "KR",
-    "region": "Gyeonggi",
-    "region_code": "41",
-    "city": "Seongnam-si",
-    "latitude": 37.4449168,
-    "longitude": 127.1388684,
-    "is_eu": false,
-    "postal": "13437",
-    "connection": {
-      "asn": 4766,
-      "org": "Kornet",
-      "isp": "Korea Telecom",
-      "domain": ""
-    }
-  },
-  {
     "proxy": "http://8.213.151.128:3128",
-    "tested_at": "2026-02-14T02:19:57Z",
+    "tested_at": "2026-02-14T02:51:31Z",
     "ip": "8.213.151.128",
     "success": true,
     "type": "IPv4",
@@ -93,7 +70,7 @@
   },
   {
     "proxy": "http://121.187.175.106:9877",
-    "tested_at": "2026-02-14T02:19:58Z",
+    "tested_at": "2026-02-14T02:51:38Z",
     "ip": "121.187.175.106",
     "success": true,
     "type": "IPv4",

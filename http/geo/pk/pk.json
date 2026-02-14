@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://67.43.236.20:31429",
-    "tested_at": "2026-02-14T02:19:28Z",
-    "ip": "103.125.177.48",
+    "proxy": "http://103.155.62.141:8081",
+    "tested_at": "2026-02-14T02:51:00Z",
+    "ip": "103.155.62.141",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,16 +16,16 @@
     "is_eu": false,
     "postal": "54000",
     "connection": {
-      "asn": 136969,
-      "org": "KK Networks",
-      "isp": "KK Networks pvt Ltd.",
-      "domain": "kknetworks.com.pk"
+      "asn": 152605,
+      "org": "Hometelecom Pvt LTD",
+      "isp": "Z COM NETWORKS",
+      "domain": "hometel.pk"
     }
   },
   {
-    "proxy": "http://103.153.39.35:8083",
-    "tested_at": "2026-02-14T02:20:16Z",
-    "ip": "103.153.39.35",
+    "proxy": "http://110.39.183.34:8080",
+    "tested_at": "2026-02-14T02:51:05Z",
+    "ip": "110.39.183.34",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -33,16 +33,16 @@
     "country_code": "PK",
     "region": "Punjab",
     "region_code": "PB",
-    "city": "Burewala",
-    "latitude": 30.1592839,
-    "longitude": 72.694262,
+    "city": "Lahore",
+    "latitude": 31.5546061,
+    "longitude": 74.3571581,
     "is_eu": false,
-    "postal": "78646",
+    "postal": "54000",
     "connection": {
-      "asn": 140900,
-      "org": "Getlinks smc private Limited Market",
-      "isp": "Getlinks smc private Limited",
-      "domain": "getlinks.net.pk"
+      "asn": 38264,
+      "org": "National Wimax ims Environment",
+      "isp": "Wateen Telecom Limited",
+      "domain": "wateen.com"
     }
   }
 ]

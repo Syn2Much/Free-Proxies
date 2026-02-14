@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://170.80.203.45:999",
-    "tested_at": "2026-02-14T02:19:32Z",
-    "ip": "170.80.203.34",
+    "proxy": "http://38.156.237.214:999",
+    "tested_at": "2026-02-14T02:51:09Z",
+    "ip": "38.156.237.214",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Distrito Nacional",
+    "region_code": "01",
+    "city": "Santo Domingo",
+    "latitude": 18.4860575,
+    "longitude": -69.9312117,
+    "is_eu": false,
+    "postal": "10119",
+    "connection": {
+      "asn": 272882,
+      "org": "BITNET DOMINICANA, S.R.L.",
+      "isp": "BITNET DOMINICANA, S.R.L.",
+      "domain": "bitnet.com.do"
+    }
+  },
+  {
+    "proxy": "http://170.80.202.217:999",
+    "tested_at": "2026-02-14T02:51:10Z",
+    "ip": "170.80.202.221",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -23,32 +46,9 @@
     }
   },
   {
-    "proxy": "http://200.125.170.221:999",
-    "tested_at": "2026-02-14T02:19:45Z",
-    "ip": "200.125.170.218",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Monte Plata",
-    "region_code": "29",
-    "city": "Mejía de Navarrete",
-    "latitude": 18.735693,
-    "longitude": -70.162651,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 269931,
-      "org": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
-      "isp": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
-      "domain": "wmservice.com.do"
-    }
-  },
-  {
-    "proxy": "http://190.110.35.229:999",
-    "tested_at": "2026-02-14T02:20:18Z",
-    "ip": "168.196.124.138",
+    "proxy": "http://168.196.124.164:999",
+    "tested_at": "2026-02-14T02:51:13Z",
+    "ip": "168.196.124.162",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -66,6 +66,52 @@
       "org": "COMCAST SRL",
       "isp": "COMCAST SRL",
       "domain": "comcast-srl.com"
+    }
+  },
+  {
+    "proxy": "http://38.253.86.11:999",
+    "tested_at": "2026-02-14T02:51:24Z",
+    "ip": "38.253.86.13",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Puerto Plata",
+    "region_code": "18",
+    "city": "Maimón",
+    "latitude": 19.8224199,
+    "longitude": -70.7792902,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 273048,
+      "org": "Cogent Communications",
+      "isp": "WIMAS, S.R.L.",
+      "domain": "wimas-srl.com"
+    }
+  },
+  {
+    "proxy": "http://38.156.235.35:999",
+    "tested_at": "2026-02-14T02:51:33Z",
+    "ip": "38.156.235.34",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "San Pedro de Macoris",
+    "region_code": "23",
+    "city": "San Pedro De Macoris",
+    "latitude": 18.4720698,
+    "longitude": -69.2996732,
+    "is_eu": false,
+    "postal": "21000",
+    "connection": {
+      "asn": 272882,
+      "org": "BITNET DOMINICANA, S.R.L.",
+      "isp": "BITNET DOMINICANA, S.R.L.",
+      "domain": "bitnet.com.do"
     }
   }
 ]

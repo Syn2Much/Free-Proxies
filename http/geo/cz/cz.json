@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://185.115.74.185:8080",
-    "tested_at": "2026-02-14T02:19:26Z",
+    "tested_at": "2026-02-14T02:50:57Z",
     "ip": "185.115.75.43",
     "success": true,
     "type": "IPv4",
@@ -23,26 +23,26 @@
     }
   },
   {
-    "proxy": "http://185.100.196.128:8080",
-    "tested_at": "2026-02-14T02:20:24Z",
-    "ip": "185.100.196.128",
+    "proxy": "http://188.119.98.126:9999",
+    "tested_at": "2026-02-14T02:51:29Z",
+    "ip": "188.119.98.126",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Czech Republic",
     "country_code": "CZ",
-    "region": "Prague",
-    "region_code": "PR",
-    "city": "Prague",
-    "latitude": 50.0755381,
-    "longitude": 14.4378005,
+    "region": "Central Moravia",
+    "region_code": "",
+    "city": "Boršice",
+    "latitude": 49.062543,
+    "longitude": 17.3508527,
     "is_eu": true,
-    "postal": "74864",
+    "postal": "687 09",
     "connection": {
-      "asn": 200635,
-      "org": "CGNAT POOL",
-      "isp": "Pragmatel S.R.O.",
-      "domain": "pragmatel.cz"
+      "asn": 42908,
+      "org": "O Czech Republic, A.S.",
+      "isp": "O Czech Republic, A.S.",
+      "domain": "o2.cz"
     }
   }
 ]

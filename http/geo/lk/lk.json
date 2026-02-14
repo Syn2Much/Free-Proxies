@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://72.10.160.172:5837",
+    "tested_at": "2026-02-14T02:51:29Z",
+    "ip": "61.245.170.95",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "region": "Western Province",
+    "region_code": "1",
+    "city": "Colombo",
+    "latitude": 6.9270786,
+    "longitude": 79.861243,
+    "is_eu": false,
+    "postal": "83400-000",
+    "connection": {
+      "asn": 45356,
+      "org": "Mobitel Pvt LTD",
+      "isp": "Mobitel Pvt LTD",
+      "domain": "mobitel.lk"
+    }
+  }
+]

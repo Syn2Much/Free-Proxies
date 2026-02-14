@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "https://54.90.159.174:57825",
-    "tested_at": "2026-02-14T01:48:47Z",
-    "ip": "31.133.0.235",
+    "proxy": "http://78.9.232.205:8080",
+    "tested_at": "2026-02-14T02:51:38Z",
+    "ip": "78.9.232.205",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Poland",
     "country_code": "PL",
-    "region": "Greater Poland Voivodeship",
-    "region_code": "30",
-    "city": "Poznań",
-    "latitude": 52.406374,
-    "longitude": 16.9251681,
+    "region": "West Pomeranian Voivodeship",
+    "region_code": "32",
+    "city": "Swinoujscie",
+    "latitude": 53.9100327,
+    "longitude": 14.2475775,
     "is_eu": true,
-    "postal": "61-772",
+    "postal": "72-600",
     "connection": {
-      "asn": 51290,
-      "org": "Bartosz Waszak Trading AS Hosteam S.C. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski",
-      "isp": "Bartosz Waszak Trading AS Hosteam S.C. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski",
-      "domain": "hosteam.pl"
+      "asn": 12741,
+      "org": "Dynamic Broadband Services",
+      "isp": "Netia SA",
+      "domain": "netia.pl"
     }
   }
 ]

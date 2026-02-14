@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://61.29.96.146:8000",
-    "tested_at": "2026-02-14T02:19:35Z",
-    "ip": "61.29.96.146",
+    "proxy": "http://72.10.160.90:11015",
+    "tested_at": "2026-02-14T02:51:08Z",
+    "ip": "119.17.144.212",
     "success": true,
     "type": "IPv4",
     "continent": "Oceania",
@@ -10,62 +10,16 @@
     "country_code": "AU",
     "region": "Victoria",
     "region_code": "VIC",
-    "city": "Hawthorn",
-    "latitude": -37.826,
-    "longitude": 145.034,
+    "city": "North Shore",
+    "latitude": -38.0999089,
+    "longitude": 144.366036,
     "is_eu": false,
-    "postal": "3122",
+    "postal": "3214",
     "connection": {
-      "asn": 2764,
-      "org": "Aapt Limited",
-      "isp": "Aapt Limited",
-      "domain": "powertel.co.zw"
-    }
-  },
-  {
-    "proxy": "http://61.29.96.146:80",
-    "tested_at": "2026-02-14T02:19:44Z",
-    "ip": "61.29.96.146",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Oceania",
-    "country": "Australia",
-    "country_code": "AU",
-    "region": "Victoria",
-    "region_code": "VIC",
-    "city": "Hawthorn",
-    "latitude": -37.826,
-    "longitude": 145.034,
-    "is_eu": false,
-    "postal": "3122",
-    "connection": {
-      "asn": 2764,
-      "org": "Aapt Limited",
-      "isp": "Aapt Limited",
-      "domain": "powertel.co.zw"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:13863",
-    "tested_at": "2026-02-14T02:20:01Z",
-    "ip": "1.121.144.72",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Oceania",
-    "country": "Australia",
-    "country_code": "AU",
-    "region": "South Australia",
-    "region_code": "SA",
-    "city": "Tanunda",
-    "latitude": -34.5200776,
-    "longitude": 138.9626892,
-    "is_eu": false,
-    "postal": "5352",
-    "connection": {
-      "asn": 1221,
-      "org": "Telstra Limited",
-      "isp": "Telstra Limited",
-      "domain": "telstra.net"
+      "asn": 4764,
+      "org": "Aussie Broadband",
+      "isp": "Wideband Networks Pty LTD",
+      "domain": "aussiebroadband.com.au"
     }
   }
 ]
