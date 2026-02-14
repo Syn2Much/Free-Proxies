@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://2.139.62.85:3128",
-    "tested_at": "2026-02-14T20:30:55Z",
-    "ip": "2.139.62.85",
+    "proxy": "http://188.227.140.181:8080",
+    "tested_at": "2026-02-14T21:01:30Z",
+    "ip": "188.227.140.181",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +16,33 @@
     "is_eu": true,
     "postal": "28080",
     "connection": {
-      "asn": 3352,
-      "org": "Red De Servicios Ip",
-      "isp": "TELEFONICA DE ESPANA S.A.U.",
-      "domain": "telefonica.es"
+      "asn": 56882,
+      "org": "AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+      "isp": "AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+      "domain": "airenetworks.es"
+    }
+  },
+  {
+    "proxy": "http://90.174.128.42:3128",
+    "tested_at": "2026-02-14T21:02:14Z",
+    "ip": "90.174.128.42",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Spain",
+    "country_code": "ES",
+    "region": "Madrid",
+    "region_code": "M",
+    "city": "Madrid",
+    "latitude": 40.4167754,
+    "longitude": -3.7037902,
+    "is_eu": true,
+    "postal": "28080",
+    "connection": {
+      "asn": 12479,
+      "org": "Orange Adsl User",
+      "isp": "Orange Espagne SA",
+      "domain": "orange.com"
     }
   }
 ]

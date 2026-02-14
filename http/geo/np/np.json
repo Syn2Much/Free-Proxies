@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://116.90.224.50:8080",
-    "tested_at": "2026-02-14T20:30:14Z",
-    "ip": "116.90.224.50",
+    "proxy": "http://43.245.85.46:808",
+    "tested_at": "2026-02-14T21:02:15Z",
+    "ip": "43.245.85.46",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,16 +10,16 @@
     "country_code": "NP",
     "region": "Bagmati Pradesh",
     "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
+    "city": "Patan",
+    "latitude": 27.6644011,
+    "longitude": 85.3187914,
     "is_eu": false,
-    "postal": "46600",
+    "postal": "44707",
     "connection": {
-      "asn": 24550,
-      "org": "Websurfer Nepal Communication System Pvt. LTD",
-      "isp": "Websurfer Nepal Communication System Pvt. LTD",
-      "domain": "websurfer.com.np"
+      "asn": 45650,
+      "org": "VIA NET COMMUNICATION PUBLIC LIMITED",
+      "isp": "VIA NET COMMUNICATION PUBLIC LIMITED",
+      "domain": "vianet.com.np"
     }
   }
 ]

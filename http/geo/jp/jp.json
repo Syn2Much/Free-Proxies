@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://8.209.255.13:3128",
-    "tested_at": "2026-02-14T20:30:09Z",
-    "ip": "8.209.255.13",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Shibuya City",
-    "latitude": 35.6549037,
-    "longitude": 139.6945698,
-    "is_eu": false,
-    "postal": "150-0036",
-    "connection": {
-      "asn": 45102,
-      "org": "Shiodome Sumitomo Blog 1 Tokyo",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibaba-inc.com"
-    }
-  },
-  {
     "proxy": "http://150.230.104.3:16728",
-    "tested_at": "2026-02-14T20:30:22Z",
+    "tested_at": "2026-02-14T21:01:35Z",
     "ip": "150.230.104.3",
     "success": true,
     "type": "IPv4",
@@ -43,6 +20,29 @@
       "org": "Oracle Corporation",
       "isp": "Oracle Corporation",
       "domain": "oracle.com"
+    }
+  },
+  {
+    "proxy": "http://61.118.38.234:60808",
+    "tested_at": "2026-02-14T21:02:10Z",
+    "ip": "61.118.38.234",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Chiba Prefecture",
+    "region_code": "12",
+    "city": "Funabashi",
+    "latitude": 35.6999967,
+    "longitude": 139.9868982,
+    "is_eu": false,
+    "postal": "273-0005",
+    "connection": {
+      "asn": 4713,
+      "org": "Open Computer Network",
+      "isp": "NTT Docomo Business,inc.",
+      "domain": "ntt.com"
     }
   }
 ]

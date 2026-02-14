@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://47.243.92.199:3128",
-    "tested_at": "2026-02-14T20:30:30Z",
+    "tested_at": "2026-02-14T21:01:52Z",
     "ip": "47.243.92.199",
     "success": true,
     "type": "IPv4",
@@ -24,7 +24,7 @@
   },
   {
     "proxy": "http://101.47.73.135:3128",
-    "tested_at": "2026-02-14T20:31:03Z",
+    "tested_at": "2026-02-14T21:02:04Z",
     "ip": "101.47.73.135",
     "success": true,
     "type": "IPv4",
@@ -43,6 +43,29 @@
       "org": "BYTEPLUS",
       "isp": "Byteplus Pte. Ltd.",
       "domain": "bytedance.com"
+    }
+  },
+  {
+    "proxy": "http://34.96.238.40:8080",
+    "tested_at": "2026-02-14T21:02:09Z",
+    "ip": "34.96.238.40",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.276022,
+    "longitude": 114.1751471,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 396982,
+      "org": "Google LLC",
+      "isp": "Google LLC",
+      "domain": "google.com"
     }
   }
 ]

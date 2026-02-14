@@ -1,76 +1,7 @@
 [
   {
-    "proxy": "http://145.40.68.148:9400",
-    "tested_at": "2026-02-14T20:30:13Z",
-    "ip": "145.40.68.148",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 15830,
-      "org": "Equinix Services, Inc.",
-      "isp": "Equinix emea Acquisition Enterprises B.V.",
-      "domain": "packet.net"
-    }
-  },
-  {
-    "proxy": "http://145.40.68.148:10093",
-    "tested_at": "2026-02-14T20:30:13Z",
-    "ip": "145.40.68.148",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 15830,
-      "org": "Equinix Services, Inc.",
-      "isp": "Equinix emea Acquisition Enterprises B.V.",
-      "domain": "packet.net"
-    }
-  },
-  {
-    "proxy": "http://145.40.68.148:10083",
-    "tested_at": "2026-02-14T20:30:14Z",
-    "ip": "145.40.68.148",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 15830,
-      "org": "Equinix Services, Inc.",
-      "isp": "Equinix emea Acquisition Enterprises B.V.",
-      "domain": "packet.net"
-    }
-  },
-  {
     "proxy": "http://147.75.34.105:443",
-    "tested_at": "2026-02-14T20:30:18Z",
+    "tested_at": "2026-02-14T21:01:36Z",
     "ip": "147.75.34.105",
     "success": true,
     "type": "IPv4",
@@ -92,31 +23,8 @@
     }
   },
   {
-    "proxy": "http://5.129.237.45:49488",
-    "tested_at": "2026-02-14T20:30:28Z",
-    "ip": "2a03:6f02::c817",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 9123,
-      "org": "TW Cloud",
-      "isp": "JSC TIMEWEB",
-      "domain": "timeweb.ru"
-    }
-  },
-  {
     "proxy": "http://94.176.3.42:7443",
-    "tested_at": "2026-02-14T20:30:33Z",
+    "tested_at": "2026-02-14T21:01:39Z",
     "ip": "94.176.3.42",
     "success": true,
     "type": "IPv4",
@@ -139,7 +47,7 @@
   },
   {
     "proxy": "http://144.124.227.90:10880",
-    "tested_at": "2026-02-14T20:30:46Z",
+    "tested_at": "2026-02-14T21:01:41Z",
     "ip": "144.124.227.90",
     "success": true,
     "type": "IPv4",
@@ -161,26 +69,95 @@
     }
   },
   {
-    "proxy": "http://193.106.150.70:1080",
-    "tested_at": "2026-02-14T20:31:04Z",
-    "ip": "193.106.150.70",
+    "proxy": "http://5.180.180.32:1080",
+    "tested_at": "2026-02-14T21:01:58Z",
+    "ip": "5.180.180.32",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Netherlands",
     "country_code": "NL",
-    "region": "Drenthe",
-    "region_code": "DR",
-    "city": "Meppel",
-    "latitude": 52.6921234,
-    "longitude": 6.1937187,
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
     "is_eu": true,
-    "postal": "7942 JE",
+    "postal": "1012 JS",
     "connection": {
-      "asn": 21100,
-      "org": "Inweb Ltd.",
-      "isp": "GREEN FLOID LLC",
-      "domain": "domishko.ru"
+      "asn": 41436,
+      "org": "CLOUDWEBMANAGE EU",
+      "isp": "Kamatera INC",
+      "domain": "omc.co.il"
+    }
+  },
+  {
+    "proxy": "http://209.38.54.154:8443",
+    "tested_at": "2026-02-14T21:01:59Z",
+    "ip": "164.90.199.121",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
+    "is_eu": true,
+    "postal": "1012 JS",
+    "connection": {
+      "asn": 14061,
+      "org": "Digitalocean, LLC",
+      "isp": "Digitalocean, LLC",
+      "domain": "digitalocean.com"
+    }
+  },
+  {
+    "proxy": "http://185.185.40.118:3128",
+    "tested_at": "2026-02-14T21:02:08Z",
+    "ip": "185.185.40.118",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
+    "is_eu": true,
+    "postal": "1012 JS",
+    "connection": {
+      "asn": 7489,
+      "org": "HostUS",
+      "isp": "HostUS",
+      "domain": "hostus.us"
+    }
+  },
+  {
+    "proxy": "http://80.76.34.133:8080",
+    "tested_at": "2026-02-14T21:02:12Z",
+    "ip": "80.76.34.133",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
+    "is_eu": true,
+    "postal": "1012 JS",
+    "connection": {
+      "asn": 200740,
+      "org": "FIRST SERVER LIMITED",
+      "isp": "FIRST SERVER LIMITED",
+      "domain": "first-server.net"
     }
   }
 ]

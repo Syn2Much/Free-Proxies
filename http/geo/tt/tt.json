@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://72.10.160.90:32457",
+    "tested_at": "2026-02-14T21:01:41Z",
+    "ip": "186.96.210.7",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Trinidad and Tobago",
+    "country_code": "TT",
+    "region": "San Fernando City Corporation",
+    "region_code": "",
+    "city": "San Fernando",
+    "latitude": 10.2905853,
+    "longitude": -61.4493842,
+    "is_eu": false,
+    "postal": "601418",
+    "connection": {
+      "asn": 27924,
+      "org": "AMPLIA COMMUNICATIONS LTD.",
+      "isp": "AMPLIA COMMUNICATIONS LTD.",
+      "domain": "amplia.co.tt"
+    }
+  }
+]

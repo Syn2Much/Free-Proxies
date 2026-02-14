@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://185.115.74.185:8080",
-    "tested_at": "2026-02-14T20:30:04Z",
+    "tested_at": "2026-02-14T21:01:49Z",
     "ip": "185.115.75.43",
     "success": true,
     "type": "IPv4",
@@ -20,29 +20,6 @@
       "org": "Teamcity S.R.O.",
       "isp": "Teamcity S.R.O.",
       "domain": "teamcity.cz"
-    }
-  },
-  {
-    "proxy": "http://185.82.238.42:8888",
-    "tested_at": "2026-02-14T20:30:07Z",
-    "ip": "185.82.238.42",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Czech Republic",
-    "country_code": "CZ",
-    "region": "Southeast",
-    "region_code": "",
-    "city": "Šebetov",
-    "latitude": 49.5486188,
-    "longitude": 16.7116276,
-    "is_eu": true,
-    "postal": "679 35",
-    "connection": {
-      "asn": 42908,
-      "org": "O Czech Republic, A.S.",
-      "isp": "O Czech Republic, A.S.",
-      "domain": "o2.cz"
     }
   }
 ]

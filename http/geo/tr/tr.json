@@ -1,20 +1,20 @@
 [
   {
-    "proxy": "http://185.200.37.245:8080",
-    "tested_at": "2026-02-14T20:30:19Z",
-    "ip": "185.200.37.245",
+    "proxy": "http://89.43.133.165:8080",
+    "tested_at": "2026-02-14T21:01:29Z",
+    "ip": "198.145.118.88",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Turkey",
     "country_code": "TR",
-    "region": "Kilis",
-    "region_code": "79",
-    "city": "Kilis",
-    "latitude": 36.716477,
-    "longitude": 37.114661,
+    "region": "Mediterranean Region",
+    "region_code": "",
+    "city": "Antakya",
+    "latitude": 36.2022842,
+    "longitude": 36.1613221,
     "is_eu": false,
-    "postal": "79002",
+    "postal": "31001",
     "connection": {
       "asn": 202561,
       "org": "High Speed Telekomunikasyon Ve Hab. Hiz. Ltd. Sti.",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://195.62.50.39:8080",
-    "tested_at": "2026-02-14T20:30:44Z",
-    "ip": "195.62.50.39",
+    "proxy": "http://212.252.73.13:8080",
+    "tested_at": "2026-02-14T21:01:33Z",
+    "ip": "212.252.73.13",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,16 +39,39 @@
     "is_eu": false,
     "postal": "34126",
     "connection": {
-      "asn": 216472,
-      "org": "Hiperonline Iletisim Hizmetleri San. Tic. Ltd. Sti.",
-      "isp": "High Speed For Internet Services L.L.C",
-      "domain": "hiperonline.com.tr"
+      "asn": 34984,
+      "org": "GUNEYDOGU TELEKOM INTERNET BILISIM VE ILETISIM HIZ TIC LTD S",
+      "isp": "Superonline Iletisim Hizmetleri A.S.",
+      "domain": "teletektelekom.com"
     }
   },
   {
-    "proxy": "http://38.156.72.42:8080",
-    "tested_at": "2026-02-14T20:30:52Z",
-    "ip": "188.132.222.146",
+    "proxy": "http://149.86.144.211:8080",
+    "tested_at": "2026-02-14T21:01:55Z",
+    "ip": "149.86.144.210",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Turkey",
+    "country_code": "TR",
+    "region": "Mediterranean Region",
+    "region_code": "",
+    "city": "Atayurdu",
+    "latitude": 36.181895,
+    "longitude": 36.2808179,
+    "is_eu": false,
+    "postal": "31750",
+    "connection": {
+      "asn": 208972,
+      "org": "Cogent Communications",
+      "isp": "GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI",
+      "domain": "gibir.net.tr"
+    }
+  },
+  {
+    "proxy": "http://176.236.227.98:8080",
+    "tested_at": "2026-02-14T21:02:07Z",
+    "ip": "176.236.227.98",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -62,33 +85,10 @@
     "is_eu": false,
     "postal": "34126",
     "connection": {
-      "asn": 202561,
-      "org": "HIGH SPEED TELEKOMUNIKASYON VE HABERLESME HIZMETLERI LTD. STI.",
-      "isp": "High Speed Telekomunikasyon Ve Hab. Hiz. Ltd. Sti.",
-      "domain": "highspeed.com.tr"
-    }
-  },
-  {
-    "proxy": "http://195.175.31.222:8080",
-    "tested_at": "2026-02-14T20:30:59Z",
-    "ip": "195.175.31.222",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Turkey",
-    "country_code": "TR",
-    "region": "Kocaeli",
-    "region_code": "41",
-    "city": "Izmit",
-    "latitude": 40.7654408,
-    "longitude": 29.9408089,
-    "is_eu": false,
-    "postal": "41300",
-    "connection": {
-      "asn": 9121,
-      "org": "Turk Telekomunikasyon Anonim Sirketi",
-      "isp": "Turk Telekomunikasyon Anonim Sirketi",
-      "domain": "turktelekom.com.tr"
+      "asn": 34984,
+      "org": "SIBA BILISIM TELEKOMINIKASYON ELEKTRONIK ITHALAT IHRACAT LIMITED SIRKETI",
+      "isp": "Superonline Iletisim Hizmetleri A.S.",
+      "domain": "turkcell.com.tr"
     }
   }
 ]

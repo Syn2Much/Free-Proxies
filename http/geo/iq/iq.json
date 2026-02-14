@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://62.201.217.243:40010",
-    "tested_at": "2026-02-14T20:30:55Z",
-    "ip": "62.201.217.243",
+    "proxy": "http://185.138.120.109:8080",
+    "tested_at": "2026-02-14T21:01:33Z",
+    "ip": "93.180.217.20",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Iraq",
     "country_code": "IQ",
-    "region": "Sulaimaniya Governorate",
-    "region_code": "SU",
-    "city": "Kalar",
-    "latitude": 34.6307795,
-    "longitude": 45.3275531,
+    "region": "Karbala",
+    "region_code": "KA",
+    "city": "Karbala",
+    "latitude": 32.6068464,
+    "longitude": 44.0103922,
     "is_eu": false,
-    "postal": "46021",
+    "postal": "56001",
     "connection": {
-      "asn": 44217,
-      "org": "Sulaymaniyah Users",
-      "isp": "Iq Networks for Data And Internet Services LTD",
-      "domain": "iq.email"
+      "asn": 203217,
+      "org": "Horizon Scope Mobile Telecom Wll",
+      "isp": "Horizon Scope Mobile Telecom Wll",
+      "domain": "horizonscope.com"
+    }
+  },
+  {
+    "proxy": "http://5.10.230.93:8080",
+    "tested_at": "2026-02-14T21:02:13Z",
+    "ip": "5.10.228.161",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Baghdad Governorate",
+    "region_code": "BG",
+    "city": "Tarmiyah",
+    "latitude": 33.6732479,
+    "longitude": 44.3614875,
+    "is_eu": false,
+    "postal": "10084",
+    "connection": {
+      "asn": 3194,
+      "org": "SatGate IQ ISP",
+      "isp": "Satgate Company for Trading of Computers Systems And Communications Appliances Wll",
+      "domain": "satgate-iraq.com"
     }
   }
 ]

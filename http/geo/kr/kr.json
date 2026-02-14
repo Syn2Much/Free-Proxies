@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://210.223.44.230:3128",
-    "tested_at": "2026-02-14T20:30:18Z",
-    "ip": "210.223.44.230",
+    "proxy": "http://218.147.55.178:3008",
+    "tested_at": "2026-02-14T21:01:37Z",
+    "ip": "121.177.104.201",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "North Jeolla",
+    "region_code": "45",
+    "city": "Busan",
+    "latitude": 35.907757,
+    "longitude": 127.766922,
+    "is_eu": false,
+    "postal": "47545",
+    "connection": {
+      "asn": 4766,
+      "org": "Korea Telecom",
+      "isp": "Korea Telecom",
+      "domain": "kt.com"
+    }
+  },
+  {
+    "proxy": "http://8.213.151.128:3128",
+    "tested_at": "2026-02-14T21:02:07Z",
+    "ip": "8.213.151.128",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +39,10 @@
     "is_eu": false,
     "postal": "04523",
     "connection": {
-      "asn": 4766,
-      "org": "Korea Telecom",
-      "isp": "Korea Telecom",
-      "domain": "kt.com"
+      "asn": 45102,
+      "org": "Alibaba Cloud South Korea",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibaba-inc.com"
     }
   }
 ]

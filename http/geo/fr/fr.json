@@ -1,53 +1,7 @@
 [
   {
-    "proxy": "http://90.84.188.97:8000",
-    "tested_at": "2026-02-14T20:30:03Z",
-    "ip": "90.84.188.97",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 2280,
-      "org": "OBS OCB HONEY",
-      "isp": "Orange S.A.",
-      "domain": "orange.com"
-    }
-  },
-  {
-    "proxy": "http://51.91.76.186:8080",
-    "tested_at": "2026-02-14T20:30:03Z",
-    "ip": "51.91.76.186",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Hauts-de-France",
-    "region_code": "HDF",
-    "city": "Roubaix",
-    "latitude": 50.6927049,
-    "longitude": 3.177847,
-    "is_eu": true,
-    "postal": "59100",
-    "connection": {
-      "asn": 16276,
-      "org": "OVH SAS",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
-    }
-  },
-  {
     "proxy": "http://185.41.152.110:3128",
-    "tested_at": "2026-02-14T20:30:04Z",
+    "tested_at": "2026-02-14T21:01:29Z",
     "ip": "185.41.152.110",
     "success": true,
     "type": "IPv4",
@@ -69,9 +23,32 @@
     }
   },
   {
-    "proxy": "http://164.132.248.251:80",
-    "tested_at": "2026-02-14T20:30:53Z",
-    "ip": "164.132.248.251",
+    "proxy": "http://178.170.43.129:8082",
+    "tested_at": "2026-02-14T21:01:30Z",
+    "ip": "178.170.43.129",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Boulogne-Billancourt",
+    "latitude": 48.8396952,
+    "longitude": 2.2399123,
+    "is_eu": true,
+    "postal": "92100",
+    "connection": {
+      "asn": 21409,
+      "org": "SERVERS",
+      "isp": "Ikoula Net SAS",
+      "domain": "ikoula.com"
+    }
+  },
+  {
+    "proxy": "http://90.84.188.97:8000",
+    "tested_at": "2026-02-14T21:01:38Z",
+    "ip": "90.84.188.97",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -85,10 +62,171 @@
     "is_eu": true,
     "postal": "75007",
     "connection": {
+      "asn": 2280,
+      "org": "OBS OCB HONEY",
+      "isp": "Orange S.A.",
+      "domain": "orange.com"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.171:28999",
+    "tested_at": "2026-02-14T21:01:39Z",
+    "ip": "91.164.130.44",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "is_eu": true,
+    "postal": "75007",
+    "connection": {
+      "asn": 12322,
+      "org": "Broadband Pool",
+      "isp": "Free SAS",
+      "domain": "scaleway.com"
+    }
+  },
+  {
+    "proxy": "http://178.170.43.106:8081",
+    "tested_at": "2026-02-14T21:01:50Z",
+    "ip": "178.170.43.106",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Boulogne-Billancourt",
+    "latitude": 48.8396952,
+    "longitude": 2.2399123,
+    "is_eu": true,
+    "postal": "92100",
+    "connection": {
+      "asn": 21409,
+      "org": "SERVERS",
+      "isp": "Ikoula Net SAS",
+      "domain": "ikoula.com"
+    }
+  },
+  {
+    "proxy": "http://37.187.109.70:10111",
+    "tested_at": "2026-02-14T21:01:56Z",
+    "ip": "37.187.109.70",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Hauts-de-France",
+    "region_code": "HDF",
+    "city": "Roubaix",
+    "latitude": 50.6927049,
+    "longitude": 3.177847,
+    "is_eu": true,
+    "postal": "59100",
+    "connection": {
       "asn": 16276,
       "org": "OVH SAS",
       "isp": "OVH SAS",
       "domain": "ovh.net"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.90:24215",
+    "tested_at": "2026-02-14T21:01:59Z",
+    "ip": "37.65.13.54",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "is_eu": true,
+    "postal": "75007",
+    "connection": {
+      "asn": 15557,
+      "org": "SFR Infra Map t",
+      "isp": "Societe Francaise Du Radiotelephone SFR SA",
+      "domain": "sfr.fr"
+    }
+  },
+  {
+    "proxy": "http://84.247.171.137:3128",
+    "tested_at": "2026-02-14T21:02:07Z",
+    "ip": "2a02:c207:2298:8203::1",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Grand Est",
+    "region_code": "GES",
+    "city": "Lauterbourg",
+    "latitude": 48.974797,
+    "longitude": 8.176773,
+    "is_eu": true,
+    "postal": "67630",
+    "connection": {
+      "asn": 51167,
+      "org": "Contabo GmbH",
+      "isp": "Contabo GmbH",
+      "domain": "contabo.de"
+    }
+  },
+  {
+    "proxy": "http://141.145.217.136:3162",
+    "tested_at": "2026-02-14T21:02:09Z",
+    "ip": "141.253.101.157",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "is_eu": true,
+    "postal": "75007",
+    "connection": {
+      "asn": 31898,
+      "org": "Oracle Svenska Ab",
+      "isp": "Oracle Corporation",
+      "domain": "oracle.com"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.90:29743",
+    "tested_at": "2026-02-14T21:02:12Z",
+    "ip": "37.67.37.161",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Nouvelle-Aquitaine",
+    "region_code": "NAQ",
+    "city": "Bruges",
+    "latitude": 44.881793,
+    "longitude": -0.612747,
+    "is_eu": true,
+    "postal": "33520",
+    "connection": {
+      "asn": 15557,
+      "org": "SFR Infra Map t",
+      "isp": "Societe Francaise Du Radiotelephone SFR SA",
+      "domain": "sfr.fr"
     }
   }
 ]

@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://72.10.160.170:14927",
-    "tested_at": "2026-02-14T17:54:04Z",
-    "ip": "188.71.201.163",
+    "proxy": "http://72.10.160.172:6659",
+    "tested_at": "2026-02-14T21:01:56Z",
+    "ip": "37.231.158.204",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Kuwait",
     "country_code": "KW",
-    "region": "Jahra",
-    "region_code": "JA",
-    "city": "Al Jahra",
-    "latitude": 29.3365728,
-    "longitude": 47.6755291,
+    "region": "Al Asimah",
+    "region_code": "KU",
+    "city": "Kuwait City",
+    "latitude": 29.375859,
+    "longitude": 47.9774052,
     "is_eu": false,
-    "postal": "03200",
+    "postal": "15005",
     "connection": {
-      "asn": 29357,
-      "org": "NATIONAL MOBILE TELECOMMUNICATIONS COMPANY K.S.C.P.",
-      "isp": "NATIONAL MOBILE TELECOMMUNICATIONS COMPANY K.S.C.P.",
-      "domain": "ooredoo.com.kw"
+      "asn": 47589,
+      "org": "VIVA Mobile Network",
+      "isp": "Kuwait Telecommunications Company K.S.C.C.",
+      "domain": "viva.com.kw"
     }
   }
 ]

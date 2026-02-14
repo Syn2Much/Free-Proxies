@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://152.32.255.24:27197",
-    "tested_at": "2026-02-14T20:30:04Z",
+    "tested_at": "2026-02-14T21:01:39Z",
     "ip": "152.32.255.24",
     "success": true,
     "type": "IPv4",
@@ -23,32 +23,9 @@
     }
   },
   {
-    "proxy": "http://118.69.183.149:8080",
-    "tested_at": "2026-02-14T20:30:17Z",
-    "ip": "118.69.183.149",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Thành phố Hồ Chí Minh",
-    "region_code": "",
-    "city": "Nguyễn Đình Chiểu",
-    "latitude": 10.7749256,
-    "longitude": 106.6859306,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 18403,
-      "org": "",
-      "isp": "Vietnam Internet Network Information Center",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://14.177.236.212:55443",
-    "tested_at": "2026-02-14T20:30:31Z",
-    "ip": "14.177.236.212",
+    "proxy": "http://14.248.84.131:8080",
+    "tested_at": "2026-02-14T21:02:05Z",
+    "ip": "14.248.84.131",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -66,6 +43,29 @@
       "org": "Vietnam Posts And Telecommunications Group",
       "isp": "Vnpt Corp",
       "domain": "vnpt.com.vn"
+    }
+  },
+  {
+    "proxy": "http://115.75.184.174:8080",
+    "tested_at": "2026-02-14T21:02:19Z",
+    "ip": "115.75.184.174",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Bến Tre Province",
+    "region_code": "50",
+    "city": "Bến Tre",
+    "latitude": 10.2493969,
+    "longitude": 106.3787583,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 7552,
+      "org": "Viettel Group",
+      "isp": "Viettel Group",
+      "domain": "viettel.com.vn"
     }
   }
 ]

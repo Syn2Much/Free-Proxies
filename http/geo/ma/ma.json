@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://72.10.164.178:29395",
+    "tested_at": "2026-02-14T21:02:10Z",
+    "ip": "196.115.12.88",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Morocco",
+    "country_code": "MA",
+    "region": "Casablanca-Settat",
+    "region_code": "06",
+    "city": "Casablanca",
+    "latitude": 33.5731104,
+    "longitude": -7.5898434,
+    "is_eu": false,
+    "postal": "2480000",
+    "connection": {
+      "asn": 36925,
+      "org": "g g g Mobile Costumers",
+      "isp": "MEDITELECOM",
+      "domain": "orange.ma"
+    }
+  }
+]

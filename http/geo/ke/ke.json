@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://41.191.228.214:8088",
-    "tested_at": "2026-02-14T20:30:55Z",
-    "ip": "41.191.228.214",
+    "proxy": "http://102.213.179.56:8081",
+    "tested_at": "2026-02-14T21:02:17Z",
+    "ip": "102.211.145.161",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,33 +16,10 @@
     "is_eu": false,
     "postal": "200",
     "connection": {
-      "asn": 30844,
-      "org": "KDN WESTERN",
-      "isp": "Liquid Telecommunications LTD",
-      "domain": "liquidtelecom.mu"
-    }
-  },
-  {
-    "proxy": "http://102.209.18.28:8080",
-    "tested_at": "2026-02-14T20:31:03Z",
-    "ip": "38.226.202.42",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Nairobi",
-    "region_code": "110",
-    "city": "Nairobi",
-    "latitude": -1.3237958,
-    "longitude": 36.8808553,
-    "is_eu": false,
-    "postal": "200",
-    "connection": {
-      "asn": 329437,
-      "org": "VENNET SOLUTIONS LIMITED",
-      "isp": "VENNET SOLUTIONS LIMITED",
-      "domain": "vennet.co.ke"
+      "asn": 328490,
+      "org": "Unwired Communications",
+      "isp": "Unwired Communications Limited",
+      "domain": "unwired.co.ke"
     }
   }
 ]

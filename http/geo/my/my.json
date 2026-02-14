@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://175.138.75.137:8080",
-    "tested_at": "2026-02-14T19:58:56Z",
-    "ip": "175.138.75.137",
+    "proxy": "http://72.10.160.90:28863",
+    "tested_at": "2026-02-14T21:02:13Z",
+    "ip": "182.63.63.170",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Malaysia",
     "country_code": "MY",
-    "region": "Selangor",
-    "region_code": "10",
-    "city": "Klang",
-    "latitude": 3.044917,
-    "longitude": 101.4455621,
+    "region": "Sabah",
+    "region_code": "12",
+    "city": "Kota Kinabalu",
+    "latitude": 5.980408,
+    "longitude": 116.0734568,
     "is_eu": false,
-    "postal": "42100",
+    "postal": "88000",
     "connection": {
-      "asn": 4788,
-      "org": "TMNST",
-      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-      "domain": "tm.com.my"
+      "asn": 4818,
+      "org": "Digi Telecommunications Sdn Bhd",
+      "isp": "Digi Telecommunications Sdn Bhd., Digi Internet Exchange",
+      "domain": "digi.com.my"
     }
   }
 ]

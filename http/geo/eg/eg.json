@@ -1,8 +1,77 @@
 [
   {
-    "proxy": "http://41.65.103.5:1981",
-    "tested_at": "2026-02-14T20:30:20Z",
-    "ip": "41.65.103.5",
+    "proxy": "http://213.131.85.26:1981",
+    "tested_at": "2026-02-14T21:01:29Z",
+    "ip": "213.131.85.26",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "The Lake",
+    "region_code": "",
+    "city": "An Nubariyah",
+    "latitude": 30.666272,
+    "longitude": 30.069743,
+    "is_eu": false,
+    "postal": "22773",
+    "connection": {
+      "asn": 24863,
+      "org": "Link Egypt",
+      "isp": "Link Egypt link.net",
+      "domain": "link.net"
+    }
+  },
+  {
+    "proxy": "http://197.164.101.13:1981",
+    "tested_at": "2026-02-14T21:02:00Z",
+    "ip": "197.164.101.13",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Cairo",
+    "region_code": "C",
+    "city": "Cairo",
+    "latitude": 30.0444196,
+    "longitude": 31.2357116,
+    "is_eu": false,
+    "postal": "28625",
+    "connection": {
+      "asn": 24863,
+      "org": "",
+      "isp": "Link Egypt link.net",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://196.204.138.244:1976",
+    "tested_at": "2026-02-14T21:02:04Z",
+    "ip": "196.204.138.244",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Giza",
+    "region_code": "",
+    "city": "Abo El Nomros",
+    "latitude": 29.9517097,
+    "longitude": 31.219709,
+    "is_eu": false,
+    "postal": "12911",
+    "connection": {
+      "asn": 24835,
+      "org": "Vodafone Data",
+      "isp": "Vodafone Data",
+      "domain": "localisp.com"
+    }
+  },
+  {
+    "proxy": "http://217.52.247.87:1981",
+    "tested_at": "2026-02-14T21:02:11Z",
+    "ip": "217.52.247.87",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -17,9 +86,32 @@
     "postal": "28625",
     "connection": {
       "asn": 36992,
-      "org": "",
-      "isp": "Etisalat Misr Mobile BB",
-      "domain": ""
+      "org": "Nile Online",
+      "isp": "ETISALAT MISR",
+      "domain": "nile-online.com"
+    }
+  },
+  {
+    "proxy": "http://82.129.233.5:1976",
+    "tested_at": "2026-02-14T21:02:18Z",
+    "ip": "82.129.233.5",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Al Minufiya",
+    "region_code": "",
+    "city": "Sirs Al Layyanah",
+    "latitude": 30.4390852,
+    "longitude": 30.9671759,
+    "is_eu": false,
+    "postal": "32861",
+    "connection": {
+      "asn": 24835,
+      "org": "LOCAL ISP",
+      "isp": "Vodafone Data",
+      "domain": "rayatelecom.net"
     }
   }
 ]
