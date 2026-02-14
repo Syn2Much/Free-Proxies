@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://72.10.164.178:24079",
-    "tested_at": "2026-02-14T22:04:11Z",
-    "ip": "148.227.67.9",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
-    "is_eu": false,
-    "postal": "832 0202",
-    "connection": {
-      "asn": 14593,
-      "org": "Starlink",
-      "isp": "Space Exploration Technologies Corporation",
-      "domain": "spacex.com"
-    }
-  },
-  {
-    "proxy": "http://38.7.195.53:999",
-    "tested_at": "2026-02-14T22:04:12Z",
+    "proxy": "http://38.7.195.50:999",
+    "tested_at": "2026-02-14T22:35:34Z",
     "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
@@ -46,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://177.128.115.198:999",
-    "tested_at": "2026-02-14T22:04:13Z",
-    "ip": "177.128.115.195",
+    "proxy": "http://167.249.29.218:999",
+    "tested_at": "2026-02-14T22:35:48Z",
+    "ip": "167.249.29.218",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -56,21 +33,44 @@
     "country_code": "CL",
     "region": "Santiago Metropolitan Region",
     "region_code": "",
-    "city": "Melipilla",
-    "latitude": -33.6861588,
-    "longitude": -71.2166838,
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
     "is_eu": false,
-    "postal": "958 0887",
+    "postal": "832 0202",
     "connection": {
-      "asn": 269988,
-      "org": "BINET NETWORKING DATA LIMITADA",
-      "isp": "BINET NETWORKING DATA LIMITADA",
-      "domain": "bnet.cl"
+      "asn": 64139,
+      "org": "GRUPO METROWAN TELECOM SPA",
+      "isp": "GRUPO METROWAN TELECOM SPA",
+      "domain": "metrowan.cl"
+    }
+  },
+  {
+    "proxy": "http://207.248.3.81:999",
+    "tested_at": "2026-02-14T22:35:57Z",
+    "ip": "207.248.3.81",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Buin",
+    "latitude": -33.7309374,
+    "longitude": -70.7423218,
+    "is_eu": false,
+    "postal": "9500000",
+    "connection": {
+      "asn": 64139,
+      "org": "GRUPO METROWAN TELECOM SPA",
+      "isp": "GRUPO METROWAN TELECOM SPA",
+      "domain": "metrowan.cl"
     }
   },
   {
     "proxy": "http://186.67.74.52:3128",
-    "tested_at": "2026-02-14T22:04:15Z",
+    "tested_at": "2026-02-14T22:36:03Z",
     "ip": "186.67.74.52",
     "success": true,
     "type": "IPv4",
@@ -92,9 +92,9 @@
     }
   },
   {
-    "proxy": "http://204.199.139.75:999",
-    "tested_at": "2026-02-14T22:04:25Z",
-    "ip": "204.199.139.75",
+    "proxy": "http://170.233.192.225:999",
+    "tested_at": "2026-02-14T22:36:05Z",
+    "ip": "170.233.192.231",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -102,62 +102,39 @@
     "country_code": "CL",
     "region": "Santiago Metropolitan Region",
     "region_code": "",
-    "city": "Isla de Maipo",
-    "latitude": -33.7464562,
-    "longitude": -70.9,
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
     "is_eu": false,
-    "postal": "979 0152",
+    "postal": "832 0202",
     "connection": {
-      "asn": 273237,
-      "org": "INGBELL CHILE SPA",
-      "isp": "INGBELL CHILE SPA",
-      "domain": "ingbell.cl"
+      "asn": 52510,
+      "org": "MI INTERNET SPA",
+      "isp": "MI INTERNET SPA",
+      "domain": "miinternet.cl"
     }
   },
   {
-    "proxy": "http://67.43.228.253:29615",
-    "tested_at": "2026-02-14T22:04:53Z",
-    "ip": "186.209.209.132",
+    "proxy": "http://186.67.94.10:999",
+    "tested_at": "2026-02-14T22:36:13Z",
+    "ip": "201.236.20.98",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Chile",
     "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Lampa",
-    "latitude": -33.2827093,
-    "longitude": -70.879328,
+    "region": "Valparaiso Region",
+    "region_code": "VS",
+    "city": "Quillota",
+    "latitude": -32.8803027,
+    "longitude": -71.2497156,
     "is_eu": false,
-    "postal": "9380000",
+    "postal": "226 0000",
     "connection": {
-      "asn": 271778,
-      "org": "INVERSIONES EN TECNOLOG A PULSO SPA",
-      "isp": "INVERSIONES EN TECNOLOG A PULSO SPA",
-      "domain": "applynetchile.cl"
-    }
-  },
-  {
-    "proxy": "http://207.248.3.81:999",
-    "tested_at": "2026-02-14T22:05:00Z",
-    "ip": "207.248.3.81",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Buin",
-    "latitude": -33.7309374,
-    "longitude": -70.7423218,
-    "is_eu": false,
-    "postal": "9500000",
-    "connection": {
-      "asn": 64139,
-      "org": "GRUPO METROWAN TELECOM SPA",
-      "isp": "GRUPO METROWAN TELECOM SPA",
-      "domain": "metrowan.cl"
+      "asn": 15311,
+      "org": "MONTALVA PROPIEDADES LTDA",
+      "isp": "TELEFONICA EMPRESAS CHILE SA",
+      "domain": "movistar.cl"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://67.43.228.253:3133",
-    "tested_at": "2026-02-14T22:04:34Z",
-    "ip": "179.26.27.107",
+    "proxy": "http://72.10.164.178:3765",
+    "tested_at": "2026-02-14T22:35:42Z",
+    "ip": "179.26.8.120",
     "success": true,
     "type": "IPv4",
     "continent": "South America",

@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://49.156.44.115:8080",
-    "tested_at": "2026-02-14T22:04:16Z",
-    "ip": "49.156.44.115",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Cambodia",
-    "country_code": "KH",
-    "region": "Phnom Penh",
-    "region_code": "12",
-    "city": "Phnom Phen City",
-    "latitude": 11.5448729,
-    "longitude": 104.8921668,
-    "is_eu": false,
-    "postal": "120603",
-    "connection": {
-      "asn": 24492,
-      "org": "Wicam Corporation Ltd.",
-      "isp": "Wicam Corporation Ltd.",
-      "domain": "wicam.com.kh"
-    }
-  },
-  {
     "proxy": "http://103.9.190.130:8080",
-    "tested_at": "2026-02-14T22:04:32Z",
+    "tested_at": "2026-02-14T22:35:23Z",
     "ip": "103.9.190.130",
     "success": true,
     "type": "IPv4",
@@ -43,6 +20,52 @@
       "org": "EZECOM CO., LTD.",
       "isp": "EZECOM CO., LTD.",
       "domain": "ezecom.com.kh"
+    }
+  },
+  {
+    "proxy": "http://45.201.208.192:8080",
+    "tested_at": "2026-02-14T22:35:29Z",
+    "ip": "45.201.208.192",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "region": "Phnom Penh",
+    "region_code": "12",
+    "city": "Phnom Phen City",
+    "latitude": 11.5448729,
+    "longitude": 104.8921668,
+    "is_eu": false,
+    "postal": "120603",
+    "connection": {
+      "asn": 131178,
+      "org": "EZECOM CO., LTD.",
+      "isp": "EZECOM CO., LTD.",
+      "domain": "ezecom.com.kh"
+    }
+  },
+  {
+    "proxy": "http://49.156.44.115:8080",
+    "tested_at": "2026-02-14T22:35:36Z",
+    "ip": "49.156.44.115",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "region": "Phnom Penh",
+    "region_code": "12",
+    "city": "Phnom Phen City",
+    "latitude": 11.5448729,
+    "longitude": 104.8921668,
+    "is_eu": false,
+    "postal": "120603",
+    "connection": {
+      "asn": 24492,
+      "org": "Wicam Corporation Ltd.",
+      "isp": "Wicam Corporation Ltd.",
+      "domain": "wicam.com.kh"
     }
   }
 ]

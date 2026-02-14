@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://90.84.188.97:8000",
-    "tested_at": "2026-02-14T22:04:09Z",
+    "tested_at": "2026-02-14T22:35:23Z",
     "ip": "90.84.188.97",
     "success": true,
     "type": "IPv4",
@@ -23,123 +23,8 @@
     }
   },
   {
-    "proxy": "http://72.10.164.178:6889",
-    "tested_at": "2026-02-14T22:04:11Z",
-    "ip": "78.124.116.227",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Occitania",
-    "region_code": "OCC",
-    "city": "Saint-Orens-de-Gameville",
-    "latitude": 43.551879,
-    "longitude": 1.533877,
-    "is_eu": true,
-    "postal": "31650",
-    "connection": {
-      "asn": 15557,
-      "org": "Dynamic Pools",
-      "isp": "Societe Francaise Du Radiotelephone SFR SA",
-      "domain": "sfr.fr"
-    }
-  },
-  {
-    "proxy": "http://135.125.97.184:43163",
-    "tested_at": "2026-02-14T22:04:19Z",
-    "ip": "2001:41d0:203:9ab8::",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Hauts-de-France",
-    "region_code": "HDF",
-    "city": "Lille",
-    "latitude": 50.62925,
-    "longitude": 3.057256,
-    "is_eu": true,
-    "postal": "59800",
-    "connection": {
-      "asn": 16276,
-      "org": "OVH",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
-    }
-  },
-  {
-    "proxy": "http://67.43.228.251:12085",
-    "tested_at": "2026-02-14T22:04:21Z",
-    "ip": "82.216.204.113",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Vanves",
-    "latitude": 48.822484,
-    "longitude": 2.288405,
-    "is_eu": true,
-    "postal": "92170",
-    "connection": {
-      "asn": 15557,
-      "org": "Societe Francaise Du Radiotelephone SFR SA",
-      "isp": "Societe Francaise Du Radiotelephone SFR SA",
-      "domain": "sfr.fr"
-    }
-  },
-  {
-    "proxy": "http://62.133.62.12:1081",
-    "tested_at": "2026-02-14T22:04:21Z",
-    "ip": "62.133.62.12",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 215540,
-      "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
-      "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
-      "domain": "gir.network"
-    }
-  },
-  {
-    "proxy": "http://67.43.236.18:6129",
-    "tested_at": "2026-02-14T22:04:23Z",
-    "ip": "176.179.46.190",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Centre-Loire Valley",
-    "region_code": "",
-    "city": "Orléans",
-    "latitude": 47.902964,
-    "longitude": 1.909251,
-    "is_eu": true,
-    "postal": "45000",
-    "connection": {
-      "asn": 5410,
-      "org": "Pool for Broadband Dsl Customers",
-      "isp": "Bouygues Telecom SA",
-      "domain": "bouyguestelecom.fr"
-    }
-  },
-  {
     "proxy": "http://185.41.152.110:3128",
-    "tested_at": "2026-02-14T22:04:41Z",
+    "tested_at": "2026-02-14T22:35:48Z",
     "ip": "185.41.152.110",
     "success": true,
     "type": "IPv4",
@@ -161,9 +46,32 @@
     }
   },
   {
-    "proxy": "http://72.10.160.171:28999",
-    "tested_at": "2026-02-14T22:04:48Z",
-    "ip": "91.164.130.44",
+    "proxy": "http://178.170.43.106:8081",
+    "tested_at": "2026-02-14T22:35:53Z",
+    "ip": "178.170.43.106",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Boulogne-Billancourt",
+    "latitude": 48.8396952,
+    "longitude": 2.2399123,
+    "is_eu": true,
+    "postal": "92100",
+    "connection": {
+      "asn": 21409,
+      "org": "SERVERS",
+      "isp": "Ikoula Net SAS",
+      "domain": "ikoula.com"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.90:24215",
+    "tested_at": "2026-02-14T22:36:02Z",
+    "ip": "37.65.13.54",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -177,33 +85,56 @@
     "is_eu": true,
     "postal": "75007",
     "connection": {
-      "asn": 12322,
-      "org": "Broadband Pool",
-      "isp": "Free SAS",
-      "domain": "scaleway.com"
+      "asn": 15557,
+      "org": "SFR Infra Map t",
+      "isp": "Societe Francaise Du Radiotelephone SFR SA",
+      "domain": "sfr.fr"
     }
   },
   {
-    "proxy": "http://67.43.236.20:6129",
-    "tested_at": "2026-02-14T22:04:54Z",
-    "ip": "176.179.46.190",
+    "proxy": "http://135.125.97.184:43163",
+    "tested_at": "2026-02-14T22:36:12Z",
+    "ip": "2001:41d0:203:9ab8::",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Hauts-de-France",
+    "region_code": "HDF",
+    "city": "Lille",
+    "latitude": 50.62925,
+    "longitude": 3.057256,
+    "is_eu": true,
+    "postal": "59800",
+    "connection": {
+      "asn": 16276,
+      "org": "OVH",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
+    }
+  },
+  {
+    "proxy": "http://62.133.62.12:1081",
+    "tested_at": "2026-02-14T22:36:19Z",
+    "ip": "62.133.62.12",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "France",
     "country_code": "FR",
-    "region": "Centre-Loire Valley",
-    "region_code": "",
-    "city": "Orléans",
-    "latitude": 47.902964,
-    "longitude": 1.909251,
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
     "is_eu": true,
-    "postal": "45000",
+    "postal": "75007",
     "connection": {
-      "asn": 5410,
-      "org": "Pool for Broadband Dsl Customers",
-      "isp": "Bouygues Telecom SA",
-      "domain": "bouyguestelecom.fr"
+      "asn": 215540,
+      "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "domain": "gir.network"
     }
   }
 ]

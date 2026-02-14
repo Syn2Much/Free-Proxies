@@ -1,7 +1,30 @@
 [
   {
-    "proxy": "http://213.169.33.7:8001",
-    "tested_at": "2026-02-14T22:04:16Z",
+    "proxy": "http://92.247.12.136:9510",
+    "tested_at": "2026-02-14T22:35:26Z",
+    "ip": "92.247.12.130",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "region": "Sofia-city",
+    "region_code": "",
+    "city": "Sofia",
+    "latitude": 42.6977082,
+    "longitude": 23.3218675,
+    "is_eu": true,
+    "postal": "1000",
+    "connection": {
+      "asn": 8717,
+      "org": "Spectrum Net Sofia",
+      "isp": "A1 Bulgaria Ead",
+      "domain": "a1.bg"
+    }
+  },
+  {
+    "proxy": "http://213.169.33.8:8001",
+    "tested_at": "2026-02-14T22:35:28Z",
     "ip": "213.169.33.7",
     "success": true,
     "type": "IPv4",
@@ -23,77 +46,8 @@
     }
   },
   {
-    "proxy": "http://87.126.65.11:1388",
-    "tested_at": "2026-02-14T22:04:16Z",
-    "ip": "87.126.65.11",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "region": "Sofia-city",
-    "region_code": "",
-    "city": "Sofia",
-    "latitude": 42.6977082,
-    "longitude": 23.3218675,
-    "is_eu": true,
-    "postal": "1000",
-    "connection": {
-      "asn": 8866,
-      "org": "Bulgarian Telecommunications Company Plc",
-      "isp": "Vivacom Bulgaria Ead",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://185.163.245.186:8080",
-    "tested_at": "2026-02-14T22:04:19Z",
-    "ip": "185.163.245.186",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "region": "Sofia-city",
-    "region_code": "",
-    "city": "Sofia",
-    "latitude": 42.6977082,
-    "longitude": 23.3218675,
-    "is_eu": true,
-    "postal": "1000",
-    "connection": {
-      "asn": 49188,
-      "org": "TAH LAN",
-      "isp": "Three A Hub Eood",
-      "domain": "threeahub.com"
-    }
-  },
-  {
-    "proxy": "http://38.180.2.107:3128",
-    "tested_at": "2026-02-14T22:04:19Z",
-    "ip": "38.180.2.107",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "region": "Sofia-city",
-    "region_code": "",
-    "city": "Sofia",
-    "latitude": 42.6977082,
-    "longitude": 23.3218675,
-    "is_eu": true,
-    "postal": "1000",
-    "connection": {
-      "asn": 9009,
-      "org": "Cogent Communications",
-      "isp": "M Europe SRL",
-      "domain": "3nt.com"
-    }
-  },
-  {
-    "proxy": "http://213.169.33.12:8001",
-    "tested_at": "2026-02-14T22:04:33Z",
+    "proxy": "http://213.169.33.3:8001",
+    "tested_at": "2026-02-14T22:36:19Z",
     "ip": "213.169.33.7",
     "success": true,
     "type": "IPv4",
@@ -112,29 +66,6 @@
       "org": "A1 Bulgaria Ead",
       "isp": "A1 Bulgaria Ead",
       "domain": "a1.bg"
-    }
-  },
-  {
-    "proxy": "http://193.68.115.14:8080",
-    "tested_at": "2026-02-14T22:04:46Z",
-    "ip": "193.68.115.14",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "region": "Blagoevgrad",
-    "region_code": "01",
-    "city": "Ablanitsa",
-    "latitude": 41.5377807,
-    "longitude": 23.9340768,
-    "is_eu": true,
-    "postal": "2932",
-    "connection": {
-      "asn": 48584,
-      "org": "Sarnica net LTD",
-      "isp": "Sarnica net LTD",
-      "domain": "abv.bg"
     }
   }
 ]

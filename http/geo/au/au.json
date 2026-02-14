@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://72.10.164.178:4827",
-    "tested_at": "2026-02-14T17:22:43Z",
-    "ip": "101.180.15.1",
+    "proxy": "http://139.99.238.95:8080",
+    "tested_at": "2026-02-14T22:35:38Z",
+    "ip": "139.99.238.95",
     "success": true,
     "type": "IPv4",
     "continent": "Oceania",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "2000",
     "connection": {
-      "asn": 1221,
-      "org": "Telstra Corporation",
-      "isp": "Telstra Limited",
-      "domain": ""
+      "asn": 16276,
+      "org": "OVH Australia Pty LTD",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
     }
   }
 ]

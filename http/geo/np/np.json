@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://43.245.85.46:808",
-    "tested_at": "2026-02-14T21:02:15Z",
-    "ip": "43.245.85.46",
+    "proxy": "http://110.34.13.4:8080",
+    "tested_at": "2026-02-14T22:36:19Z",
+    "ip": "110.34.13.4",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "44707",
     "connection": {
-      "asn": 45650,
-      "org": "VIA NET COMMUNICATION PUBLIC LIMITED",
-      "isp": "VIA NET COMMUNICATION PUBLIC LIMITED",
-      "domain": "vianet.com.np"
+      "asn": 4007,
+      "org": "Subisu Retail Pool",
+      "isp": "Subisu Cablenet",
+      "domain": "subisu.net.np"
     }
   }
 ]

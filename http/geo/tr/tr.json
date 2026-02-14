@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://188.132.221.21:8080",
-    "tested_at": "2026-02-14T22:04:36Z",
-    "ip": "188.132.221.21",
+    "proxy": "http://109.224.242.244:8080",
+    "tested_at": "2026-02-14T22:35:51Z",
+    "ip": "109.224.242.244",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Turkey",
+    "country_code": "TR",
+    "region": "Mediterranean Region",
+    "region_code": "",
+    "city": "Reyhanlı",
+    "latitude": 36.268523,
+    "longitude": 36.567593,
+    "is_eu": false,
+    "postal": "31500",
+    "connection": {
+      "asn": 216472,
+      "org": "High Speed Telekomunikasyon Ve Hab. Hiz. Ltd. Sti.",
+      "isp": "High Speed For Internet Services L.L.C",
+      "domain": "highspeed.com.tr"
+    }
+  },
+  {
+    "proxy": "http://176.117.106.149:8080",
+    "tested_at": "2026-02-14T22:36:10Z",
+    "ip": "176.117.106.149",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -17,14 +40,37 @@
     "postal": "34126",
     "connection": {
       "asn": 202561,
-      "org": "HIGH SPEED TELEKOMUNIKASYON VE HABERLESME HIZMETLERI LTD. STI.",
+      "org": "Highspeed ISP",
+      "isp": "High Speed Telekomunikasyon Ve Hab. Hiz. Ltd. Sti.",
+      "domain": "kaer.technology"
+    }
+  },
+  {
+    "proxy": "http://212.108.115.112:8080",
+    "tested_at": "2026-02-14T22:36:12Z",
+    "ip": "185.200.38.222",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Turkey",
+    "country_code": "TR",
+    "region": "Mediterranean Region",
+    "region_code": "",
+    "city": "Antakya",
+    "latitude": 36.2022842,
+    "longitude": 36.1613221,
+    "is_eu": false,
+    "postal": "31001",
+    "connection": {
+      "asn": 202561,
+      "org": "Alpnet Telekomunikasyon Ithalat",
       "isp": "High Speed Telekomunikasyon Ve Hab. Hiz. Ltd. Sti.",
       "domain": "highspeed.com.tr"
     }
   },
   {
     "proxy": "http://89.43.133.151:8080",
-    "tested_at": "2026-02-14T22:04:49Z",
+    "tested_at": "2026-02-14T22:36:14Z",
     "ip": "198.145.118.88",
     "success": true,
     "type": "IPv4",
@@ -46,26 +92,26 @@
     }
   },
   {
-    "proxy": "http://212.175.88.208:8080",
-    "tested_at": "2026-02-14T22:04:55Z",
-    "ip": "212.175.88.208",
+    "proxy": "http://188.132.221.188:8080",
+    "tested_at": "2026-02-14T22:36:15Z",
+    "ip": "188.132.221.188",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Turkey",
     "country_code": "TR",
-    "region": "Tekirdağ",
-    "region_code": "59",
-    "city": "Tekirdağ",
-    "latitude": 40.9780919,
-    "longitude": 27.511674,
+    "region": "Mediterranean Region",
+    "region_code": "",
+    "city": "Antakya",
+    "latitude": 36.2022842,
+    "longitude": 36.1613221,
     "is_eu": false,
-    "postal": "59200",
+    "postal": "31001",
     "connection": {
-      "asn": 9121,
-      "org": "Firatnet Telekom Internet Hizmetleri",
-      "isp": "Turk Telekomunikasyon Anonim Sirketi",
-      "domain": ""
+      "asn": 202561,
+      "org": "HIGH SPEED TELEKOMUNIKASYON VE HABERLESME HIZMETLERI LTD. STI.",
+      "isp": "High Speed Telekomunikasyon Ve Hab. Hiz. Ltd. Sti.",
+      "domain": "highspeed.com.tr"
     }
   }
 ]

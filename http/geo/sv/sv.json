@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://67.43.228.253:11691",
+    "tested_at": "2026-02-14T22:36:03Z",
+    "ip": "190.62.7.83",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "El Salvador",
+    "country_code": "SV",
+    "region": "Departamento de San Miguel",
+    "region_code": "SM",
+    "city": "San Miguel",
+    "latitude": 13.4792922,
+    "longitude": -88.1779182,
+    "is_eu": false,
+    "postal": "1217",
+    "connection": {
+      "asn": 14754,
+      "org": "Cte S.A. De C.V.",
+      "isp": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+      "domain": "claro.com.sv"
+    }
+  }
+]

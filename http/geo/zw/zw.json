@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://197.155.230.206:8080",
-    "tested_at": "2026-02-14T03:54:20Z",
-    "ip": "197.155.230.206",
+    "proxy": "http://67.43.236.18:7161",
+    "tested_at": "2026-02-14T22:35:23Z",
+    "ip": "41.60.206.48",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "04-263",
     "connection": {
-      "asn": 30844,
-      "org": "Liquid Zimbabwe Mpls Core",
-      "isp": "Liquid Telecommunications LTD",
-      "domain": "liquidtelecom.mu"
+      "asn": 37332,
+      "org": "Liquid Telecommunications Operations Limited",
+      "isp": "Zimbabwe Online",
+      "domain": "liquid.tech"
     }
   }
 ]

@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://72.10.160.90:28863",
-    "tested_at": "2026-02-14T21:02:13Z",
-    "ip": "182.63.63.170",
+    "proxy": "http://67.43.236.20:32821",
+    "tested_at": "2026-02-14T22:35:32Z",
+    "ip": "60.50.103.214",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Malaysia",
     "country_code": "MY",
-    "region": "Sabah",
-    "region_code": "12",
-    "city": "Kota Kinabalu",
-    "latitude": 5.980408,
-    "longitude": 116.0734568,
+    "region": "Selangor",
+    "region_code": "10",
+    "city": "Cyberjaya",
+    "latitude": 2.921318,
+    "longitude": 101.6559349,
     "is_eu": false,
-    "postal": "88000",
+    "postal": "63200",
     "connection": {
-      "asn": 4818,
-      "org": "Digi Telecommunications Sdn Bhd",
-      "isp": "Digi Telecommunications Sdn Bhd., Digi Internet Exchange",
-      "domain": "digi.com.my"
+      "asn": 4788,
+      "org": "TMNST",
+      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+      "domain": "tm.com.my"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.172:7447",
+    "tested_at": "2026-02-14T22:36:12Z",
+    "ip": "115.132.75.167",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "region": "Johor",
+    "region_code": "01",
+    "city": "Johor Bahru",
+    "latitude": 1.492659,
+    "longitude": 103.7413591,
+    "is_eu": false,
+    "postal": "80350",
+    "connection": {
+      "asn": 4788,
+      "org": "TMNST",
+      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+      "domain": "tm.com.my"
     }
   }
 ]

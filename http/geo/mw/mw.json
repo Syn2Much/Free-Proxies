@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://41.70.10.14:8080",
+    "tested_at": "2026-02-14T22:36:19Z",
+    "ip": "41.70.10.14",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Malawi",
+    "country_code": "MW",
+    "region": "Zomba",
+    "region_code": "ZO",
+    "city": "Zomba",
+    "latitude": -15.3765857,
+    "longitude": 35.3356518,
+    "is_eu": false,
+    "postal": "280",
+    "connection": {
+      "asn": 37215,
+      "org": "Malawi Research And Education Network Maren",
+      "isp": "Malawi Research And Education Network Maren",
+      "domain": "maren.ac.mw"
+    }
+  }
+]

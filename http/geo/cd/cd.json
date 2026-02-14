@@ -1,7 +1,30 @@
 [
   {
     "proxy": "http://102.222.231.1:2333",
-    "tested_at": "2026-02-14T17:54:15Z",
+    "tested_at": "2026-02-14T22:35:45Z",
+    "ip": "41.190.233.1",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Congo",
+    "country_code": "CD",
+    "region": "Kinshasa",
+    "region_code": "KN",
+    "city": "Kinshasa",
+    "latitude": -4.4419311,
+    "longitude": 15.2662931,
+    "is_eu": false,
+    "postal": "NON",
+    "connection": {
+      "asn": 37638,
+      "org": "ORIONCOM",
+      "isp": "Orioncom Sprl",
+      "domain": "orion-rdc.com"
+    }
+  },
+  {
+    "proxy": "http://102.222.231.25:2333",
+    "tested_at": "2026-02-14T22:36:13Z",
     "ip": "41.190.233.1",
     "success": true,
     "type": "IPv4",

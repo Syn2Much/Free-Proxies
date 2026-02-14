@@ -1,7 +1,99 @@
 [
   {
+    "proxy": "http://115.75.184.174:8080",
+    "tested_at": "2026-02-14T22:35:27Z",
+    "ip": "113.163.189.162",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Hanoi",
+    "region_code": "HN",
+    "city": "Hanoi",
+    "latitude": 21.0277644,
+    "longitude": 105.8341598,
+    "is_eu": false,
+    "postal": "110905",
+    "connection": {
+      "asn": 45899,
+      "org": "Vietnam Posts And Telecommunications Group",
+      "isp": "Vnpt Corp",
+      "domain": "vnpt.com.vn"
+    }
+  },
+  {
+    "proxy": "http://123.25.25.180:1452",
+    "tested_at": "2026-02-14T22:35:37Z",
+    "ip": "123.25.25.180",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Hanoi",
+    "region_code": "HN",
+    "city": "Hanoi",
+    "latitude": 21.0277644,
+    "longitude": 105.8341598,
+    "is_eu": false,
+    "postal": "110905",
+    "connection": {
+      "asn": 45899,
+      "org": "Vietnam Posts And Telecommunications Group",
+      "isp": "Vnpt Corp",
+      "domain": "vnpt.com.vn"
+    }
+  },
+  {
+    "proxy": "http://14.232.228.80:8080",
+    "tested_at": "2026-02-14T22:35:39Z",
+    "ip": "14.232.228.80",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Hanoi",
+    "region_code": "HN",
+    "city": "Hanoi",
+    "latitude": 21.0277644,
+    "longitude": 105.8341598,
+    "is_eu": false,
+    "postal": "110905",
+    "connection": {
+      "asn": 45899,
+      "org": "Vietnam Posts And Telecommunications Group",
+      "isp": "Vnpt Corp",
+      "domain": "vnpt.com.vn"
+    }
+  },
+  {
+    "proxy": "http://103.82.23.118:5196",
+    "tested_at": "2026-02-14T22:35:42Z",
+    "ip": "113.181.125.229",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Bac Giang Province",
+    "region_code": "54",
+    "city": "Việt Yên District",
+    "latitude": 21.2858633,
+    "longitude": 106.0875326,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 45899,
+      "org": "Vietnam Posts And Telecommunications Group",
+      "isp": "Vnpt Corp",
+      "domain": "vnpt.com.vn"
+    }
+  },
+  {
     "proxy": "http://103.3.246.71:3128",
-    "tested_at": "2026-02-14T22:04:15Z",
+    "tested_at": "2026-02-14T22:35:52Z",
     "ip": "103.3.246.71",
     "success": true,
     "type": "IPv4",
@@ -23,32 +115,9 @@
     }
   },
   {
-    "proxy": "http://67.43.236.20:24755",
-    "tested_at": "2026-02-14T22:04:42Z",
-    "ip": "42.116.69.61",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Ho Chi Minh City",
-    "region_code": "SG",
-    "city": "District 4",
-    "latitude": 10.7578263,
-    "longitude": 106.7012968,
-    "is_eu": false,
-    "postal": "710200",
-    "connection": {
-      "asn": 18403,
-      "org": "Fpt Telecom Company",
-      "isp": "Fpt Telecom Company",
-      "domain": "fpt.net"
-    }
-  },
-  {
-    "proxy": "http://124.158.12.3:1986",
-    "tested_at": "2026-02-14T22:04:46Z",
-    "ip": "124.158.12.3",
+    "proxy": "http://118.69.186.75:1452",
+    "tested_at": "2026-02-14T22:35:55Z",
+    "ip": "118.69.186.75",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -62,15 +131,38 @@
     "is_eu": false,
     "postal": "708000",
     "connection": {
-      "asn": 38733,
-      "org": "Cmc Telecom Infrastructure Company",
-      "isp": "Cmc Telecom Infrastructure Company",
-      "domain": "cmctelecom.vn"
+      "asn": 18403,
+      "org": "",
+      "isp": "Vietnam Internet Network Information Center",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://123.16.15.41:1452",
+    "tested_at": "2026-02-14T22:36:05Z",
+    "ip": "123.16.15.41",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Son La province",
+    "region_code": "05",
+    "city": "Quang Minh",
+    "latitude": 20.8675802,
+    "longitude": 104.9739333,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 45899,
+      "org": "Vietnam Posts And Telecommunications Group",
+      "isp": "Vnpt Corp",
+      "domain": "vnpt.com.vn"
     }
   },
   {
     "proxy": "http://171.233.34.80:8080",
-    "tested_at": "2026-02-14T22:04:53Z",
+    "tested_at": "2026-02-14T22:36:07Z",
     "ip": "171.233.34.80",
     "success": true,
     "type": "IPv4",
@@ -88,6 +180,75 @@
       "asn": 7552,
       "org": "Viettel Group",
       "isp": "Viettel Group",
+      "domain": "viettel.com.vn"
+    }
+  },
+  {
+    "proxy": "http://203.205.33.131:1452",
+    "tested_at": "2026-02-14T22:36:14Z",
+    "ip": "203.205.33.131",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Ho Chi Minh",
+    "region_code": "SG",
+    "city": "Ho Chi Minh City",
+    "latitude": 10.8230989,
+    "longitude": 106.6296638,
+    "is_eu": false,
+    "postal": "708000",
+    "connection": {
+      "asn": 45903,
+      "org": "Cmc Telecom Infrastructure Company",
+      "isp": "Cmc Telecom Infrastructure Company",
+      "domain": "cmctelecom.vn"
+    }
+  },
+  {
+    "proxy": "http://118.69.183.149:8080",
+    "tested_at": "2026-02-14T22:36:15Z",
+    "ip": "118.69.183.149",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Thành phố Hồ Chí Minh",
+    "region_code": "",
+    "city": "Nguyễn Đình Chiểu",
+    "latitude": 10.7749256,
+    "longitude": 106.6859306,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 18403,
+      "org": "",
+      "isp": "Vietnam Internet Network Information Center",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://116.98.57.187:8080",
+    "tested_at": "2026-02-14T22:36:17Z",
+    "ip": "116.98.57.187",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Hanoi",
+    "region_code": "HN",
+    "city": "Hanoi",
+    "latitude": 21.0277644,
+    "longitude": 105.8341598,
+    "is_eu": false,
+    "postal": "110905",
+    "connection": {
+      "asn": 24086,
+      "org": "Viettel Group",
+      "isp": "Viettel Corporation",
       "domain": "viettel.com.vn"
     }
   }
