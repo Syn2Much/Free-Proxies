@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://192.203.0.62:999",
-    "tested_at": "2026-02-14T13:18:06Z",
-    "ip": "192.203.0.62",
+    "proxy": "http://67.206.213.202:3120",
+    "tested_at": "2026-02-14T14:20:15Z",
+    "ip": "67.206.213.202",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,16 +10,16 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "Yabucoa",
-    "latitude": 18.0505201,
-    "longitude": -65.8793288,
+    "city": "San Juan",
+    "latitude": 18.4655394,
+    "longitude": -66.1057355,
     "is_eu": false,
-    "postal": "00767",
+    "postal": "00901",
     "connection": {
-      "asn": 63393,
-      "org": "BOOM NET",
-      "isp": "BOOM NET",
-      "domain": "boomsolutionspr.com"
+      "asn": 11992,
+      "org": "Liberty Mobile Puerto Rico Inc.",
+      "isp": "Liberty Mobile Puerto Rico Inc.",
+      "domain": "libertypr.com"
     }
   }
 ]

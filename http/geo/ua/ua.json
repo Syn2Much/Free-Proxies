@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://91.238.104.171:2023",
-    "tested_at": "2026-02-14T12:46:12Z",
-    "ip": "91.238.104.171",
+    "proxy": "http://195.34.91.67:8080",
+    "tested_at": "2026-02-14T14:20:03Z",
+    "ip": "195.34.91.67",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Ukraine",
     "country_code": "UA",
-    "region": "Kyiv city",
-    "region_code": "30",
-    "city": "Kyiv",
-    "latitude": 50.4501,
-    "longitude": 30.5234,
+    "region": "Kyiv Oblast",
+    "region_code": "32",
+    "city": "Boyarka",
+    "latitude": 50.317117,
+    "longitude": 30.298167,
     "is_eu": false,
-    "postal": "01001",
+    "postal": "08150",
     "connection": {
-      "asn": 50321,
-      "org": "Fop Reznichenko Sergey Mykolayovich",
-      "isp": "Fop Reznichenko Sergey Mykolayovich",
-      "domain": "bytes.ua"
-    }
-  },
-  {
-    "proxy": "http://46.185.34.136:8187",
-    "tested_at": "2026-02-14T12:46:58Z",
-    "ip": "46.185.34.136",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Rivne Oblast",
-    "region_code": "",
-    "city": "Rivne",
-    "latitude": 50.6199,
-    "longitude": 26.251617,
-    "is_eu": false,
-    "postal": "27160",
-    "connection": {
-      "asn": 15895,
-      "org": "Kyivstar Gsm",
-      "isp": "Kyivstar Pjsc",
-      "domain": "kyivstar.net"
+      "asn": 25514,
+      "org": "Modus global LLC",
+      "isp": "Modus global LLC",
+      "domain": "maximuma.net"
     }
   }
 ]

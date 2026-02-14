@@ -1,54 +1,31 @@
 [
   {
-    "proxy": "http://38.41.12.89:999",
-    "tested_at": "2026-02-14T13:48:42Z",
-    "ip": "38.41.12.89",
+    "proxy": "http://190.97.241.102:999",
+    "tested_at": "2026-02-14T14:20:01Z",
+    "ip": "190.97.241.102",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Venezuela",
     "country_code": "VE",
-    "region": "Capital District",
-    "region_code": "A",
-    "city": "Caracas",
-    "latitude": 10.4805937,
-    "longitude": -66.9036063,
+    "region": "Trujillo State",
+    "region_code": "T",
+    "city": "Valera",
+    "latitude": 9.3191109,
+    "longitude": -70.6032995,
     "is_eu": false,
-    "postal": "1012",
+    "postal": "3101",
     "connection": {
-      "asn": 269832,
-      "org": "Mds Telecom",
-      "isp": "MDS TELECOM C.A.",
-      "domain": "mdstelecom.com.ve"
+      "asn": 263703,
+      "org": "VIGINET C.A",
+      "isp": "VIGINET C.A",
+      "domain": "viginet.com.ve"
     }
   },
   {
-    "proxy": "http://72.10.164.178:3273",
-    "tested_at": "2026-02-14T13:48:44Z",
-    "ip": "200.75.154.49",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Capital District",
-    "region_code": "A",
-    "city": "Caracas",
-    "latitude": 10.4805937,
-    "longitude": -66.9036063,
-    "is_eu": false,
-    "postal": "1012",
-    "connection": {
-      "asn": 11562,
-      "org": "Net Uno, C.A.",
-      "isp": "Net Uno, C.A.",
-      "domain": "net-uno.net"
-    }
-  },
-  {
-    "proxy": "http://190.97.226.134:999",
-    "tested_at": "2026-02-14T13:49:03Z",
-    "ip": "190.97.232.196",
+    "proxy": "http://38.172.160.16:999",
+    "tested_at": "2026-02-14T14:20:23Z",
+    "ip": "38.172.160.182",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -62,33 +39,10 @@
     "is_eu": false,
     "postal": "3001",
     "connection": {
-      "asn": 263703,
-      "org": "VIGINET C.A",
-      "isp": "VIGINET C.A",
-      "domain": "viginet.com.ve"
-    }
-  },
-  {
-    "proxy": "http://190.97.254.254:999",
-    "tested_at": "2026-02-14T13:49:21Z",
-    "ip": "38.150.26.170",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Zulia State",
-    "region_code": "V",
-    "city": "San Carlos del Zulia",
-    "latitude": 8.9999952,
-    "longitude": -71.9253141,
-    "is_eu": false,
-    "postal": "5147",
-    "connection": {
-      "asn": 269741,
-      "org": "Cogent Communications, LLC",
-      "isp": "INVERSIONES RED NET 0 0, C.A",
-      "domain": "lidernetzone.net"
+      "asn": 270026,
+      "org": "Cogent Communications",
+      "isp": "RED SERVITEL, CA",
+      "domain": "servitel.net.ve"
     }
   }
 ]

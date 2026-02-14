@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://72.10.164.178:3685",
-    "tested_at": "2026-02-14T13:48:34Z",
-    "ip": "37.66.170.117",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Normandy",
-    "region_code": "NOR",
-    "city": "Rouen",
-    "latitude": 49.443232,
-    "longitude": 1.099971,
-    "is_eu": true,
-    "postal": "76000",
-    "connection": {
-      "asn": 15557,
-      "org": "SFR Infra Map t",
-      "isp": "Societe Francaise Du Radiotelephone SFR SA",
-      "domain": "sfr.fr"
-    }
-  },
-  {
-    "proxy": "http://141.253.101.157:3231",
-    "tested_at": "2026-02-14T13:49:06Z",
-    "ip": "141.253.100.34",
+    "proxy": "http://90.84.188.97:8000",
+    "tested_at": "2026-02-14T14:19:56Z",
+    "ip": "90.84.188.97",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,16 +16,108 @@
     "is_eu": true,
     "postal": "75007",
     "connection": {
-      "asn": 31898,
-      "org": "Oracle Svenska Ab",
-      "isp": "Oracle Corporation",
-      "domain": "oracle.com"
+      "asn": 2280,
+      "org": "OBS OCB HONEY",
+      "isp": "Orange S.A.",
+      "domain": "orange.com"
     }
   },
   {
-    "proxy": "http://178.170.43.106:8081",
-    "tested_at": "2026-02-14T13:49:16Z",
-    "ip": "178.170.43.106",
+    "proxy": "http://72.10.160.90:5243",
+    "tested_at": "2026-02-14T14:19:57Z",
+    "ip": "185.61.176.202",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Pays de la Loire",
+    "region_code": "R",
+    "city": "Nantes",
+    "latitude": 47.218371,
+    "longitude": -1.553621,
+    "is_eu": true,
+    "postal": "44000",
+    "connection": {
+      "asn": 59877,
+      "org": "VA TELECOM",
+      "isp": "VA TELECOM SAS",
+      "domain": "va-telecom.fr"
+    }
+  },
+  {
+    "proxy": "http://173.212.246.157:3128",
+    "tested_at": "2026-02-14T14:20:03Z",
+    "ip": "2a02:c207:2250:3856::1",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Grand Est",
+    "region_code": "GES",
+    "city": "Lauterbourg",
+    "latitude": 48.974797,
+    "longitude": 8.176773,
+    "is_eu": true,
+    "postal": "67630",
+    "connection": {
+      "asn": 51167,
+      "org": "Contabo GmbH",
+      "isp": "Contabo GmbH",
+      "domain": "contabo.de"
+    }
+  },
+  {
+    "proxy": "http://185.41.152.110:3128",
+    "tested_at": "2026-02-14T14:20:28Z",
+    "ip": "185.41.152.110",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Grand Est",
+    "region_code": "GES",
+    "city": "Marly",
+    "latitude": 49.059828,
+    "longitude": 6.154795,
+    "is_eu": true,
+    "postal": "57155",
+    "connection": {
+      "asn": 197922,
+      "org": "FIRSTHEBERG",
+      "isp": "Techcrea Solutions SAS",
+      "domain": "techcrea.fr"
+    }
+  },
+  {
+    "proxy": "http://51.38.230.146:80",
+    "tested_at": "2026-02-14T14:20:35Z",
+    "ip": "51.38.230.146",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Hauts-de-France",
+    "region_code": "HDF",
+    "city": "Roubaix",
+    "latitude": 50.6927049,
+    "longitude": 3.177847,
+    "is_eu": true,
+    "postal": "59100",
+    "connection": {
+      "asn": 16276,
+      "org": "OVH SAS",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
+    }
+  },
+  {
+    "proxy": "http://67.43.236.20:3115",
+    "tested_at": "2026-02-14T14:20:39Z",
+    "ip": "45.84.137.19",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -56,16 +125,16 @@
     "country_code": "FR",
     "region": "Île-de-France",
     "region_code": "IDF",
-    "city": "Boulogne-Billancourt",
-    "latitude": 48.8396952,
-    "longitude": 2.2399123,
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
     "is_eu": true,
-    "postal": "92100",
+    "postal": "75007",
     "connection": {
-      "asn": 21409,
-      "org": "SERVERS",
-      "isp": "Ikoula Net SAS",
-      "domain": "ikoula.com"
+      "asn": 136787,
+      "org": "Packethub S.A.",
+      "isp": "Packethub S.A.",
+      "domain": "packethub.net"
     }
   }
 ]

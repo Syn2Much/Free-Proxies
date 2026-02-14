@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://181.215.52.6:9443",
-    "tested_at": "2026-02-14T13:17:24Z",
-    "ip": "181.215.52.10",
+    "proxy": "https://181.215.52.192:9443",
+    "tested_at": "2026-02-14T14:19:57Z",
+    "ip": "181.215.52.196",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "https://181.215.52.40:9443",
-    "tested_at": "2026-02-14T13:17:24Z",
-    "ip": "181.215.52.41",
+    "proxy": "https://181.215.52.2:9443",
+    "tested_at": "2026-02-14T14:20:07Z",
+    "ip": "181.215.52.92",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -46,78 +46,9 @@
     }
   },
   {
-    "proxy": "https://181.215.52.30:443",
-    "tested_at": "2026-02-14T13:17:34Z",
-    "ip": "181.215.52.34",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 397540,
-      "org": "Private Customer",
-      "isp": "Windscribe",
-      "domain": "us.com"
-    }
-  },
-  {
-    "proxy": "https://181.215.52.16:9443",
-    "tested_at": "2026-02-14T13:17:35Z",
-    "ip": "181.215.52.38",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 397540,
-      "org": "Private Customer",
-      "isp": "Windscribe",
-      "domain": "us.com"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41698",
-    "tested_at": "2026-02-14T13:17:36Z",
-    "ip": "135.19.15.130",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Québec",
-    "region_code": "QC",
-    "city": "Montreal",
-    "latitude": 45.5016889,
-    "longitude": -73.567256,
-    "is_eu": false,
-    "postal": "H3A 2A6",
-    "connection": {
-      "asn": 5769,
-      "org": "Videotron Ltee",
-      "isp": "Videotron Ltee",
-      "domain": "videotron.com"
-    }
-  },
-  {
-    "proxy": "https://181.215.52.122:9443",
-    "tested_at": "2026-02-14T13:18:06Z",
-    "ip": "181.215.52.131",
+    "proxy": "https://181.215.52.101:9443",
+    "tested_at": "2026-02-14T14:20:17Z",
+    "ip": "181.215.52.108",
     "success": true,
     "type": "IPv4",
     "continent": "North America",

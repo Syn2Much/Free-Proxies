@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://38.7.195.55:999",
+    "tested_at": "2026-02-14T14:20:11Z",
+    "ip": "38.7.195.49",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 263702,
+      "org": "Cogent Communications",
+      "isp": "GRUPO ZGH SPA",
+      "domain": "zglobalhost.com"
+    }
+  },
+  {
     "proxy": "http://186.67.74.52:3128",
-    "tested_at": "2026-02-14T13:49:23Z",
+    "tested_at": "2026-02-14T14:20:13Z",
     "ip": "186.67.74.52",
     "success": true,
     "type": "IPv4",
@@ -20,6 +43,29 @@
       "org": "Servicio Nacional De Aduanas De Chile",
       "isp": "ENTEL CHILE S.A.",
       "domain": "entel.cl"
+    }
+  },
+  {
+    "proxy": "http://38.7.195.52:999",
+    "tested_at": "2026-02-14T14:20:44Z",
+    "ip": "38.7.195.49",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 263702,
+      "org": "Cogent Communications",
+      "isp": "GRUPO ZGH SPA",
+      "domain": "zglobalhost.com"
     }
   }
 ]

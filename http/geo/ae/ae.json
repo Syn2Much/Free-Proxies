@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://67.43.236.20:14699",
-    "tested_at": "2026-02-14T12:46:28Z",
-    "ip": "217.165.85.138",
+    "proxy": "http://72.10.160.170:18415",
+    "tested_at": "2026-02-14T14:20:44Z",
+    "ip": "94.207.255.171",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "36668",
     "connection": {
-      "asn": 5384,
-      "org": "Emirates Telecommunications Corporation",
-      "isp": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY ETISALAT GROUP PJSC",
-      "domain": "etisalat.ae"
+      "asn": 15802,
+      "org": "Emirates Integrated Telecommunications Company Pjsc",
+      "isp": "Emirates Integrated Telecommunications Company Pjsc",
+      "domain": "du.ae"
     }
   }
 ]

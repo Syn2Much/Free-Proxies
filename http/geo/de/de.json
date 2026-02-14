@@ -1,99 +1,7 @@
 [
   {
-    "proxy": "http://5.75.198.16:1080",
-    "tested_at": "2026-02-14T13:48:34Z",
-    "ip": "2a01:4f8:1c1b:12a0::1",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Bavaria",
-    "region_code": "BY",
-    "city": "Nuremberg",
-    "latitude": 49.4254092,
-    "longitude": 11.0796553,
-    "is_eu": true,
-    "postal": "90403",
-    "connection": {
-      "asn": 24940,
-      "org": "Hetzner Online GmbH",
-      "isp": "Hetzner Online GmbH",
-      "domain": "hetzner.de"
-    }
-  },
-  {
-    "proxy": "http://157.230.106.35:8080",
-    "tested_at": "2026-02-14T13:48:35Z",
-    "ip": "157.230.106.35",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Hesse",
-    "region_code": "HE",
-    "city": "Frankfurt",
-    "latitude": 50.1109221,
-    "longitude": 8.6821267,
-    "is_eu": true,
-    "postal": "60311",
-    "connection": {
-      "asn": 14061,
-      "org": "Digitalocean, LLC",
-      "isp": "Digitalocean, LLC",
-      "domain": "digitalocean.com"
-    }
-  },
-  {
-    "proxy": "https://40.177.211.224:9019",
-    "tested_at": "2026-02-14T13:48:36Z",
-    "ip": "185.220.100.242",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Bavaria",
-    "region_code": "BY",
-    "city": "Nuremberg",
-    "latitude": 49.4254092,
-    "longitude": 11.0796553,
-    "is_eu": true,
-    "postal": "90403",
-    "connection": {
-      "asn": 205100,
-      "org": "F Netze E.V.",
-      "isp": "F Netze E.V.",
-      "domain": "f3netze.de"
-    }
-  },
-  {
-    "proxy": "http://85.234.69.102:3128",
-    "tested_at": "2026-02-14T13:48:44Z",
-    "ip": "85.234.69.102",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Hesse",
-    "region_code": "HE",
-    "city": "Eschborn",
-    "latitude": 50.1467469,
-    "longitude": 8.5614555,
-    "is_eu": true,
-    "postal": "65760",
-    "connection": {
-      "asn": 199524,
-      "org": "G core Labs S.A.",
-      "isp": "G core Labs S.A.",
-      "domain": "gcore.com"
-    }
-  },
-  {
     "proxy": "http://128.140.118.165:1080",
-    "tested_at": "2026-02-14T13:48:44Z",
+    "tested_at": "2026-02-14T14:19:56Z",
     "ip": "2a01:4f8:c17:162d::1",
     "success": true,
     "type": "IPv6",
@@ -115,8 +23,54 @@
     }
   },
   {
+    "proxy": "http://5.75.198.16:1080",
+    "tested_at": "2026-02-14T14:19:56Z",
+    "ip": "2a01:4f8:1c1b:12a0::1",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Bavaria",
+    "region_code": "BY",
+    "city": "Nuremberg",
+    "latitude": 49.4254092,
+    "longitude": 11.0796553,
+    "is_eu": true,
+    "postal": "90403",
+    "connection": {
+      "asn": 24940,
+      "org": "Hetzner Online GmbH",
+      "isp": "Hetzner Online GmbH",
+      "domain": "hetzner.de"
+    }
+  },
+  {
+    "proxy": "http://172.86.92.68:31337",
+    "tested_at": "2026-02-14T14:19:57Z",
+    "ip": "2602:fa59:8:83::1",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Hesse",
+    "region_code": "HE",
+    "city": "Frankfurt",
+    "latitude": 50.1109221,
+    "longitude": 8.6821267,
+    "is_eu": true,
+    "postal": "60311",
+    "connection": {
+      "asn": 30823,
+      "org": "Routerhosting LLC",
+      "isp": "Aurologic GmbH",
+      "domain": "cloudzy.com"
+    }
+  },
+  {
     "proxy": "http://209.38.222.145:8080",
-    "tested_at": "2026-02-14T13:48:58Z",
+    "tested_at": "2026-02-14T14:20:11Z",
     "ip": "209.38.222.145",
     "success": true,
     "type": "IPv4",
@@ -135,6 +89,75 @@
       "org": "Digitalocean, LLC",
       "isp": "Digitalocean, LLC",
       "domain": "digitalocean.com"
+    }
+  },
+  {
+    "proxy": "http://157.230.106.35:8080",
+    "tested_at": "2026-02-14T14:20:15Z",
+    "ip": "157.230.106.35",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Hesse",
+    "region_code": "HE",
+    "city": "Frankfurt",
+    "latitude": 50.1109221,
+    "longitude": 8.6821267,
+    "is_eu": true,
+    "postal": "60311",
+    "connection": {
+      "asn": 14061,
+      "org": "Digitalocean, LLC",
+      "isp": "Digitalocean, LLC",
+      "domain": "digitalocean.com"
+    }
+  },
+  {
+    "proxy": "http://194.59.204.87:9080",
+    "tested_at": "2026-02-14T14:20:16Z",
+    "ip": "194.59.204.87",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Bavaria",
+    "region_code": "BY",
+    "city": "Nuremberg",
+    "latitude": 49.4254092,
+    "longitude": 11.0796553,
+    "is_eu": true,
+    "postal": "90403",
+    "connection": {
+      "asn": 197540,
+      "org": "Netcup GmbH",
+      "isp": "Netcup GmbH",
+      "domain": "netcup.de"
+    }
+  },
+  {
+    "proxy": "http://47.91.65.23:3128",
+    "tested_at": "2026-02-14T14:20:43Z",
+    "ip": "47.91.65.23",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Hesse",
+    "region_code": "HE",
+    "city": "Frankfurt",
+    "latitude": 50.1109221,
+    "longitude": 8.6821267,
+    "is_eu": true,
+    "postal": "60311",
+    "connection": {
+      "asn": 45102,
+      "org": "Alibaba Cloud De",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibabacloud.com"
     }
   }
 ]

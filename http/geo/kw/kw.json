@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://72.10.160.91:19717",
-    "tested_at": "2026-02-14T10:40:37Z",
-    "ip": "37.34.138.46",
+    "proxy": "http://67.43.236.18:30447",
+    "tested_at": "2026-02-14T14:20:21Z",
+    "ip": "37.231.35.81",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Kuwait",
     "country_code": "KW",
-    "region": "Al Asimah",
-    "region_code": "KU",
-    "city": "Kuwait City",
-    "latitude": 29.375859,
-    "longitude": 47.9774052,
+    "region": "Hawalli",
+    "region_code": "HA",
+    "city": "Salmiya",
+    "latitude": 29.3445195,
+    "longitude": 48.0808429,
     "is_eu": false,
-    "postal": "15005",
+    "postal": "30007",
     "connection": {
-      "asn": 42961,
-      "org": "ZAIN KW",
-      "isp": "Mobile Telecommunications Company K.S.C.P.",
-      "domain": "zain.com"
+      "asn": 47589,
+      "org": "Mobile Subscribers",
+      "isp": "Kuwait Telecommunications Company K.S.C.C.",
+      "domain": "viva.com.kw"
     }
   }
 ]

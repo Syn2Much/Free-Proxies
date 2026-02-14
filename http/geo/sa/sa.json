@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://72.10.160.90:29975",
-    "tested_at": "2026-02-14T11:12:04Z",
-    "ip": "142.154.20.94",
+    "proxy": "http://72.10.164.178:10593",
+    "tested_at": "2026-02-14T14:20:08Z",
+    "ip": "2.90.97.191",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,8 +16,8 @@
     "is_eu": false,
     "postal": "23434",
     "connection": {
-      "asn": 25019,
-      "org": "STC FBB",
+      "asn": 39891,
+      "org": "STC MBB",
       "isp": "Saudi Telecom Company JSC",
       "domain": "stc.com.sa"
     }

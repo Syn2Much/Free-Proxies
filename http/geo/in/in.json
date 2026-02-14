@@ -1,8 +1,54 @@
 [
   {
-    "proxy": "http://34.14.143.185:3128",
-    "tested_at": "2026-02-14T13:49:06Z",
-    "ip": "34.93.150.62",
+    "proxy": "http://72.10.160.170:7981",
+    "tested_at": "2026-02-14T14:19:59Z",
+    "ip": "103.199.226.185",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "India",
+    "country_code": "IN",
+    "region": "Haryana",
+    "region_code": "HR",
+    "city": "Karnal",
+    "latitude": 29.6856929,
+    "longitude": 76.9904825,
+    "is_eu": false,
+    "postal": "132001",
+    "connection": {
+      "asn": 17747,
+      "org": "SITI NETWORKS LIMITED",
+      "isp": "SITI NETWORKS LIMITED",
+      "domain": "siticable.com"
+    }
+  },
+  {
+    "proxy": "http://103.179.46.49:6789",
+    "tested_at": "2026-02-14T14:20:02Z",
+    "ip": "202.179.90.14",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "India",
+    "country_code": "IN",
+    "region": "Maharashtra",
+    "region_code": "MH",
+    "city": "Mumbai",
+    "latitude": 19.1175993,
+    "longitude": 72.9059747,
+    "is_eu": false,
+    "postal": "400070",
+    "connection": {
+      "asn": 138296,
+      "org": "Ankhnet Informations Pvt LTD",
+      "isp": "Juweriyah Networks Private Limited",
+      "domain": "ankhnet.net"
+    }
+  },
+  {
+    "proxy": "http://202.179.93.132:58080",
+    "tested_at": "2026-02-14T14:20:05Z",
+    "ip": "202.179.93.132",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,16 +62,16 @@
     "is_eu": false,
     "postal": "400070",
     "connection": {
-      "asn": 396982,
-      "org": "Google LLC",
-      "isp": "Google LLC",
-      "domain": "google.com"
+      "asn": 138296,
+      "org": "Ankhnet Informations Pvt LTD",
+      "isp": "Juweriyah Networks Private Limited",
+      "domain": "ankhnet.net"
     }
   },
   {
-    "proxy": "http://103.48.71.170:83",
-    "tested_at": "2026-02-14T13:49:13Z",
-    "ip": "103.48.68.218",
+    "proxy": "http://103.41.88.182:83",
+    "tested_at": "2026-02-14T14:20:11Z",
+    "ip": "103.41.88.182",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -34,20 +80,43 @@
     "region": "Telangana",
     "region_code": "TG",
     "city": "Hyderabad",
-    "latitude": 17.385044,
-    "longitude": 78.486671,
+    "latitude": 17.3730192,
+    "longitude": 78.547636,
     "is_eu": false,
     "postal": "500002",
     "connection": {
-      "asn": 136290,
-      "org": "Country Online Services Pvt LTD",
-      "isp": "Country Online Services Pvt LTD",
-      "domain": "countryonline.co.in"
+      "asn": 59173,
+      "org": "Iqtera Communication Pvt LTD",
+      "isp": "Iqtera Communication Pvt LTD",
+      "domain": "iqteracommunications.com"
+    }
+  },
+  {
+    "proxy": "http://103.143.8.126:8089",
+    "tested_at": "2026-02-14T14:20:14Z",
+    "ip": "103.143.8.126",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "India",
+    "country_code": "IN",
+    "region": "Maharashtra",
+    "region_code": "MH",
+    "city": "Mumbai",
+    "latitude": 19.0759837,
+    "longitude": 72.8776559,
+    "is_eu": false,
+    "postal": "400070",
+    "connection": {
+      "asn": 138296,
+      "org": "Promptnet Broadband Pvt LTD",
+      "isp": "Juweriyah Networks Private Limited",
+      "domain": "jeebr.net"
     }
   },
   {
     "proxy": "http://115.114.77.133:9090",
-    "tested_at": "2026-02-14T13:49:17Z",
+    "tested_at": "2026-02-14T14:20:15Z",
     "ip": "115.114.95.250",
     "success": true,
     "type": "IPv4",
@@ -69,9 +138,32 @@
     }
   },
   {
-    "proxy": "http://125.18.28.54:8080",
-    "tested_at": "2026-02-14T13:49:29Z",
-    "ip": "103.234.156.237",
+    "proxy": "http://34.14.143.185:3128",
+    "tested_at": "2026-02-14T14:20:21Z",
+    "ip": "34.93.150.62",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "India",
+    "country_code": "IN",
+    "region": "Maharashtra",
+    "region_code": "MH",
+    "city": "Mumbai",
+    "latitude": 19.0759837,
+    "longitude": 72.8776559,
+    "is_eu": false,
+    "postal": "400070",
+    "connection": {
+      "asn": 396982,
+      "org": "Google LLC",
+      "isp": "Google LLC",
+      "domain": "google.com"
+    }
+  },
+  {
+    "proxy": "http://67.43.236.20:1887",
+    "tested_at": "2026-02-14T14:20:29Z",
+    "ip": "49.43.152.60",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -79,16 +171,39 @@
     "country_code": "IN",
     "region": "Uttar Pradesh",
     "region_code": "UP",
-    "city": "Noida",
-    "latitude": 28.5355161,
-    "longitude": 77.3910265,
+    "city": "Saharanpur",
+    "latitude": 29.967079,
+    "longitude": 77.5510172,
     "is_eu": false,
-    "postal": "201301",
+    "postal": "247001",
     "connection": {
-      "asn": 55839,
-      "org": "MICROSENSE WIRELESS PVT. LIMITED",
-      "isp": "Microsense Private Limited",
-      "domain": "microsenseindia.com"
+      "asn": 55836,
+      "org": "Reliance Jio Infocomm Limited",
+      "isp": "Reliance Jio Infocomm Limited",
+      "domain": "jio.com"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.171:17595",
+    "tested_at": "2026-02-14T14:20:39Z",
+    "ip": "45.126.160.2",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "India",
+    "country_code": "IN",
+    "region": "West Bengal",
+    "region_code": "WB",
+    "city": "Kolkata",
+    "latitude": 22.572646,
+    "longitude": 88.363895,
+    "is_eu": false,
+    "postal": "700017",
+    "connection": {
+      "asn": 132115,
+      "org": "INDINET SERVICE PRIVATE LIMITED",
+      "isp": "INDINET SERVICE PRIVATE LIMITED",
+      "domain": "indinet.co.in"
     }
   }
 ]
