@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://72.10.164.178:2333",
-    "tested_at": "2026-02-14T17:53:55Z",
+    "tested_at": "2026-02-14T18:25:28Z",
     "ip": "186.158.200.4",
     "success": true,
     "type": "IPv4",
@@ -20,29 +20,6 @@
       "org": "Claro",
       "isp": "Techtel Lmds Comunicaciones Interactivas S.A.",
       "domain": "claro.com.py"
-    }
-  },
-  {
-    "proxy": "http://181.40.18.42:999",
-    "tested_at": "2026-02-14T17:54:26Z",
-    "ip": "181.40.18.42",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Paraguay",
-    "country_code": "PY",
-    "region": "Distrito Capital de Paraguay",
-    "region_code": "",
-    "city": "Asuncion",
-    "latitude": -25.2637399,
-    "longitude": -57.575926,
-    "is_eu": false,
-    "postal": "1226",
-    "connection": {
-      "asn": 23201,
-      "org": "Telecel S.A.",
-      "isp": "Telecel S.A.",
-      "domain": "telecel.com.py"
     }
   }
 ]

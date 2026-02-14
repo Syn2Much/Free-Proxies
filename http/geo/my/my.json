@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://175.138.75.137:8080",
-    "tested_at": "2026-02-14T17:54:17Z",
-    "ip": "175.138.75.137",
+    "proxy": "http://60.54.47.75:8081",
+    "tested_at": "2026-02-14T18:25:29Z",
+    "ip": "60.54.47.75",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,14 +10,14 @@
     "country_code": "MY",
     "region": "Selangor",
     "region_code": "10",
-    "city": "Klang",
-    "latitude": 3.044917,
-    "longitude": 101.4455621,
+    "city": "Cyberjaya",
+    "latitude": 2.921318,
+    "longitude": 101.6559349,
     "is_eu": false,
-    "postal": "42100",
+    "postal": "63200",
     "connection": {
       "asn": 4788,
-      "org": "TMNST",
+      "org": "TM TECHNOLOGY SERVICES SDN BHD",
       "isp": "TM TECHNOLOGY SERVICES SDN BHD",
       "domain": "tm.com.my"
     }

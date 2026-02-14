@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://85.208.108.43:10808",
-    "tested_at": "2026-02-14T17:22:20Z",
-    "ip": "85.208.108.43",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 53363,
-      "org": "Worktitans B.V.",
-      "isp": "TANGRAM CANADA INC.",
-      "domain": "the.hosting"
-    }
-  },
-  {
     "proxy": "http://188.227.196.62:1080",
-    "tested_at": "2026-02-14T17:22:21Z",
+    "tested_at": "2026-02-14T18:24:51Z",
     "ip": "188.227.196.62",
     "success": true,
     "type": "IPv4",
@@ -46,31 +23,8 @@
     }
   },
   {
-    "proxy": "http://85.208.108.43:2094",
-    "tested_at": "2026-02-14T17:22:30Z",
-    "ip": "85.208.108.43",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 53363,
-      "org": "Worktitans B.V.",
-      "isp": "TANGRAM CANADA INC.",
-      "domain": "the.hosting"
-    }
-  },
-  {
     "proxy": "http://143.198.37.6:8888",
-    "tested_at": "2026-02-14T17:22:30Z",
+    "tested_at": "2026-02-14T18:25:34Z",
     "ip": "178.249.214.14",
     "success": true,
     "type": "IPv4",
@@ -92,9 +46,32 @@
     }
   },
   {
-    "proxy": "http://167.99.191.94:8123",
-    "tested_at": "2026-02-14T17:23:16Z",
-    "ip": "167.99.191.94",
+    "proxy": "http://72.10.160.170:9625",
+    "tested_at": "2026-02-14T18:25:34Z",
+    "ip": "99.230.246.234",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
+    "is_eu": false,
+    "postal": "M5H 2N2",
+    "connection": {
+      "asn": 812,
+      "org": "Rogers Communications Canada Inc.",
+      "isp": "Rogers Communications Canada Inc.",
+      "domain": "rogers.com"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.170:23347",
+    "tested_at": "2026-02-14T18:25:42Z",
+    "ip": "24.200.30.181",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -102,16 +79,16 @@
     "country_code": "CA",
     "region": "Québec",
     "region_code": "QC",
-    "city": "Sainte-Julie",
-    "latitude": 45.5924997,
-    "longitude": -73.3426988,
+    "city": "L'Assomption",
+    "latitude": 45.8519896,
+    "longitude": -73.4123978,
     "is_eu": false,
-    "postal": "J3E 1W7",
+    "postal": "J0K 1G0",
     "connection": {
-      "asn": 14061,
-      "org": "Digitalocean, LLC",
-      "isp": "Digitalocean, LLC",
-      "domain": "digitalocean.com"
+      "asn": 5769,
+      "org": "Videotron Ltee",
+      "isp": "Videotron Ltee",
+      "domain": "videotron.com"
     }
   }
 ]

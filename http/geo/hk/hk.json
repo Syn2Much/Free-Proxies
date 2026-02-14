@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://72.10.160.94:30235",
-    "tested_at": "2026-02-14T17:53:45Z",
-    "ip": "203.175.14.181",
+    "proxy": "http://160.20.55.235:8080",
+    "tested_at": "2026-02-14T18:25:01Z",
+    "ip": "160.20.55.235",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -11,20 +11,20 @@
     "region": "Hong Kong",
     "region_code": "",
     "city": "Hong Kong",
-    "latitude": 22.3285899,
-    "longitude": 114.1602846,
+    "latitude": 22.276022,
+    "longitude": 114.1751471,
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 152320,
-      "org": "GAOFENG NETWORK LIMITED",
-      "isp": "GOALNOW NETWORK TECHNOLOGY CO., LIMITED",
-      "domain": "goalnowtech.com"
+      "asn": 58411,
+      "org": "Datamax Osi Limited",
+      "isp": "Gateway Technology Development Company Limited",
+      "domain": "datamaxosi.com"
     }
   },
   {
     "proxy": "http://47.243.92.199:3128",
-    "tested_at": "2026-02-14T17:54:04Z",
+    "tested_at": "2026-02-14T18:25:15Z",
     "ip": "47.243.92.199",
     "success": true,
     "type": "IPv4",
@@ -46,31 +46,8 @@
     }
   },
   {
-    "proxy": "http://101.47.73.135:3128",
-    "tested_at": "2026-02-14T17:54:15Z",
-    "ip": "101.47.73.135",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.276022,
-    "longitude": 114.1751471,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 150436,
-      "org": "BYTEPLUS",
-      "isp": "Byteplus Pte. Ltd.",
-      "domain": "bytedance.com"
-    }
-  },
-  {
     "proxy": "http://203.196.8.6:3128",
-    "tested_at": "2026-02-14T17:54:26Z",
+    "tested_at": "2026-02-14T18:25:45Z",
     "ip": "203.196.8.6",
     "success": true,
     "type": "IPv4",

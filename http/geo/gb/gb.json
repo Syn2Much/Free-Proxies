@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://62.255.223.195:8080",
+    "tested_at": "2026-02-14T18:24:54Z",
+    "ip": "62.255.223.195",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "Scotland",
+    "region_code": "SCT",
+    "city": "Edinburgh",
+    "latitude": 55.953252,
+    "longitude": -3.188267,
+    "is_eu": false,
+    "postal": "EH1 3EG",
+    "connection": {
+      "asn": 5089,
+      "org": "Virgin Media Limited",
+      "isp": "Virgin Media Limited",
+      "domain": "adsgroup.org.uk"
+    }
+  },
+  {
     "proxy": "http://37.27.180.250:2081",
-    "tested_at": "2026-02-14T17:53:43Z",
+    "tested_at": "2026-02-14T18:25:00Z",
     "ip": "141.98.101.182",
     "success": true,
     "type": "IPv4",
@@ -24,7 +47,7 @@
   },
   {
     "proxy": "http://109.120.135.230:2030",
-    "tested_at": "2026-02-14T17:54:08Z",
+    "tested_at": "2026-02-14T18:25:37Z",
     "ip": "2a0b:4140:685e::2",
     "success": true,
     "type": "IPv6",
@@ -43,29 +66,6 @@
       "org": "AEZA NETWORK STOCKHOLM",
       "isp": "AEZA INTERNATIONAL LTD",
       "domain": "aeza.net"
-    }
-  },
-  {
-    "proxy": "http://157.125.220.80:8080",
-    "tested_at": "2026-02-14T17:54:25Z",
-    "ip": "157.125.220.80",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "Pudsey",
-    "latitude": 53.795766,
-    "longitude": -1.6761082,
-    "is_eu": false,
-    "postal": "LS28 7LH",
-    "connection": {
-      "asn": 31655,
-      "org": "Gamma Telecom Limited",
-      "isp": "Gamma Telecom Holdings LTD",
-      "domain": "gamma.co.uk"
     }
   }
 ]

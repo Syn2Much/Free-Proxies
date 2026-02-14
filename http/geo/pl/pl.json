@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://188.116.37.3:8090",
-    "tested_at": "2026-02-14T16:20:35Z",
-    "ip": "188.116.37.3",
+    "proxy": "http://185.28.250.90:8090",
+    "tested_at": "2026-02-14T18:25:33Z",
+    "ip": "185.28.250.90",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Poland",
     "country_code": "PL",
-    "region": "Pomeranian Voivodeship",
-    "region_code": "22",
-    "city": "Gdańsk",
-    "latitude": 54.3520252,
-    "longitude": 18.6466384,
+    "region": "Lesser Poland Voivodeship",
+    "region_code": "12",
+    "city": "Kraków",
+    "latitude": 50.0646501,
+    "longitude": 19.9449799,
     "is_eu": true,
-    "postal": "80-208",
+    "postal": "30-730",
     "connection": {
-      "asn": 197155,
-      "org": "Mernyk Mykyta",
-      "isp": "Artnet Sp. Z O.O.",
-      "domain": "artnet.pl"
+      "asn": 206910,
+      "org": "BESTCONNECT CUST",
+      "isp": "Janusz Ciurus Trading AS Bestconnect",
+      "domain": "mynet.pl"
     }
   }
 ]

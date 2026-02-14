@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://38.156.23.225:999",
-    "tested_at": "2026-02-14T17:53:51Z",
-    "ip": "38.156.23.250",
+    "proxy": "http://38.156.14.34:999",
+    "tested_at": "2026-02-14T18:25:20Z",
+    "ip": "38.156.14.34",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Santo Domingo",
+    "region_code": "32",
+    "city": "Santo Domingo Este",
+    "latitude": 18.505583,
+    "longitude": -69.8001762,
+    "is_eu": false,
+    "postal": "11507",
+    "connection": {
+      "asn": 273224,
+      "org": "Cogent Communications",
+      "isp": "BRAVIC SRL",
+      "domain": "cismatechnology.com"
+    }
+  },
+  {
+    "proxy": "http://217.76.245.24:999",
+    "tested_at": "2026-02-14T18:25:47Z",
+    "ip": "217.76.245.25",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -16,33 +39,10 @@
     "is_eu": false,
     "postal": "51000",
     "connection": {
-      "asn": 64134,
-      "org": "VISNETWORK SRL",
-      "isp": "VISNETWORK SRL",
-      "domain": "visnetworkrd.com"
-    }
-  },
-  {
-    "proxy": "http://38.253.88.242:999",
-    "tested_at": "2026-02-14T17:54:16Z",
-    "ip": "190.112.200.146",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "La Vega",
-    "region_code": "13",
-    "city": "La Vega",
-    "latitude": 19.2152609,
-    "longitude": -70.5205436,
-    "is_eu": false,
-    "postal": "41000",
-    "connection": {
-      "asn": 272027,
-      "org": "LAUAM MEGARED TELECOM, SRL.",
-      "isp": "LAUAM MEGARED TELECOM, S.R.L.",
-      "domain": "megared.com.do"
+      "asn": 271968,
+      "org": "CEMO",
+      "isp": "CENTRIC MOBILITY CEMO , S.R.L",
+      "domain": "cemo.com.do"
     }
   }
 ]

@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://190.188.131.87:8080",
-    "tested_at": "2026-02-14T17:53:57Z",
-    "ip": "190.188.131.87",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Buenos Aires",
-    "region_code": "B",
-    "city": "Mar del Plata",
-    "latitude": -38.0054771,
-    "longitude": -57.5426106,
-    "is_eu": false,
-    "postal": "7600",
-    "connection": {
-      "asn": 7303,
-      "org": "Telecom Argentina S.A.",
-      "isp": "Telecom Argentina S.A.",
-      "domain": "telecom.com.ar"
-    }
-  },
-  {
-    "proxy": "http://181.209.82.202:999",
-    "tested_at": "2026-02-14T17:54:24Z",
-    "ip": "181.209.82.202",
+    "proxy": "http://186.18.198.45:8080",
+    "tested_at": "2026-02-14T18:24:52Z",
+    "ip": "186.18.198.45",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -39,15 +16,38 @@
     "is_eu": false,
     "postal": "C1405 DJG",
     "connection": {
-      "asn": 52361,
-      "org": "Net g S.R.L",
-      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
-      "domain": "arsat.com.ar"
+      "asn": 27747,
+      "org": "Telecentro S.A. Clientes Residenciales",
+      "isp": "Telecentro S.A.",
+      "domain": "telecentro.net.ar"
+    }
+  },
+  {
+    "proxy": "http://179.0.183.182:999",
+    "tested_at": "2026-02-14T18:25:17Z",
+    "ip": "179.0.183.179",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Corrientes",
+    "region_code": "W",
+    "city": "Corrientes",
+    "latitude": -27.4692131,
+    "longitude": -58.8306349,
+    "is_eu": false,
+    "postal": "3400",
+    "connection": {
+      "asn": 270044,
+      "org": "CORRIENTES TELECOMUNICACIONES S.A.P.E.M.",
+      "isp": "CORRIENTES TELECOMUNICACIONES S.A.P.E.M.",
+      "domain": "telco.com.ar"
     }
   },
   {
     "proxy": "http://72.10.164.178:19573",
-    "tested_at": "2026-02-14T17:54:25Z",
+    "tested_at": "2026-02-14T18:25:41Z",
     "ip": "181.26.10.30",
     "success": true,
     "type": "IPv4",

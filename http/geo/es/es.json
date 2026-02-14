@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://188.227.140.181:8080",
-    "tested_at": "2026-02-14T17:54:23Z",
-    "ip": "188.227.140.181",
+    "proxy": "http://2.139.62.85:3128",
+    "tested_at": "2026-02-14T18:24:53Z",
+    "ip": "2.139.62.85",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +16,10 @@
     "is_eu": true,
     "postal": "28080",
     "connection": {
-      "asn": 56882,
-      "org": "AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
-      "isp": "AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
-      "domain": "airenetworks.es"
+      "asn": 3352,
+      "org": "Red De Servicios Ip",
+      "isp": "TELEFONICA DE ESPANA S.A.U.",
+      "domain": "telefonica.es"
     }
   }
 ]

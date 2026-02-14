@@ -1,31 +1,31 @@
 [
   {
-    "proxy": "https://47.243.181.85:41419",
-    "tested_at": "2026-02-14T17:54:04Z",
-    "ip": "2405:6580:a220:6200:6493:2407:f131:e74d",
+    "proxy": "https://47.243.181.85:41399",
+    "tested_at": "2026-02-14T18:24:52Z",
+    "ip": "49.109.7.163",
     "success": true,
-    "type": "IPv6",
+    "type": "IPv4",
     "continent": "Asia",
     "country": "Japan",
     "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Chiyoda",
-    "latitude": 35.6940027,
-    "longitude": 139.7535951,
+    "region": "Tochigi Prefecture",
+    "region_code": "09",
+    "city": "Nikko",
+    "latitude": 36.7235374,
+    "longitude": 139.6949664,
     "is_eu": false,
-    "postal": "100-0003",
+    "postal": "321-1272",
     "connection": {
-      "asn": 4685,
-      "org": "Asahi Net, Inc.",
-      "isp": "Asahi Net",
-      "domain": "asahi-net.jp"
+      "asn": 9605,
+      "org": "NTT DOCOMO,INC.",
+      "isp": "NTT DOCOMO, INC.",
+      "domain": "nttdocomo.com"
     }
   },
   {
-    "proxy": "https://203.189.96.232:443",
-    "tested_at": "2026-02-14T17:54:05Z",
-    "ip": "203.189.96.232",
+    "proxy": "https://20.78.213.56:443",
+    "tested_at": "2026-02-14T18:25:36Z",
+    "ip": "20.78.213.56",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,33 +39,33 @@
     "is_eu": false,
     "postal": "100-0002",
     "connection": {
-      "asn": 7506,
-      "org": "Gmo Internet, Inc.",
-      "isp": "Gmo Internet Group, Inc.",
-      "domain": "internet.gmo"
+      "asn": 8075,
+      "org": "Microsoft Corporation",
+      "isp": "Microsoft Corporation",
+      "domain": "microsoft.com"
     }
   },
   {
-    "proxy": "https://47.243.181.85:41399",
-    "tested_at": "2026-02-14T17:54:05Z",
-    "ip": "2400:4050:a5e3:1600:620e:f140:8462:f0dc",
+    "proxy": "https://47.243.181.85:41419",
+    "tested_at": "2026-02-14T18:25:42Z",
+    "ip": "2402:6b00:f336:f500:21b6:2641:c980:5b85",
     "success": true,
     "type": "IPv6",
     "continent": "Asia",
     "country": "Japan",
     "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Bunkyo City",
-    "latitude": 35.7293345,
-    "longitude": 139.751153,
+    "region": "Gifu Prefecture",
+    "region_code": "21",
+    "city": "Kani",
+    "latitude": 35.4261208,
+    "longitude": 137.0610107,
     "is_eu": false,
-    "postal": "113-0021",
+    "postal": "509-0292",
     "connection": {
-      "asn": 4713,
-      "org": "NTT COMMUNICATIONS CORPORATION",
-      "isp": "NTT Docomo Business,inc.",
-      "domain": "ocn.ad.jp"
+      "asn": 18126,
+      "org": "Chubu Telecommunications CO.,INC.",
+      "isp": "Chubu Telecommunications CO.,INC.",
+      "domain": "ctc.co.jp"
     }
   }
 ]

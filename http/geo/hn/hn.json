@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://72.10.160.90:5369",
-    "tested_at": "2026-02-14T17:54:03Z",
-    "ip": "38.172.40.33",
+    "proxy": "http://181.78.44.63:999",
+    "tested_at": "2026-02-14T18:25:24Z",
+    "ip": "181.78.44.63",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Honduras",
     "country_code": "HN",
-    "region": "Francisco Morazán",
-    "region_code": "FM",
-    "city": "Tegucigalpa",
-    "latitude": 14.0722751,
-    "longitude": -87.192136,
+    "region": "Cortés",
+    "region_code": "CR",
+    "city": "San Pedro Sula",
+    "latitude": 15.5149204,
+    "longitude": -87.9922684,
     "is_eu": false,
-    "postal": "12101",
+    "postal": "21101",
     "connection": {
-      "asn": 27884,
-      "org": "Cogent Communications",
-      "isp": "CABLECOLOR S.A.",
-      "domain": "cablecolor.hn"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.91:5369",
-    "tested_at": "2026-02-14T17:54:13Z",
-    "ip": "38.172.40.33",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Honduras",
-    "country_code": "HN",
-    "region": "Francisco Morazán",
-    "region_code": "FM",
-    "city": "Tegucigalpa",
-    "latitude": 14.0722751,
-    "longitude": -87.192136,
-    "is_eu": false,
-    "postal": "12101",
-    "connection": {
-      "asn": 27884,
-      "org": "Cogent Communications",
-      "isp": "CABLECOLOR S.A.",
-      "domain": "cablecolor.hn"
+      "asn": 52468,
+      "org": "Ufinet Honduras, S. A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "ufinet.com"
     }
   }
 ]

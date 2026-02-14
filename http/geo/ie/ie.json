@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://94.102.193.91:8080",
-    "tested_at": "2026-02-14T16:51:50Z",
-    "ip": "94.102.193.91",
+    "proxy": "http://23.95.225.122:1080",
+    "tested_at": "2026-02-14T18:25:00Z",
+    "ip": "23.95.225.122",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,16 +10,16 @@
     "country_code": "IE",
     "region": "Leinster",
     "region_code": "L",
-    "city": "Carlow",
-    "latitude": 52.8365072,
-    "longitude": -6.9341359,
+    "city": "Dublin",
+    "latitude": 53.3165322,
+    "longitude": -6.3425318,
     "is_eu": true,
-    "postal": "R93 TE83",
+    "postal": "D01 P5P5",
     "connection": {
-      "asn": 47942,
-      "org": "Regional Broadband",
-      "isp": "Regional Telecom LTD",
-      "domain": "regionalbroadband.ie"
+      "asn": 36352,
+      "org": "Racknerd LLC",
+      "isp": "HostPapa",
+      "domain": "racknerd.com"
     }
   }
 ]

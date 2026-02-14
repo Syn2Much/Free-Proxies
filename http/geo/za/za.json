@@ -1,31 +1,31 @@
 [
   {
-    "proxy": "http://160.119.228.146:12354",
-    "tested_at": "2026-02-14T17:53:58Z",
-    "ip": "160.119.228.146",
+    "proxy": "http://196.216.132.43:8080",
+    "tested_at": "2026-02-14T18:25:17Z",
+    "ip": "196.216.132.43",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "South Africa",
     "country_code": "ZA",
-    "region": "Gauteng",
-    "region_code": "GT",
-    "city": "Randburg",
-    "latitude": -26.1438399,
-    "longitude": 27.9951862,
+    "region": "North West",
+    "region_code": "NW",
+    "city": "Lichtenburg",
+    "latitude": -26.1093224,
+    "longitude": 26.1713917,
     "is_eu": false,
-    "postal": "2194",
+    "postal": "2740",
     "connection": {
-      "asn": 328137,
-      "org": "Web Squad Connect",
-      "isp": "Web Squad Connect pty LTD",
-      "domain": "websquad.co.za"
+      "asn": 328471,
+      "org": "HERO TELECOMS PTY LTD",
+      "isp": "HERO TELECOMS PTY LTD",
+      "domain": "herotel.com"
     }
   },
   {
-    "proxy": "http://196.251.222.229:8103",
-    "tested_at": "2026-02-14T17:54:25Z",
-    "ip": "196.251.222.205",
+    "proxy": "http://102.212.44.151:12354",
+    "tested_at": "2026-02-14T18:25:20Z",
+    "ip": "102.212.44.197",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -39,10 +39,10 @@
     "is_eu": false,
     "postal": "2001",
     "connection": {
-      "asn": 37403,
-      "org": "Infogro Dsl",
-      "isp": "Info gro pty LTD",
-      "domain": "infogro.net"
+      "asn": 329243,
+      "org": "OM SN",
+      "isp": "One Mile Telecoms pty Ltd.",
+      "domain": "1mile.co.za"
     }
   }
 ]

@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://45.171.166.146:999",
-    "tested_at": "2026-02-14T17:53:47Z",
-    "ip": "45.171.166.145",
+    "proxy": "http://45.166.72.35:999",
+    "tested_at": "2026-02-14T18:24:52Z",
+    "ip": "201.218.140.141",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Arequipa",
+    "region_code": "ARE",
+    "city": "La Joya District",
+    "latitude": -16.7300002,
+    "longitude": -71.8808499,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 271842,
+      "org": "PIT",
+      "isp": "M B Soluciones Peru S.A.C. fastnet",
+      "domain": "optic.cl"
+    }
+  },
+  {
+    "proxy": "http://38.190.100.105:999",
+    "tested_at": "2026-02-14T18:25:10Z",
+    "ip": "38.190.100.106",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -10,44 +33,44 @@
     "country_code": "PE",
     "region": "Lima",
     "region_code": "LIM",
-    "city": "San Juan de Lurigancho",
-    "latitude": -11.9689301,
-    "longitude": -76.9939836,
+    "city": "Independencia",
+    "latitude": -11.9929208,
+    "longitude": -77.0518169,
     "is_eu": false,
-    "postal": "15401",
+    "postal": "95300",
     "connection": {
       "asn": 273133,
-      "org": "CONEX TV E.I.R.L.",
+      "org": "Cogent Communications",
       "isp": "CONEX TV E.I.R.L.",
       "domain": "conextv.pe"
     }
   },
   {
-    "proxy": "http://170.81.241.226:999",
-    "tested_at": "2026-02-14T17:54:17Z",
-    "ip": "170.81.241.226",
+    "proxy": "http://200.107.142.39:3128",
+    "tested_at": "2026-02-14T18:25:18Z",
+    "ip": "200.107.142.38",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Peru",
     "country_code": "PE",
-    "region": "Lambayeque",
-    "region_code": "LAM",
-    "city": "Chiclayo",
-    "latitude": -6.7765974,
-    "longitude": -79.8442978,
+    "region": "Cajamarca",
+    "region_code": "CAJ",
+    "city": "San Ignacio",
+    "latitude": -5.146268,
+    "longitude": -79.0023523,
     "is_eu": false,
-    "postal": "",
+    "postal": "3322",
     "connection": {
-      "asn": 269803,
-      "org": "INVENTA TELECOMUNICACIONES EIRL",
-      "isp": "INVENTA TELECOMUNICACIONES EIRL",
-      "domain": "inventa.pe"
+      "asn": 6147,
+      "org": "TELEFONICA DEL PERU SAA",
+      "isp": "INTEGRATEL PER S.A.A.",
+      "domain": "telefonica.com.pe"
     }
   },
   {
-    "proxy": "http://200.48.35.124:999",
-    "tested_at": "2026-02-14T17:54:24Z",
+    "proxy": "http://200.48.35.122:999",
+    "tested_at": "2026-02-14T18:25:30Z",
     "ip": "200.10.68.234",
     "success": true,
     "type": "IPv4",
@@ -66,6 +89,29 @@
       "org": "INTEGRATEL PER S.A.A.",
       "isp": "INTEGRATEL PER S.A.A.",
       "domain": "telefonica.com.pe"
+    }
+  },
+  {
+    "proxy": "http://38.52.182.101:999",
+    "tested_at": "2026-02-14T18:25:45Z",
+    "ip": "38.52.182.96",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Lima",
+    "region_code": "LIM",
+    "city": "Lima",
+    "latitude": -12.2179228,
+    "longitude": -76.9071431,
+    "is_eu": false,
+    "postal": "15822",
+    "connection": {
+      "asn": 273026,
+      "org": "Cogent Communications",
+      "isp": "NEXSATEL SOCIEDAD ANONIMA CERRADA NEXSATEL S.A.C.",
+      "domain": "nexsatel.com.pe"
     }
   }
 ]

@@ -1,76 +1,7 @@
 [
   {
-    "proxy": "http://141.253.112.177:3160",
-    "tested_at": "2026-02-14T17:53:42Z",
-    "ip": "141.253.103.6",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 31898,
-      "org": "Oracle Svenska Ab",
-      "isp": "Oracle Corporation",
-      "domain": "oracle.com"
-    }
-  },
-  {
-    "proxy": "http://141.253.101.47:3169",
-    "tested_at": "2026-02-14T17:53:43Z",
-    "ip": "141.145.198.169",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 31898,
-      "org": "Oracle Svenska Ab",
-      "isp": "Oracle Corporation",
-      "domain": "oracle.com"
-    }
-  },
-  {
-    "proxy": "http://141.145.206.230:3240",
-    "tested_at": "2026-02-14T17:53:53Z",
-    "ip": "89.168.41.194",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 31898,
-      "org": "Oracle Svenska Ab",
-      "isp": "Oracle Corporation",
-      "domain": "oracle.com"
-    }
-  },
-  {
     "proxy": "http://90.84.188.97:8000",
-    "tested_at": "2026-02-14T17:53:55Z",
+    "tested_at": "2026-02-14T18:25:04Z",
     "ip": "90.84.188.97",
     "success": true,
     "type": "IPv4",
@@ -92,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://89.168.39.32:3201",
-    "tested_at": "2026-02-14T17:54:03Z",
-    "ip": "158.178.214.173",
+    "proxy": "http://178.170.43.106:8081",
+    "tested_at": "2026-02-14T18:25:48Z",
+    "ip": "178.170.43.106",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -102,108 +33,16 @@
     "country_code": "FR",
     "region": "Île-de-France",
     "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
+    "city": "Boulogne-Billancourt",
+    "latitude": 48.8396952,
+    "longitude": 2.2399123,
     "is_eu": true,
-    "postal": "75007",
+    "postal": "92100",
     "connection": {
-      "asn": 31898,
-      "org": "Oracle Corporation",
-      "isp": "Oracle Corporation",
-      "domain": "oracle.com"
-    }
-  },
-  {
-    "proxy": "http://141.253.118.12:3201",
-    "tested_at": "2026-02-14T17:54:03Z",
-    "ip": "158.178.214.173",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 31898,
-      "org": "Oracle Corporation",
-      "isp": "Oracle Corporation",
-      "domain": "oracle.com"
-    }
-  },
-  {
-    "proxy": "http://192.3.20.150:3128",
-    "tested_at": "2026-02-14T17:54:04Z",
-    "ip": "80.67.172.162",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 20766,
-      "org": "Association Gitoyen",
-      "isp": "Association Gitoyen",
-      "domain": "gitoyen.net"
-    }
-  },
-  {
-    "proxy": "http://173.212.215.22:3128",
-    "tested_at": "2026-02-14T17:54:08Z",
-    "ip": "173.212.215.22",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Grand Est",
-    "region_code": "GES",
-    "city": "Lauterbourg",
-    "latitude": 48.974797,
-    "longitude": 8.176773,
-    "is_eu": true,
-    "postal": "67630",
-    "connection": {
-      "asn": 51167,
-      "org": "Contabo GmbH",
-      "isp": "Contabo GmbH",
-      "domain": "contabo.de"
-    }
-  },
-  {
-    "proxy": "http://62.171.161.88:2018",
-    "tested_at": "2026-02-14T17:54:25Z",
-    "ip": "62.171.161.88",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Grand Est",
-    "region_code": "GES",
-    "city": "Lauterbourg",
-    "latitude": 48.974797,
-    "longitude": 8.176773,
-    "is_eu": true,
-    "postal": "67630",
-    "connection": {
-      "asn": 51167,
-      "org": "Contabo GmbH",
-      "isp": "Contabo GmbH",
-      "domain": "contabo.de"
+      "asn": 21409,
+      "org": "SERVERS",
+      "isp": "Ikoula Net SAS",
+      "domain": "ikoula.com"
     }
   }
 ]

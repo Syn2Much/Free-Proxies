@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://178.165.42.166:3128",
-    "tested_at": "2026-02-14T17:54:26Z",
-    "ip": "178.165.42.166",
+    "proxy": "http://195.149.125.150:8080",
+    "tested_at": "2026-02-14T18:25:00Z",
+    "ip": "195.149.125.150",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Ukraine",
     "country_code": "UA",
-    "region": "Kharkiv Oblast",
-    "region_code": "63",
-    "city": "Kharkiv",
-    "latitude": 49.9935,
-    "longitude": 36.230383,
+    "region": "Odesa Oblast",
+    "region_code": "51",
+    "city": "Moldove",
+    "latitude": 46.2141398,
+    "longitude": 29.6513956,
     "is_eu": false,
-    "postal": "61003",
+    "postal": "68271",
     "connection": {
-      "asn": 34700,
-      "org": "Maxnet Ltd., Kharkiv",
-      "isp": "MAXNET TELECOM, LTD",
-      "domain": "maxnet.ua"
+      "asn": 29475,
+      "org": "Complex Communication Systems LTD",
+      "isp": "Complex Communication Systems LTD",
+      "domain": "tst.od.ua"
+    }
+  },
+  {
+    "proxy": "http://178.34.190.6:8080",
+    "tested_at": "2026-02-14T18:25:48Z",
+    "ip": "178.34.190.6",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Simferopol municipality council",
+    "region_code": "",
+    "city": "Simferopol",
+    "latitude": 44.952117,
+    "longitude": 34.102417,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 201776,
+      "org": "Miranda media LTD",
+      "isp": "Miranda media LTD",
+      "domain": "miranda-media.ru"
     }
   }
 ]

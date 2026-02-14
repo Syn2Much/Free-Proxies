@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://91.187.113.68:8080",
-    "tested_at": "2026-02-14T17:54:25Z",
+    "tested_at": "2026-02-14T18:25:10Z",
     "ip": "91.187.113.68",
     "success": true,
     "type": "IPv4",
@@ -20,29 +20,6 @@
       "org": "IPKO 11",
       "isp": "Ipko Telecommunications LLC",
       "domain": "ipko.com"
-    }
-  },
-  {
-    "proxy": "http://84.22.48.28:8080",
-    "tested_at": "2026-02-14T17:54:27Z",
-    "ip": "84.22.48.28",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Kosovo",
-    "country_code": "XK",
-    "region": "",
-    "region_code": "",
-    "city": "Malishevë",
-    "latitude": 42.4838334,
-    "longitude": 20.743101,
-    "is_eu": false,
-    "postal": "24000",
-    "connection": {
-      "asn": 33983,
-      "org": "ARTMOTION SH.P.K.",
-      "isp": "ARTMOTION SH.P.K.",
-      "domain": "artmotion.net"
     }
   }
 ]

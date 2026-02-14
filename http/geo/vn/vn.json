@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://103.3.246.71:3128",
-    "tested_at": "2026-02-14T17:53:58Z",
+    "tested_at": "2026-02-14T18:25:29Z",
     "ip": "103.3.246.71",
     "success": true,
     "type": "IPv4",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://152.32.255.24:27197",
-    "tested_at": "2026-02-14T17:54:13Z",
-    "ip": "152.32.255.24",
+    "proxy": "http://67.43.228.250:27011",
+    "tested_at": "2026-02-14T18:25:33Z",
+    "ip": "118.70.100.215",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,33 +39,33 @@
     "is_eu": false,
     "postal": "708000",
     "connection": {
-      "asn": 135377,
-      "org": "UCLOUD INFORMATION TECHNOLOGY HK LIMITED",
-      "isp": "UCLOUD INFORMATION TECHNOLOGY HK LIMITED",
-      "domain": "ucloud.cn"
+      "asn": 18403,
+      "org": "Dai Ip Dong Ket Noi Xdsl",
+      "isp": "Fpt Telecom Company",
+      "domain": "fpt.com"
     }
   },
   {
-    "proxy": "http://14.224.181.172:8080",
-    "tested_at": "2026-02-14T17:54:28Z",
-    "ip": "14.224.181.172",
+    "proxy": "http://222.252.97.26:8008",
+    "tested_at": "2026-02-14T18:25:37Z",
+    "ip": "222.252.97.26",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Vietnam",
     "country_code": "VN",
-    "region": "Ho Chi Minh",
-    "region_code": "SG",
-    "city": "Ho Chi Minh City",
-    "latitude": 10.8230989,
-    "longitude": 106.6296638,
+    "region": "Hanoi",
+    "region_code": "HN",
+    "city": "Hanoi",
+    "latitude": 21.0277644,
+    "longitude": 105.8341598,
     "is_eu": false,
-    "postal": "708000",
+    "postal": "110905",
     "connection": {
       "asn": 45899,
-      "org": "Vietnam Posts And Telecommunications Group",
+      "org": "Hanoi Post And Telecom Company",
       "isp": "Vnpt Corp",
-      "domain": "vnpt.com.vn"
+      "domain": "vnpt-hanoi.com.vn"
     }
   }
 ]
