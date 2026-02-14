@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://154.64.215.132:999",
-    "tested_at": "2026-02-14T07:02:16Z",
-    "ip": "23.130.144.12",
+    "proxy": "http://67.206.213.202:3120",
+    "tested_at": "2026-02-14T09:07:05Z",
+    "ip": "67.206.213.202",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,16 +10,16 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "San Sebastián",
-    "latitude": 18.3327741,
-    "longitude": -66.9958226,
+    "city": "San Juan",
+    "latitude": 18.4655394,
+    "longitude": -66.1057355,
     "is_eu": false,
-    "postal": "00685",
+    "postal": "00901",
     "connection": {
-      "asn": 397470,
-      "org": "Antoniol Electronic",
-      "isp": "Antoniol Electronic",
-      "domain": "alenet.co"
+      "asn": 11992,
+      "org": "Liberty Mobile Puerto Rico Inc.",
+      "isp": "Liberty Mobile Puerto Rico Inc.",
+      "domain": "libertypr.com"
     }
   }
 ]

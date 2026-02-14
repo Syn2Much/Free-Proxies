@@ -1,7 +1,7 @@
 [
   {
-    "proxy": "http://178.251.111.20:8080",
-    "tested_at": "2026-02-14T08:04:31Z",
+    "proxy": "http://178.251.111.21:8080",
+    "tested_at": "2026-02-14T09:06:55Z",
     "ip": "178.251.111.18",
     "success": true,
     "type": "IPv4",
@@ -23,32 +23,9 @@
     }
   },
   {
-    "proxy": "http://91.228.217.195:8989",
-    "tested_at": "2026-02-14T08:04:41Z",
-    "ip": "91.228.217.195",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Ivano-Frankivsk Oblast",
-    "region_code": "",
-    "city": "Kryvorivnya",
-    "latitude": 48.1736874,
-    "longitude": 24.8963763,
-    "is_eu": false,
-    "postal": "78710",
-    "connection": {
-      "asn": 209907,
-      "org": "Fop Saiv Igor Stepanovich",
-      "isp": "Fop Saiv Igor Stepanovich",
-      "domain": "gipernet.com.ua"
-    }
-  },
-  {
-    "proxy": "http://31.134.120.124:1214",
-    "tested_at": "2026-02-14T08:04:43Z",
-    "ip": "31.134.120.124",
+    "proxy": "http://91.214.31.234:8080",
+    "tested_at": "2026-02-14T09:06:59Z",
+    "ip": "91.214.31.234",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -62,33 +39,102 @@
     "is_eu": false,
     "postal": "01001",
     "connection": {
-      "asn": 56668,
-      "org": "Fop Demchuk Sergiy Olexandrovuch",
-      "isp": "Fop Demchuk Sergiy Olexandrovuch",
-      "domain": "simnet.kiev.ua"
+      "asn": 49327,
+      "org": "Tov Telza",
+      "isp": "Tov Telza",
+      "domain": "telza.zp.ua"
     }
   },
   {
-    "proxy": "http://46.185.34.136:8187",
-    "tested_at": "2026-02-14T08:04:55Z",
-    "ip": "46.185.34.136",
+    "proxy": "http://178.251.111.22:8080",
+    "tested_at": "2026-02-14T09:06:59Z",
+    "ip": "178.251.111.18",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Ukraine",
     "country_code": "UA",
-    "region": "Rivne Oblast",
-    "region_code": "",
-    "city": "Rivne",
-    "latitude": 50.6199,
-    "longitude": 26.251617,
+    "region": "Sumy Oblast",
+    "region_code": "59",
+    "city": "Konotop",
+    "latitude": 51.2409432,
+    "longitude": 33.2050521,
     "is_eu": false,
-    "postal": "27160",
+    "postal": "",
     "connection": {
-      "asn": 15895,
-      "org": "Kyivstar Gsm",
-      "isp": "Kyivstar Pjsc",
-      "domain": "kyivstar.net"
+      "asn": 35297,
+      "org": "Dataline LLC",
+      "isp": "Dataline LLC",
+      "domain": "dataline.ua"
+    }
+  },
+  {
+    "proxy": "http://91.238.104.171:2023",
+    "tested_at": "2026-02-14T09:07:08Z",
+    "ip": "91.238.104.171",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Kyiv city",
+    "region_code": "30",
+    "city": "Kyiv",
+    "latitude": 50.4501,
+    "longitude": 30.5234,
+    "is_eu": false,
+    "postal": "01001",
+    "connection": {
+      "asn": 50321,
+      "org": "Fop Reznichenko Sergey Mykolayovich",
+      "isp": "Fop Reznichenko Sergey Mykolayovich",
+      "domain": "bytes.ua"
+    }
+  },
+  {
+    "proxy": "http://178.251.111.20:8080",
+    "tested_at": "2026-02-14T09:07:17Z",
+    "ip": "178.251.111.18",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Sumy Oblast",
+    "region_code": "59",
+    "city": "Konotop",
+    "latitude": 51.2409432,
+    "longitude": 33.2050521,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 35297,
+      "org": "Dataline LLC",
+      "isp": "Dataline LLC",
+      "domain": "dataline.ua"
+    }
+  },
+  {
+    "proxy": "http://77.52.187.196:18080",
+    "tested_at": "2026-02-14T09:07:30Z",
+    "ip": "77.52.187.196",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Dnipropetrovsk Oblast",
+    "region_code": "12",
+    "city": "Shyroke",
+    "latitude": 47.693307,
+    "longitude": 33.2682606,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 21497,
+      "org": "Prjsc Vf Ukraine",
+      "isp": "Prjsc Vf Ukraine",
+      "domain": "vodafone.ua"
     }
   }
 ]

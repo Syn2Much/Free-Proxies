@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://8.209.255.13:3128",
-    "tested_at": "2026-02-14T08:35:24Z",
+    "tested_at": "2026-02-14T09:06:48Z",
     "ip": "8.209.255.13",
     "success": true,
     "type": "IPv4",
@@ -23,31 +23,31 @@
     }
   },
   {
-    "proxy": "http://140.227.61.201:3128",
-    "tested_at": "2026-02-14T08:35:35Z",
-    "ip": "140.227.61.201",
+    "proxy": "http://67.43.236.18:20971",
+    "tested_at": "2026-02-14T09:06:59Z",
+    "ip": "219.104.170.200",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Japan",
     "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Chiyoda",
-    "latitude": 35.6940027,
-    "longitude": 139.7535951,
+    "region": "Osaka Prefecture",
+    "region_code": "27",
+    "city": "Osaka",
+    "latitude": 34.6937378,
+    "longitude": 135.5021651,
     "is_eu": false,
-    "postal": "100-0003",
+    "postal": "530-8201",
     "connection": {
-      "asn": 2514,
-      "org": "Infosphere nttpc Communications, Inc.",
-      "isp": "NTT Pc Communications, Inc.",
-      "domain": "nttpc.co.jp"
+      "asn": 2527,
+      "org": "So net Service",
+      "isp": "Sony Network Communications Inc.",
+      "domain": "sonynetwork.co.jp"
     }
   },
   {
     "proxy": "http://150.230.104.3:16728",
-    "tested_at": "2026-02-14T08:35:42Z",
+    "tested_at": "2026-02-14T09:07:12Z",
     "ip": "150.230.104.3",
     "success": true,
     "type": "IPv4",
@@ -69,9 +69,9 @@
     }
   },
   {
-    "proxy": "http://157.120.34.237:3128",
-    "tested_at": "2026-02-14T08:36:18Z",
-    "ip": "157.120.34.237",
+    "proxy": "http://140.227.61.201:3128",
+    "tested_at": "2026-02-14T09:07:15Z",
+    "ip": "140.227.61.201",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -79,16 +79,39 @@
     "country_code": "JP",
     "region": "Tokyo",
     "region_code": "13",
-    "city": "Minato",
-    "latitude": 35.6580681,
-    "longitude": 139.7515992,
+    "city": "Chiyoda",
+    "latitude": 35.6940027,
+    "longitude": 139.7535951,
     "is_eu": false,
-    "postal": "108-0074",
+    "postal": "100-0003",
     "connection": {
       "asn": 2514,
-      "org": "NTTPCCommunications,Inc.",
+      "org": "Infosphere nttpc Communications, Inc.",
       "isp": "NTT Pc Communications, Inc.",
       "domain": "nttpc.co.jp"
+    }
+  },
+  {
+    "proxy": "http://47.79.94.78:1122",
+    "tested_at": "2026-02-14T09:07:22Z",
+    "ip": "47.79.94.78",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
+    "is_eu": false,
+    "postal": "100-0002",
+    "connection": {
+      "asn": 45102,
+      "org": "Alibaba Cloud LLC",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibaba-inc.com"
     }
   }
 ]

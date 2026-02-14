@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://5.75.198.16:1080",
-    "tested_at": "2026-02-14T08:35:23Z",
+    "tested_at": "2026-02-14T09:06:47Z",
     "ip": "2a01:4f8:1c1b:12a0::1",
     "success": true,
     "type": "IPv6",
@@ -23,9 +23,32 @@
     }
   },
   {
-    "proxy": "http://157.230.106.35:8080",
-    "tested_at": "2026-02-14T08:35:27Z",
-    "ip": "157.230.106.35",
+    "proxy": "http://40.177.106.156:8080",
+    "tested_at": "2026-02-14T09:06:49Z",
+    "ip": "185.220.101.128",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Brandenburg",
+    "region_code": "BB",
+    "city": "Brandenburg",
+    "latitude": 52.4125287,
+    "longitude": 12.5316444,
+    "is_eu": true,
+    "postal": "14770",
+    "connection": {
+      "asn": 60729,
+      "org": "Artikel10 E.V.",
+      "isp": "Stiftung Erneuerbare Freiheit",
+      "domain": "relayon.org"
+    }
+  },
+  {
+    "proxy": "http://51.250.88.121:9998",
+    "tested_at": "2026-02-14T09:07:08Z",
+    "ip": "139.59.148.123",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -47,10 +70,10 @@
   },
   {
     "proxy": "http://128.140.118.165:1080",
-    "tested_at": "2026-02-14T08:35:46Z",
-    "ip": "2a01:4f8:c17:162d::1",
+    "tested_at": "2026-02-14T09:07:18Z",
+    "ip": "128.140.118.165",
     "success": true,
-    "type": "IPv6",
+    "type": "IPv4",
     "continent": "Europe",
     "country": "Germany",
     "country_code": "DE",
@@ -69,26 +92,72 @@
     }
   },
   {
-    "proxy": "http://35.180.127.14:1001",
-    "tested_at": "2026-02-14T08:35:47Z",
-    "ip": "185.220.100.241",
+    "proxy": "http://40.177.211.224:9019",
+    "tested_at": "2026-02-14T09:07:19Z",
+    "ip": "185.220.101.104",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Germany",
     "country_code": "DE",
-    "region": "Bavaria",
-    "region_code": "BY",
-    "city": "Nuremberg",
-    "latitude": 49.4254092,
-    "longitude": 11.0796553,
+    "region": "Brandenburg",
+    "region_code": "BB",
+    "city": "Brandenburg",
+    "latitude": 52.4125287,
+    "longitude": 12.5316444,
     "is_eu": true,
-    "postal": "90403",
+    "postal": "14770",
     "connection": {
-      "asn": 205100,
-      "org": "F Netze E.V.",
-      "isp": "F Netze E.V.",
-      "domain": "f3netze.de"
+      "asn": 60729,
+      "org": "Artikel10 E.V.",
+      "isp": "Stiftung Erneuerbare Freiheit",
+      "domain": "relayon.org"
+    }
+  },
+  {
+    "proxy": "http://195.133.44.205:8443",
+    "tested_at": "2026-02-14T09:07:28Z",
+    "ip": "195.133.44.205",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Hesse",
+    "region_code": "HE",
+    "city": "Frankfurt",
+    "latitude": 50.1109221,
+    "longitude": 8.6821267,
+    "is_eu": true,
+    "postal": "60311",
+    "connection": {
+      "asn": 215346,
+      "org": "Glb Bulut Teknolojisi Limited Sirketi",
+      "isp": "Big Data Host LLC",
+      "domain": "yandex.com"
+    }
+  },
+  {
+    "proxy": "http://47.91.65.23:3128",
+    "tested_at": "2026-02-14T09:07:32Z",
+    "ip": "47.91.65.23",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Hesse",
+    "region_code": "HE",
+    "city": "Frankfurt",
+    "latitude": 50.1109221,
+    "longitude": 8.6821267,
+    "is_eu": true,
+    "postal": "60311",
+    "connection": {
+      "asn": 45102,
+      "org": "Alibaba Cloud De",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibabacloud.com"
     }
   }
 ]

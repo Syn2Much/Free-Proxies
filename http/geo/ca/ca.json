@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://72.10.164.178:11931",
-    "tested_at": "2026-02-14T08:35:23Z",
-    "ip": "154.20.85.121",
+    "proxy": "http://188.227.196.62:1080",
+    "tested_at": "2026-02-14T09:07:13Z",
+    "ip": "188.227.196.62",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Canada",
     "country_code": "CA",
-    "region": "British Columbia",
-    "region_code": "BC",
-    "city": "Langley",
-    "latitude": 49.0743308,
-    "longitude": -122.5593218,
+    "region": "Québec",
+    "region_code": "QC",
+    "city": "Québec City",
+    "latitude": 46.8138783,
+    "longitude": -71.2079809,
     "is_eu": false,
-    "postal": "V3A 0C7",
+    "postal": "G1R 4S9",
     "connection": {
-      "asn": 852,
-      "org": "TELUS DSL PNTNBC0",
-      "isp": "Telus Communications Inc.",
-      "domain": "telus.com"
+      "asn": 400897,
+      "org": "PetroSky",
+      "isp": "PETROSKY CLOUD LLC",
+      "domain": "abuseradar.com"
     }
   }
 ]

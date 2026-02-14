@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://13.212.222.137:29503",
-    "tested_at": "2026-02-14T06:30:08Z",
-    "ip": "64.190.76.14",
+    "proxy": "http://149.86.206.27:8080",
+    "tested_at": "2026-02-14T09:07:20Z",
+    "ip": "149.86.206.27",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Italy",
     "country_code": "IT",
-    "region": "Piemont",
-    "region_code": "21",
-    "city": "Turin",
-    "latitude": 45.070312,
-    "longitude": 7.6868565,
+    "region": "Tuscany",
+    "region_code": "52",
+    "city": "Pistoia",
+    "latitude": 43.9303475,
+    "longitude": 10.9078587,
     "is_eu": true,
-    "postal": "10100",
+    "postal": "51100",
     "connection": {
-      "asn": 214094,
-      "org": "Davide Silvetti Trading AS association Osservatorio Nessuno Odv",
-      "isp": "Davide Silvetti Trading AS association Osservatorio Nessuno Odv",
-      "domain": "osservatorionessuno.org"
+      "asn": 60501,
+      "org": "Cogent Communications",
+      "isp": "Sirius Technology SRL",
+      "domain": "siriustec.it"
     }
   }
 ]

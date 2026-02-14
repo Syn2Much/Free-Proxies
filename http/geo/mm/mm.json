@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://72.10.160.173:5901",
-    "tested_at": "2026-02-14T08:36:16Z",
-    "ip": "42.156.33.248",
+    "proxy": "http://203.81.69.126:1248",
+    "tested_at": "2026-02-14T09:07:12Z",
+    "ip": "203.81.69.126",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "00000",
     "connection": {
-      "asn": 136474,
-      "org": "Marga Global Telecom Limited",
-      "isp": "Marga Global Telecom Limited",
-      "domain": "margaglobal.com"
+      "asn": 9988,
+      "org": "Myanma Post And Telecommunication",
+      "isp": "Myanma Post Telecommunication",
+      "domain": "mptjo.com.mm"
     }
   }
 ]

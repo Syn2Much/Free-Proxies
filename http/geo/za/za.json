@@ -1,8 +1,54 @@
 [
   {
-    "proxy": "http://72.10.164.178:32647",
-    "tested_at": "2026-02-14T08:35:25Z",
-    "ip": "185.203.122.23",
+    "proxy": "http://217.29.209.22:8865",
+    "tested_at": "2026-02-14T09:06:54Z",
+    "ip": "217.29.209.22",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "North West",
+    "region_code": "NW",
+    "city": "Potchefstroom",
+    "latitude": -26.7145297,
+    "longitude": 27.0970475,
+    "is_eu": false,
+    "postal": "2520",
+    "connection": {
+      "asn": 328471,
+      "org": "HERO TELECOMS PTY LTD",
+      "isp": "HERO TELECOMS PTY LTD",
+      "domain": "herotel.com"
+    }
+  },
+  {
+    "proxy": "http://196.251.193.116:8082",
+    "tested_at": "2026-02-14T09:06:58Z",
+    "ip": "196.251.193.116",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "North West",
+    "region_code": "NW",
+    "city": "Brits",
+    "latitude": -25.6099895,
+    "longitude": 27.7959713,
+    "is_eu": false,
+    "postal": "0250",
+    "connection": {
+      "asn": 37403,
+      "org": "Infogro Dsl",
+      "isp": "Info gro pty LTD",
+      "domain": "infogro.net"
+    }
+  },
+  {
+    "proxy": "http://196.251.222.29:8103",
+    "tested_at": "2026-02-14T09:07:00Z",
+    "ip": "196.251.222.250",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,10 +62,56 @@
     "is_eu": false,
     "postal": "2001",
     "connection": {
-      "asn": 212238,
-      "org": "Packethub S.A.",
-      "isp": "Datacamp Limited",
-      "domain": "packethub.net"
+      "asn": 37403,
+      "org": "Infogro Dsl",
+      "isp": "Info gro pty LTD",
+      "domain": "infogro.net"
+    }
+  },
+  {
+    "proxy": "http://196.251.222.25:8102",
+    "tested_at": "2026-02-14T09:07:06Z",
+    "ip": "196.251.222.250",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Gauteng",
+    "region_code": "GT",
+    "city": "Johannesburg",
+    "latitude": -26.2041028,
+    "longitude": 28.0473051,
+    "is_eu": false,
+    "postal": "2001",
+    "connection": {
+      "asn": 37403,
+      "org": "Infogro Dsl",
+      "isp": "Info gro pty LTD",
+      "domain": "infogro.net"
+    }
+  },
+  {
+    "proxy": "http://169.159.128.76:8865",
+    "tested_at": "2026-02-14T09:07:09Z",
+    "ip": "169.159.128.76",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Gauteng",
+    "region_code": "GT",
+    "city": "Pretoria",
+    "latitude": -25.7478676,
+    "longitude": 28.2292712,
+    "is_eu": false,
+    "postal": "0126",
+    "connection": {
+      "asn": 328471,
+      "org": "HERO TELECOMS PTY LTD",
+      "isp": "HERO TELECOMS PTY LTD",
+      "domain": "herotel.com"
     }
   }
 ]

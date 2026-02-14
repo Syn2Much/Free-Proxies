@@ -1,7 +1,168 @@
 [
   {
+    "proxy": "http://168.197.182.222:8080",
+    "tested_at": "2026-02-14T09:06:54Z",
+    "ip": "168.197.182.222",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "Piauí",
+    "region_code": "PI",
+    "city": "Elesbão Veloso",
+    "latitude": -6.2001145,
+    "longitude": -42.1356405,
+    "is_eu": false,
+    "postal": "64325-000",
+    "connection": {
+      "asn": 272624,
+      "org": "Vision Connect Telecomunica oes LTDA Me",
+      "isp": "GDM TELECOM EIRELI",
+      "domain": "registro.br"
+    }
+  },
+  {
+    "proxy": "http://177.10.145.24:8080",
+    "tested_at": "2026-02-14T09:06:59Z",
+    "ip": "177.10.145.24",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of Minas Gerais",
+    "region_code": "MG",
+    "city": "Montes Claros",
+    "latitude": -16.7286406,
+    "longitude": -43.8582139,
+    "is_eu": false,
+    "postal": "39401-039",
+    "connection": {
+      "asn": 262851,
+      "org": "PLIM TELECOMUNICACOES LTDA ME",
+      "isp": "PLIM TELECOMUNICACOES LTDA ME",
+      "domain": "plim.net.br"
+    }
+  },
+  {
+    "proxy": "http://45.236.215.111:60955",
+    "tested_at": "2026-02-14T09:07:03Z",
+    "ip": "45.236.215.111",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "Mato Grosso",
+    "region_code": "MT",
+    "city": "Querência",
+    "latitude": -12.2387614,
+    "longitude": -52.8741407,
+    "is_eu": false,
+    "postal": "78643-000",
+    "connection": {
+      "asn": 268246,
+      "org": "ATIVA TELECOM LTDA",
+      "isp": "ATIVA TELECOM LTDA",
+      "domain": "ativatelecommg.com.br"
+    }
+  },
+  {
+    "proxy": "http://179.42.6.24:3128",
+    "tested_at": "2026-02-14T09:07:05Z",
+    "ip": "2804:213c:2b:730f:111c:a98c:6fca:16b",
+    "success": true,
+    "type": "IPv6",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of São Paulo",
+    "region_code": "SP",
+    "city": "São Paulo",
+    "latitude": -23.5505199,
+    "longitude": -46.6333094,
+    "is_eu": false,
+    "postal": "01005-000",
+    "connection": {
+      "asn": 264544,
+      "org": "SUPER NOVA TELECOM LTDA",
+      "isp": "SUPER NOVA TELECOM LTDA",
+      "domain": "supernovainternet.com.br"
+    }
+  },
+  {
+    "proxy": "http://45.182.177.81:9947",
+    "tested_at": "2026-02-14T09:07:05Z",
+    "ip": "45.182.176.38",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of São Paulo",
+    "region_code": "SP",
+    "city": "São Paulo",
+    "latitude": -23.5505199,
+    "longitude": -46.6333094,
+    "is_eu": false,
+    "postal": "01005-000",
+    "connection": {
+      "asn": 269250,
+      "org": "EVOLUCAO TELECOM LTDA",
+      "isp": "EVOLUCAO TELECOM LTDA",
+      "domain": "evolucaotelecom.com.br"
+    }
+  },
+  {
+    "proxy": "http://45.4.58.223:8080",
+    "tested_at": "2026-02-14T09:07:08Z",
+    "ip": "45.4.58.222",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of Pernambuco",
+    "region_code": "PE",
+    "city": "Recife",
+    "latitude": -8.0578381,
+    "longitude": -34.8828969,
+    "is_eu": false,
+    "postal": "50060-080",
+    "connection": {
+      "asn": 266038,
+      "org": "VN TELECOM PROVEDORES A.R.C EIRELI",
+      "isp": "VN TELECOM PROVEDORES A.R.C EIRELI",
+      "domain": "vntelecom.com.br"
+    }
+  },
+  {
+    "proxy": "http://138.59.151.162:8080",
+    "tested_at": "2026-02-14T09:07:17Z",
+    "ip": "138.59.151.162",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of São Paulo",
+    "region_code": "SP",
+    "city": "Diadema",
+    "latitude": -23.6818396,
+    "longitude": -46.620967,
+    "is_eu": false,
+    "postal": "09920-650",
+    "connection": {
+      "asn": 28165,
+      "org": "Wireless Comm Services LTDA",
+      "isp": "Wireless Comm Services LTDA",
+      "domain": "wcs.net.br"
+    }
+  },
+  {
     "proxy": "http://179.96.28.58:80",
-    "tested_at": "2026-02-14T08:35:43Z",
+    "tested_at": "2026-02-14T09:07:19Z",
     "ip": "179.96.28.58",
     "success": true,
     "type": "IPv4",
@@ -20,6 +181,29 @@
       "org": "Megatelecom Telecomunicacoes LTDA",
       "isp": "Megatelecom Telecomunicacoes LTDA",
       "domain": "mega2.com.br"
+    }
+  },
+  {
+    "proxy": "http://45.161.201.204:3386",
+    "tested_at": "2026-02-14T09:07:30Z",
+    "ip": "45.161.201.202",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "Amazonas",
+    "region_code": "AM",
+    "city": "Macauari",
+    "latitude": -1.6360688,
+    "longitude": -58.5082059,
+    "is_eu": false,
+    "postal": "69130-000",
+    "connection": {
+      "asn": 268473,
+      "org": "Linksul Internet",
+      "isp": "Linksul Internet",
+      "domain": "linksul.com.br"
     }
   }
 ]

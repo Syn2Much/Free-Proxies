@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://110.164.128.124:8080",
-    "tested_at": "2026-02-14T08:35:27Z",
-    "ip": "1.20.243.90",
+    "proxy": "http://171.6.207.252:3128",
+    "tested_at": "2026-02-14T09:07:17Z",
+    "ip": "171.6.207.252",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Thailand",
+    "country_code": "TH",
+    "region": "Bangkok",
+    "region_code": "10",
+    "city": "Bangkok",
+    "latitude": 13.7563309,
+    "longitude": 100.5017651,
+    "is_eu": false,
+    "postal": "10200",
+    "connection": {
+      "asn": 45758,
+      "org": "Triple T Broadband Public Company Limited",
+      "isp": "Triple T Broadband Public Company Limited",
+      "domain": "3bbmail.com"
+    }
+  },
+  {
+    "proxy": "http://110.164.175.110:8080",
+    "tested_at": "2026-02-14T09:07:27Z",
+    "ip": "223.206.195.232",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,34 +33,11 @@
     "country_code": "TH",
     "region": "Buri Ram Province",
     "region_code": "31",
-    "city": "Buri Ram",
-    "latitude": 14.9930017,
-    "longitude": 103.1029191,
+    "city": "Prakhon Chai District",
+    "latitude": 14.6161754,
+    "longitude": 103.035694,
     "is_eu": false,
-    "postal": "31009",
-    "connection": {
-      "asn": 23969,
-      "org": "Tot Mobile Co LTD",
-      "isp": "Tot Public Company Limited",
-      "domain": "tot.co.th"
-    }
-  },
-  {
-    "proxy": "http://49.48.66.94:8080",
-    "tested_at": "2026-02-14T08:35:34Z",
-    "ip": "49.48.66.94",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Thailand",
-    "country_code": "TH",
-    "region": "Surin Province",
-    "region_code": "32",
-    "city": "Prasat District",
-    "latitude": 14.5950082,
-    "longitude": 103.4049445,
-    "is_eu": false,
-    "postal": "32140",
+    "postal": "",
     "connection": {
       "asn": 45758,
       "org": "Triple T Broadband Public Company Limited",
@@ -47,7 +47,7 @@
   },
   {
     "proxy": "http://182.53.202.208:8080",
-    "tested_at": "2026-02-14T08:36:05Z",
+    "tested_at": "2026-02-14T09:07:33Z",
     "ip": "182.53.202.208",
     "success": true,
     "type": "IPv4",
@@ -66,6 +66,29 @@
       "org": "Tot Public Company Limited",
       "isp": "Tot Public Company Limited",
       "domain": "totidc.net"
+    }
+  },
+  {
+    "proxy": "http://106.0.168.138:8080",
+    "tested_at": "2026-02-14T09:07:36Z",
+    "ip": "106.0.168.138",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Thailand",
+    "country_code": "TH",
+    "region": "Bangkok",
+    "region_code": "10",
+    "city": "Watthana",
+    "latitude": 13.7263165,
+    "longitude": 100.5915072,
+    "is_eu": false,
+    "postal": "10110",
+    "connection": {
+      "asn": 23974,
+      "org": "Ministry of Education Emisc",
+      "isp": "Ministry of Education Emisc",
+      "domain": "uni.net.th"
     }
   }
 ]

@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://188.94.159.26:3128",
+    "tested_at": "2026-02-14T09:07:01Z",
+    "ip": "188.94.159.26",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "region": "Almaty Province",
+    "region_code": "ALM",
+    "city": "Dimitriyevka",
+    "latitude": 43.475843,
+    "longitude": 77.0400567,
+    "is_eu": false,
+    "postal": "040704",
+    "connection": {
+      "asn": 212189,
+      "org": "IT GRAD TOO",
+      "isp": "IT GRAD TOO",
+      "domain": "it-grad.ru"
+    }
+  },
+  {
     "proxy": "http://188.130.160.209:80",
-    "tested_at": "2026-02-14T08:36:10Z",
+    "tested_at": "2026-02-14T09:07:31Z",
     "ip": "188.130.160.209",
     "success": true,
     "type": "IPv4",

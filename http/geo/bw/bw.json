@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://154.73.87.241:8080",
-    "tested_at": "2026-02-14T07:32:52Z",
-    "ip": "102.134.170.30",
+    "proxy": "http://83.143.24.66:80",
+    "tested_at": "2026-02-14T09:07:01Z",
+    "ip": "83.143.24.66",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Botswana",
     "country_code": "BW",
-    "region": "Kweneng District",
-    "region_code": "KW",
-    "city": "Mmopane",
-    "latitude": -24.5685435,
-    "longitude": 25.8728782,
+    "region": "South-East District",
+    "region_code": "",
+    "city": "Gaborone",
+    "latitude": -24.6282079,
+    "longitude": 25.9231471,
     "is_eu": false,
-    "postal": "",
+    "postal": "09267",
     "connection": {
-      "asn": 327776,
-      "org": "Maun stature Network",
-      "isp": "STATURE PTY LTD",
-      "domain": "nashua.co.bw"
+      "asn": 37678,
+      "org": "Vbn Core",
+      "isp": "Botswana Fibre Networks proprietary Limited",
+      "domain": "vbnservices.com"
     }
   }
 ]

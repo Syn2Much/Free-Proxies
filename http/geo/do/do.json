@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://217.76.245.24:999",
-    "tested_at": "2026-02-14T08:04:35Z",
-    "ip": "217.76.245.25",
+    "proxy": "http://190.93.191.19:999",
+    "tested_at": "2026-02-14T09:06:56Z",
+    "ip": "190.93.191.2",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -16,33 +16,33 @@
     "is_eu": false,
     "postal": "51000",
     "connection": {
-      "asn": 271968,
-      "org": "CEMO",
-      "isp": "CENTRIC MOBILITY CEMO , S.R.L",
-      "domain": "cemo.com.do"
+      "asn": 269908,
+      "org": "JOSE DIGITAL MEDIA DOMINICANA SRL",
+      "isp": "JOSE DIGITAL MEDIA DOMINICANA SRL",
+      "domain": "jdimax.com"
     }
   },
   {
-    "proxy": "http://200.26.187.146:999",
-    "tested_at": "2026-02-14T08:04:52Z",
-    "ip": "38.196.221.248",
+    "proxy": "http://170.80.203.35:999",
+    "tested_at": "2026-02-14T09:07:29Z",
+    "ip": "170.80.203.34",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Dominican Republic",
     "country_code": "DO",
-    "region": "Monte Plata",
-    "region_code": "29",
-    "city": "Los Botados",
-    "latitude": 18.7389138,
-    "longitude": -70.0011868,
+    "region": "Santiago",
+    "region_code": "25",
+    "city": "Santiago De Los Caballeros",
+    "latitude": 19.4791963,
+    "longitude": -70.6930568,
     "is_eu": false,
-    "postal": "92000",
+    "postal": "51000",
     "connection": {
-      "asn": 273217,
-      "org": "Alcome Tech Srl.",
-      "isp": "ACOLME TECH, SRL",
-      "domain": "alcom.ax"
+      "asn": 271819,
+      "org": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
+      "isp": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
+      "domain": "rgdimax.com"
     }
   }
 ]

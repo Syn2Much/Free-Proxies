@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://213.154.2.210:3128",
-    "tested_at": "2026-02-14T08:35:54Z",
-    "ip": "213.154.2.210",
+    "proxy": "http://185.118.51.230:3128",
+    "tested_at": "2026-02-14T09:07:28Z",
+    "ip": "185.118.51.230",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "AZ 1009",
     "connection": {
-      "asn": 28787,
-      "org": "Baku Telephone Communication LLC",
-      "isp": "Aztelekom LLC",
-      "domain": "aztelekom.az"
+      "asn": 203971,
+      "org": "CGNAT",
+      "isp": "Azfibernet LLC",
+      "domain": "azfiber.net"
     }
   }
 ]

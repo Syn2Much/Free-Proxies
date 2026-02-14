@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://51.195.236.200:21688",
-    "tested_at": "2026-02-14T08:04:21Z",
-    "ip": "2.124.15.157",
+    "proxy": "http://109.120.135.230:2030",
+    "tested_at": "2026-02-14T09:07:08Z",
+    "ip": "2a0b:4140:685e::2",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "England",
+    "region_code": "ENG",
+    "city": "London",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583,
+    "is_eu": false,
+    "postal": "SW1",
+    "connection": {
+      "asn": 210644,
+      "org": "AEZA NETWORK STOCKHOLM",
+      "isp": "AEZA INTERNATIONAL LTD",
+      "domain": "aeza.net"
+    }
+  },
+  {
+    "proxy": "http://157.125.220.80:8080",
+    "tested_at": "2026-02-14T09:07:14Z",
+    "ip": "157.125.220.80",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,39 +33,39 @@
     "country_code": "GB",
     "region": "England",
     "region_code": "ENG",
-    "city": "Saint Helens",
-    "latitude": 53.456307,
-    "longitude": -2.737095,
+    "city": "Pudsey",
+    "latitude": 53.795766,
+    "longitude": -1.6761082,
     "is_eu": false,
-    "postal": "97051",
+    "postal": "LS28 7LH",
     "connection": {
-      "asn": 5607,
-      "org": "Sky UK Limited",
-      "isp": "Sky UK Limited",
-      "domain": "sky.uk"
+      "asn": 31655,
+      "org": "Gamma Telecom Limited",
+      "isp": "Gamma Telecom Holdings LTD",
+      "domain": "gamma.co.uk"
     }
   },
   {
-    "proxy": "http://62.255.223.195:8080",
-    "tested_at": "2026-02-14T08:04:38Z",
-    "ip": "62.255.223.195",
+    "proxy": "http://212.110.188.205:34403",
+    "tested_at": "2026-02-14T09:07:15Z",
+    "ip": "212.110.188.205",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "United Kingdom",
     "country_code": "GB",
-    "region": "Scotland",
-    "region_code": "SCT",
-    "city": "Edinburgh",
-    "latitude": 55.953252,
-    "longitude": -3.188267,
+    "region": "England",
+    "region_code": "ENG",
+    "city": "York",
+    "latitude": 53.9599651,
+    "longitude": -1.0872979,
     "is_eu": false,
-    "postal": "EH1 3EG",
+    "postal": "YO1 8SG",
     "connection": {
-      "asn": 5089,
-      "org": "Virgin Media Limited",
-      "isp": "Virgin Media Limited",
-      "domain": "adsgroup.org.uk"
+      "asn": 35425,
+      "org": "Bytemark Services",
+      "isp": "IOMART MANAGED SERVICES LIMITED",
+      "domain": "rapidswitch.com"
     }
   }
 ]

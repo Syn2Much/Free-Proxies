@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://102.208.166.248:8082",
-    "tested_at": "2026-02-14T08:35:45Z",
-    "ip": "102.208.166.248",
+    "proxy": "http://197.248.75.221:8101",
+    "tested_at": "2026-02-14T09:06:56Z",
+    "ip": "197.248.75.221",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Nakuru",
+    "region_code": "31",
+    "city": "Naivasha",
+    "latitude": -0.7171778,
+    "longitude": 36.4310251,
+    "is_eu": false,
+    "postal": "2050 -20117",
+    "connection": {
+      "asn": 37061,
+      "org": "For Safaricom Kenya Enterprise Business Unit",
+      "isp": "Safaricom Limited",
+      "domain": "safaricom.co.ke"
+    }
+  },
+  {
+    "proxy": "http://197.155.64.226:8090",
+    "tested_at": "2026-02-14T09:07:15Z",
+    "ip": "197.155.64.226",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,10 +39,10 @@
     "is_eu": false,
     "postal": "200",
     "connection": {
-      "asn": 329452,
-      "org": "Alwen Networks Co. Limited",
-      "isp": "Alwen Networks Co. Limited",
-      "domain": "alwennetworks.com"
+      "asn": 30844,
+      "org": "Pioneer Hi Bred",
+      "isp": "Liquid Telecommunications LTD",
+      "domain": "liquidtelecom.mu"
     }
   }
 ]

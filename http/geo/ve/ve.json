@@ -1,8 +1,77 @@
 [
   {
-    "proxy": "http://38.196.241.236:999",
-    "tested_at": "2026-02-14T08:35:27Z",
-    "ip": "38.196.241.154",
+    "proxy": "http://141.136.63.126:8080",
+    "tested_at": "2026-02-14T09:07:03Z",
+    "ip": "141.136.63.126",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Tachira State",
+    "region_code": "S",
+    "city": "La Grita",
+    "latitude": 8.1338118,
+    "longitude": -71.9786626,
+    "is_eu": false,
+    "postal": "5022",
+    "connection": {
+      "asn": 208888,
+      "org": "FRONTERA TV. C.A.",
+      "isp": "Four Mirror Advisors, S.L.",
+      "domain": "fronteratvoficial.com"
+    }
+  },
+  {
+    "proxy": "http://45.230.169.5:999",
+    "tested_at": "2026-02-14T09:07:08Z",
+    "ip": "45.230.169.5",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Capital District",
+    "region_code": "A",
+    "city": "Caracas",
+    "latitude": 10.4805937,
+    "longitude": -66.9036063,
+    "is_eu": false,
+    "postal": "1012",
+    "connection": {
+      "asn": 266742,
+      "org": "SOLUCIONES DCN NETWORK C.A",
+      "isp": "SOLUCIONES DCN NETWORK C.A",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://190.97.243.27:999",
+    "tested_at": "2026-02-14T09:07:10Z",
+    "ip": "190.97.243.22",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Merida State",
+    "region_code": "L",
+    "city": "Merida",
+    "latitude": 8.5698244,
+    "longitude": -71.1804988,
+    "is_eu": false,
+    "postal": "5115",
+    "connection": {
+      "asn": 263703,
+      "org": "VIGINET C.A",
+      "isp": "VIGINET C.A",
+      "domain": "viginet.com.ve"
+    }
+  },
+  {
+    "proxy": "http://38.224.32.186:999",
+    "tested_at": "2026-02-14T09:07:18Z",
+    "ip": "38.224.32.130",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -10,16 +79,39 @@
     "country_code": "VE",
     "region": "Trujillo State",
     "region_code": "T",
-    "city": "Motatán Municipality",
-    "latitude": 9.3930767,
-    "longitude": -70.5934229,
+    "city": "Boconó",
+    "latitude": 9.2534438,
+    "longitude": -70.2497616,
     "is_eu": false,
-    "postal": "",
+    "postal": "3103",
     "connection": {
-      "asn": 273090,
-      "org": "HOLANET, C.A.",
-      "isp": "HOLANET, C.A.",
-      "domain": "holanet.com.ve"
+      "asn": 273007,
+      "org": "Cogent Communications",
+      "isp": "SPEEDNET, C.A",
+      "domain": "fiven.com.ve"
+    }
+  },
+  {
+    "proxy": "http://190.94.213.4:999",
+    "tested_at": "2026-02-14T09:07:37Z",
+    "ip": "190.94.213.4",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Capital District",
+    "region_code": "A",
+    "city": "Caracas",
+    "latitude": 10.4805937,
+    "longitude": -66.9036063,
+    "is_eu": false,
+    "postal": "1012",
+    "connection": {
+      "asn": 8053,
+      "org": "Ifx Networks Venezuela C.A.",
+      "isp": "Ifx Networks Venezuela C.A.",
+      "domain": "ifxnw.com.ve"
     }
   }
 ]

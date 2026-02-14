@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "https://43.208.16.9:9401",
+    "tested_at": "2026-02-14T09:06:50Z",
+    "ip": "45.9.156.101",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "region": "Sofia-city",
+    "region_code": "",
+    "city": "Sofia",
+    "latitude": 42.6977082,
+    "longitude": 23.3218675,
+    "is_eu": true,
+    "postal": "1000",
+    "connection": {
+      "asn": 211619,
+      "org": "Maxko D.O.O.",
+      "isp": "Maxko D.O.O.",
+      "domain": "maxko.org"
+    }
+  }
+]

@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://67.43.236.20:23023",
-    "tested_at": "2026-02-14T08:35:44Z",
-    "ip": "175.143.160.91",
+    "proxy": "http://175.139.208.65:8080",
+    "tested_at": "2026-02-14T09:07:00Z",
+    "ip": "175.139.208.65",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Malaysia",
     "country_code": "MY",
-    "region": "Federal Territory of Kuala Lumpur",
-    "region_code": "",
-    "city": "Kuala Lumpur",
-    "latitude": 3.139003,
-    "longitude": 101.686855,
+    "region": "Selangor",
+    "region_code": "10",
+    "city": "Shah Alam",
+    "latitude": 3.1292909,
+    "longitude": 101.5221221,
     "is_eu": false,
-    "postal": "50050",
+    "postal": "40000",
     "connection": {
       "asn": 4788,
       "org": "TMNST",
       "isp": "TM TECHNOLOGY SERVICES SDN BHD",
       "domain": "tm.com.my"
-    }
-  },
-  {
-    "proxy": "http://67.43.236.21:15753",
-    "tested_at": "2026-02-14T08:35:53Z",
-    "ip": "161.142.148.191",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Malaysia",
-    "country_code": "MY",
-    "region": "Federal Territory of Kuala Lumpur",
-    "region_code": "",
-    "city": "Kuala Lumpur",
-    "latitude": 3.139003,
-    "longitude": 101.686855,
-    "is_eu": false,
-    "postal": "50050",
-    "connection": {
-      "asn": 9930,
-      "org": "TT DOTCOM SDN BHD",
-      "isp": "TT DOTCOM SDN BHD",
-      "domain": "time.com.my"
     }
   }
 ]

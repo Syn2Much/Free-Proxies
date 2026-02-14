@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://40.177.211.224:9019",
-    "tested_at": "2026-02-14T08:35:38Z",
-    "ip": "185.129.62.63",
+    "proxy": "http://34.236.148.220:8723",
+    "tested_at": "2026-02-14T09:06:59Z",
+    "ip": "185.129.62.64",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Denmark",
+    "country_code": "DK",
+    "region": "Denmark",
+    "region_code": "",
+    "city": "Graested",
+    "latitude": 56.0652,
+    "longitude": 12.285583,
+    "is_eu": true,
+    "postal": "3230",
+    "connection": {
+      "asn": 57860,
+      "org": "Various Servers Including Tor Servers",
+      "isp": "Zencurity Aps",
+      "domain": "zencurity.com"
+    }
+  },
+  {
+    "proxy": "http://15.168.235.57:34957",
+    "tested_at": "2026-02-14T09:07:23Z",
+    "ip": "185.129.62.64",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",

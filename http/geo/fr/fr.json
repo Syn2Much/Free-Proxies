@@ -1,25 +1,94 @@
 [
   {
-    "proxy": "http://72.10.164.178:25675",
-    "tested_at": "2026-02-14T08:35:45Z",
-    "ip": "46.193.68.166",
+    "proxy": "http://40.177.151.5:5129",
+    "tested_at": "2026-02-14T09:07:15Z",
+    "ip": "203.55.81.1",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "France",
     "country_code": "FR",
-    "region": "Auvergne-Rhône-Alpes",
-    "region_code": "ARA",
-    "city": "Méry",
-    "latitude": 45.642877,
-    "longitude": 5.936683,
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
     "is_eu": true,
-    "postal": "73420",
+    "postal": "75007",
     "connection": {
-      "asn": 52075,
-      "org": "Wifirst End Users",
-      "isp": "Wifirst S.A.S.",
-      "domain": "wifirst.com"
+      "asn": 213873,
+      "org": "MOJI SAS",
+      "isp": "MOJI SAS",
+      "domain": "moji.fr"
+    }
+  },
+  {
+    "proxy": "http://90.84.188.97:8000",
+    "tested_at": "2026-02-14T09:07:17Z",
+    "ip": "90.84.188.97",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "is_eu": true,
+    "postal": "75007",
+    "connection": {
+      "asn": 2280,
+      "org": "OBS OCB HONEY",
+      "isp": "Orange S.A.",
+      "domain": "orange.com"
+    }
+  },
+  {
+    "proxy": "http://62.133.62.12:1082",
+    "tested_at": "2026-02-14T09:07:19Z",
+    "ip": "62.133.62.12",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "is_eu": true,
+    "postal": "75007",
+    "connection": {
+      "asn": 215540,
+      "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "domain": "gir.network"
+    }
+  },
+  {
+    "proxy": "http://37.187.109.70:10111",
+    "tested_at": "2026-02-14T09:07:26Z",
+    "ip": "37.187.109.70",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Hauts-de-France",
+    "region_code": "HDF",
+    "city": "Roubaix",
+    "latitude": 50.6927049,
+    "longitude": 3.177847,
+    "is_eu": true,
+    "postal": "59100",
+    "connection": {
+      "asn": 16276,
+      "org": "OVH SAS",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
     }
   }
 ]

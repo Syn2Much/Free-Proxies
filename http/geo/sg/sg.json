@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://139.159.97.82:10900",
-    "tested_at": "2026-02-14T08:35:32Z",
-    "ip": "164.52.107.81",
+    "proxy": "http://128.199.113.85:9090",
+    "tested_at": "2026-02-14T09:07:01Z",
+    "ip": "128.199.113.85",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,15 +16,15 @@
     "is_eu": false,
     "postal": "550304",
     "connection": {
-      "asn": 63199,
-      "org": "UCUL SG",
-      "isp": "Cds Global Cloud Co., LTD",
-      "domain": "urbanconnectedcloud.com"
+      "asn": 14061,
+      "org": "Digitalocean, LLC",
+      "isp": "Digitalocean, LLC",
+      "domain": "digitalocean.com"
     }
   },
   {
     "proxy": "http://217.217.254.94:8080",
-    "tested_at": "2026-02-14T08:35:44Z",
+    "tested_at": "2026-02-14T09:07:18Z",
     "ip": "217.217.254.94",
     "success": true,
     "type": "IPv4",
@@ -43,29 +43,6 @@
       "org": "Contabo GmbH",
       "isp": "Contabo Asia Private Limited",
       "domain": "contabo.de"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.171:23409",
-    "tested_at": "2026-02-14T08:35:54Z",
-    "ip": "116.86.2.87",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Singapore",
-    "country_code": "SG",
-    "region": "Southeast",
-    "region_code": "",
-    "city": "Singapore",
-    "latitude": 1.3019687,
-    "longitude": 103.8970821,
-    "is_eu": false,
-    "postal": "439972",
-    "connection": {
-      "asn": 55430,
-      "org": "Starhub Cable Vision LTD",
-      "isp": "Starhub Ltd.",
-      "domain": "starhub.com"
     }
   }
 ]
