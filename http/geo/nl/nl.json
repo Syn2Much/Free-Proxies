@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://94.176.3.43:7443",
-    "tested_at": "2026-02-14T12:46:00Z",
-    "ip": "94.176.3.43",
+    "proxy": "https://35.181.173.74:8892",
+    "tested_at": "2026-02-14T13:18:08Z",
+    "ip": "192.42.116.214",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,16 +16,16 @@
     "is_eu": true,
     "postal": "1012 JS",
     "connection": {
-      "asn": 57043,
-      "org": "Izitell Cloud Fzco",
-      "isp": "HOSTKEY B.V.",
-      "domain": "izitell.com"
+      "asn": 215125,
+      "org": "TOR EXIT AND MORE",
+      "isp": "Church of Cyberology",
+      "domain": "cyberology.nl"
     }
   },
   {
-    "proxy": "http://141.11.187.163:8080",
-    "tested_at": "2026-02-14T12:46:02Z",
-    "ip": "141.11.187.163",
+    "proxy": "http://178.253.22.108:65431",
+    "tested_at": "2026-02-14T13:17:25Z",
+    "ip": "178.253.22.108",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,15 +39,15 @@
     "is_eu": true,
     "postal": "1012 JS",
     "connection": {
-      "asn": 43350,
-      "org": "Private Customer",
-      "isp": "Nforce Entertainment B.V.",
-      "domain": "us.com"
+      "asn": 210976,
+      "org": "Timeweb, LLP",
+      "isp": "Timeweb, LLP",
+      "domain": "timeweb.ru"
     }
   },
   {
     "proxy": "http://94.176.3.42:7443",
-    "tested_at": "2026-02-14T12:46:05Z",
+    "tested_at": "2026-02-14T13:17:26Z",
     "ip": "94.176.3.42",
     "success": true,
     "type": "IPv4",
@@ -69,9 +69,32 @@
     }
   },
   {
-    "proxy": "http://144.124.227.90:10880",
-    "tested_at": "2026-02-14T12:46:15Z",
-    "ip": "144.124.227.90",
+    "proxy": "http://94.176.3.43:7443",
+    "tested_at": "2026-02-14T13:17:42Z",
+    "ip": "94.176.3.43",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
+    "is_eu": true,
+    "postal": "1012 JS",
+    "connection": {
+      "asn": 57043,
+      "org": "Izitell Cloud Fzco",
+      "isp": "HOSTKEY B.V.",
+      "domain": "izitell.com"
+    }
+  },
+  {
+    "proxy": "http://93.183.125.11:3128",
+    "tested_at": "2026-02-14T13:18:08Z",
+    "ip": "93.183.125.11",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -86,78 +109,9 @@
     "postal": "1012 JS",
     "connection": {
       "asn": 216071,
-      "org": "SERVERS TECH FZCO",
+      "org": "Amsterdam, Netherlands",
       "isp": "SERVERS TECH FZCO",
       "domain": "vdsina.com"
-    }
-  },
-  {
-    "proxy": "http://89.248.164.155:443",
-    "tested_at": "2026-02-14T12:46:19Z",
-    "ip": "89.248.164.155",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 202425,
-      "org": "Ip Volume INC",
-      "isp": "Ip Volume INC",
-      "domain": "ipvolume.net"
-    }
-  },
-  {
-    "proxy": "http://5.180.180.32:1080",
-    "tested_at": "2026-02-14T12:46:39Z",
-    "ip": "5.180.180.32",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 41436,
-      "org": "CLOUDWEBMANAGE EU",
-      "isp": "Kamatera INC",
-      "domain": "omc.co.il"
-    }
-  },
-  {
-    "proxy": "http://147.75.34.105:443",
-    "tested_at": "2026-02-14T12:46:46Z",
-    "ip": "147.75.34.105",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 15830,
-      "org": "Equinix Services, Inc.",
-      "isp": "Equinix emea Acquisition Enterprises B.V.",
-      "domain": "packet.com"
     }
   }
 ]

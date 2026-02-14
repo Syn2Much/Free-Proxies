@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://179.49.113.225:999",
-    "tested_at": "2026-02-14T12:14:49Z",
-    "ip": "179.49.113.224",
+    "proxy": "http://181.78.44.63:999",
+    "tested_at": "2026-02-14T13:18:01Z",
+    "ip": "181.78.44.63",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Honduras",
     "country_code": "HN",
-    "region": "Santa Bárbara",
-    "region_code": "SB",
-    "city": "Santa Bárbara Department",
-    "latitude": 15.1202795,
-    "longitude": -88.4016041,
+    "region": "Cortés",
+    "region_code": "CR",
+    "city": "San Pedro Sula",
+    "latitude": 15.5149204,
+    "longitude": -87.9922684,
     "is_eu": false,
-    "postal": "",
+    "postal": "21101",
     "connection": {
-      "asn": 262234,
-      "org": "ASOCIACION DE SERVICIO DE INTERNET S. DE RL.",
-      "isp": "ASOCIACION DE SERVICIO DE INTERNET S. DE RL.",
-      "domain": "asi.hn"
+      "asn": 52468,
+      "org": "Ufinet Honduras, S. A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "ufinet.com"
     }
   }
 ]

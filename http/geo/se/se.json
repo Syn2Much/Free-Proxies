@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://65.108.203.37:18080",
-    "tested_at": "2026-02-14T12:46:17Z",
-    "ip": "2001:67c:2660:425:1f::2c7",
+    "proxy": "http://193.181.35.95:8118",
+    "tested_at": "2026-02-14T13:17:37Z",
+    "ip": "193.181.35.95",
     "success": true,
-    "type": "IPv6",
+    "type": "IPv4",
     "continent": "Europe",
     "country": "Sweden",
     "country_code": "SE",
-    "region": "Östergötland County",
-    "region_code": "E",
-    "city": "Linköping",
-    "latitude": 58.410807,
-    "longitude": 15.6213727,
+    "region": "Stockholm County",
+    "region_code": "AB",
+    "city": "Stockholm",
+    "latitude": 59.3293235,
+    "longitude": 18.0685808,
     "is_eu": true,
-    "postal": "582 24",
+    "postal": "111 29",
     "connection": {
-      "asn": 205016,
-      "org": "Hern Labs Ab",
-      "isp": "Hern Labs Ab",
-      "domain": "hernlabs.se"
+      "asn": 42201,
+      "org": "Pvdatanet Ab",
+      "isp": "Pvdatanet Ab",
+      "domain": "pvdatanet.com"
     }
   }
 ]

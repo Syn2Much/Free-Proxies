@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://38.7.195.40:999",
+    "tested_at": "2026-02-14T13:18:04Z",
+    "ip": "38.7.195.41",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 263702,
+      "org": "Cogent Communications",
+      "isp": "GRUPO ZGH SPA",
+      "domain": "zglobalhost.com"
+    }
+  },
+  {
     "proxy": "http://38.7.195.51:999",
-    "tested_at": "2026-02-14T12:46:04Z",
+    "tested_at": "2026-02-14T13:18:10Z",
     "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
@@ -23,55 +46,9 @@
     }
   },
   {
-    "proxy": "http://179.61.98.3:999",
-    "tested_at": "2026-02-14T12:46:21Z",
-    "ip": "179.61.98.3",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Maule Region",
-    "region_code": "ML",
-    "city": "Molina",
-    "latitude": -35.1164987,
-    "longitude": -71.2829759,
-    "is_eu": false,
-    "postal": "38030",
-    "connection": {
-      "asn": 266900,
-      "org": "SOC. TELEVISIVA CABLE SANTA JUANA LIMITADA.",
-      "isp": "SOC. TELEVISIVA CABLE SANTA JUANA LIMITADA.",
-      "domain": "iptel.cl"
-    }
-  },
-  {
-    "proxy": "http://204.199.139.126:999",
-    "tested_at": "2026-02-14T12:46:25Z",
-    "ip": "45.225.204.99",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "O'Higgins Region",
-    "region_code": "",
-    "city": "Las Cabras",
-    "latitude": -34.2932184,
-    "longitude": -71.3126292,
-    "is_eu": false,
-    "postal": "3030000",
-    "connection": {
-      "asn": 265858,
-      "org": "NETDELSUR TELECOMUNICACIONES SPA",
-      "isp": "NETDELSUR TELECOMUNICACIONES SPA",
-      "domain": "netdelsur.cl"
-    }
-  },
-  {
-    "proxy": "http://190.153.237.6:37453",
-    "tested_at": "2026-02-14T12:46:26Z",
-    "ip": "190.153.237.5",
+    "proxy": "http://204.199.139.54:999",
+    "tested_at": "2026-02-14T13:18:12Z",
+    "ip": "204.199.139.52",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -79,39 +56,16 @@
     "country_code": "CL",
     "region": "Santiago Metropolitan Region",
     "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
+    "city": "Isla de Maipo",
+    "latitude": -33.7464562,
+    "longitude": -70.9,
     "is_eu": false,
-    "postal": "832 0202",
+    "postal": "979 0152",
     "connection": {
-      "asn": 14259,
-      "org": "Gtd Internet S.A.",
-      "isp": "Gtd Internet S.A.",
-      "domain": "gtdinternet.com"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:29629",
-    "tested_at": "2026-02-14T12:46:50Z",
-    "ip": "179.60.68.216",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Maule Region",
-    "region_code": "ML",
-    "city": "Curico",
-    "latitude": -34.9779853,
-    "longitude": -71.2528803,
-    "is_eu": false,
-    "postal": "334 2121",
-    "connection": {
-      "asn": 27901,
-      "org": "Pacifico Cable Spa.",
-      "isp": "Pacifico Cable Spa.",
-      "domain": "mundopacifico.cl"
+      "asn": 273237,
+      "org": "INGBELL CHILE SPA",
+      "isp": "INGBELL CHILE SPA",
+      "domain": "ingbell.cl"
     }
   }
 ]

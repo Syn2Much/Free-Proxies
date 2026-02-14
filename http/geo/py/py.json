@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://181.40.18.42:999",
-    "tested_at": "2026-02-14T12:46:01Z",
-    "ip": "181.40.18.42",
+    "proxy": "http://170.83.243.40:999",
+    "tested_at": "2026-02-14T13:18:00Z",
+    "ip": "181.78.94.23",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Paraguay",
     "country_code": "PY",
-    "region": "Distrito Capital de Paraguay",
-    "region_code": "",
-    "city": "Asuncion",
-    "latitude": -25.2637399,
-    "longitude": -57.575926,
+    "region": "San Pedro",
+    "region_code": "2",
+    "city": "Choré",
+    "latitude": -24.1866187,
+    "longitude": -56.5812701,
     "is_eu": false,
-    "postal": "1226",
+    "postal": "",
     "connection": {
-      "asn": 23201,
-      "org": "Telecel S.A.",
-      "isp": "Telecel S.A.",
-      "domain": "telecel.com.py"
+      "asn": 52468,
+      "org": "UFINET PARAGUAY S.A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "ufinet.com"
     }
   }
 ]

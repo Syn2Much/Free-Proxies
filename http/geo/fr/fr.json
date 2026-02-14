@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://72.10.164.178:18343",
-    "tested_at": "2026-02-14T12:46:08Z",
-    "ip": "78.120.150.159",
+    "proxy": "http://67.43.236.20:6489",
+    "tested_at": "2026-02-14T13:17:37Z",
+    "ip": "88.167.242.66",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Brittany",
+    "region_code": "E",
+    "city": "La Chapelle-Caro",
+    "latitude": 47.866155,
+    "longitude": -2.42314,
+    "is_eu": true,
+    "postal": "56460",
+    "connection": {
+      "asn": 12322,
+      "org": "Proxad Free SAS",
+      "isp": "Free SAS",
+      "domain": "proxad.net"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.90:12733",
+    "tested_at": "2026-02-14T13:17:45Z",
+    "ip": "46.193.68.46",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,62 +33,16 @@
     "country_code": "FR",
     "region": "Grand Est",
     "region_code": "GES",
-    "city": "Mulhouse",
-    "latitude": 47.750839,
-    "longitude": 7.335888,
+    "city": "Strasbourg",
+    "latitude": 48.5734053,
+    "longitude": 7.7521113,
     "is_eu": true,
-    "postal": "68100",
+    "postal": "67000",
     "connection": {
-      "asn": 15557,
-      "org": "Dynamic Pools",
-      "isp": "Societe Francaise Du Radiotelephone SFR SA",
-      "domain": "sfr.fr"
-    }
-  },
-  {
-    "proxy": "http://90.84.188.97:8000",
-    "tested_at": "2026-02-14T12:46:37Z",
-    "ip": "90.84.188.97",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 2280,
-      "org": "OBS OCB HONEY",
-      "isp": "Orange S.A.",
-      "domain": "orange.com"
-    }
-  },
-  {
-    "proxy": "http://178.170.43.106:8081",
-    "tested_at": "2026-02-14T12:46:48Z",
-    "ip": "178.170.43.106",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Boulogne-Billancourt",
-    "latitude": 48.8396952,
-    "longitude": 2.2399123,
-    "is_eu": true,
-    "postal": "92100",
-    "connection": {
-      "asn": 21409,
-      "org": "SERVERS",
-      "isp": "Ikoula Net SAS",
-      "domain": "ikoula.com"
+      "asn": 52075,
+      "org": "Wifirst End Users",
+      "isp": "Wifirst S.A.S.",
+      "domain": "wifirst.com"
     }
   }
 ]

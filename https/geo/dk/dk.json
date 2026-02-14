@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "https://95.40.79.184:8091",
-    "tested_at": "2026-02-14T11:43:18Z",
-    "ip": "185.129.61.2",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Denmark",
-    "country_code": "DK",
-    "region": "Denmark",
-    "region_code": "",
-    "city": "Hundested",
-    "latitude": 55.967747,
-    "longitude": 11.858962,
-    "is_eu": true,
-    "postal": "3390",
-    "connection": {
-      "asn": 210731,
-      "org": "This Network Includes A Tor Servers And We Are Sorry for Any Inconvenience, Handled by Dotsrc",
-      "isp": "Forening for Dotsrc",
-      "domain": "dotsrc.org"
-    }
-  },
-  {
     "proxy": "https://185.245.84.50:9443",
-    "tested_at": "2026-02-14T11:43:46Z",
-    "ip": "185.245.84.59",
+    "tested_at": "2026-02-14T13:17:55Z",
+    "ip": "185.245.84.62",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",

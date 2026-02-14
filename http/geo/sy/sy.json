@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://164.138.205.122:8080",
-    "tested_at": "2026-02-14T12:46:16Z",
-    "ip": "164.138.205.122",
+    "proxy": "http://212.108.115.195:8080",
+    "tested_at": "2026-02-14T13:17:36Z",
+    "ip": "212.108.115.195",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -17,14 +17,14 @@
     "postal": "2277",
     "connection": {
       "asn": 216472,
-      "org": "Telecom Sy",
+      "org": "TELECOME SY",
       "isp": "High Speed For Internet Services L.L.C",
       "domain": "kaer.technology"
     }
   },
   {
     "proxy": "http://38.156.72.14:8080",
-    "tested_at": "2026-02-14T12:46:19Z",
+    "tested_at": "2026-02-14T13:17:47Z",
     "ip": "212.108.115.103",
     "success": true,
     "type": "IPv4",
@@ -46,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://212.108.115.146:8080",
-    "tested_at": "2026-02-14T12:46:50Z",
-    "ip": "212.108.115.146",
+    "proxy": "http://164.138.205.120:8080",
+    "tested_at": "2026-02-14T13:18:06Z",
+    "ip": "164.138.205.120",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -63,7 +63,7 @@
     "postal": "2277",
     "connection": {
       "asn": 216472,
-      "org": "TELECOME SY",
+      "org": "Telecom Sy",
       "isp": "High Speed For Internet Services L.L.C",
       "domain": "kaer.technology"
     }

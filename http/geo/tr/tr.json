@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://38.156.72.12:8080",
-    "tested_at": "2026-02-14T12:46:57Z",
-    "ip": "185.200.38.222",
+    "proxy": "http://188.132.222.141:8080",
+    "tested_at": "2026-02-14T13:17:43Z",
+    "ip": "188.132.222.141",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Turkey",
+    "country_code": "TR",
+    "region": "İstanbul",
+    "region_code": "34",
+    "city": "Istanbul",
+    "latitude": 41.0082376,
+    "longitude": 28.9783589,
+    "is_eu": false,
+    "postal": "34126",
+    "connection": {
+      "asn": 202561,
+      "org": "HIGH SPEED TELEKOMUNIKASYON VE HABERLESME HIZMETLERI LTD. STI.",
+      "isp": "High Speed Telekomunikasyon Ve Hab. Hiz. Ltd. Sti.",
+      "domain": "highspeed.com.tr"
+    }
+  },
+  {
+    "proxy": "http://188.132.222.69:8080",
+    "tested_at": "2026-02-14T13:17:58Z",
+    "ip": "188.132.222.69",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -17,7 +40,7 @@
     "postal": "31001",
     "connection": {
       "asn": 202561,
-      "org": "Alpnet Telekomunikasyon Ithalat",
+      "org": "HIGH SPEED TELEKOMUNIKASYON VE HABERLESME HIZMETLERI LTD. STI.",
       "isp": "High Speed Telekomunikasyon Ve Hab. Hiz. Ltd. Sti.",
       "domain": "highspeed.com.tr"
     }

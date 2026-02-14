@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://91.150.189.122:30389",
-    "tested_at": "2026-02-14T11:43:45Z",
+    "tested_at": "2026-02-14T13:17:50Z",
     "ip": "91.150.189.122",
     "success": true,
     "type": "IPv4",
@@ -20,75 +20,6 @@
       "org": "Skyware Sp. Z O.O.",
       "isp": "Skyware Sp. Z O.O.",
       "domain": "skyware.pl"
-    }
-  },
-  {
-    "proxy": "http://188.116.37.3:8090",
-    "tested_at": "2026-02-14T11:43:55Z",
-    "ip": "188.116.37.3",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Poland",
-    "country_code": "PL",
-    "region": "Pomeranian Voivodeship",
-    "region_code": "22",
-    "city": "Gdańsk",
-    "latitude": 54.3520252,
-    "longitude": 18.6466384,
-    "is_eu": true,
-    "postal": "80-208",
-    "connection": {
-      "asn": 197155,
-      "org": "Mernyk Mykyta",
-      "isp": "Artnet Sp. Z O.O.",
-      "domain": "artnet.pl"
-    }
-  },
-  {
-    "proxy": "http://185.28.250.90:8090",
-    "tested_at": "2026-02-14T11:44:12Z",
-    "ip": "185.28.250.90",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Poland",
-    "country_code": "PL",
-    "region": "Lesser Poland Voivodeship",
-    "region_code": "12",
-    "city": "Kraków",
-    "latitude": 50.0646501,
-    "longitude": 19.9449799,
-    "is_eu": true,
-    "postal": "30-730",
-    "connection": {
-      "asn": 206910,
-      "org": "BESTCONNECT CUST",
-      "isp": "Janusz Ciurus Trading AS Bestconnect",
-      "domain": "mynet.pl"
-    }
-  },
-  {
-    "proxy": "http://212.182.119.149:8080",
-    "tested_at": "2026-02-14T11:44:16Z",
-    "ip": "212.182.119.149",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Poland",
-    "country_code": "PL",
-    "region": "Lublin Voivodeship",
-    "region_code": "06",
-    "city": "Lublin",
-    "latitude": 51.2464536,
-    "longitude": 22.5684463,
-    "is_eu": true,
-    "postal": "20-484",
-    "connection": {
-      "asn": 12346,
-      "org": "Avir Sp. z o.o.",
-      "isp": "non academic part of Lublin MAN",
-      "domain": ""
     }
   }
 ]

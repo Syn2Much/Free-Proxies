@@ -1,31 +1,31 @@
 [
   {
-    "proxy": "http://41.57.6.30:6060",
-    "tested_at": "2026-02-14T12:46:05Z",
-    "ip": "41.57.6.30",
+    "proxy": "http://160.119.228.146:12354",
+    "tested_at": "2026-02-14T13:17:41Z",
+    "ip": "160.119.228.146",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "South Africa",
     "country_code": "ZA",
-    "region": "North West",
-    "region_code": "NW",
-    "city": "Rustenburg",
-    "latitude": -25.6544483,
-    "longitude": 27.255854,
+    "region": "Gauteng",
+    "region_code": "GT",
+    "city": "Randburg",
+    "latitude": -26.1438399,
+    "longitude": 27.9951862,
     "is_eu": false,
-    "postal": "0300",
+    "postal": "2194",
     "connection": {
-      "asn": 327688,
-      "org": "Breakout Point 1",
-      "isp": "Screamer Telecommunications",
-      "domain": "screamer.co.za"
+      "asn": 328137,
+      "org": "Web Squad Connect",
+      "isp": "Web Squad Connect pty LTD",
+      "domain": "websquad.co.za"
     }
   },
   {
-    "proxy": "http://102.217.139.31:8180",
-    "tested_at": "2026-02-14T12:46:24Z",
-    "ip": "102.217.139.31",
+    "proxy": "http://102.221.40.111:8080",
+    "tested_at": "2026-02-14T13:17:46Z",
+    "ip": "102.221.40.111",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -33,16 +33,39 @@
     "country_code": "ZA",
     "region": "Western Cape",
     "region_code": "WC",
-    "city": "Cape Town",
-    "latitude": -34.1340882,
-    "longitude": 18.4187029,
+    "city": "Mossel Bay",
+    "latitude": -34.1747356,
+    "longitude": 22.0834066,
     "is_eu": false,
-    "postal": "7975",
+    "postal": "6506",
     "connection": {
-      "asn": 329181,
-      "org": "Bluedog Technology",
-      "isp": "Bluedog Technology",
-      "domain": "bluedogtech.co.za"
+      "asn": 5713,
+      "org": "Elu Investments Limited incorporated in Ireland External Profit Company",
+      "isp": "Telkom SA Ltd.",
+      "domain": "acornbroadband.com"
+    }
+  },
+  {
+    "proxy": "http://102.66.104.162:8865",
+    "tested_at": "2026-02-14T13:18:02Z",
+    "ip": "102.66.104.162",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Mpumalanga",
+    "region_code": "MP",
+    "city": "Acornhoek",
+    "latitude": -24.6056556,
+    "longitude": 31.0874925,
+    "is_eu": false,
+    "postal": "1360",
+    "connection": {
+      "asn": 328471,
+      "org": "Herotel Ra Subscriber Block A",
+      "isp": "HERO TELECOMS PTY LTD",
+      "domain": "herotel.com"
     }
   }
 ]

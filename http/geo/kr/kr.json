@@ -1,30 +1,99 @@
 [
   {
-    "proxy": "http://183.98.143.134:8002",
-    "tested_at": "2026-02-14T12:46:00Z",
-    "ip": "211.216.56.129",
+    "proxy": "http://72.10.160.90:2557",
+    "tested_at": "2026-02-14T13:17:25Z",
+    "ip": "1.239.126.107",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Republic of Korea",
     "country_code": "KR",
-    "region": "South Gyeongsang",
-    "region_code": "48",
-    "city": "Yangsan-si",
-    "latitude": 35.3350072,
-    "longitude": 129.0371689,
+    "region": "",
+    "region_code": "",
+    "city": "Seoul",
+    "latitude": 37.566535,
+    "longitude": 126.9779692,
     "is_eu": false,
-    "postal": "50626",
+    "postal": "04523",
     "connection": {
-      "asn": 4766,
-      "org": "Korea Telecom",
-      "isp": "Korea Telecom",
-      "domain": "kt.com"
+      "asn": 9318,
+      "org": "broadNnet",
+      "isp": "Sk Broadband Co LTD",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://72.10.160.174:23559",
+    "tested_at": "2026-02-14T13:17:35Z",
+    "ip": "1.227.32.86",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "",
+    "region_code": "",
+    "city": "Seoul",
+    "latitude": 37.566535,
+    "longitude": 126.9779692,
+    "is_eu": false,
+    "postal": "04523",
+    "connection": {
+      "asn": 9318,
+      "org": "broadNnet",
+      "isp": "Sk Broadband Co LTD",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://8.213.151.128:3128",
+    "tested_at": "2026-02-14T13:17:45Z",
+    "ip": "8.213.151.128",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "",
+    "region_code": "",
+    "city": "Seoul",
+    "latitude": 37.566535,
+    "longitude": 126.9779692,
+    "is_eu": false,
+    "postal": "04523",
+    "connection": {
+      "asn": 45102,
+      "org": "Alibaba Cloud South Korea",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibaba-inc.com"
+    }
+  },
+  {
+    "proxy": "http://146.56.182.165:3128",
+    "tested_at": "2026-02-14T13:17:46Z",
+    "ip": "146.56.182.165",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "",
+    "region_code": "",
+    "city": "Seoul",
+    "latitude": 37.566535,
+    "longitude": 126.9779692,
+    "is_eu": false,
+    "postal": "04523",
+    "connection": {
+      "asn": 31898,
+      "org": "Oracle Corporation",
+      "isp": "Oracle Corporation",
+      "domain": "oracle.com"
     }
   },
   {
     "proxy": "http://210.223.44.230:3128",
-    "tested_at": "2026-02-14T12:46:06Z",
+    "tested_at": "2026-02-14T13:17:47Z",
     "ip": "210.223.44.230",
     "success": true,
     "type": "IPv4",
@@ -43,6 +112,52 @@
       "org": "Korea Telecom",
       "isp": "Korea Telecom",
       "domain": "kt.com"
+    }
+  },
+  {
+    "proxy": "http://211.230.49.122:3128",
+    "tested_at": "2026-02-14T13:17:52Z",
+    "ip": "211.230.49.122",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "Gyeonggi",
+    "region_code": "41",
+    "city": "Seongnam-si",
+    "latitude": 37.4449168,
+    "longitude": 127.1388684,
+    "is_eu": false,
+    "postal": "13437",
+    "connection": {
+      "asn": 4766,
+      "org": "Kornet",
+      "isp": "Korea Telecom",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://72.10.160.91:2557",
+    "tested_at": "2026-02-14T13:18:07Z",
+    "ip": "1.239.126.107",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "",
+    "region_code": "",
+    "city": "Seoul",
+    "latitude": 37.566535,
+    "longitude": 126.9779692,
+    "is_eu": false,
+    "postal": "04523",
+    "connection": {
+      "asn": 9318,
+      "org": "broadNnet",
+      "isp": "Sk Broadband Co LTD",
+      "domain": ""
     }
   }
 ]

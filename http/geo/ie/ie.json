@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://5.83.244.1:8080",
-    "tested_at": "2026-02-14T03:22:22Z",
-    "ip": "5.83.244.250",
+    "proxy": "http://23.95.225.122:1080",
+    "tested_at": "2026-02-14T13:17:33Z",
+    "ip": "23.95.225.122",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,16 +10,16 @@
     "country_code": "IE",
     "region": "Leinster",
     "region_code": "L",
-    "city": "Athlone",
-    "latitude": 53.4239331,
-    "longitude": -7.9406898,
+    "city": "Dublin",
+    "latitude": 53.3165322,
+    "longitude": -6.3425318,
     "is_eu": true,
-    "postal": "N37 PV34",
+    "postal": "D01 P5P5",
     "connection": {
-      "asn": 57791,
-      "org": "EURONA BRISKNETT",
-      "isp": "Arden Broadband LTD",
-      "domain": "eurona.ie"
+      "asn": 36352,
+      "org": "Racknerd LLC",
+      "isp": "HostPapa",
+      "domain": "racknerd.com"
     }
   }
 ]

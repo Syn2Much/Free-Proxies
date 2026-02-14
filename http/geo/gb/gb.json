@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://109.120.135.230:2030",
-    "tested_at": "2026-02-14T12:46:01Z",
+    "tested_at": "2026-02-14T13:17:52Z",
     "ip": "2a0b:4140:685e::2",
     "success": true,
     "type": "IPv6",
@@ -20,6 +20,29 @@
       "org": "AEZA NETWORK STOCKHOLM",
       "isp": "AEZA INTERNATIONAL LTD",
       "domain": "aeza.net"
+    }
+  },
+  {
+    "proxy": "http://37.27.180.250:2081",
+    "tested_at": "2026-02-14T13:17:55Z",
+    "ip": "141.98.101.182",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "England",
+    "region_code": "ENG",
+    "city": "Manchester",
+    "latitude": 53.446622,
+    "longitude": -2.308713,
+    "is_eu": false,
+    "postal": "M2 3FU",
+    "connection": {
+      "asn": 9009,
+      "org": "M LTD Manchester Infrastructure",
+      "isp": "M Europe SRL",
+      "domain": "m247.com"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://85.208.108.43:10808",
-    "tested_at": "2026-02-14T12:14:53Z",
-    "ip": "85.208.108.43",
+    "proxy": "http://72.10.160.172:25547",
+    "tested_at": "2026-02-14T13:17:54Z",
+    "ip": "184.68.121.182",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,21 +10,21 @@
     "country_code": "CA",
     "region": "Ontario",
     "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
+    "city": "Brampton",
+    "latitude": 43.7315479,
+    "longitude": -79.7624177,
     "is_eu": false,
-    "postal": "M5H 2N2",
+    "postal": "L6Y 1L9",
     "connection": {
-      "asn": 53363,
-      "org": "Worktitans B.V.",
-      "isp": "TANGRAM CANADA INC.",
-      "domain": "the.hosting"
+      "asn": 6327,
+      "org": "Shaw Communications",
+      "isp": "Shaw Communications",
+      "domain": "shaw.ca"
     }
   },
   {
     "proxy": "http://188.227.196.62:1080",
-    "tested_at": "2026-02-14T12:14:54Z",
+    "tested_at": "2026-02-14T13:17:56Z",
     "ip": "188.227.196.62",
     "success": true,
     "type": "IPv4",
@@ -43,52 +43,6 @@
       "org": "PetroSky",
       "isp": "PETROSKY CLOUD LLC",
       "domain": "abuseradar.com"
-    }
-  },
-  {
-    "proxy": "http://51.79.71.106:8080",
-    "tested_at": "2026-02-14T12:15:03Z",
-    "ip": "51.79.71.106",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Québec",
-    "region_code": "QC",
-    "city": "Montreal",
-    "latitude": 45.5016889,
-    "longitude": -73.567256,
-    "is_eu": false,
-    "postal": "H3A 2A6",
-    "connection": {
-      "asn": 16276,
-      "org": "Backlayer INC",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
-    }
-  },
-  {
-    "proxy": "http://85.208.108.43:2094",
-    "tested_at": "2026-02-14T12:15:15Z",
-    "ip": "85.208.108.43",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 53363,
-      "org": "Worktitans B.V.",
-      "isp": "TANGRAM CANADA INC.",
-      "domain": "the.hosting"
     }
   }
 ]

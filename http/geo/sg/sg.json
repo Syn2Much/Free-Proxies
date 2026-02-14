@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://128.199.116.219:9090",
-    "tested_at": "2026-02-14T12:46:03Z",
-    "ip": "128.199.116.219",
+    "proxy": "http://72.10.160.92:23365",
+    "tested_at": "2026-02-14T13:17:35Z",
+    "ip": "103.6.151.73",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,108 +16,16 @@
     "is_eu": false,
     "postal": "550304",
     "connection": {
-      "asn": 14061,
-      "org": "Digitalocean, LLC",
-      "isp": "Digitalocean, LLC",
-      "domain": "digitalocean.com"
+      "asn": 56300,
+      "org": "Myrepublic LTD",
+      "isp": "MYREPUBLIC LIMITED",
+      "domain": "myrepublic.net"
     }
   },
   {
-    "proxy": "http://128.199.113.85:9090",
-    "tested_at": "2026-02-14T12:46:07Z",
-    "ip": "128.199.113.85",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Singapore",
-    "country_code": "SG",
-    "region": "Southeast",
-    "region_code": "",
-    "city": "Singapore",
-    "latitude": 1.3553794,
-    "longitude": 103.8677444,
-    "is_eu": false,
-    "postal": "550304",
-    "connection": {
-      "asn": 14061,
-      "org": "Digitalocean, LLC",
-      "isp": "Digitalocean, LLC",
-      "domain": "digitalocean.com"
-    }
-  },
-  {
-    "proxy": "http://107.155.65.87:13428",
-    "tested_at": "2026-02-14T12:46:18Z",
-    "ip": "107.155.65.87",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Singapore",
-    "country_code": "SG",
-    "region": "Southeast",
-    "region_code": "",
-    "city": "Singapore",
-    "latitude": 1.3553794,
-    "longitude": 103.8677444,
-    "is_eu": false,
-    "postal": "550304",
-    "connection": {
-      "asn": 29802,
-      "org": "Hivelocity, Inc.",
-      "isp": "Hivelocity, Inc.",
-      "domain": "hivelocity.net"
-    }
-  },
-  {
-    "proxy": "http://217.217.254.94:8080",
-    "tested_at": "2026-02-14T12:46:28Z",
-    "ip": "217.217.254.94",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Singapore",
-    "country_code": "SG",
-    "region": "Southeast",
-    "region_code": "",
-    "city": "Singapore",
-    "latitude": 1.3553794,
-    "longitude": 103.8677444,
-    "is_eu": false,
-    "postal": "550304",
-    "connection": {
-      "asn": 141995,
-      "org": "Contabo GmbH",
-      "isp": "Contabo Asia Private Limited",
-      "domain": "contabo.de"
-    }
-  },
-  {
-    "proxy": "http://128.199.120.45:9090",
-    "tested_at": "2026-02-14T12:46:45Z",
-    "ip": "128.199.120.45",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Singapore",
-    "country_code": "SG",
-    "region": "Southeast",
-    "region_code": "",
-    "city": "Singapore",
-    "latitude": 1.3553794,
-    "longitude": 103.8677444,
-    "is_eu": false,
-    "postal": "550304",
-    "connection": {
-      "asn": 14061,
-      "org": "Digitalocean, LLC",
-      "isp": "Digitalocean, LLC",
-      "domain": "digitalocean.com"
-    }
-  },
-  {
-    "proxy": "http://128.199.121.61:9090",
-    "tested_at": "2026-02-14T12:46:47Z",
-    "ip": "128.199.121.61",
+    "proxy": "http://146.190.80.158:9090",
+    "tested_at": "2026-02-14T13:18:04Z",
+    "ip": "146.190.80.158",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
