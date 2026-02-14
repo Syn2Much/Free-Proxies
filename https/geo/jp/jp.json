@@ -1,30 +1,122 @@
 [
   {
     "proxy": "https://47.243.181.85:41399",
-    "tested_at": "2026-02-14T18:24:52Z",
-    "ip": "49.109.7.163",
+    "tested_at": "2026-02-14T18:56:18Z",
+    "ip": "219.104.165.120",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Japan",
     "country_code": "JP",
-    "region": "Tochigi Prefecture",
-    "region_code": "09",
-    "city": "Nikko",
-    "latitude": 36.7235374,
-    "longitude": 139.6949664,
+    "region": "Kyoto Prefecture",
+    "region_code": "26",
+    "city": "Kyoto",
+    "latitude": 35.0116363,
+    "longitude": 135.7680294,
     "is_eu": false,
-    "postal": "321-1272",
+    "postal": "602-8570",
     "connection": {
-      "asn": 9605,
-      "org": "NTT DOCOMO,INC.",
-      "isp": "NTT DOCOMO, INC.",
-      "domain": "nttdocomo.com"
+      "asn": 2527,
+      "org": "So net Service",
+      "isp": "Sony Network Communications Inc.",
+      "domain": "sonynetwork.co.jp"
+    }
+  },
+  {
+    "proxy": "https://37.120.210.146:9443",
+    "tested_at": "2026-02-14T18:56:18Z",
+    "ip": "37.120.210.155",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
+    "is_eu": false,
+    "postal": "100-0002",
+    "connection": {
+      "asn": 9009,
+      "org": "M LTD Tokyo Infrastructure",
+      "isp": "M Europe SRL",
+      "domain": "m247.ro"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41410",
+    "tested_at": "2026-02-14T18:56:28Z",
+    "ip": "14.3.99.32",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Chiyoda",
+    "latitude": 35.6940027,
+    "longitude": 139.7535951,
+    "is_eu": false,
+    "postal": "100-0003",
+    "connection": {
+      "asn": 4685,
+      "org": "Asahi Net,inc.",
+      "isp": "Asahi Net",
+      "domain": "asahi-net.jp"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41406",
+    "tested_at": "2026-02-14T18:56:58Z",
+    "ip": "2400:2410:93a1:1d00:51e1:db8c:83e7:331f",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Minato",
+    "latitude": 35.6580681,
+    "longitude": 139.7515992,
+    "is_eu": false,
+    "postal": "108-0074",
+    "connection": {
+      "asn": 17676,
+      "org": "Softbank Corp.",
+      "isp": "Softbank Mobile Corp.",
+      "domain": "softbank.co.jp"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41400",
+    "tested_at": "2026-02-14T18:56:59Z",
+    "ip": "193.148.16.5",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Shinagawa",
+    "latitude": 35.6092261,
+    "longitude": 139.7301861,
+    "is_eu": false,
+    "postal": "140-8522",
+    "connection": {
+      "asn": 9009,
+      "org": "M LTD Tokyo",
+      "isp": "M Europe SRL",
+      "domain": "m247.ro"
     }
   },
   {
     "proxy": "https://20.78.213.56:443",
-    "tested_at": "2026-02-14T18:25:36Z",
+    "tested_at": "2026-02-14T18:57:03Z",
     "ip": "20.78.213.56",
     "success": true,
     "type": "IPv4",
@@ -43,29 +135,6 @@
       "org": "Microsoft Corporation",
       "isp": "Microsoft Corporation",
       "domain": "microsoft.com"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41419",
-    "tested_at": "2026-02-14T18:25:42Z",
-    "ip": "2402:6b00:f336:f500:21b6:2641:c980:5b85",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Gifu Prefecture",
-    "region_code": "21",
-    "city": "Kani",
-    "latitude": 35.4261208,
-    "longitude": 137.0610107,
-    "is_eu": false,
-    "postal": "509-0292",
-    "connection": {
-      "asn": 18126,
-      "org": "Chubu Telecommunications CO.,INC.",
-      "isp": "Chubu Telecommunications CO.,INC.",
-      "domain": "ctc.co.jp"
     }
   }
 ]

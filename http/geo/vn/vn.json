@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://116.98.57.187:8080",
+    "tested_at": "2026-02-14T18:56:23Z",
+    "ip": "116.98.57.187",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Hanoi",
+    "region_code": "HN",
+    "city": "Hanoi",
+    "latitude": 21.0277644,
+    "longitude": 105.8341598,
+    "is_eu": false,
+    "postal": "110905",
+    "connection": {
+      "asn": 24086,
+      "org": "Viettel Group",
+      "isp": "Viettel Corporation",
+      "domain": "viettel.com.vn"
+    }
+  },
+  {
     "proxy": "http://103.3.246.71:3128",
-    "tested_at": "2026-02-14T18:25:29Z",
+    "tested_at": "2026-02-14T18:56:29Z",
     "ip": "103.3.246.71",
     "success": true,
     "type": "IPv4",
@@ -23,32 +46,9 @@
     }
   },
   {
-    "proxy": "http://67.43.228.250:27011",
-    "tested_at": "2026-02-14T18:25:33Z",
-    "ip": "118.70.100.215",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Ho Chi Minh",
-    "region_code": "SG",
-    "city": "Ho Chi Minh City",
-    "latitude": 10.8230989,
-    "longitude": 106.6296638,
-    "is_eu": false,
-    "postal": "708000",
-    "connection": {
-      "asn": 18403,
-      "org": "Dai Ip Dong Ket Noi Xdsl",
-      "isp": "Fpt Telecom Company",
-      "domain": "fpt.com"
-    }
-  },
-  {
-    "proxy": "http://222.252.97.26:8008",
-    "tested_at": "2026-02-14T18:25:37Z",
-    "ip": "222.252.97.26",
+    "proxy": "http://123.25.25.180:1452",
+    "tested_at": "2026-02-14T18:56:40Z",
+    "ip": "123.25.25.180",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -63,9 +63,32 @@
     "postal": "110905",
     "connection": {
       "asn": 45899,
-      "org": "Hanoi Post And Telecom Company",
+      "org": "Vietnam Posts And Telecommunications Group",
       "isp": "Vnpt Corp",
-      "domain": "vnpt-hanoi.com.vn"
+      "domain": "vnpt.com.vn"
+    }
+  },
+  {
+    "proxy": "http://103.17.88.18:8080",
+    "tested_at": "2026-02-14T18:56:53Z",
+    "ip": "103.17.88.18",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Binh Duong province",
+    "region_code": "57",
+    "city": "Thủ Dầu Một",
+    "latitude": 10.9929842,
+    "longitude": 106.6557073,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 45557,
+      "org": "Vietnam Technology And Telecommunication JSC",
+      "isp": "Vietnam Technology And Telecommunication JSC",
+      "domain": "vntt.com.vn"
     }
   }
 ]

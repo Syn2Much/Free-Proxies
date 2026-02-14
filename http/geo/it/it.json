@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://89.40.143.28:7788",
-    "tested_at": "2026-02-14T17:54:28Z",
-    "ip": "89.40.143.28",
+    "proxy": "http://149.86.206.27:8080",
+    "tested_at": "2026-02-14T18:56:18Z",
+    "ip": "149.86.206.27",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Italy",
     "country_code": "IT",
-    "region": "Lombardy",
-    "region_code": "25",
-    "city": "Milan",
-    "latitude": 45.4654219,
-    "longitude": 9.1859243,
+    "region": "Tuscany",
+    "region_code": "52",
+    "city": "Pistoia",
+    "latitude": 43.9303475,
+    "longitude": 10.9078587,
     "is_eu": true,
-    "postal": "20122",
+    "postal": "51100",
     "connection": {
-      "asn": 64445,
-      "org": "Virtual Solution SRL",
-      "isp": "Michele Pietravalle Trading AS Netjoin",
-      "domain": "virtualsolution.net"
+      "asn": 60501,
+      "org": "Cogent Communications",
+      "isp": "Sirius Technology SRL",
+      "domain": "siriustec.it"
     }
   }
 ]

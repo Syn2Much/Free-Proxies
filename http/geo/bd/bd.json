@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://27.147.245.189:7735",
-    "tested_at": "2026-02-14T18:24:57Z",
-    "ip": "27.147.245.189",
+    "proxy": "http://103.141.70.48:8080",
+    "tested_at": "2026-02-14T18:56:18Z",
+    "ip": "103.141.70.18",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,39 +16,39 @@
     "is_eu": false,
     "postal": "1229",
     "connection": {
-      "asn": 23688,
-      "org": "Link Technologies Ltd",
-      "isp": "Link Technologies Limited",
-      "domain": "link3.net"
+      "asn": 139326,
+      "org": "Digital One Broadband Internet Service",
+      "isp": "Digital One Broadband Internet Service",
+      "domain": "digitalonebd.net"
     }
   },
   {
-    "proxy": "http://203.76.220.126:16464",
-    "tested_at": "2026-02-14T18:25:06Z",
-    "ip": "180.94.28.107",
+    "proxy": "http://118.179.151.57:5020",
+    "tested_at": "2026-02-14T18:56:19Z",
+    "ip": "118.179.151.57",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Bangladesh",
     "country_code": "BD",
-    "region": "Rajshahi Division",
-    "region_code": "54",
-    "city": "Ishwardi Upazila",
-    "latitude": 24.1290468,
-    "longitude": 89.0715186,
+    "region": "Dhaka Division",
+    "region_code": "13",
+    "city": "Dhaka",
+    "latitude": 23.810332,
+    "longitude": 90.4125181,
     "is_eu": false,
-    "postal": "6620",
+    "postal": "1229",
     "connection": {
-      "asn": 141026,
-      "org": "A Dot Net",
-      "isp": "A Dot Net",
-      "domain": "adotnet-bd.com"
+      "asn": 23956,
+      "org": "Amber IT Limited",
+      "isp": "Amber IT Limited",
+      "domain": "amberit.com.bd"
     }
   },
   {
-    "proxy": "http://202.5.33.33:1101",
-    "tested_at": "2026-02-14T18:25:14Z",
-    "ip": "202.5.33.33",
+    "proxy": "http://103.134.242.121:8080",
+    "tested_at": "2026-02-14T18:56:21Z",
+    "ip": "103.134.242.124",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -56,45 +56,22 @@
     "country_code": "BD",
     "region": "Chattogram Division",
     "region_code": "B",
-    "city": "Patiya Upazila",
-    "latitude": 22.2980567,
-    "longitude": 91.9685826,
-    "is_eu": false,
-    "postal": "4381",
-    "connection": {
-      "asn": 45326,
-      "org": "Bbts New Block",
-      "isp": "Broad Band Telecom Services LTD",
-      "domain": "bbts.net"
-    }
-  },
-  {
-    "proxy": "http://59.153.19.2:20909",
-    "tested_at": "2026-02-14T18:25:15Z",
-    "ip": "59.153.19.2",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Bangladesh",
-    "country_code": "BD",
-    "region": "Barisal Division",
-    "region_code": "A",
-    "city": "Nalchhiti",
-    "latitude": 22.6285798,
-    "longitude": 90.2690466,
+    "city": "Fatikchhari Upazila",
+    "latitude": 22.7537259,
+    "longitude": 91.714958,
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 64043,
-      "org": "S.M. Zakir Hossain T a Eurotelbd Online Ltd.",
-      "isp": "Eurotelbd Online Ltd.",
-      "domain": "eurotelbd.com"
+      "asn": 138623,
+      "org": "WIN Broadband",
+      "isp": "Winer Communication",
+      "domain": "winnet.com.pk"
     }
   },
   {
-    "proxy": "http://103.175.245.204:8080",
-    "tested_at": "2026-02-14T18:25:17Z",
-    "ip": "103.175.245.204",
+    "proxy": "http://103.119.101.59:8080",
+    "tested_at": "2026-02-14T18:56:22Z",
+    "ip": "103.119.101.59",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -108,16 +85,16 @@
     "is_eu": false,
     "postal": "1229",
     "connection": {
-      "asn": 137453,
-      "org": "Gnet Internet Network Inc.",
-      "isp": "Orange Communication",
-      "domain": "gnetinternetbd.com"
+      "asn": 134732,
+      "org": "Dot Internet",
+      "isp": "Dot Internet",
+      "domain": "dotinternetbd.com"
     }
   },
   {
-    "proxy": "http://182.160.124.83:50000",
-    "tested_at": "2026-02-14T18:25:18Z",
-    "ip": "182.160.124.83",
+    "proxy": "http://103.250.68.33:5555",
+    "tested_at": "2026-02-14T18:56:32Z",
+    "ip": "103.250.68.206",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -131,33 +108,33 @@
     "is_eu": false,
     "postal": "1229",
     "connection": {
-      "asn": 24323,
-      "org": "Assigned for Dhaka Epz Pop Customers",
-      "isp": "Aamra Networks Limited",
-      "domain": "aamra.com.bd"
+      "asn": 9441,
+      "org": "NEXT ONLINE",
+      "isp": "Next Online Ltd.",
+      "domain": "nextonline.com.bd"
     }
   },
   {
-    "proxy": "http://202.191.127.9:1121",
-    "tested_at": "2026-02-14T18:25:35Z",
-    "ip": "202.191.127.9",
+    "proxy": "http://103.158.62.186:8088",
+    "tested_at": "2026-02-14T18:56:32Z",
+    "ip": "103.158.62.57",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Bangladesh",
     "country_code": "BD",
-    "region": "Dhaka Division",
-    "region_code": "13",
-    "city": "Dhaka",
-    "latitude": 23.810332,
-    "longitude": 90.4125181,
+    "region": "Sylhet Division",
+    "region_code": "60",
+    "city": "Sylhet",
+    "latitude": 24.904539,
+    "longitude": 91.8611011,
     "is_eu": false,
-    "postal": "1229",
+    "postal": "3100",
     "connection": {
-      "asn": 24556,
-      "org": "Bijoy Online LTD",
-      "isp": "Bijoy Online LTD",
-      "domain": "bijoy.net"
+      "asn": 141398,
+      "org": "Search IT",
+      "isp": "Search IT",
+      "domain": "searchitbd.net"
     }
   }
 ]

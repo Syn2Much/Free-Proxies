@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://72.10.164.178:12079",
-    "tested_at": "2026-02-14T17:54:25Z",
-    "ip": "151.255.10.14",
+    "proxy": "http://67.43.228.250:19307",
+    "tested_at": "2026-02-14T18:56:57Z",
+    "ip": "175.110.221.220",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,14 +10,14 @@
     "country_code": "SA",
     "region": "Makkah Region",
     "region_code": "02",
-    "city": "Jeddah",
-    "latitude": 21.2854067,
-    "longitude": 39.2375507,
+    "city": "Mecca",
+    "latitude": 21.3890824,
+    "longitude": 39.8579118,
     "is_eu": false,
-    "postal": "23434",
+    "postal": "24231",
     "connection": {
-      "asn": 39891,
-      "org": "STC MBB",
+      "asn": 25019,
+      "org": "STC FBB",
       "isp": "Saudi Telecom Company JSC",
       "domain": "stc.com.sa"
     }

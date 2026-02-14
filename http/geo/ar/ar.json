@@ -1,8 +1,77 @@
 [
   {
-    "proxy": "http://186.18.198.45:8080",
-    "tested_at": "2026-02-14T18:24:52Z",
-    "ip": "186.18.198.45",
+    "proxy": "http://190.122.88.117:6969",
+    "tested_at": "2026-02-14T18:56:21Z",
+    "ip": "198.12.37.41",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Chaco",
+    "region_code": "H",
+    "city": "Resistencia",
+    "latitude": -27.4518622,
+    "longitude": -58.9855547,
+    "is_eu": false,
+    "postal": "H3500 ASC",
+    "connection": {
+      "asn": 27988,
+      "org": "Servicios Y Telecomunicaciones S.A.",
+      "isp": "Servicios Y Telecomunicaciones S.A.",
+      "domain": "syt.net"
+    }
+  },
+  {
+    "proxy": "http://181.118.143.1:999",
+    "tested_at": "2026-02-14T18:56:35Z",
+    "ip": "181.118.143.187",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Misiónes",
+    "region_code": "N",
+    "city": "Posadas",
+    "latitude": -27.3621374,
+    "longitude": -55.9008746,
+    "is_eu": false,
+    "postal": "N3300 GBF",
+    "connection": {
+      "asn": 52492,
+      "org": "SITERNET SRL",
+      "isp": "SITERNET SRL",
+      "domain": "siternet.com.ar"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:1319",
+    "tested_at": "2026-02-14T18:56:40Z",
+    "ip": "191.81.184.45",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Mendoza",
+    "region_code": "M",
+    "city": "Maipú",
+    "latitude": -32.9846649,
+    "longitude": -68.7884399,
+    "is_eu": false,
+    "postal": "5515",
+    "connection": {
+      "asn": 22927,
+      "org": "Telefonica De Argentina",
+      "isp": "Telefonica De Argentina",
+      "domain": "telefonica.com.ar"
+    }
+  },
+  {
+    "proxy": "http://181.111.164.210:999",
+    "tested_at": "2026-02-14T18:56:53Z",
+    "ip": "190.225.182.3",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -10,62 +79,16 @@
     "country_code": "AR",
     "region": "Buenos Aires",
     "region_code": "B",
-    "city": "Buenos Aires",
-    "latitude": -34.6036844,
-    "longitude": -58.3815591,
+    "city": "Paso del Rey",
+    "latitude": -34.6360397,
+    "longitude": -58.7523155,
     "is_eu": false,
-    "postal": "C1405 DJG",
+    "postal": "1742",
     "connection": {
-      "asn": 27747,
-      "org": "Telecentro S.A. Clientes Residenciales",
-      "isp": "Telecentro S.A.",
-      "domain": "telecentro.net.ar"
-    }
-  },
-  {
-    "proxy": "http://179.0.183.182:999",
-    "tested_at": "2026-02-14T18:25:17Z",
-    "ip": "179.0.183.179",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Corrientes",
-    "region_code": "W",
-    "city": "Corrientes",
-    "latitude": -27.4692131,
-    "longitude": -58.8306349,
-    "is_eu": false,
-    "postal": "3400",
-    "connection": {
-      "asn": 270044,
-      "org": "CORRIENTES TELECOMUNICACIONES S.A.P.E.M.",
-      "isp": "CORRIENTES TELECOMUNICACIONES S.A.P.E.M.",
-      "domain": "telco.com.ar"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:19573",
-    "tested_at": "2026-02-14T18:25:41Z",
-    "ip": "181.26.10.30",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "San Luis",
-    "region_code": "D",
-    "city": "San Luis",
-    "latitude": -33.3017267,
-    "longitude": -66.3377522,
-    "is_eu": false,
-    "postal": "D5702 JRP",
-    "connection": {
-      "asn": 22927,
-      "org": "Telefonica De Argentina",
-      "isp": "Telefonica De Argentina",
-      "domain": "telefonica.com.ar"
+      "asn": 7303,
+      "org": "Telecom Argentina S.A.",
+      "isp": "Telecom Argentina S.A.",
+      "domain": "telecom.com.ar"
     }
   }
 ]

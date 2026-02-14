@@ -1,23 +1,23 @@
 [
   {
-    "proxy": "http://110.34.8.110:8080",
-    "tested_at": "2026-02-14T18:25:51Z",
-    "ip": "110.34.13.4",
+    "proxy": "http://72.10.160.171:4867",
+    "tested_at": "2026-02-14T18:56:39Z",
+    "ip": "202.51.80.180",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Nepal",
     "country_code": "NP",
-    "region": "Bagmati Pradesh",
+    "region": "Province #2",
     "region_code": "",
-    "city": "Patan",
-    "latitude": 27.6644011,
-    "longitude": 85.3187914,
+    "city": "Birgunj",
+    "latitude": 27.0449005,
+    "longitude": 84.8672171,
     "is_eu": false,
-    "postal": "44707",
+    "postal": "",
     "connection": {
       "asn": 4007,
-      "org": "Subisu Retail Pool",
+      "org": "Subisu Cablenet",
       "isp": "Subisu Cablenet",
       "domain": "subisu.net.np"
     }

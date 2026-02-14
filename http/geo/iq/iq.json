@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://185.166.24.191:1981",
-    "tested_at": "2026-02-14T18:25:37Z",
-    "ip": "185.166.25.201",
+    "proxy": "http://62.201.217.194:8080",
+    "tested_at": "2026-02-14T18:56:21Z",
+    "ip": "62.201.217.194",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Iraq",
     "country_code": "IQ",
-    "region": "Iraqi Kurdistan Region",
-    "region_code": "",
-    "city": "Qalat Dizah",
-    "latitude": 36.1754734,
-    "longitude": 45.1333303,
+    "region": "Sulaimaniya Governorate",
+    "region_code": "SU",
+    "city": "Kalar",
+    "latitude": 34.6307795,
+    "longitude": 45.3275531,
     "is_eu": false,
-    "postal": "",
+    "postal": "46021",
     "connection": {
-      "asn": 207097,
-      "org": "RANGE",
-      "isp": "Online Company for Technological Information, Supply of Electronic Equipment And Internet Services Through Wifi Ltd.",
-      "domain": "onlineco.net"
+      "asn": 44217,
+      "org": "Sulaymaniyah Users",
+      "isp": "Iq Networks for Data And Internet Services LTD",
+      "domain": "iq.email"
+    }
+  },
+  {
+    "proxy": "http://62.201.217.243:40010",
+    "tested_at": "2026-02-14T18:56:52Z",
+    "ip": "62.201.217.243",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Sulaimaniya Governorate",
+    "region_code": "SU",
+    "city": "Kalar",
+    "latitude": 34.6307795,
+    "longitude": 45.3275531,
+    "is_eu": false,
+    "postal": "46021",
+    "connection": {
+      "asn": 44217,
+      "org": "Sulaymaniyah Users",
+      "isp": "Iq Networks for Data And Internet Services LTD",
+      "domain": "iq.email"
     }
   }
 ]

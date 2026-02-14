@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://65.108.159.129:3128",
-    "tested_at": "2026-02-14T18:25:04Z",
+    "tested_at": "2026-02-14T18:56:27Z",
     "ip": "65.108.159.129",
     "success": true,
     "type": "IPv4",
@@ -23,8 +23,8 @@
     }
   },
   {
-    "proxy": "http://65.108.159.129:8081",
-    "tested_at": "2026-02-14T18:25:22Z",
+    "proxy": "http://65.108.159.129:8080",
+    "tested_at": "2026-02-14T18:56:48Z",
     "ip": "65.108.159.129",
     "success": true,
     "type": "IPv4",
@@ -43,29 +43,6 @@
       "org": "Hetzner Online GmbH",
       "isp": "Hetzner Online GmbH",
       "domain": "hetzner.com"
-    }
-  },
-  {
-    "proxy": "http://94.159.112.138:3129",
-    "tested_at": "2026-02-14T18:25:42Z",
-    "ip": "94.159.112.138",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Finland",
-    "country_code": "FI",
-    "region": "Mainland Finland",
-    "region_code": "",
-    "city": "Helsinki",
-    "latitude": 60.1698557,
-    "longitude": 24.938379,
-    "is_eu": true,
-    "postal": "02101",
-    "connection": {
-      "asn": 216300,
-      "org": "New Hosting Technologies LLC",
-      "isp": "Closed Joint Stock Company Abkhazmedia",
-      "domain": "landvps.ru"
     }
   }
 ]

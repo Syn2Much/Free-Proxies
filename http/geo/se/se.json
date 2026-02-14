@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://65.108.203.36:28080",
-    "tested_at": "2026-02-14T17:53:53Z",
-    "ip": "2001:67c:2628:647:10::bc",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Stockholm",
-    "latitude": 59.3293235,
-    "longitude": 18.0685808,
-    "is_eu": true,
-    "postal": "111 29",
-    "connection": {
-      "asn": 205016,
-      "org": "Hern Labs Ab",
-      "isp": "Hern Labs Ab",
-      "domain": "hernlabs.se"
-    }
-  },
-  {
-    "proxy": "http://193.181.35.104:8118",
-    "tested_at": "2026-02-14T17:54:05Z",
-    "ip": "193.181.35.104",
+    "proxy": "http://83.219.250.8:62920",
+    "tested_at": "2026-02-14T18:56:47Z",
+    "ip": "83.219.250.8",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,79 +16,10 @@
     "is_eu": true,
     "postal": "111 29",
     "connection": {
-      "asn": 42201,
-      "org": "Pvdatanet Ab",
-      "isp": "Pvdatanet Ab",
-      "domain": "pvdatanet.com"
-    }
-  },
-  {
-    "proxy": "http://65.108.203.35:28080",
-    "tested_at": "2026-02-14T17:54:13Z",
-    "ip": "2001:67c:2628:647:31:2404:0:199",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Stockholm",
-    "latitude": 59.3293235,
-    "longitude": 18.0685808,
-    "is_eu": true,
-    "postal": "111 29",
-    "connection": {
-      "asn": 205016,
-      "org": "Hern Labs Ab",
-      "isp": "Hern Labs Ab",
-      "domain": "hernlabs.se"
-    }
-  },
-  {
-    "proxy": "http://193.181.35.12:8118",
-    "tested_at": "2026-02-14T17:54:16Z",
-    "ip": "193.181.35.12",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Stockholm",
-    "latitude": 59.3293235,
-    "longitude": 18.0685808,
-    "is_eu": true,
-    "postal": "111 29",
-    "connection": {
-      "asn": 42201,
-      "org": "Pvdatanet Ab",
-      "isp": "Pvdatanet Ab",
-      "domain": "pvdatanet.com"
-    }
-  },
-  {
-    "proxy": "http://193.181.35.95:8118",
-    "tested_at": "2026-02-14T17:54:20Z",
-    "ip": "193.181.35.95",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Stockholm",
-    "latitude": 59.3293235,
-    "longitude": 18.0685808,
-    "is_eu": true,
-    "postal": "111 29",
-    "connection": {
-      "asn": 42201,
-      "org": "Pvdatanet Ab",
-      "isp": "Pvdatanet Ab",
-      "domain": "pvdatanet.com"
+      "asn": 41745,
+      "org": "Baykov Ilya Sergeevich",
+      "isp": "Baykov Ilya Sergeevich",
+      "domain": "fortis.host"
     }
   }
 ]

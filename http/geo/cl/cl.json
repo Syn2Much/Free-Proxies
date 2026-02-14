@@ -1,7 +1,53 @@
 [
   {
-    "proxy": "http://38.7.195.55:999",
-    "tested_at": "2026-02-14T18:24:53Z",
+    "proxy": "http://186.67.47.230:999",
+    "tested_at": "2026-02-14T18:56:22Z",
+    "ip": "186.10.219.154",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 27651,
+      "org": "ENTEL CHILE S.A.",
+      "isp": "ENTEL CHILE S.A.",
+      "domain": "entel.cl"
+    }
+  },
+  {
+    "proxy": "http://201.186.41.170:999",
+    "tested_at": "2026-02-14T18:56:23Z",
+    "ip": "201.186.41.170",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Biobío Region",
+    "region_code": "BI",
+    "city": "Los Ángeles",
+    "latitude": -37.4629159,
+    "longitude": -72.3612251,
+    "is_eu": false,
+    "postal": "90009",
+    "connection": {
+      "asn": 14117,
+      "org": "Telefonica del Sur S.A",
+      "isp": "Telefonica Del Sur S.A.",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://38.7.195.52:999",
+    "tested_at": "2026-02-14T18:56:51Z",
     "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
@@ -20,6 +66,75 @@
       "org": "Cogent Communications",
       "isp": "GRUPO ZGH SPA",
       "domain": "zglobalhost.com"
+    }
+  },
+  {
+    "proxy": "http://190.54.100.74:8080",
+    "tested_at": "2026-02-14T18:56:52Z",
+    "ip": "190.54.100.74",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 6429,
+      "org": "Telmex Servicios Empresariales S.A",
+      "isp": "Telmex Chile Internet S.A.",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://38.7.195.51:999",
+    "tested_at": "2026-02-14T18:57:02Z",
+    "ip": "38.7.195.49",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 263702,
+      "org": "Cogent Communications",
+      "isp": "GRUPO ZGH SPA",
+      "domain": "zglobalhost.com"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.90:15061",
+    "tested_at": "2026-02-14T18:57:03Z",
+    "ip": "190.22.121.198",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 7418,
+      "org": "TELEF NICA CHILE S.A.",
+      "isp": "TELEF NICA CHILE S.A.",
+      "domain": "telefonicachile.cl"
     }
   }
 ]

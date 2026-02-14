@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://38.156.14.34:999",
-    "tested_at": "2026-02-14T18:25:20Z",
-    "ip": "38.156.14.34",
+    "proxy": "http://38.123.48.50:999",
+    "tested_at": "2026-02-14T18:56:18Z",
+    "ip": "38.123.48.50",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -23,9 +23,32 @@
     }
   },
   {
-    "proxy": "http://217.76.245.24:999",
-    "tested_at": "2026-02-14T18:25:47Z",
-    "ip": "217.76.245.25",
+    "proxy": "http://38.156.236.182:999",
+    "tested_at": "2026-02-14T18:56:20Z",
+    "ip": "38.156.236.178",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Distrito Nacional",
+    "region_code": "01",
+    "city": "Santo Domingo",
+    "latitude": 18.4610416,
+    "longitude": -69.9277577,
+    "is_eu": false,
+    "postal": "10119",
+    "connection": {
+      "asn": 272882,
+      "org": "BITNET DOMINICANA, S.R.L.",
+      "isp": "BITNET DOMINICANA, S.R.L.",
+      "domain": "bitnet.com.do"
+    }
+  },
+  {
+    "proxy": "http://200.125.170.108:999",
+    "tested_at": "2026-02-14T18:56:32Z",
+    "ip": "200.125.170.109",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -39,10 +62,79 @@
     "is_eu": false,
     "postal": "51000",
     "connection": {
-      "asn": 271968,
-      "org": "CEMO",
-      "isp": "CENTRIC MOBILITY CEMO , S.R.L",
-      "domain": "cemo.com.do"
+      "asn": 269931,
+      "org": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
+      "isp": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
+      "domain": "wmservice.com.do"
+    }
+  },
+  {
+    "proxy": "http://38.156.236.101:999",
+    "tested_at": "2026-02-14T18:56:33Z",
+    "ip": "38.156.236.98",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Distrito Nacional",
+    "region_code": "01",
+    "city": "Santo Domingo",
+    "latitude": 18.4610416,
+    "longitude": -69.9277577,
+    "is_eu": false,
+    "postal": "10119",
+    "connection": {
+      "asn": 272882,
+      "org": "BITNET DOMINICANA, S.R.L.",
+      "isp": "BITNET DOMINICANA, S.R.L.",
+      "domain": "bitnet.com.do"
+    }
+  },
+  {
+    "proxy": "http://38.156.236.186:999",
+    "tested_at": "2026-02-14T18:56:54Z",
+    "ip": "38.156.236.178",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Distrito Nacional",
+    "region_code": "01",
+    "city": "Santo Domingo",
+    "latitude": 18.4610416,
+    "longitude": -69.9277577,
+    "is_eu": false,
+    "postal": "10119",
+    "connection": {
+      "asn": 272882,
+      "org": "BITNET DOMINICANA, S.R.L.",
+      "isp": "BITNET DOMINICANA, S.R.L.",
+      "domain": "bitnet.com.do"
+    }
+  },
+  {
+    "proxy": "http://38.156.235.36:999",
+    "tested_at": "2026-02-14T18:57:04Z",
+    "ip": "38.156.235.34",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "San Pedro de Macoris",
+    "region_code": "23",
+    "city": "San Pedro De Macoris",
+    "latitude": 18.4720698,
+    "longitude": -69.2996732,
+    "is_eu": false,
+    "postal": "21000",
+    "connection": {
+      "asn": 272882,
+      "org": "BITNET DOMINICANA, S.R.L.",
+      "isp": "BITNET DOMINICANA, S.R.L.",
+      "domain": "bitnet.com.do"
     }
   }
 ]

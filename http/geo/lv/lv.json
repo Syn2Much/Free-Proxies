@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://195.123.211.251:8118",
+    "tested_at": "2026-02-14T18:56:32Z",
+    "ip": "2a02:27ac::f59",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "Latvia",
+    "country_code": "LV",
+    "region": "Vidzeme",
+    "region_code": "",
+    "city": "Riga",
+    "latitude": 56.9496487,
+    "longitude": 24.1051864,
+    "is_eu": true,
+    "postal": "LV-1811",
+    "connection": {
+      "asn": 50979,
+      "org": "Ipv Services for Dedicated Servers And Vds vps",
+      "isp": "GREEN FLOID LLC",
+      "domain": "layer6.net"
+    }
+  },
+  {
     "proxy": "http://195.123.209.48:3128",
-    "tested_at": "2026-02-14T17:22:40Z",
+    "tested_at": "2026-02-14T18:56:56Z",
     "ip": "195.123.209.48",
     "success": true,
     "type": "IPv4",

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://154.73.29.65:8080",
-    "tested_at": "2026-02-14T18:25:04Z",
-    "ip": "154.73.28.72",
+    "proxy": "http://102.214.104.56:8080",
+    "tested_at": "2026-02-14T18:56:20Z",
+    "ip": "102.214.104.56",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -17,7 +17,7 @@
     "postal": "350",
     "connection": {
       "asn": 21003,
-      "org": "RAWAFED LIBYA",
+      "org": "This Pool Dedicated for Natting And Loopback Ip Access for Company Hardware",
       "isp": "General Post And Telecommunication Company gptc",
       "domain": "rltt.net"
     }

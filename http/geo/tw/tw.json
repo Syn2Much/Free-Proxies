@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://35.234.17.221:8080",
-    "tested_at": "2026-02-14T18:24:53Z",
-    "ip": "35.234.17.221",
+    "proxy": "http://27.147.28.73:8080",
+    "tested_at": "2026-02-14T18:56:22Z",
+    "ip": "27.147.28.73",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Taiwan",
     "country_code": "TW",
-    "region": "Keelung City",
-    "region_code": "KEE",
-    "city": "Taipei",
-    "latitude": 25.0329694,
-    "longitude": 121.5654177,
+    "region": "New Taipei City",
+    "region_code": "",
+    "city": "Zhitan 5th Street",
+    "latitude": 24.941202,
+    "longitude": 121.534131,
     "is_eu": false,
-    "postal": "11008",
+    "postal": "231",
     "connection": {
-      "asn": 396982,
-      "org": "Google LLC",
-      "isp": "Google LLC",
-      "domain": "google.com"
+      "asn": 18429,
+      "org": "CABLE GIANT CATV. CO., LTD.",
+      "isp": "Extra lan Technologies Co., LTD",
+      "domain": "cable-giant.com.tw"
+    }
+  },
+  {
+    "proxy": "http://67.43.236.20:10331",
+    "tested_at": "2026-02-14T18:56:57Z",
+    "ip": "124.218.93.216",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "region": "Kaohsiung City",
+    "region_code": "KHQ",
+    "city": "寶珠里",
+    "latitude": 22.6483956,
+    "longitude": 120.3262085,
+    "is_eu": false,
+    "postal": "807",
+    "connection": {
+      "asn": 7482,
+      "org": "Asia Pacific On line Services Inc.",
+      "isp": "Asia Pacific On line Service Inc.",
+      "domain": "apol.com.tw"
     }
   }
 ]

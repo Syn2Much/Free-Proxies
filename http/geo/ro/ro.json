@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://185.128.240.77:8080",
-    "tested_at": "2026-02-14T16:20:35Z",
-    "ip": "185.128.240.77",
+    "proxy": "http://144.76.42.215:8118",
+    "tested_at": "2026-02-14T18:56:59Z",
+    "ip": "37.46.196.22",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Romania",
     "country_code": "RO",
-    "region": "Mehedinți",
-    "region_code": "MH",
-    "city": "Gogoșu",
-    "latitude": 44.3714069,
-    "longitude": 22.5957561,
+    "region": "Bucharest",
+    "region_code": "B",
+    "city": "Bucharest",
+    "latitude": 44.4267674,
+    "longitude": 26.1025384,
     "is_eu": true,
-    "postal": "227220",
+    "postal": "030163",
     "connection": {
-      "asn": 49052,
-      "org": "DATACENTER SERVERS HOSTING",
-      "isp": "DATA ZYX SRL",
-      "domain": "datazyx.ro"
+      "asn": 6206,
+      "org": "Netrouting B.V.",
+      "isp": "Netrouting B.V.",
+      "domain": "netrouting.com"
     }
   }
 ]

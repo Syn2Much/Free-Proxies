@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://41.196.16.233:1976",
-    "tested_at": "2026-02-14T18:24:51Z",
-    "ip": "41.196.16.233",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Egypt",
-    "country_code": "EG",
-    "region": "Cairo",
-    "region_code": "C",
-    "city": "Cairo",
-    "latitude": 30.0444196,
-    "longitude": 31.2357116,
-    "is_eu": false,
-    "postal": "28625",
-    "connection": {
-      "asn": 24863,
-      "org": "Link Egypt",
-      "isp": "Link Egypt link.net",
-      "domain": "link.net"
-    }
-  },
-  {
     "proxy": "http://41.65.236.34:1981",
-    "tested_at": "2026-02-14T18:24:54Z",
+    "tested_at": "2026-02-14T18:56:21Z",
     "ip": "41.65.236.34",
     "success": true,
     "type": "IPv4",
@@ -46,78 +23,9 @@
     }
   },
   {
-    "proxy": "http://213.131.85.26:1981",
-    "tested_at": "2026-02-14T18:24:54Z",
-    "ip": "213.131.85.26",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Egypt",
-    "country_code": "EG",
-    "region": "The Lake",
-    "region_code": "",
-    "city": "An Nubariyah",
-    "latitude": 30.666272,
-    "longitude": 30.069743,
-    "is_eu": false,
-    "postal": "22773",
-    "connection": {
-      "asn": 24863,
-      "org": "Link Egypt",
-      "isp": "Link Egypt link.net",
-      "domain": "link.net"
-    }
-  },
-  {
-    "proxy": "http://196.204.83.237:1981",
-    "tested_at": "2026-02-14T18:24:58Z",
-    "ip": "196.204.83.234",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Egypt",
-    "country_code": "EG",
-    "region": "Red Sea",
-    "region_code": "BA",
-    "city": "Safaga",
-    "latitude": 26.776283,
-    "longitude": 33.9367842,
-    "is_eu": false,
-    "postal": "84711",
-    "connection": {
-      "asn": 24835,
-      "org": "Local ISP",
-      "isp": "Vodafone Data",
-      "domain": "hinet.com.eg"
-    }
-  },
-  {
-    "proxy": "http://41.65.67.165:1976",
-    "tested_at": "2026-02-14T18:25:11Z",
-    "ip": "41.65.67.165",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Egypt",
-    "country_code": "EG",
-    "region": "Cairo",
-    "region_code": "C",
-    "city": "Cairo",
-    "latitude": 30.0444196,
-    "longitude": 31.2357116,
-    "is_eu": false,
-    "postal": "28625",
-    "connection": {
-      "asn": 36992,
-      "org": "Abbasia Enterprise Customers Static Ips",
-      "isp": "ETISALAT MISR",
-      "domain": "etisalatdata.net"
-    }
-  },
-  {
-    "proxy": "http://197.164.101.14:1981",
-    "tested_at": "2026-02-14T18:25:36Z",
-    "ip": "197.164.101.14",
+    "proxy": "http://197.164.101.10:1981",
+    "tested_at": "2026-02-14T18:56:49Z",
+    "ip": "197.164.101.10",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -135,6 +43,52 @@
       "org": "",
       "isp": "Link Egypt link.net",
       "domain": ""
+    }
+  },
+  {
+    "proxy": "http://217.52.247.87:1981",
+    "tested_at": "2026-02-14T18:56:49Z",
+    "ip": "217.52.247.87",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Cairo",
+    "region_code": "C",
+    "city": "Cairo",
+    "latitude": 30.0444196,
+    "longitude": 31.2357116,
+    "is_eu": false,
+    "postal": "28625",
+    "connection": {
+      "asn": 36992,
+      "org": "Nile Online",
+      "isp": "ETISALAT MISR",
+      "domain": "nile-online.com"
+    }
+  },
+  {
+    "proxy": "http://154.236.191.49:1981",
+    "tested_at": "2026-02-14T18:56:49Z",
+    "ip": "154.236.191.49",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Cairo",
+    "region_code": "C",
+    "city": "El-Reyad",
+    "latitude": 30.6522489,
+    "longitude": 31.2299414,
+    "is_eu": false,
+    "postal": "19519",
+    "connection": {
+      "asn": 36992,
+      "org": "Nile Online",
+      "isp": "ETISALAT MISR",
+      "domain": "nile-online.com"
     }
   }
 ]

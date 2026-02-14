@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://46.55.143.145:8080",
-    "tested_at": "2026-02-14T18:25:20Z",
-    "ip": "46.55.143.145",
+    "proxy": "http://85.217.192.39:1414",
+    "tested_at": "2026-02-14T18:56:28Z",
+    "ip": "85.217.192.39",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Bulgaria",
     "country_code": "BG",
-    "region": "Plovdiv",
-    "region_code": "16",
-    "city": "Plovdiv",
-    "latitude": 42.1354079,
-    "longitude": 24.7452904,
+    "region": "Veliko Tarnovo",
+    "region_code": "04",
+    "city": "Svishtov",
+    "latitude": 43.618351,
+    "longitude": 25.3506225,
     "is_eu": true,
-    "postal": "4000",
+    "postal": "5250",
     "connection": {
-      "asn": 51582,
-      "org": "Dcc Plovdiv",
-      "isp": "Cifrova Kabelna Korporacia Eood",
-      "domain": "dcc.bg"
+      "asn": 34368,
+      "org": "NETERRA THEZONE NET",
+      "isp": "Zonata Invest Sllc",
+      "domain": "neterra.net"
+    }
+  },
+  {
+    "proxy": "http://79.110.118.15:8085",
+    "tested_at": "2026-02-14T18:57:07Z",
+    "ip": "79.110.118.15",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "region": "Shumen",
+    "region_code": "27",
+    "city": "Varbitsa",
+    "latitude": 42.9981761,
+    "longitude": 26.6726912,
+    "is_eu": true,
+    "postal": "9870",
+    "connection": {
+      "asn": 21249,
+      "org": "Rutil Ltd.",
+      "isp": "Rutil Ltd.",
+      "domain": "rutil.net"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://181.78.44.63:999",
-    "tested_at": "2026-02-14T18:25:24Z",
-    "ip": "181.78.44.63",
+    "proxy": "http://138.0.228.121:8080",
+    "tested_at": "2026-02-14T18:56:21Z",
+    "ip": "138.0.228.185",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -16,10 +16,33 @@
     "is_eu": false,
     "postal": "21101",
     "connection": {
-      "asn": 52468,
-      "org": "Ufinet Honduras, S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
+      "asn": 263725,
+      "org": "MULTICABLE DE HONDURAS",
+      "isp": "MULTICABLE DE HONDURAS",
+      "domain": "multicable.hn"
+    }
+  },
+  {
+    "proxy": "http://179.49.113.230:999",
+    "tested_at": "2026-02-14T18:56:24Z",
+    "ip": "179.49.113.230",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Honduras",
+    "country_code": "HN",
+    "region": "Cortés",
+    "region_code": "CR",
+    "city": "San Pedro Sula",
+    "latitude": 15.5149204,
+    "longitude": -87.9922684,
+    "is_eu": false,
+    "postal": "21101",
+    "connection": {
+      "asn": 262234,
+      "org": "ASOCIACION DE SERVICIO DE INTERNET S. DE RL.",
+      "isp": "ASOCIACION DE SERVICIO DE INTERNET S. DE RL.",
+      "domain": "asi.hn"
     }
   }
 ]
