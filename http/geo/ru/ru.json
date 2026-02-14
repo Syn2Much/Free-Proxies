@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://84.252.70.94:8080",
-    "tested_at": "2026-02-14T18:56:21Z",
-    "ip": "84.252.70.94",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Voronezh Oblast",
-    "region_code": "VOR",
-    "city": "Voronezh",
-    "latitude": 51.6754966,
-    "longitude": 39.2088823,
-    "is_eu": false,
-    "postal": "394018",
-    "connection": {
-      "asn": 43991,
-      "org": "Voronezh Telecom LLC",
-      "isp": "VORONEZH TELECOM LLC",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://158.160.215.167:8126",
-    "tested_at": "2026-02-14T18:56:37Z",
-    "ip": "45.195.99.254",
+    "proxy": "http://45.151.182.9:3128",
+    "tested_at": "2026-02-14T19:27:30Z",
+    "ip": "45.151.182.9",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,56 +16,10 @@
     "is_eu": false,
     "postal": "103073",
     "connection": {
-      "asn": 44559,
-      "org": "IT HOST BKPL",
-      "isp": "IT HOSTLINE LTD",
-      "domain": "blsync.com"
-    }
-  },
-  {
-    "proxy": "http://176.208.101.50:8080",
-    "tested_at": "2026-02-14T18:56:42Z",
-    "ip": "176.208.101.50",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Khanty-Mansiysk Autonomous Okrug – Ugra",
-    "region_code": "",
-    "city": "Nefteyugansk",
-    "latitude": 61.0980641,
-    "longitude": 72.5816466,
-    "is_eu": false,
-    "postal": "628309",
-    "connection": {
-      "asn": 12389,
-      "org": "RU RTK 0110 1",
-      "isp": "Pjsc Rostelecom",
-      "domain": "rostelecom.ru"
-    }
-  },
-  {
-    "proxy": "http://158.160.215.167:8127",
-    "tested_at": "2026-02-14T18:56:52Z",
-    "ip": "170.168.253.16",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Moscow",
-    "region_code": "MOW",
-    "city": "Zelenograd",
-    "latitude": 55.9871526,
-    "longitude": 37.2021514,
-    "is_eu": false,
-    "postal": "124460",
-    "connection": {
-      "asn": 44559,
-      "org": "IT Hostline LTD",
-      "isp": "IT HOSTLINE LTD",
-      "domain": "ithostline.com"
+      "asn": 213220,
+      "org": "THUNDER NETWORK LIMITED",
+      "isp": "Delta LTD",
+      "domain": "telkom.co.za"
     }
   }
 ]

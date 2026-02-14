@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://85.217.192.39:1414",
-    "tested_at": "2026-02-14T18:56:28Z",
-    "ip": "85.217.192.39",
+    "proxy": "http://92.247.12.136:9510",
+    "tested_at": "2026-02-14T19:28:10Z",
+    "ip": "92.247.12.130",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Bulgaria",
     "country_code": "BG",
-    "region": "Veliko Tarnovo",
-    "region_code": "04",
-    "city": "Svishtov",
-    "latitude": 43.618351,
-    "longitude": 25.3506225,
+    "region": "Sofia-city",
+    "region_code": "",
+    "city": "Sofia",
+    "latitude": 42.6977082,
+    "longitude": 23.3218675,
     "is_eu": true,
-    "postal": "5250",
+    "postal": "1000",
     "connection": {
-      "asn": 34368,
-      "org": "NETERRA THEZONE NET",
-      "isp": "Zonata Invest Sllc",
-      "domain": "neterra.net"
-    }
-  },
-  {
-    "proxy": "http://79.110.118.15:8085",
-    "tested_at": "2026-02-14T18:57:07Z",
-    "ip": "79.110.118.15",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "region": "Shumen",
-    "region_code": "27",
-    "city": "Varbitsa",
-    "latitude": 42.9981761,
-    "longitude": 26.6726912,
-    "is_eu": true,
-    "postal": "9870",
-    "connection": {
-      "asn": 21249,
-      "org": "Rutil Ltd.",
-      "isp": "Rutil Ltd.",
-      "domain": "rutil.net"
+      "asn": 8717,
+      "org": "Spectrum Net Sofia",
+      "isp": "A1 Bulgaria Ead",
+      "domain": "a1.bg"
     }
   }
 ]

@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://72.10.160.171:4867",
-    "tested_at": "2026-02-14T18:56:39Z",
-    "ip": "202.51.80.180",
+    "proxy": "http://49.236.212.134:8888",
+    "tested_at": "2026-02-14T19:27:52Z",
+    "ip": "49.236.212.134",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Nepal",
     "country_code": "NP",
-    "region": "Province #2",
+    "region": "Bagmati Pradesh",
     "region_code": "",
-    "city": "Birgunj",
-    "latitude": 27.0449005,
-    "longitude": 84.8672171,
+    "city": "Kathmandu",
+    "latitude": 27.7172453,
+    "longitude": 85.3239605,
     "is_eu": false,
-    "postal": "",
+    "postal": "46600",
     "connection": {
-      "asn": 4007,
-      "org": "Subisu Cablenet",
-      "isp": "Subisu Cablenet",
-      "domain": "subisu.net.np"
+      "asn": 55915,
+      "org": "Classic Tech Pvt. Ltd.",
+      "isp": "Classic Tech Pvt. Ltd.",
+      "domain": "classic.com.np"
     }
   }
 ]

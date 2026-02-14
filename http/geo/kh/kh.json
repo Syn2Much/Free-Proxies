@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://36.37.147.34:8080",
-    "tested_at": "2026-02-14T16:51:55Z",
-    "ip": "36.37.147.34",
+    "proxy": "http://36.37.251.137:8080",
+    "tested_at": "2026-02-14T19:27:53Z",
+    "ip": "36.37.251.137",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -17,9 +17,9 @@
     "postal": "120603",
     "connection": {
       "asn": 38623,
-      "org": "VIETTEL CAMBODIA PTE, LTD.",
+      "org": "VIETTEL CAMBODIA PTE., LTD.",
       "isp": "VIETTEL CAMBODIA PTE., LTD",
-      "domain": "metfone.com.kh"
+      "domain": "viettel.com.vn"
     }
   }
 ]

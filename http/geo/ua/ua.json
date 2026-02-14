@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://195.149.125.150:8080",
-    "tested_at": "2026-02-14T18:25:00Z",
-    "ip": "195.149.125.150",
+    "proxy": "http://195.234.68.34:3128",
+    "tested_at": "2026-02-14T19:27:58Z",
+    "ip": "195.234.68.34",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Ukraine",
     "country_code": "UA",
-    "region": "Odesa Oblast",
-    "region_code": "51",
-    "city": "Moldove",
-    "latitude": 46.2141398,
-    "longitude": 29.6513956,
+    "region": "Kyiv city",
+    "region_code": "30",
+    "city": "Kyiv",
+    "latitude": 50.4501,
+    "longitude": 30.5234,
     "is_eu": false,
-    "postal": "68271",
+    "postal": "01001",
     "connection": {
-      "asn": 29475,
-      "org": "Complex Communication Systems LTD",
-      "isp": "Complex Communication Systems LTD",
-      "domain": "tst.od.ua"
-    }
-  },
-  {
-    "proxy": "http://178.34.190.6:8080",
-    "tested_at": "2026-02-14T18:25:48Z",
-    "ip": "178.34.190.6",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Simferopol municipality council",
-    "region_code": "",
-    "city": "Simferopol",
-    "latitude": 44.952117,
-    "longitude": 34.102417,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 201776,
-      "org": "Miranda media LTD",
-      "isp": "Miranda media LTD",
-      "domain": "miranda-media.ru"
+      "asn": 13307,
+      "org": "AS LIMITED LIABILITY COMPANY",
+      "isp": "AS LIMITED LIABILITY COMPANY",
+      "domain": "as6723.net"
     }
   }
 ]

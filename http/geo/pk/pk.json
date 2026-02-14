@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://110.38.226.139:8080",
-    "tested_at": "2026-02-14T17:54:25Z",
-    "ip": "110.38.226.139",
+    "proxy": "http://110.93.231.21:8082",
+    "tested_at": "2026-02-14T19:28:04Z",
+    "ip": "103.19.48.60",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Pakistan",
     "country_code": "PK",
-    "region": "Punjab",
-    "region_code": "PB",
-    "city": "Sahiwal",
-    "latitude": 30.6681998,
-    "longitude": 73.111356,
+    "region": "Khyber Pakhtunkhwa",
+    "region_code": "KP",
+    "city": "Nowshera",
+    "latitude": 34.0104643,
+    "longitude": 71.9875531,
     "is_eu": false,
-    "postal": "",
+    "postal": "24100",
     "connection": {
-      "asn": 38264,
-      "org": "National Wimax ims Environment",
-      "isp": "Wateen Telecom Limited",
-      "domain": "wateen.com"
+      "asn": 150371,
+      "org": "Pace Telecom And Brodcasting Private Limited",
+      "isp": "Pace Telecom And Brodcasting Private Limited",
+      "domain": "pace-tel.com"
+    }
+  },
+  {
+    "proxy": "http://67.43.228.253:15261",
+    "tested_at": "2026-02-14T19:28:10Z",
+    "ip": "182.184.129.42",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "region": "Rawalpindi Cantonment",
+    "region_code": "",
+    "city": "Rawalpindi",
+    "latitude": 33.598394,
+    "longitude": 73.0441352,
+    "is_eu": false,
+    "postal": "46000",
+    "connection": {
+      "asn": 17557,
+      "org": "Usf Dslam North",
+      "isp": "Pakistan Telecommuication Company Limited",
+      "domain": "ptcl.net.pk"
     }
   }
 ]

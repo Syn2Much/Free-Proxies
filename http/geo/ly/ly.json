@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://102.214.104.56:8080",
-    "tested_at": "2026-02-14T18:56:20Z",
-    "ip": "102.214.104.56",
+    "proxy": "http://165.16.59.65:8080",
+    "tested_at": "2026-02-14T19:27:33Z",
+    "ip": "165.16.59.65",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Libya",
     "country_code": "LY",
-    "region": "Tripoli",
-    "region_code": "TB",
-    "city": "Tripoli",
-    "latitude": 32.8872094,
-    "longitude": 13.1913383,
+    "region": "Jabal al Gharbi",
+    "region_code": "JG",
+    "city": "Jadu",
+    "latitude": 31.9584113,
+    "longitude": 12.0204247,
     "is_eu": false,
-    "postal": "350",
+    "postal": "",
     "connection": {
-      "asn": 21003,
-      "org": "This Pool Dedicated for Natting And Loopback Ip Access for Company Hardware",
-      "isp": "General Post And Telecommunication Company gptc",
-      "domain": "rltt.net"
+      "asn": 37284,
+      "org": "Aljeel Aljadeed For Technology",
+      "isp": "Aljeel Aljadeed For Technology",
+      "domain": "aljeel.ly"
     }
   }
 ]

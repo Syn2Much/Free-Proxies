@@ -1,54 +1,31 @@
 [
   {
-    "proxy": "http://116.98.57.187:8080",
-    "tested_at": "2026-02-14T18:56:23Z",
-    "ip": "116.98.57.187",
+    "proxy": "http://115.75.184.174:8080",
+    "tested_at": "2026-02-14T19:27:40Z",
+    "ip": "115.75.184.174",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Vietnam",
     "country_code": "VN",
-    "region": "Hanoi",
-    "region_code": "HN",
-    "city": "Hanoi",
-    "latitude": 21.0277644,
-    "longitude": 105.8341598,
+    "region": "Bến Tre Province",
+    "region_code": "50",
+    "city": "Bến Tre",
+    "latitude": 10.2493969,
+    "longitude": 106.3787583,
     "is_eu": false,
-    "postal": "110905",
+    "postal": "",
     "connection": {
-      "asn": 24086,
+      "asn": 7552,
       "org": "Viettel Group",
-      "isp": "Viettel Corporation",
+      "isp": "Viettel Group",
       "domain": "viettel.com.vn"
     }
   },
   {
-    "proxy": "http://103.3.246.71:3128",
-    "tested_at": "2026-02-14T18:56:29Z",
-    "ip": "103.3.246.71",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Tien Giang province",
-    "region_code": "46",
-    "city": "Tân Phú",
-    "latitude": 10.7900517,
-    "longitude": 106.6281901,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 135967,
-      "org": "New Vision Trading Co.,ltd",
-      "isp": "Bach Kim Network Solutions Join Stock Company",
-      "domain": "vdata.vn"
-    }
-  },
-  {
-    "proxy": "http://123.25.25.180:1452",
-    "tested_at": "2026-02-14T18:56:40Z",
-    "ip": "123.25.25.180",
+    "proxy": "http://103.82.23.118:5242",
+    "tested_at": "2026-02-14T19:27:51Z",
+    "ip": "113.183.69.253",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -70,7 +47,7 @@
   },
   {
     "proxy": "http://103.17.88.18:8080",
-    "tested_at": "2026-02-14T18:56:53Z",
+    "tested_at": "2026-02-14T19:28:24Z",
     "ip": "103.17.88.18",
     "success": true,
     "type": "IPv4",
@@ -89,6 +66,52 @@
       "org": "Vietnam Technology And Telecommunication JSC",
       "isp": "Vietnam Technology And Telecommunication JSC",
       "domain": "vntt.com.vn"
+    }
+  },
+  {
+    "proxy": "http://103.3.246.71:3128",
+    "tested_at": "2026-02-14T19:28:25Z",
+    "ip": "103.3.246.71",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Tien Giang province",
+    "region_code": "46",
+    "city": "Tân Phú",
+    "latitude": 10.7900517,
+    "longitude": 106.6281901,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 135967,
+      "org": "New Vision Trading Co.,ltd",
+      "isp": "Bach Kim Network Solutions Join Stock Company",
+      "domain": "vdata.vn"
+    }
+  },
+  {
+    "proxy": "http://124.158.12.3:1986",
+    "tested_at": "2026-02-14T19:28:27Z",
+    "ip": "124.158.12.3",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Ho Chi Minh",
+    "region_code": "SG",
+    "city": "Ho Chi Minh City",
+    "latitude": 10.8230989,
+    "longitude": 106.6296638,
+    "is_eu": false,
+    "postal": "708000",
+    "connection": {
+      "asn": 38733,
+      "org": "Cmc Telecom Infrastructure Company",
+      "isp": "Cmc Telecom Infrastructure Company",
+      "domain": "cmctelecom.vn"
     }
   }
 ]

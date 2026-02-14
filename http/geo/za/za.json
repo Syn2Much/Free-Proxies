@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "http://102.66.104.162:8865",
-    "tested_at": "2026-02-14T18:56:21Z",
-    "ip": "102.66.104.162",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Mpumalanga",
-    "region_code": "MP",
-    "city": "Acornhoek",
-    "latitude": -24.6056556,
-    "longitude": 31.0874925,
-    "is_eu": false,
-    "postal": "1360",
-    "connection": {
-      "asn": 328471,
-      "org": "Herotel Ra Subscriber Block A",
-      "isp": "HERO TELECOMS PTY LTD",
-      "domain": "herotel.com"
-    }
-  },
-  {
-    "proxy": "http://196.251.193.252:8083",
-    "tested_at": "2026-02-14T18:56:39Z",
-    "ip": "196.251.193.116",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "North West",
-    "region_code": "NW",
-    "city": "Brits",
-    "latitude": -25.6099895,
-    "longitude": 27.7959713,
-    "is_eu": false,
-    "postal": "0250",
-    "connection": {
-      "asn": 37403,
-      "org": "Infogro Dsl",
-      "isp": "Info gro pty LTD",
-      "domain": "infogro.net"
-    }
-  },
-  {
-    "proxy": "http://196.251.223.54:8102",
-    "tested_at": "2026-02-14T18:56:47Z",
-    "ip": "196.251.223.54",
+    "proxy": "http://196.251.222.17:8103",
+    "tested_at": "2026-02-14T19:27:36Z",
+    "ip": "196.251.222.250",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -69,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://41.180.70.2:8080",
-    "tested_at": "2026-02-14T18:56:48Z",
-    "ip": "41.180.70.2",
+    "proxy": "http://102.212.45.34:12354",
+    "tested_at": "2026-02-14T19:27:55Z",
+    "ip": "102.212.45.34",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -85,10 +39,10 @@
     "is_eu": false,
     "postal": "2001",
     "connection": {
-      "asn": 36916,
-      "org": "Fixed Line ISP",
-      "isp": "X dsl Networking Solutions",
-      "domain": "x-dsl.co.za"
+      "asn": 329243,
+      "org": "OM SN",
+      "isp": "One Mile Telecoms pty Ltd.",
+      "domain": "1mile.co.za"
     }
   }
 ]

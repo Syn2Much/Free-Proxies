@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "https://47.243.181.85:41695",
+    "tested_at": "2026-02-14T19:27:50Z",
+    "ip": "38.253.150.191",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Lima",
+    "region_code": "LIM",
+    "city": "Breña",
+    "latitude": -12.0584783,
+    "longitude": -77.0506617,
+    "is_eu": false,
+    "postal": "15083",
+    "connection": {
+      "asn": 265691,
+      "org": "Cogent Communications",
+      "isp": "WI NET TELECOM S.A.C.",
+      "domain": "win.pe"
+    }
+  }
+]

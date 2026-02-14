@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://150.230.104.3:16728",
-    "tested_at": "2026-02-14T18:56:33Z",
+    "tested_at": "2026-02-14T19:27:30Z",
     "ip": "150.230.104.3",
     "success": true,
     "type": "IPv4",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://8.209.255.13:3128",
-    "tested_at": "2026-02-14T18:56:33Z",
-    "ip": "8.209.255.13",
+    "proxy": "http://157.120.34.237:3128",
+    "tested_at": "2026-02-14T19:27:31Z",
+    "ip": "157.120.34.237",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -33,68 +33,22 @@
     "country_code": "JP",
     "region": "Tokyo",
     "region_code": "13",
-    "city": "Shibuya City",
-    "latitude": 35.6549037,
-    "longitude": 139.6945698,
+    "city": "Minato",
+    "latitude": 35.6580681,
+    "longitude": 139.7515992,
     "is_eu": false,
-    "postal": "150-0036",
-    "connection": {
-      "asn": 45102,
-      "org": "Shiodome Sumitomo Blog 1 Tokyo",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibaba-inc.com"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.172:12581",
-    "tested_at": "2026-02-14T18:56:38Z",
-    "ip": "126.23.115.95",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Fukuoka Prefecture",
-    "region_code": "40",
-    "city": "Fukuchi",
-    "latitude": 33.6942003,
-    "longitude": 130.7639989,
-    "is_eu": false,
-    "postal": "825-0016",
-    "connection": {
-      "asn": 17676,
-      "org": "Softbank Corp.",
-      "isp": "Softbank Mobile Corp.",
-      "domain": "bbtec.net"
-    }
-  },
-  {
-    "proxy": "http://140.227.61.201:3128",
-    "tested_at": "2026-02-14T18:56:41Z",
-    "ip": "140.227.61.201",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Chiyoda",
-    "latitude": 35.6940027,
-    "longitude": 139.7535951,
-    "is_eu": false,
-    "postal": "100-0003",
+    "postal": "108-0074",
     "connection": {
       "asn": 2514,
-      "org": "Infosphere nttpc Communications, Inc.",
+      "org": "NTTPCCommunications,Inc.",
       "isp": "NTT Pc Communications, Inc.",
       "domain": "nttpc.co.jp"
     }
   },
   {
-    "proxy": "http://94.177.131.12:3128",
-    "tested_at": "2026-02-14T18:56:43Z",
-    "ip": "94.177.131.12",
+    "proxy": "http://94.177.131.33:3128",
+    "tested_at": "2026-02-14T19:28:09Z",
+    "ip": "94.177.131.33",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -112,29 +66,6 @@
       "org": "G core Labs S.A.",
       "isp": "G core Labs S.A.",
       "domain": "gcore.com"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.174:12581",
-    "tested_at": "2026-02-14T18:56:49Z",
-    "ip": "126.23.115.95",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Fukuoka Prefecture",
-    "region_code": "40",
-    "city": "Fukuchi",
-    "latitude": 33.6942003,
-    "longitude": 130.7639989,
-    "is_eu": false,
-    "postal": "825-0016",
-    "connection": {
-      "asn": 17676,
-      "org": "Softbank Corp.",
-      "isp": "Softbank Mobile Corp.",
-      "domain": "bbtec.net"
     }
   }
 ]

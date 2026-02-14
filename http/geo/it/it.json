@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://149.86.206.27:8080",
-    "tested_at": "2026-02-14T18:56:18Z",
-    "ip": "149.86.206.27",
+    "proxy": "http://85.208.200.185:8081",
+    "tested_at": "2026-02-14T19:27:38Z",
+    "ip": "195.36.19.117",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Italy",
     "country_code": "IT",
-    "region": "Tuscany",
-    "region_code": "52",
-    "city": "Pistoia",
-    "latitude": 43.9303475,
-    "longitude": 10.9078587,
+    "region": "Lombardy",
+    "region_code": "25",
+    "city": "Milan",
+    "latitude": 45.4654219,
+    "longitude": 9.1859243,
     "is_eu": true,
-    "postal": "51100",
+    "postal": "20122",
     "connection": {
-      "asn": 60501,
-      "org": "Cogent Communications",
-      "isp": "Sirius Technology SRL",
-      "domain": "siriustec.it"
+      "asn": 44092,
+      "org": "Mywic Customers",
+      "isp": "Hal Service SPA",
+      "domain": "telnetwork.it"
     }
   }
 ]

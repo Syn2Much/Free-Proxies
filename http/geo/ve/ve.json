@@ -1,66 +1,20 @@
 [
   {
-    "proxy": "http://190.94.212.216:999",
-    "tested_at": "2026-02-14T18:56:22Z",
-    "ip": "190.94.212.216",
+    "proxy": "http://67.43.228.253:1905",
+    "tested_at": "2026-02-14T19:27:43Z",
+    "ip": "190.89.30.25",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Venezuela",
     "country_code": "VE",
-    "region": "Capital District",
-    "region_code": "A",
-    "city": "Caracas",
-    "latitude": 10.4805937,
-    "longitude": -66.9036063,
+    "region": "Anzoategui State",
+    "region_code": "B",
+    "city": "Puerto La Cruz",
+    "latitude": 10.2007985,
+    "longitude": -64.6334643,
     "is_eu": false,
-    "postal": "1012",
-    "connection": {
-      "asn": 8053,
-      "org": "Ifx Networks Venezuela C.A.",
-      "isp": "Ifx Networks Venezuela C.A.",
-      "domain": "ifxnw.com.ve"
-    }
-  },
-  {
-    "proxy": "http://190.94.212.160:999",
-    "tested_at": "2026-02-14T18:56:31Z",
-    "ip": "190.94.212.160",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Capital District",
-    "region_code": "A",
-    "city": "Caracas",
-    "latitude": 10.4805937,
-    "longitude": -66.9036063,
-    "is_eu": false,
-    "postal": "1012",
-    "connection": {
-      "asn": 8053,
-      "org": "Ifx Networks Venezuela C.A.",
-      "isp": "Ifx Networks Venezuela C.A.",
-      "domain": "ifxnw.com.ve"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:22717",
-    "tested_at": "2026-02-14T18:56:46Z",
-    "ip": "190.103.31.25",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Aragua State",
-    "region_code": "D",
-    "city": "Maracay",
-    "latitude": 10.2441931,
-    "longitude": -67.6066164,
-    "is_eu": false,
-    "postal": "1203",
+    "postal": "6023",
     "connection": {
       "asn": 264628,
       "org": "CORPORACION FIBEX TELECOM, C.A.",
@@ -69,9 +23,32 @@
     }
   },
   {
-    "proxy": "http://190.94.245.178:999",
-    "tested_at": "2026-02-14T18:57:00Z",
-    "ip": "190.94.245.180",
+    "proxy": "http://67.43.228.254:1905",
+    "tested_at": "2026-02-14T19:27:53Z",
+    "ip": "190.89.30.25",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Anzoategui State",
+    "region_code": "B",
+    "city": "Puerto La Cruz",
+    "latitude": 10.2007985,
+    "longitude": -64.6334643,
+    "is_eu": false,
+    "postal": "6023",
+    "connection": {
+      "asn": 264628,
+      "org": "CORPORACION FIBEX TELECOM, C.A.",
+      "isp": "CORPORACION FIBEX TELECOM, C.A.",
+      "domain": "fibextelecom.net"
+    }
+  },
+  {
+    "proxy": "http://186.96.74.144:999",
+    "tested_at": "2026-02-14T19:28:13Z",
+    "ip": "186.96.74.152",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -85,10 +62,10 @@
     "is_eu": false,
     "postal": "1012",
     "connection": {
-      "asn": 8053,
-      "org": "Ifx Networks Venezuela C.A.",
-      "isp": "Ifx Networks Venezuela C.A.",
-      "domain": "ifxnw.com.ve"
+      "asn": 394684,
+      "org": "Gold Data Inc.",
+      "isp": "GOLD DATA USA INC",
+      "domain": "gold-data.net"
     }
   }
 ]
