@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "http://43.167.193.58:3128",
-    "tested_at": "2026-02-14T04:56:16Z",
-    "ip": "43.167.193.58",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Shibuya City",
-    "latitude": 35.6549037,
-    "longitude": 139.6945698,
-    "is_eu": false,
-    "postal": "150-0036",
-    "connection": {
-      "asn": 132203,
-      "org": "ACEVILLE PTE.LTD.",
-      "isp": "Shenzhen Tencent Computer Systems Company Limited",
-      "domain": "tencent.com"
-    }
-  },
-  {
-    "proxy": "http://140.227.61.201:3128",
-    "tested_at": "2026-02-14T04:56:18Z",
-    "ip": "140.227.61.201",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Chiyoda",
-    "latitude": 35.6940027,
-    "longitude": 139.7535951,
-    "is_eu": false,
-    "postal": "100-0003",
-    "connection": {
-      "asn": 2514,
-      "org": "Infosphere nttpc Communications, Inc.",
-      "isp": "NTT Pc Communications, Inc.",
-      "domain": "nttpc.co.jp"
-    }
-  },
-  {
-    "proxy": "http://20.27.15.111:8561",
-    "tested_at": "2026-02-14T04:56:27Z",
-    "ip": "20.27.13.35",
+    "proxy": "http://47.79.91.116:1122",
+    "tested_at": "2026-02-14T05:27:36Z",
+    "ip": "47.79.91.116",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -62,39 +16,16 @@
     "is_eu": false,
     "postal": "100-0002",
     "connection": {
-      "asn": 8075,
-      "org": "Microsoft Corporation",
-      "isp": "Microsoft Corporation",
-      "domain": "microsoft.com"
-    }
-  },
-  {
-    "proxy": "http://20.210.39.153:8561",
-    "tested_at": "2026-02-14T04:56:32Z",
-    "ip": "20.210.39.155",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Shibuya City",
-    "latitude": 35.6549037,
-    "longitude": 139.6945698,
-    "is_eu": false,
-    "postal": "150-0036",
-    "connection": {
-      "asn": 8075,
-      "org": "Microsoft Corporation",
-      "isp": "Microsoft Corporation",
-      "domain": "microsoft.com"
+      "asn": 45102,
+      "org": "Alibaba Cloud LLC",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibaba-inc.com"
     }
   },
   {
     "proxy": "http://20.27.11.248:8561",
-    "tested_at": "2026-02-14T04:56:32Z",
-    "ip": "20.27.40.156",
+    "tested_at": "2026-02-14T05:27:44Z",
+    "ip": "20.222.217.57",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -102,67 +33,21 @@
     "country_code": "JP",
     "region": "Tokyo",
     "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
+    "city": "Shibuya City",
+    "latitude": 35.6549037,
+    "longitude": 139.6945698,
     "is_eu": false,
-    "postal": "100-0002",
+    "postal": "150-0036",
     "connection": {
       "asn": 8075,
       "org": "Microsoft Corporation",
       "isp": "Microsoft Corporation",
       "domain": "microsoft.com"
-    }
-  },
-  {
-    "proxy": "http://20.27.14.220:8561",
-    "tested_at": "2026-02-14T04:56:33Z",
-    "ip": "20.27.13.35",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
-    "is_eu": false,
-    "postal": "100-0002",
-    "connection": {
-      "asn": 8075,
-      "org": "Microsoft Corporation",
-      "isp": "Microsoft Corporation",
-      "domain": "microsoft.com"
-    }
-  },
-  {
-    "proxy": "http://150.230.104.3:16728",
-    "tested_at": "2026-02-14T04:56:34Z",
-    "ip": "150.230.104.3",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Chiba Prefecture",
-    "region_code": "12",
-    "city": "Inzai",
-    "latitude": 35.8323485,
-    "longitude": 140.1458154,
-    "is_eu": false,
-    "postal": "270-1327",
-    "connection": {
-      "asn": 31898,
-      "org": "Oracle Corporation",
-      "isp": "Oracle Corporation",
-      "domain": "oracle.com"
     }
   },
   {
     "proxy": "http://8.209.255.13:3128",
-    "tested_at": "2026-02-14T04:56:36Z",
+    "tested_at": "2026-02-14T05:27:48Z",
     "ip": "8.209.255.13",
     "success": true,
     "type": "IPv4",
@@ -184,9 +69,9 @@
     }
   },
   {
-    "proxy": "http://20.78.118.91:8561",
-    "tested_at": "2026-02-14T04:56:46Z",
-    "ip": "20.44.138.66",
+    "proxy": "http://43.167.193.58:3128",
+    "tested_at": "2026-02-14T05:27:52Z",
+    "ip": "43.167.193.58",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -194,22 +79,45 @@
     "country_code": "JP",
     "region": "Tokyo",
     "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
+    "city": "Shibuya City",
+    "latitude": 35.6549037,
+    "longitude": 139.6945698,
     "is_eu": false,
-    "postal": "100-0002",
+    "postal": "150-0036",
     "connection": {
-      "asn": 8075,
-      "org": "Microsoft Corporation",
-      "isp": "Microsoft Corporation",
-      "domain": "microsoft.com"
+      "asn": 132203,
+      "org": "ACEVILLE PTE.LTD.",
+      "isp": "Shenzhen Tencent Computer Systems Company Limited",
+      "domain": "tencent.com"
     }
   },
   {
-    "proxy": "http://20.78.26.206:8561",
-    "tested_at": "2026-02-14T04:57:05Z",
-    "ip": "20.78.26.206",
+    "proxy": "http://150.230.104.3:16728",
+    "tested_at": "2026-02-14T05:27:56Z",
+    "ip": "150.230.104.3",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Chiba Prefecture",
+    "region_code": "12",
+    "city": "Inzai",
+    "latitude": 35.8323485,
+    "longitude": 140.1458154,
+    "is_eu": false,
+    "postal": "270-1327",
+    "connection": {
+      "asn": 31898,
+      "org": "Oracle Corporation",
+      "isp": "Oracle Corporation",
+      "domain": "oracle.com"
+    }
+  },
+  {
+    "proxy": "http://47.79.94.72:1122",
+    "tested_at": "2026-02-14T05:28:11Z",
+    "ip": "47.79.94.72",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -223,10 +131,10 @@
     "is_eu": false,
     "postal": "100-0002",
     "connection": {
-      "asn": 8075,
-      "org": "Microsoft Corporation",
-      "isp": "Microsoft Corporation",
-      "domain": "microsoft.com"
+      "asn": 45102,
+      "org": "Alibaba Cloud LLC",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibaba-inc.com"
     }
   }
 ]

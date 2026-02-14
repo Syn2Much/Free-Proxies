@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://103.66.149.194:8080",
-    "tested_at": "2026-02-14T04:56:19Z",
+    "tested_at": "2026-02-14T05:27:52Z",
     "ip": "160.30.142.33",
     "success": true,
     "type": "IPv4",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://103.197.47.42:8080",
-    "tested_at": "2026-02-14T04:56:30Z",
-    "ip": "103.197.47.42",
+    "proxy": "http://110.39.183.34:8080",
+    "tested_at": "2026-02-14T05:28:12Z",
+    "ip": "110.39.183.34",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,33 +39,56 @@
     "is_eu": false,
     "postal": "54000",
     "connection": {
-      "asn": 17539,
-      "org": "Netsol Technologies Limited",
-      "isp": "Netsol Connect pvt Limited",
-      "domain": "netsolir.com"
+      "asn": 38264,
+      "org": "National Wimax ims Environment",
+      "isp": "Wateen Telecom Limited",
+      "domain": "wateen.com"
     }
   },
   {
-    "proxy": "http://59.103.34.162:8080",
-    "tested_at": "2026-02-14T04:56:56Z",
-    "ip": "59.103.34.162",
+    "proxy": "http://110.38.226.139:8080",
+    "tested_at": "2026-02-14T05:28:23Z",
+    "ip": "110.38.226.139",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Pakistan",
     "country_code": "PK",
-    "region": "Islamabad Capital Territory",
-    "region_code": "",
-    "city": "Islamabad",
-    "latitude": 33.7293882,
-    "longitude": 73.0931461,
+    "region": "Punjab",
+    "region_code": "PB",
+    "city": "Sahiwal",
+    "latitude": 30.6681998,
+    "longitude": 73.111356,
     "is_eu": false,
-    "postal": "44000",
+    "postal": "",
     "connection": {
-      "asn": 139820,
-      "org": "Narrowband Hsi Pool for Rawalpindi1",
-      "isp": "HG TELECOMMUNICATION PRIVATE LIMITED",
-      "domain": "ptcl.net.pk"
+      "asn": 38264,
+      "org": "National Wimax ims Environment",
+      "isp": "Wateen Telecom Limited",
+      "domain": "wateen.com"
+    }
+  },
+  {
+    "proxy": "http://103.198.154.196:8080",
+    "tested_at": "2026-02-14T05:28:26Z",
+    "ip": "103.198.154.196",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "region": "Punjab",
+    "region_code": "PB",
+    "city": "Lahore",
+    "latitude": 31.5546061,
+    "longitude": 74.3571581,
+    "is_eu": false,
+    "postal": "54000",
+    "connection": {
+      "asn": 151330,
+      "org": "PLAY BROADBAND PRIVATE LIMITED",
+      "isp": "PLAY BROADBAND PRIVATE LIMITED",
+      "domain": "pbb.net.pk"
     }
   }
 ]

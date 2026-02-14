@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://197.248.37.31:8104",
-    "tested_at": "2026-02-14T04:57:05Z",
-    "ip": "197.248.37.31",
+    "proxy": "http://102.213.179.56:8081",
+    "tested_at": "2026-02-14T05:28:04Z",
+    "ip": "102.211.145.161",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,10 +16,56 @@
     "is_eu": false,
     "postal": "200",
     "connection": {
-      "asn": 37061,
-      "org": "Safaricom Limited",
-      "isp": "Safaricom Limited",
-      "domain": ""
+      "asn": 328490,
+      "org": "Unwired Communications",
+      "isp": "Unwired Communications Limited",
+      "domain": "unwired.co.ke"
+    }
+  },
+  {
+    "proxy": "http://102.0.18.198:8080",
+    "tested_at": "2026-02-14T05:28:05Z",
+    "ip": "102.0.18.198",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Kirinyaga County",
+    "region_code": "15",
+    "city": "Kerugoya",
+    "latitude": -0.5,
+    "longitude": 37.2833,
+    "is_eu": false,
+    "postal": "10300",
+    "connection": {
+      "asn": 327708,
+      "org": "Allocated to Airtel Kenya Mobile Broadband And Fixed Internet",
+      "isp": "Airtel Rwanda LTD",
+      "domain": "airtel.com"
+    }
+  },
+  {
+    "proxy": "http://197.155.64.226:8090",
+    "tested_at": "2026-02-14T05:28:18Z",
+    "ip": "197.155.64.226",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Nairobi",
+    "region_code": "110",
+    "city": "Nairobi",
+    "latitude": -1.2920659,
+    "longitude": 36.8219462,
+    "is_eu": false,
+    "postal": "200",
+    "connection": {
+      "asn": 30844,
+      "org": "Pioneer Hi Bred",
+      "isp": "Liquid Telecommunications LTD",
+      "domain": "liquidtelecom.mu"
     }
   }
 ]

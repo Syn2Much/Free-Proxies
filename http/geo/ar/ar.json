@@ -1,7 +1,99 @@
 [
   {
+    "proxy": "http://181.13.20.102:999",
+    "tested_at": "2026-02-14T05:27:48Z",
+    "ip": "181.13.20.102",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Corrientes",
+    "region_code": "W",
+    "city": "Corrientes",
+    "latitude": -27.4692131,
+    "longitude": -58.8306349,
+    "is_eu": false,
+    "postal": "3400",
+    "connection": {
+      "asn": 7303,
+      "org": "Telecom Argentina S.A.",
+      "isp": "Telecom Argentina S.A.",
+      "domain": "telecom.com.ar"
+    }
+  },
+  {
+    "proxy": "http://131.0.234.54:55555",
+    "tested_at": "2026-02-14T05:27:59Z",
+    "ip": "131.0.234.51",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "Buenos Aires",
+    "latitude": -34.6036844,
+    "longitude": -58.3815591,
+    "is_eu": false,
+    "postal": "C1405 DJG",
+    "connection": {
+      "asn": 61470,
+      "org": "MUSURIT",
+      "isp": "MUSURIT",
+      "domain": "musurit.net"
+    }
+  },
+  {
+    "proxy": "http://200.70.35.2:8080",
+    "tested_at": "2026-02-14T05:28:04Z",
+    "ip": "201.190.178.191",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Mendoza",
+    "region_code": "M",
+    "city": "Maipú",
+    "latitude": -32.9846649,
+    "longitude": -68.7884399,
+    "is_eu": false,
+    "postal": "5515",
+    "connection": {
+      "asn": 28075,
+      "org": "ARLINK S.A.",
+      "isp": "ARLINK S.A.",
+      "domain": "arlink.net.ar"
+    }
+  },
+  {
+    "proxy": "http://190.111.218.141:999",
+    "tested_at": "2026-02-14T05:28:08Z",
+    "ip": "45.172.19.196",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "Monte Grande",
+    "latitude": -34.8271786,
+    "longitude": -58.4620124,
+    "is_eu": false,
+    "postal": "1842",
+    "connection": {
+      "asn": 264619,
+      "org": "Wireless Provider",
+      "isp": "Wireless Provider",
+      "domain": "wirelessprovider.com.ar"
+    }
+  },
+  {
     "proxy": "http://72.10.164.178:13525",
-    "tested_at": "2026-02-14T04:56:33Z",
+    "tested_at": "2026-02-14T05:28:16Z",
     "ip": "181.45.24.3",
     "success": true,
     "type": "IPv4",
@@ -20,75 +112,6 @@
       "org": "Telecentro S.A.",
       "isp": "Telecentro S.A.",
       "domain": "telecentro.com.ar"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:8223",
-    "tested_at": "2026-02-14T04:56:35Z",
-    "ip": "186.57.120.84",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Buenos Aires",
-    "region_code": "B",
-    "city": "Lomas de Zamora",
-    "latitude": -34.7611823,
-    "longitude": -58.4302476,
-    "is_eu": false,
-    "postal": "B1836 CXJ",
-    "connection": {
-      "asn": 22927,
-      "org": "Telefonica De Argentina",
-      "isp": "Telefonica De Argentina",
-      "domain": "telefonica.com.ar"
-    }
-  },
-  {
-    "proxy": "http://67.43.228.250:17691",
-    "tested_at": "2026-02-14T04:56:37Z",
-    "ip": "201.231.10.153",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Buenos Aires",
-    "region_code": "B",
-    "city": "Lanús Oeste",
-    "latitude": -34.6994795,
-    "longitude": -58.3920795,
-    "is_eu": false,
-    "postal": "1824",
-    "connection": {
-      "asn": 7303,
-      "org": "Telecom Argentina S.A.",
-      "isp": "Telecom Argentina S.A.",
-      "domain": "telecom.com.ar"
-    }
-  },
-  {
-    "proxy": "http://45.178.68.245:999",
-    "tested_at": "2026-02-14T04:56:51Z",
-    "ip": "45.178.68.242",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Chubut Province",
-    "region_code": "U",
-    "city": "Gastre",
-    "latitude": -42.2632275,
-    "longitude": -69.222181,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 264758,
-      "org": "KRIGER ALEJANDRO SEBASTIAN",
-      "isp": "ISP GROUP SRL",
-      "domain": "he.net"
     }
   }
 ]

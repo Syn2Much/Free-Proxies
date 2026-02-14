@@ -1,76 +1,7 @@
 [
   {
-    "proxy": "http://85.208.108.43:2094",
-    "tested_at": "2026-02-14T04:56:25Z",
-    "ip": "85.208.108.43",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 53363,
-      "org": "Worktitans B.V.",
-      "isp": "TANGRAM CANADA INC.",
-      "domain": "the.hosting"
-    }
-  },
-  {
-    "proxy": "http://85.208.108.43:10808",
-    "tested_at": "2026-02-14T04:56:26Z",
-    "ip": "85.208.108.43",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 53363,
-      "org": "Worktitans B.V.",
-      "isp": "TANGRAM CANADA INC.",
-      "domain": "the.hosting"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:30203",
-    "tested_at": "2026-02-14T04:56:36Z",
-    "ip": "174.95.170.115",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Markham",
-    "latitude": 43.8561002,
-    "longitude": -79.3370188,
-    "is_eu": false,
-    "postal": "L3R 0G6",
-    "connection": {
-      "asn": 577,
-      "org": "Sympatico Hse",
-      "isp": "Bell Canada",
-      "domain": "bell.ca"
-    }
-  },
-  {
     "proxy": "http://143.198.37.6:8888",
-    "tested_at": "2026-02-14T04:57:03Z",
+    "tested_at": "2026-02-14T05:27:31Z",
     "ip": "178.249.214.14",
     "success": true,
     "type": "IPv4",
@@ -89,6 +20,75 @@
       "org": "CDNEXT TOR",
       "isp": "Datacamp Limited",
       "domain": "datacamp.co.uk"
+    }
+  },
+  {
+    "proxy": "http://66.70.235.23:5454",
+    "tested_at": "2026-02-14T05:27:44Z",
+    "ip": "66.70.235.23",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Ottawa",
+    "latitude": 45.4215296,
+    "longitude": -75.6971931,
+    "is_eu": false,
+    "postal": "K1P 1J1",
+    "connection": {
+      "asn": 16276,
+      "org": "OVH NWK",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.173:25111",
+    "tested_at": "2026-02-14T05:27:51Z",
+    "ip": "173.34.30.235",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Ottawa",
+    "latitude": 45.4215296,
+    "longitude": -75.6971931,
+    "is_eu": false,
+    "postal": "K1P 1J1",
+    "connection": {
+      "asn": 812,
+      "org": "Rogers Cable Inc. Bloor",
+      "isp": "Rogers Communications Canada Inc.",
+      "domain": "rogers.com"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.174:25111",
+    "tested_at": "2026-02-14T05:28:09Z",
+    "ip": "173.34.30.235",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Ottawa",
+    "latitude": 45.4215296,
+    "longitude": -75.6971931,
+    "is_eu": false,
+    "postal": "K1P 1J1",
+    "connection": {
+      "asn": 812,
+      "org": "Rogers Cable Inc. Bloor",
+      "isp": "Rogers Communications Canada Inc.",
+      "domain": "rogers.com"
     }
   }
 ]

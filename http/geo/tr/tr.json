@@ -1,7 +1,99 @@
 [
   {
+    "proxy": "http://149.86.139.166:8085",
+    "tested_at": "2026-02-14T05:27:29Z",
+    "ip": "149.86.139.166",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Turkey",
+    "country_code": "TR",
+    "region": "Konya",
+    "region_code": "42",
+    "city": "Selçuklu",
+    "latitude": 38.0160383,
+    "longitude": 32.4920088,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 208972,
+      "org": "Cogent Communications",
+      "isp": "GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI",
+      "domain": "gibir.net.tr"
+    }
+  },
+  {
+    "proxy": "http://149.86.146.196:8080",
+    "tested_at": "2026-02-14T05:27:40Z",
+    "ip": "149.86.146.196",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Turkey",
+    "country_code": "TR",
+    "region": "Konya",
+    "region_code": "42",
+    "city": "Selçuklu",
+    "latitude": 38.0160383,
+    "longitude": 32.4920088,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 208972,
+      "org": "Cogent Communications",
+      "isp": "GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI",
+      "domain": "gibir.net.tr"
+    }
+  },
+  {
+    "proxy": "http://176.236.226.178:8080",
+    "tested_at": "2026-02-14T05:27:50Z",
+    "ip": "176.236.226.178",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Turkey",
+    "country_code": "TR",
+    "region": "Kilis",
+    "region_code": "79",
+    "city": "Kilis",
+    "latitude": 36.716477,
+    "longitude": 37.114661,
+    "is_eu": false,
+    "postal": "79002",
+    "connection": {
+      "asn": 34984,
+      "org": "Superonline Iletisim Hizmetleri A.S.",
+      "isp": "Superonline Iletisim Hizmetleri A.S.",
+      "domain": "teletektelekom.com"
+    }
+  },
+  {
+    "proxy": "http://188.132.222.11:8080",
+    "tested_at": "2026-02-14T05:27:58Z",
+    "ip": "195.62.50.2",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Turkey",
+    "country_code": "TR",
+    "region": "İstanbul",
+    "region_code": "34",
+    "city": "Istanbul",
+    "latitude": 41.0082376,
+    "longitude": 28.9783589,
+    "is_eu": false,
+    "postal": "34126",
+    "connection": {
+      "asn": 216472,
+      "org": "Hiperonline Iletisim Hizmetleri San. Tic. Ltd. Sti.",
+      "isp": "High Speed For Internet Services L.L.C",
+      "domain": "hiperonline.com.tr"
+    }
+  },
+  {
     "proxy": "http://188.132.222.10:8080",
-    "tested_at": "2026-02-14T04:56:39Z",
+    "tested_at": "2026-02-14T05:28:02Z",
     "ip": "195.62.50.20",
     "success": true,
     "type": "IPv4",
@@ -20,75 +112,6 @@
       "org": "Hiperonline Iletisim Hizmetleri San. Tic. Ltd. Sti.",
       "isp": "High Speed For Internet Services L.L.C",
       "domain": "hiperonline.com.tr"
-    }
-  },
-  {
-    "proxy": "http://176.236.227.104:8080",
-    "tested_at": "2026-02-14T04:56:42Z",
-    "ip": "176.236.227.104",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Turkey",
-    "country_code": "TR",
-    "region": "İstanbul",
-    "region_code": "34",
-    "city": "Istanbul",
-    "latitude": 41.0082376,
-    "longitude": 28.9783589,
-    "is_eu": false,
-    "postal": "34126",
-    "connection": {
-      "asn": 34984,
-      "org": "SIBA BILISIM TELEKOMINIKASYON ELEKTRONIK ITHALAT IHRACAT LIMITED SIRKETI",
-      "isp": "Superonline Iletisim Hizmetleri A.S.",
-      "domain": "turkcell.com.tr"
-    }
-  },
-  {
-    "proxy": "http://188.132.222.21:8080",
-    "tested_at": "2026-02-14T04:56:44Z",
-    "ip": "195.62.50.19",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Turkey",
-    "country_code": "TR",
-    "region": "İstanbul",
-    "region_code": "34",
-    "city": "Istanbul",
-    "latitude": 41.0082376,
-    "longitude": 28.9783589,
-    "is_eu": false,
-    "postal": "34126",
-    "connection": {
-      "asn": 216472,
-      "org": "Hiperonline Iletisim Hizmetleri San. Tic. Ltd. Sti.",
-      "isp": "High Speed For Internet Services L.L.C",
-      "domain": "hiperonline.com.tr"
-    }
-  },
-  {
-    "proxy": "http://38.156.72.4:8080",
-    "tested_at": "2026-02-14T04:57:01Z",
-    "ip": "38.156.72.4",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Turkey",
-    "country_code": "TR",
-    "region": "Kilis",
-    "region_code": "79",
-    "city": "Kilis",
-    "latitude": 36.716477,
-    "longitude": 37.114661,
-    "is_eu": false,
-    "postal": "79002",
-    "connection": {
-      "asn": 202561,
-      "org": "Cogent Communications",
-      "isp": "High Speed Telekomunikasyon Ve Hab. Hiz. Ltd. Sti.",
-      "domain": "highspeed.com.tr"
     }
   }
 ]

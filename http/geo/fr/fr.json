@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://173.212.246.157:3128",
-    "tested_at": "2026-02-14T04:56:15Z",
-    "ip": "173.212.246.157",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Grand Est",
-    "region_code": "GES",
-    "city": "Lauterbourg",
-    "latitude": 48.974797,
-    "longitude": 8.176773,
-    "is_eu": true,
-    "postal": "67630",
-    "connection": {
-      "asn": 51167,
-      "org": "Contabo GmbH",
-      "isp": "Contabo GmbH",
-      "domain": "contabo.de"
-    }
-  },
-  {
     "proxy": "http://37.187.109.70:10111",
-    "tested_at": "2026-02-14T04:56:25Z",
+    "tested_at": "2026-02-14T05:27:25Z",
     "ip": "37.187.109.70",
     "success": true,
     "type": "IPv4",
@@ -46,9 +23,32 @@
     }
   },
   {
-    "proxy": "http://178.170.43.129:8082",
-    "tested_at": "2026-02-14T04:56:30Z",
-    "ip": "178.170.43.129",
+    "proxy": "http://141.253.112.177:3154",
+    "tested_at": "2026-02-14T05:27:26Z",
+    "ip": "141.145.192.80",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "is_eu": true,
+    "postal": "75007",
+    "connection": {
+      "asn": 31898,
+      "org": "Oracle Svenska Ab",
+      "isp": "Oracle Corporation",
+      "domain": "oracle.com"
+    }
+  },
+  {
+    "proxy": "http://178.170.43.106:8081",
+    "tested_at": "2026-02-14T05:27:27Z",
+    "ip": "178.170.43.106",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -69,9 +69,9 @@
     }
   },
   {
-    "proxy": "http://92.119.126.229:8118",
-    "tested_at": "2026-02-14T04:56:42Z",
-    "ip": "92.119.126.229",
+    "proxy": "http://173.212.246.157:3128",
+    "tested_at": "2026-02-14T05:27:59Z",
+    "ip": "173.212.246.157",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -79,108 +79,16 @@
     "country_code": "FR",
     "region": "Grand Est",
     "region_code": "GES",
-    "city": "Strasbourg",
-    "latitude": 48.5734053,
-    "longitude": 7.7521113,
+    "city": "Lauterbourg",
+    "latitude": 48.974797,
+    "longitude": 8.176773,
     "is_eu": true,
-    "postal": "67000",
+    "postal": "67630",
     "connection": {
-      "asn": 29066,
-      "org": "Racknerd LLC",
-      "isp": "Velia.net Internetdienste GmbH",
-      "domain": "racknerd.com"
-    }
-  },
-  {
-    "proxy": "http://165.225.77.184:11724",
-    "tested_at": "2026-02-14T04:56:44Z",
-    "ip": "147.161.232.178",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 62044,
-      "org": "Zscaler Paris",
-      "isp": "Zscaler Switzerland GmbH",
-      "domain": "zscaler.com"
-    }
-  },
-  {
-    "proxy": "http://62.133.62.12:1082",
-    "tested_at": "2026-02-14T04:56:45Z",
-    "ip": "62.133.62.12",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 215540,
-      "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
-      "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
-      "domain": "gir.network"
-    }
-  },
-  {
-    "proxy": "http://165.225.77.184:11398",
-    "tested_at": "2026-02-14T04:56:49Z",
-    "ip": "147.161.232.178",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 62044,
-      "org": "Zscaler Paris",
-      "isp": "Zscaler Switzerland GmbH",
-      "domain": "zscaler.com"
-    }
-  },
-  {
-    "proxy": "http://185.41.152.110:3128",
-    "tested_at": "2026-02-14T04:57:00Z",
-    "ip": "185.41.152.110",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Grand Est",
-    "region_code": "GES",
-    "city": "Marly",
-    "latitude": 49.059828,
-    "longitude": 6.154795,
-    "is_eu": true,
-    "postal": "57155",
-    "connection": {
-      "asn": 197922,
-      "org": "FIRSTHEBERG",
-      "isp": "Techcrea Solutions SAS",
-      "domain": "techcrea.fr"
+      "asn": 51167,
+      "org": "Contabo GmbH",
+      "isp": "Contabo GmbH",
+      "domain": "contabo.de"
     }
   }
 ]

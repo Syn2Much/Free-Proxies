@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://143.208.57.163:999",
-    "tested_at": "2026-02-14T04:56:18Z",
-    "ip": "143.208.57.163",
+    "proxy": "http://138.118.106.237:999",
+    "tested_at": "2026-02-14T05:28:12Z",
+    "ip": "138.118.106.15",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -16,33 +16,33 @@
     "is_eu": false,
     "postal": "01004",
     "connection": {
-      "asn": 22869,
-      "org": "COMUNICACIONES METROPOLITANAS CABLECOLOR",
-      "isp": "CABLECOLOR S.A.",
-      "domain": "cablecolor.net"
+      "asn": 263781,
+      "org": "ONNO NETWORKS, SOCIEDAD AN NIMA",
+      "isp": "ONNO NETWORKS, SOCIEDAD AN NIMA",
+      "domain": "onnonetworks.com"
     }
   },
   {
-    "proxy": "http://181.174.115.9:1994",
-    "tested_at": "2026-02-14T04:56:44Z",
-    "ip": "181.174.115.9",
+    "proxy": "http://181.78.49.207:999",
+    "tested_at": "2026-02-14T05:28:24Z",
+    "ip": "181.78.49.207",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Guatemala",
     "country_code": "GT",
-    "region": "Izabal",
-    "region_code": "IZ",
-    "city": "Puerto Barrios",
-    "latitude": 15.695364,
-    "longitude": -88.5855173,
+    "region": "San Marcos",
+    "region_code": "SM",
+    "city": "San Marcos",
+    "latitude": 14.9609782,
+    "longitude": -91.8074586,
     "is_eu": false,
-    "postal": "18013",
+    "postal": "12001",
     "connection": {
-      "asn": 23243,
-      "org": "COMUNICACIONES CELULARES, S.A.",
-      "isp": "COMCEL GUATEMALA S.A.",
-      "domain": "tigo.com.gt"
+      "asn": 52468,
+      "org": "Ufinet Guatemala S. A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "ufinet.com"
     }
   }
 ]
