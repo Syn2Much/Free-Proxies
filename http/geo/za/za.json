@@ -1,31 +1,54 @@
 [
   {
-    "proxy": "http://102.221.40.111:8080",
-    "tested_at": "2026-02-14T14:20:01Z",
-    "ip": "102.221.40.111",
+    "proxy": "http://102.218.40.77:8082",
+    "tested_at": "2026-02-14T14:51:30Z",
+    "ip": "102.218.40.66",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "South Africa",
     "country_code": "ZA",
-    "region": "Western Cape",
-    "region_code": "WC",
-    "city": "Mossel Bay",
-    "latitude": -34.1747356,
-    "longitude": 22.0834066,
+    "region": "KwaZulu-Natal",
+    "region_code": "KZN",
+    "city": "Newcastle",
+    "latitude": -27.7138429,
+    "longitude": 29.9971769,
     "is_eu": false,
-    "postal": "6506",
+    "postal": "2940",
     "connection": {
-      "asn": 5713,
-      "org": "Elu Investments Limited incorporated in Ireland External Profit Company",
-      "isp": "Telkom SA Ltd.",
-      "domain": "acornbroadband.com"
+      "asn": 328942,
+      "org": "Newcastle Broadband Users",
+      "isp": "IMVULA ITECHNOLOGIES PTY LTD",
+      "domain": "imvulaitech.co.za"
     }
   },
   {
-    "proxy": "http://154.0.14.116:3128",
-    "tested_at": "2026-02-14T14:20:36Z",
-    "ip": "154.0.14.116",
+    "proxy": "http://41.79.148.233:8083",
+    "tested_at": "2026-02-14T14:51:32Z",
+    "ip": "41.222.152.21",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "North West",
+    "region_code": "NW",
+    "city": "Brits",
+    "latitude": -25.6099895,
+    "longitude": 27.7959713,
+    "is_eu": false,
+    "postal": "0250",
+    "connection": {
+      "asn": 37403,
+      "org": "Infogro Netblock",
+      "isp": "Info gro pty LTD",
+      "domain": "infogro.net"
+    }
+  },
+  {
+    "proxy": "http://196.251.222.229:8103",
+    "tested_at": "2026-02-14T14:51:41Z",
+    "ip": "196.251.222.205",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -39,10 +62,56 @@
     "is_eu": false,
     "postal": "2001",
     "connection": {
-      "asn": 37680,
-      "org": "Cisp Internal",
-      "isp": "Cool Ideas Service Provider pty LTD",
-      "domain": "coolideas.co.za"
+      "asn": 37403,
+      "org": "Infogro Dsl",
+      "isp": "Info gro pty LTD",
+      "domain": "infogro.net"
+    }
+  },
+  {
+    "proxy": "http://102.66.104.162:8865",
+    "tested_at": "2026-02-14T14:51:42Z",
+    "ip": "102.66.104.162",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Mpumalanga",
+    "region_code": "MP",
+    "city": "Acornhoek",
+    "latitude": -24.6056556,
+    "longitude": 31.0874925,
+    "is_eu": false,
+    "postal": "1360",
+    "connection": {
+      "asn": 328471,
+      "org": "Herotel Ra Subscriber Block A",
+      "isp": "HERO TELECOMS PTY LTD",
+      "domain": "herotel.com"
+    }
+  },
+  {
+    "proxy": "http://217.29.208.206:9999",
+    "tested_at": "2026-02-14T14:51:50Z",
+    "ip": "217.29.208.206",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "North West",
+    "region_code": "NW",
+    "city": "Potchefstroom",
+    "latitude": -26.7145297,
+    "longitude": 27.0970475,
+    "is_eu": false,
+    "postal": "2520",
+    "connection": {
+      "asn": 328471,
+      "org": "HERO TELECOMS PTY LTD",
+      "isp": "HERO TELECOMS PTY LTD",
+      "domain": "herotel.com"
     }
   }
 ]

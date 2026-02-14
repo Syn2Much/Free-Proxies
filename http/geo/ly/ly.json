@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://102.68.128.217:8080",
-    "tested_at": "2026-02-14T14:20:04Z",
-    "ip": "102.68.128.200",
+    "proxy": "http://165.16.2.234:9999",
+    "tested_at": "2026-02-14T14:51:17Z",
+    "ip": "165.16.2.234",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Al Hizam Al Akhdar",
+    "region_code": "HZ",
+    "city": "Qaminis",
+    "latitude": 31.661538,
+    "longitude": 20.0181673,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 37284,
+      "org": "Aljeel Aljadeed For Technology",
+      "isp": "Aljeel Aljadeed For Technology",
+      "domain": "aljeel.ly"
+    }
+  },
+  {
+    "proxy": "http://102.68.128.218:8080",
+    "tested_at": "2026-02-14T14:51:35Z",
+    "ip": "102.68.128.207",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -23,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://102.68.131.31:8080",
-    "tested_at": "2026-02-14T14:20:37Z",
-    "ip": "102.68.131.31",
+    "proxy": "http://154.73.28.89:8080",
+    "tested_at": "2026-02-14T14:51:42Z",
+    "ip": "154.73.28.73",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -40,7 +63,7 @@
     "postal": "350",
     "connection": {
       "asn": 21003,
-      "org": "Ertikaz Co.",
+      "org": "RAWAFED LIBYA",
       "isp": "General Post And Telecommunication Company gptc",
       "domain": "rltt.net"
     }

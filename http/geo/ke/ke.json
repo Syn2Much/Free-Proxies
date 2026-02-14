@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://102.0.16.252:8080",
-    "tested_at": "2026-02-14T14:20:06Z",
-    "ip": "102.0.16.252",
+    "proxy": "http://102.207.191.68:8080",
+    "tested_at": "2026-02-14T14:51:37Z",
+    "ip": "102.207.191.68",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Kenya",
     "country_code": "KE",
-    "region": "Kiambu",
-    "region_code": "13",
-    "city": "Ruiru",
-    "latitude": -1.1457029,
-    "longitude": 36.9648534,
+    "region": "Kitui",
+    "region_code": "18",
+    "city": "Mwingi",
+    "latitude": -0.937411,
+    "longitude": 38.0605006,
     "is_eu": false,
-    "postal": "01001",
+    "postal": "90400",
     "connection": {
-      "asn": 327708,
-      "org": "Allocated to Airtel Kenya Mobile Broadband And Fixed Internet",
-      "isp": "Airtel Rwanda LTD",
-      "domain": "airtel.com"
+      "asn": 329497,
+      "org": "Customer Assignment Public Ipv Addresses for Subscriber customer Devices.",
+      "isp": "Avitech Solutions LTD",
+      "domain": "avitechsolutionsltd.com"
     }
   }
 ]

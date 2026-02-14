@@ -1,7 +1,99 @@
 [
   {
+    "proxy": "https://47.243.181.85:41419",
+    "tested_at": "2026-02-14T14:51:06Z",
+    "ip": "221.115.180.65",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Edogawa",
+    "latitude": 35.7066569,
+    "longitude": 139.8684267,
+    "is_eu": false,
+    "postal": "134-0003",
+    "connection": {
+      "asn": 17506,
+      "org": "Arteria Networks Corp.",
+      "isp": "Ucom Corp.",
+      "domain": "arteria-net.com"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41393",
+    "tested_at": "2026-02-14T14:51:17Z",
+    "ip": "60.88.229.168",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Osaka Prefecture",
+    "region_code": "27",
+    "city": "Osaka",
+    "latitude": 34.6937378,
+    "longitude": 135.5021651,
+    "is_eu": false,
+    "postal": "530-8201",
+    "connection": {
+      "asn": 17676,
+      "org": "Softbank Corp.",
+      "isp": "Softbank Mobile Corp.",
+      "domain": "bbtec.net"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41410",
+    "tested_at": "2026-02-14T14:51:25Z",
+    "ip": "221.113.126.24",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Chiba Prefecture",
+    "region_code": "12",
+    "city": "Asahi",
+    "latitude": 35.7204338,
+    "longitude": 140.6464692,
+    "is_eu": false,
+    "postal": "289-2516",
+    "connection": {
+      "asn": 4685,
+      "org": "Asahi Net,inc.",
+      "isp": "Asahi Net",
+      "domain": "asahi-net.jp"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41400",
+    "tested_at": "2026-02-14T14:51:36Z",
+    "ip": "119.228.93.152",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Osaka Prefecture",
+    "region_code": "27",
+    "city": "Osaka",
+    "latitude": 34.6937378,
+    "longitude": 135.5021651,
+    "is_eu": false,
+    "postal": "530-8201",
+    "connection": {
+      "asn": 17511,
+      "org": "Optage Inc.",
+      "isp": "Optage Inc.",
+      "domain": "optage.co.jp"
+    }
+  },
+  {
     "proxy": "https://20.78.213.56:443",
-    "tested_at": "2026-02-14T14:20:08Z",
+    "tested_at": "2026-02-14T14:51:36Z",
     "ip": "20.78.213.56",
     "success": true,
     "type": "IPv4",
@@ -24,7 +116,7 @@
   },
   {
     "proxy": "https://103.100.159.145:443",
-    "tested_at": "2026-02-14T14:20:18Z",
+    "tested_at": "2026-02-14T14:51:48Z",
     "ip": "103.100.159.145",
     "success": true,
     "type": "IPv4",
@@ -46,11 +138,11 @@
     }
   },
   {
-    "proxy": "https://47.243.181.85:41408",
-    "tested_at": "2026-02-14T14:20:18Z",
-    "ip": "2400:2651:2ac0:4300:2023:c4c8:4352:37e3",
+    "proxy": "https://203.189.96.232:443",
+    "tested_at": "2026-02-14T14:51:57Z",
+    "ip": "203.189.96.232",
     "success": true,
-    "type": "IPv6",
+    "type": "IPv4",
     "continent": "Asia",
     "country": "Japan",
     "country_code": "JP",
@@ -62,56 +154,10 @@
     "is_eu": false,
     "postal": "100-0002",
     "connection": {
-      "asn": 17676,
-      "org": "Softbank Corp.",
-      "isp": "Softbank Mobile Corp.",
-      "domain": "softbank.co.jp"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41393",
-    "tested_at": "2026-02-14T14:20:33Z",
-    "ip": "133.106.32.201",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Saitama Prefecture",
-    "region_code": "11",
-    "city": "Soka",
-    "latitude": 35.8253547,
-    "longitude": 139.8054022,
-    "is_eu": false,
-    "postal": "340-0015",
-    "connection": {
-      "asn": 138384,
-      "org": "Rakuten Mobile, Inc.",
-      "isp": "Rakuten Mobile, Inc.",
-      "domain": "rakuten.co.jp"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41406",
-    "tested_at": "2026-02-14T14:20:38Z",
-    "ip": "2001:ce8:151:86a3:943c:83a7:3933:d09c",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Chiyoda City",
-    "latitude": 35.6952553,
-    "longitude": 139.7620134,
-    "is_eu": false,
-    "postal": "101-0052",
-    "connection": {
-      "asn": 17511,
-      "org": "Optage Inc.",
-      "isp": "Optage Inc.",
-      "domain": "optage.co.jp"
+      "asn": 7506,
+      "org": "Gmo Internet, Inc.",
+      "isp": "Gmo Internet Group, Inc.",
+      "domain": "internet.gmo"
     }
   }
 ]

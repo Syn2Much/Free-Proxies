@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://89.135.59.71:8090",
+    "tested_at": "2026-02-14T14:51:38Z",
+    "ip": "89.135.59.71",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Hungary",
+    "country_code": "HU",
+    "region": "Central Hungary",
+    "region_code": "",
+    "city": "Budapest",
+    "latitude": 47.497912,
+    "longitude": 19.040235,
+    "is_eu": true,
+    "postal": "1013",
+    "connection": {
+      "asn": 21334,
+      "org": "One Hungary Ltd.",
+      "isp": "One Hungary Ltd.",
+      "domain": "one.hu"
+    }
+  },
+  {
     "proxy": "http://89.135.59.65:8090",
-    "tested_at": "2026-02-14T03:22:25Z",
+    "tested_at": "2026-02-14T14:51:47Z",
     "ip": "89.135.59.71",
     "success": true,
     "type": "IPv4",

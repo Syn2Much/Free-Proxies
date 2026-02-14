@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://193.68.115.14:8080",
-    "tested_at": "2026-02-14T13:48:58Z",
-    "ip": "193.68.115.14",
+    "proxy": "http://46.10.209.230:8080",
+    "tested_at": "2026-02-14T14:51:21Z",
+    "ip": "46.10.209.230",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Bulgaria",
     "country_code": "BG",
-    "region": "Blagoevgrad",
-    "region_code": "01",
-    "city": "Ablanitsa",
-    "latitude": 41.5377807,
-    "longitude": 23.9340768,
+    "region": "Sofia-city",
+    "region_code": "",
+    "city": "Sofia",
+    "latitude": 42.6977082,
+    "longitude": 23.3218675,
     "is_eu": true,
-    "postal": "2932",
+    "postal": "1000",
     "connection": {
-      "asn": 48584,
-      "org": "Sarnica net LTD",
-      "isp": "Sarnica net LTD",
-      "domain": "abv.bg"
+      "asn": 8866,
+      "org": "Business Customer Migration",
+      "isp": "Vivacom Bulgaria Ead",
+      "domain": "vivacom.bg"
     }
   }
 ]

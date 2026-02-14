@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://85.208.108.43:2094",
-    "tested_at": "2026-02-14T14:19:57Z",
-    "ip": "85.208.108.43",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 53363,
-      "org": "Worktitans B.V.",
-      "isp": "TANGRAM CANADA INC.",
-      "domain": "the.hosting"
-    }
-  },
-  {
     "proxy": "http://188.227.196.62:1080",
-    "tested_at": "2026-02-14T14:20:07Z",
+    "tested_at": "2026-02-14T14:51:16Z",
     "ip": "188.227.196.62",
     "success": true,
     "type": "IPv4",
@@ -46,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://85.208.108.43:10808",
-    "tested_at": "2026-02-14T14:20:08Z",
-    "ip": "85.208.108.43",
+    "proxy": "http://143.198.37.6:8888",
+    "tested_at": "2026-02-14T14:51:18Z",
+    "ip": "178.249.214.14",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -62,10 +39,10 @@
     "is_eu": false,
     "postal": "M5H 2N2",
     "connection": {
-      "asn": 53363,
-      "org": "Worktitans B.V.",
-      "isp": "TANGRAM CANADA INC.",
-      "domain": "the.hosting"
+      "asn": 212238,
+      "org": "CDNEXT TOR",
+      "isp": "Datacamp Limited",
+      "domain": "datacamp.co.uk"
     }
   }
 ]

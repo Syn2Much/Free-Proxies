@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://72.10.160.174:29533",
-    "tested_at": "2026-02-14T13:17:50Z",
-    "ip": "113.211.212.86",
+    "proxy": "http://72.10.164.178:21005",
+    "tested_at": "2026-02-14T14:51:25Z",
+    "ip": "161.142.146.62",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Malaysia",
     "country_code": "MY",
-    "region": "Selangor",
-    "region_code": "10",
-    "city": "Petaling Jaya",
-    "latitude": 3.1278871,
-    "longitude": 101.5944885,
+    "region": "Federal Territory of Kuala Lumpur",
+    "region_code": "",
+    "city": "Kuala Lumpur",
+    "latitude": 3.139003,
+    "longitude": 101.686855,
     "is_eu": false,
-    "postal": "46675",
+    "postal": "50050",
     "connection": {
-      "asn": 9534,
-      "org": "",
-      "isp": "Maxis Broadband Sdn.Bhd",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://110.159.123.225:8080",
-    "tested_at": "2026-02-14T13:18:03Z",
-    "ip": "110.159.123.225",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Malaysia",
-    "country_code": "MY",
-    "region": "Sabah",
-    "region_code": "12",
-    "city": "Lahad Datu",
-    "latitude": 5.024206,
-    "longitude": 118.3307461,
-    "is_eu": false,
-    "postal": "91110",
-    "connection": {
-      "asn": 4788,
-      "org": "TMNST",
-      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-      "domain": "tm.com.my"
+      "asn": 9930,
+      "org": "TT DOTCOM SDN BHD",
+      "isp": "TT DOTCOM SDN BHD",
+      "domain": "time.com.my"
     }
   }
 ]

@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://38.7.195.55:999",
-    "tested_at": "2026-02-14T14:20:11Z",
-    "ip": "38.7.195.49",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
-    "is_eu": false,
-    "postal": "832 0202",
-    "connection": {
-      "asn": 263702,
-      "org": "Cogent Communications",
-      "isp": "GRUPO ZGH SPA",
-      "domain": "zglobalhost.com"
-    }
-  },
-  {
     "proxy": "http://186.67.74.52:3128",
-    "tested_at": "2026-02-14T14:20:13Z",
+    "tested_at": "2026-02-14T14:51:14Z",
     "ip": "186.67.74.52",
     "success": true,
     "type": "IPv4",
@@ -46,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://38.7.195.52:999",
-    "tested_at": "2026-02-14T14:20:44Z",
-    "ip": "38.7.195.49",
+    "proxy": "http://167.249.29.218:999",
+    "tested_at": "2026-02-14T14:51:36Z",
+    "ip": "167.249.29.218",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -62,10 +39,102 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 263702,
-      "org": "Cogent Communications",
-      "isp": "GRUPO ZGH SPA",
-      "domain": "zglobalhost.com"
+      "asn": 64139,
+      "org": "GRUPO METROWAN TELECOM SPA",
+      "isp": "GRUPO METROWAN TELECOM SPA",
+      "domain": "metrowan.cl"
+    }
+  },
+  {
+    "proxy": "http://200.111.232.94:8080",
+    "tested_at": "2026-02-14T14:51:38Z",
+    "ip": "200.111.232.94",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 27651,
+      "org": "Entel Chile S.A",
+      "isp": "ENTEL CHILE S.A.",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://167.249.30.253:999",
+    "tested_at": "2026-02-14T14:51:43Z",
+    "ip": "167.249.30.253",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 64131,
+      "org": "GLOBALCONNECT SPA",
+      "isp": "GLOBALCONNECT SPA",
+      "domain": "globalconnect.cl"
+    }
+  },
+  {
+    "proxy": "http://204.199.139.76:999",
+    "tested_at": "2026-02-14T14:51:46Z",
+    "ip": "204.199.139.75",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Isla de Maipo",
+    "latitude": -33.7464562,
+    "longitude": -70.9,
+    "is_eu": false,
+    "postal": "979 0152",
+    "connection": {
+      "asn": 273237,
+      "org": "INGBELL CHILE SPA",
+      "isp": "INGBELL CHILE SPA",
+      "domain": "ingbell.cl"
+    }
+  },
+  {
+    "proxy": "http://200.39.139.65:999",
+    "tested_at": "2026-02-14T14:52:03Z",
+    "ip": "200.39.139.65",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 270024,
+      "org": "ICONEX SPA",
+      "isp": "ICONEX SPA",
+      "domain": "iconex.cl"
     }
   }
 ]

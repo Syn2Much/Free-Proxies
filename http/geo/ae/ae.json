@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://72.10.160.170:18415",
-    "tested_at": "2026-02-14T14:20:44Z",
-    "ip": "94.207.255.171",
+    "proxy": "http://129.151.130.247:1111",
+    "tested_at": "2026-02-14T14:51:39Z",
+    "ip": "129.151.130.247",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -11,15 +11,15 @@
     "region": "Abu Dhabi Emirate",
     "region_code": "AZ",
     "city": "Abu Dhabi",
-    "latitude": 24.2991738,
-    "longitude": 54.6972774,
+    "latitude": 24.4266734,
+    "longitude": 54.614979,
     "is_eu": false,
     "postal": "36668",
     "connection": {
-      "asn": 15802,
-      "org": "Emirates Integrated Telecommunications Company Pjsc",
-      "isp": "Emirates Integrated Telecommunications Company Pjsc",
-      "domain": "du.ae"
+      "asn": 31898,
+      "org": "Oracle Corporation",
+      "isp": "Oracle Corporation",
+      "domain": "oracle.com"
     }
   }
 ]

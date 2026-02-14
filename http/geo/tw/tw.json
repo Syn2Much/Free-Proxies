@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://106.107.195.68:8080",
-    "tested_at": "2026-02-14T13:49:22Z",
-    "ip": "106.107.195.68",
+    "proxy": "http://35.234.17.221:8080",
+    "tested_at": "2026-02-14T14:51:29Z",
+    "ip": "35.234.17.221",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,9 +16,55 @@
     "is_eu": false,
     "postal": "11008",
     "connection": {
-      "asn": 18049,
+      "asn": 396982,
+      "org": "Google LLC",
+      "isp": "Google LLC",
+      "domain": "google.com"
+    }
+  },
+  {
+    "proxy": "http://61.216.156.222:60808",
+    "tested_at": "2026-02-14T14:51:41Z",
+    "ip": "61.216.156.222",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "region": "",
+    "region_code": "",
+    "city": "Banqiao District",
+    "latitude": 25.0114095,
+    "longitude": 121.4618415,
+    "is_eu": false,
+    "postal": "22055",
+    "connection": {
+      "asn": 3462,
+      "org": "Data Communication Business Group,",
+      "isp": "Chunghwa Telecom Co., Ltd.",
+      "domain": "hinet.net"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:12793",
+    "tested_at": "2026-02-14T14:51:51Z",
+    "ip": "203.190.20.185",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "region": "Kaohsiung City",
+    "region_code": "KHQ",
+    "city": "寶珠里",
+    "latitude": 22.6483956,
+    "longitude": 120.3262085,
+    "is_eu": false,
+    "postal": "807",
+    "connection": {
+      "asn": 9922,
       "org": "New Century Infocomm Tech. Co., Ltd.",
-      "isp": "Taiwan Infrastructure Network Technologie",
+      "isp": "New Kaohsiung Broadband Ltd.",
       "domain": "seed.net.tw"
     }
   }

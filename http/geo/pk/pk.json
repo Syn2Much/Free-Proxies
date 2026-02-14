@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://202.69.38.82:8080",
-    "tested_at": "2026-02-14T12:14:56Z",
-    "ip": "202.69.38.82",
+    "proxy": "http://67.43.228.252:27015",
+    "tested_at": "2026-02-14T14:51:26Z",
+    "ip": "39.50.132.253",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,16 +10,16 @@
     "country_code": "PK",
     "region": "Punjab",
     "region_code": "PB",
-    "city": "Lahore",
-    "latitude": 31.5546061,
-    "longitude": 74.3571581,
+    "city": "Multan",
+    "latitude": 30.1983807,
+    "longitude": 71.4687028,
     "is_eu": false,
-    "postal": "54000",
+    "postal": "60000",
     "connection": {
-      "asn": 23750,
-      "org": "Gerrys Information Technology pvt LTD",
-      "isp": "Gerrys Information Technology pvt LTD",
-      "domain": "gerrys.net"
+      "asn": 17557,
+      "org": "Pakistan Telecommuication Company Limited",
+      "isp": "Pakistan Telecommuication Company Limited",
+      "domain": "ptcl.net.pk"
     }
   }
 ]

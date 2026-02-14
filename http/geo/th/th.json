@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://202.29.215.78:8080",
-    "tested_at": "2026-02-14T14:20:34Z",
-    "ip": "202.29.219.38",
+    "proxy": "http://58.136.171.166:8080",
+    "tested_at": "2026-02-14T14:51:10Z",
+    "ip": "58.136.171.166",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Thailand",
+    "country_code": "TH",
+    "region": "Udon Thani Province",
+    "region_code": "41",
+    "city": "Udon Thani",
+    "latitude": 17.3646969,
+    "longitude": 102.8158924,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 133481,
+      "org": "Ais Fibre",
+      "isp": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+      "domain": "ais.co.th"
+    }
+  },
+  {
+    "proxy": "http://203.150.128.155:8080",
+    "tested_at": "2026-02-14T14:51:48Z",
+    "ip": "203.150.128.155",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,16 +33,62 @@
     "country_code": "TH",
     "region": "Bangkok",
     "region_code": "10",
-    "city": "Bangkok",
-    "latitude": 13.7563309,
-    "longitude": 100.5017651,
+    "city": "Watthana",
+    "latitude": 13.7263165,
+    "longitude": 100.5915072,
     "is_eu": false,
-    "postal": "10200",
+    "postal": "10110",
     "connection": {
-      "asn": 4621,
-      "org": "Office of Info.Tech. Admin. Educational Development",
-      "isp": "Office of INFO.TECH. Admin. for Educational Development",
-      "domain": ""
+      "asn": 4618,
+      "org": "Inext Broadband Company Limited",
+      "isp": "Internet Thailand Company Ltd.",
+      "domain": "inext.co.th"
+    }
+  },
+  {
+    "proxy": "http://203.150.128.154:8080",
+    "tested_at": "2026-02-14T14:51:49Z",
+    "ip": "203.150.128.154",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Thailand",
+    "country_code": "TH",
+    "region": "Bangkok",
+    "region_code": "10",
+    "city": "Watthana",
+    "latitude": 13.7263165,
+    "longitude": 100.5915072,
+    "is_eu": false,
+    "postal": "10110",
+    "connection": {
+      "asn": 4618,
+      "org": "Inext Broadband Company Limited",
+      "isp": "Internet Thailand Company Ltd.",
+      "domain": "inext.co.th"
+    }
+  },
+  {
+    "proxy": "http://1.1.232.112:8080",
+    "tested_at": "2026-02-14T14:51:49Z",
+    "ip": "1.1.232.112",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Thailand",
+    "country_code": "TH",
+    "region": "Sakon Nakhon Province",
+    "region_code": "47",
+    "city": "Akat Amnuai District",
+    "latitude": 17.686931,
+    "longitude": 103.9608091,
+    "is_eu": false,
+    "postal": "47170",
+    "connection": {
+      "asn": 23969,
+      "org": "Dynamic Ip Address for Residential Broadband Customers",
+      "isp": "Tot Public Company Limited",
+      "domain": "totidc.net"
     }
   }
 ]

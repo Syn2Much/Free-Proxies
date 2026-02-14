@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "http://103.161.69.252:2698",
-    "tested_at": "2026-02-14T14:20:01Z",
-    "ip": "103.161.69.254",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Bangladesh",
-    "country_code": "BD",
-    "region": "Chattogram Division",
-    "region_code": "B",
-    "city": "Chittagong",
-    "latitude": 22.3475365,
-    "longitude": 91.8123324,
-    "is_eu": false,
-    "postal": "4225",
-    "connection": {
-      "asn": 137967,
-      "org": "Confidence Power Bogra Unit Limited",
-      "isp": "Digicon Telecommunication LTD",
-      "domain": "confidencegroup.com.bd"
-    }
-  },
-  {
-    "proxy": "http://103.161.69.233:2698",
-    "tested_at": "2026-02-14T14:20:02Z",
-    "ip": "103.161.69.253",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Bangladesh",
-    "country_code": "BD",
-    "region": "Chattogram Division",
-    "region_code": "B",
-    "city": "Chittagong",
-    "latitude": 22.3475365,
-    "longitude": 91.8123324,
-    "is_eu": false,
-    "postal": "4225",
-    "connection": {
-      "asn": 137967,
-      "org": "Confidence Power Bogra Unit Limited",
-      "isp": "Digicon Telecommunication LTD",
-      "domain": "confidencegroup.com.bd"
-    }
-  },
-  {
-    "proxy": "http://123.200.7.190:2314",
-    "tested_at": "2026-02-14T14:20:15Z",
-    "ip": "123.200.7.190",
+    "proxy": "http://113.11.127.179:64300",
+    "tested_at": "2026-02-14T14:51:06Z",
+    "ip": "113.11.32.102",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -62,130 +16,15 @@
     "is_eu": false,
     "postal": "1229",
     "connection": {
-      "asn": 23688,
-      "org": "Link Technologies Ltd",
-      "isp": "Link Technologies Limited",
-      "domain": "link3.net"
-    }
-  },
-  {
-    "proxy": "http://180.211.161.110:8080",
-    "tested_at": "2026-02-14T14:20:21Z",
-    "ip": "180.211.161.110",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Bangladesh",
-    "country_code": "BD",
-    "region": "Dhaka Division",
-    "region_code": "13",
-    "city": "Dhaka",
-    "latitude": 23.810332,
-    "longitude": 90.4125181,
-    "is_eu": false,
-    "postal": "1229",
-    "connection": {
-      "asn": 45588,
-      "org": "Btcl Info bahan porject",
-      "isp": "Bangladesh Telegraph Telephone Board",
-      "domain": "btcl.net.bd"
-    }
-  },
-  {
-    "proxy": "http://43.225.151.30:20505",
-    "tested_at": "2026-02-14T14:20:26Z",
-    "ip": "43.225.151.30",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Bangladesh",
-    "country_code": "BD",
-    "region": "Dhaka Division",
-    "region_code": "13",
-    "city": "Dhaka",
-    "latitude": 23.810332,
-    "longitude": 90.4125181,
-    "is_eu": false,
-    "postal": "1229",
-    "connection": {
-      "asn": 9441,
-      "org": "NEXT ONLINE",
-      "isp": "Next Online Ltd.",
-      "domain": "nextonline.com.bd"
-    }
-  },
-  {
-    "proxy": "http://59.153.18.142:20909",
-    "tested_at": "2026-02-14T14:20:31Z",
-    "ip": "59.153.18.142",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Bangladesh",
-    "country_code": "BD",
-    "region": "Barisal Division",
-    "region_code": "A",
-    "city": "Nalchhiti",
-    "latitude": 22.6285798,
-    "longitude": 90.2690466,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 64043,
-      "org": "S.M. Zakir Hossain T a Eurotelbd Online Ltd.",
-      "isp": "Eurotelbd Online Ltd.",
-      "domain": "eurotelbd.com"
-    }
-  },
-  {
-    "proxy": "http://103.141.66.78:5555",
-    "tested_at": "2026-02-14T14:20:31Z",
-    "ip": "103.141.66.78",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Bangladesh",
-    "country_code": "BD",
-    "region": "Dhaka Division",
-    "region_code": "13",
-    "city": "Dhaka",
-    "latitude": 23.810332,
-    "longitude": 90.4125181,
-    "is_eu": false,
-    "postal": "1229",
-    "connection": {
-      "asn": 23688,
-      "org": "Big Media Limited",
-      "isp": "Link Technologies Limited",
-      "domain": "bigmedia.com.bd"
-    }
-  },
-  {
-    "proxy": "http://27.147.137.234:9108",
-    "tested_at": "2026-02-14T14:20:33Z",
-    "ip": "27.147.137.234",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Bangladesh",
-    "country_code": "BD",
-    "region": "Dhaka Division",
-    "region_code": "13",
-    "city": "Dhaka",
-    "latitude": 23.810332,
-    "longitude": 90.4125181,
-    "is_eu": false,
-    "postal": "1229",
-    "connection": {
-      "asn": 23688,
-      "org": "Link Technologies Ltd",
-      "isp": "Link Technologies Limited",
-      "domain": "link3.net"
+      "asn": 7565,
+      "org": "Bdcom Online Limited",
+      "isp": "Bdcom Online Limited",
+      "domain": "bdcom.com"
     }
   },
   {
     "proxy": "http://59.153.16.214:20909",
-    "tested_at": "2026-02-14T14:20:38Z",
+    "tested_at": "2026-02-14T14:51:16Z",
     "ip": "59.153.16.214",
     "success": true,
     "type": "IPv4",
@@ -207,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://43.224.118.156:1120",
-    "tested_at": "2026-02-14T14:20:39Z",
-    "ip": "43.224.118.156",
+    "proxy": "http://103.15.140.177:44759",
+    "tested_at": "2026-02-14T14:51:23Z",
+    "ip": "103.135.134.163",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -223,15 +62,61 @@
     "is_eu": false,
     "postal": "1229",
     "connection": {
-      "asn": 9441,
-      "org": "Next Online Limited",
-      "isp": "Next Online Ltd.",
-      "domain": "nextonline.com.bd"
+      "asn": 58689,
+      "org": "Icc Communication Ltd.",
+      "isp": "Icc Communication",
+      "domain": "icc.com.bd"
+    }
+  },
+  {
+    "proxy": "http://123.200.6.205:2314",
+    "tested_at": "2026-02-14T14:51:37Z",
+    "ip": "123.200.6.205",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "region": "Dhaka Division",
+    "region_code": "13",
+    "city": "Dhaka",
+    "latitude": 23.810332,
+    "longitude": 90.4125181,
+    "is_eu": false,
+    "postal": "1229",
+    "connection": {
+      "asn": 23688,
+      "org": "Link Technologies Ltd",
+      "isp": "Link Technologies Limited",
+      "domain": "link3.net"
+    }
+  },
+  {
+    "proxy": "http://119.148.9.238:16345",
+    "tested_at": "2026-02-14T14:51:39Z",
+    "ip": "119.148.9.238",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "region": "Dhaka Division",
+    "region_code": "13",
+    "city": "Dhaka",
+    "latitude": 23.7322458,
+    "longitude": 90.4107509,
+    "is_eu": false,
+    "postal": "1000",
+    "connection": {
+      "asn": 23923,
+      "org": "Customer Allocation for Mirpur Zone",
+      "isp": "Agni Systems Limited",
+      "domain": "agni.com"
     }
   },
   {
     "proxy": "http://103.250.68.33:5555",
-    "tested_at": "2026-02-14T14:20:42Z",
+    "tested_at": "2026-02-14T14:51:41Z",
     "ip": "103.250.68.206",
     "success": true,
     "type": "IPv4",
@@ -250,6 +135,98 @@
       "org": "NEXT ONLINE",
       "isp": "Next Online Ltd.",
       "domain": "nextonline.com.bd"
+    }
+  },
+  {
+    "proxy": "http://175.29.125.242:8080",
+    "tested_at": "2026-02-14T14:51:41Z",
+    "ip": "202.4.112.82",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "region": "Dhaka Division",
+    "region_code": "13",
+    "city": "Dhaka",
+    "latitude": 23.810332,
+    "longitude": 90.4125181,
+    "is_eu": false,
+    "postal": "1229",
+    "connection": {
+      "asn": 23956,
+      "org": "Amber IT Limited",
+      "isp": "Amber IT Limited",
+      "domain": "amberit.com.bd"
+    }
+  },
+  {
+    "proxy": "http://182.160.124.83:50000",
+    "tested_at": "2026-02-14T14:51:43Z",
+    "ip": "182.160.124.83",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "region": "Dhaka Division",
+    "region_code": "13",
+    "city": "Dhaka",
+    "latitude": 23.810332,
+    "longitude": 90.4125181,
+    "is_eu": false,
+    "postal": "1229",
+    "connection": {
+      "asn": 24323,
+      "org": "Assigned for Dhaka Epz Pop Customers",
+      "isp": "Aamra Networks Limited",
+      "domain": "aamra.com.bd"
+    }
+  },
+  {
+    "proxy": "http://182.160.117.147:50000",
+    "tested_at": "2026-02-14T14:51:50Z",
+    "ip": "182.160.117.147",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "region": "Dhaka Division",
+    "region_code": "13",
+    "city": "Dhaka",
+    "latitude": 23.810332,
+    "longitude": 90.4125181,
+    "is_eu": false,
+    "postal": "1229",
+    "connection": {
+      "asn": 24323,
+      "org": "Assigned for Karwan Bazar Pop Customers",
+      "isp": "Aamra Networks Limited",
+      "domain": "aamra.com.bd"
+    }
+  },
+  {
+    "proxy": "http://123.200.3.221:2314",
+    "tested_at": "2026-02-14T14:51:59Z",
+    "ip": "123.200.3.221",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "region": "Dhaka Division",
+    "region_code": "13",
+    "city": "Dhaka",
+    "latitude": 23.810332,
+    "longitude": 90.4125181,
+    "is_eu": false,
+    "postal": "1229",
+    "connection": {
+      "asn": 23688,
+      "org": "Link Technologies Limited",
+      "isp": "Link Technologies Limited",
+      "domain": "link3.net"
     }
   }
 ]

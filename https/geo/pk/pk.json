@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "https://47.243.181.85:41689",
-    "tested_at": "2026-02-14T12:46:00Z",
-    "ip": "103.245.194.14",
+    "proxy": "https://47.243.181.85:41709",
+    "tested_at": "2026-02-14T14:51:08Z",
+    "ip": "103.148.128.88",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Pakistan",
     "country_code": "PK",
-    "region": "Sindh",
-    "region_code": "SD",
-    "city": "Karachi",
-    "latitude": 24.8614622,
-    "longitude": 67.0099388,
+    "region": "Punjab",
+    "region_code": "PB",
+    "city": "Faisalabad",
+    "latitude": 31.4187142,
+    "longitude": 73.0791073,
     "is_eu": false,
-    "postal": "74400",
+    "postal": "38000",
     "connection": {
-      "asn": 9541,
-      "org": "Cyber Internet Services Pakistan",
-      "isp": "Cyber Internet Services private Limited",
-      "domain": "cyber.net.pk"
+      "asn": 131471,
+      "org": "Jazz",
+      "isp": "Login.me pvt LTD",
+      "domain": "jazz.com.pk"
     }
   }
 ]

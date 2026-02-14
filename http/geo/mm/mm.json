@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://103.81.115.210:8080",
-    "tested_at": "2026-02-14T14:20:23Z",
-    "ip": "103.81.115.210",
+    "proxy": "http://185.133.213.86:8074",
+    "tested_at": "2026-02-14T14:51:30Z",
+    "ip": "185.133.213.86",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "00000",
     "connection": {
-      "asn": 132148,
-      "org": "HORIZON TELECOM INTERNATIONAL COMPANY LIMITED",
-      "isp": "HORIZON TELECOM INTERNATIONAL COMPANY LIMITED",
-      "domain": "telecom-horizon.com"
+      "asn": 133524,
+      "org": "Route Object for Global Technology",
+      "isp": "Global Technology Co., Ltd.",
+      "domain": "globalnetmm.com"
     }
   }
 ]
