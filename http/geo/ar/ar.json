@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "http://181.13.20.102:999",
-    "tested_at": "2026-02-14T05:27:48Z",
-    "ip": "181.13.20.102",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Corrientes",
-    "region_code": "W",
-    "city": "Corrientes",
-    "latitude": -27.4692131,
-    "longitude": -58.8306349,
-    "is_eu": false,
-    "postal": "3400",
-    "connection": {
-      "asn": 7303,
-      "org": "Telecom Argentina S.A.",
-      "isp": "Telecom Argentina S.A.",
-      "domain": "telecom.com.ar"
-    }
-  },
-  {
-    "proxy": "http://131.0.234.54:55555",
-    "tested_at": "2026-02-14T05:27:59Z",
-    "ip": "131.0.234.51",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Buenos Aires",
-    "region_code": "B",
-    "city": "Buenos Aires",
-    "latitude": -34.6036844,
-    "longitude": -58.3815591,
-    "is_eu": false,
-    "postal": "C1405 DJG",
-    "connection": {
-      "asn": 61470,
-      "org": "MUSURIT",
-      "isp": "MUSURIT",
-      "domain": "musurit.net"
-    }
-  },
-  {
-    "proxy": "http://200.70.35.2:8080",
-    "tested_at": "2026-02-14T05:28:04Z",
-    "ip": "201.190.178.191",
+    "proxy": "http://45.65.227.161:999",
+    "tested_at": "2026-02-14T05:58:57Z",
+    "ip": "45.65.227.161",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -62,16 +16,39 @@
     "is_eu": false,
     "postal": "5515",
     "connection": {
-      "asn": 28075,
-      "org": "ARLINK S.A.",
-      "isp": "ARLINK S.A.",
-      "domain": "arlink.net.ar"
+      "asn": 266725,
+      "org": "SOLUTION LAN S.A",
+      "isp": "SOLUTION LAN S.A",
+      "domain": "solutionlan.com"
     }
   },
   {
-    "proxy": "http://190.111.218.141:999",
-    "tested_at": "2026-02-14T05:28:08Z",
-    "ip": "45.172.19.196",
+    "proxy": "http://45.175.160.77:999",
+    "tested_at": "2026-02-14T05:58:58Z",
+    "ip": "45.175.160.86",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Mendoza",
+    "region_code": "M",
+    "city": "Tupungato",
+    "latitude": -33.3728036,
+    "longitude": -69.1475583,
+    "is_eu": false,
+    "postal": "5561",
+    "connection": {
+      "asn": 267835,
+      "org": "OSORIO SERGIO ANGELINO NETVDU .",
+      "isp": "OSORIO SERGIO ANGELINO NETVDU .",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://45.229.204.123:999",
+    "tested_at": "2026-02-14T05:59:18Z",
+    "ip": "45.229.204.123",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -79,22 +56,22 @@
     "country_code": "AR",
     "region": "Buenos Aires",
     "region_code": "B",
-    "city": "Monte Grande",
-    "latitude": -34.8271786,
-    "longitude": -58.4620124,
+    "city": "Avellaneda",
+    "latitude": -34.6610756,
+    "longitude": -58.3669739,
     "is_eu": false,
-    "postal": "1842",
+    "postal": "1870",
     "connection": {
-      "asn": 264619,
-      "org": "Wireless Provider",
-      "isp": "Wireless Provider",
-      "domain": "wirelessprovider.com.ar"
+      "asn": 266721,
+      "org": "VISIO RED SRL",
+      "isp": "VISIO RED SRL",
+      "domain": "visio.red"
     }
   },
   {
-    "proxy": "http://72.10.164.178:13525",
-    "tested_at": "2026-02-14T05:28:16Z",
-    "ip": "181.45.24.3",
+    "proxy": "http://200.49.99.78:9991",
+    "tested_at": "2026-02-14T05:59:19Z",
+    "ip": "200.49.99.78",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -102,16 +79,62 @@
     "country_code": "AR",
     "region": "Buenos Aires",
     "region_code": "B",
-    "city": "Berazategui",
-    "latitude": -34.762001,
-    "longitude": -58.2112961,
+    "city": "Avellaneda",
+    "latitude": -34.6610756,
+    "longitude": -58.3669739,
     "is_eu": false,
-    "postal": "B1884 CUG",
+    "postal": "1870",
     "connection": {
-      "asn": 27747,
-      "org": "Telecentro S.A.",
-      "isp": "Telecentro S.A.",
-      "domain": "telecentro.com.ar"
+      "asn": 7303,
+      "org": "Telecom Argentina S.A.",
+      "isp": "Telecom Argentina S.A.",
+      "domain": "telecom.com.ar"
+    }
+  },
+  {
+    "proxy": "http://45.163.248.100:999",
+    "tested_at": "2026-02-14T05:59:29Z",
+    "ip": "200.59.10.50",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "Buenos Aires",
+    "latitude": -34.6036844,
+    "longitude": -58.3815591,
+    "is_eu": false,
+    "postal": "C1405 DJG",
+    "connection": {
+      "asn": 12150,
+      "org": "Clientes Ctlc",
+      "isp": "COTELCAM",
+      "domain": "advantun.com"
+    }
+  },
+  {
+    "proxy": "http://45.224.31.13:999",
+    "tested_at": "2026-02-14T05:59:44Z",
+    "ip": "45.224.29.129",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Chaco",
+    "region_code": "H",
+    "city": "Charata",
+    "latitude": -27.2179902,
+    "longitude": -61.1873617,
+    "is_eu": false,
+    "postal": "3730",
+    "connection": {
+      "asn": 265835,
+      "org": "GODOY LUIS ALBERTO",
+      "isp": "GODOY LUIS ALBERTO",
+      "domain": "pro-data.com.ar"
     }
   }
 ]

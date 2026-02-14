@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://103.66.149.194:8080",
-    "tested_at": "2026-02-14T05:27:52Z",
-    "ip": "160.30.142.33",
+    "proxy": "http://103.253.18.6:8080",
+    "tested_at": "2026-02-14T05:59:00Z",
+    "ip": "103.253.18.6",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,22 +10,45 @@
     "country_code": "PK",
     "region": "Punjab",
     "region_code": "PB",
-    "city": "Jalalpur Jattan",
-    "latitude": 32.6480365,
-    "longitude": 74.2120629,
+    "city": "Faisalabad",
+    "latitude": 31.4187142,
+    "longitude": 73.0791073,
     "is_eu": false,
-    "postal": "",
+    "postal": "38000",
     "connection": {
-      "asn": 142647,
-      "org": "Brain Networks",
-      "isp": "Nasstec Airnet Networks Private Limited",
-      "domain": "brainnetworks.net.pk"
+      "asn": 151983,
+      "org": "Orbit Internet Service Provider Pvt LTD",
+      "isp": "Orbit Internet Service Provider Pvt LTD",
+      "domain": "circuitarea.com"
     }
   },
   {
-    "proxy": "http://110.39.183.34:8080",
-    "tested_at": "2026-02-14T05:28:12Z",
-    "ip": "110.39.183.34",
+    "proxy": "http://103.102.159.64:8082",
+    "tested_at": "2026-02-14T05:59:07Z",
+    "ip": "103.19.48.60",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "region": "Khyber Pakhtunkhwa",
+    "region_code": "KP",
+    "city": "Nowshera",
+    "latitude": 34.0104643,
+    "longitude": 71.9875531,
+    "is_eu": false,
+    "postal": "24100",
+    "connection": {
+      "asn": 150371,
+      "org": "Pace Telecom And Brodcasting Private Limited",
+      "isp": "Pace Telecom And Brodcasting Private Limited",
+      "domain": "pace-tel.com"
+    }
+  },
+  {
+    "proxy": "http://103.115.197.142:3127",
+    "tested_at": "2026-02-14T05:59:14Z",
+    "ip": "103.115.197.142",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,56 +62,33 @@
     "is_eu": false,
     "postal": "54000",
     "connection": {
-      "asn": 38264,
-      "org": "National Wimax ims Environment",
-      "isp": "Wateen Telecom Limited",
-      "domain": "wateen.com"
+      "asn": 152605,
+      "org": "Ambition",
+      "isp": "Z COM NETWORKS",
+      "domain": "ambition.net.pk"
     }
   },
   {
-    "proxy": "http://110.38.226.139:8080",
-    "tested_at": "2026-02-14T05:28:23Z",
-    "ip": "110.38.226.139",
+    "proxy": "http://59.103.34.162:8080",
+    "tested_at": "2026-02-14T05:59:18Z",
+    "ip": "59.103.34.162",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Pakistan",
     "country_code": "PK",
-    "region": "Punjab",
-    "region_code": "PB",
-    "city": "Sahiwal",
-    "latitude": 30.6681998,
-    "longitude": 73.111356,
+    "region": "Islamabad Capital Territory",
+    "region_code": "",
+    "city": "Islamabad",
+    "latitude": 33.7293882,
+    "longitude": 73.0931461,
     "is_eu": false,
-    "postal": "",
+    "postal": "44000",
     "connection": {
-      "asn": 38264,
-      "org": "National Wimax ims Environment",
-      "isp": "Wateen Telecom Limited",
-      "domain": "wateen.com"
-    }
-  },
-  {
-    "proxy": "http://103.198.154.196:8080",
-    "tested_at": "2026-02-14T05:28:26Z",
-    "ip": "103.198.154.196",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Pakistan",
-    "country_code": "PK",
-    "region": "Punjab",
-    "region_code": "PB",
-    "city": "Lahore",
-    "latitude": 31.5546061,
-    "longitude": 74.3571581,
-    "is_eu": false,
-    "postal": "54000",
-    "connection": {
-      "asn": 151330,
-      "org": "PLAY BROADBAND PRIVATE LIMITED",
-      "isp": "PLAY BROADBAND PRIVATE LIMITED",
-      "domain": "pbb.net.pk"
+      "asn": 139820,
+      "org": "Narrowband Hsi Pool for Rawalpindi1",
+      "isp": "HG TELECOMMUNICATION PRIVATE LIMITED",
+      "domain": "ptcl.net.pk"
     }
   }
 ]

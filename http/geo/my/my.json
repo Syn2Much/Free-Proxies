@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://67.43.228.254:9673",
-    "tested_at": "2026-02-14T04:25:21Z",
-    "ip": "210.195.226.200",
+    "proxy": "http://60.54.47.75:8081",
+    "tested_at": "2026-02-14T05:59:17Z",
+    "ip": "60.54.47.75",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,14 +10,14 @@
     "country_code": "MY",
     "region": "Selangor",
     "region_code": "10",
-    "city": "Puchong",
-    "latitude": 3.050629,
-    "longitude": 101.649001,
+    "city": "Cyberjaya",
+    "latitude": 2.921318,
+    "longitude": 101.6559349,
     "is_eu": false,
-    "postal": "47170",
+    "postal": "63200",
     "connection": {
       "asn": 4788,
-      "org": "TMNET",
+      "org": "TM TECHNOLOGY SERVICES SDN BHD",
       "isp": "TM TECHNOLOGY SERVICES SDN BHD",
       "domain": "tm.com.my"
     }

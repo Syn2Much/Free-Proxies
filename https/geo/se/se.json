@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://13.59.113.45:8922",
-    "tested_at": "2026-02-14T05:27:32Z",
-    "ip": "193.189.100.198",
+    "proxy": "https://18.192.100.176:8080",
+    "tested_at": "2026-02-14T05:59:01Z",
+    "ip": "45.84.107.174",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,16 +10,16 @@
     "country_code": "SE",
     "region": "Stockholm County",
     "region_code": "AB",
-    "city": "Stockholm",
-    "latitude": 59.3293235,
-    "longitude": 18.0685808,
+    "city": "Sundbyberg",
+    "latitude": 59.3670471,
+    "longitude": 17.9663093,
     "is_eu": true,
-    "postal": "111 29",
+    "postal": "172 31",
     "connection": {
-      "asn": 41281,
-      "org": "Keff Networks LTD",
-      "isp": "Keff Networks LTD",
-      "domain": "keff.org"
+      "asn": 214503,
+      "org": "R0CKET CLOUD",
+      "isp": "Quxlabs Ab",
+      "domain": "quxlabs.com"
     }
   }
 ]

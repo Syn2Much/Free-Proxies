@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://85.208.200.185:8081",
-    "tested_at": "2026-02-14T05:27:27Z",
-    "ip": "195.36.19.117",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Italy",
-    "country_code": "IT",
-    "region": "Lombardy",
-    "region_code": "25",
-    "city": "Milan",
-    "latitude": 45.4654219,
-    "longitude": 9.1859243,
-    "is_eu": true,
-    "postal": "20122",
-    "connection": {
-      "asn": 44092,
-      "org": "Mywic Customers",
-      "isp": "Hal Service SPA",
-      "domain": "telnetwork.it"
-    }
-  },
-  {
-    "proxy": "http://149.86.206.27:8080",
-    "tested_at": "2026-02-14T05:27:32Z",
-    "ip": "149.86.206.27",
+    "proxy": "http://78.134.20.48:8080",
+    "tested_at": "2026-02-14T05:59:16Z",
+    "ip": "78.134.20.48",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -33,16 +10,39 @@
     "country_code": "IT",
     "region": "Tuscany",
     "region_code": "52",
-    "city": "Pistoia",
-    "latitude": 43.9303475,
-    "longitude": 10.9078587,
+    "city": "Pitigliano",
+    "latitude": 42.6353182,
+    "longitude": 11.6699906,
     "is_eu": true,
-    "postal": "51100",
+    "postal": "58017",
     "connection": {
-      "asn": 60501,
-      "org": "Cogent Communications",
-      "isp": "Sirius Technology SRL",
-      "domain": "siriustec.it"
+      "asn": 35612,
+      "org": "Eolo S.P.A.",
+      "isp": "Eolo S.P.A.",
+      "domain": "eolo.it"
+    }
+  },
+  {
+    "proxy": "http://15.160.134.84:8228",
+    "tested_at": "2026-02-14T05:59:23Z",
+    "ip": "64.190.76.12",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Italy",
+    "country_code": "IT",
+    "region": "Piemont",
+    "region_code": "21",
+    "city": "Turin",
+    "latitude": 45.070312,
+    "longitude": 7.6868565,
+    "is_eu": true,
+    "postal": "10100",
+    "connection": {
+      "asn": 214094,
+      "org": "Davide Silvetti Trading AS association Osservatorio Nessuno Odv",
+      "isp": "Davide Silvetti Trading AS association Osservatorio Nessuno Odv",
+      "domain": "osservatorionessuno.org"
     }
   }
 ]

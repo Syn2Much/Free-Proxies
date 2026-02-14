@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://190.61.118.115:999",
-    "tested_at": "2026-02-14T04:56:18Z",
-    "ip": "190.61.118.116",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Honduras",
-    "country_code": "HN",
-    "region": "Lempira",
-    "region_code": "LE",
-    "city": "Guatemalita",
-    "latitude": 14.1170344,
-    "longitude": -88.5996065,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 52468,
-      "org": "Ufinet Honduras, S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://181.78.44.63:999",
-    "tested_at": "2026-02-14T04:56:40Z",
-    "ip": "181.78.44.63",
+    "proxy": "http://138.0.228.123:8080",
+    "tested_at": "2026-02-14T05:59:09Z",
+    "ip": "138.0.228.185",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -38,29 +15,6 @@
     "longitude": -87.9922684,
     "is_eu": false,
     "postal": "21101",
-    "connection": {
-      "asn": 52468,
-      "org": "Ufinet Honduras, S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://45.182.21.165:999",
-    "tested_at": "2026-02-14T04:56:43Z",
-    "ip": "45.182.21.166",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Honduras",
-    "country_code": "HN",
-    "region": "Santa Bárbara",
-    "region_code": "SB",
-    "city": "Joconal",
-    "latitude": 15.3551122,
-    "longitude": -88.6353495,
-    "is_eu": false,
-    "postal": "",
     "connection": {
       "asn": 263725,
       "org": "MULTICABLE DE HONDURAS",
@@ -69,26 +23,26 @@
     }
   },
   {
-    "proxy": "http://179.49.113.230:999",
-    "tested_at": "2026-02-14T04:56:57Z",
-    "ip": "179.49.113.230",
+    "proxy": "http://38.188.186.47:999",
+    "tested_at": "2026-02-14T05:59:34Z",
+    "ip": "177.10.184.189",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Honduras",
     "country_code": "HN",
-    "region": "Cortés",
-    "region_code": "CR",
-    "city": "San Pedro Sula",
-    "latitude": 15.5149204,
-    "longitude": -87.9922684,
+    "region": "Colón",
+    "region_code": "CL",
+    "city": "Trujillo",
+    "latitude": 15.934297,
+    "longitude": -85.9291815,
     "is_eu": false,
-    "postal": "21101",
+    "postal": "32101",
     "connection": {
-      "asn": 262234,
-      "org": "ASOCIACION DE SERVICIO DE INTERNET S. DE RL.",
-      "isp": "ASOCIACION DE SERVICIO DE INTERNET S. DE RL.",
-      "domain": "asi.hn"
+      "asn": 263725,
+      "org": "MULTICABLE DE HONDURAS",
+      "isp": "MULTICABLE DE HONDURAS",
+      "domain": "multicable.hn"
     }
   }
 ]

@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://138.118.106.237:999",
-    "tested_at": "2026-02-14T05:28:12Z",
-    "ip": "138.118.106.15",
+    "proxy": "http://24.152.53.8:999",
+    "tested_at": "2026-02-14T05:59:19Z",
+    "ip": "24.152.53.3",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Guatemala",
     "country_code": "GT",
-    "region": "Guatemala Department",
-    "region_code": "GU",
-    "city": "Guatemala City",
-    "latitude": 14.6349149,
-    "longitude": -90.5068824,
+    "region": "Jalapa",
+    "region_code": "JA",
+    "city": "Jalapa",
+    "latitude": 14.6325483,
+    "longitude": -89.9930052,
     "is_eu": false,
-    "postal": "01004",
+    "postal": "",
     "connection": {
-      "asn": 263781,
-      "org": "ONNO NETWORKS, SOCIEDAD AN NIMA",
-      "isp": "ONNO NETWORKS, SOCIEDAD AN NIMA",
-      "domain": "onnonetworks.com"
-    }
-  },
-  {
-    "proxy": "http://181.78.49.207:999",
-    "tested_at": "2026-02-14T05:28:24Z",
-    "ip": "181.78.49.207",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "San Marcos",
-    "region_code": "SM",
-    "city": "San Marcos",
-    "latitude": 14.9609782,
-    "longitude": -91.8074586,
-    "is_eu": false,
-    "postal": "12001",
-    "connection": {
-      "asn": 52468,
-      "org": "Ufinet Guatemala S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
+      "asn": 269964,
+      "org": "TV CABLE UNIVERSAL S.A",
+      "isp": "TV CABLE UNIVERSAL S.A",
+      "domain": "vosguatemala.com"
     }
   }
 ]

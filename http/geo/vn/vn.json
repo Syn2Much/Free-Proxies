@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://14.225.71.183:25565",
-    "tested_at": "2026-02-14T05:27:47Z",
-    "ip": "83.97.112.23",
+    "proxy": "http://14.248.84.131:8080",
+    "tested_at": "2026-02-14T05:59:17Z",
+    "ip": "14.248.84.131",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,38 +16,84 @@
     "is_eu": false,
     "postal": "110905",
     "connection": {
-      "asn": 209854,
-      "org": "Cyberzonehub",
-      "isp": "Cyberzone S.A.",
-      "domain": "cyberzonehub.com"
+      "asn": 45899,
+      "org": "Vietnam Posts And Telecommunications Group",
+      "isp": "Vnpt Corp",
+      "domain": "vnpt.com.vn"
     }
   },
   {
-    "proxy": "http://103.17.88.18:8080",
-    "tested_at": "2026-02-14T05:27:51Z",
-    "ip": "103.17.88.18",
+    "proxy": "http://115.78.135.4:3334",
+    "tested_at": "2026-02-14T05:59:31Z",
+    "ip": "115.78.135.4",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Vietnam",
     "country_code": "VN",
-    "region": "Binh Duong province",
-    "region_code": "57",
-    "city": "Thủ Dầu Một",
-    "latitude": 10.9929842,
-    "longitude": 106.6557073,
+    "region": "Ho Chi Minh",
+    "region_code": "SG",
+    "city": "Ho Chi Minh City",
+    "latitude": 10.8230989,
+    "longitude": 106.6296638,
     "is_eu": false,
-    "postal": "",
+    "postal": "708000",
     "connection": {
-      "asn": 45557,
-      "org": "Vietnam Technology And Telecommunication JSC",
-      "isp": "Vietnam Technology And Telecommunication JSC",
-      "domain": "vntt.com.vn"
+      "asn": 7552,
+      "org": "Viettel Group",
+      "isp": "Viettel Group",
+      "domain": "viettel.com.vn"
+    }
+  },
+  {
+    "proxy": "http://27.74.247.173:8080",
+    "tested_at": "2026-02-14T05:59:35Z",
+    "ip": "27.74.247.173",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Ho Chi Minh",
+    "region_code": "SG",
+    "city": "Ho Chi Minh City",
+    "latitude": 10.8230989,
+    "longitude": 106.6296638,
+    "is_eu": false,
+    "postal": "708000",
+    "connection": {
+      "asn": 7552,
+      "org": "Viettel Group",
+      "isp": "Viettel Group",
+      "domain": "viettel.com.vn"
+    }
+  },
+  {
+    "proxy": "http://116.98.57.187:8080",
+    "tested_at": "2026-02-14T05:59:40Z",
+    "ip": "116.98.57.187",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Hanoi",
+    "region_code": "HN",
+    "city": "Hanoi",
+    "latitude": 21.0277644,
+    "longitude": 105.8341598,
+    "is_eu": false,
+    "postal": "110905",
+    "connection": {
+      "asn": 24086,
+      "org": "Viettel Group",
+      "isp": "Viettel Corporation",
+      "domain": "viettel.com.vn"
     }
   },
   {
     "proxy": "http://103.3.246.71:3128",
-    "tested_at": "2026-02-14T05:28:05Z",
+    "tested_at": "2026-02-14T05:59:42Z",
     "ip": "103.3.246.71",
     "success": true,
     "type": "IPv4",
@@ -66,29 +112,6 @@
       "org": "New Vision Trading Co.,ltd",
       "isp": "Bach Kim Network Solutions Join Stock Company",
       "domain": "vdata.vn"
-    }
-  },
-  {
-    "proxy": "http://118.69.186.75:1452",
-    "tested_at": "2026-02-14T05:28:26Z",
-    "ip": "118.69.186.75",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Ho Chi Minh",
-    "region_code": "SG",
-    "city": "Ho Chi Minh City",
-    "latitude": 10.8230989,
-    "longitude": 106.6296638,
-    "is_eu": false,
-    "postal": "708000",
-    "connection": {
-      "asn": 18403,
-      "org": "",
-      "isp": "Vietnam Internet Network Information Center",
-      "domain": ""
     }
   }
 ]

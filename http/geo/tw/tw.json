@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://35.234.17.221:8080",
-    "tested_at": "2026-02-14T05:27:46Z",
-    "ip": "35.234.17.221",
+    "proxy": "http://118.163.13.200:8080",
+    "tested_at": "2026-02-14T05:59:19Z",
+    "ip": "118.163.13.200",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,16 +16,16 @@
     "is_eu": false,
     "postal": "11008",
     "connection": {
-      "asn": 396982,
-      "org": "Google LLC",
-      "isp": "Google LLC",
-      "domain": "google.com"
+      "asn": 3462,
+      "org": "Chunghwa Telecom CO.,LTD.",
+      "isp": "Chunghwa Telecom Co., Ltd.",
+      "domain": "cht.com.tw"
     }
   },
   {
-    "proxy": "http://118.163.13.200:8080",
-    "tested_at": "2026-02-14T05:28:11Z",
-    "ip": "118.163.13.200",
+    "proxy": "http://210.61.216.63:60808",
+    "tested_at": "2026-02-14T05:59:29Z",
+    "ip": "114.45.134.60",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",

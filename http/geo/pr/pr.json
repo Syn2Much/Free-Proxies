@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://192.203.0.166:999",
-    "tested_at": "2026-02-14T05:27:29Z",
-    "ip": "192.203.0.166",
+    "proxy": "http://154.64.215.193:999",
+    "tested_at": "2026-02-14T05:59:05Z",
+    "ip": "23.130.144.12",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,21 +10,21 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "Fajardo",
-    "latitude": 18.3257869,
-    "longitude": -65.6523838,
+    "city": "San Sebastián",
+    "latitude": 18.3327741,
+    "longitude": -66.9958226,
     "is_eu": false,
-    "postal": "00738-4805",
+    "postal": "00685",
     "connection": {
-      "asn": 63393,
-      "org": "BOOM NET",
-      "isp": "BOOM NET",
-      "domain": "boomsolutionspr.com"
+      "asn": 397470,
+      "org": "Antoniol Electronic",
+      "isp": "Antoniol Electronic",
+      "domain": "alenet.co"
     }
   },
   {
     "proxy": "http://192.203.0.250:999",
-    "tested_at": "2026-02-14T05:27:32Z",
+    "tested_at": "2026-02-14T05:59:21Z",
     "ip": "192.203.0.250",
     "success": true,
     "type": "IPv4",
@@ -46,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://23.138.88.96:999",
-    "tested_at": "2026-02-14T05:28:14Z",
-    "ip": "23.138.88.97",
+    "proxy": "http://192.203.0.78:999",
+    "tested_at": "2026-02-14T05:59:34Z",
+    "ip": "192.203.0.78",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -56,16 +56,16 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "Adjuntas",
-    "latitude": 18.1627363,
-    "longitude": -66.7221187,
+    "city": "Yabucoa",
+    "latitude": 18.0505201,
+    "longitude": -65.8793288,
     "is_eu": false,
-    "postal": "00601",
+    "postal": "00767",
     "connection": {
-      "asn": 400354,
-      "org": "ALPHANET CORP",
-      "isp": "ALPHANET CORP",
-      "domain": "alphanetwireless.net"
+      "asn": 63393,
+      "org": "BOOM NET",
+      "isp": "BOOM NET",
+      "domain": "boomsolutionspr.com"
     }
   }
 ]

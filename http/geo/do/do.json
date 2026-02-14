@@ -1,145 +1,7 @@
 [
   {
-    "proxy": "http://190.93.189.142:999",
-    "tested_at": "2026-02-14T05:27:28Z",
-    "ip": "190.93.189.139",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Santiago",
-    "region_code": "25",
-    "city": "Santiago De Los Caballeros",
-    "latitude": 19.4791963,
-    "longitude": -70.6930568,
-    "is_eu": false,
-    "postal": "51000",
-    "connection": {
-      "asn": 269908,
-      "org": "JOSE DIGITAL MEDIA DOMINICANA SRL",
-      "isp": "JOSE DIGITAL MEDIA DOMINICANA SRL",
-      "domain": "jdimax.com"
-    }
-  },
-  {
-    "proxy": "http://38.159.37.173:999",
-    "tested_at": "2026-02-14T05:27:34Z",
-    "ip": "38.159.37.170",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Distrito Nacional",
-    "region_code": "01",
-    "city": "Santo Domingo",
-    "latitude": 18.4860575,
-    "longitude": -69.9312117,
-    "is_eu": false,
-    "postal": "10119",
-    "connection": {
-      "asn": 271965,
-      "org": "Cogent Communications",
-      "isp": "ORBITEK SRL",
-      "domain": "orbiteksrl.com"
-    }
-  },
-  {
-    "proxy": "http://177.52.221.100:999",
-    "tested_at": "2026-02-14T05:27:38Z",
-    "ip": "177.52.221.101",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Santiago",
-    "region_code": "25",
-    "city": "Santiago De Los Caballeros",
-    "latitude": 19.4791963,
-    "longitude": -70.6930568,
-    "is_eu": false,
-    "postal": "51000",
-    "connection": {
-      "asn": 271799,
-      "org": "TELERY NETWORKS, S.R.L",
-      "isp": "TELERY NETWORKS, S.R.L",
-      "domain": "telery.net"
-    }
-  },
-  {
-    "proxy": "http://168.196.124.164:999",
-    "tested_at": "2026-02-14T05:27:38Z",
-    "ip": "168.196.124.162",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Santiago",
-    "region_code": "25",
-    "city": "Santiago De Los Caballeros",
-    "latitude": 19.4791963,
-    "longitude": -70.6930568,
-    "is_eu": false,
-    "postal": "51000",
-    "connection": {
-      "asn": 264821,
-      "org": "COMCAST SRL",
-      "isp": "COMCAST SRL",
-      "domain": "comcast-srl.com"
-    }
-  },
-  {
-    "proxy": "http://170.80.203.45:999",
-    "tested_at": "2026-02-14T05:27:40Z",
-    "ip": "170.80.203.34",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Santiago",
-    "region_code": "25",
-    "city": "Santiago De Los Caballeros",
-    "latitude": 19.4791963,
-    "longitude": -70.6930568,
-    "is_eu": false,
-    "postal": "51000",
-    "connection": {
-      "asn": 271819,
-      "org": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
-      "isp": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
-      "domain": "rgdimax.com"
-    }
-  },
-  {
-    "proxy": "http://38.10.129.178:999",
-    "tested_at": "2026-02-14T05:27:42Z",
-    "ip": "38.10.129.178",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "San Cristóbal",
-    "region_code": "21",
-    "city": "San Cristobal",
-    "latitude": 18.4188797,
-    "longitude": -70.1030668,
-    "is_eu": false,
-    "postal": "91000",
-    "connection": {
-      "asn": 272906,
-      "org": "Cogent Communications",
-      "isp": "LIBERTY TECHNOLOGY SRL",
-      "domain": "libertytechnology.com.do"
-    }
-  },
-  {
     "proxy": "http://38.156.14.34:999",
-    "tested_at": "2026-02-14T05:27:49Z",
+    "tested_at": "2026-02-14T05:58:55Z",
     "ip": "38.156.14.34",
     "success": true,
     "type": "IPv4",
@@ -161,8 +23,8 @@
     }
   },
   {
-    "proxy": "http://170.80.203.40:999",
-    "tested_at": "2026-02-14T05:28:00Z",
+    "proxy": "http://170.80.203.46:999",
+    "tested_at": "2026-02-14T05:59:18Z",
     "ip": "170.80.203.34",
     "success": true,
     "type": "IPv4",
@@ -184,9 +46,32 @@
     }
   },
   {
-    "proxy": "http://38.191.161.187:999",
-    "tested_at": "2026-02-14T05:28:02Z",
-    "ip": "38.191.161.188",
+    "proxy": "http://190.110.35.230:999",
+    "tested_at": "2026-02-14T05:59:21Z",
+    "ip": "168.196.124.138",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Santiago",
+    "region_code": "25",
+    "city": "Santiago De Los Caballeros",
+    "latitude": 19.4791963,
+    "longitude": -70.6930568,
+    "is_eu": false,
+    "postal": "51000",
+    "connection": {
+      "asn": 264821,
+      "org": "COMCAST SRL",
+      "isp": "COMCAST SRL",
+      "domain": "comcast-srl.com"
+    }
+  },
+  {
+    "proxy": "http://38.191.161.178:999",
+    "tested_at": "2026-02-14T05:59:33Z",
+    "ip": "38.191.161.178",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -204,6 +89,29 @@
       "org": "Three Networks S.R.L",
       "isp": "THREE NETWORKS SRL",
       "domain": "threenetworks.net"
+    }
+  },
+  {
+    "proxy": "http://38.188.247.12:999",
+    "tested_at": "2026-02-14T05:59:43Z",
+    "ip": "38.44.17.142",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Monte Plata",
+    "region_code": "29",
+    "city": "Yamasá",
+    "latitude": 18.7727461,
+    "longitude": -70.0250065,
+    "is_eu": false,
+    "postal": "92000",
+    "connection": {
+      "asn": 272083,
+      "org": "Cogent Communications",
+      "isp": "REYNOSO, S.R.L.",
+      "domain": "reynosord.com"
     }
   }
 ]

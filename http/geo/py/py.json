@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://181.94.197.37:8080",
-    "tested_at": "2026-02-14T05:27:59Z",
-    "ip": "181.94.197.37",
+    "proxy": "http://45.177.16.137:999",
+    "tested_at": "2026-02-14T05:59:42Z",
+    "ip": "45.177.16.254",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Paraguay",
     "country_code": "PY",
-    "region": "Central",
-    "region_code": "11",
-    "city": "Fernando De La Mora",
-    "latitude": -25.3252466,
-    "longitude": -57.5476145,
+    "region": "Alto Paraná",
+    "region_code": "10",
+    "city": "Ciudad del Este",
+    "latitude": -25.5085286,
+    "longitude": -54.6753231,
     "is_eu": false,
-    "postal": "",
+    "postal": "7000",
     "connection": {
-      "asn": 27895,
-      "org": "N cleo S.A.",
-      "isp": "N cleo S.A.",
-      "domain": "personal.com.py"
+      "asn": 267885,
+      "org": "Cross Connect Paraguay S.A.",
+      "isp": "MSW S.A.",
+      "domain": "cross.net.py"
     }
   }
 ]

@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "https://149.57.28.10:9443",
-    "tested_at": "2026-02-14T05:27:46Z",
-    "ip": "149.57.28.58",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Richmond Hill",
-    "latitude": 43.8828401,
-    "longitude": -79.4402808,
-    "is_eu": false,
-    "postal": "L4C 3C1",
-    "connection": {
-      "asn": 397540,
-      "org": "Windscribe",
-      "isp": "Windscribe",
-      "domain": "windscribe.com"
-    }
-  },
-  {
-    "proxy": "https://181.215.52.192:9443",
-    "tested_at": "2026-02-14T05:27:46Z",
-    "ip": "181.215.52.199",
+    "proxy": "https://181.215.52.122:9443",
+    "tested_at": "2026-02-14T05:58:52Z",
+    "ip": "181.215.52.129",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -46,9 +23,9 @@
     }
   },
   {
-    "proxy": "https://181.215.52.101:9443",
-    "tested_at": "2026-02-14T05:28:06Z",
-    "ip": "181.215.52.116",
+    "proxy": "https://181.215.52.2:9443",
+    "tested_at": "2026-02-14T05:59:02Z",
+    "ip": "181.215.52.70",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -69,9 +46,9 @@
     }
   },
   {
-    "proxy": "https://149.57.28.9:9443",
-    "tested_at": "2026-02-14T05:28:16Z",
-    "ip": "149.57.28.251",
+    "proxy": "https://181.215.52.6:9443",
+    "tested_at": "2026-02-14T05:59:02Z",
+    "ip": "181.215.52.10",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -79,16 +56,16 @@
     "country_code": "CA",
     "region": "Ontario",
     "region_code": "ON",
-    "city": "Richmond Hill",
-    "latitude": 43.8828401,
-    "longitude": -79.4402808,
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
     "is_eu": false,
-    "postal": "L4C 3C1",
+    "postal": "M5H 2N2",
     "connection": {
       "asn": 397540,
-      "org": "Windscribe",
+      "org": "Private Customer",
       "isp": "Windscribe",
-      "domain": "windscribe.com"
+      "domain": "us.com"
     }
   }
 ]

@@ -1,10 +1,10 @@
 [
   {
     "proxy": "http://37.187.109.70:10111",
-    "tested_at": "2026-02-14T05:27:25Z",
-    "ip": "37.187.109.70",
+    "tested_at": "2026-02-14T05:58:53Z",
+    "ip": "2001:41d0:a:6246::1",
     "success": true,
-    "type": "IPv4",
+    "type": "IPv6",
     "continent": "Europe",
     "country": "France",
     "country_code": "FR",
@@ -17,15 +17,15 @@
     "postal": "59100",
     "connection": {
       "asn": 16276,
-      "org": "OVH SAS",
+      "org": "OVH",
       "isp": "OVH SAS",
       "domain": "ovh.net"
     }
   },
   {
-    "proxy": "http://141.253.112.177:3154",
-    "tested_at": "2026-02-14T05:27:26Z",
-    "ip": "141.145.192.80",
+    "proxy": "http://13.126.187.20:1080",
+    "tested_at": "2026-02-14T05:59:03Z",
+    "ip": "185.156.72.7",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,16 +39,62 @@
     "is_eu": true,
     "postal": "75007",
     "connection": {
-      "asn": 31898,
-      "org": "Oracle Svenska Ab",
-      "isp": "Oracle Corporation",
-      "domain": "oracle.com"
+      "asn": 215540,
+      "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "domain": "globconnex.com"
     }
   },
   {
-    "proxy": "http://178.170.43.106:8081",
-    "tested_at": "2026-02-14T05:27:27Z",
-    "ip": "178.170.43.106",
+    "proxy": "http://173.212.246.157:3128",
+    "tested_at": "2026-02-14T05:59:07Z",
+    "ip": "173.212.246.157",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Grand Est",
+    "region_code": "GES",
+    "city": "Lauterbourg",
+    "latitude": 48.974797,
+    "longitude": 8.176773,
+    "is_eu": true,
+    "postal": "67630",
+    "connection": {
+      "asn": 51167,
+      "org": "Contabo GmbH",
+      "isp": "Contabo GmbH",
+      "domain": "contabo.de"
+    }
+  },
+  {
+    "proxy": "http://62.133.62.12:1082",
+    "tested_at": "2026-02-14T05:59:18Z",
+    "ip": "62.133.62.12",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "is_eu": true,
+    "postal": "75007",
+    "connection": {
+      "asn": 215540,
+      "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "domain": "gir.network"
+    }
+  },
+  {
+    "proxy": "http://178.170.43.129:8082",
+    "tested_at": "2026-02-14T05:59:18Z",
+    "ip": "178.170.43.129",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -69,9 +115,55 @@
     }
   },
   {
-    "proxy": "http://173.212.246.157:3128",
-    "tested_at": "2026-02-14T05:27:59Z",
-    "ip": "173.212.246.157",
+    "proxy": "http://192.214.193.136:8080",
+    "tested_at": "2026-02-14T05:59:24Z",
+    "ip": "192.214.193.136",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "is_eu": true,
+    "postal": "75007",
+    "connection": {
+      "asn": 16347,
+      "org": "FTTx xDSL unyc",
+      "isp": "ADISTA SAS",
+      "domain": "unyc.io"
+    }
+  },
+  {
+    "proxy": "http://62.133.62.12:1081",
+    "tested_at": "2026-02-14T05:59:32Z",
+    "ip": "62.133.62.12",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "is_eu": true,
+    "postal": "75007",
+    "connection": {
+      "asn": 215540,
+      "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "domain": "gir.network"
+    }
+  },
+  {
+    "proxy": "http://62.171.161.88:2018",
+    "tested_at": "2026-02-14T05:59:46Z",
+    "ip": "62.171.161.88",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
