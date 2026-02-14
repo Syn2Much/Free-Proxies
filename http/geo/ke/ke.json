@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://197.248.37.31:8104",
-    "tested_at": "2026-02-14T11:43:20Z",
-    "ip": "197.248.37.31",
+    "proxy": "http://102.216.85.17:8080",
+    "tested_at": "2026-02-14T12:14:54Z",
+    "ip": "102.216.85.17",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -11,20 +11,20 @@
     "region": "Nairobi",
     "region_code": "110",
     "city": "Nairobi",
-    "latitude": -1.2920659,
-    "longitude": 36.8219462,
+    "latitude": -1.3237958,
+    "longitude": 36.8808553,
     "is_eu": false,
     "postal": "200",
     "connection": {
-      "asn": 37061,
-      "org": "Safaricom Limited",
-      "isp": "Safaricom Limited",
-      "domain": ""
+      "asn": 329044,
+      "org": "Surf Net Solutions Limited",
+      "isp": "Surf Net Solutions Limited",
+      "domain": "surfnetsolution.com"
     }
   },
   {
     "proxy": "http://154.159.247.119:8080",
-    "tested_at": "2026-02-14T11:43:20Z",
+    "tested_at": "2026-02-14T12:15:13Z",
     "ip": "154.159.247.119",
     "success": true,
     "type": "IPv4",
@@ -43,75 +43,6 @@
       "org": "",
       "isp": "Airtel KE Mobile Fixed Internet",
       "domain": ""
-    }
-  },
-  {
-    "proxy": "http://197.232.25.204:8080",
-    "tested_at": "2026-02-14T11:43:22Z",
-    "ip": "197.232.25.204",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Nairobi",
-    "region_code": "110",
-    "city": "Nairobi",
-    "latitude": -1.2920659,
-    "longitude": 36.8219462,
-    "is_eu": false,
-    "postal": "200",
-    "connection": {
-      "asn": 36866,
-      "org": "Faiba Enterprise",
-      "isp": "Jamii Telecommunications Limited",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://102.68.78.19:8080",
-    "tested_at": "2026-02-14T11:43:54Z",
-    "ip": "102.68.79.203",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Kisumu",
-    "region_code": "17",
-    "city": "Kisumu",
-    "latitude": -0.0917016,
-    "longitude": 34.7679568,
-    "is_eu": false,
-    "postal": "40100",
-    "connection": {
-      "asn": 328490,
-      "org": "Unwired Communications LTD",
-      "isp": "Unwired Communications Limited",
-      "domain": "unwired.co.ke"
-    }
-  },
-  {
-    "proxy": "http://197.155.64.226:8090",
-    "tested_at": "2026-02-14T11:44:00Z",
-    "ip": "197.155.64.226",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Nairobi",
-    "region_code": "110",
-    "city": "Nairobi",
-    "latitude": -1.2920659,
-    "longitude": 36.8219462,
-    "is_eu": false,
-    "postal": "200",
-    "connection": {
-      "asn": 30844,
-      "org": "Pioneer Hi Bred",
-      "isp": "Liquid Telecommunications LTD",
-      "domain": "liquidtelecom.mu"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://103.115.197.142:3127",
-    "tested_at": "2026-02-14T11:44:05Z",
-    "ip": "103.115.197.142",
+    "proxy": "http://202.69.38.82:8080",
+    "tested_at": "2026-02-14T12:14:56Z",
+    "ip": "202.69.38.82",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "54000",
     "connection": {
-      "asn": 152605,
-      "org": "Ambition",
-      "isp": "Z COM NETWORKS",
-      "domain": "ambition.net.pk"
+      "asn": 23750,
+      "org": "Gerrys Information Technology pvt LTD",
+      "isp": "Gerrys Information Technology pvt LTD",
+      "domain": "gerrys.net"
     }
   }
 ]

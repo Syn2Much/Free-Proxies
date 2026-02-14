@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://188.130.160.209:80",
-    "tested_at": "2026-02-14T11:43:38Z",
-    "ip": "188.130.160.209",
+    "proxy": "http://94.141.241.102:81",
+    "tested_at": "2026-02-14T12:14:48Z",
+    "ip": "94.141.241.102",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Kazakhstan",
     "country_code": "KZ",
-    "region": "Karaganda Region",
-    "region_code": "KAR",
-    "city": "Karagandy",
-    "latitude": 49.8046835,
-    "longitude": 73.1093826,
+    "region": "East Kazakhstan Region",
+    "region_code": "VOS",
+    "city": "Semey",
+    "latitude": 50.4233463,
+    "longitude": 80.250811,
     "is_eu": false,
-    "postal": "100000",
+    "postal": "070000",
     "connection": {
-      "asn": 203087,
-      "org": "Pe Fedinyak Sergey Vyacheslavovich",
-      "isp": "Pe Fedinyak Sergey Vyacheslavovich",
-      "domain": "gohost.kz"
+      "asn": 41798,
+      "org": "JSC Transtelecom",
+      "isp": "JSC Transtelecom",
+      "domain": "ttc.kz"
     }
   }
 ]

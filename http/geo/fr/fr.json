@@ -1,99 +1,7 @@
 [
   {
-    "proxy": "http://62.133.62.12:1082",
-    "tested_at": "2026-02-14T11:43:16Z",
-    "ip": "62.133.62.12",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 215540,
-      "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
-      "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
-      "domain": "gir.network"
-    }
-  },
-  {
-    "proxy": "http://13.126.187.20:1080",
-    "tested_at": "2026-02-14T11:43:18Z",
-    "ip": "185.235.146.29",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 39405,
-      "org": "HUMANS CONNEXION SARL",
-      "isp": "Eurofiber France SAS",
-      "domain": "humansconnexion.com"
-    }
-  },
-  {
-    "proxy": "http://173.212.215.22:3128",
-    "tested_at": "2026-02-14T11:43:25Z",
-    "ip": "173.212.215.22",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Grand Est",
-    "region_code": "GES",
-    "city": "Lauterbourg",
-    "latitude": 48.974797,
-    "longitude": 8.176773,
-    "is_eu": true,
-    "postal": "67630",
-    "connection": {
-      "asn": 51167,
-      "org": "Contabo GmbH",
-      "isp": "Contabo GmbH",
-      "domain": "contabo.de"
-    }
-  },
-  {
-    "proxy": "http://92.119.126.229:8118",
-    "tested_at": "2026-02-14T11:43:26Z",
-    "ip": "92.119.126.229",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Grand Est",
-    "region_code": "GES",
-    "city": "Strasbourg",
-    "latitude": 48.5734053,
-    "longitude": 7.7521113,
-    "is_eu": true,
-    "postal": "67000",
-    "connection": {
-      "asn": 29066,
-      "org": "Racknerd LLC",
-      "isp": "Velia.net Internetdienste GmbH",
-      "domain": "racknerd.com"
-    }
-  },
-  {
     "proxy": "http://173.212.246.157:3128",
-    "tested_at": "2026-02-14T11:43:27Z",
+    "tested_at": "2026-02-14T12:14:51Z",
     "ip": "173.212.246.157",
     "success": true,
     "type": "IPv4",
@@ -115,32 +23,32 @@
     }
   },
   {
-    "proxy": "http://51.68.10.90:80",
-    "tested_at": "2026-02-14T11:43:30Z",
-    "ip": "54.36.60.178",
+    "proxy": "http://161.97.131.23:8899",
+    "tested_at": "2026-02-14T12:14:52Z",
+    "ip": "161.97.131.23",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "France",
     "country_code": "FR",
-    "region": "Hauts-de-France",
-    "region_code": "HDF",
-    "city": "Roubaix",
-    "latitude": 50.6927049,
-    "longitude": 3.177847,
+    "region": "Grand Est",
+    "region_code": "GES",
+    "city": "Lauterbourg",
+    "latitude": 48.974797,
+    "longitude": 8.176773,
     "is_eu": true,
-    "postal": "59100",
+    "postal": "67630",
     "connection": {
-      "asn": 16276,
-      "org": "OVH Sp. Z O. O.",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
+      "asn": 51167,
+      "org": "Contabo GmbH",
+      "isp": "Contabo GmbH",
+      "domain": "contabo.de"
     }
   },
   {
-    "proxy": "http://90.84.188.97:8000",
-    "tested_at": "2026-02-14T11:43:46Z",
-    "ip": "90.84.188.97",
+    "proxy": "http://72.10.160.90:11509",
+    "tested_at": "2026-02-14T12:15:03Z",
+    "ip": "82.64.247.132",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -148,22 +56,22 @@
     "country_code": "FR",
     "region": "Île-de-France",
     "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
+    "city": "Rosny-sous-Bois",
+    "latitude": 48.875661,
+    "longitude": 2.485932,
     "is_eu": true,
-    "postal": "75007",
+    "postal": "93110",
     "connection": {
-      "asn": 2280,
-      "org": "OBS OCB HONEY",
-      "isp": "Orange S.A.",
-      "domain": "orange.com"
+      "asn": 12322,
+      "org": "Free SAS",
+      "isp": "Free SAS",
+      "domain": "free.fr"
     }
   },
   {
-    "proxy": "http://91.121.63.51:1080",
-    "tested_at": "2026-02-14T11:43:48Z",
-    "ip": "91.121.63.51",
+    "proxy": "http://51.91.76.186:8080",
+    "tested_at": "2026-02-14T12:15:05Z",
+    "ip": "51.91.76.186",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -184,9 +92,32 @@
     }
   },
   {
-    "proxy": "http://141.253.110.62:3236",
-    "tested_at": "2026-02-14T11:43:50Z",
-    "ip": "89.168.52.255",
+    "proxy": "http://176.31.197.192:8080",
+    "tested_at": "2026-02-14T12:15:05Z",
+    "ip": "51.91.76.186",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Hauts-de-France",
+    "region_code": "HDF",
+    "city": "Roubaix",
+    "latitude": 50.6927049,
+    "longitude": 3.177847,
+    "is_eu": true,
+    "postal": "59100",
+    "connection": {
+      "asn": 16276,
+      "org": "OVH SAS",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
+    }
+  },
+  {
+    "proxy": "http://62.133.62.12:1082",
+    "tested_at": "2026-02-14T12:15:11Z",
+    "ip": "62.133.62.12",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -200,33 +131,10 @@
     "is_eu": true,
     "postal": "75007",
     "connection": {
-      "asn": 31898,
-      "org": "Oracle Svenska Ab",
-      "isp": "Oracle Corporation",
-      "domain": "oracle.com"
-    }
-  },
-  {
-    "proxy": "http://185.41.152.110:3128",
-    "tested_at": "2026-02-14T11:43:57Z",
-    "ip": "185.41.152.110",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Grand Est",
-    "region_code": "GES",
-    "city": "Marly",
-    "latitude": 49.059828,
-    "longitude": 6.154795,
-    "is_eu": true,
-    "postal": "57155",
-    "connection": {
-      "asn": 197922,
-      "org": "FIRSTHEBERG",
-      "isp": "Techcrea Solutions SAS",
-      "domain": "techcrea.fr"
+      "asn": 215540,
+      "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "domain": "gir.network"
     }
   }
 ]

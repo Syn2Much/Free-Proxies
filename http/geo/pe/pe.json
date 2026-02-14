@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://38.172.131.203:999",
-    "tested_at": "2026-02-14T11:43:24Z",
-    "ip": "38.172.131.117",
+    "proxy": "http://38.172.128.174:8889",
+    "tested_at": "2026-02-14T12:14:49Z",
+    "ip": "38.172.128.174",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -23,9 +23,32 @@
     }
   },
   {
-    "proxy": "http://38.158.83.241:999",
-    "tested_at": "2026-02-14T11:43:45Z",
-    "ip": "38.158.82.98",
+    "proxy": "http://170.81.241.226:999",
+    "tested_at": "2026-02-14T12:14:59Z",
+    "ip": "170.81.241.226",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Lambayeque",
+    "region_code": "LAM",
+    "city": "Chiclayo",
+    "latitude": -6.7765974,
+    "longitude": -79.8442978,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 269803,
+      "org": "INVENTA TELECOMUNICACIONES EIRL",
+      "isp": "INVENTA TELECOMUNICACIONES EIRL",
+      "domain": "inventa.pe"
+    }
+  },
+  {
+    "proxy": "http://38.187.22.229:8080",
+    "tested_at": "2026-02-14T12:15:07Z",
+    "ip": "38.187.22.229",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -33,62 +56,16 @@
     "country_code": "PE",
     "region": "Arequipa",
     "region_code": "ARE",
-    "city": "Arequipa",
-    "latitude": -16.4090474,
-    "longitude": -71.537451,
+    "city": "Cerro Colorado",
+    "latitude": -16.3796403,
+    "longitude": -71.5689523,
     "is_eu": false,
-    "postal": "04001",
+    "postal": "04014",
     "connection": {
-      "asn": 272838,
-      "org": "Cogent Communications",
-      "isp": "FIBERRED SAC",
-      "domain": "fiberred.pe"
-    }
-  },
-  {
-    "proxy": "http://45.189.117.72:999",
-    "tested_at": "2026-02-14T11:43:51Z",
-    "ip": "38.172.131.117",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Lima",
-    "region_code": "LIM",
-    "city": "Lima District",
-    "latitude": -12.046374,
-    "longitude": -77.0427934,
-    "is_eu": false,
-    "postal": "15081",
-    "connection": {
-      "asn": 273133,
-      "org": "Cogent Communications",
-      "isp": "CONEX TV E.I.R.L.",
-      "domain": "conextv.pe"
-    }
-  },
-  {
-    "proxy": "http://138.99.176.101:999",
-    "tested_at": "2026-02-14T11:44:10Z",
-    "ip": "138.99.176.6",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Lima",
-    "region_code": "LIM",
-    "city": "Comas",
-    "latitude": -11.9299805,
-    "longitude": -77.053541,
-    "is_eu": false,
-    "postal": "15314",
-    "connection": {
-      "asn": 273110,
-      "org": "PIT",
-      "isp": "NETWIN S.A.C",
-      "domain": "netwin.pe"
+      "asn": 271814,
+      "org": "NEXTNET S.A.C",
+      "isp": "NEXTNET SAC",
+      "domain": "nextnet.com.pe"
     }
   }
 ]

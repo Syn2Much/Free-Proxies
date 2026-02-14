@@ -1,7 +1,53 @@
 [
   {
+    "proxy": "http://93.118.140.224:8090",
+    "tested_at": "2026-02-14T12:14:55Z",
+    "ip": "93.118.140.224",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iran",
+    "country_code": "IR",
+    "region": "Tehran Province",
+    "region_code": "23",
+    "city": "Tehran",
+    "latitude": 35.6891975,
+    "longitude": 51.3889736,
+    "is_eu": false,
+    "postal": "1317947564",
+    "connection": {
+      "asn": 58224,
+      "org": "Telecommunication Company of Tehran",
+      "isp": "Iran Telecommunication Company Pjs",
+      "domain": "tci.ir"
+    }
+  },
+  {
+    "proxy": "http://217.219.173.237:8080",
+    "tested_at": "2026-02-14T12:15:03Z",
+    "ip": "217.219.173.237",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iran",
+    "country_code": "IR",
+    "region": "Mazandaran Province",
+    "region_code": "02",
+    "city": "Qaemshahr",
+    "latitude": 36.4683746,
+    "longitude": 52.8634197,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 58224,
+      "org": "MAZANDARAN TELECOMMUNICATION COMPANY",
+      "isp": "Iran Telecommunication Company Pjs",
+      "domain": "dci.co.ir"
+    }
+  },
+  {
     "proxy": "http://46.209.30.11:8080",
-    "tested_at": "2026-02-14T11:43:55Z",
+    "tested_at": "2026-02-14T12:15:32Z",
     "ip": "46.209.30.11",
     "success": true,
     "type": "IPv4",

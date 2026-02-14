@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://195.178.56.32:8080",
-    "tested_at": "2026-02-14T10:10:14Z",
-    "ip": "195.178.33.86",
+    "proxy": "http://77.46.138.38:8080",
+    "tested_at": "2026-02-14T12:15:31Z",
+    "ip": "77.46.138.38",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,14 +10,14 @@
     "country_code": "RS",
     "region": "Central Serbia",
     "region_code": "",
-    "city": "Belgrade",
-    "latitude": 44.786568,
-    "longitude": 20.4489216,
+    "city": "Žujince",
+    "latitude": 42.3194967,
+    "longitude": 21.7078073,
     "is_eu": false,
-    "postal": "11000",
+    "postal": "17523",
     "connection": {
       "asn": 8400,
-      "org": "TELEKOM SRBIJA",
+      "org": "Telekom Srbija A.D.",
       "isp": "Telekom Srbija A.D.",
       "domain": "telekom.rs"
     }

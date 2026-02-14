@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://23.138.88.96:999",
-    "tested_at": "2026-02-14T11:43:24Z",
-    "ip": "23.138.88.97",
+    "proxy": "http://23.143.160.193:999",
+    "tested_at": "2026-02-14T12:14:49Z",
+    "ip": "23.143.160.21",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,39 +10,16 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "Adjuntas",
-    "latitude": 18.1627363,
-    "longitude": -66.7221187,
+    "city": "Ponce",
+    "latitude": 18.0110768,
+    "longitude": -66.6140616,
     "is_eu": false,
-    "postal": "00601",
+    "postal": "00733-1910",
     "connection": {
-      "asn": 400354,
-      "org": "ALPHANET CORP",
-      "isp": "ALPHANET CORP",
-      "domain": "alphanetwireless.net"
-    }
-  },
-  {
-    "proxy": "http://192.203.0.70:999",
-    "tested_at": "2026-02-14T11:43:38Z",
-    "ip": "192.203.0.70",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Puerto Rico",
-    "country_code": "PR",
-    "region": "Puerto Rico",
-    "region_code": "PR",
-    "city": "Yabucoa",
-    "latitude": 18.0505201,
-    "longitude": -65.8793288,
-    "is_eu": false,
-    "postal": "00767",
-    "connection": {
-      "asn": 63393,
-      "org": "BOOM NET",
-      "isp": "BOOM NET",
-      "domain": "boomsolutionspr.com"
+      "asn": 14534,
+      "org": "UNONET CORP",
+      "isp": "UNONET CORP",
+      "domain": "myunonet.net"
     }
   }
 ]

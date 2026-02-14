@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://31.134.120.124:1214",
-    "tested_at": "2026-02-14T11:43:19Z",
-    "ip": "31.134.120.124",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Kyiv city",
-    "region_code": "30",
-    "city": "Kyiv",
-    "latitude": 50.4501,
-    "longitude": 30.5234,
-    "is_eu": false,
-    "postal": "01001",
-    "connection": {
-      "asn": 56668,
-      "org": "Fop Demchuk Sergiy Olexandrovuch",
-      "isp": "Fop Demchuk Sergiy Olexandrovuch",
-      "domain": "simnet.kiev.ua"
-    }
-  },
-  {
     "proxy": "http://91.238.104.171:2023",
-    "tested_at": "2026-02-14T11:43:50Z",
+    "tested_at": "2026-02-14T12:14:53Z",
     "ip": "91.238.104.171",
     "success": true,
     "type": "IPv4",
@@ -43,6 +20,75 @@
       "org": "Fop Reznichenko Sergey Mykolayovich",
       "isp": "Fop Reznichenko Sergey Mykolayovich",
       "domain": "bytes.ua"
+    }
+  },
+  {
+    "proxy": "http://178.165.42.166:3128",
+    "tested_at": "2026-02-14T12:14:55Z",
+    "ip": "178.165.42.166",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Kharkiv Oblast",
+    "region_code": "63",
+    "city": "Kharkiv",
+    "latitude": 49.9935,
+    "longitude": 36.230383,
+    "is_eu": false,
+    "postal": "61003",
+    "connection": {
+      "asn": 34700,
+      "org": "Maxnet Ltd., Kharkiv",
+      "isp": "MAXNET TELECOM, LTD",
+      "domain": "maxnet.ua"
+    }
+  },
+  {
+    "proxy": "http://188.163.170.130:41209",
+    "tested_at": "2026-02-14T12:15:24Z",
+    "ip": "188.163.170.130",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Lviv Oblast",
+    "region_code": "46",
+    "city": "Lviv",
+    "latitude": 49.839683,
+    "longitude": 24.029717,
+    "is_eu": false,
+    "postal": "79008",
+    "connection": {
+      "asn": 15895,
+      "org": "Golden Telecom LLC",
+      "isp": "Kyivstar Pjsc",
+      "domain": "kyivstar.net"
+    }
+  },
+  {
+    "proxy": "http://178.251.111.28:8080",
+    "tested_at": "2026-02-14T12:15:32Z",
+    "ip": "178.251.111.18",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Sumy Oblast",
+    "region_code": "59",
+    "city": "Konotop",
+    "latitude": 51.2409432,
+    "longitude": 33.2050521,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 35297,
+      "org": "Dataline LLC",
+      "isp": "Dataline LLC",
+      "domain": "dataline.ua"
     }
   }
 ]

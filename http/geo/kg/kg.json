@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://77.235.31.24:8080",
+    "tested_at": "2026-02-14T12:15:18Z",
+    "ip": "77.235.31.24",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Kyrgyzstan",
+    "country_code": "KG",
+    "region": "Chuy Province",
+    "region_code": "C",
+    "city": "Bishkek",
+    "latitude": 42.8746212,
+    "longitude": 74.5697617,
+    "is_eu": false,
+    "postal": "720040",
+    "connection": {
+      "asn": 41750,
+      "org": "PPPoE",
+      "isp": "Mega line Ltd.",
+      "domain": "mega.kg"
+    }
+  }
+]
