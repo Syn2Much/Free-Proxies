@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://213.169.33.7:8001",
-    "tested_at": "2026-02-14T19:59:39Z",
-    "ip": "213.169.33.7",
+    "proxy": "http://94.155.175.135:8080",
+    "tested_at": "2026-02-14T21:32:57Z",
+    "ip": "94.155.175.135",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Bulgaria",
     "country_code": "BG",
-    "region": "Sofia-city",
-    "region_code": "",
-    "city": "Sofia",
-    "latitude": 42.6977082,
-    "longitude": 23.3218675,
+    "region": "Stara Zagora",
+    "region_code": "24",
+    "city": "Stara Zagora",
+    "latitude": 42.4257769,
+    "longitude": 25.6344644,
     "is_eu": true,
-    "postal": "1000",
+    "postal": "6002",
     "connection": {
-      "asn": 8717,
-      "org": "A1 Bulgaria Ead",
-      "isp": "A1 Bulgaria Ead",
-      "domain": "a1.bg"
+      "asn": 62386,
+      "org": "OMEGA TRADE 1 OOD",
+      "isp": "Bulgarian Telecommunication Group Eood",
+      "domain": "utelecom.com.ua"
     }
   }
 ]

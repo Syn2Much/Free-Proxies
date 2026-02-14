@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://190.61.48.2:999",
-    "tested_at": "2026-02-14T21:01:44Z",
-    "ip": "190.61.48.1",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Honduras",
-    "country_code": "HN",
-    "region": "Lempira",
-    "region_code": "LE",
-    "city": "Erandique",
-    "latitude": 14.2376109,
-    "longitude": -88.4670322,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 52468,
-      "org": "Ufinet Honduras, S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
     "proxy": "http://72.10.160.171:1835",
-    "tested_at": "2026-02-14T21:01:49Z",
+    "tested_at": "2026-02-14T21:32:54Z",
     "ip": "138.59.177.250",
     "success": true,
     "type": "IPv4",
@@ -43,29 +20,6 @@
       "org": "Inet S De Rl",
       "isp": "Inet Communication",
       "domain": "inethn.com"
-    }
-  },
-  {
-    "proxy": "http://138.0.228.120:8080",
-    "tested_at": "2026-02-14T21:01:55Z",
-    "ip": "138.0.228.185",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Honduras",
-    "country_code": "HN",
-    "region": "Cortés",
-    "region_code": "CR",
-    "city": "San Pedro Sula",
-    "latitude": 15.5149204,
-    "longitude": -87.9922684,
-    "is_eu": false,
-    "postal": "21101",
-    "connection": {
-      "asn": 263725,
-      "org": "MULTICABLE DE HONDURAS",
-      "isp": "MULTICABLE DE HONDURAS",
-      "domain": "multicable.hn"
     }
   }
 ]

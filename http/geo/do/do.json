@@ -1,53 +1,30 @@
 [
   {
-    "proxy": "http://38.159.232.108:999",
-    "tested_at": "2026-02-14T21:01:32Z",
-    "ip": "24.152.49.188",
+    "proxy": "http://38.52.222.227:999",
+    "tested_at": "2026-02-14T21:33:05Z",
+    "ip": "38.52.222.229",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Dominican Republic",
     "country_code": "DO",
-    "region": "La Vega",
-    "region_code": "13",
-    "city": "La Vega",
-    "latitude": 19.2152609,
-    "longitude": -70.5205436,
+    "region": "Distrito Nacional",
+    "region_code": "01",
+    "city": "Santo Domingo",
+    "latitude": 18.4860575,
+    "longitude": -69.9312117,
     "is_eu": false,
-    "postal": "41000",
+    "postal": "10119",
     "connection": {
-      "asn": 269965,
-      "org": "LIGHTWAVE S.R.L",
-      "isp": "LIGHTWAVE S.R.L",
-      "domain": "lightwave.com.do"
-    }
-  },
-  {
-    "proxy": "http://190.110.35.229:999",
-    "tested_at": "2026-02-14T21:01:33Z",
-    "ip": "168.196.124.138",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Santiago",
-    "region_code": "25",
-    "city": "Santiago De Los Caballeros",
-    "latitude": 19.4791963,
-    "longitude": -70.6930568,
-    "is_eu": false,
-    "postal": "51000",
-    "connection": {
-      "asn": 264821,
-      "org": "COMCAST SRL",
-      "isp": "COMCAST SRL",
-      "domain": "comcast-srl.com"
+      "asn": 272112,
+      "org": "Cogent Communications",
+      "isp": "TELECABLE DOMINICANO, S.A.",
+      "domain": "telecabledominicano.com.do"
     }
   },
   {
     "proxy": "http://72.10.160.90:21595",
-    "tested_at": "2026-02-14T21:02:10Z",
+    "tested_at": "2026-02-14T21:33:06Z",
     "ip": "186.120.96.251",
     "success": true,
     "type": "IPv4",
@@ -66,6 +43,75 @@
       "org": "PHARMA CALL CENTER",
       "isp": "ALTICE DOMINICANA S.A.",
       "domain": "altice.com.do"
+    }
+  },
+  {
+    "proxy": "http://217.76.245.24:999",
+    "tested_at": "2026-02-14T21:33:09Z",
+    "ip": "217.76.245.25",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Santiago",
+    "region_code": "25",
+    "city": "Santiago De Los Caballeros",
+    "latitude": 19.4791963,
+    "longitude": -70.6930568,
+    "is_eu": false,
+    "postal": "51000",
+    "connection": {
+      "asn": 271968,
+      "org": "CEMO",
+      "isp": "CENTRIC MOBILITY CEMO , S.R.L",
+      "domain": "cemo.com.do"
+    }
+  },
+  {
+    "proxy": "http://200.26.187.146:999",
+    "tested_at": "2026-02-14T21:33:19Z",
+    "ip": "38.196.221.248",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Monte Plata",
+    "region_code": "29",
+    "city": "Los Botados",
+    "latitude": 18.7389138,
+    "longitude": -70.0011868,
+    "is_eu": false,
+    "postal": "92000",
+    "connection": {
+      "asn": 273217,
+      "org": "Alcome Tech Srl.",
+      "isp": "ACOLME TECH, SRL",
+      "domain": "alcom.ax"
+    }
+  },
+  {
+    "proxy": "http://170.80.203.46:999",
+    "tested_at": "2026-02-14T21:33:40Z",
+    "ip": "170.80.203.34",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Santiago",
+    "region_code": "25",
+    "city": "Santiago De Los Caballeros",
+    "latitude": 19.4791963,
+    "longitude": -70.6930568,
+    "is_eu": false,
+    "postal": "51000",
+    "connection": {
+      "asn": 271819,
+      "org": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
+      "isp": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
+      "domain": "rgdimax.com"
     }
   }
 ]

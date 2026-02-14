@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://94.136.143.92:8888",
-    "tested_at": "2026-02-14T14:51:31Z",
-    "ip": "94.136.143.92",
+    "proxy": "http://91.217.33.161:8080",
+    "tested_at": "2026-02-14T21:33:25Z",
+    "ip": "185.69.107.246",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Slovak Republic",
     "country_code": "SK",
-    "region": "Košice",
+    "region": "Trnava",
     "region_code": "",
-    "city": "Michalovce",
-    "latitude": 48.7556769,
-    "longitude": 21.9183859,
+    "city": "Trnava",
+    "latitude": 48.3709108,
+    "longitude": 17.5833218,
     "is_eu": true,
-    "postal": "071 01",
+    "postal": "917 01",
     "connection": {
-      "asn": 39574,
-      "org": "Minet S.R.O.",
-      "isp": "Minet Slovakia S.R.O.",
-      "domain": "minet.sk"
+      "asn": 201603,
+      "org": "AIRNET SK",
+      "isp": "Airnet S.R.O.",
+      "domain": "airnet.sk"
     }
   }
 ]

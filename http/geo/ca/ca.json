@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://85.208.108.43:10808",
-    "tested_at": "2026-02-14T21:01:55Z",
+    "tested_at": "2026-02-14T21:32:43Z",
     "ip": "85.208.108.43",
     "success": true,
     "type": "IPv4",
@@ -23,8 +23,31 @@
     }
   },
   {
+    "proxy": "http://85.236.191.180:1080",
+    "tested_at": "2026-02-14T21:32:53Z",
+    "ip": "146.19.106.154",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
+    "is_eu": false,
+    "postal": "M5H 2N2",
+    "connection": {
+      "asn": 53363,
+      "org": "Worktitans B.V.",
+      "isp": "TANGRAM CANADA INC.",
+      "domain": "dgtl.tech"
+    }
+  },
+  {
     "proxy": "http://85.208.108.43:2094",
-    "tested_at": "2026-02-14T21:01:59Z",
+    "tested_at": "2026-02-14T21:33:03Z",
     "ip": "85.208.108.43",
     "success": true,
     "type": "IPv4",
@@ -47,7 +70,7 @@
   },
   {
     "proxy": "http://143.198.37.6:8888",
-    "tested_at": "2026-02-14T21:02:07Z",
+    "tested_at": "2026-02-14T21:33:29Z",
     "ip": "178.249.214.14",
     "success": true,
     "type": "IPv4",

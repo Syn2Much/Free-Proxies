@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://186.67.74.52:3128",
-    "tested_at": "2026-02-14T21:01:30Z",
-    "ip": "186.67.74.52",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
-    "is_eu": false,
-    "postal": "832 0202",
-    "connection": {
-      "asn": 27651,
-      "org": "Servicio Nacional De Aduanas De Chile",
-      "isp": "ENTEL CHILE S.A.",
-      "domain": "entel.cl"
-    }
-  },
-  {
     "proxy": "http://67.43.236.20:18485",
-    "tested_at": "2026-02-14T21:01:40Z",
+    "tested_at": "2026-02-14T21:32:49Z",
     "ip": "201.188.145.133",
     "success": true,
     "type": "IPv4",
@@ -46,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://38.7.195.49:999",
-    "tested_at": "2026-02-14T21:01:48Z",
-    "ip": "38.7.195.49",
+    "proxy": "http://186.67.74.52:3128",
+    "tested_at": "2026-02-14T21:33:29Z",
+    "ip": "186.67.74.52",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -62,33 +39,10 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 263702,
-      "org": "Cogent Communications",
-      "isp": "GRUPO ZGH SPA",
-      "domain": "zglobalhost.com"
-    }
-  },
-  {
-    "proxy": "http://38.7.195.54:999",
-    "tested_at": "2026-02-14T21:02:00Z",
-    "ip": "38.7.195.49",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
-    "is_eu": false,
-    "postal": "832 0202",
-    "connection": {
-      "asn": 263702,
-      "org": "Cogent Communications",
-      "isp": "GRUPO ZGH SPA",
-      "domain": "zglobalhost.com"
+      "asn": 27651,
+      "org": "Servicio Nacional De Aduanas De Chile",
+      "isp": "ENTEL CHILE S.A.",
+      "domain": "entel.cl"
     }
   }
 ]

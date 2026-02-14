@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://31.57.62.235:37982",
-    "tested_at": "2026-02-14T21:01:34Z",
-    "ip": "31.57.62.235",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Finland",
-    "country_code": "FI",
-    "region": "Mainland Finland",
-    "region_code": "",
-    "city": "Helsinki",
-    "latitude": 60.1698557,
-    "longitude": 24.938379,
-    "is_eu": true,
-    "postal": "02101",
-    "connection": {
-      "asn": 56971,
-      "org": "CGI GLOBAL LIMITED",
-      "isp": "CGI GLOBAL LIMITED",
-      "domain": "cloudbackbone.net"
-    }
-  },
-  {
-    "proxy": "http://65.108.159.129:8080",
-    "tested_at": "2026-02-14T21:01:41Z",
+    "proxy": "http://65.108.159.129:3128",
+    "tested_at": "2026-02-14T21:32:54Z",
     "ip": "65.108.159.129",
     "success": true,
     "type": "IPv4",
@@ -46,31 +23,8 @@
     }
   },
   {
-    "proxy": "http://91.217.76.97:1080",
-    "tested_at": "2026-02-14T21:01:55Z",
-    "ip": "91.217.76.97",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Finland",
-    "country_code": "FI",
-    "region": "Mainland Finland",
-    "region_code": "",
-    "city": "Helsinki",
-    "latitude": 60.1698557,
-    "longitude": 24.938379,
-    "is_eu": true,
-    "postal": "02101",
-    "connection": {
-      "asn": 200740,
-      "org": "FIRST SERVER LIMITED",
-      "isp": "FIRST SERVER LIMITED",
-      "domain": "first-server.net"
-    }
-  },
-  {
     "proxy": "http://193.47.60.119:52681",
-    "tested_at": "2026-02-14T21:02:07Z",
+    "tested_at": "2026-02-14T21:32:56Z",
     "ip": "193.47.60.119",
     "success": true,
     "type": "IPv4",
@@ -92,8 +46,8 @@
     }
   },
   {
-    "proxy": "http://65.108.159.129:3128",
-    "tested_at": "2026-02-14T21:02:11Z",
+    "proxy": "http://65.108.159.129:8080",
+    "tested_at": "2026-02-14T21:33:16Z",
     "ip": "65.108.159.129",
     "success": true,
     "type": "IPv4",

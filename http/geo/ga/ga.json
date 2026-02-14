@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://41.159.154.43:3128",
+    "tested_at": "2026-02-14T21:33:02Z",
+    "ip": "41.159.154.43",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Gabon",
+    "country_code": "GA",
+    "region": "Estuaire",
+    "region_code": "1",
+    "city": "Libreville",
+    "latitude": 0.4161976,
+    "longitude": 9.4672676,
+    "is_eu": false,
+    "postal": "571",
+    "connection": {
+      "asn": 16058,
+      "org": "Gtlib Ipmpls0",
+      "isp": "Gabon Telecom Internet Network Autonomous System",
+      "domain": ""
+    }
+  }
+]

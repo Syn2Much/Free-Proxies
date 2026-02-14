@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://190.104.134.145:3128",
+    "tested_at": "2026-02-14T21:33:12Z",
+    "ip": "190.128.201.236",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "region": "Distrito Capital de Paraguay",
+    "region_code": "",
+    "city": "Asuncion",
+    "latitude": -25.2637399,
+    "longitude": -57.575926,
+    "is_eu": false,
+    "postal": "1226",
+    "connection": {
+      "asn": 23201,
+      "org": "Telecel S.A.",
+      "isp": "Telecel S.A.",
+      "domain": "telecel.com.py"
+    }
+  },
+  {
     "proxy": "http://181.94.197.37:8080",
-    "tested_at": "2026-02-14T21:01:40Z",
+    "tested_at": "2026-02-14T21:33:18Z",
     "ip": "181.94.197.37",
     "success": true,
     "type": "IPv4",
@@ -20,29 +43,6 @@
       "org": "N cleo S.A.",
       "isp": "N cleo S.A.",
       "domain": "personal.com.py"
-    }
-  },
-  {
-    "proxy": "http://24.152.40.49:8080",
-    "tested_at": "2026-02-14T21:02:04Z",
-    "ip": "24.152.40.49",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Paraguay",
-    "country_code": "PY",
-    "region": "Caaguazú",
-    "region_code": "5",
-    "city": "Coronel Oviedo",
-    "latitude": -25.400442,
-    "longitude": -56.4495924,
-    "is_eu": false,
-    "postal": "3300",
-    "connection": {
-      "asn": 269976,
-      "org": "TV MAX CABLE S.A.",
-      "isp": "TV MAX CABLE S.A.",
-      "domain": "tvmaxsa.com.py"
     }
   }
 ]

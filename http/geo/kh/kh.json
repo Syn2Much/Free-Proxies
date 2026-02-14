@@ -1,53 +1,7 @@
 [
   {
-    "proxy": "http://36.37.155.160:8080",
-    "tested_at": "2026-02-14T19:59:11Z",
-    "ip": "36.37.155.160",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Cambodia",
-    "country_code": "KH",
-    "region": "Phnom Penh",
-    "region_code": "12",
-    "city": "Phnom Phen City",
-    "latitude": 11.5448729,
-    "longitude": 104.8921668,
-    "is_eu": false,
-    "postal": "120603",
-    "connection": {
-      "asn": 38623,
-      "org": "VIETTEL CAMBODIA PTE, LTD.",
-      "isp": "VIETTEL CAMBODIA PTE., LTD",
-      "domain": "metfone.com.kh"
-    }
-  },
-  {
-    "proxy": "http://103.216.48.124:8080",
-    "tested_at": "2026-02-14T19:59:15Z",
-    "ip": "103.216.48.124",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Cambodia",
-    "country_code": "KH",
-    "region": "Phnom Penh",
-    "region_code": "12",
-    "city": "Phnom Phen City",
-    "latitude": 11.5448729,
-    "longitude": 104.8921668,
-    "is_eu": false,
-    "postal": "120603",
-    "connection": {
-      "asn": 135375,
-      "org": "Today Communication Co.,ltd",
-      "isp": "Today Communication Co.,ltd",
-      "domain": "today.com.kh"
-    }
-  },
-  {
     "proxy": "http://110.74.215.171:8080",
-    "tested_at": "2026-02-14T19:59:27Z",
+    "tested_at": "2026-02-14T21:33:07Z",
     "ip": "110.74.215.171",
     "success": true,
     "type": "IPv4",
@@ -69,26 +23,26 @@
     }
   },
   {
-    "proxy": "http://116.212.149.218:8080",
-    "tested_at": "2026-02-14T19:59:31Z",
-    "ip": "116.212.149.218",
+    "proxy": "http://110.74.206.40:8181",
+    "tested_at": "2026-02-14T21:33:16Z",
+    "ip": "110.74.206.40",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Cambodia",
     "country_code": "KH",
-    "region": "Phnom Penh",
-    "region_code": "12",
-    "city": "Phnom Phen City",
-    "latitude": 11.5448729,
-    "longitude": 104.8921668,
+    "region": "Siem Reap",
+    "region_code": "",
+    "city": "Krong Siem Reap",
+    "latitude": 13.3632533,
+    "longitude": 103.856403,
     "is_eu": false,
-    "postal": "120603",
+    "postal": "12345",
     "connection": {
-      "asn": 38235,
-      "org": "Mekongnet, Internet Service Provider isp , Internet Exchange Provider ixp And Internet Data Exchange Center idx",
-      "isp": "ANGKOR DATA COMMUNICATION GROUP CO., LTD. A D C",
-      "domain": "mekongnet.com.kh"
+      "asn": 38901,
+      "org": "EZECOM CO., LTD.",
+      "isp": "EZECOM CO., LTD.",
+      "domain": "ezecom.com.kh"
     }
   }
 ]

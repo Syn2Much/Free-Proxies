@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://67.43.236.20:20133",
-    "tested_at": "2026-02-14T21:02:10Z",
-    "ip": "59.153.115.87",
+    "proxy": "http://202.179.13.161:443",
+    "tested_at": "2026-02-14T21:32:55Z",
+    "ip": "202.179.16.2",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "14201",
     "connection": {
-      "asn": 17882,
-      "org": "Uplanet LLC",
-      "isp": "Mcs Com Co LTD",
-      "domain": "uplanet.mn"
+      "asn": 9934,
+      "org": "MTC NETWORK CORPORATE CUST",
+      "isp": "Mongolia Telecom",
+      "domain": "mtcone.net"
     }
   }
 ]

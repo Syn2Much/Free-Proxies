@@ -1,10 +1,10 @@
 [
   {
-    "proxy": "http://65.108.203.37:28080",
-    "tested_at": "2026-02-14T21:01:50Z",
-    "ip": "2001:67c:2628:647:31:2404:0:234",
+    "proxy": "http://193.181.35.12:8118",
+    "tested_at": "2026-02-14T21:32:52Z",
+    "ip": "193.181.35.12",
     "success": true,
-    "type": "IPv6",
+    "type": "IPv4",
     "continent": "Europe",
     "country": "Sweden",
     "country_code": "SE",
@@ -16,15 +16,15 @@
     "is_eu": true,
     "postal": "111 29",
     "connection": {
-      "asn": 205016,
-      "org": "Hern Labs Ab",
-      "isp": "Hern Labs Ab",
-      "domain": "hernlabs.se"
+      "asn": 42201,
+      "org": "Pvdatanet Ab",
+      "isp": "Pvdatanet Ab",
+      "domain": "pvdatanet.com"
     }
   },
   {
-    "proxy": "http://65.108.203.37:18080",
-    "tested_at": "2026-02-14T21:02:08Z",
+    "proxy": "http://65.108.203.36:18080",
+    "tested_at": "2026-02-14T21:33:35Z",
     "ip": "2001:67c:2660:425:1f::27b",
     "success": true,
     "type": "IPv6",
