@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://45.88.0.116:3128",
-    "tested_at": "2026-02-14T01:48:15Z",
-    "ip": "213.220.62.62",
+    "proxy": "http://43.208.240.77:7866",
+    "tested_at": "2026-02-14T02:19:29Z",
+    "ip": "192.42.116.196",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,16 +16,16 @@
     "is_eu": true,
     "postal": "1012 JS",
     "connection": {
-      "asn": 133153,
-      "org": "Internet Utilities Europe And Asia Limited",
-      "isp": "Ipv Superhub Limited",
-      "domain": "netutils.io"
+      "asn": 215125,
+      "org": "TOR EXIT AND MORE",
+      "isp": "Church of Cyberology",
+      "domain": "cyberology.nl"
     }
   },
   {
-    "proxy": "http://45.88.0.98:3128",
-    "tested_at": "2026-02-14T01:48:16Z",
-    "ip": "213.220.62.62",
+    "proxy": "https://54.74.104.194:45318",
+    "tested_at": "2026-02-14T02:19:31Z",
+    "ip": "192.42.116.219",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,153 +39,38 @@
     "is_eu": true,
     "postal": "1012 JS",
     "connection": {
-      "asn": 133153,
-      "org": "Internet Utilities Europe And Asia Limited",
-      "isp": "Ipv Superhub Limited",
-      "domain": "netutils.io"
+      "asn": 215125,
+      "org": "TOR EXIT AND MORE",
+      "isp": "Church of Cyberology",
+      "domain": "cyberology.nl"
     }
   },
   {
-    "proxy": "http://45.88.0.111:3128",
-    "tested_at": "2026-02-14T01:48:16Z",
-    "ip": "213.220.62.62",
+    "proxy": "http://185.46.212.32:11201",
+    "tested_at": "2026-02-14T02:19:37Z",
+    "ip": "147.161.132.112",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Netherlands",
     "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
+    "region": "Gelderland",
+    "region_code": "GE",
+    "city": "Borculo",
+    "latitude": 52.1135036,
+    "longitude": 6.5203603,
     "is_eu": true,
-    "postal": "1012 JS",
+    "postal": "7271 DA",
     "connection": {
-      "asn": 133153,
-      "org": "Internet Utilities Europe And Asia Limited",
-      "isp": "Ipv Superhub Limited",
-      "domain": "netutils.io"
-    }
-  },
-  {
-    "proxy": "http://45.88.0.99:3128",
-    "tested_at": "2026-02-14T01:48:16Z",
-    "ip": "213.220.62.62",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 133153,
-      "org": "Internet Utilities Europe And Asia Limited",
-      "isp": "Ipv Superhub Limited",
-      "domain": "netutils.io"
-    }
-  },
-  {
-    "proxy": "http://45.88.0.117:3128",
-    "tested_at": "2026-02-14T01:48:25Z",
-    "ip": "213.220.62.62",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 133153,
-      "org": "Internet Utilities Europe And Asia Limited",
-      "isp": "Ipv Superhub Limited",
-      "domain": "netutils.io"
-    }
-  },
-  {
-    "proxy": "http://45.88.0.113:3128",
-    "tested_at": "2026-02-14T01:48:25Z",
-    "ip": "213.220.62.62",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 133153,
-      "org": "Internet Utilities Europe And Asia Limited",
-      "isp": "Ipv Superhub Limited",
-      "domain": "netutils.io"
-    }
-  },
-  {
-    "proxy": "http://195.133.41.113:1080",
-    "tested_at": "2026-02-14T01:48:25Z",
-    "ip": "195.133.41.113",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 210976,
-      "org": "Timeweb, LLP",
-      "isp": "Timeweb, LLP",
-      "domain": "timewebcloud.kz"
-    }
-  },
-  {
-    "proxy": "http://185.245.104.100:33333",
-    "tested_at": "2026-02-14T01:48:26Z",
-    "ip": "185.245.104.100",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 216071,
-      "org": "SERVERS TECH FZCO",
-      "isp": "SERVERS TECH FZCO",
-      "domain": "vdsina.com"
+      "asn": 62044,
+      "org": "Zscaler Amsterdam",
+      "isp": "Zscaler Switzerland GmbH",
+      "domain": "zscaler.com"
     }
   },
   {
     "proxy": "http://94.176.3.43:7443",
-    "tested_at": "2026-02-14T01:48:30Z",
+    "tested_at": "2026-02-14T02:19:37Z",
     "ip": "94.176.3.43",
     "success": true,
     "type": "IPv4",
@@ -207,77 +92,8 @@
     }
   },
   {
-    "proxy": "http://188.166.32.174:3128",
-    "tested_at": "2026-02-14T01:48:30Z",
-    "ip": "188.166.32.174",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 14061,
-      "org": "Digitalocean, LLC",
-      "isp": "Digitalocean, LLC",
-      "domain": "digitalocean.com"
-    }
-  },
-  {
-    "proxy": "http://45.88.0.114:3128",
-    "tested_at": "2026-02-14T01:48:36Z",
-    "ip": "213.220.62.62",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 133153,
-      "org": "Internet Utilities Europe And Asia Limited",
-      "isp": "Ipv Superhub Limited",
-      "domain": "netutils.io"
-    }
-  },
-  {
-    "proxy": "http://51.85.49.118:227",
-    "tested_at": "2026-02-14T01:48:39Z",
-    "ip": "206.166.251.193",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 399629,
-      "org": "Bl Networks",
-      "isp": "Bl Networks",
-      "domain": "blnwx.com"
-    }
-  },
-  {
     "proxy": "http://94.176.3.109:7443",
-    "tested_at": "2026-02-14T01:48:40Z",
+    "tested_at": "2026-02-14T02:19:38Z",
     "ip": "94.176.3.109",
     "success": true,
     "type": "IPv4",
@@ -299,77 +115,8 @@
     }
   },
   {
-    "proxy": "http://98.130.124.119:8118",
-    "tested_at": "2026-02-14T01:48:47Z",
-    "ip": "192.42.116.211",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 215125,
-      "org": "TOR EXIT AND MORE",
-      "isp": "Church of Cyberology",
-      "domain": "cyberology.nl"
-    }
-  },
-  {
-    "proxy": "http://195.133.41.113:8080",
-    "tested_at": "2026-02-14T01:48:47Z",
-    "ip": "195.133.41.113",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 210976,
-      "org": "Timeweb, LLP",
-      "isp": "Timeweb, LLP",
-      "domain": "timewebcloud.kz"
-    }
-  },
-  {
-    "proxy": "http://45.88.0.115:3128",
-    "tested_at": "2026-02-14T01:48:48Z",
-    "ip": "213.220.62.62",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 133153,
-      "org": "Internet Utilities Europe And Asia Limited",
-      "isp": "Ipv Superhub Limited",
-      "domain": "netutils.io"
-    }
-  },
-  {
     "proxy": "http://193.106.150.70:1080",
-    "tested_at": "2026-02-14T01:48:51Z",
+    "tested_at": "2026-02-14T02:19:38Z",
     "ip": "193.106.150.70",
     "success": true,
     "type": "IPv4",
@@ -391,8 +138,54 @@
     }
   },
   {
+    "proxy": "http://145.40.68.148:10065",
+    "tested_at": "2026-02-14T02:19:43Z",
+    "ip": "145.40.68.148",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
+    "is_eu": true,
+    "postal": "1012 JS",
+    "connection": {
+      "asn": 15830,
+      "org": "Equinix Services, Inc.",
+      "isp": "Equinix emea Acquisition Enterprises B.V.",
+      "domain": "packet.net"
+    }
+  },
+  {
+    "proxy": "https://3.137.167.45:10801",
+    "tested_at": "2026-02-14T02:19:47Z",
+    "ip": "192.42.116.179",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
+    "is_eu": true,
+    "postal": "1012 JS",
+    "connection": {
+      "asn": 215125,
+      "org": "TOR EXIT AND MORE",
+      "isp": "Church of Cyberology",
+      "domain": "cyberology.nl"
+    }
+  },
+  {
     "proxy": "http://178.253.22.108:65431",
-    "tested_at": "2026-02-14T01:48:53Z",
+    "tested_at": "2026-02-14T02:19:57Z",
     "ip": "178.253.22.108",
     "success": true,
     "type": "IPv4",
@@ -414,9 +207,9 @@
     }
   },
   {
-    "proxy": "https://13.126.187.20:1080",
-    "tested_at": "2026-02-14T01:48:57Z",
-    "ip": "192.42.116.199",
+    "proxy": "http://78.12.193.250:16010",
+    "tested_at": "2026-02-14T02:19:58Z",
+    "ip": "192.42.116.208",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -437,8 +230,100 @@
     }
   },
   {
+    "proxy": "https://3.79.194.222:38664",
+    "tested_at": "2026-02-14T02:20:22Z",
+    "ip": "192.42.116.218",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
+    "is_eu": true,
+    "postal": "1012 JS",
+    "connection": {
+      "asn": 215125,
+      "org": "TOR EXIT AND MORE",
+      "isp": "Church of Cyberology",
+      "domain": "cyberology.nl"
+    }
+  },
+  {
+    "proxy": "http://43.209.8.12:132",
+    "tested_at": "2026-02-14T02:19:58Z",
+    "ip": "192.42.116.208",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
+    "is_eu": true,
+    "postal": "1012 JS",
+    "connection": {
+      "asn": 215125,
+      "org": "TOR EXIT AND MORE",
+      "isp": "Church of Cyberology",
+      "domain": "cyberology.nl"
+    }
+  },
+  {
+    "proxy": "http://77.233.213.149:9999",
+    "tested_at": "2026-02-14T02:20:00Z",
+    "ip": "77.233.213.149",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
+    "is_eu": true,
+    "postal": "1012 JS",
+    "connection": {
+      "asn": 210976,
+      "org": "Timeweb, LLP",
+      "isp": "Timeweb, LLP",
+      "domain": "timewebcloud.kz"
+    }
+  },
+  {
+    "proxy": "http://109.234.35.246:8080",
+    "tested_at": "2026-02-14T02:20:01Z",
+    "ip": "109.234.35.246",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
+    "is_eu": true,
+    "postal": "1012 JS",
+    "connection": {
+      "asn": 216071,
+      "org": "SERVERS TECH FZCO",
+      "isp": "SERVERS TECH FZCO",
+      "domain": "vdsina.com"
+    }
+  },
+  {
     "proxy": "http://94.176.3.42:7443",
-    "tested_at": "2026-02-14T01:48:58Z",
+    "tested_at": "2026-02-14T02:20:03Z",
     "ip": "94.176.3.42",
     "success": true,
     "type": "IPv4",
@@ -460,9 +345,9 @@
     }
   },
   {
-    "proxy": "http://144.124.228.155:3128",
-    "tested_at": "2026-02-14T01:49:02Z",
-    "ip": "144.124.228.155",
+    "proxy": "http://144.124.227.90:10880",
+    "tested_at": "2026-02-14T02:20:19Z",
+    "ip": "144.124.227.90",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -483,9 +368,9 @@
     }
   },
   {
-    "proxy": "http://147.75.34.105:443",
-    "tested_at": "2026-02-14T01:49:02Z",
-    "ip": "147.75.34.105",
+    "proxy": "http://80.242.56.115:3128",
+    "tested_at": "2026-02-14T02:20:29Z",
+    "ip": "80.242.56.115",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -499,10 +384,10 @@
     "is_eu": true,
     "postal": "1012 JS",
     "connection": {
-      "asn": 15830,
-      "org": "Equinix Services, Inc.",
-      "isp": "Equinix emea Acquisition Enterprises B.V.",
-      "domain": "packet.com"
+      "asn": 210976,
+      "org": "Timeweb.cloud LLC",
+      "isp": "Timeweb, LLP",
+      "domain": "timeweb.cloud"
     }
   }
 ]

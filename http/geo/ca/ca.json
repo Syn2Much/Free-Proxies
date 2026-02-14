@@ -1,7 +1,53 @@
 [
   {
+    "proxy": "http://67.43.228.253:13061",
+    "tested_at": "2026-02-14T02:19:27Z",
+    "ip": "75.156.70.30",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "British Columbia",
+    "region_code": "BC",
+    "city": "West Vancouver",
+    "latitude": 49.3348973,
+    "longitude": -123.1667847,
+    "is_eu": false,
+    "postal": "V7V 1J2",
+    "connection": {
+      "asn": 852,
+      "org": "TELUS FIBRE SLAMBC01",
+      "isp": "Telus Communications Inc.",
+      "domain": "telus.com"
+    }
+  },
+  {
+    "proxy": "http://67.43.228.253:10275",
+    "tested_at": "2026-02-14T02:19:37Z",
+    "ip": "99.248.63.127",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Bowmanville",
+    "latitude": 43.9126042,
+    "longitude": -78.688019,
+    "is_eu": false,
+    "postal": "L1C 1N2",
+    "connection": {
+      "asn": 812,
+      "org": "Rogers Cable Inc. Mtwd",
+      "isp": "Rogers Communications Canada Inc.",
+      "domain": "rogers.com"
+    }
+  },
+  {
     "proxy": "http://72.10.164.178:1475",
-    "tested_at": "2026-02-14T01:48:23Z",
+    "tested_at": "2026-02-14T02:19:58Z",
     "ip": "50.68.15.217",
     "success": true,
     "type": "IPv4",
@@ -24,7 +70,7 @@
   },
   {
     "proxy": "http://72.10.160.91:6153",
-    "tested_at": "2026-02-14T01:48:36Z",
+    "tested_at": "2026-02-14T02:20:07Z",
     "ip": "24.78.185.128",
     "success": true,
     "type": "IPv4",
@@ -43,6 +89,29 @@
       "org": "Shaw Communications",
       "isp": "Shaw Communications",
       "domain": "shaw.ca"
+    }
+  },
+  {
+    "proxy": "http://67.43.228.253:15545",
+    "tested_at": "2026-02-14T02:20:21Z",
+    "ip": "142.113.165.4",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
+    "is_eu": false,
+    "postal": "M5H 2N2",
+    "connection": {
+      "asn": 577,
+      "org": "Sympatico Hse",
+      "isp": "Bell Canada",
+      "domain": "bell.ca"
     }
   }
 ]

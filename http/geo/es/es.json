@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://80.78.128.94:8080",
-    "tested_at": "2026-02-14T01:48:29Z",
-    "ip": "80.78.128.94",
+    "proxy": "http://185.202.165.1:53281",
+    "tested_at": "2026-02-14T02:19:39Z",
+    "ip": "185.44.232.30",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Spain",
     "country_code": "ES",
-    "region": "Comunitat Valenciana",
-    "region_code": "VC",
-    "city": "Finestrat",
-    "latitude": 38.5677498,
-    "longitude": -0.2125435,
+    "region": "Andalusia",
+    "region_code": "AN",
+    "city": "Fuengirola",
+    "latitude": 36.544148,
+    "longitude": -4.6249439,
     "is_eu": true,
-    "postal": "03509",
+    "postal": "29640",
     "connection": {
-      "asn": 202913,
-      "org": "CLOUDWIFI, SL",
-      "isp": "CLOUDWIFI, SL",
-      "domain": "cloudwifi.es"
+      "asn": 200845,
+      "org": "AVATEL TELECOM, SA",
+      "isp": "AVATEL TELECOM, SA",
+      "domain": "avatel.es"
     }
   }
 ]

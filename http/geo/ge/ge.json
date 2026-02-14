@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://5.187.9.10:8080",
+    "tested_at": "2026-02-14T02:20:13Z",
+    "ip": "5.187.9.10",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Georgia",
+    "country_code": "GE",
+    "region": "Tbilisi",
+    "region_code": "TB",
+    "city": "Tbilisi",
+    "latitude": 41.7151377,
+    "longitude": 44.827096,
+    "is_eu": false,
+    "postal": "0136",
+    "connection": {
+      "asn": 49628,
+      "org": "SKYTEL CUSTOMERS",
+      "isp": "LLC Skytel",
+      "domain": "skytel.ge"
+    }
+  }
+]

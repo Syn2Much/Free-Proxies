@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://102.212.46.79:12354",
-    "tested_at": "2026-02-14T01:48:19Z",
-    "ip": "102.212.46.79",
+    "proxy": "http://196.251.222.234:8104",
+    "tested_at": "2026-02-14T02:19:45Z",
+    "ip": "196.251.222.205",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,62 +16,39 @@
     "is_eu": false,
     "postal": "2001",
     "connection": {
-      "asn": 329243,
-      "org": "OM SN",
-      "isp": "One Mile Telecoms pty Ltd.",
-      "domain": "1mile.co.za"
+      "asn": 37403,
+      "org": "Infogro Dsl",
+      "isp": "Info gro pty LTD",
+      "domain": "infogro.net"
     }
   },
   {
-    "proxy": "http://102.218.40.77:8082",
-    "tested_at": "2026-02-14T01:49:00Z",
-    "ip": "102.218.40.66",
+    "proxy": "http://102.219.170.116:8080",
+    "tested_at": "2026-02-14T02:19:52Z",
+    "ip": "102.219.170.116",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "South Africa",
     "country_code": "ZA",
-    "region": "KwaZulu-Natal",
-    "region_code": "KZN",
-    "city": "Newcastle",
-    "latitude": -27.7138429,
-    "longitude": 29.9971769,
+    "region": "Western Cape",
+    "region_code": "WC",
+    "city": "Cape Town",
+    "latitude": -33.7854478,
+    "longitude": 18.7140639,
     "is_eu": false,
-    "postal": "2940",
+    "postal": "8001",
     "connection": {
-      "asn": 328942,
-      "org": "Newcastle Broadband Users",
-      "isp": "IMVULA ITECHNOLOGIES PTY LTD",
-      "domain": "imvulaitech.co.za"
+      "asn": 328480,
+      "org": "Too Much Wifi",
+      "isp": "Too Much Wifi",
+      "domain": "toomuchwifi.co.za"
     }
   },
   {
-    "proxy": "http://196.250.239.229:8787",
-    "tested_at": "2026-02-14T01:49:01Z",
-    "ip": "196.250.239.229",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Mpumalanga",
-    "region_code": "MP",
-    "city": "Secunda",
-    "latitude": -26.5157792,
-    "longitude": 29.1913918,
-    "is_eu": false,
-    "postal": "2302",
-    "connection": {
-      "asn": 37662,
-      "org": "WIOCC 1 . 0. .0",
-      "isp": "West Indian Ocean Cable Company",
-      "domain": "wiocc.net"
-    }
-  },
-  {
-    "proxy": "http://105.28.176.41:9812",
-    "tested_at": "2026-02-14T01:49:08Z",
-    "ip": "105.27.130.22",
+    "proxy": "http://154.0.14.116:3128",
+    "tested_at": "2026-02-14T02:19:56Z",
+    "ip": "154.0.14.116",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -79,16 +56,62 @@
     "country_code": "ZA",
     "region": "Gauteng",
     "region_code": "GT",
-    "city": "Sandton",
-    "latitude": -26.1075663,
-    "longitude": 28.0567007,
+    "city": "Johannesburg",
+    "latitude": -26.2041028,
+    "longitude": 28.0473051,
     "is_eu": false,
-    "postal": "1865",
+    "postal": "2001",
     "connection": {
-      "asn": 37100,
-      "org": "Assignment Made to Seacom Infrastructure.",
-      "isp": "Seacom Limited",
-      "domain": "seacom.mu"
+      "asn": 37680,
+      "org": "Cisp Internal",
+      "isp": "Cool Ideas Service Provider pty LTD",
+      "domain": "coolideas.co.za"
+    }
+  },
+  {
+    "proxy": "http://196.251.221.2:8104",
+    "tested_at": "2026-02-14T02:20:05Z",
+    "ip": "196.251.222.154",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Gauteng",
+    "region_code": "GT",
+    "city": "Johannesburg",
+    "latitude": -26.2041028,
+    "longitude": 28.0473051,
+    "is_eu": false,
+    "postal": "2001",
+    "connection": {
+      "asn": 37403,
+      "org": "Infogro Dsl",
+      "isp": "Info gro pty LTD",
+      "domain": "infogro.net"
+    }
+  },
+  {
+    "proxy": "http://196.251.223.54:8104",
+    "tested_at": "2026-02-14T02:20:27Z",
+    "ip": "196.251.223.54",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Gauteng",
+    "region_code": "GT",
+    "city": "Johannesburg",
+    "latitude": -26.2041028,
+    "longitude": 28.0473051,
+    "is_eu": false,
+    "postal": "2001",
+    "connection": {
+      "asn": 37403,
+      "org": "Infogro Dsl",
+      "isp": "Info gro pty LTD",
+      "domain": "infogro.net"
     }
   }
 ]

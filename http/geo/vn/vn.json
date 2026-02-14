@@ -1,8 +1,31 @@
 [
   {
+    "proxy": "http://14.225.215.182:8888",
+    "tested_at": "2026-02-14T02:19:27Z",
+    "ip": "14.225.215.182",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Hanoi",
+    "region_code": "HN",
+    "city": "Hanoi",
+    "latitude": 21.0277644,
+    "longitude": 105.8341598,
+    "is_eu": false,
+    "postal": "110905",
+    "connection": {
+      "asn": 135905,
+      "org": "Vietnam Posts And Telecommunications Group",
+      "isp": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+      "domain": "vnpt.com.vn"
+    }
+  },
+  {
     "proxy": "http://14.225.71.183:25565",
-    "tested_at": "2026-02-14T01:48:26Z",
-    "ip": "83.97.112.25",
+    "tested_at": "2026-02-14T02:19:28Z",
+    "ip": "83.97.112.20",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -23,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://113.161.93.174:6008",
-    "tested_at": "2026-02-14T01:48:29Z",
-    "ip": "27.74.251.99",
+    "proxy": "http://14.225.240.23:8562",
+    "tested_at": "2026-02-14T02:19:35Z",
+    "ip": "14.225.240.23",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,108 +62,62 @@
     "is_eu": false,
     "postal": "708000",
     "connection": {
-      "asn": 7552,
-      "org": "Viettel Group",
-      "isp": "Viettel Group",
-      "domain": "viettel.com.vn"
-    }
-  },
-  {
-    "proxy": "http://42.116.10.196:443",
-    "tested_at": "2026-02-14T01:48:37Z",
-    "ip": "42.116.10.196",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Hanoi",
-    "region_code": "HN",
-    "city": "Hanoi",
-    "latitude": 21.0277644,
-    "longitude": 105.8341598,
-    "is_eu": false,
-    "postal": "110905",
-    "connection": {
-      "asn": 18403,
-      "org": "Fpt Telecom Company",
-      "isp": "Fpt Telecom Company",
-      "domain": "fpt.net"
-    }
-  },
-  {
-    "proxy": "http://58.187.104.67:2070",
-    "tested_at": "2026-02-14T01:48:40Z",
-    "ip": "58.187.104.105",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Nam Dinh province",
-    "region_code": "67",
-    "city": "Nam Định",
-    "latitude": 20.4388225,
-    "longitude": 106.1621053,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 18403,
-      "org": "Fpt Telecom Company",
-      "isp": "Fpt Telecom Company",
-      "domain": "fpt.net"
-    }
-  },
-  {
-    "proxy": "http://58.187.104.67:2120",
-    "tested_at": "2026-02-14T01:48:42Z",
-    "ip": "42.115.72.200",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Đồng Nai Province",
-    "region_code": "39",
-    "city": "Bien Hoa",
-    "latitude": 10.9574128,
-    "longitude": 106.8426871,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 18403,
-      "org": "Fpt Telecom Company",
-      "isp": "Fpt Telecom Company",
-      "domain": "fpt.net"
-    }
-  },
-  {
-    "proxy": "http://14.161.33.150:8080",
-    "tested_at": "2026-02-14T01:48:44Z",
-    "ip": "14.161.33.150",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Thành phố Hồ Chí Minh",
-    "region_code": "",
-    "city": "Nguyễn Đình Chiểu",
-    "latitude": 10.7749256,
-    "longitude": 106.6859306,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 45899,
+      "asn": 135905,
       "org": "Vietnam Posts And Telecommunications Group",
-      "isp": "Vnpt Corp",
+      "isp": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
       "domain": "vnpt.com.vn"
     }
   },
   {
-    "proxy": "http://115.79.70.69:8470",
-    "tested_at": "2026-02-14T01:49:04Z",
-    "ip": "115.79.70.69",
+    "proxy": "http://72.10.160.91:2893",
+    "tested_at": "2026-02-14T02:19:48Z",
+    "ip": "42.113.163.32",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Hung Yen Province",
+    "region_code": "66",
+    "city": "Hung Yen",
+    "latitude": 20.8525711,
+    "longitude": 106.0169971,
+    "is_eu": false,
+    "postal": "162220",
+    "connection": {
+      "asn": 18403,
+      "org": "Fpt Telecom Company",
+      "isp": "Fpt Telecom Company",
+      "domain": "fpt.net"
+    }
+  },
+  {
+    "proxy": "http://14.225.205.233:80",
+    "tested_at": "2026-02-14T02:20:00Z",
+    "ip": "14.225.205.233",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Hanoi",
+    "region_code": "HN",
+    "city": "Hanoi",
+    "latitude": 21.0277644,
+    "longitude": 105.8341598,
+    "is_eu": false,
+    "postal": "110905",
+    "connection": {
+      "asn": 135905,
+      "org": "Vietnam Posts And Telecommunications Group",
+      "isp": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+      "domain": "vnpt.com.vn"
+    }
+  },
+  {
+    "proxy": "http://27.67.54.178:8080",
+    "tested_at": "2026-02-14T02:20:11Z",
+    "ip": "27.67.54.178",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -158,6 +135,29 @@
       "org": "Viettel Group",
       "isp": "Viettel Group",
       "domain": "viettel.com.vn"
+    }
+  },
+  {
+    "proxy": "http://124.158.12.3:1986",
+    "tested_at": "2026-02-14T02:20:13Z",
+    "ip": "124.158.12.3",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Ho Chi Minh",
+    "region_code": "SG",
+    "city": "Ho Chi Minh City",
+    "latitude": 10.8230989,
+    "longitude": 106.6296638,
+    "is_eu": false,
+    "postal": "708000",
+    "connection": {
+      "asn": 38733,
+      "org": "Cmc Telecom Infrastructure Company",
+      "isp": "Cmc Telecom Infrastructure Company",
+      "domain": "cmctelecom.vn"
     }
   }
 ]

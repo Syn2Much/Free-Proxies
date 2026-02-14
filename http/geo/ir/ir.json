@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://185.186.240.9:1396",
-    "tested_at": "2026-02-14T01:48:59Z",
-    "ip": "185.186.240.9",
+    "proxy": "http://178.252.177.33:3128",
+    "tested_at": "2026-02-14T02:19:41Z",
+    "ip": "178.252.177.36",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "1317947564",
     "connection": {
-      "asn": 203684,
-      "org": "Gostaresh Ertebat Azin Kia Company Pjsc",
-      "isp": "Imen Sanat Novin Alighapoo Private Joint Stock Company",
-      "domain": "azinkia.ir"
+      "asn": 51074,
+      "org": "MABNA",
+      "isp": "Gostaresh e ertebatat e Mabna Company private Joint Stock",
+      "domain": "mabnatelecom.com"
     }
   }
 ]

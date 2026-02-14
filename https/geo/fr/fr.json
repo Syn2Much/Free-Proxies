@@ -1,7 +1,7 @@
 [
   {
     "proxy": "https://51.38.191.151:443",
-    "tested_at": "2026-02-14T01:48:15Z",
+    "tested_at": "2026-02-14T02:19:27Z",
     "ip": "2001:41d0:305:2100::4801",
     "success": true,
     "type": "IPv6",
@@ -23,31 +23,8 @@
     }
   },
   {
-    "proxy": "https://152.228.163.79:443",
-    "tested_at": "2026-02-14T01:48:39Z",
-    "ip": "2001:41d0:304:200::d951",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Nouvelle-Aquitaine",
-    "region_code": "NAQ",
-    "city": "Bordeaux",
-    "latitude": 44.837789,
-    "longitude": -0.57918,
-    "is_eu": true,
-    "postal": "33000",
-    "connection": {
-      "asn": 16276,
-      "org": "OVH",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
-    }
-  },
-  {
     "proxy": "https://5.189.184.6:443",
-    "tested_at": "2026-02-14T01:48:55Z",
+    "tested_at": "2026-02-14T02:19:36Z",
     "ip": "5.189.184.6",
     "success": true,
     "type": "IPv4",
@@ -69,8 +46,54 @@
     }
   },
   {
+    "proxy": "https://152.228.163.79:443",
+    "tested_at": "2026-02-14T02:19:40Z",
+    "ip": "2001:41d0:304:200::d951",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Nouvelle-Aquitaine",
+    "region_code": "NAQ",
+    "city": "Bordeaux",
+    "latitude": 44.837789,
+    "longitude": -0.57918,
+    "is_eu": true,
+    "postal": "33000",
+    "connection": {
+      "asn": 16276,
+      "org": "OVH",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
+    }
+  },
+  {
+    "proxy": "https://173.249.37.45:5051",
+    "tested_at": "2026-02-14T02:20:15Z",
+    "ip": "173.249.37.45",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Grand Est",
+    "region_code": "GES",
+    "city": "Lauterbourg",
+    "latitude": 48.974797,
+    "longitude": 8.176773,
+    "is_eu": true,
+    "postal": "67630",
+    "connection": {
+      "asn": 51167,
+      "org": "Contabo GmbH",
+      "isp": "Contabo GmbH",
+      "domain": "contabo.de"
+    }
+  },
+  {
     "proxy": "https://91.121.88.53:443",
-    "tested_at": "2026-02-14T01:48:56Z",
+    "tested_at": "2026-02-14T02:20:18Z",
     "ip": "2001:41d0:1:8d35::1",
     "success": true,
     "type": "IPv6",
@@ -92,8 +115,8 @@
     }
   },
   {
-    "proxy": "https://173.249.37.45:5051",
-    "tested_at": "2026-02-14T01:49:04Z",
+    "proxy": "https://173.249.37.45:5006",
+    "tested_at": "2026-02-14T02:20:19Z",
     "ip": "173.249.37.45",
     "success": true,
     "type": "IPv4",

@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "https://47.243.181.85:41488",
+    "tested_at": "2026-02-14T02:19:38Z",
+    "ip": "103.31.222.12",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Myanmar [Burma]",
+    "country_code": "MM",
+    "region": "Yangon",
+    "region_code": "06",
+    "city": "Thanlyin",
+    "latitude": 16.7587537,
+    "longitude": 96.2482149,
+    "is_eu": false,
+    "postal": "11291",
+    "connection": {
+      "asn": 137259,
+      "org": "i Link",
+      "isp": "i Link",
+      "domain": "ilinkmm.com"
+    }
+  }
+]

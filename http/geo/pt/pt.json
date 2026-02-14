@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://72.10.160.90:9801",
-    "tested_at": "2026-02-14T01:49:00Z",
-    "ip": "161.230.1.247",
+    "proxy": "http://81.12.96.60:8118",
+    "tested_at": "2026-02-14T02:19:27Z",
+    "ip": "5.182.39.240",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +16,10 @@
     "is_eu": true,
     "postal": "1100-148",
     "connection": {
-      "asn": 12353,
-      "org": "DSL ULL",
-      "isp": "Vodafone Portugal Communicacoes Pessoais S.A.",
-      "domain": "vodafone.com"
+      "asn": 209847,
+      "org": "Worktitans B.V.",
+      "isp": "Worktitans B.V.",
+      "domain": "the.hosting"
     }
   }
 ]

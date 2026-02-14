@@ -1,8 +1,54 @@
 [
   {
-    "proxy": "http://45.5.119.70:999",
-    "tested_at": "2026-02-14T01:48:32Z",
-    "ip": "45.5.119.70",
+    "proxy": "http://138.118.106.237:999",
+    "tested_at": "2026-02-14T02:19:42Z",
+    "ip": "138.118.106.15",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "region": "Guatemala Department",
+    "region_code": "GU",
+    "city": "Guatemala City",
+    "latitude": 14.6349149,
+    "longitude": -90.5068824,
+    "is_eu": false,
+    "postal": "01004",
+    "connection": {
+      "asn": 263781,
+      "org": "ONNO NETWORKS, SOCIEDAD AN NIMA",
+      "isp": "ONNO NETWORKS, SOCIEDAD AN NIMA",
+      "domain": "onnonetworks.com"
+    }
+  },
+  {
+    "proxy": "http://45.171.64.24:999",
+    "tested_at": "2026-02-14T02:19:43Z",
+    "ip": "45.171.64.21",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "region": "Chimaltenango",
+    "region_code": "CM",
+    "city": "Patzicía",
+    "latitude": 14.6307149,
+    "longitude": -90.9271367,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 22869,
+      "org": "TECNOCOLOR, S.A.",
+      "isp": "CABLECOLOR S.A.",
+      "domain": "tecnocolor.com.gt"
+    }
+  },
+  {
+    "proxy": "http://181.78.49.177:999",
+    "tested_at": "2026-02-14T02:20:04Z",
+    "ip": "181.78.49.177",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -17,14 +63,14 @@
     "postal": "01004",
     "connection": {
       "asn": 52468,
-      "org": "INFINITUM S.A.",
+      "org": "Ufinet Guatemala S. A.",
       "isp": "UFINET PANAMA S.A.",
-      "domain": "infinitumplus.com.gt"
+      "domain": "ufinet.com"
     }
   },
   {
     "proxy": "http://181.78.49.207:999",
-    "tested_at": "2026-02-14T01:48:37Z",
+    "tested_at": "2026-02-14T02:20:07Z",
     "ip": "181.78.49.207",
     "success": true,
     "type": "IPv4",
@@ -43,52 +89,6 @@
       "org": "Ufinet Guatemala S. A.",
       "isp": "UFINET PANAMA S.A.",
       "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://143.208.57.59:8080",
-    "tested_at": "2026-02-14T01:48:41Z",
-    "ip": "143.208.57.59",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "Guatemala Department",
-    "region_code": "GU",
-    "city": "Guatemala City",
-    "latitude": 14.6349149,
-    "longitude": -90.5068824,
-    "is_eu": false,
-    "postal": "01004",
-    "connection": {
-      "asn": 22869,
-      "org": "COMUNICACIONES METROPOLITANAS CABLECOLOR",
-      "isp": "CABLECOLOR S.A.",
-      "domain": "cablecolor.net"
-    }
-  },
-  {
-    "proxy": "http://45.233.67.226:999",
-    "tested_at": "2026-02-14T01:48:44Z",
-    "ip": "45.233.64.2",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "Jalapa",
-    "region_code": "JA",
-    "city": "Jalapa",
-    "latitude": 14.6325483,
-    "longitude": -89.9930052,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 266755,
-      "org": "CONECTIVIDAD Y TECNOLOGIA S.A.",
-      "isp": "CONECTIVIDAD Y TECNOLOGIA S.A.",
-      "domain": "fabri3d.com.ar"
     }
   }
 ]

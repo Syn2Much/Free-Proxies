@@ -1,53 +1,7 @@
 [
   {
-    "proxy": "https://47.243.181.85:41410",
-    "tested_at": "2026-02-14T01:48:28Z",
-    "ip": "118.102.52.170",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Nagano Prefecture",
-    "region_code": "20",
-    "city": "Okaya",
-    "latitude": 36.0670021,
-    "longitude": 138.0493709,
-    "is_eu": false,
-    "postal": "394-0003",
-    "connection": {
-      "asn": 23791,
-      "org": "Lcv Corporation",
-      "isp": "Lcv Corporation",
-      "domain": "lcv.jp"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41408",
-    "tested_at": "2026-02-14T01:48:30Z",
-    "ip": "45.8.221.32",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Osaka Prefecture",
-    "region_code": "27",
-    "city": "Osaka",
-    "latitude": 34.6937378,
-    "longitude": 135.5021651,
-    "is_eu": false,
-    "postal": "530-8201",
-    "connection": {
-      "asn": 4785,
-      "org": "xTom",
-      "isp": "Xtom Limited",
-      "domain": "xtom.com"
-    }
-  },
-  {
     "proxy": "https://20.78.213.56:443",
-    "tested_at": "2026-02-14T01:48:37Z",
+    "tested_at": "2026-02-14T02:19:28Z",
     "ip": "20.78.213.56",
     "success": true,
     "type": "IPv4",
@@ -69,54 +23,8 @@
     }
   },
   {
-    "proxy": "https://47.243.181.85:41419",
-    "tested_at": "2026-02-14T01:48:38Z",
-    "ip": "2400:2411:e320:6a12:8d05:ddd:a295:c95c",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
-    "is_eu": false,
-    "postal": "100-0002",
-    "connection": {
-      "asn": 17676,
-      "org": "Softbank Corp.",
-      "isp": "Softbank Mobile Corp.",
-      "domain": "softbank.co.jp"
-    }
-  },
-  {
-    "proxy": "https://103.100.159.145:443",
-    "tested_at": "2026-02-14T01:48:46Z",
-    "ip": "103.100.159.145",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
-    "is_eu": false,
-    "postal": "100-0002",
-    "connection": {
-      "asn": 138968,
-      "org": "Softbank Corp.",
-      "isp": "Rainbow Network Limited",
-      "domain": "softbank.jp"
-    }
-  },
-  {
     "proxy": "https://203.189.96.232:443",
-    "tested_at": "2026-02-14T01:48:50Z",
+    "tested_at": "2026-02-14T02:19:28Z",
     "ip": "203.189.96.232",
     "success": true,
     "type": "IPv4",
@@ -138,32 +46,78 @@
     }
   },
   {
+    "proxy": "https://47.243.181.85:41393",
+    "tested_at": "2026-02-14T02:19:38Z",
+    "ip": "240a:61:42f0:fe5:50ed:f9bf:4b9:5345",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Kanagawa Prefecture",
+    "region_code": "14",
+    "city": "Fujisawa",
+    "latitude": 35.3391703,
+    "longitude": 139.490036,
+    "is_eu": false,
+    "postal": "251-0876",
+    "connection": {
+      "asn": 9605,
+      "org": "NTT DOCOMO,INC.",
+      "isp": "NTT DOCOMO, INC.",
+      "domain": "nttdocomo.com"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41419",
+    "tested_at": "2026-02-14T02:19:48Z",
+    "ip": "240b:11:50e0:3700:a57b:f5f2:efa5:cc7d",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
+    "is_eu": false,
+    "postal": "100-0002",
+    "connection": {
+      "asn": 2516,
+      "org": "Japan Internet Xing Co., Ltd.",
+      "isp": "KDDI CORPORATION",
+      "domain": "jpne.co.jp"
+    }
+  },
+  {
     "proxy": "https://47.243.181.85:41399",
-    "tested_at": "2026-02-14T01:48:57Z",
-    "ip": "202.88.197.76",
+    "tested_at": "2026-02-14T02:19:50Z",
+    "ip": "213.18.70.100",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Japan",
     "country_code": "JP",
-    "region": "Fukui Prefecture",
-    "region_code": "18",
-    "city": "Echizen",
-    "latitude": 35.9034986,
-    "longitude": 136.16878,
+    "region": "Osaka Prefecture",
+    "region_code": "27",
+    "city": "Osaka",
+    "latitude": 34.6937378,
+    "longitude": 135.5021651,
     "is_eu": false,
-    "postal": "915-8530",
+    "postal": "530-8201",
     "connection": {
-      "asn": 24255,
-      "org": "ECHIZEN TOWN OFFICE FUKUI PREFECTURE",
-      "isp": "Koshinomiyako Network, Inc.",
-      "domain": "koshinomiyako.jp"
+      "asn": 7524,
+      "org": "Itec Hankyu Hanshin CO.,LTD.",
+      "isp": "ITEC HANKYU HANSHIN CO.,LTD.",
+      "domain": "hankyu-hanshin.co.jp"
     }
   },
   {
-    "proxy": "https://37.120.210.66:9443",
-    "tested_at": "2026-02-14T01:48:58Z",
-    "ip": "37.120.210.71",
+    "proxy": "https://103.100.159.145:443",
+    "tested_at": "2026-02-14T02:20:04Z",
+    "ip": "103.100.159.145",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -177,10 +131,33 @@
     "is_eu": false,
     "postal": "100-0002",
     "connection": {
-      "asn": 9009,
-      "org": "M LTD Tokyo Infrastructure",
-      "isp": "M Europe SRL",
-      "domain": "m247.ro"
+      "asn": 138968,
+      "org": "Softbank Corp.",
+      "isp": "Rainbow Network Limited",
+      "domain": "softbank.jp"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41406",
+    "tested_at": "2026-02-14T02:20:09Z",
+    "ip": "2402:6b00:f015:c600:546b:ccdf:8435:dcfe",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Aichi Prefecture",
+    "region_code": "23",
+    "city": "Nagoya",
+    "latitude": 35.1891168,
+    "longitude": 136.890033,
+    "is_eu": false,
+    "postal": "460-8511",
+    "connection": {
+      "asn": 18126,
+      "org": "Chubu Telecommunications CO.,INC.",
+      "isp": "Chubu Telecommunications CO.,INC.",
+      "domain": "ctc.co.jp"
     }
   }
 ]

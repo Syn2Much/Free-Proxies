@@ -1,8 +1,77 @@
 [
   {
-    "proxy": "https://3.79.194.222:38664",
-    "tested_at": "2026-02-14T01:48:16Z",
-    "ip": "193.189.100.202",
+    "proxy": "http://15.160.134.84:37527",
+    "tested_at": "2026-02-14T02:19:38Z",
+    "ip": "45.84.107.128",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Sweden",
+    "country_code": "SE",
+    "region": "Stockholm County",
+    "region_code": "AB",
+    "city": "Sundbyberg",
+    "latitude": 59.3670471,
+    "longitude": 17.9663093,
+    "is_eu": true,
+    "postal": "172 31",
+    "connection": {
+      "asn": 214503,
+      "org": "R0CKET CLOUD",
+      "isp": "Quxlabs Ab",
+      "domain": "quxlabs.com"
+    }
+  },
+  {
+    "proxy": "http://40.177.212.16:197",
+    "tested_at": "2026-02-14T02:19:39Z",
+    "ip": "45.84.107.33",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Sweden",
+    "country_code": "SE",
+    "region": "Stockholm County",
+    "region_code": "AB",
+    "city": "Sundbyberg",
+    "latitude": 59.3670471,
+    "longitude": 17.9663093,
+    "is_eu": true,
+    "postal": "172 31",
+    "connection": {
+      "asn": 214503,
+      "org": "R0CKET CLOUD",
+      "isp": "Quxlabs Ab",
+      "domain": "quxlabs.com"
+    }
+  },
+  {
+    "proxy": "http://18.163.3.251:8168",
+    "tested_at": "2026-02-14T02:19:39Z",
+    "ip": "45.84.107.198",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Sweden",
+    "country_code": "SE",
+    "region": "Stockholm County",
+    "region_code": "AB",
+    "city": "Sundbyberg",
+    "latitude": 59.3670471,
+    "longitude": 17.9663093,
+    "is_eu": true,
+    "postal": "172 31",
+    "connection": {
+      "asn": 214503,
+      "org": "R0CKET CLOUD",
+      "isp": "Quxlabs Ab",
+      "domain": "quxlabs.com"
+    }
+  },
+  {
+    "proxy": "http://18.60.222.217:16825",
+    "tested_at": "2026-02-14T02:19:49Z",
+    "ip": "193.189.100.197",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -23,9 +92,9 @@
     }
   },
   {
-    "proxy": "http://40.177.211.224:8231",
-    "tested_at": "2026-02-14T01:48:29Z",
-    "ip": "45.84.107.55",
+    "proxy": "http://95.40.79.184:733",
+    "tested_at": "2026-02-14T02:19:49Z",
+    "ip": "45.84.107.47",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -46,9 +115,9 @@
     }
   },
   {
-    "proxy": "http://3.113.13.224:3453",
-    "tested_at": "2026-02-14T01:48:48Z",
-    "ip": "45.84.107.222",
+    "proxy": "http://193.181.35.95:8118",
+    "tested_at": "2026-02-14T02:20:00Z",
+    "ip": "193.181.35.95",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -56,22 +125,22 @@
     "country_code": "SE",
     "region": "Stockholm County",
     "region_code": "AB",
-    "city": "Sundbyberg",
-    "latitude": 59.3670471,
-    "longitude": 17.9663093,
+    "city": "Stockholm",
+    "latitude": 59.3293235,
+    "longitude": 18.0685808,
     "is_eu": true,
-    "postal": "172 31",
+    "postal": "111 29",
     "connection": {
-      "asn": 214503,
-      "org": "R0CKET CLOUD",
-      "isp": "Quxlabs Ab",
-      "domain": "quxlabs.com"
+      "asn": 42201,
+      "org": "Pvdatanet Ab",
+      "isp": "Pvdatanet Ab",
+      "domain": "pvdatanet.com"
     }
   },
   {
-    "proxy": "https://3.137.167.45:10801",
-    "tested_at": "2026-02-14T01:48:57Z",
-    "ip": "45.84.107.54",
+    "proxy": "http://109.120.135.230:2030",
+    "tested_at": "2026-02-14T02:20:00Z",
+    "ip": "109.120.135.230",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -79,16 +148,16 @@
     "country_code": "SE",
     "region": "Stockholm County",
     "region_code": "AB",
-    "city": "Sundbyberg",
-    "latitude": 59.3670471,
-    "longitude": 17.9663093,
+    "city": "Stockholm",
+    "latitude": 59.3293235,
+    "longitude": 18.0685808,
     "is_eu": true,
-    "postal": "172 31",
+    "postal": "111 29",
     "connection": {
-      "asn": 214503,
-      "org": "R0CKET CLOUD",
-      "isp": "Quxlabs Ab",
-      "domain": "quxlabs.com"
+      "asn": 210644,
+      "org": "Aeza International LTD",
+      "isp": "AEZA INTERNATIONAL LTD",
+      "domain": "aeza.net"
     }
   }
 ]

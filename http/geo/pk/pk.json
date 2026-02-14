@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://103.255.66.109:8080",
-    "tested_at": "2026-02-14T01:17:20Z",
-    "ip": "203.215.174.107",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Pakistan",
-    "country_code": "PK",
-    "region": "Rawalpindi Cantonment",
-    "region_code": "",
-    "city": "Rawalpindi",
-    "latitude": 33.598394,
-    "longitude": 73.0441352,
-    "is_eu": false,
-    "postal": "46000",
-    "connection": {
-      "asn": 150683,
-      "org": "Pakistan Software Export Board",
-      "isp": "FASTTEL BROADBAND PRIVATE LIMITED",
-      "domain": "pseb.org.pk"
-    }
-  },
-  {
-    "proxy": "http://103.198.154.196:8080",
-    "tested_at": "2026-02-14T01:17:41Z",
-    "ip": "103.198.154.196",
+    "proxy": "http://67.43.236.20:31429",
+    "tested_at": "2026-02-14T02:19:28Z",
+    "ip": "103.125.177.48",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,10 +16,33 @@
     "is_eu": false,
     "postal": "54000",
     "connection": {
-      "asn": 151330,
-      "org": "PLAY BROADBAND PRIVATE LIMITED",
-      "isp": "PLAY BROADBAND PRIVATE LIMITED",
-      "domain": "pbb.net.pk"
+      "asn": 136969,
+      "org": "KK Networks",
+      "isp": "KK Networks pvt Ltd.",
+      "domain": "kknetworks.com.pk"
+    }
+  },
+  {
+    "proxy": "http://103.153.39.35:8083",
+    "tested_at": "2026-02-14T02:20:16Z",
+    "ip": "103.153.39.35",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "region": "Punjab",
+    "region_code": "PB",
+    "city": "Burewala",
+    "latitude": 30.1592839,
+    "longitude": 72.694262,
+    "is_eu": false,
+    "postal": "78646",
+    "connection": {
+      "asn": 140900,
+      "org": "Getlinks smc private Limited Market",
+      "isp": "Getlinks smc private Limited",
+      "domain": "getlinks.net.pk"
     }
   }
 ]

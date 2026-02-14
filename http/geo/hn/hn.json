@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://190.130.6.11:8080",
-    "tested_at": "2026-02-14T01:49:01Z",
-    "ip": "190.130.6.11",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Honduras",
-    "country_code": "HN",
-    "region": "Francisco Morazán",
-    "region_code": "FM",
-    "city": "Tegucigalpa",
-    "latitude": 14.0722751,
-    "longitude": -87.192136,
-    "is_eu": false,
-    "postal": "12101",
-    "connection": {
-      "asn": 7727,
-      "org": "Hondutel",
-      "isp": "Hondutel",
-      "domain": "hondutel.hn"
-    }
-  },
-  {
-    "proxy": "http://181.78.44.63:999",
-    "tested_at": "2026-02-14T01:49:04Z",
-    "ip": "181.78.44.63",
+    "proxy": "http://190.185.112.58:999",
+    "tested_at": "2026-02-14T02:19:42Z",
+    "ip": "190.185.112.58",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -39,10 +16,10 @@
     "is_eu": false,
     "postal": "21101",
     "connection": {
-      "asn": 52468,
-      "org": "Ufinet Honduras, S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
+      "asn": 27932,
+      "org": "REYTEL",
+      "isp": "Redes Y Telecomunicaciones",
+      "domain": "reytelhn.net"
     }
   }
 ]

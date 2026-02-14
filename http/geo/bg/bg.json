@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://94.155.175.135:8080",
-    "tested_at": "2026-02-14T01:49:02Z",
-    "ip": "94.155.175.135",
+    "proxy": "http://38.180.2.107:3128",
+    "tested_at": "2026-02-14T02:19:57Z",
+    "ip": "38.180.2.107",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Bulgaria",
     "country_code": "BG",
-    "region": "Stara Zagora",
-    "region_code": "24",
-    "city": "Stara Zagora",
-    "latitude": 42.4257769,
-    "longitude": 25.6344644,
+    "region": "Sofia-city",
+    "region_code": "",
+    "city": "Sofia",
+    "latitude": 42.6977082,
+    "longitude": 23.3218675,
     "is_eu": true,
-    "postal": "6002",
+    "postal": "1000",
     "connection": {
-      "asn": 62386,
-      "org": "OMEGA TRADE 1 OOD",
-      "isp": "Bulgarian Telecommunication Group Eood",
-      "domain": "utelecom.com.ua"
+      "asn": 9009,
+      "org": "Cogent Communications",
+      "isp": "M Europe SRL",
+      "domain": "3nt.com"
     }
   }
 ]

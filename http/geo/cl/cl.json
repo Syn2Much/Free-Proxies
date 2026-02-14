@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://204.199.139.54:999",
-    "tested_at": "2026-02-14T01:48:59Z",
-    "ip": "204.199.139.52",
+    "proxy": "http://186.67.47.230:999",
+    "tested_at": "2026-02-14T02:19:56Z",
+    "ip": "186.10.219.154",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -10,16 +10,62 @@
     "country_code": "CL",
     "region": "Santiago Metropolitan Region",
     "region_code": "",
-    "city": "Isla de Maipo",
-    "latitude": -33.7464562,
-    "longitude": -70.9,
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
     "is_eu": false,
-    "postal": "979 0152",
+    "postal": "832 0202",
     "connection": {
-      "asn": 273237,
-      "org": "INGBELL CHILE SPA",
-      "isp": "INGBELL CHILE SPA",
-      "domain": "ingbell.cl"
+      "asn": 27651,
+      "org": "ENTEL CHILE S.A.",
+      "isp": "ENTEL CHILE S.A.",
+      "domain": "entel.cl"
+    }
+  },
+  {
+    "proxy": "http://200.95.184.58:999",
+    "tested_at": "2026-02-14T02:19:56Z",
+    "ip": "200.95.184.146",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Ñuble Region",
+    "region_code": "NB",
+    "city": "Chillán",
+    "latitude": -36.6062618,
+    "longitude": -72.1023351,
+    "is_eu": false,
+    "postal": "3780000",
+    "connection": {
+      "asn": 264859,
+      "org": "Comunicaciones Cablevision Ltda.",
+      "isp": "Comunicaciones Cablevision Ltda.",
+      "domain": "wmnet.cl"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:28053",
+    "tested_at": "2026-02-14T02:20:09Z",
+    "ip": "190.217.197.213",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Los Lagos Region",
+    "region_code": "LL",
+    "city": "Osorno",
+    "latitude": -40.5761897,
+    "longitude": -73.1149469,
+    "is_eu": false,
+    "postal": "531 2321",
+    "connection": {
+      "asn": 14117,
+      "org": "Telefonica Del Sur S.A.",
+      "isp": "Telefonica Del Sur S.A.",
+      "domain": "telsur.cl"
     }
   }
 ]

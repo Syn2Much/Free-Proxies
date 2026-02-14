@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://185.118.51.230:3128",
-    "tested_at": "2026-02-14T01:48:37Z",
+    "tested_at": "2026-02-14T02:20:20Z",
     "ip": "185.118.51.230",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,29 @@
       "org": "CGNAT",
       "isp": "Azfibernet LLC",
       "domain": "azfiber.net"
+    }
+  },
+  {
+    "proxy": "http://85.132.37.9:1313",
+    "tested_at": "2026-02-14T02:20:21Z",
+    "ip": "85.132.37.9",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Azerbaijan",
+    "country_code": "AZ",
+    "region": "Baku",
+    "region_code": "BA",
+    "city": "Baku",
+    "latitude": 40.4092617,
+    "longitude": 49.8670924,
+    "is_eu": false,
+    "postal": "AZ 1009",
+    "connection": {
+      "asn": 209489,
+      "org": "Leased Ipv Blocks",
+      "isp": "Azintex.com LLC",
+      "domain": "delta-telecom.net"
     }
   }
 ]

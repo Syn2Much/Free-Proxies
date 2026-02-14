@@ -1,25 +1,71 @@
 [
   {
-    "proxy": "http://79.106.229.115:8989",
-    "tested_at": "2026-02-14T01:17:48Z",
-    "ip": "79.106.229.115",
+    "proxy": "http://79.106.108.147:8079",
+    "tested_at": "2026-02-14T02:19:32Z",
+    "ip": "79.106.108.146",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Albania",
     "country_code": "AL",
-    "region": "Southern Albania",
+    "region": "Central Albania",
     "region_code": "",
-    "city": "Berat",
-    "latitude": 40.709678,
-    "longitude": 19.9391402,
+    "city": "Tirana",
+    "latitude": 41.3275459,
+    "longitude": 19.8186982,
     "is_eu": false,
-    "postal": "5001",
+    "postal": "1051",
     "connection": {
       "asn": 42313,
-      "org": "TEST 1",
+      "org": "TEST",
       "isp": "ONE ALBANIA SH.A.",
-      "domain": "one.al"
+      "domain": "albtelecom.al"
+    }
+  },
+  {
+    "proxy": "http://77.242.21.133:8080",
+    "tested_at": "2026-02-14T02:19:42Z",
+    "ip": "77.242.21.133",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Albania",
+    "country_code": "AL",
+    "region": "Central Albania",
+    "region_code": "",
+    "city": "Kamëz",
+    "latitude": 41.3783926,
+    "longitude": 19.7770261,
+    "is_eu": false,
+    "postal": "1030",
+    "connection": {
+      "asn": 35047,
+      "org": "Business Static Pool",
+      "isp": "Abissnet SH.A.",
+      "domain": "abissnet.al"
+    }
+  },
+  {
+    "proxy": "http://79.106.108.156:8079",
+    "tested_at": "2026-02-14T02:20:23Z",
+    "ip": "79.106.108.146",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Albania",
+    "country_code": "AL",
+    "region": "Central Albania",
+    "region_code": "",
+    "city": "Tirana",
+    "latitude": 41.3275459,
+    "longitude": 19.8186982,
+    "is_eu": false,
+    "postal": "1051",
+    "connection": {
+      "asn": 42313,
+      "org": "TEST",
+      "isp": "ONE ALBANIA SH.A.",
+      "domain": "albtelecom.al"
     }
   }
 ]

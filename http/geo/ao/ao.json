@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://102.207.128.2:8080",
+    "tested_at": "2026-02-14T02:19:36Z",
+    "ip": "102.207.128.2",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Angola",
+    "country_code": "AO",
+    "region": "Luanda Province",
+    "region_code": "LUA",
+    "city": "Luanda",
+    "latitude": -8.8399876,
+    "longitude": 13.2894368,
+    "is_eu": false,
+    "postal": "1120",
+    "connection": {
+      "asn": 329506,
+      "org": "MSBYTE SOLUTION,LIMITADA",
+      "isp": "MSBYTE SOLUTION,LIMITADA",
+      "domain": "msbytesolution.com"
+    }
+  }
+]

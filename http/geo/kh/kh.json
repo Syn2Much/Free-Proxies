@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://175.100.35.103:8080",
-    "tested_at": "2026-02-14T01:17:16Z",
+    "tested_at": "2026-02-14T02:19:57Z",
     "ip": "175.100.35.103",
     "success": true,
     "type": "IPv4",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://203.217.169.26:8080",
-    "tested_at": "2026-02-14T01:17:35Z",
-    "ip": "203.217.169.26",
+    "proxy": "http://110.74.215.171:8080",
+    "tested_at": "2026-02-14T02:20:16Z",
+    "ip": "110.74.215.171",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,10 +39,10 @@
     "is_eu": false,
     "postal": "120603",
     "connection": {
-      "asn": 131207,
-      "org": "Sinet, Dedicated Fiber, Dedicated Speed, Dedicated Support, Dedicated Always.",
-      "isp": "S.i Group",
-      "domain": "sinet.com.kh"
+      "asn": 38901,
+      "org": "EZECOM CO., LTD.",
+      "isp": "EZECOM CO., LTD.",
+      "domain": "ezecom.com.kh"
     }
   }
 ]

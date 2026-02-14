@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://80.94.229.155:8080",
-    "tested_at": "2026-02-14T01:49:04Z",
-    "ip": "80.94.229.155",
+    "proxy": "http://93.125.3.22:8080",
+    "tested_at": "2026-02-14T02:20:22Z",
+    "ip": "93.125.3.22",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "220009",
     "connection": {
-      "asn": 21305,
-      "org": "Ip Telcom LTD",
-      "isp": "Ip Telcom LLC",
-      "domain": "iptel.by"
+      "asn": 42772,
+      "org": "Unitary Enterprise A1",
+      "isp": "Unitary Enterprise A1",
+      "domain": "A1.by"
     }
   }
 ]

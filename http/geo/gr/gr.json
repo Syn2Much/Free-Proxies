@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://91.211.212.6:32650",
-    "tested_at": "2026-02-14T00:14:15Z",
-    "ip": "91.211.212.6",
+    "proxy": "http://94.68.245.147:8080",
+    "tested_at": "2026-02-14T02:20:09Z",
+    "ip": "94.68.245.147",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Greece",
     "country_code": "GR",
-    "region": "Attica",
-    "region_code": "I",
-    "city": "Athens",
-    "latitude": 37.9838096,
-    "longitude": 23.7275388,
+    "region": "Macedonia and Thrace",
+    "region_code": "",
+    "city": "Kopanos",
+    "latitude": 40.6350113,
+    "longitude": 22.1299742,
     "is_eu": true,
-    "postal": "10431",
-    "connection": {
-      "asn": 200736,
-      "org": "IOT SYNDESI I.K.E.",
-      "isp": "MEDIANET INVEST AE",
-      "domain": "inalan.gr"
-    }
-  },
-  {
-    "proxy": "http://62.103.66.18:3128",
-    "tested_at": "2026-02-14T00:14:47Z",
-    "ip": "62.103.66.18",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Greece",
-    "country_code": "GR",
-    "region": "Attica",
-    "region_code": "I",
-    "city": "Athens",
-    "latitude": 37.9838096,
-    "longitude": 23.7275388,
-    "is_eu": true,
-    "postal": "10431",
+    "postal": "59035",
     "connection": {
       "asn": 6799,
       "org": "Multiprotocol Service Provider to Other Isp s And End Users",
       "isp": "Ote SA hellenic Telecommunications Organisation",
-      "domain": "otenet.gr"
+      "domain": "ote.gr"
     }
   }
 ]

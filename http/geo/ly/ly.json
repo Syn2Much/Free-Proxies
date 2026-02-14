@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://102.68.128.217:8080",
-    "tested_at": "2026-02-14T01:48:17Z",
-    "ip": "102.68.128.203",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Libya",
-    "country_code": "LY",
-    "region": "Tripoli",
-    "region_code": "TB",
-    "city": "Tripoli",
-    "latitude": 32.8872094,
-    "longitude": 13.1913383,
-    "is_eu": false,
-    "postal": "350",
-    "connection": {
-      "asn": 21003,
-      "org": "For Company Use And Interface Assignments",
-      "isp": "General Post And Telecommunication Company gptc",
-      "domain": "noclibya.com"
-    }
-  },
-  {
-    "proxy": "http://154.73.29.161:8080",
-    "tested_at": "2026-02-14T01:48:18Z",
+    "proxy": "http://154.73.28.205:8080",
+    "tested_at": "2026-02-14T02:19:39Z",
     "ip": "154.73.28.74",
     "success": true,
     "type": "IPv4",
@@ -46,9 +23,78 @@
     }
   },
   {
-    "proxy": "http://154.73.29.65:8080",
-    "tested_at": "2026-02-14T01:48:19Z",
-    "ip": "154.73.28.72",
+    "proxy": "http://102.68.128.212:8080",
+    "tested_at": "2026-02-14T02:19:55Z",
+    "ip": "102.68.128.200",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Tripoli",
+    "region_code": "TB",
+    "city": "Tripoli",
+    "latitude": 32.8872094,
+    "longitude": 13.1913383,
+    "is_eu": false,
+    "postal": "350",
+    "connection": {
+      "asn": 21003,
+      "org": "For Company Use And Interface Assignments",
+      "isp": "General Post And Telecommunication Company gptc",
+      "domain": "noclibya.com"
+    }
+  },
+  {
+    "proxy": "http://102.68.128.215:8080",
+    "tested_at": "2026-02-14T02:20:01Z",
+    "ip": "102.68.128.206",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Tripoli",
+    "region_code": "TB",
+    "city": "Tripoli",
+    "latitude": 32.8872094,
+    "longitude": 13.1913383,
+    "is_eu": false,
+    "postal": "350",
+    "connection": {
+      "asn": 21003,
+      "org": "For Company Use And Interface Assignments",
+      "isp": "General Post And Telecommunication Company gptc",
+      "domain": "noclibya.com"
+    }
+  },
+  {
+    "proxy": "http://41.254.47.66:19000",
+    "tested_at": "2026-02-14T02:20:10Z",
+    "ip": "41.254.47.66",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Tripoli",
+    "region_code": "TB",
+    "city": "Tripoli",
+    "latitude": 32.8872094,
+    "longitude": 13.1913383,
+    "is_eu": false,
+    "postal": "350",
+    "connection": {
+      "asn": 21003,
+      "org": "Libyan Telecom and Technology",
+      "isp": "LTT Network Backbone and POPs",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://154.73.28.253:8080",
+    "tested_at": "2026-02-14T02:20:23Z",
+    "ip": "154.73.28.73",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -69,9 +115,9 @@
     }
   },
   {
-    "proxy": "http://102.68.129.54:8080",
-    "tested_at": "2026-02-14T01:49:06Z",
-    "ip": "102.68.129.57",
+    "proxy": "http://165.16.46.1:8080",
+    "tested_at": "2026-02-14T02:20:28Z",
+    "ip": "165.16.46.193",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -85,10 +131,10 @@
     "is_eu": false,
     "postal": "350",
     "connection": {
-      "asn": 21003,
-      "org": "Palm City",
-      "isp": "General Post And Telecommunication Company gptc",
-      "domain": "rltt.net"
+      "asn": 37284,
+      "org": "Organisation Alhadatha International",
+      "isp": "Aljeel Aljadeed For Technology",
+      "domain": "aljeel.ly"
     }
   }
 ]

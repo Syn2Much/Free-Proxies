@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://92.180.22.224:8081",
-    "tested_at": "2026-02-14T01:49:04Z",
-    "ip": "92.180.22.224",
+    "proxy": "http://35.183.64.191:30309",
+    "tested_at": "2026-02-14T02:19:28Z",
+    "ip": "72.5.43.62",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Romania",
     "country_code": "RO",
-    "region": "Cluj",
-    "region_code": "CJ",
-    "city": "Turda",
-    "latitude": 46.564676,
-    "longitude": 23.7971063,
+    "region": "Bucharest",
+    "region_code": "B",
+    "city": "Bucharest",
+    "latitude": 44.4267674,
+    "longitude": 26.1025384,
     "is_eu": true,
-    "postal": "401100",
+    "postal": "030163",
     "connection": {
-      "asn": 8953,
-      "org": "Orange Romania",
-      "isp": "Orange Romania S.A.",
-      "domain": "orange.ro"
+      "asn": 399629,
+      "org": "Bl Networks",
+      "isp": "Bl Networks",
+      "domain": "blnwx.com"
+    }
+  },
+  {
+    "proxy": "http://81.196.74.147:8080",
+    "tested_at": "2026-02-14T02:20:13Z",
+    "ip": "81.196.74.147",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Romania",
+    "country_code": "RO",
+    "region": "Mehedinți",
+    "region_code": "MH",
+    "city": "Drobeta-Turnu Severin",
+    "latitude": 44.6369227,
+    "longitude": 22.6597342,
+    "is_eu": true,
+    "postal": "220131",
+    "connection": {
+      "asn": 8708,
+      "org": "RCS RDS S.A.",
+      "isp": "DIGI ROMANIA S.A.",
+      "domain": "digi.ro"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://38.180.26.208:3128",
-    "tested_at": "2026-02-13T22:47:53Z",
-    "ip": "38.180.26.41",
+    "proxy": "http://67.43.228.250:16363",
+    "tested_at": "2026-02-14T02:20:13Z",
+    "ip": "83.110.151.251",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -11,15 +11,15 @@
     "region": "Dubai",
     "region_code": "DU",
     "city": "Dubai",
-    "latitude": 25.2048493,
-    "longitude": 55.2707828,
+    "latitude": 24.9857145,
+    "longitude": 55.0272904,
     "is_eu": false,
-    "postal": "39205",
+    "postal": "16961",
     "connection": {
-      "asn": 9009,
-      "org": "Cogent Communications",
-      "isp": "M Europe SRL",
-      "domain": "3nt.com"
+      "asn": 5384,
+      "org": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY ETISALAT GROUP PJSC",
+      "isp": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY ETISALAT GROUP PJSC",
+      "domain": "etisalat.ae"
     }
   }
 ]

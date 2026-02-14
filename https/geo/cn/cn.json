@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "https://114.55.114.43:8095",
-    "tested_at": "2026-02-14T01:48:17Z",
-    "ip": "220.188.249.162",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "China",
-    "country_code": "CN",
-    "region": "Zhejiang",
-    "region_code": "33",
-    "city": "Ningbo",
-    "latitude": 29.868336,
-    "longitude": 121.54399,
-    "is_eu": false,
-    "postal": "315051",
-    "connection": {
-      "asn": 4134,
-      "org": "Chinanet zj Hangzhou Node Network",
-      "isp": "No. 1,jin rong Street",
-      "domain": "chinatelecom.cn"
-    }
-  },
-  {
     "proxy": "https://114.55.114.43:8441",
-    "tested_at": "2026-02-14T01:48:27Z",
+    "tested_at": "2026-02-14T02:19:30Z",
     "ip": "36.159.131.250",
     "success": true,
     "type": "IPv4",
@@ -46,8 +23,8 @@
     }
   },
   {
-    "proxy": "https://180.166.128.182:34001",
-    "tested_at": "2026-02-14T01:48:37Z",
+    "proxy": "https://180.166.128.182:24001",
+    "tested_at": "2026-02-14T02:19:38Z",
     "ip": "58.34.88.74",
     "success": true,
     "type": "IPv4",
@@ -69,26 +46,118 @@
     }
   },
   {
-    "proxy": "https://14.29.168.215:10443",
-    "tested_at": "2026-02-14T01:48:40Z",
-    "ip": "14.29.168.215",
+    "proxy": "https://114.55.114.43:8095",
+    "tested_at": "2026-02-14T02:19:58Z",
+    "ip": "220.188.249.162",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "China",
     "country_code": "CN",
-    "region": "Guangdong Province",
-    "region_code": "44",
-    "city": "Guangzhou",
-    "latitude": 23.12911,
-    "longitude": 113.264385,
+    "region": "Zhejiang",
+    "region_code": "33",
+    "city": "Ningbo",
+    "latitude": 29.868336,
+    "longitude": 121.54399,
     "is_eu": false,
-    "postal": "510030",
+    "postal": "315051",
     "connection": {
       "asn": 4134,
-      "org": "Chinanet GD",
-      "isp": "Chinanet",
+      "org": "Chinanet zj Hangzhou Node Network",
+      "isp": "No. 1,jin rong Street",
+      "domain": "chinatelecom.cn"
+    }
+  },
+  {
+    "proxy": "https://180.166.128.182:12011",
+    "tested_at": "2026-02-14T02:20:09Z",
+    "ip": "58.34.88.74",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "China",
+    "country_code": "CN",
+    "region": "Shanghai",
+    "region_code": "31",
+    "city": "Shanghai",
+    "latitude": 31.230416,
+    "longitude": 121.473701,
+    "is_eu": false,
+    "postal": "200001",
+    "connection": {
+      "asn": 4812,
+      "org": "Chinanet Shanghai Province Network",
+      "isp": "China Telecom group",
+      "domain": "online.sh.cn"
+    }
+  },
+  {
+    "proxy": "https://180.166.128.182:34000",
+    "tested_at": "2026-02-14T02:20:11Z",
+    "ip": "58.34.88.74",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "China",
+    "country_code": "CN",
+    "region": "Shanghai",
+    "region_code": "31",
+    "city": "Shanghai",
+    "latitude": 31.230416,
+    "longitude": 121.473701,
+    "is_eu": false,
+    "postal": "200001",
+    "connection": {
+      "asn": 4812,
+      "org": "Chinanet Shanghai Province Network",
+      "isp": "China Telecom group",
+      "domain": "online.sh.cn"
+    }
+  },
+  {
+    "proxy": "https://114.55.114.43:8528",
+    "tested_at": "2026-02-14T02:20:19Z",
+    "ip": "120.227.92.28",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "China",
+    "country_code": "CN",
+    "region": "Hunan",
+    "region_code": "43",
+    "city": "Changsha",
+    "latitude": 28.1450774,
+    "longitude": 113.2384362,
+    "is_eu": false,
+    "postal": "410075",
+    "connection": {
+      "asn": 56047,
+      "org": "China Mobile",
+      "isp": "China Mobile Communications Corporation",
       "domain": ""
+    }
+  },
+  {
+    "proxy": "https://180.166.128.182:13010",
+    "tested_at": "2026-02-14T02:20:22Z",
+    "ip": "58.34.88.74",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "China",
+    "country_code": "CN",
+    "region": "Shanghai",
+    "region_code": "31",
+    "city": "Shanghai",
+    "latitude": 31.230416,
+    "longitude": 121.473701,
+    "is_eu": false,
+    "postal": "200001",
+    "connection": {
+      "asn": 4812,
+      "org": "Chinanet Shanghai Province Network",
+      "isp": "China Telecom group",
+      "domain": "online.sh.cn"
     }
   }
 ]

@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://37.230.58.20:999",
-    "tested_at": "2026-02-14T01:48:31Z",
-    "ip": "138.59.227.88",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Paraguay",
-    "country_code": "PY",
-    "region": "Concepción",
-    "region_code": "1",
-    "city": "Concepción",
-    "latitude": -23.4214264,
-    "longitude": -57.4344451,
-    "is_eu": false,
-    "postal": "8100",
-    "connection": {
-      "asn": 270052,
-      "org": "STARTELECOM S.A.",
-      "isp": "STARTELECOM S.A.",
-      "domain": "startpy.com.py"
-    }
-  },
-  {
-    "proxy": "http://45.179.193.143:999",
-    "tested_at": "2026-02-14T01:49:04Z",
+    "proxy": "http://45.179.193.138:999",
+    "tested_at": "2026-02-14T02:20:12Z",
     "ip": "45.179.193.122",
     "success": true,
     "type": "IPv4",
@@ -43,6 +20,29 @@
       "org": "Saldivar Sosa Rodrigo Agustin raynet",
       "isp": "Saldivar Sosa Rodrigo Agustin raynet",
       "domain": "raynet.com.py"
+    }
+  },
+  {
+    "proxy": "http://170.245.132.85:999",
+    "tested_at": "2026-02-14T02:20:23Z",
+    "ip": "170.245.132.81",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "region": "Paraguarí",
+    "region_code": "9",
+    "city": "Carapeguá",
+    "latitude": -25.7643636,
+    "longitude": -57.2423411,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 270096,
+      "org": "MACHADO BAEZ, NERY JAVIER LOCAL NET PARAGUAY",
+      "isp": "MACHADO BAEZ, NERY JAVIER LOCAL NET PARAGUAY",
+      "domain": "local.net.py"
     }
   }
 ]
