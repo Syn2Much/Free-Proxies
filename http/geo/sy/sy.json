@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://89.43.132.242:8080",
-    "tested_at": "2026-02-14T14:51:29Z",
-    "ip": "89.43.132.242",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Syria",
-    "country_code": "SY",
-    "region": "Aleppo Governorate",
-    "region_code": "HL",
-    "city": "Aleppo",
-    "latitude": 36.2021047,
-    "longitude": 37.1342603,
-    "is_eu": false,
-    "postal": "720",
-    "connection": {
-      "asn": 216472,
-      "org": "HU PANTEL INT 00 11",
-      "isp": "High Speed For Internet Services L.L.C",
-      "domain": "turktelekomint.com"
-    }
-  },
-  {
-    "proxy": "http://212.108.115.39:8080",
-    "tested_at": "2026-02-14T14:51:59Z",
-    "ip": "212.108.115.39",
+    "proxy": "http://212.108.115.172:8080",
+    "tested_at": "2026-02-14T15:22:30Z",
+    "ip": "212.108.115.172",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -46,26 +23,26 @@
     }
   },
   {
-    "proxy": "http://193.43.159.163:8080",
-    "tested_at": "2026-02-14T14:51:59Z",
-    "ip": "193.43.159.163",
+    "proxy": "http://89.43.134.40:8080",
+    "tested_at": "2026-02-14T15:23:01Z",
+    "ip": "89.43.134.40",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Syria",
     "country_code": "SY",
-    "region": "Damascus Governorate",
-    "region_code": "DI",
-    "city": "Damascus",
-    "latitude": 33.5138073,
-    "longitude": 36.2765279,
+    "region": "Aleppo Governorate",
+    "region_code": "HL",
+    "city": "Aleppo",
+    "latitude": 36.2021047,
+    "longitude": 37.1342603,
     "is_eu": false,
-    "postal": "2277",
+    "postal": "720",
     "connection": {
-      "asn": 29256,
-      "org": "Wafa Telecom J.S.C",
-      "isp": "Syrian Telecommunication Private Closed Joint Stock Company",
-      "domain": "syriantelecom.sy"
+      "asn": 216472,
+      "org": "HU PANTEL INT 00 11",
+      "isp": "High Speed For Internet Services L.L.C",
+      "domain": "turktelekomint.com"
     }
   }
 ]

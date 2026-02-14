@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://67.43.236.20:20841",
+    "tested_at": "2026-02-14T15:23:00Z",
+    "ip": "202.90.80.98",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Oceania",
+    "country": "French Polynesia",
+    "country_code": "PF",
+    "region": "Windward Islands",
+    "region_code": "",
+    "city": "Pape'ete",
+    "latitude": -17.5516251,
+    "longitude": -149.5584758,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 9471,
+      "org": "ONATI",
+      "isp": "ONATI",
+      "domain": "onati.pf"
+    }
+  }
+]

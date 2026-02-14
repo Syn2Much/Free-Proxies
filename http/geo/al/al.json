@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://77.242.16.30:8080",
-    "tested_at": "2026-02-14T13:48:44Z",
-    "ip": "77.242.16.30",
+    "proxy": "http://79.106.229.115:8989",
+    "tested_at": "2026-02-14T15:23:20Z",
+    "ip": "79.106.229.115",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Albania",
     "country_code": "AL",
-    "region": "Central Albania",
+    "region": "Southern Albania",
     "region_code": "",
-    "city": "Labinot-Fushë",
-    "latitude": 41.1437394,
-    "longitude": 20.15515,
+    "city": "Berat",
+    "latitude": 40.709678,
+    "longitude": 19.9391402,
     "is_eu": false,
-    "postal": "3010",
+    "postal": "5001",
     "connection": {
-      "asn": 35047,
-      "org": "Web App Servers",
-      "isp": "Abissnet SH.A.",
-      "domain": "abissnet.al"
+      "asn": 42313,
+      "org": "TEST 1",
+      "isp": "ONE ALBANIA SH.A.",
+      "domain": "one.al"
     }
   }
 ]

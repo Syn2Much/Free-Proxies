@@ -1,99 +1,7 @@
 [
   {
-    "proxy": "http://67.43.236.19:27273",
-    "tested_at": "2026-02-14T14:51:09Z",
-    "ip": "123.20.77.195",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Ho Chi Minh",
-    "region_code": "SG",
-    "city": "Ho Chi Minh City",
-    "latitude": 10.8230989,
-    "longitude": 106.6296638,
-    "is_eu": false,
-    "postal": "708000",
-    "connection": {
-      "asn": 45899,
-      "org": "Vietnam Posts And Telecommunications Group",
-      "isp": "Vnpt Corp",
-      "domain": "vnpt.com.vn"
-    }
-  },
-  {
-    "proxy": "http://113.189.164.2:8080",
-    "tested_at": "2026-02-14T14:51:13Z",
-    "ip": "113.189.164.2",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Khanh Hoa Province",
-    "region_code": "34",
-    "city": "Nha Trang",
-    "latitude": 12.2387911,
-    "longitude": 109.1967488,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 45899,
-      "org": "Vietnam Posts And Telecommunications Group",
-      "isp": "Vnpt Corp",
-      "domain": "vnpt.com.vn"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.93:20177",
-    "tested_at": "2026-02-14T14:51:26Z",
-    "ip": "42.115.136.140",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Ho Chi Minh City",
-    "region_code": "SG",
-    "city": "District 6",
-    "latitude": 10.7480929,
-    "longitude": 106.6352362,
-    "is_eu": false,
-    "postal": "750510",
-    "connection": {
-      "asn": 18403,
-      "org": "Fpt Telecom Company",
-      "isp": "Fpt Telecom Company",
-      "domain": "fpt.net"
-    }
-  },
-  {
-    "proxy": "http://14.224.181.172:8080",
-    "tested_at": "2026-02-14T14:51:43Z",
-    "ip": "14.224.181.172",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Ho Chi Minh",
-    "region_code": "SG",
-    "city": "Ho Chi Minh City",
-    "latitude": 10.8230989,
-    "longitude": 106.6296638,
-    "is_eu": false,
-    "postal": "708000",
-    "connection": {
-      "asn": 45899,
-      "org": "Vietnam Posts And Telecommunications Group",
-      "isp": "Vnpt Corp",
-      "domain": "vnpt.com.vn"
-    }
-  },
-  {
     "proxy": "http://72.10.160.90:7317",
-    "tested_at": "2026-02-14T14:51:57Z",
+    "tested_at": "2026-02-14T15:22:40Z",
     "ip": "58.187.248.89",
     "success": true,
     "type": "IPv4",
@@ -112,6 +20,98 @@
       "org": "Fpt Telecom Company",
       "isp": "Fpt Telecom Company",
       "domain": "fpt.net"
+    }
+  },
+  {
+    "proxy": "http://103.3.246.71:3128",
+    "tested_at": "2026-02-14T15:23:07Z",
+    "ip": "103.3.246.71",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Tien Giang province",
+    "region_code": "46",
+    "city": "Tân Phú",
+    "latitude": 10.7900517,
+    "longitude": 106.6281901,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 135967,
+      "org": "New Vision Trading Co.,ltd",
+      "isp": "Bach Kim Network Solutions Join Stock Company",
+      "domain": "vdata.vn"
+    }
+  },
+  {
+    "proxy": "http://113.160.115.254:8080",
+    "tested_at": "2026-02-14T15:23:07Z",
+    "ip": "113.160.115.254",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Quảng Ninh Province",
+    "region_code": "13",
+    "city": "Hạ Long Bay",
+    "latitude": 20.9100512,
+    "longitude": 107.1839024,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 45899,
+      "org": "Vietnam Posts And Telecommunications Group",
+      "isp": "Vnpt Corp",
+      "domain": "vnpt.com.vn"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.92:3991",
+    "tested_at": "2026-02-14T15:23:12Z",
+    "ip": "58.187.40.42",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Quang Binh Province",
+    "region_code": "24",
+    "city": "Đồng Hới",
+    "latitude": 17.4659391,
+    "longitude": 106.5983958,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 18403,
+      "org": "Fpt Telecom Company",
+      "isp": "Fpt Telecom Company",
+      "domain": "fpt.net"
+    }
+  },
+  {
+    "proxy": "http://67.43.236.19:27273",
+    "tested_at": "2026-02-14T15:23:16Z",
+    "ip": "123.20.77.195",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Ho Chi Minh",
+    "region_code": "SG",
+    "city": "Ho Chi Minh City",
+    "latitude": 10.8230989,
+    "longitude": 106.6296638,
+    "is_eu": false,
+    "postal": "708000",
+    "connection": {
+      "asn": 45899,
+      "org": "Vietnam Posts And Telecommunications Group",
+      "isp": "Vnpt Corp",
+      "domain": "vnpt.com.vn"
     }
   }
 ]

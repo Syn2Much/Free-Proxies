@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://102.207.191.68:8080",
-    "tested_at": "2026-02-14T14:51:37Z",
-    "ip": "102.207.191.68",
+    "proxy": "http://102.208.166.248:8082",
+    "tested_at": "2026-02-14T15:22:31Z",
+    "ip": "102.208.166.248",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Kenya",
     "country_code": "KE",
-    "region": "Kitui",
-    "region_code": "18",
-    "city": "Mwingi",
-    "latitude": -0.937411,
-    "longitude": 38.0605006,
+    "region": "Nairobi",
+    "region_code": "110",
+    "city": "Nairobi",
+    "latitude": -1.2920659,
+    "longitude": 36.8219462,
     "is_eu": false,
-    "postal": "90400",
+    "postal": "200",
     "connection": {
-      "asn": 329497,
-      "org": "Customer Assignment Public Ipv Addresses for Subscriber customer Devices.",
-      "isp": "Avitech Solutions LTD",
-      "domain": "avitechsolutionsltd.com"
+      "asn": 329452,
+      "org": "Alwen Networks Co. Limited",
+      "isp": "Alwen Networks Co. Limited",
+      "domain": "alwennetworks.com"
+    }
+  },
+  {
+    "proxy": "http://102.68.78.19:8080",
+    "tested_at": "2026-02-14T15:23:06Z",
+    "ip": "102.68.79.203",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Kisumu",
+    "region_code": "17",
+    "city": "Kisumu",
+    "latitude": -0.0917016,
+    "longitude": 34.7679568,
+    "is_eu": false,
+    "postal": "40100",
+    "connection": {
+      "asn": 328490,
+      "org": "Unwired Communications LTD",
+      "isp": "Unwired Communications Limited",
+      "domain": "unwired.co.ke"
     }
   }
 ]

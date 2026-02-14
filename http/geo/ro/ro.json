@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://72.10.160.90:16157",
-    "tested_at": "2026-02-14T08:36:01Z",
-    "ip": "85.120.207.252",
+    "proxy": "http://81.196.74.147:8080",
+    "tested_at": "2026-02-14T15:22:41Z",
+    "ip": "81.196.74.147",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Romania",
     "country_code": "RO",
-    "region": "Timiș",
-    "region_code": "TM",
-    "city": "Timișoara",
-    "latitude": 45.7488716,
-    "longitude": 21.2086793,
+    "region": "Mehedinți",
+    "region_code": "MH",
+    "city": "Drobeta-Turnu Severin",
+    "latitude": 44.6369227,
+    "longitude": 22.6597342,
     "is_eu": true,
-    "postal": "300030",
+    "postal": "220131",
     "connection": {
-      "asn": 199513,
-      "org": "Universitatea De Vest Din Timisoara",
-      "isp": "Universitatea De Vest Din Timisoara",
-      "domain": "uvt.ro"
+      "asn": 8708,
+      "org": "RCS RDS S.A.",
+      "isp": "DIGI ROMANIA S.A.",
+      "domain": "digi.ro"
     }
   }
 ]

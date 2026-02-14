@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://197.255.125.190:7777",
+    "tested_at": "2026-02-14T15:22:34Z",
+    "ip": "197.255.125.190",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Ghana",
+    "country_code": "GH",
+    "region": "Greater Accra Region",
+    "region_code": "AA",
+    "city": "Accra",
+    "latitude": 5.6037168,
+    "longitude": -0.1869644,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 37074,
+      "org": "For Infrastructure",
+      "isp": "University of Ghana",
+      "domain": "ug.edu.gh"
+    }
+  }
+]

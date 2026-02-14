@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://37.27.180.250:2081",
-    "tested_at": "2026-02-14T14:51:04Z",
+    "tested_at": "2026-02-14T15:23:11Z",
     "ip": "141.98.101.182",
     "success": true,
     "type": "IPv4",
@@ -23,32 +23,9 @@
     }
   },
   {
-    "proxy": "http://83.147.29.57:8080",
-    "tested_at": "2026-02-14T14:51:15Z",
-    "ip": "83.147.29.57",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "London",
-    "latitude": 51.5123419,
-    "longitude": -0.0902364,
-    "is_eu": false,
-    "postal": "SW1",
-    "connection": {
-      "asn": 203758,
-      "org": "Private Customer",
-      "isp": "EUGAMEHOST LTD",
-      "domain": "us.com"
-    }
-  },
-  {
     "proxy": "http://152.53.136.194:10000",
-    "tested_at": "2026-02-14T14:51:33Z",
-    "ip": "86.136.151.81",
+    "tested_at": "2026-02-14T15:23:15Z",
+    "ip": "2.219.183.205",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -56,39 +33,16 @@
     "country_code": "GB",
     "region": "England",
     "region_code": "ENG",
-    "city": "Cambridge",
-    "latitude": 52.3715,
-    "longitude": -1.26693,
+    "city": "Felbridge",
+    "latitude": 51.138998,
+    "longitude": -0.039724,
     "is_eu": false,
-    "postal": "CB2 1TN",
+    "postal": "RH7 6HL",
     "connection": {
-      "asn": 2856,
-      "org": "Ip Pools",
-      "isp": "British Telecommunications PLC",
-      "domain": "bt.com"
-    }
-  },
-  {
-    "proxy": "http://109.120.135.230:2030",
-    "tested_at": "2026-02-14T14:51:57Z",
-    "ip": "2a0b:4140:685e::2",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "London",
-    "latitude": 51.5073509,
-    "longitude": -0.1277583,
-    "is_eu": false,
-    "postal": "SW1",
-    "connection": {
-      "asn": 210644,
-      "org": "AEZA NETWORK STOCKHOLM",
-      "isp": "AEZA INTERNATIONAL LTD",
-      "domain": "aeza.net"
+      "asn": 5607,
+      "org": "Sky UK Limited",
+      "isp": "Sky UK Limited",
+      "domain": "sky.uk"
     }
   }
 ]

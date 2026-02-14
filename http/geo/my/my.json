@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://72.10.164.178:21005",
-    "tested_at": "2026-02-14T14:51:25Z",
+    "tested_at": "2026-02-14T15:22:40Z",
     "ip": "161.142.146.62",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,29 @@
       "org": "TT DOTCOM SDN BHD",
       "isp": "TT DOTCOM SDN BHD",
       "domain": "time.com.my"
+    }
+  },
+  {
+    "proxy": "http://67.43.228.250:14541",
+    "tested_at": "2026-02-14T15:22:50Z",
+    "ip": "203.106.115.170",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "region": "Selangor",
+    "region_code": "10",
+    "city": "Ss 16",
+    "latitude": 3.081609,
+    "longitude": 101.5825581,
+    "is_eu": false,
+    "postal": "47500",
+    "connection": {
+      "asn": 4788,
+      "org": "TMNET",
+      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+      "domain": "tm.com.my"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://182.93.95.80:8080",
-    "tested_at": "2026-02-14T12:46:10Z",
-    "ip": "182.93.95.80",
+    "proxy": "http://67.43.228.253:12173",
+    "tested_at": "2026-02-14T15:23:12Z",
+    "ip": "202.51.88.69",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,14 +10,14 @@
     "country_code": "NP",
     "region": "Bagmati Pradesh",
     "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
+    "city": "Hetauda",
+    "latitude": 27.4367653,
+    "longitude": 85.0025539,
     "is_eu": false,
-    "postal": "46600",
+    "postal": "",
     "connection": {
       "asn": 4007,
-      "org": "Subisu Corporate Pool10",
+      "org": "Subisu Cablenet",
       "isp": "Subisu Cablenet",
       "domain": "subisu.net.np"
     }

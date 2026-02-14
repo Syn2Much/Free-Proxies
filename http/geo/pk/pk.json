@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://67.43.228.252:27015",
-    "tested_at": "2026-02-14T14:51:26Z",
-    "ip": "39.50.132.253",
+    "proxy": "http://103.115.197.142:3127",
+    "tested_at": "2026-02-14T15:22:35Z",
+    "ip": "103.115.197.142",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,16 +10,39 @@
     "country_code": "PK",
     "region": "Punjab",
     "region_code": "PB",
-    "city": "Multan",
-    "latitude": 30.1983807,
-    "longitude": 71.4687028,
+    "city": "Lahore",
+    "latitude": 31.5546061,
+    "longitude": 74.3571581,
     "is_eu": false,
-    "postal": "60000",
+    "postal": "54000",
     "connection": {
-      "asn": 17557,
-      "org": "Pakistan Telecommuication Company Limited",
-      "isp": "Pakistan Telecommuication Company Limited",
-      "domain": "ptcl.net.pk"
+      "asn": 152605,
+      "org": "Ambition",
+      "isp": "Z COM NETWORKS",
+      "domain": "ambition.net.pk"
+    }
+  },
+  {
+    "proxy": "http://103.152.101.19:8080",
+    "tested_at": "2026-02-14T15:22:41Z",
+    "ip": "103.152.101.19",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "region": "Punjab",
+    "region_code": "PB",
+    "city": "Lahore",
+    "latitude": 31.5546061,
+    "longitude": 74.3571581,
+    "is_eu": false,
+    "postal": "54000",
+    "connection": {
+      "asn": 151330,
+      "org": "HOMENET PRIVATE LIMITED",
+      "isp": "PLAY BROADBAND PRIVATE LIMITED",
+      "domain": "homenet.com.pk"
     }
   }
 ]

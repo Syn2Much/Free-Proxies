@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://185.242.233.230:3128",
+    "tested_at": "2026-02-14T15:22:38Z",
+    "ip": "185.242.233.230",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.3985709,
+    "longitude": 114.1929428,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 55933,
+      "org": "Meiping Hulian",
+      "isp": "Cloudie Limited",
+      "domain": "itsidc.com"
+    }
+  },
+  {
     "proxy": "http://72.10.160.170:21781",
-    "tested_at": "2026-02-14T14:51:18Z",
+    "tested_at": "2026-02-14T15:22:49Z",
     "ip": "210.6.34.131",
     "success": true,
     "type": "IPv4",
@@ -23,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://8.217.147.173:8080",
-    "tested_at": "2026-02-14T14:51:44Z",
-    "ip": "8.217.147.173",
+    "proxy": "http://101.47.73.135:3128",
+    "tested_at": "2026-02-14T15:23:00Z",
+    "ip": "101.47.73.135",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,10 +62,10 @@
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 45102,
-      "org": "Aliyun Computing Co.ltd",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibaba-inc.com"
+      "asn": 150436,
+      "org": "BYTEPLUS",
+      "isp": "Byteplus Pte. Ltd.",
+      "domain": "bytedance.com"
     }
   }
 ]

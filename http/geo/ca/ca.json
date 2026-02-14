@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://188.227.196.62:1080",
-    "tested_at": "2026-02-14T14:51:16Z",
-    "ip": "188.227.196.62",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Québec",
-    "region_code": "QC",
-    "city": "Québec City",
-    "latitude": 46.8138783,
-    "longitude": -71.2079809,
-    "is_eu": false,
-    "postal": "G1R 4S9",
-    "connection": {
-      "asn": 400897,
-      "org": "PetroSky",
-      "isp": "PETROSKY CLOUD LLC",
-      "domain": "abuseradar.com"
-    }
-  },
-  {
-    "proxy": "http://143.198.37.6:8888",
-    "tested_at": "2026-02-14T14:51:18Z",
-    "ip": "178.249.214.14",
+    "proxy": "http://67.43.228.250:14459",
+    "tested_at": "2026-02-14T15:22:53Z",
+    "ip": "38.86.7.109",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -33,16 +10,16 @@
     "country_code": "CA",
     "region": "Ontario",
     "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
+    "city": "Saint Catharines",
+    "latitude": 43.1593745,
+    "longitude": -79.2468626,
     "is_eu": false,
-    "postal": "M5H 2N2",
+    "postal": "L2N 7S9",
     "connection": {
-      "asn": 212238,
-      "org": "CDNEXT TOR",
-      "isp": "Datacamp Limited",
-      "domain": "datacamp.co.uk"
+      "asn": 398721,
+      "org": "Cogent Communications",
+      "isp": "OXIO",
+      "domain": "oxio.ca"
     }
   }
 ]

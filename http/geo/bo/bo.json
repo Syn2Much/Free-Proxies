@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://72.10.160.172:13081",
-    "tested_at": "2026-02-14T13:17:35Z",
-    "ip": "131.0.199.239",
+    "proxy": "http://72.10.164.178:11355",
+    "tested_at": "2026-02-14T15:22:39Z",
+    "ip": "190.129.164.81",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "3278",
     "connection": {
-      "asn": 27882,
-      "org": "Telef nica Celular De Bolivia S.A.",
-      "isp": "Telef nica Celular De Bolivia S.A.",
-      "domain": "tigo.com.bo"
+      "asn": 6568,
+      "org": "EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA",
+      "isp": "EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA",
+      "domain": "entelnet.bo"
     }
   }
 ]

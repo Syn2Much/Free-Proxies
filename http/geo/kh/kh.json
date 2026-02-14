@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://110.235.250.77:8080",
-    "tested_at": "2026-02-14T14:51:37Z",
-    "ip": "110.235.250.77",
+    "proxy": "http://36.37.251.137:8080",
+    "tested_at": "2026-02-14T15:23:01Z",
+    "ip": "36.37.251.137",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,56 @@
     "is_eu": false,
     "postal": "120603",
     "connection": {
-      "asn": 23673,
-      "org": "Cogetel Ltd, Online Isp, Cambodia",
-      "isp": "COGETEL LTD.",
-      "domain": "cogetel.com.kh"
+      "asn": 38623,
+      "org": "VIETTEL CAMBODIA PTE., LTD.",
+      "isp": "VIETTEL CAMBODIA PTE., LTD",
+      "domain": "viettel.com.vn"
+    }
+  },
+  {
+    "proxy": "http://36.37.155.160:8080",
+    "tested_at": "2026-02-14T15:23:15Z",
+    "ip": "36.37.155.160",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "region": "Phnom Penh",
+    "region_code": "12",
+    "city": "Phnom Phen City",
+    "latitude": 11.5448729,
+    "longitude": 104.8921668,
+    "is_eu": false,
+    "postal": "120603",
+    "connection": {
+      "asn": 38623,
+      "org": "VIETTEL CAMBODIA PTE, LTD.",
+      "isp": "VIETTEL CAMBODIA PTE., LTD",
+      "domain": "metfone.com.kh"
+    }
+  },
+  {
+    "proxy": "http://110.74.195.34:25",
+    "tested_at": "2026-02-14T15:23:16Z",
+    "ip": "110.74.195.34",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "region": "Phnom Penh",
+    "region_code": "12",
+    "city": "Phnom Phen City",
+    "latitude": 11.5448729,
+    "longitude": 104.8921668,
+    "is_eu": false,
+    "postal": "120603",
+    "connection": {
+      "asn": 38901,
+      "org": "EZECOM CO., LTD.",
+      "isp": "EZECOM CO., LTD.",
+      "domain": "ezecom.com.kh"
     }
   }
 ]

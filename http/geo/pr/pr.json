@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://192.203.0.62:999",
-    "tested_at": "2026-02-14T14:52:02Z",
-    "ip": "192.203.0.62",
+    "proxy": "http://192.203.0.118:999",
+    "tested_at": "2026-02-14T15:22:30Z",
+    "ip": "192.203.0.118",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,16 +10,39 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "Yabucoa",
-    "latitude": 18.0505201,
-    "longitude": -65.8793288,
+    "city": "Fajardo",
+    "latitude": 18.3257869,
+    "longitude": -65.6523838,
     "is_eu": false,
-    "postal": "00767",
+    "postal": "00738-4805",
     "connection": {
       "asn": 63393,
       "org": "BOOM NET",
       "isp": "BOOM NET",
       "domain": "boomsolutionspr.com"
+    }
+  },
+  {
+    "proxy": "http://198.52.243.3:9999",
+    "tested_at": "2026-02-14T15:22:54Z",
+    "ip": "198.52.243.159",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "region": "Puerto Rico",
+    "region_code": "PR",
+    "city": "Humacao",
+    "latitude": 18.1496828,
+    "longitude": -65.8273847,
+    "is_eu": false,
+    "postal": "00792",
+    "connection": {
+      "asn": 401013,
+      "org": "BNET",
+      "isp": "BNET",
+      "domain": "bnetglobal.com"
     }
   }
 ]

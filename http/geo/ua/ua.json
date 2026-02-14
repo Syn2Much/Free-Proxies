@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://185.218.202.182:8080",
-    "tested_at": "2026-02-14T14:51:39Z",
-    "ip": "185.218.202.182",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Kyiv Oblast",
-    "region_code": "32",
-    "city": "Hostomel'",
-    "latitude": 50.579141,
-    "longitude": 30.2150743,
-    "is_eu": false,
-    "postal": "08290",
-    "connection": {
-      "asn": 45017,
-      "org": "Dominet LLC",
-      "isp": "DOMINET LLC",
-      "domain": "dominet.com.ua"
-    }
-  },
-  {
-    "proxy": "http://31.134.120.124:1214",
-    "tested_at": "2026-02-14T14:51:41Z",
-    "ip": "31.134.120.124",
+    "proxy": "http://185.20.216.158:8088",
+    "tested_at": "2026-02-14T15:22:40Z",
+    "ip": "31.172.138.135",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,33 +16,33 @@
     "is_eu": false,
     "postal": "01001",
     "connection": {
-      "asn": 56668,
-      "org": "Fop Demchuk Sergiy Olexandrovuch",
-      "isp": "Fop Demchuk Sergiy Olexandrovuch",
-      "domain": "simnet.kiev.ua"
+      "asn": 1820,
+      "org": "Domonet by Wnet",
+      "isp": "Wnet Telecom USA Corp.",
+      "domain": "w-net.eu"
     }
   },
   {
-    "proxy": "http://195.234.68.34:3128",
-    "tested_at": "2026-02-14T14:51:44Z",
-    "ip": "195.234.68.34",
+    "proxy": "http://176.105.212.219:8080",
+    "tested_at": "2026-02-14T15:22:42Z",
+    "ip": "91.195.2.84",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Ukraine",
     "country_code": "UA",
-    "region": "Kyiv city",
-    "region_code": "30",
-    "city": "Kyiv",
-    "latitude": 50.4501,
-    "longitude": 30.5234,
+    "region": "Poltava Oblast",
+    "region_code": "53",
+    "city": "Poltava",
+    "latitude": 49.588267,
+    "longitude": 34.551417,
     "is_eu": false,
-    "postal": "01001",
+    "postal": "36000",
     "connection": {
-      "asn": 13307,
-      "org": "AS LIMITED LIABILITY COMPANY",
-      "isp": "AS LIMITED LIABILITY COMPANY",
-      "domain": "as6723.net"
+      "asn": 49817,
+      "org": "F COM LLC",
+      "isp": "F COM LLC",
+      "domain": "fcom.pl.ua"
     }
   }
 ]

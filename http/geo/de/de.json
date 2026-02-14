@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://194.59.204.87:9080",
-    "tested_at": "2026-02-14T14:51:12Z",
-    "ip": "194.59.204.87",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Bavaria",
-    "region_code": "BY",
-    "city": "Nuremberg",
-    "latitude": 49.4254092,
-    "longitude": 11.0796553,
-    "is_eu": true,
-    "postal": "90403",
-    "connection": {
-      "asn": 197540,
-      "org": "Netcup GmbH",
-      "isp": "Netcup GmbH",
-      "domain": "netcup.de"
-    }
-  },
-  {
     "proxy": "http://5.75.198.16:1080",
-    "tested_at": "2026-02-14T14:51:15Z",
+    "tested_at": "2026-02-14T15:22:32Z",
     "ip": "2a01:4f8:1c1b:12a0::1",
     "success": true,
     "type": "IPv6",
@@ -46,9 +23,32 @@
     }
   },
   {
-    "proxy": "http://47.91.65.23:3128",
-    "tested_at": "2026-02-14T14:52:03Z",
-    "ip": "47.91.65.23",
+    "proxy": "http://128.140.118.165:1080",
+    "tested_at": "2026-02-14T15:22:38Z",
+    "ip": "2a01:4f8:c17:162d::1",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Saxony",
+    "region_code": "SN",
+    "city": "Falkenstein",
+    "latitude": 50.4750046,
+    "longitude": 12.3649754,
+    "is_eu": true,
+    "postal": "08324",
+    "connection": {
+      "asn": 24940,
+      "org": "Hetzner Online GmbH",
+      "isp": "Hetzner Online GmbH",
+      "domain": "hetzner.de"
+    }
+  },
+  {
+    "proxy": "http://109.91.247.181:8080",
+    "tested_at": "2026-02-14T15:22:39Z",
+    "ip": "109.91.247.181",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -56,16 +56,62 @@
     "country_code": "DE",
     "region": "Hesse",
     "region_code": "HE",
-    "city": "Frankfurt",
-    "latitude": 50.1109221,
-    "longitude": 8.6821267,
+    "city": "Darmstadt",
+    "latitude": 49.8728253,
+    "longitude": 8.6511929,
     "is_eu": true,
-    "postal": "60311",
+    "postal": "64283",
     "connection": {
-      "asn": 45102,
-      "org": "Alibaba Cloud De",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibabacloud.com"
+      "asn": 3209,
+      "org": "Unitymedia Static B B Customer Pool",
+      "isp": "Vodafone GmbH",
+      "domain": "unitymedia.de"
+    }
+  },
+  {
+    "proxy": "http://91.107.148.58:53967",
+    "tested_at": "2026-02-14T15:22:48Z",
+    "ip": "2a09:bac1:1e40:60::3a2:3d",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Bavaria",
+    "region_code": "BY",
+    "city": "Nuremberg",
+    "latitude": 49.4254092,
+    "longitude": 11.0796553,
+    "is_eu": true,
+    "postal": "90403",
+    "connection": {
+      "asn": 13335,
+      "org": "CLOUDFLAREWARP",
+      "isp": "Cloudflare, Inc.",
+      "domain": "cloudflare.com"
+    }
+  },
+  {
+    "proxy": "http://194.59.204.87:9080",
+    "tested_at": "2026-02-14T15:23:10Z",
+    "ip": "194.59.204.87",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Bavaria",
+    "region_code": "BY",
+    "city": "Nuremberg",
+    "latitude": 49.4254092,
+    "longitude": 11.0796553,
+    "is_eu": true,
+    "postal": "90403",
+    "connection": {
+      "asn": 197540,
+      "org": "Netcup GmbH",
+      "isp": "Netcup GmbH",
+      "domain": "netcup.de"
     }
   }
 ]
