@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://67.43.228.253:23415",
-    "tested_at": "2026-02-14T16:20:27Z",
-    "ip": "70.54.138.244",
+    "proxy": "http://72.10.160.171:3497",
+    "tested_at": "2026-02-14T16:51:17Z",
+    "ip": "173.206.161.22",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Canada",
     "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Halton Hills",
-    "latitude": 43.6688344,
-    "longitude": -79.9266158,
+    "region": "Québec",
+    "region_code": "QC",
+    "city": "Montreal",
+    "latitude": 45.5016889,
+    "longitude": -73.567256,
     "is_eu": false,
-    "postal": "L7G 5W1",
+    "postal": "H3A 2A6",
+    "connection": {
+      "asn": 1403,
+      "org": "EBOX",
+      "isp": "EBOX",
+      "domain": "ebox.ca"
+    }
+  },
+  {
+    "proxy": "http://67.43.236.20:31355",
+    "tested_at": "2026-02-14T16:51:37Z",
+    "ip": "142.118.169.248",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Québec",
+    "region_code": "QC",
+    "city": "Montreal",
+    "latitude": 45.5016889,
+    "longitude": -73.567256,
+    "is_eu": false,
+    "postal": "H3A 2A6",
     "connection": {
       "asn": 577,
-      "org": "Sympatico Hse",
+      "org": "Virgin Home Quebec",
       "isp": "Bell Canada",
-      "domain": "bell.ca"
+      "domain": "virginmobile.ca"
     }
   }
 ]

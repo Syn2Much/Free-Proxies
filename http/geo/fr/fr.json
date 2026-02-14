@@ -1,7 +1,53 @@
 [
   {
+    "proxy": "http://141.253.100.34:3150",
+    "tested_at": "2026-02-14T16:51:08Z",
+    "ip": "141.253.121.129",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "is_eu": true,
+    "postal": "75007",
+    "connection": {
+      "asn": 31898,
+      "org": "Oracle Svenska Ab",
+      "isp": "Oracle Corporation",
+      "domain": "oracle.com"
+    }
+  },
+  {
+    "proxy": "http://5.189.161.47:3128",
+    "tested_at": "2026-02-14T16:51:13Z",
+    "ip": "2a02:c207:2291:490::1",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Grand Est",
+    "region_code": "GES",
+    "city": "Lauterbourg",
+    "latitude": 48.974797,
+    "longitude": 8.176773,
+    "is_eu": true,
+    "postal": "67630",
+    "connection": {
+      "asn": 51167,
+      "org": "Contabo GmbH",
+      "isp": "Contabo GmbH",
+      "domain": "contabo.de"
+    }
+  },
+  {
     "proxy": "http://90.84.188.97:8000",
-    "tested_at": "2026-02-14T16:19:37Z",
+    "tested_at": "2026-02-14T16:51:25Z",
     "ip": "90.84.188.97",
     "success": true,
     "type": "IPv4",
@@ -23,78 +69,9 @@
     }
   },
   {
-    "proxy": "http://72.10.160.172:14411",
-    "tested_at": "2026-02-14T16:19:38Z",
-    "ip": "176.136.251.213",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Montigny-le-Bretonneux",
-    "latitude": 48.7738734,
-    "longitude": 2.0360157,
-    "is_eu": true,
-    "postal": "78180",
-    "connection": {
-      "asn": 5410,
-      "org": "Pool for Broadband Dsl Customers",
-      "isp": "Bouygues Telecom SA",
-      "domain": "bouyguestelecom.fr"
-    }
-  },
-  {
-    "proxy": "http://185.41.152.110:3128",
-    "tested_at": "2026-02-14T16:19:48Z",
-    "ip": "185.41.152.110",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Grand Est",
-    "region_code": "GES",
-    "city": "Marly",
-    "latitude": 49.059828,
-    "longitude": 6.154795,
-    "is_eu": true,
-    "postal": "57155",
-    "connection": {
-      "asn": 197922,
-      "org": "FIRSTHEBERG",
-      "isp": "Techcrea Solutions SAS",
-      "domain": "techcrea.fr"
-    }
-  },
-  {
-    "proxy": "http://67.43.228.250:26263",
-    "tested_at": "2026-02-14T16:19:48Z",
-    "ip": "128.78.133.246",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Grand Est",
-    "region_code": "GES",
-    "city": "Lunéville",
-    "latitude": 48.592237,
-    "longitude": 6.492339,
-    "is_eu": true,
-    "postal": "54300",
-    "connection": {
-      "asn": 5410,
-      "org": "Pool for Broadband Dsl Customers",
-      "isp": "Bouygues Telecom SA",
-      "domain": "bouyguestelecom.fr"
-    }
-  },
-  {
-    "proxy": "http://94.183.188.7:6891",
-    "tested_at": "2026-02-14T16:20:16Z",
-    "ip": "94.183.188.7",
+    "proxy": "http://141.253.113.154:3150",
+    "tested_at": "2026-02-14T16:51:49Z",
+    "ip": "141.253.121.129",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -108,33 +85,10 @@
     "is_eu": true,
     "postal": "75007",
     "connection": {
-      "asn": 56971,
-      "org": "CGI GLOBAL LIMITED",
-      "isp": "CGI GLOBAL LIMITED",
-      "domain": "cloudbackbone.net"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.173:14411",
-    "tested_at": "2026-02-14T16:20:28Z",
-    "ip": "176.136.251.213",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Montigny-le-Bretonneux",
-    "latitude": 48.7738734,
-    "longitude": 2.0360157,
-    "is_eu": true,
-    "postal": "78180",
-    "connection": {
-      "asn": 5410,
-      "org": "Pool for Broadband Dsl Customers",
-      "isp": "Bouygues Telecom SA",
-      "domain": "bouyguestelecom.fr"
+      "asn": 31898,
+      "org": "Oracle Svenska Ab",
+      "isp": "Oracle Corporation",
+      "domain": "oracle.com"
     }
   }
 ]

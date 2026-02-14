@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://72.10.164.178:18529",
+    "tested_at": "2026-02-14T16:51:09Z",
+    "ip": "94.203.54.68",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "region": "Abu Dhabi Emirate",
+    "region_code": "AZ",
+    "city": "Abu Dhabi",
+    "latitude": 24.2991738,
+    "longitude": 54.6972774,
+    "is_eu": false,
+    "postal": "36668",
+    "connection": {
+      "asn": 15802,
+      "org": "Emirates Livings Pop1",
+      "isp": "Emirates Integrated Telecommunications Company Pjsc",
+      "domain": "du.ae"
+    }
+  },
+  {
     "proxy": "http://47.91.104.88:3128",
-    "tested_at": "2026-02-14T16:20:03Z",
+    "tested_at": "2026-02-14T16:51:10Z",
     "ip": "47.91.104.88",
     "success": true,
     "type": "IPv4",
@@ -20,6 +43,29 @@
       "org": "Alibaba Cloud Ae dubai",
       "isp": "Alibaba us Technology Co., Ltd.",
       "domain": "alibabacloud.com"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:16423",
+    "tested_at": "2026-02-14T16:51:49Z",
+    "ip": "31.215.198.39",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "region": "Abu Dhabi Emirate",
+    "region_code": "AZ",
+    "city": "Abu Dhabi",
+    "latitude": 24.2991738,
+    "longitude": 54.6972774,
+    "is_eu": false,
+    "postal": "36668",
+    "connection": {
+      "asn": 5384,
+      "org": "Emirates Telecommunications Corporation",
+      "isp": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY ETISALAT GROUP PJSC",
+      "domain": "etisalat.ae"
     }
   }
 ]

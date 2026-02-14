@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "https://47.243.181.85:41690",
+    "tested_at": "2026-02-14T16:51:43Z",
+    "ip": "108.60.250.29",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Bahamas",
+    "country_code": "BS",
+    "region": "New Providence",
+    "region_code": "NP",
+    "city": "Nassau",
+    "latitude": 25.0479835,
+    "longitude": -77.355413,
+    "is_eu": false,
+    "postal": "242",
+    "connection": {
+      "asn": 8014,
+      "org": "The Bahamas Telecommunications Company, Ltd.",
+      "isp": "Bahamas Telecommunications Corporation",
+      "domain": "btcbahamas.com"
+    }
+  }
+]

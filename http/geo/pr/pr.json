@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://67.43.236.18:24185",
+    "tested_at": "2026-02-14T16:51:28Z",
+    "ip": "204.2.94.17",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "region": "Puerto Rico",
+    "region_code": "PR",
+    "city": "San Juan",
+    "latitude": 18.4212415,
+    "longitude": -66.0671451,
+    "is_eu": false,
+    "postal": "00901",
+    "connection": {
+      "asn": 23114,
+      "org": "NTT America, Inc.",
+      "isp": "Critical Hub Networks",
+      "domain": "criticalhub.com"
+    }
+  },
+  {
     "proxy": "http://192.203.0.250:999",
-    "tested_at": "2026-02-14T16:20:02Z",
+    "tested_at": "2026-02-14T16:51:54Z",
     "ip": "192.203.0.250",
     "success": true,
     "type": "IPv4",
@@ -15,29 +38,6 @@
     "longitude": -65.8793288,
     "is_eu": false,
     "postal": "00767",
-    "connection": {
-      "asn": 63393,
-      "org": "BOOM NET",
-      "isp": "BOOM NET",
-      "domain": "boomsolutionspr.com"
-    }
-  },
-  {
-    "proxy": "http://192.203.0.166:999",
-    "tested_at": "2026-02-14T16:20:17Z",
-    "ip": "192.203.0.166",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Puerto Rico",
-    "country_code": "PR",
-    "region": "Puerto Rico",
-    "region_code": "PR",
-    "city": "Fajardo",
-    "latitude": 18.3257869,
-    "longitude": -65.6523838,
-    "is_eu": false,
-    "postal": "00738-4805",
     "connection": {
       "asn": 63393,
       "org": "BOOM NET",

@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://35.234.17.221:8080",
-    "tested_at": "2026-02-14T16:20:18Z",
+    "tested_at": "2026-02-14T16:51:08Z",
     "ip": "35.234.17.221",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,29 @@
       "org": "Google LLC",
       "isp": "Google LLC",
       "domain": "google.com"
+    }
+  },
+  {
+    "proxy": "http://106.107.195.68:8080",
+    "tested_at": "2026-02-14T16:51:39Z",
+    "ip": "106.107.195.68",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "region": "Keelung City",
+    "region_code": "KEE",
+    "city": "Taipei",
+    "latitude": 25.0329694,
+    "longitude": 121.5654177,
+    "is_eu": false,
+    "postal": "11008",
+    "connection": {
+      "asn": 18049,
+      "org": "New Century Infocomm Tech. Co., Ltd.",
+      "isp": "Taiwan Infrastructure Network Technologie",
+      "domain": "seed.net.tw"
     }
   }
 ]

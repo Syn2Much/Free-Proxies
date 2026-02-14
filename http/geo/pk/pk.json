@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://103.253.18.6:8080",
-    "tested_at": "2026-02-14T16:20:30Z",
-    "ip": "103.253.18.6",
+    "proxy": "http://103.66.149.194:8080",
+    "tested_at": "2026-02-14T16:51:34Z",
+    "ip": "160.30.142.33",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,16 +10,39 @@
     "country_code": "PK",
     "region": "Punjab",
     "region_code": "PB",
-    "city": "Faisalabad",
-    "latitude": 31.4187142,
-    "longitude": 73.0791073,
+    "city": "Jalalpur Jattan",
+    "latitude": 32.6480365,
+    "longitude": 74.2120629,
     "is_eu": false,
-    "postal": "38000",
+    "postal": "",
     "connection": {
-      "asn": 151983,
-      "org": "Orbit Internet Service Provider Pvt LTD",
-      "isp": "Orbit Internet Service Provider Pvt LTD",
-      "domain": "circuitarea.com"
+      "asn": 142647,
+      "org": "Brain Networks",
+      "isp": "Nasstec Airnet Networks Private Limited",
+      "domain": "brainnetworks.net.pk"
+    }
+  },
+  {
+    "proxy": "http://103.197.47.42:8080",
+    "tested_at": "2026-02-14T16:51:38Z",
+    "ip": "103.197.47.42",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "region": "Punjab",
+    "region_code": "PB",
+    "city": "Lahore",
+    "latitude": 31.5546061,
+    "longitude": 74.3571581,
+    "is_eu": false,
+    "postal": "54000",
+    "connection": {
+      "asn": 17539,
+      "org": "Netsol Technologies Limited",
+      "isp": "Netsol Connect pvt Limited",
+      "domain": "netsolir.com"
     }
   }
 ]

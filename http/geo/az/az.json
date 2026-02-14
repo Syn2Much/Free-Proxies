@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://185.118.51.133:3128",
-    "tested_at": "2026-02-14T15:23:00Z",
-    "ip": "185.118.51.133",
+    "proxy": "http://85.132.37.9:1313",
+    "tested_at": "2026-02-14T16:51:53Z",
+    "ip": "85.132.37.9",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "AZ 1009",
     "connection": {
-      "asn": 203971,
-      "org": "CGNAT",
-      "isp": "Azfibernet LLC",
-      "domain": "azfiber.net"
+      "asn": 209489,
+      "org": "Leased Ipv Blocks",
+      "isp": "Azintex.com LLC",
+      "domain": "delta-telecom.net"
     }
   }
 ]

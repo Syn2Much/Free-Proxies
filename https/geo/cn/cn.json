@@ -1,7 +1,7 @@
 [
   {
     "proxy": "https://180.166.128.182:34001",
-    "tested_at": "2026-02-14T16:20:08Z",
+    "tested_at": "2026-02-14T16:51:29Z",
     "ip": "58.34.88.74",
     "success": true,
     "type": "IPv4",
@@ -23,8 +23,54 @@
     }
   },
   {
+    "proxy": "https://114.55.114.43:45169",
+    "tested_at": "2026-02-14T16:51:51Z",
+    "ip": "116.114.248.255",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "China",
+    "country_code": "CN",
+    "region": "Inner Mongolia",
+    "region_code": "15",
+    "city": "Hohhot",
+    "latitude": 40.842585,
+    "longitude": 111.749181,
+    "is_eu": false,
+    "postal": "010010",
+    "connection": {
+      "asn": 4837,
+      "org": "",
+      "isp": "CNC Group CHINA1 Neimeng Province Network",
+      "domain": ""
+    }
+  },
+  {
     "proxy": "https://180.166.128.182:34000",
-    "tested_at": "2026-02-14T16:20:24Z",
+    "tested_at": "2026-02-14T16:51:52Z",
+    "ip": "58.34.88.74",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "China",
+    "country_code": "CN",
+    "region": "Shanghai",
+    "region_code": "31",
+    "city": "Shanghai",
+    "latitude": 31.230416,
+    "longitude": 121.473701,
+    "is_eu": false,
+    "postal": "200001",
+    "connection": {
+      "asn": 4812,
+      "org": "Chinanet Shanghai Province Network",
+      "isp": "China Telecom group",
+      "domain": "online.sh.cn"
+    }
+  },
+  {
+    "proxy": "https://180.166.128.182:12011",
+    "tested_at": "2026-02-14T16:51:52Z",
     "ip": "58.34.88.74",
     "success": true,
     "type": "IPv4",

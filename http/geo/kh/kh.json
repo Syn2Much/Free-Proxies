@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://110.74.215.171:8080",
-    "tested_at": "2026-02-14T16:20:20Z",
-    "ip": "110.74.215.171",
+    "proxy": "http://36.37.147.34:8080",
+    "tested_at": "2026-02-14T16:51:55Z",
+    "ip": "36.37.147.34",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "120603",
     "connection": {
-      "asn": 38901,
-      "org": "EZECOM CO., LTD.",
-      "isp": "EZECOM CO., LTD.",
-      "domain": "ezecom.com.kh"
+      "asn": 38623,
+      "org": "VIETTEL CAMBODIA PTE, LTD.",
+      "isp": "VIETTEL CAMBODIA PTE., LTD",
+      "domain": "metfone.com.kh"
     }
   }
 ]

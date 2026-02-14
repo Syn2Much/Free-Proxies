@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://41.169.150.194:8080",
-    "tested_at": "2026-02-14T16:19:38Z",
-    "ip": "41.169.150.194",
+    "proxy": "http://196.251.221.33:8103",
+    "tested_at": "2026-02-14T16:51:56Z",
+    "ip": "196.251.223.54",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,33 +16,10 @@
     "is_eu": false,
     "postal": "2001",
     "connection": {
-      "asn": 36937,
-      "org": "Neo Internet allocation SA",
-      "isp": "Liquid Telecommunications South Africa pty LTD",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://102.213.23.22:1452",
-    "tested_at": "2026-02-14T16:19:56Z",
-    "ip": "102.213.23.22",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Gauteng",
-    "region_code": "GT",
-    "city": "Johannesburg",
-    "latitude": -26.2041028,
-    "longitude": 28.0473051,
-    "is_eu": false,
-    "postal": "2001",
-    "connection": {
-      "asn": 327996,
-      "org": "Accelerit pppoe 1 .",
-      "isp": "Accelerit Technologies Pty LTD",
-      "domain": "accelerit.co.za"
+      "asn": 37403,
+      "org": "Infogro Dsl",
+      "isp": "Info gro pty LTD",
+      "domain": "infogro.net"
     }
   }
 ]

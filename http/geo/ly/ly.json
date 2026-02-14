@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://102.68.128.215:8080",
-    "tested_at": "2026-02-14T16:20:26Z",
-    "ip": "102.68.128.206",
+    "proxy": "http://165.16.2.254:9999",
+    "tested_at": "2026-02-14T16:51:42Z",
+    "ip": "165.16.2.250",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Libya",
     "country_code": "LY",
-    "region": "Tripoli",
-    "region_code": "TB",
-    "city": "Tripoli",
-    "latitude": 32.8872094,
-    "longitude": 13.1913383,
+    "region": "Al Hizam Al Akhdar",
+    "region_code": "HZ",
+    "city": "Qaminis",
+    "latitude": 31.661538,
+    "longitude": 20.0181673,
     "is_eu": false,
-    "postal": "350",
+    "postal": "",
     "connection": {
-      "asn": 21003,
-      "org": "For Company Use And Interface Assignments",
-      "isp": "General Post And Telecommunication Company gptc",
-      "domain": "noclibya.com"
+      "asn": 37284,
+      "org": "Aljeel Aljadeed For Technology",
+      "isp": "Aljeel Aljadeed For Technology",
+      "domain": "aljeel.ly"
+    }
+  },
+  {
+    "proxy": "http://165.16.2.234:9999",
+    "tested_at": "2026-02-14T16:51:58Z",
+    "ip": "165.16.2.234",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Al Hizam Al Akhdar",
+    "region_code": "HZ",
+    "city": "Qaminis",
+    "latitude": 31.661538,
+    "longitude": 20.0181673,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 37284,
+      "org": "Aljeel Aljadeed For Technology",
+      "isp": "Aljeel Aljadeed For Technology",
+      "domain": "aljeel.ly"
     }
   }
 ]

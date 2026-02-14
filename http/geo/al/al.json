@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://77.242.21.133:8080",
-    "tested_at": "2026-02-14T16:19:55Z",
-    "ip": "77.242.21.133",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Albania",
-    "country_code": "AL",
-    "region": "Central Albania",
-    "region_code": "",
-    "city": "Kamëz",
-    "latitude": 41.3783926,
-    "longitude": 19.7770261,
-    "is_eu": false,
-    "postal": "1030",
-    "connection": {
-      "asn": 35047,
-      "org": "Business Static Pool",
-      "isp": "Abissnet SH.A.",
-      "domain": "abissnet.al"
-    }
-  },
-  {
-    "proxy": "http://46.252.35.91:8080",
-    "tested_at": "2026-02-14T16:20:00Z",
-    "ip": "46.252.35.91",
+    "proxy": "http://217.24.245.58:8079",
+    "tested_at": "2026-02-14T16:51:33Z",
+    "ip": "217.24.245.58",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,10 +16,33 @@
     "is_eu": false,
     "postal": "1051",
     "connection": {
-      "asn": 21183,
-      "org": "ABCOM class",
-      "isp": "Vodafone Albania SH.A.",
-      "domain": "abcom.al"
+      "asn": 42313,
+      "org": "TEST1",
+      "isp": "ONE ALBANIA SH.A.",
+      "domain": "albtelecom.al"
+    }
+  },
+  {
+    "proxy": "http://79.106.231.17:8080",
+    "tested_at": "2026-02-14T16:51:35Z",
+    "ip": "79.106.231.17",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Albania",
+    "country_code": "AL",
+    "region": "Southern Albania",
+    "region_code": "",
+    "city": "KRUTJE E POSHME",
+    "latitude": 40.870296,
+    "longitude": 19.6788106,
+    "is_eu": false,
+    "postal": "9006",
+    "connection": {
+      "asn": 42313,
+      "org": "",
+      "isp": "ONE ALBANIA SH.A.",
+      "domain": ""
     }
   }
 ]

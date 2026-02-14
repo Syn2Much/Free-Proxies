@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "http://170.81.241.226:999",
-    "tested_at": "2026-02-14T16:19:40Z",
-    "ip": "170.81.241.226",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Lambayeque",
-    "region_code": "LAM",
-    "city": "Chiclayo",
-    "latitude": -6.7765974,
-    "longitude": -79.8442978,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 269803,
-      "org": "INVENTA TELECOMUNICACIONES EIRL",
-      "isp": "INVENTA TELECOMUNICACIONES EIRL",
-      "domain": "inventa.pe"
-    }
-  },
-  {
-    "proxy": "http://38.52.182.55:999",
-    "tested_at": "2026-02-14T16:20:09Z",
-    "ip": "38.52.182.50",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Lima",
-    "region_code": "LIM",
-    "city": "Lima",
-    "latitude": -12.2179228,
-    "longitude": -76.9071431,
-    "is_eu": false,
-    "postal": "15822",
-    "connection": {
-      "asn": 273026,
-      "org": "Cogent Communications",
-      "isp": "NEXSATEL SOCIEDAD ANONIMA CERRADA NEXSATEL S.A.C.",
-      "domain": "nexsatel.com.pe"
-    }
-  },
-  {
-    "proxy": "http://38.253.80.104:999",
-    "tested_at": "2026-02-14T16:20:17Z",
-    "ip": "38.253.80.109",
+    "proxy": "http://38.172.130.249:999",
+    "tested_at": "2026-02-14T16:51:32Z",
+    "ip": "38.159.166.157",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -62,15 +16,61 @@
     "is_eu": false,
     "postal": "15081",
     "connection": {
-      "asn": 272106,
-      "org": "CORPORACION TARAZONA CATV S.A.C.",
-      "isp": "CORPORACION TARAZONA CATV S.A.C.",
-      "domain": "fibernetperu.pe"
+      "asn": 274113,
+      "org": "Cogent Communications",
+      "isp": "CINTELSUR PERU S.A.C.",
+      "domain": "cintel.pe"
     }
   },
   {
-    "proxy": "http://38.190.100.105:999",
-    "tested_at": "2026-02-14T16:20:25Z",
+    "proxy": "http://170.81.242.235:999",
+    "tested_at": "2026-02-14T16:51:34Z",
+    "ip": "170.81.241.14",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Lambayeque",
+    "region_code": "LAM",
+    "city": "Chiclayo",
+    "latitude": -6.778737,
+    "longitude": -79.886098,
+    "is_eu": false,
+    "postal": "14012",
+    "connection": {
+      "asn": 269803,
+      "org": "INVENTA TELECOMUNICACIONES EIRL",
+      "isp": "INVENTA TELECOMUNICACIONES EIRL",
+      "domain": "inventa.pe"
+    }
+  },
+  {
+    "proxy": "http://38.172.128.21:999",
+    "tested_at": "2026-02-14T16:51:49Z",
+    "ip": "38.172.131.117",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Lima",
+    "region_code": "LIM",
+    "city": "Lima District",
+    "latitude": -12.046374,
+    "longitude": -77.0427934,
+    "is_eu": false,
+    "postal": "15081",
+    "connection": {
+      "asn": 273133,
+      "org": "Cogent Communications",
+      "isp": "CONEX TV E.I.R.L.",
+      "domain": "conextv.pe"
+    }
+  },
+  {
+    "proxy": "http://38.190.100.107:999",
+    "tested_at": "2026-02-14T16:51:54Z",
     "ip": "38.190.100.106",
     "success": true,
     "type": "IPv4",
@@ -84,29 +84,6 @@
     "longitude": -77.0518169,
     "is_eu": false,
     "postal": "95300",
-    "connection": {
-      "asn": 273133,
-      "org": "Cogent Communications",
-      "isp": "CONEX TV E.I.R.L.",
-      "domain": "conextv.pe"
-    }
-  },
-  {
-    "proxy": "http://38.172.128.173:8889",
-    "tested_at": "2026-02-14T16:20:27Z",
-    "ip": "38.172.128.174",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Lima",
-    "region_code": "LIM",
-    "city": "Lima District",
-    "latitude": -12.046374,
-    "longitude": -77.0427934,
-    "is_eu": false,
-    "postal": "15081",
     "connection": {
       "asn": 273133,
       "org": "Cogent Communications",

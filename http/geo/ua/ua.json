@@ -1,7 +1,99 @@
 [
   {
+    "proxy": "http://176.105.212.219:8080",
+    "tested_at": "2026-02-14T16:51:31Z",
+    "ip": "91.195.2.84",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Poltava Oblast",
+    "region_code": "53",
+    "city": "Poltava",
+    "latitude": 49.588267,
+    "longitude": 34.551417,
+    "is_eu": false,
+    "postal": "36000",
+    "connection": {
+      "asn": 49817,
+      "org": "F COM LLC",
+      "isp": "F COM LLC",
+      "domain": "fcom.pl.ua"
+    }
+  },
+  {
+    "proxy": "http://91.228.217.195:8989",
+    "tested_at": "2026-02-14T16:51:31Z",
+    "ip": "91.228.217.195",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Ivano-Frankivsk Oblast",
+    "region_code": "",
+    "city": "Kryvorivnya",
+    "latitude": 48.1736874,
+    "longitude": 24.8963763,
+    "is_eu": false,
+    "postal": "78710",
+    "connection": {
+      "asn": 209907,
+      "org": "Fop Saiv Igor Stepanovich",
+      "isp": "Fop Saiv Igor Stepanovich",
+      "domain": "gipernet.com.ua"
+    }
+  },
+  {
+    "proxy": "http://91.214.31.234:8080",
+    "tested_at": "2026-02-14T16:51:38Z",
+    "ip": "91.214.31.234",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Kyiv city",
+    "region_code": "30",
+    "city": "Kyiv",
+    "latitude": 50.4501,
+    "longitude": 30.5234,
+    "is_eu": false,
+    "postal": "01001",
+    "connection": {
+      "asn": 49327,
+      "org": "Tov Telza",
+      "isp": "Tov Telza",
+      "domain": "telza.zp.ua"
+    }
+  },
+  {
+    "proxy": "http://91.236.156.30:8282",
+    "tested_at": "2026-02-14T16:51:41Z",
+    "ip": "91.236.156.30",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Poltava Oblast",
+    "region_code": "53",
+    "city": "Lokhvytsya",
+    "latitude": 50.3589,
+    "longitude": 33.259,
+    "is_eu": false,
+    "postal": "37200",
+    "connection": {
+      "asn": 205318,
+      "org": "Limited Liability Company Avator ISP",
+      "isp": "Limited Liability Company Avator ISP",
+      "domain": "avator.ua"
+    }
+  },
+  {
     "proxy": "http://91.202.72.105:8080",
-    "tested_at": "2026-02-14T16:20:03Z",
+    "tested_at": "2026-02-14T16:51:58Z",
     "ip": "91.202.72.105",
     "success": true,
     "type": "IPv4",
@@ -20,52 +112,6 @@
       "org": "GIGATRANS UKRAINE, LLC",
       "isp": "GIGATRANS UKRAINE, LLC",
       "domain": "gigatrans.ua"
-    }
-  },
-  {
-    "proxy": "http://91.210.119.83:8080",
-    "tested_at": "2026-02-14T16:20:15Z",
-    "ip": "91.210.119.83",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Odesa Oblast",
-    "region_code": "51",
-    "city": "Odessa",
-    "latitude": 46.482526,
-    "longitude": 30.7233095,
-    "is_eu": false,
-    "postal": "65082",
-    "connection": {
-      "asn": 203447,
-      "org": "Miratel LTD",
-      "isp": "Miratel LTD",
-      "domain": "miratel.com.ua"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:13883",
-    "tested_at": "2026-02-14T16:20:32Z",
-    "ip": "176.38.63.198",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Kyiv city",
-    "region_code": "30",
-    "city": "Kyiv",
-    "latitude": 50.4501,
-    "longitude": 30.5234,
-    "is_eu": false,
-    "postal": "01001",
-    "connection": {
-      "asn": 39608,
-      "org": "Lanet Network LTD",
-      "isp": "Lanet Network LTD",
-      "domain": "lanet.ua"
     }
   }
 ]
