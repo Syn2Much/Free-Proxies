@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://175.139.208.65:8080",
-    "tested_at": "2026-02-14T09:07:00Z",
+    "tested_at": "2026-02-14T09:38:01Z",
     "ip": "175.139.208.65",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,52 @@
       "org": "TMNST",
       "isp": "TM TECHNOLOGY SERVICES SDN BHD",
       "domain": "tm.com.my"
+    }
+  },
+  {
+    "proxy": "http://67.43.236.18:29009",
+    "tested_at": "2026-02-14T09:38:11Z",
+    "ip": "60.50.12.44",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "region": "Federal Territory of Kuala Lumpur",
+    "region_code": "",
+    "city": "Kuala Lumpur",
+    "latitude": 3.139003,
+    "longitude": 101.686855,
+    "is_eu": false,
+    "postal": "50050",
+    "connection": {
+      "asn": 4788,
+      "org": "TMNST",
+      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+      "domain": "tm.com.my"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:7627",
+    "tested_at": "2026-02-14T09:38:18Z",
+    "ip": "14.192.215.150",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "region": "Federal Territory of Kuala Lumpur",
+    "region_code": "",
+    "city": "Kuala Lumpur",
+    "latitude": 3.139003,
+    "longitude": 101.686855,
+    "is_eu": false,
+    "postal": "50050",
+    "connection": {
+      "asn": 9534,
+      "org": "Maxis Broadband Sdn.bhd",
+      "isp": "Maxis Broadband Sdn Bhd",
+      "domain": "maxis.net.my"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://79.106.33.26:8079",
-    "tested_at": "2026-02-14T08:04:29Z",
-    "ip": "79.106.33.26",
+    "proxy": "http://80.91.116.129:8081",
+    "tested_at": "2026-02-14T09:38:22Z",
+    "ip": "77.242.21.186",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,39 +10,16 @@
     "country_code": "AL",
     "region": "Central Albania",
     "region_code": "",
-    "city": "Kashar",
-    "latitude": 41.3445243,
-    "longitude": 19.7234519,
+    "city": "Kamëz",
+    "latitude": 41.3783926,
+    "longitude": 19.7770261,
     "is_eu": false,
-    "postal": "1051",
+    "postal": "1030",
     "connection": {
-      "asn": 42313,
-      "org": "TEST 0",
-      "isp": "ONE ALBANIA SH.A.",
-      "domain": "one.al"
-    }
-  },
-  {
-    "proxy": "http://79.106.231.17:8080",
-    "tested_at": "2026-02-14T08:04:30Z",
-    "ip": "79.106.231.17",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Albania",
-    "country_code": "AL",
-    "region": "Southern Albania",
-    "region_code": "",
-    "city": "KRUTJE E POSHME",
-    "latitude": 40.870296,
-    "longitude": 19.6788106,
-    "is_eu": false,
-    "postal": "9006",
-    "connection": {
-      "asn": 42313,
-      "org": "",
-      "isp": "ONE ALBANIA SH.A.",
-      "domain": ""
+      "asn": 35047,
+      "org": "Business Static Pool",
+      "isp": "Abissnet SH.A.",
+      "domain": "abissnet.al"
     }
   }
 ]

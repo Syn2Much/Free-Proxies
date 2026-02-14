@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://141.136.63.126:8080",
-    "tested_at": "2026-02-14T09:07:03Z",
-    "ip": "141.136.63.126",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Tachira State",
-    "region_code": "S",
-    "city": "La Grita",
-    "latitude": 8.1338118,
-    "longitude": -71.9786626,
-    "is_eu": false,
-    "postal": "5022",
-    "connection": {
-      "asn": 208888,
-      "org": "FRONTERA TV. C.A.",
-      "isp": "Four Mirror Advisors, S.L.",
-      "domain": "fronteratvoficial.com"
-    }
-  },
-  {
     "proxy": "http://45.230.169.5:999",
-    "tested_at": "2026-02-14T09:07:08Z",
+    "tested_at": "2026-02-14T09:37:57Z",
     "ip": "45.230.169.5",
     "success": true,
     "type": "IPv4",
@@ -46,8 +23,8 @@
     }
   },
   {
-    "proxy": "http://190.97.243.27:999",
-    "tested_at": "2026-02-14T09:07:10Z",
+    "proxy": "http://190.97.243.2:999",
+    "tested_at": "2026-02-14T09:38:12Z",
     "ip": "190.97.243.22",
     "success": true,
     "type": "IPv4",
@@ -69,32 +46,32 @@
     }
   },
   {
-    "proxy": "http://38.224.32.186:999",
-    "tested_at": "2026-02-14T09:07:18Z",
-    "ip": "38.224.32.130",
+    "proxy": "http://141.136.63.126:8080",
+    "tested_at": "2026-02-14T09:38:18Z",
+    "ip": "141.136.63.126",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Venezuela",
     "country_code": "VE",
-    "region": "Trujillo State",
-    "region_code": "T",
-    "city": "Boconó",
-    "latitude": 9.2534438,
-    "longitude": -70.2497616,
+    "region": "Tachira State",
+    "region_code": "S",
+    "city": "La Grita",
+    "latitude": 8.1338118,
+    "longitude": -71.9786626,
     "is_eu": false,
-    "postal": "3103",
+    "postal": "5022",
     "connection": {
-      "asn": 273007,
-      "org": "Cogent Communications",
-      "isp": "SPEEDNET, C.A",
-      "domain": "fiven.com.ve"
+      "asn": 208888,
+      "org": "FRONTERA TV. C.A.",
+      "isp": "Four Mirror Advisors, S.L.",
+      "domain": "fronteratvoficial.com"
     }
   },
   {
-    "proxy": "http://190.94.213.4:999",
-    "tested_at": "2026-02-14T09:07:37Z",
-    "ip": "190.94.213.4",
+    "proxy": "http://190.52.110.43:999",
+    "tested_at": "2026-02-14T09:38:39Z",
+    "ip": "190.52.110.42",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -108,10 +85,33 @@
     "is_eu": false,
     "postal": "1012",
     "connection": {
-      "asn": 8053,
-      "org": "Ifx Networks Venezuela C.A.",
-      "isp": "Ifx Networks Venezuela C.A.",
-      "domain": "ifxnw.com.ve"
+      "asn": 394684,
+      "org": "Gold Data Inc.",
+      "isp": "GOLD DATA USA INC",
+      "domain": "golddata.net"
+    }
+  },
+  {
+    "proxy": "http://45.186.208.34:8080",
+    "tested_at": "2026-02-14T09:38:42Z",
+    "ip": "45.186.208.34",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Capital District",
+    "region_code": "A",
+    "city": "Caracas",
+    "latitude": 10.4805937,
+    "longitude": -66.9036063,
+    "is_eu": false,
+    "postal": "1012",
+    "connection": {
+      "asn": 263703,
+      "org": "VIGINET C.A",
+      "isp": "VIGINET C.A",
+      "domain": "viginet.com.ve"
     }
   }
 ]

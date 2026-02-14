@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://217.217.254.94:8080",
+    "tested_at": "2026-02-14T09:38:07Z",
+    "ip": "217.217.254.94",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Singapore",
+    "country_code": "SG",
+    "region": "Southeast",
+    "region_code": "",
+    "city": "Singapore",
+    "latitude": 1.3553794,
+    "longitude": 103.8677444,
+    "is_eu": false,
+    "postal": "550304",
+    "connection": {
+      "asn": 141995,
+      "org": "Contabo GmbH",
+      "isp": "Contabo Asia Private Limited",
+      "domain": "contabo.de"
+    }
+  },
+  {
     "proxy": "http://128.199.113.85:9090",
-    "tested_at": "2026-02-14T09:07:01Z",
+    "tested_at": "2026-02-14T09:38:09Z",
     "ip": "128.199.113.85",
     "success": true,
     "type": "IPv4",
@@ -23,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://217.217.254.94:8080",
-    "tested_at": "2026-02-14T09:07:18Z",
-    "ip": "217.217.254.94",
+    "proxy": "http://157.230.38.173:3128",
+    "tested_at": "2026-02-14T09:38:09Z",
+    "ip": "157.230.38.173",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,10 +62,79 @@
     "is_eu": false,
     "postal": "550304",
     "connection": {
-      "asn": 141995,
-      "org": "Contabo GmbH",
-      "isp": "Contabo Asia Private Limited",
-      "domain": "contabo.de"
+      "asn": 14061,
+      "org": "Digitalocean, LLC",
+      "isp": "Digitalocean, LLC",
+      "domain": "digitalocean.com"
+    }
+  },
+  {
+    "proxy": "http://139.162.44.152:3128",
+    "tested_at": "2026-02-14T09:38:15Z",
+    "ip": "139.162.44.152",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Singapore",
+    "country_code": "SG",
+    "region": "Southeast",
+    "region_code": "",
+    "city": "Singapore",
+    "latitude": 1.3553794,
+    "longitude": 103.8677444,
+    "is_eu": false,
+    "postal": "550304",
+    "connection": {
+      "asn": 63949,
+      "org": "Linode, LLC",
+      "isp": "Akamai Technologies, Inc.",
+      "domain": "linode.com"
+    }
+  },
+  {
+    "proxy": "http://139.159.97.82:10900",
+    "tested_at": "2026-02-14T09:38:22Z",
+    "ip": "164.52.107.81",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Singapore",
+    "country_code": "SG",
+    "region": "Southeast",
+    "region_code": "",
+    "city": "Singapore",
+    "latitude": 1.3553794,
+    "longitude": 103.8677444,
+    "is_eu": false,
+    "postal": "550304",
+    "connection": {
+      "asn": 63199,
+      "org": "UCUL SG",
+      "isp": "Cds Global Cloud Co., LTD",
+      "domain": "urbanconnectedcloud.com"
+    }
+  },
+  {
+    "proxy": "http://45.77.246.231:80",
+    "tested_at": "2026-02-14T09:38:54Z",
+    "ip": "45.77.246.231",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Singapore",
+    "country_code": "SG",
+    "region": "Southeast",
+    "region_code": "",
+    "city": "Singapore",
+    "latitude": 1.3553794,
+    "longitude": 103.8677444,
+    "is_eu": false,
+    "postal": "550304",
+    "connection": {
+      "asn": 20473,
+      "org": "Vultr Holdings, LLC",
+      "isp": "The Constant Company, LLC",
+      "domain": "vultr.com"
     }
   }
 ]

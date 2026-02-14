@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://202.179.2.250:8080",
-    "tested_at": "2026-02-14T05:59:22Z",
-    "ip": "202.179.2.250",
+    "proxy": "http://202.179.16.2:443",
+    "tested_at": "2026-02-14T09:38:23Z",
+    "ip": "202.179.16.2",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -17,7 +17,7 @@
     "postal": "14201",
     "connection": {
       "asn": 9934,
-      "org": "MTC NEWORK S",
+      "org": "MTC NETWORK CORPORATE CUST",
       "isp": "Mongolia Telecom",
       "domain": "mtcone.net"
     }

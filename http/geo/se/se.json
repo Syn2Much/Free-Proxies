@@ -1,8 +1,8 @@
 [
   {
     "proxy": "https://95.40.79.184:8091",
-    "tested_at": "2026-02-14T08:35:26Z",
-    "ip": "45.84.107.222",
+    "tested_at": "2026-02-14T09:38:28Z",
+    "ip": "45.84.107.47",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "https://98.130.124.119:9090",
-    "tested_at": "2026-02-14T08:35:35Z",
-    "ip": "45.84.107.174",
+    "proxy": "http://193.181.35.95:8118",
+    "tested_at": "2026-02-14T09:38:57Z",
+    "ip": "193.181.35.95",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -33,39 +33,16 @@
     "country_code": "SE",
     "region": "Stockholm County",
     "region_code": "AB",
-    "city": "Sundbyberg",
-    "latitude": 59.3670471,
-    "longitude": 17.9663093,
+    "city": "Stockholm",
+    "latitude": 59.3293235,
+    "longitude": 18.0685808,
     "is_eu": true,
-    "postal": "172 31",
+    "postal": "111 29",
     "connection": {
-      "asn": 214503,
-      "org": "R0CKET CLOUD",
-      "isp": "Quxlabs Ab",
-      "domain": "quxlabs.com"
-    }
-  },
-  {
-    "proxy": "http://40.177.106.156:8443",
-    "tested_at": "2026-02-14T08:36:08Z",
-    "ip": "45.84.107.172",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Sundbyberg",
-    "latitude": 59.3670471,
-    "longitude": 17.9663093,
-    "is_eu": true,
-    "postal": "172 31",
-    "connection": {
-      "asn": 214503,
-      "org": "R0CKET CLOUD",
-      "isp": "Quxlabs Ab",
-      "domain": "quxlabs.com"
+      "asn": 42201,
+      "org": "Pvdatanet Ab",
+      "isp": "Pvdatanet Ab",
+      "domain": "pvdatanet.com"
     }
   }
 ]

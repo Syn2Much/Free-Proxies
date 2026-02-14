@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://146.59.16.105:3128",
-    "tested_at": "2026-02-14T08:04:35Z",
-    "ip": "146.59.16.105",
+    "proxy": "http://144.31.0.166:3128",
+    "tested_at": "2026-02-14T09:38:24Z",
+    "ip": "144.31.0.166",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +16,10 @@
     "is_eu": true,
     "postal": "00-110",
     "connection": {
-      "asn": 16276,
-      "org": "OVH Sp. Z O. O.",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
+      "asn": 215730,
+      "org": "H NEXUS LTD",
+      "isp": "H NEXUS LTD",
+      "domain": "h2.nexus"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://5.10.230.93:8080",
-    "tested_at": "2026-02-14T08:35:48Z",
-    "ip": "5.10.228.161",
+    "proxy": "http://37.238.63.45:8082",
+    "tested_at": "2026-02-14T09:38:00Z",
+    "ip": "37.237.229.128",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,16 +10,62 @@
     "country_code": "IQ",
     "region": "Baghdad Governorate",
     "region_code": "BG",
-    "city": "Tarmiyah",
-    "latitude": 33.6732479,
+    "city": "Baghdad",
+    "latitude": 33.3128057,
     "longitude": 44.3614875,
     "is_eu": false,
-    "postal": "10084",
+    "postal": "10001",
     "connection": {
-      "asn": 3194,
-      "org": "SatGate IQ ISP",
-      "isp": "Satgate Company for Trading of Computers Systems And Communications Appliances Wll",
-      "domain": "satgate-iraq.com"
+      "asn": 199739,
+      "org": "Earthlink Ltd. Communications internet Services orange",
+      "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
+      "domain": "earthlink.iq"
+    }
+  },
+  {
+    "proxy": "http://109.127.82.4:8085",
+    "tested_at": "2026-02-14T09:38:07Z",
+    "ip": "109.127.82.4",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Erbil Governorate",
+    "region_code": "AR",
+    "city": "Erbil",
+    "latitude": 36.2062933,
+    "longitude": 44.0088697,
+    "is_eu": false,
+    "postal": "44001",
+    "connection": {
+      "asn": 21277,
+      "org": "Allai Newroz Telecom",
+      "isp": "Allay Nawroz Telecom Company for Communication ltd.",
+      "domain": "newroztelecom.com"
+    }
+  },
+  {
+    "proxy": "http://188.72.43.129:47193",
+    "tested_at": "2026-02-14T09:38:52Z",
+    "ip": "193.47.189.65",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Erbil Governorate",
+    "region_code": "AR",
+    "city": "Erbil",
+    "latitude": 36.2062933,
+    "longitude": 44.0088697,
+    "is_eu": false,
+    "postal": "44001",
+    "connection": {
+      "asn": 197882,
+      "org": "Pirmam",
+      "isp": "Tarin General Trading And Setting Up Internet Device LTD",
+      "domain": "pirmam.com"
     }
   }
 ]

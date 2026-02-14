@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://67.206.213.202:3120",
-    "tested_at": "2026-02-14T09:07:05Z",
-    "ip": "67.206.213.202",
+    "proxy": "http://23.143.160.193:999",
+    "tested_at": "2026-02-14T09:38:44Z",
+    "ip": "23.143.160.21",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,16 +10,16 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "San Juan",
-    "latitude": 18.4655394,
-    "longitude": -66.1057355,
+    "city": "Ponce",
+    "latitude": 18.0110768,
+    "longitude": -66.6140616,
     "is_eu": false,
-    "postal": "00901",
+    "postal": "00733-1910",
     "connection": {
-      "asn": 11992,
-      "org": "Liberty Mobile Puerto Rico Inc.",
-      "isp": "Liberty Mobile Puerto Rico Inc.",
-      "domain": "libertypr.com"
+      "asn": 14534,
+      "org": "UNONET CORP",
+      "isp": "UNONET CORP",
+      "domain": "myunonet.net"
     }
   }
 ]

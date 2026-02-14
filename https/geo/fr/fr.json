@@ -1,7 +1,7 @@
 [
   {
-    "proxy": "https://173.249.37.45:5051",
-    "tested_at": "2026-02-14T09:06:52Z",
+    "proxy": "https://173.249.37.45:5006",
+    "tested_at": "2026-02-14T09:37:56Z",
     "ip": "173.249.37.45",
     "success": true,
     "type": "IPv4",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "https://5.189.184.6:443",
-    "tested_at": "2026-02-14T09:06:58Z",
-    "ip": "5.189.184.6",
+    "proxy": "https://173.249.37.45:5051",
+    "tested_at": "2026-02-14T09:38:36Z",
+    "ip": "173.249.37.45",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -46,31 +46,8 @@
     }
   },
   {
-    "proxy": "https://51.38.191.151:443",
-    "tested_at": "2026-02-14T09:07:18Z",
-    "ip": "2001:41d0:305:2100::4801",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 16276,
-      "org": "OVH",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
-    }
-  },
-  {
     "proxy": "https://152.228.163.79:443",
-    "tested_at": "2026-02-14T09:07:22Z",
+    "tested_at": "2026-02-14T09:38:40Z",
     "ip": "2001:41d0:304:200::d951",
     "success": true,
     "type": "IPv6",
@@ -92,26 +69,49 @@
     }
   },
   {
-    "proxy": "https://91.121.88.53:443",
-    "tested_at": "2026-02-14T09:07:28Z",
-    "ip": "2001:41d0:1:8d35::1",
+    "proxy": "https://51.38.191.151:443",
+    "tested_at": "2026-02-14T09:38:46Z",
+    "ip": "2001:41d0:305:2100::4801",
     "success": true,
     "type": "IPv6",
     "continent": "Europe",
     "country": "France",
     "country_code": "FR",
-    "region": "Hauts-de-France",
-    "region_code": "HDF",
-    "city": "Roubaix",
-    "latitude": 50.6927049,
-    "longitude": 3.177847,
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
     "is_eu": true,
-    "postal": "59100",
+    "postal": "75007",
     "connection": {
       "asn": 16276,
       "org": "OVH",
       "isp": "OVH SAS",
       "domain": "ovh.net"
+    }
+  },
+  {
+    "proxy": "https://5.189.184.6:443",
+    "tested_at": "2026-02-14T09:38:47Z",
+    "ip": "5.189.184.6",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Grand Est",
+    "region_code": "GES",
+    "city": "Lauterbourg",
+    "latitude": 48.974797,
+    "longitude": 8.176773,
+    "is_eu": true,
+    "postal": "67630",
+    "connection": {
+      "asn": 51167,
+      "org": "Contabo GmbH",
+      "isp": "Contabo GmbH",
+      "domain": "contabo.de"
     }
   }
 ]

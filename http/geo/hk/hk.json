@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://203.196.8.6:3128",
-    "tested_at": "2026-02-14T09:07:13Z",
-    "ip": "203.196.8.6",
+    "proxy": "http://72.10.164.178:2359",
+    "tested_at": "2026-02-14T09:37:57Z",
+    "ip": "58.176.251.8",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Sai Wan Ho",
+    "latitude": 22.2824738,
+    "longitude": 114.2227035,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 9269,
+      "org": "Hong Kong Broadband Network Limited",
+      "isp": "Hong Kong Broadband Network Limited",
+      "domain": "hkbn.net"
+    }
+  },
+  {
+    "proxy": "http://160.20.55.235:8080",
+    "tested_at": "2026-02-14T09:38:07Z",
+    "ip": "160.20.55.235",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,15 +39,15 @@
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 23764,
-      "org": "Chinatelecom Next Carrying Network backbone",
-      "isp": "China Telecom Global Limited",
-      "domain": "chinatelecom.com.hk"
+      "asn": 58411,
+      "org": "Datamax Osi Limited",
+      "isp": "Gateway Technology Development Company Limited",
+      "domain": "datamaxosi.com"
     }
   },
   {
     "proxy": "http://101.47.73.135:3128",
-    "tested_at": "2026-02-14T09:07:14Z",
+    "tested_at": "2026-02-14T09:38:17Z",
     "ip": "101.47.73.135",
     "success": true,
     "type": "IPv4",
@@ -43,6 +66,29 @@
       "org": "BYTEPLUS",
       "isp": "Byteplus Pte. Ltd.",
       "domain": "bytedance.com"
+    }
+  },
+  {
+    "proxy": "http://47.239.61.82:9001",
+    "tested_at": "2026-02-14T09:38:37Z",
+    "ip": "47.239.61.82",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.276022,
+    "longitude": 114.1751471,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 45102,
+      "org": "Alibaba Cloud Hk",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibabacloud.com"
     }
   }
 ]

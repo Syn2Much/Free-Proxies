@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://35.234.17.221:8080",
-    "tested_at": "2026-02-14T09:06:48Z",
-    "ip": "35.234.17.221",
+    "proxy": "http://27.147.28.73:8080",
+    "tested_at": "2026-02-14T09:38:04Z",
+    "ip": "27.147.28.73",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Taiwan",
     "country_code": "TW",
-    "region": "Keelung City",
-    "region_code": "KEE",
-    "city": "Taipei",
-    "latitude": 25.0329694,
-    "longitude": 121.5654177,
-    "is_eu": false,
-    "postal": "11008",
-    "connection": {
-      "asn": 396982,
-      "org": "Google LLC",
-      "isp": "Google LLC",
-      "domain": "google.com"
-    }
-  },
-  {
-    "proxy": "http://61.216.156.222:60808",
-    "tested_at": "2026-02-14T09:07:02Z",
-    "ip": "61.216.156.222",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Taiwan",
-    "country_code": "TW",
-    "region": "",
+    "region": "New Taipei City",
     "region_code": "",
-    "city": "Banqiao District",
-    "latitude": 25.0114095,
-    "longitude": 121.4618415,
+    "city": "Zhitan 5th Street",
+    "latitude": 24.941202,
+    "longitude": 121.534131,
     "is_eu": false,
-    "postal": "22055",
+    "postal": "231",
     "connection": {
-      "asn": 3462,
-      "org": "Data Communication Business Group,",
-      "isp": "Chunghwa Telecom Co., Ltd.",
-      "domain": "hinet.net"
+      "asn": 18429,
+      "org": "CABLE GIANT CATV. CO., LTD.",
+      "isp": "Extra lan Technologies Co., LTD",
+      "domain": "cable-giant.com.tw"
     }
   }
 ]

@@ -1,20 +1,20 @@
 [
   {
-    "proxy": "http://217.29.209.22:8865",
-    "tested_at": "2026-02-14T09:06:54Z",
-    "ip": "217.29.209.22",
+    "proxy": "http://169.159.128.76:8865",
+    "tested_at": "2026-02-14T09:38:00Z",
+    "ip": "169.159.128.76",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "South Africa",
     "country_code": "ZA",
-    "region": "North West",
-    "region_code": "NW",
-    "city": "Potchefstroom",
-    "latitude": -26.7145297,
-    "longitude": 27.0970475,
+    "region": "Gauteng",
+    "region_code": "GT",
+    "city": "Pretoria",
+    "latitude": -25.7478676,
+    "longitude": 28.2292712,
     "is_eu": false,
-    "postal": "2520",
+    "postal": "0126",
     "connection": {
       "asn": 328471,
       "org": "HERO TELECOMS PTY LTD",
@@ -23,8 +23,8 @@
     }
   },
   {
-    "proxy": "http://196.251.193.116:8082",
-    "tested_at": "2026-02-14T09:06:58Z",
+    "proxy": "http://196.251.193.116:8084",
+    "tested_at": "2026-02-14T09:38:02Z",
     "ip": "196.251.193.116",
     "success": true,
     "type": "IPv4",
@@ -46,9 +46,55 @@
     }
   },
   {
-    "proxy": "http://196.251.222.29:8103",
-    "tested_at": "2026-02-14T09:07:00Z",
-    "ip": "196.251.222.250",
+    "proxy": "http://156.155.50.93:8080",
+    "tested_at": "2026-02-14T09:38:40Z",
+    "ip": "156.155.50.93",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "KwaZulu-Natal",
+    "region_code": "KZN",
+    "city": "Durban",
+    "latitude": -29.8586804,
+    "longitude": 31.0218404,
+    "is_eu": false,
+    "postal": "4023",
+    "connection": {
+      "asn": 37611,
+      "org": "Axxess Networks",
+      "isp": "AFRIHOST SP PTY LTD",
+      "domain": "axxess.co.za"
+    }
+  },
+  {
+    "proxy": "http://165.0.136.30:8080",
+    "tested_at": "2026-02-14T09:38:42Z",
+    "ip": "165.0.136.30",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Western Cape",
+    "region_code": "WC",
+    "city": "Cape Town",
+    "latitude": -33.9248685,
+    "longitude": 18.4240553,
+    "is_eu": false,
+    "postal": "8001",
+    "connection": {
+      "asn": 37053,
+      "org": "Rsaweb",
+      "isp": "RSAWEB PTY LTD",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://154.0.14.116:3128",
+    "tested_at": "2026-02-14T09:38:50Z",
+    "ip": "154.0.14.116",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -62,56 +108,10 @@
     "is_eu": false,
     "postal": "2001",
     "connection": {
-      "asn": 37403,
-      "org": "Infogro Dsl",
-      "isp": "Info gro pty LTD",
-      "domain": "infogro.net"
-    }
-  },
-  {
-    "proxy": "http://196.251.222.25:8102",
-    "tested_at": "2026-02-14T09:07:06Z",
-    "ip": "196.251.222.250",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Gauteng",
-    "region_code": "GT",
-    "city": "Johannesburg",
-    "latitude": -26.2041028,
-    "longitude": 28.0473051,
-    "is_eu": false,
-    "postal": "2001",
-    "connection": {
-      "asn": 37403,
-      "org": "Infogro Dsl",
-      "isp": "Info gro pty LTD",
-      "domain": "infogro.net"
-    }
-  },
-  {
-    "proxy": "http://169.159.128.76:8865",
-    "tested_at": "2026-02-14T09:07:09Z",
-    "ip": "169.159.128.76",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Gauteng",
-    "region_code": "GT",
-    "city": "Pretoria",
-    "latitude": -25.7478676,
-    "longitude": 28.2292712,
-    "is_eu": false,
-    "postal": "0126",
-    "connection": {
-      "asn": 328471,
-      "org": "HERO TELECOMS PTY LTD",
-      "isp": "HERO TELECOMS PTY LTD",
-      "domain": "herotel.com"
+      "asn": 37680,
+      "org": "Cisp Internal",
+      "isp": "Cool Ideas Service Provider pty LTD",
+      "domain": "coolideas.co.za"
     }
   }
 ]
