@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://65.108.159.129:3128",
-    "tested_at": "2026-02-14T19:58:54Z",
+    "tested_at": "2026-02-14T20:30:15Z",
     "ip": "65.108.159.129",
     "success": true,
     "type": "IPv4",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://193.47.60.119:52681",
-    "tested_at": "2026-02-14T19:59:34Z",
-    "ip": "193.47.60.119",
+    "proxy": "http://65.108.159.129:5153",
+    "tested_at": "2026-02-14T20:30:25Z",
+    "ip": "65.108.159.129",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,10 +39,10 @@
     "is_eu": true,
     "postal": "02101",
     "connection": {
-      "asn": 41745,
-      "org": "Baykov Ilya Sergeevich",
-      "isp": "Baykov Ilya Sergeevich",
-      "domain": "fortis.host"
+      "asn": 24940,
+      "org": "Hetzner Online GmbH",
+      "isp": "Hetzner Online GmbH",
+      "domain": "hetzner.com"
     }
   }
 ]

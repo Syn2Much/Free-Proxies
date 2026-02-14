@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://212.108.115.68:8080",
-    "tested_at": "2026-02-14T19:58:56Z",
-    "ip": "212.108.115.68",
+    "proxy": "http://89.43.133.174:8080",
+    "tested_at": "2026-02-14T20:30:32Z",
+    "ip": "89.43.133.174",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Syria",
     "country_code": "SY",
-    "region": "Damascus Governorate",
-    "region_code": "DI",
-    "city": "Damascus",
-    "latitude": 33.5138073,
-    "longitude": 36.2765279,
+    "region": "Idlib Governorate",
+    "region_code": "ID",
+    "city": "Idlib",
+    "latitude": 35.9310271,
+    "longitude": 36.6417777,
     "is_eu": false,
-    "postal": "2277",
+    "postal": "+96323",
     "connection": {
       "asn": 216472,
-      "org": "TELECOME SY",
+      "org": "HU PANTEL INT 00 11",
       "isp": "High Speed For Internet Services L.L.C",
-      "domain": "kaer.technology"
-    }
-  },
-  {
-    "proxy": "http://188.132.222.36:8080",
-    "tested_at": "2026-02-14T19:58:56Z",
-    "ip": "193.177.241.78",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Syria",
-    "country_code": "SY",
-    "region": "Damascus Governorate",
-    "region_code": "DI",
-    "city": "Damascus",
-    "latitude": 33.5138073,
-    "longitude": 36.2765279,
-    "is_eu": false,
-    "postal": "2277",
-    "connection": {
-      "asn": 216472,
-      "org": "Telecom Sy",
-      "isp": "High Speed For Internet Services L.L.C",
-      "domain": "kaer.technology"
+      "domain": "turktelekomint.com"
     }
   }
 ]

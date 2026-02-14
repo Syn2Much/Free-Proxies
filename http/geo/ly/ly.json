@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://165.16.59.65:8080",
-    "tested_at": "2026-02-14T19:59:23Z",
-    "ip": "165.16.59.65",
+    "proxy": "http://41.254.48.190:1976",
+    "tested_at": "2026-02-14T20:30:21Z",
+    "ip": "41.254.48.190",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Libya",
     "country_code": "LY",
-    "region": "Jabal al Gharbi",
-    "region_code": "JG",
-    "city": "Jadu",
-    "latitude": 31.9584113,
-    "longitude": 12.0204247,
+    "region": "Tripoli",
+    "region_code": "TB",
+    "city": "Tripoli",
+    "latitude": 32.8872094,
+    "longitude": 13.1913383,
     "is_eu": false,
-    "postal": "",
+    "postal": "350",
     "connection": {
-      "asn": 37284,
-      "org": "Aljeel Aljadeed For Technology",
-      "isp": "Aljeel Aljadeed For Technology",
-      "domain": "aljeel.ly"
+      "asn": 21003,
+      "org": "Libyan Telecom And Technology",
+      "isp": "General Post And Telecommunication Company gptc",
+      "domain": "ltt.ly"
+    }
+  },
+  {
+    "proxy": "http://154.73.28.89:8080",
+    "tested_at": "2026-02-14T20:30:24Z",
+    "ip": "154.73.28.74",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Tripoli",
+    "region_code": "TB",
+    "city": "Tripoli",
+    "latitude": 32.8872094,
+    "longitude": 13.1913383,
+    "is_eu": false,
+    "postal": "350",
+    "connection": {
+      "asn": 21003,
+      "org": "RAWAFED LIBYA",
+      "isp": "General Post And Telecommunication Company gptc",
+      "domain": "rltt.net"
     }
   }
 ]

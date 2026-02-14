@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://185.138.120.109:8080",
-    "tested_at": "2026-02-14T19:59:13Z",
-    "ip": "93.180.217.23",
+    "proxy": "http://62.201.217.243:40010",
+    "tested_at": "2026-02-14T20:30:55Z",
+    "ip": "62.201.217.243",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Iraq",
     "country_code": "IQ",
-    "region": "Karbala",
-    "region_code": "KA",
-    "city": "Karbala",
-    "latitude": 32.6068464,
-    "longitude": 44.0103922,
+    "region": "Sulaimaniya Governorate",
+    "region_code": "SU",
+    "city": "Kalar",
+    "latitude": 34.6307795,
+    "longitude": 45.3275531,
     "is_eu": false,
-    "postal": "56001",
+    "postal": "46021",
     "connection": {
-      "asn": 203217,
-      "org": "Horizon Scope Mobile Telecom Wll",
-      "isp": "Horizon Scope Mobile Telecom Wll",
-      "domain": "horizonscope.com"
+      "asn": 44217,
+      "org": "Sulaymaniyah Users",
+      "isp": "Iq Networks for Data And Internet Services LTD",
+      "domain": "iq.email"
     }
   }
 ]

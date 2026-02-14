@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://38.190.100.105:999",
-    "tested_at": "2026-02-14T19:58:59Z",
-    "ip": "38.190.100.106",
+    "proxy": "http://201.230.15.57:999",
+    "tested_at": "2026-02-14T20:30:10Z",
+    "ip": "201.230.15.57",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Tacna",
+    "region_code": "TAC",
+    "city": "Tacna",
+    "latitude": -17.9833329,
+    "longitude": -70.183333,
+    "is_eu": false,
+    "postal": "23000",
+    "connection": {
+      "asn": 6147,
+      "org": "PE TDPERX1 LACNIC",
+      "isp": "INTEGRATEL PER S.A.A.",
+      "domain": "tdp.net.pe"
+    }
+  },
+  {
+    "proxy": "http://45.171.166.146:999",
+    "tested_at": "2026-02-14T20:30:54Z",
+    "ip": "45.171.166.145",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -10,108 +33,16 @@
     "country_code": "PE",
     "region": "Lima",
     "region_code": "LIM",
-    "city": "Independencia",
-    "latitude": -11.9929208,
-    "longitude": -77.0518169,
+    "city": "San Juan de Lurigancho",
+    "latitude": -11.9689301,
+    "longitude": -76.9939836,
     "is_eu": false,
-    "postal": "95300",
+    "postal": "15401",
     "connection": {
       "asn": 273133,
-      "org": "Cogent Communications",
+      "org": "CONEX TV E.I.R.L.",
       "isp": "CONEX TV E.I.R.L.",
       "domain": "conextv.pe"
-    }
-  },
-  {
-    "proxy": "http://200.107.142.36:3128",
-    "tested_at": "2026-02-14T19:59:02Z",
-    "ip": "200.107.142.38",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Cajamarca",
-    "region_code": "CAJ",
-    "city": "San Ignacio",
-    "latitude": -5.146268,
-    "longitude": -79.0023523,
-    "is_eu": false,
-    "postal": "3322",
-    "connection": {
-      "asn": 6147,
-      "org": "TELEFONICA DEL PERU SAA",
-      "isp": "INTEGRATEL PER S.A.A.",
-      "domain": "telefonica.com.pe"
-    }
-  },
-  {
-    "proxy": "http://200.48.35.125:999",
-    "tested_at": "2026-02-14T19:59:07Z",
-    "ip": "200.10.68.234",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Junin",
-    "region_code": "JUN",
-    "city": "Tarma",
-    "latitude": -11.4193347,
-    "longitude": -75.6889493,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 6147,
-      "org": "INTEGRATEL PER S.A.A.",
-      "isp": "INTEGRATEL PER S.A.A.",
-      "domain": "telefonica.com.pe"
-    }
-  },
-  {
-    "proxy": "http://45.189.108.20:999",
-    "tested_at": "2026-02-14T19:59:09Z",
-    "ip": "45.189.108.16",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Lima",
-    "region_code": "LIM",
-    "city": "Lima District",
-    "latitude": -12.046374,
-    "longitude": -77.0427934,
-    "is_eu": false,
-    "postal": "15081",
-    "connection": {
-      "asn": 269843,
-      "org": "BANTEL SAC",
-      "isp": "BANTEL SAC",
-      "domain": "bantel.com.pe"
-    }
-  },
-  {
-    "proxy": "http://190.238.171.190:999",
-    "tested_at": "2026-02-14T19:59:19Z",
-    "ip": "190.238.171.190",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Cajamarca",
-    "region_code": "CAJ",
-    "city": "Cajabamba",
-    "latitude": -7.6209569,
-    "longitude": -78.0452217,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 6147,
-      "org": "PE TDPERX LACNIC",
-      "isp": "INTEGRATEL PER S.A.A.",
-      "domain": "telefonica.com.pe"
     }
   }
 ]

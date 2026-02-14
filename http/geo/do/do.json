@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://38.123.48.50:999",
-    "tested_at": "2026-02-14T19:59:28Z",
-    "ip": "38.123.48.50",
+    "proxy": "http://38.156.233.254:999",
+    "tested_at": "2026-02-14T20:30:45Z",
+    "ip": "38.156.233.252",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -16,10 +16,102 @@
     "is_eu": false,
     "postal": "11507",
     "connection": {
-      "asn": 273224,
+      "asn": 272882,
+      "org": "BITNET DOMINICANA, S.R.L.",
+      "isp": "BITNET DOMINICANA, S.R.L.",
+      "domain": "bitnet.com.do"
+    }
+  },
+  {
+    "proxy": "http://152.166.69.34:8080",
+    "tested_at": "2026-02-14T20:30:56Z",
+    "ip": "152.166.69.34",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "La Romana",
+    "region_code": "12",
+    "city": "La Romana",
+    "latitude": 18.4338645,
+    "longitude": -68.9658817,
+    "is_eu": false,
+    "postal": "03669",
+    "connection": {
+      "asn": 28118,
+      "org": "ALTICE DOMINICANA S.A.",
+      "isp": "ALTICE DOMINICANA S.A.",
+      "domain": "lacnic.net"
+    }
+  },
+  {
+    "proxy": "http://170.80.203.40:999",
+    "tested_at": "2026-02-14T20:30:58Z",
+    "ip": "170.80.203.34",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Santiago",
+    "region_code": "25",
+    "city": "Santiago De Los Caballeros",
+    "latitude": 19.4791963,
+    "longitude": -70.6930568,
+    "is_eu": false,
+    "postal": "51000",
+    "connection": {
+      "asn": 271819,
+      "org": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
+      "isp": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
+      "domain": "rgdimax.com"
+    }
+  },
+  {
+    "proxy": "http://204.157.251.178:999",
+    "tested_at": "2026-02-14T20:31:00Z",
+    "ip": "190.167.101.235",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Puerto Plata",
+    "region_code": "18",
+    "city": "Montellano",
+    "latitude": 19.7340605,
+    "longitude": -70.600859,
+    "is_eu": false,
+    "postal": "57000",
+    "connection": {
+      "asn": 6400,
+      "org": "Compa a Dominicana de Tel fonos S. A",
+      "isp": "Compa a Dominicana De Tel fonos S. A.",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://38.159.223.159:999",
+    "tested_at": "2026-02-14T20:31:01Z",
+    "ip": "38.159.223.159",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Monte Plata",
+    "region_code": "29",
+    "city": "Yamasá",
+    "latitude": 18.7727461,
+    "longitude": -70.0250065,
+    "is_eu": false,
+    "postal": "92000",
+    "connection": {
+      "asn": 272083,
       "org": "Cogent Communications",
-      "isp": "BRAVIC SRL",
-      "domain": "cismatechnology.com"
+      "isp": "REYNOSO, S.R.L.",
+      "domain": "reynosord.com"
     }
   }
 ]

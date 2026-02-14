@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "https://47.242.121.18:8443",
+    "tested_at": "2026-02-14T20:30:15Z",
+    "ip": "47.242.121.18",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.276022,
+    "longitude": 114.1751471,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 45102,
+      "org": "Alibaba Cloud Hk",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibabacloud.com"
+    }
+  },
+  {
     "proxy": "https://47.243.181.85:28085",
-    "tested_at": "2026-02-14T19:58:55Z",
+    "tested_at": "2026-02-14T20:30:24Z",
     "ip": "47.243.181.85",
     "success": true,
     "type": "IPv4",
@@ -24,7 +47,7 @@
   },
   {
     "proxy": "https://20.205.138.223:443",
-    "tested_at": "2026-02-14T19:59:05Z",
+    "tested_at": "2026-02-14T20:30:28Z",
     "ip": "20.205.138.223",
     "success": true,
     "type": "IPv4",
@@ -46,8 +69,54 @@
     }
   },
   {
+    "proxy": "https://84.17.57.113:9443",
+    "tested_at": "2026-02-14T20:30:35Z",
+    "ip": "84.17.57.121",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.276022,
+    "longitude": 114.1751471,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 60068,
+      "org": "Cdn Hong Kong",
+      "isp": "Datacamp Limited",
+      "domain": "cdn77.com"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41487",
+    "tested_at": "2026-02-14T20:30:35Z",
+    "ip": "180.219.41.157",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.276022,
+    "longitude": 114.1751471,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 17924,
+      "org": "Smartone Mobile Communications Limited",
+      "isp": "Smartone Mobile Communications Limited",
+      "domain": "smartone.com"
+    }
+  },
+  {
     "proxy": "https://47.240.86.21:3128",
-    "tested_at": "2026-02-14T19:59:05Z",
+    "tested_at": "2026-02-14T20:30:55Z",
     "ip": "47.240.86.21",
     "success": true,
     "type": "IPv4",
@@ -66,52 +135,6 @@
       "org": "Alibaba Cloud Hk",
       "isp": "Alibaba us Technology Co., Ltd.",
       "domain": "alibabacloud.com"
-    }
-  },
-  {
-    "proxy": "https://47.242.121.18:8443",
-    "tested_at": "2026-02-14T19:59:25Z",
-    "ip": "47.242.121.18",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.276022,
-    "longitude": 114.1751471,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 45102,
-      "org": "Alibaba Cloud Hk",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibabacloud.com"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41488",
-    "tested_at": "2026-02-14T19:59:30Z",
-    "ip": "221.127.61.114",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Kwai Tsing District",
-    "latitude": 22.3498562,
-    "longitude": 114.1092727,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 9304,
-      "org": "HGC Global Communications Limited",
-      "isp": "HGC Global Communications Limited",
-      "domain": "hgc.com.hk"
     }
   }
 ]

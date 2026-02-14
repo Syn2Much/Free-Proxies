@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://41.203.213.211:8105",
-    "tested_at": "2026-02-14T19:59:33Z",
-    "ip": "41.203.213.211",
+    "proxy": "http://41.191.228.214:8088",
+    "tested_at": "2026-02-14T20:30:55Z",
+    "ip": "41.191.228.214",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,33 +16,33 @@
     "is_eu": false,
     "postal": "200",
     "connection": {
-      "asn": 37061,
-      "org": "This Is for Fixed Wimax for Corporate Customers",
-      "isp": "Safaricom Limited",
-      "domain": "safaricom.co.ke"
+      "asn": 30844,
+      "org": "KDN WESTERN",
+      "isp": "Liquid Telecommunications LTD",
+      "domain": "liquidtelecom.mu"
     }
   },
   {
-    "proxy": "http://102.0.18.120:8080",
-    "tested_at": "2026-02-14T19:59:45Z",
-    "ip": "102.0.18.120",
+    "proxy": "http://102.209.18.28:8080",
+    "tested_at": "2026-02-14T20:31:03Z",
+    "ip": "38.226.202.42",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Kenya",
     "country_code": "KE",
-    "region": "Embu County",
-    "region_code": "06",
-    "city": "Embu",
-    "latitude": -0.5388381,
-    "longitude": 37.4596409,
+    "region": "Nairobi",
+    "region_code": "110",
+    "city": "Nairobi",
+    "latitude": -1.3237958,
+    "longitude": 36.8808553,
     "is_eu": false,
-    "postal": "60100",
+    "postal": "200",
     "connection": {
-      "asn": 327708,
-      "org": "Allocated to Airtel Kenya Mobile Broadband And Fixed Internet",
-      "isp": "Airtel Rwanda LTD",
-      "domain": "airtel.com"
+      "asn": 329437,
+      "org": "VENNET SOLUTIONS LIMITED",
+      "isp": "VENNET SOLUTIONS LIMITED",
+      "domain": "vennet.co.ke"
     }
   }
 ]

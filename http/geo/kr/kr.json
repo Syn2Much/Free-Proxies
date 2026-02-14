@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://210.223.44.230:3128",
-    "tested_at": "2026-02-14T19:58:54Z",
+    "tested_at": "2026-02-14T20:30:18Z",
     "ip": "210.223.44.230",
     "success": true,
     "type": "IPv4",
@@ -20,52 +20,6 @@
       "org": "Korea Telecom",
       "isp": "Korea Telecom",
       "domain": "kt.com"
-    }
-  },
-  {
-    "proxy": "http://152.69.229.220:3128",
-    "tested_at": "2026-02-14T19:59:13Z",
-    "ip": "152.69.229.220",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Republic of Korea",
-    "country_code": "KR",
-    "region": "Gangwon",
-    "region_code": "42",
-    "city": "Chuncheon-si",
-    "latitude": 37.8813153,
-    "longitude": 127.7299707,
-    "is_eu": false,
-    "postal": "24347",
-    "connection": {
-      "asn": 31898,
-      "org": "Oracle Corporation",
-      "isp": "Oracle Corporation",
-      "domain": "oracle.com"
-    }
-  },
-  {
-    "proxy": "http://211.230.49.122:3128",
-    "tested_at": "2026-02-14T19:59:24Z",
-    "ip": "211.230.49.122",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Republic of Korea",
-    "country_code": "KR",
-    "region": "Gyeonggi",
-    "region_code": "41",
-    "city": "Seongnam-si",
-    "latitude": 37.4449168,
-    "longitude": 127.1388684,
-    "is_eu": false,
-    "postal": "13437",
-    "connection": {
-      "asn": 4766,
-      "org": "Kornet",
-      "isp": "Korea Telecom",
-      "domain": ""
     }
   }
 ]

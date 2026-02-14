@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://110.34.1.180:32650",
-    "tested_at": "2026-02-14T19:59:20Z",
-    "ip": "110.34.1.180",
+    "proxy": "http://116.90.224.50:8080",
+    "tested_at": "2026-02-14T20:30:14Z",
+    "ip": "116.90.224.50",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "46600",
     "connection": {
-      "asn": 4007,
-      "org": "Server Networks",
-      "isp": "Subisu Cablenet",
-      "domain": "subisu.net.np"
+      "asn": 24550,
+      "org": "Websurfer Nepal Communication System Pvt. LTD",
+      "isp": "Websurfer Nepal Communication System Pvt. LTD",
+      "domain": "websurfer.com.np"
     }
   }
 ]
