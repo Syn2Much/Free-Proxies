@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://5.134.48.59:8080",
-    "tested_at": "2026-02-13T22:48:20Z",
-    "ip": "5.134.48.59",
+    "proxy": "http://185.118.51.230:3128",
+    "tested_at": "2026-02-14T01:48:37Z",
+    "ip": "185.118.51.230",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "AZ 1009",
     "connection": {
-      "asn": 39232,
-      "org": "SUPERONLAYN LTD",
-      "isp": "Uninet LLC",
-      "domain": "superonline.az"
+      "asn": 203971,
+      "org": "CGNAT",
+      "isp": "Azfibernet LLC",
+      "domain": "azfiber.net"
     }
   }
 ]

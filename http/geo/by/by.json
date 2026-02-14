@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://80.94.229.155:8080",
+    "tested_at": "2026-02-14T01:49:04Z",
+    "ip": "80.94.229.155",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Belarus",
+    "country_code": "BY",
+    "region": "Minsk Region",
+    "region_code": "MI",
+    "city": "Minsk",
+    "latitude": 53.9045398,
+    "longitude": 27.5615244,
+    "is_eu": false,
+    "postal": "220009",
+    "connection": {
+      "asn": 21305,
+      "org": "Ip Telcom LTD",
+      "isp": "Ip Telcom LLC",
+      "domain": "iptel.by"
+    }
+  }
+]

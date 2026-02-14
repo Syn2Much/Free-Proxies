@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://196.1.120.193:8080",
-    "tested_at": "2026-02-14T01:17:13Z",
-    "ip": "196.1.120.65",
+    "proxy": "http://40.192.16.115:311",
+    "tested_at": "2026-02-14T01:48:18Z",
+    "ip": "185.231.33.38",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "SEZ",
     "connection": {
-      "asn": 36867,
-      "org": "ISP Services",
-      "isp": "Kokonet LTD",
-      "domain": "seychelles.sc"
+      "asn": 211720,
+      "org": "SC DATASHIELD 0 0 0",
+      "isp": "Datashield, Inc.",
+      "domain": "xor.sc"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://54.74.104.194:45318",
-    "tested_at": "2026-02-14T01:17:20Z",
-    "ip": "171.25.193.82",
+    "proxy": "https://3.79.194.222:38664",
+    "tested_at": "2026-02-14T01:48:16Z",
+    "ip": "193.189.100.202",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,16 +16,16 @@
     "is_eu": true,
     "postal": "111 29",
     "connection": {
-      "asn": 198093,
-      "org": "Foreningen for Digitala Fri Och Rattigheter",
-      "isp": "Foreningen for Digitala Fri Och Rattigheter",
-      "domain": "dfri.net"
+      "asn": 41281,
+      "org": "Keff Networks LTD",
+      "isp": "Keff Networks LTD",
+      "domain": "keff.org"
     }
   },
   {
-    "proxy": "https://3.79.194.222:38664",
-    "tested_at": "2026-02-14T01:17:29Z",
-    "ip": "171.25.193.82",
+    "proxy": "https://3.137.167.45:10801",
+    "tested_at": "2026-02-14T01:48:57Z",
+    "ip": "45.84.107.54",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -33,16 +33,16 @@
     "country_code": "SE",
     "region": "Stockholm County",
     "region_code": "AB",
-    "city": "Stockholm",
-    "latitude": 59.3293235,
-    "longitude": 18.0685808,
+    "city": "Sundbyberg",
+    "latitude": 59.3670471,
+    "longitude": 17.9663093,
     "is_eu": true,
-    "postal": "111 29",
+    "postal": "172 31",
     "connection": {
-      "asn": 198093,
-      "org": "Foreningen for Digitala Fri Och Rattigheter",
-      "isp": "Foreningen for Digitala Fri Och Rattigheter",
-      "domain": "dfri.net"
+      "asn": 214503,
+      "org": "R0CKET CLOUD",
+      "isp": "Quxlabs Ab",
+      "domain": "quxlabs.com"
     }
   }
 ]

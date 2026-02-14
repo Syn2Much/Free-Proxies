@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://200.48.35.124:999",
+    "tested_at": "2026-02-14T01:48:21Z",
+    "ip": "200.10.68.234",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Junin",
+    "region_code": "JUN",
+    "city": "Tarma",
+    "latitude": -11.4193347,
+    "longitude": -75.6889493,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 6147,
+      "org": "INTEGRATEL PER S.A.A.",
+      "isp": "INTEGRATEL PER S.A.A.",
+      "domain": "telefonica.com.pe"
+    }
+  },
+  {
     "proxy": "http://72.10.164.178:11873",
-    "tested_at": "2026-02-14T01:17:00Z",
+    "tested_at": "2026-02-14T01:48:26Z",
     "ip": "179.6.2.227",
     "success": true,
     "type": "IPv4",
@@ -23,26 +46,95 @@
     }
   },
   {
-    "proxy": "http://45.166.72.35:999",
-    "tested_at": "2026-02-14T01:17:42Z",
-    "ip": "201.218.140.141",
+    "proxy": "http://72.10.160.171:20709",
+    "tested_at": "2026-02-14T01:48:29Z",
+    "ip": "179.6.8.59",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Peru",
     "country_code": "PE",
-    "region": "Arequipa",
-    "region_code": "ARE",
-    "city": "La Joya District",
-    "latitude": -16.7300002,
-    "longitude": -71.8808499,
+    "region": "Puno",
+    "region_code": "PUN",
+    "city": "Puno",
+    "latitude": -15.8402218,
+    "longitude": -70.0218805,
     "is_eu": false,
-    "postal": "",
+    "postal": "21001",
     "connection": {
-      "asn": 271842,
-      "org": "PIT",
-      "isp": "M B Soluciones Peru S.A.C. fastnet",
-      "domain": "optic.cl"
+      "asn": 12252,
+      "org": "America Movil Peru S.A.C.",
+      "isp": "America Movil Peru S.A.C.",
+      "domain": "claro.com.pe"
+    }
+  },
+  {
+    "proxy": "http://38.183.182.242:999",
+    "tested_at": "2026-02-14T01:48:29Z",
+    "ip": "38.183.182.249",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Lima",
+    "region_code": "LIM",
+    "city": "Huaura Province",
+    "latitude": -11.1223461,
+    "longitude": -77.6109546,
+    "is_eu": false,
+    "postal": "15138",
+    "connection": {
+      "asn": 273084,
+      "org": "Cogent Communications",
+      "isp": "FORZA BUSSINES S.A.C.",
+      "domain": "forzatel.pe"
+    }
+  },
+  {
+    "proxy": "http://170.81.240.234:999",
+    "tested_at": "2026-02-14T01:48:33Z",
+    "ip": "170.81.241.14",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Lambayeque",
+    "region_code": "LAM",
+    "city": "Chiclayo",
+    "latitude": -6.778737,
+    "longitude": -79.886098,
+    "is_eu": false,
+    "postal": "14012",
+    "connection": {
+      "asn": 269803,
+      "org": "INVENTA TELECOMUNICACIONES EIRL",
+      "isp": "INVENTA TELECOMUNICACIONES EIRL",
+      "domain": "inventa.pe"
+    }
+  },
+  {
+    "proxy": "http://38.190.100.104:999",
+    "tested_at": "2026-02-14T01:48:43Z",
+    "ip": "38.190.100.106",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Lima",
+    "region_code": "LIM",
+    "city": "Independencia",
+    "latitude": -11.9929208,
+    "longitude": -77.0518169,
+    "is_eu": false,
+    "postal": "95300",
+    "connection": {
+      "asn": 273133,
+      "org": "Cogent Communications",
+      "isp": "CONEX TV E.I.R.L.",
+      "domain": "conextv.pe"
     }
   }
 ]

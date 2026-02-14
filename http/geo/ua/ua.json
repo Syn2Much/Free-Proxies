@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://176.105.199.153:8010",
-    "tested_at": "2026-02-14T01:16:55Z",
-    "ip": "176.105.199.153",
+    "proxy": "http://193.24.30.50:37777",
+    "tested_at": "2026-02-14T01:48:34Z",
+    "ip": "193.24.30.50",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,15 +16,15 @@
     "is_eu": false,
     "postal": "01001",
     "connection": {
-      "asn": 24812,
-      "org": "Rpc Homenet Ltd.",
-      "isp": "Rpc Homenet Ltd.",
-      "domain": "homenet.ua"
+      "asn": 31187,
+      "org": "Ukrtechstroy LTD",
+      "isp": "Ukrtechstroy LTD",
+      "domain": "utsltd.kharkov.ua"
     }
   },
   {
     "proxy": "http://91.238.104.171:2023",
-    "tested_at": "2026-02-14T01:17:01Z",
+    "tested_at": "2026-02-14T01:48:48Z",
     "ip": "91.238.104.171",
     "success": true,
     "type": "IPv4",
@@ -46,26 +46,49 @@
     }
   },
   {
-    "proxy": "http://5.58.97.89:8080",
-    "tested_at": "2026-02-14T01:17:18Z",
-    "ip": "5.58.97.89",
+    "proxy": "http://91.228.217.195:8989",
+    "tested_at": "2026-02-14T01:48:57Z",
+    "ip": "91.228.217.195",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Ukraine",
     "country_code": "UA",
-    "region": "Kyiv city",
-    "region_code": "30",
-    "city": "Kyiv",
-    "latitude": 50.4501,
-    "longitude": 30.5234,
+    "region": "Ivano-Frankivsk Oblast",
+    "region_code": "",
+    "city": "Kryvorivnya",
+    "latitude": 48.1736874,
+    "longitude": 24.8963763,
     "is_eu": false,
-    "postal": "01001",
+    "postal": "78710",
     "connection": {
-      "asn": 16223,
-      "org": "UA TE COLUMBUS PE",
-      "isp": "MAXNET TELECOM, LTD",
-      "domain": "maxnet.ua"
+      "asn": 209907,
+      "org": "Fop Saiv Igor Stepanovich",
+      "isp": "Fop Saiv Igor Stepanovich",
+      "domain": "gipernet.com.ua"
+    }
+  },
+  {
+    "proxy": "http://176.105.220.74:3129",
+    "tested_at": "2026-02-14T01:49:02Z",
+    "ip": "176.105.220.74",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Poltava Oblast",
+    "region_code": "53",
+    "city": "Kremenchuk",
+    "latitude": 49.065783,
+    "longitude": 33.410033,
+    "is_eu": false,
+    "postal": "39600",
+    "connection": {
+      "asn": 24812,
+      "org": "Rpc Homenet Ltd.",
+      "isp": "Rpc Homenet Ltd.",
+      "domain": "homenet.ua"
     }
   }
 ]

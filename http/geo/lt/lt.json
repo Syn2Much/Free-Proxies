@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://88.119.139.237:53281",
+    "tested_at": "2026-02-14T01:48:40Z",
+    "ip": "88.119.139.237",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Republic of Lithuania",
+    "country_code": "LT",
+    "region": "Klaipėda County",
+    "region_code": "KL",
+    "city": "Klaipėda",
+    "latitude": 55.7171813,
+    "longitude": 21.1174129,
+    "is_eu": true,
+    "postal": "92138",
+    "connection": {
+      "asn": 8764,
+      "org": "Telia Lietuva, Ab",
+      "isp": "Telia Lietuva, Ab",
+      "domain": "telia.lt"
+    }
+  }
+]

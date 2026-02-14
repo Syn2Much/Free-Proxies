@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://193.43.145.250:8080",
+    "tested_at": "2026-02-14T01:48:24Z",
+    "ip": "193.43.145.250",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Syria",
+    "country_code": "SY",
+    "region": "As-Suwayda Governorate",
+    "region_code": "SU",
+    "city": "Al Nashabiyah",
+    "latitude": 33.5145293,
+    "longitude": 36.4878241,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 29256,
+      "org": "Wafa Telecom J.S.C",
+      "isp": "Syrian Telecommunication Private Closed Joint Stock Company",
+      "domain": "syriantelecom.sy"
+    }
+  },
+  {
     "proxy": "http://212.108.115.130:8080",
-    "tested_at": "2026-02-14T01:17:32Z",
+    "tested_at": "2026-02-14T01:48:26Z",
     "ip": "212.108.115.181",
     "success": true,
     "type": "IPv4",
@@ -23,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://164.138.205.67:8080",
-    "tested_at": "2026-02-14T01:17:35Z",
-    "ip": "164.138.205.67",
+    "proxy": "http://212.108.115.102:8080",
+    "tested_at": "2026-02-14T01:48:28Z",
+    "ip": "212.108.115.102",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -40,27 +63,27 @@
     "postal": "2277",
     "connection": {
       "asn": 216472,
-      "org": "Telecom Sy",
+      "org": "TELECOME SY",
       "isp": "High Speed For Internet Services L.L.C",
       "domain": "kaer.technology"
     }
   },
   {
-    "proxy": "http://89.43.132.242:8080",
-    "tested_at": "2026-02-14T01:17:42Z",
-    "ip": "89.43.132.242",
+    "proxy": "http://89.43.133.174:8080",
+    "tested_at": "2026-02-14T01:49:07Z",
+    "ip": "89.43.133.174",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Syria",
     "country_code": "SY",
-    "region": "Aleppo Governorate",
-    "region_code": "HL",
-    "city": "Aleppo",
-    "latitude": 36.2021047,
-    "longitude": 37.1342603,
+    "region": "Idlib Governorate",
+    "region_code": "ID",
+    "city": "Idlib",
+    "latitude": 35.9310271,
+    "longitude": 36.6417777,
     "is_eu": false,
-    "postal": "720",
+    "postal": "+96323",
     "connection": {
       "asn": 216472,
       "org": "HU PANTEL INT 00 11",

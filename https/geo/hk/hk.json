@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://47.240.86.21:3128",
-    "tested_at": "2026-02-14T01:16:49Z",
-    "ip": "47.240.86.21",
+    "proxy": "https://47.242.121.18:8443",
+    "tested_at": "2026-02-14T01:48:17Z",
+    "ip": "47.242.121.18",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -23,31 +23,8 @@
     }
   },
   {
-    "proxy": "https://47.243.181.85:41488",
-    "tested_at": "2026-02-14T01:16:50Z",
-    "ip": "58.82.202.158",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Kowloon",
-    "latitude": 22.3186108,
-    "longitude": 114.2348969,
-    "is_eu": false,
-    "postal": "000000",
-    "connection": {
-      "asn": 137872,
-      "org": "China Mobile Hong Kong Company Limited",
-      "isp": "China Mobile Hong Kong Company Limited",
-      "domain": "chinamobile.com"
-    }
-  },
-  {
     "proxy": "https://20.205.138.223:443",
-    "tested_at": "2026-02-14T01:16:59Z",
+    "tested_at": "2026-02-14T01:48:18Z",
     "ip": "20.205.138.223",
     "success": true,
     "type": "IPv4",
@@ -70,7 +47,7 @@
   },
   {
     "proxy": "https://47.243.181.85:28085",
-    "tested_at": "2026-02-14T01:16:59Z",
+    "tested_at": "2026-02-14T01:48:26Z",
     "ip": "47.243.181.85",
     "success": true,
     "type": "IPv4",
@@ -92,9 +69,9 @@
     }
   },
   {
-    "proxy": "https://47.243.181.85:41487",
-    "tested_at": "2026-02-14T01:17:21Z",
-    "ip": "183.179.203.184",
+    "proxy": "https://47.243.181.85:41488",
+    "tested_at": "2026-02-14T01:48:57Z",
+    "ip": "223.18.189.149",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -102,22 +79,22 @@
     "country_code": "HK",
     "region": "Hong Kong",
     "region_code": "",
-    "city": "Tung Tau Tsuen Road",
-    "latitude": 22.333137,
-    "longitude": 114.190138,
+    "city": "Gloucester Road",
+    "latitude": 22.2794413,
+    "longitude": 114.176901,
     "is_eu": false,
-    "postal": "000000",
+    "postal": "",
     "connection": {
-      "asn": 9269,
-      "org": "Hong Kong Broadband Network Limited",
-      "isp": "Hong Kong Broadband Network Limited",
-      "domain": "hkbn.net"
+      "asn": 9304,
+      "org": "HGC Global Communications Limited",
+      "isp": "HGC Global Communications Limited",
+      "domain": "hgc.com.hk"
     }
   },
   {
-    "proxy": "https://47.242.121.18:8443",
-    "tested_at": "2026-02-14T01:17:43Z",
-    "ip": "47.242.121.18",
+    "proxy": "https://47.240.86.21:3128",
+    "tested_at": "2026-02-14T01:48:57Z",
+    "ip": "47.240.86.21",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",

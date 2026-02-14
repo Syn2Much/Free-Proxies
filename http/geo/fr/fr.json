@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://185.41.152.110:3128",
-    "tested_at": "2026-02-14T01:16:50Z",
-    "ip": "185.41.152.110",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Grand Est",
-    "region_code": "GES",
-    "city": "Marly",
-    "latitude": 49.059828,
-    "longitude": 6.154795,
-    "is_eu": true,
-    "postal": "57155",
-    "connection": {
-      "asn": 197922,
-      "org": "FIRSTHEBERG",
-      "isp": "Techcrea Solutions SAS",
-      "domain": "techcrea.fr"
-    }
-  },
-  {
-    "proxy": "http://94.183.188.7:6891",
-    "tested_at": "2026-02-14T01:16:58Z",
-    "ip": "94.183.188.7",
+    "proxy": "http://62.133.62.12:1082",
+    "tested_at": "2026-02-14T01:48:28Z",
+    "ip": "62.133.62.12",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,56 +16,56 @@
     "is_eu": true,
     "postal": "75007",
     "connection": {
-      "asn": 56971,
-      "org": "CGI GLOBAL LIMITED",
-      "isp": "CGI GLOBAL LIMITED",
-      "domain": "cloudbackbone.net"
+      "asn": 215540,
+      "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "domain": "gir.network"
     }
   },
   {
-    "proxy": "http://171.37.178.127:7890",
-    "tested_at": "2026-02-14T01:17:31Z",
-    "ip": "144.24.196.169",
+    "proxy": "http://164.132.248.251:80",
+    "tested_at": "2026-02-14T01:48:28Z",
+    "ip": "164.132.248.251",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "France",
     "country_code": "FR",
-    "region": "Provence-Alpes-Côte d'Azur",
-    "region_code": "PAC",
-    "city": "Marseille",
-    "latitude": 43.296482,
-    "longitude": 5.36978,
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
     "is_eu": true,
-    "postal": "13000",
+    "postal": "75007",
     "connection": {
-      "asn": 31898,
-      "org": "Oracle Svenska Ab",
-      "isp": "Oracle Corporation",
-      "domain": "oracle.com"
+      "asn": 16276,
+      "org": "OVH SAS",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
     }
   },
   {
-    "proxy": "http://3.29.139.146:4054",
-    "tested_at": "2026-02-14T01:17:31Z",
-    "ip": "178.20.55.16",
+    "proxy": "http://37.187.109.70:10111",
+    "tested_at": "2026-02-14T01:48:38Z",
+    "ip": "2001:41d0:a:6246::1",
     "success": true,
-    "type": "IPv4",
+    "type": "IPv6",
     "continent": "Europe",
     "country": "France",
     "country_code": "FR",
-    "region": "Auvergne-Rhône-Alpes",
-    "region_code": "ARA",
-    "city": "Saint-Martin-Bellevue",
-    "latitude": 45.96286,
-    "longitude": 6.148198,
+    "region": "Hauts-de-France",
+    "region_code": "HDF",
+    "city": "Roubaix",
+    "latitude": 50.6927049,
+    "longitude": 3.177847,
     "is_eu": true,
-    "postal": "74370",
+    "postal": "59100",
     "connection": {
-      "asn": 29075,
-      "org": "Backbone",
-      "isp": "IELO LIAZO SERVICES SAS",
-      "domain": "liazo.fr"
+      "asn": 16276,
+      "org": "OVH",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
     }
   }
 ]

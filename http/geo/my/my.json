@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://180.74.171.206:8080",
-    "tested_at": "2026-02-14T01:16:54Z",
-    "ip": "180.74.171.206",
+    "proxy": "http://72.10.160.170:29703",
+    "tested_at": "2026-02-14T01:48:39Z",
+    "ip": "115.133.181.95",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Malaysia",
     "country_code": "MY",
-    "region": "Sabah",
-    "region_code": "12",
-    "city": "Kota Kinabalu",
-    "latitude": 5.980408,
-    "longitude": 116.0734568,
+    "region": "Federal Territory of Kuala Lumpur",
+    "region_code": "",
+    "city": "Kuala Lumpur",
+    "latitude": 3.139003,
+    "longitude": 101.686855,
     "is_eu": false,
-    "postal": "88000",
+    "postal": "50050",
     "connection": {
       "asn": 4788,
-      "org": "Unifi Home",
+      "org": "STREAMYXBUSINESS CENTRAL KLJ",
       "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-      "domain": ""
+      "domain": "tm.com.my"
     }
   }
 ]

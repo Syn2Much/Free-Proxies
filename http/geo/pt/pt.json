@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://67.43.236.20:10825",
-    "tested_at": "2026-02-14T00:14:32Z",
-    "ip": "188.250.225.150",
+    "proxy": "http://72.10.160.90:9801",
+    "tested_at": "2026-02-14T01:49:00Z",
+    "ip": "161.230.1.247",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Portugal",
     "country_code": "PT",
-    "region": "Braga",
-    "region_code": "03",
-    "city": "Braga",
-    "latitude": 41.5454486,
-    "longitude": -8.426507,
+    "region": "Lisbon",
+    "region_code": "11",
+    "city": "Lisbon",
+    "latitude": 38.7222524,
+    "longitude": -9.1393366,
     "is_eu": true,
-    "postal": "4700-435",
+    "postal": "1100-148",
     "connection": {
-      "asn": 3243,
-      "org": "Pt Comunicacoes S.A.",
-      "isp": "MEO SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",
-      "domain": "meo.pt"
+      "asn": 12353,
+      "org": "DSL ULL",
+      "isp": "Vodafone Portugal Communicacoes Pessoais S.A.",
+      "domain": "vodafone.com"
     }
   }
 ]

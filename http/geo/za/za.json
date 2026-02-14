@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://102.212.45.34:12354",
-    "tested_at": "2026-02-14T01:16:52Z",
-    "ip": "102.212.45.34",
+    "proxy": "http://102.212.46.79:12354",
+    "tested_at": "2026-02-14T01:48:19Z",
+    "ip": "102.212.46.79",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -23,9 +23,55 @@
     }
   },
   {
-    "proxy": "http://160.119.228.146:12354",
-    "tested_at": "2026-02-14T01:17:06Z",
-    "ip": "160.119.228.146",
+    "proxy": "http://102.218.40.77:8082",
+    "tested_at": "2026-02-14T01:49:00Z",
+    "ip": "102.218.40.66",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "KwaZulu-Natal",
+    "region_code": "KZN",
+    "city": "Newcastle",
+    "latitude": -27.7138429,
+    "longitude": 29.9971769,
+    "is_eu": false,
+    "postal": "2940",
+    "connection": {
+      "asn": 328942,
+      "org": "Newcastle Broadband Users",
+      "isp": "IMVULA ITECHNOLOGIES PTY LTD",
+      "domain": "imvulaitech.co.za"
+    }
+  },
+  {
+    "proxy": "http://196.250.239.229:8787",
+    "tested_at": "2026-02-14T01:49:01Z",
+    "ip": "196.250.239.229",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Mpumalanga",
+    "region_code": "MP",
+    "city": "Secunda",
+    "latitude": -26.5157792,
+    "longitude": 29.1913918,
+    "is_eu": false,
+    "postal": "2302",
+    "connection": {
+      "asn": 37662,
+      "org": "WIOCC 1 . 0. .0",
+      "isp": "West Indian Ocean Cable Company",
+      "domain": "wiocc.net"
+    }
+  },
+  {
+    "proxy": "http://105.28.176.41:9812",
+    "tested_at": "2026-02-14T01:49:08Z",
+    "ip": "105.27.130.22",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -33,62 +79,16 @@
     "country_code": "ZA",
     "region": "Gauteng",
     "region_code": "GT",
-    "city": "Randburg",
-    "latitude": -26.1438399,
-    "longitude": 27.9951862,
+    "city": "Sandton",
+    "latitude": -26.1075663,
+    "longitude": 28.0567007,
     "is_eu": false,
-    "postal": "2194",
+    "postal": "1865",
     "connection": {
-      "asn": 328137,
-      "org": "Web Squad Connect",
-      "isp": "Web Squad Connect pty LTD",
-      "domain": "websquad.co.za"
-    }
-  },
-  {
-    "proxy": "http://169.159.128.76:8865",
-    "tested_at": "2026-02-14T01:17:20Z",
-    "ip": "169.159.128.76",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Gauteng",
-    "region_code": "GT",
-    "city": "Pretoria",
-    "latitude": -25.7478676,
-    "longitude": 28.2292712,
-    "is_eu": false,
-    "postal": "0126",
-    "connection": {
-      "asn": 328471,
-      "org": "HERO TELECOMS PTY LTD",
-      "isp": "HERO TELECOMS PTY LTD",
-      "domain": "herotel.com"
-    }
-  },
-  {
-    "proxy": "http://217.29.209.22:8865",
-    "tested_at": "2026-02-14T01:17:49Z",
-    "ip": "217.29.209.22",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "North West",
-    "region_code": "NW",
-    "city": "Potchefstroom",
-    "latitude": -26.7145297,
-    "longitude": 27.0970475,
-    "is_eu": false,
-    "postal": "2520",
-    "connection": {
-      "asn": 328471,
-      "org": "HERO TELECOMS PTY LTD",
-      "isp": "HERO TELECOMS PTY LTD",
-      "domain": "herotel.com"
+      "asn": 37100,
+      "org": "Assignment Made to Seacom Infrastructure.",
+      "isp": "Seacom Limited",
+      "domain": "seacom.mu"
     }
   }
 ]

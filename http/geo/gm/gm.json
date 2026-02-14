@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://102.213.223.46:83",
+    "tested_at": "2026-02-14T01:48:43Z",
+    "ip": "102.213.223.46",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Gambia",
+    "country_code": "GM",
+    "region": "West Coast Division",
+    "region_code": "",
+    "city": "Brusubi",
+    "latitude": 13.4037771,
+    "longitude": -16.7296177,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 329179,
+      "org": "Sky Telecom Company Limited",
+      "isp": "Sky Telecom Company Limited",
+      "domain": "skytelecom.gm"
+    }
+  }
+]

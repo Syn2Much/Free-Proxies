@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://110.34.1.180:32650",
-    "tested_at": "2026-02-14T01:17:19Z",
-    "ip": "110.34.1.180",
+    "proxy": "http://103.114.25.21:8088",
+    "tested_at": "2026-02-14T01:48:54Z",
+    "ip": "103.114.25.6",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,33 @@
     "is_eu": false,
     "postal": "46600",
     "connection": {
-      "asn": 4007,
-      "org": "Server Networks",
-      "isp": "Subisu Cablenet",
-      "domain": "subisu.net.np"
+      "asn": 137580,
+      "org": "Everest Wireless Network Pvt. LTD",
+      "isp": "Everest Wireless Network Pvt. LTD",
+      "domain": "ewnet.com.np"
+    }
+  },
+  {
+    "proxy": "http://43.245.85.46:808",
+    "tested_at": "2026-02-14T01:49:07Z",
+    "ip": "43.245.85.46",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Nepal",
+    "country_code": "NP",
+    "region": "Bagmati Pradesh",
+    "region_code": "",
+    "city": "Patan",
+    "latitude": 27.6644011,
+    "longitude": 85.3187914,
+    "is_eu": false,
+    "postal": "44707",
+    "connection": {
+      "asn": 45650,
+      "org": "VIA NET COMMUNICATION PUBLIC LIMITED",
+      "isp": "VIA NET COMMUNICATION PUBLIC LIMITED",
+      "domain": "vianet.com.np"
     }
   }
 ]

@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://62.201.217.243:40010",
-    "tested_at": "2026-02-14T01:17:34Z",
-    "ip": "62.201.217.243",
+    "proxy": "http://37.238.63.39:8080",
+    "tested_at": "2026-02-14T01:48:44Z",
+    "ip": "37.237.226.172",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Iraq",
     "country_code": "IQ",
-    "region": "Sulaimaniya Governorate",
-    "region_code": "SU",
-    "city": "Kalar",
-    "latitude": 34.6307795,
-    "longitude": 45.3275531,
+    "region": "Baghdad Governorate",
+    "region_code": "BG",
+    "city": "Baghdad",
+    "latitude": 33.3128057,
+    "longitude": 44.3614875,
     "is_eu": false,
-    "postal": "46021",
+    "postal": "10001",
     "connection": {
-      "asn": 44217,
-      "org": "Sulaymaniyah Users",
-      "isp": "Iq Networks for Data And Internet Services LTD",
-      "domain": "iq.email"
-    }
-  },
-  {
-    "proxy": "http://45.81.146.7:8080",
-    "tested_at": "2026-02-14T01:17:44Z",
-    "ip": "45.81.146.7",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Iraq",
-    "country_code": "IQ",
-    "region": "Iraqi Kurdistan Region",
-    "region_code": "",
-    "city": "Duhok",
-    "latitude": 36.8679054,
-    "longitude": 42.9488574,
-    "is_eu": false,
-    "postal": "42001",
-    "connection": {
-      "asn": 208859,
-      "org": "Duhok Networks",
-      "isp": "FACT LTD",
-      "domain": ""
+      "asn": 199739,
+      "org": "Earthlink Ltd. Communications internet Services orange",
+      "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
+      "domain": "earthlink.iq"
     }
   }
 ]

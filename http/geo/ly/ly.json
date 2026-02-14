@@ -1,8 +1,8 @@
 [
   {
     "proxy": "http://102.68.128.217:8080",
-    "tested_at": "2026-02-14T01:17:03Z",
-    "ip": "102.68.128.200",
+    "tested_at": "2026-02-14T01:48:17Z",
+    "ip": "102.68.128.203",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -23,8 +23,8 @@
     }
   },
   {
-    "proxy": "http://154.73.28.253:8080",
-    "tested_at": "2026-02-14T01:17:03Z",
+    "proxy": "http://154.73.29.161:8080",
+    "tested_at": "2026-02-14T01:48:18Z",
     "ip": "154.73.28.74",
     "success": true,
     "type": "IPv4",
@@ -46,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://102.68.135.157:8080",
-    "tested_at": "2026-02-14T01:17:06Z",
-    "ip": "102.68.135.148",
+    "proxy": "http://154.73.29.65:8080",
+    "tested_at": "2026-02-14T01:48:19Z",
+    "ip": "154.73.28.72",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -63,9 +63,32 @@
     "postal": "350",
     "connection": {
       "asn": 21003,
-      "org": "Early Technical",
+      "org": "RAWAFED LIBYA",
       "isp": "General Post And Telecommunication Company gptc",
-      "domain": "earlytechnicaleducation.org"
+      "domain": "rltt.net"
+    }
+  },
+  {
+    "proxy": "http://102.68.129.54:8080",
+    "tested_at": "2026-02-14T01:49:06Z",
+    "ip": "102.68.129.57",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Tripoli",
+    "region_code": "TB",
+    "city": "Tripoli",
+    "latitude": 32.8872094,
+    "longitude": 13.1913383,
+    "is_eu": false,
+    "postal": "350",
+    "connection": {
+      "asn": 21003,
+      "org": "Palm City",
+      "isp": "General Post And Telecommunication Company gptc",
+      "domain": "rltt.net"
     }
   }
 ]

@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://72.10.160.170:25589",
+    "tested_at": "2026-02-14T01:48:37Z",
+    "ip": "190.98.110.255",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Suriname",
+    "country_code": "SR",
+    "region": "Paramaribo",
+    "region_code": "PM",
+    "city": "Paramaribo",
+    "latitude": 5.8520355,
+    "longitude": -55.2038278,
+    "is_eu": false,
+    "postal": "3001",
+    "connection": {
+      "asn": 27775,
+      "org": "Telecommunicationcompany Suriname Telesur",
+      "isp": "Telecommunicationcompany Suriname Telesur",
+      "domain": "telesur.sr"
+    }
+  }
+]

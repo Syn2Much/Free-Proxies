@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://185.133.213.86:8074",
-    "tested_at": "2026-02-13T22:48:06Z",
-    "ip": "185.133.213.86",
+    "proxy": "http://203.81.81.226:8055",
+    "tested_at": "2026-02-14T01:48:55Z",
+    "ip": "203.81.81.226",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,33 +16,33 @@
     "is_eu": false,
     "postal": "00000",
     "connection": {
-      "asn": 133524,
-      "org": "Route Object for Global Technology",
-      "isp": "Global Technology Co., Ltd.",
-      "domain": "globalnetmm.com"
+      "asn": 9988,
+      "org": "Myanma Post And Telecommunication",
+      "isp": "Myanma Post Telecommunication",
+      "domain": "mptjo.com.mm"
     }
   },
   {
-    "proxy": "http://157.15.190.32:8080",
-    "tested_at": "2026-02-13T22:48:17Z",
-    "ip": "157.15.190.33",
+    "proxy": "http://37.111.52.46:8080",
+    "tested_at": "2026-02-14T01:49:04Z",
+    "ip": "37.111.41.164",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Myanmar [Burma]",
     "country_code": "MM",
-    "region": "Mandalay",
-    "region_code": "04",
-    "city": "Mandalay",
-    "latitude": 21.9588282,
-    "longitude": 96.0891032,
+    "region": "Yangon",
+    "region_code": "06",
+    "city": "Yangon",
+    "latitude": 16.8660694,
+    "longitude": 96.195132,
     "is_eu": false,
-    "postal": "",
+    "postal": "00000",
     "connection": {
-      "asn": 152466,
-      "org": "T link Group Company Limited",
-      "isp": "T link Group Company Limited",
-      "domain": "t-linkgroup.com"
+      "asn": 133385,
+      "org": "Atom Myanmar Limited",
+      "isp": "Atom Myanmar Limited",
+      "domain": "atom.com.mm"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://185.245.84.50:9443",
-    "tested_at": "2026-02-14T00:46:24Z",
-    "ip": "185.245.84.59",
+    "proxy": "https://54.74.104.194:45318",
+    "tested_at": "2026-02-14T01:48:48Z",
+    "ip": "185.129.61.2",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,16 +10,16 @@
     "country_code": "DK",
     "region": "Denmark",
     "region_code": "",
-    "city": "Copenhagen",
-    "latitude": 55.6715916,
-    "longitude": 12.5929404,
+    "city": "Hundested",
+    "latitude": 55.967747,
+    "longitude": 11.858962,
     "is_eu": true,
-    "postal": "1131",
+    "postal": "3390",
     "connection": {
-      "asn": 9009,
-      "org": "M LTD Copenhagen Infrastructure",
-      "isp": "M Europe SRL",
-      "domain": "m247.com"
+      "asn": 210731,
+      "org": "This Network Includes A Tor Servers And We Are Sorry for Any Inconvenience, Handled by Dotsrc",
+      "isp": "Forening for Dotsrc",
+      "domain": "dotsrc.org"
     }
   }
 ]

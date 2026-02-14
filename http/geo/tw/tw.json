@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://35.234.17.221:8080",
-    "tested_at": "2026-02-14T00:45:39Z",
+    "tested_at": "2026-02-14T01:48:22Z",
     "ip": "35.234.17.221",
     "success": true,
     "type": "IPv4",
@@ -20,29 +20,6 @@
       "org": "Google LLC",
       "isp": "Google LLC",
       "domain": "google.com"
-    }
-  },
-  {
-    "proxy": "http://67.43.236.20:29839",
-    "tested_at": "2026-02-14T00:46:10Z",
-    "ip": "1.163.37.68",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Taiwan",
-    "country_code": "TW",
-    "region": "Taoyuan City",
-    "region_code": "TAO",
-    "city": "大同路79巷",
-    "latitude": 24.9889633,
-    "longitude": 121.310951,
-    "is_eu": false,
-    "postal": "330",
-    "connection": {
-      "asn": 3462,
-      "org": "Chunghwa Telecom CO.,LTD.",
-      "isp": "Chunghwa Telecom Co., Ltd.",
-      "domain": "cht.com.tw"
     }
   }
 ]

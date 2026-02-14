@@ -1,122 +1,53 @@
 [
   {
-    "proxy": "https://47.243.181.85:41399",
-    "tested_at": "2026-02-14T01:16:51Z",
-    "ip": "2405:1202:968d:1200:cc38:1334:ebef:7c0",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Chiyoda",
-    "latitude": 35.6940027,
-    "longitude": 139.7535951,
-    "is_eu": false,
-    "postal": "100-0003",
-    "connection": {
-      "asn": 9824,
-      "org": "Jcom Co., Ltd.",
-      "isp": "Jcom Co., Ltd.",
-      "domain": "jcom.co.jp"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41402",
-    "tested_at": "2026-02-14T01:17:01Z",
-    "ip": "219.28.215.83",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Minato",
-    "latitude": 35.6580681,
-    "longitude": 139.7515992,
-    "is_eu": false,
-    "postal": "108-0074",
-    "connection": {
-      "asn": 17676,
-      "org": "Softbank Corp.",
-      "isp": "Softbank Mobile Corp.",
-      "domain": "bbtec.net"
-    }
-  },
-  {
     "proxy": "https://47.243.181.85:41410",
-    "tested_at": "2026-02-14T01:17:14Z",
-    "ip": "61.206.67.30",
+    "tested_at": "2026-02-14T01:48:28Z",
+    "ip": "118.102.52.170",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Japan",
     "country_code": "JP",
-    "region": "Aichi Prefecture",
-    "region_code": "23",
-    "city": "Tokai",
-    "latitude": 35.0228426,
-    "longitude": 136.90253,
+    "region": "Nagano Prefecture",
+    "region_code": "20",
+    "city": "Okaya",
+    "latitude": 36.0670021,
+    "longitude": 138.0493709,
     "is_eu": false,
-    "postal": "459-8001",
+    "postal": "394-0003",
     "connection": {
-      "asn": 10010,
-      "org": "Tokai Communications Corporation",
-      "isp": "Tokai Communications Corporation",
-      "domain": "tokai.or.jp"
+      "asn": 23791,
+      "org": "Lcv Corporation",
+      "isp": "Lcv Corporation",
+      "domain": "lcv.jp"
     }
   },
   {
-    "proxy": "https://47.243.181.85:41393",
-    "tested_at": "2026-02-14T01:17:16Z",
-    "ip": "138.199.22.98",
+    "proxy": "https://47.243.181.85:41408",
+    "tested_at": "2026-02-14T01:48:30Z",
+    "ip": "45.8.221.32",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Japan",
     "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Shibuya City",
-    "latitude": 35.6549037,
-    "longitude": 139.6945698,
+    "region": "Osaka Prefecture",
+    "region_code": "27",
+    "city": "Osaka",
+    "latitude": 34.6937378,
+    "longitude": 135.5021651,
     "is_eu": false,
-    "postal": "150-0036",
+    "postal": "530-8201",
     "connection": {
-      "asn": 60068,
-      "org": "CDN TYO",
-      "isp": "Datacamp Limited",
-      "domain": "datacamp.co.uk"
-    }
-  },
-  {
-    "proxy": "https://103.100.159.145:443",
-    "tested_at": "2026-02-14T01:17:20Z",
-    "ip": "103.100.159.145",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
-    "is_eu": false,
-    "postal": "100-0002",
-    "connection": {
-      "asn": 138968,
-      "org": "Softbank Corp.",
-      "isp": "Rainbow Network Limited",
-      "domain": "softbank.jp"
+      "asn": 4785,
+      "org": "xTom",
+      "isp": "Xtom Limited",
+      "domain": "xtom.com"
     }
   },
   {
     "proxy": "https://20.78.213.56:443",
-    "tested_at": "2026-02-14T01:17:30Z",
+    "tested_at": "2026-02-14T01:48:37Z",
     "ip": "20.78.213.56",
     "success": true,
     "type": "IPv4",
@@ -138,9 +69,32 @@
     }
   },
   {
-    "proxy": "https://37.120.210.146:9443",
-    "tested_at": "2026-02-14T01:17:43Z",
-    "ip": "37.120.210.151",
+    "proxy": "https://47.243.181.85:41419",
+    "tested_at": "2026-02-14T01:48:38Z",
+    "ip": "2400:2411:e320:6a12:8d05:ddd:a295:c95c",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
+    "is_eu": false,
+    "postal": "100-0002",
+    "connection": {
+      "asn": 17676,
+      "org": "Softbank Corp.",
+      "isp": "Softbank Mobile Corp.",
+      "domain": "softbank.co.jp"
+    }
+  },
+  {
+    "proxy": "https://103.100.159.145:443",
+    "tested_at": "2026-02-14T01:48:46Z",
+    "ip": "103.100.159.145",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -154,15 +108,15 @@
     "is_eu": false,
     "postal": "100-0002",
     "connection": {
-      "asn": 9009,
-      "org": "M LTD Tokyo Infrastructure",
-      "isp": "M Europe SRL",
-      "domain": "m247.ro"
+      "asn": 138968,
+      "org": "Softbank Corp.",
+      "isp": "Rainbow Network Limited",
+      "domain": "softbank.jp"
     }
   },
   {
     "proxy": "https://203.189.96.232:443",
-    "tested_at": "2026-02-14T01:17:44Z",
+    "tested_at": "2026-02-14T01:48:50Z",
     "ip": "203.189.96.232",
     "success": true,
     "type": "IPv4",
@@ -181,6 +135,52 @@
       "org": "Gmo Internet, Inc.",
       "isp": "Gmo Internet Group, Inc.",
       "domain": "internet.gmo"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41399",
+    "tested_at": "2026-02-14T01:48:57Z",
+    "ip": "202.88.197.76",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Fukui Prefecture",
+    "region_code": "18",
+    "city": "Echizen",
+    "latitude": 35.9034986,
+    "longitude": 136.16878,
+    "is_eu": false,
+    "postal": "915-8530",
+    "connection": {
+      "asn": 24255,
+      "org": "ECHIZEN TOWN OFFICE FUKUI PREFECTURE",
+      "isp": "Koshinomiyako Network, Inc.",
+      "domain": "koshinomiyako.jp"
+    }
+  },
+  {
+    "proxy": "https://37.120.210.66:9443",
+    "tested_at": "2026-02-14T01:48:58Z",
+    "ip": "37.120.210.71",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
+    "is_eu": false,
+    "postal": "100-0002",
+    "connection": {
+      "asn": 9009,
+      "org": "M LTD Tokyo Infrastructure",
+      "isp": "M Europe SRL",
+      "domain": "m247.ro"
     }
   }
 ]

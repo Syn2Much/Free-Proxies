@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://54.233.23.106:27265",
-    "tested_at": "2026-02-14T01:17:20Z",
-    "ip": "72.5.43.62",
+    "proxy": "http://92.180.22.224:8081",
+    "tested_at": "2026-02-14T01:49:04Z",
+    "ip": "92.180.22.224",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Romania",
     "country_code": "RO",
-    "region": "Bucharest",
-    "region_code": "B",
-    "city": "Bucharest",
-    "latitude": 44.4267674,
-    "longitude": 26.1025384,
+    "region": "Cluj",
+    "region_code": "CJ",
+    "city": "Turda",
+    "latitude": 46.564676,
+    "longitude": 23.7971063,
     "is_eu": true,
-    "postal": "030163",
+    "postal": "401100",
     "connection": {
-      "asn": 399629,
-      "org": "Bl Networks",
-      "isp": "Bl Networks",
-      "domain": "blnwx.com"
+      "asn": 8953,
+      "org": "Orange Romania",
+      "isp": "Orange Romania S.A.",
+      "domain": "orange.ro"
     }
   }
 ]

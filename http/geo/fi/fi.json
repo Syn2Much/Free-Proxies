@@ -1,53 +1,7 @@
 [
   {
-    "proxy": "http://65.108.159.129:4145",
-    "tested_at": "2026-02-14T01:16:50Z",
-    "ip": "65.108.159.129",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Finland",
-    "country_code": "FI",
-    "region": "Mainland Finland",
-    "region_code": "",
-    "city": "Helsinki",
-    "latitude": 60.1698557,
-    "longitude": 24.938379,
-    "is_eu": true,
-    "postal": "02101",
-    "connection": {
-      "asn": 24940,
-      "org": "Hetzner Online GmbH",
-      "isp": "Hetzner Online GmbH",
-      "domain": "hetzner.com"
-    }
-  },
-  {
-    "proxy": "http://65.108.159.129:8081",
-    "tested_at": "2026-02-14T01:16:55Z",
-    "ip": "65.108.159.129",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Finland",
-    "country_code": "FI",
-    "region": "Mainland Finland",
-    "region_code": "",
-    "city": "Helsinki",
-    "latitude": 60.1698557,
-    "longitude": 24.938379,
-    "is_eu": true,
-    "postal": "02101",
-    "connection": {
-      "asn": 24940,
-      "org": "Hetzner Online GmbH",
-      "isp": "Hetzner Online GmbH",
-      "domain": "hetzner.com"
-    }
-  },
-  {
     "proxy": "http://94.159.112.138:3129",
-    "tested_at": "2026-02-14T01:17:39Z",
+    "tested_at": "2026-02-14T01:48:15Z",
     "ip": "94.159.112.138",
     "success": true,
     "type": "IPv4",
@@ -66,6 +20,52 @@
       "org": "New Hosting Technologies LLC",
       "isp": "Closed Joint Stock Company Abkhazmedia",
       "domain": "landvps.ru"
+    }
+  },
+  {
+    "proxy": "http://65.108.159.129:8081",
+    "tested_at": "2026-02-14T01:48:16Z",
+    "ip": "65.108.159.129",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Finland",
+    "country_code": "FI",
+    "region": "Mainland Finland",
+    "region_code": "",
+    "city": "Helsinki",
+    "latitude": 60.1698557,
+    "longitude": 24.938379,
+    "is_eu": true,
+    "postal": "02101",
+    "connection": {
+      "asn": 24940,
+      "org": "Hetzner Online GmbH",
+      "isp": "Hetzner Online GmbH",
+      "domain": "hetzner.com"
+    }
+  },
+  {
+    "proxy": "http://65.108.159.129:1080",
+    "tested_at": "2026-02-14T01:48:38Z",
+    "ip": "65.108.159.129",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Finland",
+    "country_code": "FI",
+    "region": "Mainland Finland",
+    "region_code": "",
+    "city": "Helsinki",
+    "latitude": 60.1698557,
+    "longitude": 24.938379,
+    "is_eu": true,
+    "postal": "02101",
+    "connection": {
+      "asn": 24940,
+      "org": "Hetzner Online GmbH",
+      "isp": "Hetzner Online GmbH",
+      "domain": "hetzner.com"
     }
   }
 ]

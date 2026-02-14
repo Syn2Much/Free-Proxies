@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://72.10.160.170:3745",
+    "tested_at": "2026-02-14T01:48:47Z",
+    "ip": "181.115.171.194",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Bolivia",
+    "country_code": "BO",
+    "region": "La Paz",
+    "region_code": "L",
+    "city": "La Paz",
+    "latitude": -16.489689,
+    "longitude": -68.1192936,
+    "is_eu": false,
+    "postal": "3278",
+    "connection": {
+      "asn": 6568,
+      "org": "Empresa Nacional De Telecomunicaciones Sociedad Anonima",
+      "isp": "Entel S.A. EntelNet",
+      "domain": ""
+    }
+  }
+]

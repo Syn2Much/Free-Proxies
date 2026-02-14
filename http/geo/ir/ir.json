@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://185.231.183.10:3128",
-    "tested_at": "2026-02-14T01:17:16Z",
-    "ip": "185.231.183.10",
+    "proxy": "http://185.186.240.9:1396",
+    "tested_at": "2026-02-14T01:48:59Z",
+    "ip": "185.186.240.9",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "1317947564",
     "connection": {
-      "asn": 202468,
-      "org": "Noyan Abr Arvan Co. Private Joint Stock",
-      "isp": "Noyan Abr Arvan Co. Private Joint Stock",
-      "domain": "arvancloud.ir"
+      "asn": 203684,
+      "org": "Gostaresh Ertebat Azin Kia Company Pjsc",
+      "isp": "Imen Sanat Novin Alighapoo Private Joint Stock Company",
+      "domain": "azinkia.ir"
     }
   }
 ]
