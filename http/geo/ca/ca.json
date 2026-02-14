@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://85.208.108.43:10808",
-    "tested_at": "2026-02-14T21:32:43Z",
-    "ip": "85.208.108.43",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 53363,
-      "org": "Worktitans B.V.",
-      "isp": "TANGRAM CANADA INC.",
-      "domain": "the.hosting"
-    }
-  },
-  {
     "proxy": "http://85.236.191.180:1080",
-    "tested_at": "2026-02-14T21:32:53Z",
+    "tested_at": "2026-02-14T22:04:10Z",
     "ip": "146.19.106.154",
     "success": true,
     "type": "IPv4",
@@ -46,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://85.208.108.43:2094",
-    "tested_at": "2026-02-14T21:33:03Z",
-    "ip": "85.208.108.43",
+    "proxy": "http://72.10.164.178:1289",
+    "tested_at": "2026-02-14T22:04:21Z",
+    "ip": "65.92.52.46",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -56,22 +33,22 @@
     "country_code": "CA",
     "region": "Ontario",
     "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
+    "city": "Barrie",
+    "latitude": 44.3893556,
+    "longitude": -79.6903316,
     "is_eu": false,
-    "postal": "M5H 2N2",
+    "postal": "L4N 1A3",
     "connection": {
-      "asn": 53363,
-      "org": "Worktitans B.V.",
-      "isp": "TANGRAM CANADA INC.",
-      "domain": "the.hosting"
+      "asn": 577,
+      "org": "Bell Dsl Internet Ontario",
+      "isp": "Bell Canada",
+      "domain": "bell.ca"
     }
   },
   {
-    "proxy": "http://143.198.37.6:8888",
-    "tested_at": "2026-02-14T21:33:29Z",
-    "ip": "178.249.214.14",
+    "proxy": "http://72.10.160.171:30271",
+    "tested_at": "2026-02-14T22:04:25Z",
+    "ip": "99.253.205.135",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -79,16 +56,62 @@
     "country_code": "CA",
     "region": "Ontario",
     "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
+    "city": "Brantford",
+    "latitude": 43.1393867,
+    "longitude": -80.2644254,
     "is_eu": false,
-    "postal": "M5H 2N2",
+    "postal": "N3T 2M3",
     "connection": {
-      "asn": 212238,
-      "org": "CDNEXT TOR",
-      "isp": "Datacamp Limited",
-      "domain": "datacamp.co.uk"
+      "asn": 812,
+      "org": "Rogers Cable Inc. Ym",
+      "isp": "Rogers Communications Canada Inc.",
+      "domain": "rogers.com"
+    }
+  },
+  {
+    "proxy": "http://67.43.236.20:20263",
+    "tested_at": "2026-02-14T22:04:41Z",
+    "ip": "76.71.216.203",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Québec",
+    "region_code": "QC",
+    "city": "Terrebonne",
+    "latitude": 45.6929818,
+    "longitude": -73.6331102,
+    "is_eu": false,
+    "postal": "J6X 0J6",
+    "connection": {
+      "asn": 577,
+      "org": "Sympatico Hse",
+      "isp": "Bell Canada",
+      "domain": "bell.ca"
+    }
+  },
+  {
+    "proxy": "http://67.43.228.253:19171",
+    "tested_at": "2026-02-14T22:04:51Z",
+    "ip": "104.221.118.165",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Québec",
+    "region_code": "QC",
+    "city": "Montreal",
+    "latitude": 45.5016889,
+    "longitude": -73.567256,
+    "is_eu": false,
+    "postal": "H3A 2A6",
+    "connection": {
+      "asn": 5769,
+      "org": "Videotron Ltee",
+      "isp": "Videotron Ltee",
+      "domain": "videotron.com"
     }
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://47.91.104.88:3128",
-    "tested_at": "2026-02-14T21:33:16Z",
+    "tested_at": "2026-02-14T22:04:22Z",
     "ip": "47.91.104.88",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,29 @@
       "org": "Alibaba Cloud Ae dubai",
       "isp": "Alibaba us Technology Co., Ltd.",
       "domain": "alibabacloud.com"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:12797",
+    "tested_at": "2026-02-14T22:04:22Z",
+    "ip": "31.215.24.239",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "region": "Abu Dhabi Emirate",
+    "region_code": "AZ",
+    "city": "Al Ain",
+    "latitude": 24.1301619,
+    "longitude": 55.8023118,
+    "is_eu": false,
+    "postal": "19269",
+    "connection": {
+      "asn": 5384,
+      "org": "Emirates Telecommunications Corporation",
+      "isp": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY ETISALAT GROUP PJSC",
+      "domain": "etisalat.ae"
     }
   }
 ]

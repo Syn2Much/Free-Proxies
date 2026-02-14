@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://67.43.236.20:18485",
-    "tested_at": "2026-02-14T21:32:49Z",
-    "ip": "201.188.145.133",
+    "proxy": "http://72.10.164.178:24079",
+    "tested_at": "2026-02-14T22:04:11Z",
+    "ip": "148.227.67.9",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -16,15 +16,61 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 7418,
-      "org": "TELEFONICA MOVIL DE CHILE S.A.",
-      "isp": "TELEF NICA CHILE S.A.",
-      "domain": "telefonicamovil.cl"
+      "asn": 14593,
+      "org": "Starlink",
+      "isp": "Space Exploration Technologies Corporation",
+      "domain": "spacex.com"
+    }
+  },
+  {
+    "proxy": "http://38.7.195.53:999",
+    "tested_at": "2026-02-14T22:04:12Z",
+    "ip": "38.7.195.49",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 263702,
+      "org": "Cogent Communications",
+      "isp": "GRUPO ZGH SPA",
+      "domain": "zglobalhost.com"
+    }
+  },
+  {
+    "proxy": "http://177.128.115.198:999",
+    "tested_at": "2026-02-14T22:04:13Z",
+    "ip": "177.128.115.195",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Melipilla",
+    "latitude": -33.6861588,
+    "longitude": -71.2166838,
+    "is_eu": false,
+    "postal": "958 0887",
+    "connection": {
+      "asn": 269988,
+      "org": "BINET NETWORKING DATA LIMITADA",
+      "isp": "BINET NETWORKING DATA LIMITADA",
+      "domain": "bnet.cl"
     }
   },
   {
     "proxy": "http://186.67.74.52:3128",
-    "tested_at": "2026-02-14T21:33:29Z",
+    "tested_at": "2026-02-14T22:04:15Z",
     "ip": "186.67.74.52",
     "success": true,
     "type": "IPv4",
@@ -43,6 +89,75 @@
       "org": "Servicio Nacional De Aduanas De Chile",
       "isp": "ENTEL CHILE S.A.",
       "domain": "entel.cl"
+    }
+  },
+  {
+    "proxy": "http://204.199.139.75:999",
+    "tested_at": "2026-02-14T22:04:25Z",
+    "ip": "204.199.139.75",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Isla de Maipo",
+    "latitude": -33.7464562,
+    "longitude": -70.9,
+    "is_eu": false,
+    "postal": "979 0152",
+    "connection": {
+      "asn": 273237,
+      "org": "INGBELL CHILE SPA",
+      "isp": "INGBELL CHILE SPA",
+      "domain": "ingbell.cl"
+    }
+  },
+  {
+    "proxy": "http://67.43.228.253:29615",
+    "tested_at": "2026-02-14T22:04:53Z",
+    "ip": "186.209.209.132",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Lampa",
+    "latitude": -33.2827093,
+    "longitude": -70.879328,
+    "is_eu": false,
+    "postal": "9380000",
+    "connection": {
+      "asn": 271778,
+      "org": "INVERSIONES EN TECNOLOG A PULSO SPA",
+      "isp": "INVERSIONES EN TECNOLOG A PULSO SPA",
+      "domain": "applynetchile.cl"
+    }
+  },
+  {
+    "proxy": "http://207.248.3.81:999",
+    "tested_at": "2026-02-14T22:05:00Z",
+    "ip": "207.248.3.81",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Buin",
+    "latitude": -33.7309374,
+    "longitude": -70.7423218,
+    "is_eu": false,
+    "postal": "9500000",
+    "connection": {
+      "asn": 64139,
+      "org": "GRUPO METROWAN TELECOM SPA",
+      "isp": "GRUPO METROWAN TELECOM SPA",
+      "domain": "metrowan.cl"
     }
   }
 ]

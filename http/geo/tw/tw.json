@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://35.234.17.221:8080",
-    "tested_at": "2026-02-14T21:33:25Z",
+    "tested_at": "2026-02-14T22:04:31Z",
     "ip": "35.234.17.221",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,29 @@
       "org": "Google LLC",
       "isp": "Google LLC",
       "domain": "google.com"
+    }
+  },
+  {
+    "proxy": "http://27.147.28.73:8080",
+    "tested_at": "2026-02-14T22:04:39Z",
+    "ip": "27.147.28.73",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "region": "New Taipei City",
+    "region_code": "",
+    "city": "Zhitan 5th Street",
+    "latitude": 24.941202,
+    "longitude": 121.534131,
+    "is_eu": false,
+    "postal": "231",
+    "connection": {
+      "asn": 18429,
+      "org": "CABLE GIANT CATV. CO., LTD.",
+      "isp": "Extra lan Technologies Co., LTD",
+      "domain": "cable-giant.com.tw"
     }
   }
 ]

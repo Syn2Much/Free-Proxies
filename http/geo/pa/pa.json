@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://45.229.56.64:999",
-    "tested_at": "2026-02-14T20:30:56Z",
-    "ip": "186.72.64.114",
+    "proxy": "http://67.43.236.20:1955",
+    "tested_at": "2026-02-14T22:04:31Z",
+    "ip": "190.33.229.231",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,11 +10,11 @@
     "country_code": "PA",
     "region": "Panama",
     "region_code": "8",
-    "city": "Panama City",
-    "latitude": 9.1011785,
-    "longitude": -79.4028639,
+    "city": "Panamá",
+    "latitude": 8.9943549,
+    "longitude": -79.5252157,
     "is_eu": false,
-    "postal": "32417",
+    "postal": "14767",
     "connection": {
       "asn": 11556,
       "org": "Cable Wireless Panama",

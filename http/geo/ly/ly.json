@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://102.69.32.1:8080",
-    "tested_at": "2026-02-14T21:33:00Z",
-    "ip": "165.16.46.193",
+    "proxy": "http://41.254.48.190:1976",
+    "tested_at": "2026-02-14T22:04:32Z",
+    "ip": "41.254.48.190",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "350",
     "connection": {
-      "asn": 37284,
-      "org": "Organisation Alhadatha International",
-      "isp": "Aljeel Aljadeed For Technology",
-      "domain": "aljeel.ly"
+      "asn": 21003,
+      "org": "Libyan Telecom And Technology",
+      "isp": "General Post And Telecommunication Company gptc",
+      "domain": "ltt.ly"
     }
   }
 ]

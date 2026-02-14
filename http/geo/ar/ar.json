@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "http://181.209.118.250:999",
-    "tested_at": "2026-02-14T21:32:44Z",
-    "ip": "181.209.118.250",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Buenos Aires",
-    "region_code": "B",
-    "city": "Buenos Aires",
-    "latitude": -34.6036844,
-    "longitude": -58.3815591,
-    "is_eu": false,
-    "postal": "C1405 DJG",
-    "connection": {
-      "asn": 52361,
-      "org": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
-      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
-      "domain": "arsat.com.ar"
-    }
-  },
-  {
-    "proxy": "http://138.117.13.129:999",
-    "tested_at": "2026-02-14T21:32:48Z",
-    "ip": "179.40.47.197",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Buenos Aires",
-    "region_code": "B",
-    "city": "Buenos Aires",
-    "latitude": -34.6036844,
-    "longitude": -58.3815591,
-    "is_eu": false,
-    "postal": "C1405 DJG",
-    "connection": {
-      "asn": 22927,
-      "org": "Tamayo Magda Judith",
-      "isp": "Telefonica De Argentina",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://190.210.62.131:8080",
-    "tested_at": "2026-02-14T21:32:49Z",
-    "ip": "190.210.62.131",
+    "proxy": "http://67.43.228.252:29869",
+    "tested_at": "2026-02-14T22:04:10Z",
+    "ip": "200.61.165.39",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -69,9 +23,55 @@
     }
   },
   {
-    "proxy": "http://181.209.82.206:999",
-    "tested_at": "2026-02-14T21:32:57Z",
-    "ip": "181.209.82.206",
+    "proxy": "http://72.10.164.178:23493",
+    "tested_at": "2026-02-14T22:04:10Z",
+    "ip": "181.4.108.212",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Santa Fe",
+    "region_code": "S",
+    "city": "Rosario",
+    "latitude": -32.9442426,
+    "longitude": -60.6505388,
+    "is_eu": false,
+    "postal": "10309",
+    "connection": {
+      "asn": 7303,
+      "org": "Telecom Personal Bs AS",
+      "isp": "Telecom Argentina S.A.",
+      "domain": "telecom.com.ar"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.174:3943",
+    "tested_at": "2026-02-14T22:04:10Z",
+    "ip": "190.112.99.68",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "La Rioja",
+    "region_code": "F",
+    "city": "La Rioja",
+    "latitude": -29.4134538,
+    "longitude": -66.8564579,
+    "is_eu": false,
+    "postal": "5300",
+    "connection": {
+      "asn": 28048,
+      "org": "Internet Para Todos Gobierno De La Rioja",
+      "isp": "Internet Para Todos Gobierno De La Rioja",
+      "domain": "internetparatodos.com.ar"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.90:26665",
+    "tested_at": "2026-02-14T22:04:11Z",
+    "ip": "181.44.118.197",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -85,15 +85,84 @@
     "is_eu": false,
     "postal": "C1405 DJG",
     "connection": {
-      "asn": 52361,
-      "org": "Net g S.R.L",
-      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
-      "domain": "arsat.com.ar"
+      "asn": 27747,
+      "org": "Telecentro S.A.",
+      "isp": "Telecentro S.A.",
+      "domain": "telecentro.com.ar"
+    }
+  },
+  {
+    "proxy": "http://200.59.10.49:999",
+    "tested_at": "2026-02-14T22:04:15Z",
+    "ip": "200.59.10.38",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "AAP",
+    "latitude": -34.604694,
+    "longitude": -58.395998,
+    "is_eu": false,
+    "postal": "C1045",
+    "connection": {
+      "asn": 12150,
+      "org": "Clientes Ctlc",
+      "isp": "COTELCAM",
+      "domain": "advantun.com"
+    }
+  },
+  {
+    "proxy": "http://167.249.52.218:999",
+    "tested_at": "2026-02-14T22:04:16Z",
+    "ip": "167.249.52.218",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Mendoza",
+    "region_code": "M",
+    "city": "Baños Lunlunta",
+    "latitude": -33.0666618,
+    "longitude": -68.8333511,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 263793,
+      "org": "TECNET ARGENTINA S.A.",
+      "isp": "TECNET ARGENTINA S.A.",
+      "domain": "tecnetmza.com.ar"
+    }
+  },
+  {
+    "proxy": "http://170.80.95.10:11211",
+    "tested_at": "2026-02-14T22:04:26Z",
+    "ip": "170.80.95.1",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "San Carlos de Bolívar",
+    "latitude": -36.2391263,
+    "longitude": -61.1255879,
+    "is_eu": false,
+    "postal": "B6550 CGG",
+    "connection": {
+      "asn": 270089,
+      "org": "FIBRAS OPTICAS DE MAR DEL PLATA S.A.",
+      "isp": "FIBRAS OPTICAS DE MAR DEL PLATA S.A.",
+      "domain": "sectornet.com.ar"
     }
   },
   {
     "proxy": "http://72.10.164.178:28261",
-    "tested_at": "2026-02-14T21:33:04Z",
+    "tested_at": "2026-02-14T22:04:30Z",
     "ip": "200.7.159.108",
     "success": true,
     "type": "IPv4",
@@ -115,9 +184,9 @@
     }
   },
   {
-    "proxy": "http://190.111.218.141:999",
-    "tested_at": "2026-02-14T21:33:12Z",
-    "ip": "45.172.19.196",
+    "proxy": "http://181.209.118.250:999",
+    "tested_at": "2026-02-14T22:04:32Z",
+    "ip": "181.209.118.250",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -125,21 +194,44 @@
     "country_code": "AR",
     "region": "Buenos Aires",
     "region_code": "B",
-    "city": "Monte Grande",
-    "latitude": -34.8271786,
-    "longitude": -58.4620124,
+    "city": "Buenos Aires",
+    "latitude": -34.6036844,
+    "longitude": -58.3815591,
     "is_eu": false,
-    "postal": "1842",
+    "postal": "C1405 DJG",
     "connection": {
-      "asn": 264619,
-      "org": "Wireless Provider",
-      "isp": "Wireless Provider",
-      "domain": "wirelessprovider.com.ar"
+      "asn": 52361,
+      "org": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
+      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
+      "domain": "arsat.com.ar"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.91:26665",
+    "tested_at": "2026-02-14T22:04:33Z",
+    "ip": "181.44.118.197",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "Buenos Aires",
+    "latitude": -34.6036844,
+    "longitude": -58.3815591,
+    "is_eu": false,
+    "postal": "C1405 DJG",
+    "connection": {
+      "asn": 27747,
+      "org": "Telecentro S.A.",
+      "isp": "Telecentro S.A.",
+      "domain": "telecentro.com.ar"
     }
   },
   {
     "proxy": "http://72.10.160.94:6233",
-    "tested_at": "2026-02-14T21:33:24Z",
+    "tested_at": "2026-02-14T22:04:35Z",
     "ip": "181.230.44.131",
     "success": true,
     "type": "IPv4",
@@ -158,6 +250,29 @@
       "org": "Telecom Argentina S.A.",
       "isp": "Telecom Argentina S.A.",
       "domain": "telecom.com.ar"
+    }
+  },
+  {
+    "proxy": "http://45.224.31.13:999",
+    "tested_at": "2026-02-14T22:04:47Z",
+    "ip": "45.224.29.129",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Chaco",
+    "region_code": "H",
+    "city": "Charata",
+    "latitude": -27.2179902,
+    "longitude": -61.1873617,
+    "is_eu": false,
+    "postal": "3730",
+    "connection": {
+      "asn": 265835,
+      "org": "GODOY LUIS ALBERTO",
+      "isp": "GODOY LUIS ALBERTO",
+      "domain": "pro-data.com.ar"
     }
   }
 ]

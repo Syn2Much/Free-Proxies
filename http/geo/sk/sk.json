@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://91.217.33.161:8080",
-    "tested_at": "2026-02-14T21:33:25Z",
-    "ip": "185.69.107.246",
+    "proxy": "http://45.129.141.143:3128",
+    "tested_at": "2026-02-14T22:04:09Z",
+    "ip": "45.129.141.143",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Slovak Republic",
     "country_code": "SK",
-    "region": "Trnava",
+    "region": "Bratislava",
     "region_code": "",
-    "city": "Trnava",
-    "latitude": 48.3709108,
-    "longitude": 17.5833218,
+    "city": "Bratislava",
+    "latitude": 48.1485965,
+    "longitude": 17.1077477,
     "is_eu": true,
-    "postal": "917 01",
+    "postal": "811 06",
     "connection": {
-      "asn": 201603,
-      "org": "AIRNET SK",
-      "isp": "Airnet S.R.O.",
-      "domain": "airnet.sk"
+      "asn": 61424,
+      "org": "VPS1 NET",
+      "isp": "Eserver S.R.O.",
+      "domain": "di.city"
     }
   }
 ]

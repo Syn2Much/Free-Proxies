@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "https://37.120.210.66:9443",
-    "tested_at": "2026-02-14T21:32:45Z",
-    "ip": "37.120.210.72",
+    "proxy": "https://47.243.181.85:41406",
+    "tested_at": "2026-02-14T22:04:13Z",
+    "ip": "2404:7a86:45c1:59f0:8ca3:3eb8:46a1:4ddd",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Chiyoda",
+    "latitude": 35.6940027,
+    "longitude": 139.7535951,
+    "is_eu": false,
+    "postal": "100-0003",
+    "connection": {
+      "asn": 2518,
+      "org": "Biglobe Inc.",
+      "isp": "Biglobe Inc.",
+      "domain": "biglobe.co.jp"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41419",
+    "tested_at": "2026-02-14T22:04:14Z",
+    "ip": "45.87.213.230",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,11 +33,11 @@
     "country_code": "JP",
     "region": "Tokyo",
     "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
+    "city": "Shinagawa",
+    "latitude": 35.6092261,
+    "longitude": 139.7301861,
     "is_eu": false,
-    "postal": "100-0002",
+    "postal": "140-8522",
     "connection": {
       "asn": 9009,
       "org": "M LTD Tokyo Infrastructure",
@@ -23,54 +46,8 @@
     }
   },
   {
-    "proxy": "https://203.189.96.232:443",
-    "tested_at": "2026-02-14T21:33:08Z",
-    "ip": "203.189.96.232",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
-    "is_eu": false,
-    "postal": "100-0002",
-    "connection": {
-      "asn": 7506,
-      "org": "Gmo Internet, Inc.",
-      "isp": "Gmo Internet Group, Inc.",
-      "domain": "internet.gmo"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41399",
-    "tested_at": "2026-02-14T21:33:35Z",
-    "ip": "61.27.103.7",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Suginami City",
-    "latitude": 35.7014974,
-    "longitude": 139.6362829,
-    "is_eu": false,
-    "postal": "166-0004",
-    "connection": {
-      "asn": 9824,
-      "org": "Jcom Co., Ltd.",
-      "isp": "Jcom Co., Ltd.",
-      "domain": "jcom.co.jp"
-    }
-  },
-  {
     "proxy": "https://20.78.213.56:443",
-    "tested_at": "2026-02-14T21:33:36Z",
+    "tested_at": "2026-02-14T22:04:21Z",
     "ip": "20.78.213.56",
     "success": true,
     "type": "IPv4",
@@ -89,6 +66,75 @@
       "org": "Microsoft Corporation",
       "isp": "Microsoft Corporation",
       "domain": "microsoft.com"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41400",
+    "tested_at": "2026-02-14T22:04:22Z",
+    "ip": "240f:60:74fc:1:ad42:8293:3149:4b65",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Ibaraki Prefecture",
+    "region_code": "08",
+    "city": "Tsukuba",
+    "latitude": 36.0834857,
+    "longitude": 140.0766423,
+    "is_eu": false,
+    "postal": "305-8555",
+    "connection": {
+      "asn": 2516,
+      "org": "KDDI CORPORATION",
+      "isp": "KDDI CORPORATION",
+      "domain": "kddi.com"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41390",
+    "tested_at": "2026-02-14T22:04:42Z",
+    "ip": "109.236.7.70",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Chuo",
+    "latitude": 35.6706505,
+    "longitude": 139.7718614,
+    "is_eu": false,
+    "postal": "104-8560",
+    "connection": {
+      "asn": 55900,
+      "org": "Glbb Japan KK",
+      "isp": "Glbb Japan KK",
+      "domain": "glbb.jp"
+    }
+  },
+  {
+    "proxy": "https://203.189.96.232:443",
+    "tested_at": "2026-02-14T22:04:44Z",
+    "ip": "203.189.96.232",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
+    "is_eu": false,
+    "postal": "100-0002",
+    "connection": {
+      "asn": 7506,
+      "org": "Gmo Internet, Inc.",
+      "isp": "Gmo Internet Group, Inc.",
+      "domain": "internet.gmo"
     }
   }
 ]

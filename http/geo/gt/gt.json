@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://45.171.64.21:999",
-    "tested_at": "2026-02-14T20:30:43Z",
+    "tested_at": "2026-02-14T22:04:25Z",
     "ip": "45.171.64.21",
     "success": true,
     "type": "IPv4",
@@ -23,9 +23,32 @@
     }
   },
   {
-    "proxy": "http://181.78.51.157:999",
-    "tested_at": "2026-02-14T20:30:53Z",
-    "ip": "181.78.51.157",
+    "proxy": "http://181.174.115.9:1994",
+    "tested_at": "2026-02-14T22:04:26Z",
+    "ip": "181.174.115.9",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "region": "Izabal",
+    "region_code": "IZ",
+    "city": "Puerto Barrios",
+    "latitude": 15.695364,
+    "longitude": -88.5855173,
+    "is_eu": false,
+    "postal": "18013",
+    "connection": {
+      "asn": 23243,
+      "org": "COMUNICACIONES CELULARES, S.A.",
+      "isp": "COMCEL GUATEMALA S.A.",
+      "domain": "tigo.com.gt"
+    }
+  },
+  {
+    "proxy": "http://38.52.209.229:999",
+    "tested_at": "2026-02-14T22:04:33Z",
+    "ip": "38.52.209.229",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -39,10 +62,56 @@
     "is_eu": false,
     "postal": "01004",
     "connection": {
-      "asn": 52468,
-      "org": "Ufinet Guatemala S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
+      "asn": 272818,
+      "org": "Cogent Communications",
+      "isp": "CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+      "domain": "centralredes.com"
+    }
+  },
+  {
+    "proxy": "http://143.208.57.162:999",
+    "tested_at": "2026-02-14T22:04:34Z",
+    "ip": "143.208.57.162",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "region": "Chimaltenango",
+    "region_code": "CM",
+    "city": "Parramos",
+    "latitude": 14.6136872,
+    "longitude": -90.8032181,
+    "is_eu": false,
+    "postal": "04014",
+    "connection": {
+      "asn": 22869,
+      "org": "COMUNICACIONES METROPOLITANAS CABLECOLOR",
+      "isp": "CABLECOLOR S.A.",
+      "domain": "cablecolor.net"
+    }
+  },
+  {
+    "proxy": "http://138.117.231.133:999",
+    "tested_at": "2026-02-14T22:04:40Z",
+    "ip": "138.117.231.133",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "region": "Huehuetenango",
+    "region_code": "HU",
+    "city": "Huehuetenango",
+    "latitude": 15.320133,
+    "longitude": -91.4700395,
+    "is_eu": false,
+    "postal": "13001",
+    "connection": {
+      "asn": 269989,
+      "org": "FIBERNET S.A",
+      "isp": "FIBERNET S.A",
+      "domain": "fibernetgt.com"
     }
   }
 ]

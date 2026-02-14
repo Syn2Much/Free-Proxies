@@ -1,76 +1,7 @@
 [
   {
-    "proxy": "http://185.4.29.243:7887",
-    "tested_at": "2026-02-14T21:33:01Z",
-    "ip": "185.4.29.243",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Iran",
-    "country_code": "IR",
-    "region": "Tehran Province",
-    "region_code": "23",
-    "city": "Tehran",
-    "latitude": 35.7952267,
-    "longitude": 51.4322706,
-    "is_eu": false,
-    "postal": "1317947564",
-    "connection": {
-      "asn": 61173,
-      "org": "Green Web Samaneh Novin Co LTD",
-      "isp": "Green Web Samaneh Novin Pjsc",
-      "domain": "greenweb.ir"
-    }
-  },
-  {
-    "proxy": "http://46.209.30.11:8080",
-    "tested_at": "2026-02-14T21:33:02Z",
-    "ip": "46.209.30.11",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Iran",
-    "country_code": "IR",
-    "region": "Tehran Province",
-    "region_code": "23",
-    "city": "Tehran",
-    "latitude": 35.6891975,
-    "longitude": 51.3889736,
-    "is_eu": false,
-    "postal": "1317947564",
-    "connection": {
-      "asn": 42337,
-      "org": "National Library Of Iran",
-      "isp": "Respina Networks Beyond Pjsc",
-      "domain": "respina.net"
-    }
-  },
-  {
-    "proxy": "http://178.252.177.40:3128",
-    "tested_at": "2026-02-14T21:33:10Z",
-    "ip": "178.252.177.36",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Iran",
-    "country_code": "IR",
-    "region": "Tehran Province",
-    "region_code": "23",
-    "city": "Tehran",
-    "latitude": 35.6891975,
-    "longitude": 51.3889736,
-    "is_eu": false,
-    "postal": "1317947564",
-    "connection": {
-      "asn": 51074,
-      "org": "MABNA",
-      "isp": "Gostaresh e ertebatat e Mabna Company private Joint Stock",
-      "domain": "mabnatelecom.com"
-    }
-  },
-  {
     "proxy": "http://85.9.87.26:8080",
-    "tested_at": "2026-02-14T21:33:17Z",
+    "tested_at": "2026-02-14T22:04:51Z",
     "ip": "85.9.87.26",
     "success": true,
     "type": "IPv4",

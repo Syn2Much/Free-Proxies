@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://190.61.106.97:8080",
-    "tested_at": "2026-02-14T19:59:01Z",
-    "ip": "190.61.106.97",
+    "proxy": "http://72.10.160.90:22191",
+    "tested_at": "2026-02-14T22:04:45Z",
+    "ip": "190.112.223.153",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Costa Rica",
     "country_code": "CR",
-    "region": "Heredia Province",
-    "region_code": "H",
-    "city": "San Rafael",
-    "latitude": 10.0144716,
-    "longitude": -84.0986459,
+    "region": "San José Province",
+    "region_code": "SJ",
+    "city": "San José",
+    "latitude": 9.9280694,
+    "longitude": -84.0907246,
     "is_eu": false,
-    "postal": "40501",
+    "postal": "10103",
     "connection": {
-      "asn": 52468,
-      "org": "Ufinet Costa Rica, S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
+      "asn": 52423,
+      "org": "RACKNATION S.A.",
+      "isp": "Data Miners S.A. Racknation.cr",
+      "domain": "racknation.cr"
     }
   }
 ]

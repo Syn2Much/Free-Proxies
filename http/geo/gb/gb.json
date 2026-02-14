@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://217.28.18.4:8104",
-    "tested_at": "2026-02-14T21:33:00Z",
-    "ip": "217.28.18.4",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "Liverpool",
-    "latitude": 53.4083714,
-    "longitude": -2.9915726,
-    "is_eu": false,
-    "postal": "L2 3SW",
-    "connection": {
-      "asn": 25582,
-      "org": "Nwip LTD",
-      "isp": "Nwip LTD",
-      "domain": "nwip.co.uk"
-    }
-  },
-  {
-    "proxy": "http://212.110.188.205:34403",
-    "tested_at": "2026-02-14T21:33:03Z",
-    "ip": "212.110.188.205",
+    "proxy": "http://212.110.188.203:34410",
+    "tested_at": "2026-02-14T22:04:26Z",
+    "ip": "212.110.188.203",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -46,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://212.110.188.189:34405",
-    "tested_at": "2026-02-14T21:33:11Z",
-    "ip": "212.110.188.189",
+    "proxy": "http://212.110.188.213:34411",
+    "tested_at": "2026-02-14T22:04:27Z",
+    "ip": "212.110.188.213",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -69,9 +46,32 @@
     }
   },
   {
-    "proxy": "http://212.110.188.194:34410",
-    "tested_at": "2026-02-14T21:33:20Z",
-    "ip": "212.110.188.194",
+    "proxy": "http://109.120.135.230:2030",
+    "tested_at": "2026-02-14T22:04:33Z",
+    "ip": "2a0b:4140:685e::2",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "England",
+    "region_code": "ENG",
+    "city": "London",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583,
+    "is_eu": false,
+    "postal": "SW1",
+    "connection": {
+      "asn": 210644,
+      "org": "AEZA NETWORK STOCKHOLM",
+      "isp": "AEZA INTERNATIONAL LTD",
+      "domain": "aeza.net"
+    }
+  },
+  {
+    "proxy": "http://212.110.188.196:34403",
+    "tested_at": "2026-02-14T22:04:45Z",
+    "ip": "212.110.188.196",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
