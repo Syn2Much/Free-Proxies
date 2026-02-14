@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://103.153.202.221:8080",
-    "tested_at": "2026-02-14T16:51:32Z",
-    "ip": "103.153.202.221",
+    "proxy": "http://203.81.69.126:1248",
+    "tested_at": "2026-02-14T17:54:27Z",
+    "ip": "203.81.69.126",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Myanmar [Burma]",
     "country_code": "MM",
-    "region": "Shan State",
-    "region_code": "17",
-    "city": "Tachileik",
-    "latitude": 20.4521225,
-    "longitude": 99.898914,
+    "region": "Yangon",
+    "region_code": "06",
+    "city": "Yangon",
+    "latitude": 16.8660694,
+    "longitude": 96.195132,
     "is_eu": false,
-    "postal": "57120",
+    "postal": "00000",
     "connection": {
-      "asn": 140091,
-      "org": "SHWE MAHAR MAE KHONG INDUSTRIAL COMPANY LIMITED",
-      "isp": "SHWE MAHAR MAE KHONG INDUSTRIAL COMPANY LIMITED",
-      "domain": "smktelecom.com"
+      "asn": 9988,
+      "org": "Myanma Post And Telecommunication",
+      "isp": "Myanma Post Telecommunication",
+      "domain": "mptjo.com.mm"
     }
   }
 ]

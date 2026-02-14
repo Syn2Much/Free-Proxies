@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://103.66.149.194:8080",
-    "tested_at": "2026-02-14T17:22:23Z",
-    "ip": "160.30.142.33",
+    "proxy": "http://110.38.226.139:8080",
+    "tested_at": "2026-02-14T17:54:25Z",
+    "ip": "110.38.226.139",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,16 +10,16 @@
     "country_code": "PK",
     "region": "Punjab",
     "region_code": "PB",
-    "city": "Jalalpur Jattan",
-    "latitude": 32.6480365,
-    "longitude": 74.2120629,
+    "city": "Sahiwal",
+    "latitude": 30.6681998,
+    "longitude": 73.111356,
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 142647,
-      "org": "Brain Networks",
-      "isp": "Nasstec Airnet Networks Private Limited",
-      "domain": "brainnetworks.net.pk"
+      "asn": 38264,
+      "org": "National Wimax ims Environment",
+      "isp": "Wateen Telecom Limited",
+      "domain": "wateen.com"
     }
   }
 ]

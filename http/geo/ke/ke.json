@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://41.203.213.211:8105",
-    "tested_at": "2026-02-14T17:22:56Z",
-    "ip": "41.203.213.211",
+    "proxy": "http://41.89.225.225:3128",
+    "tested_at": "2026-02-14T17:53:45Z",
+    "ip": "41.89.225.225",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,16 +16,39 @@
     "is_eu": false,
     "postal": "200",
     "connection": {
-      "asn": 37061,
-      "org": "This Is for Fixed Wimax for Corporate Customers",
-      "isp": "Safaricom Limited",
-      "domain": "safaricom.co.ke"
+      "asn": 36914,
+      "org": "Kenya Methodist University Meru Campus",
+      "isp": "Kenya Education Network",
+      "domain": "kenet.or.ke"
     }
   },
   {
-    "proxy": "http://102.213.248.38:8080",
-    "tested_at": "2026-02-14T17:23:08Z",
-    "ip": "102.213.248.38",
+    "proxy": "http://197.248.204.231:8080",
+    "tested_at": "2026-02-14T17:54:07Z",
+    "ip": "197.248.204.231",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Kiambu",
+    "region_code": "13",
+    "city": "Kikuyu",
+    "latitude": -1.2543366,
+    "longitude": 36.681661,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 37061,
+      "org": "Safaricom Limited",
+      "isp": "Safaricom Limited",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://102.209.18.28:8080",
+    "tested_at": "2026-02-14T17:54:18Z",
+    "ip": "38.226.202.42",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -34,15 +57,15 @@
     "region": "Nairobi",
     "region_code": "110",
     "city": "Nairobi",
-    "latitude": -1.2920659,
-    "longitude": 36.8219462,
+    "latitude": -1.3237958,
+    "longitude": 36.8808553,
     "is_eu": false,
     "postal": "200",
     "connection": {
-      "asn": 329192,
-      "org": "Optinode Group LLP",
-      "isp": "Optinode Group LLP",
-      "domain": "optinode.co.ke"
+      "asn": 329437,
+      "org": "VENNET SOLUTIONS LIMITED",
+      "isp": "VENNET SOLUTIONS LIMITED",
+      "domain": "vennet.co.ke"
     }
   }
 ]

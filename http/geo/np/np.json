@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://110.34.1.178:7777",
-    "tested_at": "2026-02-14T17:22:24Z",
-    "ip": "110.34.1.178",
+    "proxy": "http://49.236.212.134:8888",
+    "tested_at": "2026-02-14T17:54:25Z",
+    "ip": "49.236.212.134",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,16 +16,16 @@
     "is_eu": false,
     "postal": "46600",
     "connection": {
-      "asn": 4007,
-      "org": "Server Networks",
-      "isp": "Subisu Cablenet",
-      "domain": "subisu.net.np"
+      "asn": 55915,
+      "org": "Classic Tech Pvt. Ltd.",
+      "isp": "Classic Tech Pvt. Ltd.",
+      "domain": "classic.com.np"
     }
   },
   {
-    "proxy": "http://182.93.75.77:8080",
-    "tested_at": "2026-02-14T17:23:19Z",
-    "ip": "182.93.75.77",
+    "proxy": "http://110.44.115.83:8080",
+    "tested_at": "2026-02-14T17:54:28Z",
+    "ip": "110.44.115.83",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,10 +39,10 @@
     "is_eu": false,
     "postal": "46600",
     "connection": {
-      "asn": 4007,
-      "org": "Subisu Retail Pool",
-      "isp": "Subisu Cablenet",
-      "domain": "subisu.net.np"
+      "asn": 45650,
+      "org": "VIA NET COMMUNICATION PUBLIC LIMITED",
+      "isp": "VIA NET COMMUNICATION PUBLIC LIMITED",
+      "domain": "vianet.com.np"
     }
   }
 ]

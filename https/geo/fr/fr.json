@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "https://152.228.163.79:443",
+    "tested_at": "2026-02-14T17:53:52Z",
+    "ip": "2001:41d0:304:200::d951",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Nouvelle-Aquitaine",
+    "region_code": "NAQ",
+    "city": "Bordeaux",
+    "latitude": 44.837789,
+    "longitude": -0.57918,
+    "is_eu": true,
+    "postal": "33000",
+    "connection": {
+      "asn": 16276,
+      "org": "OVH",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
+    }
+  },
+  {
     "proxy": "https://51.38.191.151:443",
-    "tested_at": "2026-02-14T17:22:57Z",
+    "tested_at": "2026-02-14T17:54:02Z",
     "ip": "2001:41d0:305:2100::4801",
     "success": true,
     "type": "IPv6",
@@ -24,7 +47,7 @@
   },
   {
     "proxy": "https://5.189.184.6:443",
-    "tested_at": "2026-02-14T17:23:03Z",
+    "tested_at": "2026-02-14T17:54:03Z",
     "ip": "5.189.184.6",
     "success": true,
     "type": "IPv4",

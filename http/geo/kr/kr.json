@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://210.223.44.230:3128",
+    "tested_at": "2026-02-14T17:53:50Z",
+    "ip": "210.223.44.230",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "",
+    "region_code": "",
+    "city": "Seoul",
+    "latitude": 37.566535,
+    "longitude": 126.9779692,
+    "is_eu": false,
+    "postal": "04523",
+    "connection": {
+      "asn": 4766,
+      "org": "Korea Telecom",
+      "isp": "Korea Telecom",
+      "domain": "kt.com"
+    }
+  },
+  {
     "proxy": "http://211.230.49.122:3128",
-    "tested_at": "2026-02-14T17:22:31Z",
+    "tested_at": "2026-02-14T17:53:53Z",
     "ip": "211.230.49.122",
     "success": true,
     "type": "IPv4",
@@ -23,49 +46,26 @@
     }
   },
   {
-    "proxy": "http://67.43.236.20:8567",
-    "tested_at": "2026-02-14T17:22:32Z",
-    "ip": "121.184.76.243",
+    "proxy": "http://220.81.123.23:48678",
+    "tested_at": "2026-02-14T17:54:08Z",
+    "ip": "220.81.123.23",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Republic of Korea",
     "country_code": "KR",
-    "region": "",
-    "region_code": "",
-    "city": "Seo-gu",
-    "latitude": 37.5454212,
-    "longitude": 126.6759723,
+    "region": "Daegu",
+    "region_code": "27",
+    "city": "Suseong-gu",
+    "latitude": 35.8339376,
+    "longitude": 128.6118637,
     "is_eu": false,
-    "postal": "22726",
+    "postal": "706-060",
     "connection": {
       "asn": 4766,
-      "org": "Korea Telecom",
+      "org": "Kornet",
       "isp": "Korea Telecom",
-      "domain": "kt.com"
-    }
-  },
-  {
-    "proxy": "http://8.213.151.128:3128",
-    "tested_at": "2026-02-14T17:23:15Z",
-    "ip": "8.213.151.128",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Republic of Korea",
-    "country_code": "KR",
-    "region": "",
-    "region_code": "",
-    "city": "Seoul",
-    "latitude": 37.566535,
-    "longitude": 126.9779692,
-    "is_eu": false,
-    "postal": "04523",
-    "connection": {
-      "asn": 45102,
-      "org": "Alibaba Cloud South Korea",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibaba-inc.com"
+      "domain": ""
     }
   }
 ]

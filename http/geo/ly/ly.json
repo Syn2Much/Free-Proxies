@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://41.254.48.190:1976",
-    "tested_at": "2026-02-14T17:22:55Z",
-    "ip": "41.254.48.190",
+    "proxy": "http://154.73.28.157:8080",
+    "tested_at": "2026-02-14T17:54:15Z",
+    "ip": "154.73.28.72",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -17,14 +17,37 @@
     "postal": "350",
     "connection": {
       "asn": 21003,
-      "org": "Libyan Telecom And Technology",
+      "org": "RAWAFED LIBYA",
       "isp": "General Post And Telecommunication Company gptc",
-      "domain": "ltt.ly"
+      "domain": "rltt.net"
     }
   },
   {
-    "proxy": "http://102.68.128.210:8080",
-    "tested_at": "2026-02-14T17:22:57Z",
+    "proxy": "http://102.68.128.211:8080",
+    "tested_at": "2026-02-14T17:54:26Z",
+    "ip": "102.68.128.207",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Tripoli",
+    "region_code": "TB",
+    "city": "Tripoli",
+    "latitude": 32.8872094,
+    "longitude": 13.1913383,
+    "is_eu": false,
+    "postal": "350",
+    "connection": {
+      "asn": 21003,
+      "org": "For Company Use And Interface Assignments",
+      "isp": "General Post And Telecommunication Company gptc",
+      "domain": "noclibya.com"
+    }
+  },
+  {
+    "proxy": "http://102.68.128.212:8080",
+    "tested_at": "2026-02-14T17:54:27Z",
     "ip": "102.68.128.200",
     "success": true,
     "type": "IPv4",
@@ -46,9 +69,9 @@
     }
   },
   {
-    "proxy": "http://62.68.48.22:8080",
-    "tested_at": "2026-02-14T17:22:58Z",
-    "ip": "62.68.48.22",
+    "proxy": "http://102.68.128.217:8080",
+    "tested_at": "2026-02-14T17:54:32Z",
+    "ip": "102.68.128.203",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -63,9 +86,9 @@
     "postal": "350",
     "connection": {
       "asn": 21003,
-      "org": "Libyan General Post And Telecommunication Company Network",
+      "org": "For Company Use And Interface Assignments",
       "isp": "General Post And Telecommunication Company gptc",
-      "domain": "ltt.ly"
+      "domain": "noclibya.com"
     }
   }
 ]

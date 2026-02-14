@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://190.61.50.93:999",
-    "tested_at": "2026-02-14T17:23:14Z",
-    "ip": "190.61.50.93",
+    "proxy": "http://138.117.230.131:999",
+    "tested_at": "2026-02-14T17:53:46Z",
+    "ip": "138.117.230.131",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,16 +10,39 @@
     "country_code": "GT",
     "region": "Escuintla",
     "region_code": "ES",
-    "city": "Tiquisate",
-    "latitude": 14.2851374,
-    "longitude": -91.3638041,
+    "city": "La Democracia",
+    "latitude": 14.229012,
+    "longitude": -90.9462345,
     "is_eu": false,
     "postal": "",
     "connection": {
+      "asn": 269989,
+      "org": "FIBERNET S.A",
+      "isp": "FIBERNET S.A",
+      "domain": "fibernetgt.com"
+    }
+  },
+  {
+    "proxy": "http://45.5.118.249:999",
+    "tested_at": "2026-02-14T17:54:27Z",
+    "ip": "45.5.118.249",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "region": "Chimaltenango",
+    "region_code": "CM",
+    "city": "San José Poaquil",
+    "latitude": 14.8173986,
+    "longitude": -90.9128192,
+    "is_eu": false,
+    "postal": "04002",
+    "connection": {
       "asn": 52468,
-      "org": "Ufinet Guatemala S. A.",
+      "org": "INFINITUM S.A.",
       "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
+      "domain": "infinitum.com.gt"
     }
   }
 ]

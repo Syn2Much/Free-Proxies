@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://46.209.30.11:8080",
-    "tested_at": "2026-02-14T17:23:20Z",
-    "ip": "46.209.30.11",
+    "proxy": "http://178.252.177.33:3128",
+    "tested_at": "2026-02-14T17:54:11Z",
+    "ip": "178.252.177.36",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,33 @@
     "is_eu": false,
     "postal": "1317947564",
     "connection": {
-      "asn": 42337,
-      "org": "National Library Of Iran",
-      "isp": "Respina Networks Beyond Pjsc",
-      "domain": "respina.net"
+      "asn": 51074,
+      "org": "MABNA",
+      "isp": "Gostaresh e ertebatat e Mabna Company private Joint Stock",
+      "domain": "mabnatelecom.com"
+    }
+  },
+  {
+    "proxy": "http://178.252.134.188:3128",
+    "tested_at": "2026-02-14T17:54:25Z",
+    "ip": "178.252.134.188",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iran",
+    "country_code": "IR",
+    "region": "Tehran Province",
+    "region_code": "23",
+    "city": "Tehran",
+    "latitude": 35.6891975,
+    "longitude": 51.3889736,
+    "is_eu": false,
+    "postal": "1317947564",
+    "connection": {
+      "asn": 51074,
+      "org": "MABNA",
+      "isp": "Gostaresh e ertebatat e Mabna Company private Joint Stock",
+      "domain": "mabnatelecom.com"
     }
   }
 ]

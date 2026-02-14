@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://46.185.34.136:8187",
-    "tested_at": "2026-02-14T17:23:15Z",
-    "ip": "46.185.34.136",
+    "proxy": "http://178.165.42.166:3128",
+    "tested_at": "2026-02-14T17:54:26Z",
+    "ip": "178.165.42.166",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Ukraine",
     "country_code": "UA",
-    "region": "Rivne Oblast",
-    "region_code": "",
-    "city": "Rivne",
-    "latitude": 50.6199,
-    "longitude": 26.251617,
+    "region": "Kharkiv Oblast",
+    "region_code": "63",
+    "city": "Kharkiv",
+    "latitude": 49.9935,
+    "longitude": 36.230383,
     "is_eu": false,
-    "postal": "27160",
+    "postal": "61003",
     "connection": {
-      "asn": 15895,
-      "org": "Kyivstar Gsm",
-      "isp": "Kyivstar Pjsc",
-      "domain": "kyivstar.net"
+      "asn": 34700,
+      "org": "Maxnet Ltd., Kharkiv",
+      "isp": "MAXNET TELECOM, LTD",
+      "domain": "maxnet.ua"
     }
   }
 ]

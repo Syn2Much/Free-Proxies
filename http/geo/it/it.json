@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://85.208.200.185:8081",
-    "tested_at": "2026-02-14T13:18:11Z",
-    "ip": "195.36.19.117",
+    "proxy": "http://89.40.143.28:7788",
+    "tested_at": "2026-02-14T17:54:28Z",
+    "ip": "89.40.143.28",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +16,10 @@
     "is_eu": true,
     "postal": "20122",
     "connection": {
-      "asn": 44092,
-      "org": "Mywic Customers",
-      "isp": "Hal Service SPA",
-      "domain": "telnetwork.it"
+      "asn": 64445,
+      "org": "Virtual Solution SRL",
+      "isp": "Michele Pietravalle Trading AS Netjoin",
+      "domain": "virtualsolution.net"
     }
   }
 ]

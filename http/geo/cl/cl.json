@@ -1,7 +1,53 @@
 [
   {
-    "proxy": "http://38.7.195.51:999",
-    "tested_at": "2026-02-14T17:22:38Z",
+    "proxy": "http://186.67.74.52:3128",
+    "tested_at": "2026-02-14T17:53:59Z",
+    "ip": "186.67.74.52",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 27651,
+      "org": "Servicio Nacional De Aduanas De Chile",
+      "isp": "ENTEL CHILE S.A.",
+      "domain": "entel.cl"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:1139",
+    "tested_at": "2026-02-14T17:54:05Z",
+    "ip": "186.79.7.77",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Valparaiso Region",
+    "region_code": "VS",
+    "city": "Valparaíso",
+    "latitude": -33.047238,
+    "longitude": -71.6126885,
+    "is_eu": false,
+    "postal": "236 2829",
+    "connection": {
+      "asn": 7418,
+      "org": "TELEF NICA CHILE S.A.",
+      "isp": "TELEF NICA CHILE S.A.",
+      "domain": "telefonicachile.cl"
+    }
+  },
+  {
+    "proxy": "http://38.7.195.50:999",
+    "tested_at": "2026-02-14T17:54:14Z",
     "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
@@ -23,32 +69,9 @@
     }
   },
   {
-    "proxy": "http://45.225.204.8:999",
-    "tested_at": "2026-02-14T17:22:54Z",
-    "ip": "45.225.204.8",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "O'Higgins Region",
-    "region_code": "",
-    "city": "San Vicente de Tagua Tagua",
-    "latitude": -34.4349435,
-    "longitude": -71.0913748,
-    "is_eu": false,
-    "postal": "297 0000",
-    "connection": {
-      "asn": 265858,
-      "org": "NETDELSUR TELECOMUNICACIONES SPA",
-      "isp": "NETDELSUR TELECOMUNICACIONES SPA",
-      "domain": "netdelsur.cl"
-    }
-  },
-  {
-    "proxy": "http://186.67.74.52:3128",
-    "tested_at": "2026-02-14T17:23:12Z",
-    "ip": "186.67.74.52",
+    "proxy": "http://72.10.160.170:18249",
+    "tested_at": "2026-02-14T17:54:14Z",
+    "ip": "191.113.242.16",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -56,16 +79,16 @@
     "country_code": "CL",
     "region": "Santiago Metropolitan Region",
     "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
+    "city": "Puente Alto",
+    "latitude": -33.6186082,
+    "longitude": -70.5906057,
     "is_eu": false,
-    "postal": "832 0202",
+    "postal": "815 0000",
     "connection": {
-      "asn": 27651,
-      "org": "Servicio Nacional De Aduanas De Chile",
-      "isp": "ENTEL CHILE S.A.",
-      "domain": "entel.cl"
+      "asn": 7418,
+      "org": "TELEF NICA CHILE S.A.",
+      "isp": "TELEF NICA CHILE S.A.",
+      "domain": "telefonicachile.cl"
     }
   }
 ]

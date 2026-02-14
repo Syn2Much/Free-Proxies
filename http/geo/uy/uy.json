@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://67.43.228.253:26233",
-    "tested_at": "2026-02-14T13:49:25Z",
-    "ip": "167.61.249.71",
+    "proxy": "http://72.10.160.174:8197",
+    "tested_at": "2026-02-14T17:54:28Z",
+    "ip": "190.133.219.109",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Uruguay",
     "country_code": "UY",
-    "region": "Canelones",
-    "region_code": "CA",
-    "city": "Salinas",
-    "latitude": -34.7720294,
-    "longitude": -55.8411065,
+    "region": "Maldonado",
+    "region_code": "MA",
+    "city": "Maldonado",
+    "latitude": -34.905408,
+    "longitude": -54.9501708,
     "is_eu": false,
-    "postal": "15100",
+    "postal": "20000",
     "connection": {
       "asn": 6057,
       "org": "Administracion Nacional De Telecomunicaciones",
       "isp": "Administracion Nacional De Telecomunicaciones",
-      "domain": "lacnic.net"
+      "domain": "antel.com.uy"
     }
   }
 ]

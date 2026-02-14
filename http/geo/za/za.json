@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://196.251.221.33:8103",
-    "tested_at": "2026-02-14T16:51:56Z",
-    "ip": "196.251.223.54",
+    "proxy": "http://160.119.228.146:12354",
+    "tested_at": "2026-02-14T17:53:58Z",
+    "ip": "160.119.228.146",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Gauteng",
+    "region_code": "GT",
+    "city": "Randburg",
+    "latitude": -26.1438399,
+    "longitude": 27.9951862,
+    "is_eu": false,
+    "postal": "2194",
+    "connection": {
+      "asn": 328137,
+      "org": "Web Squad Connect",
+      "isp": "Web Squad Connect pty LTD",
+      "domain": "websquad.co.za"
+    }
+  },
+  {
+    "proxy": "http://196.251.222.229:8103",
+    "tested_at": "2026-02-14T17:54:25Z",
+    "ip": "196.251.222.205",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",

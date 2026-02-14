@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://81.12.96.60:8118",
-    "tested_at": "2026-02-14T08:36:08Z",
-    "ip": "5.182.39.240",
+    "proxy": "http://185.142.131.113:8080",
+    "tested_at": "2026-02-14T17:54:12Z",
+    "ip": "185.142.131.113",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Portugal",
     "country_code": "PT",
-    "region": "Lisbon",
-    "region_code": "11",
-    "city": "Lisbon",
-    "latitude": 38.7222524,
-    "longitude": -9.1393366,
+    "region": "Leiria",
+    "region_code": "10",
+    "city": "Caldas da Rainha",
+    "latitude": 39.4048977,
+    "longitude": -9.135404,
     "is_eu": true,
-    "postal": "1100-148",
+    "postal": "2500-178",
     "connection": {
-      "asn": 209847,
-      "org": "Worktitans B.V.",
-      "isp": "Worktitans B.V.",
-      "domain": "the.hosting"
+      "asn": 50666,
+      "org": "Ligat Telecom Sociedade Unipessoal Lda",
+      "isp": "Ligat Telecom Sociedade Unipessoal Lda",
+      "domain": "ligat.pt"
     }
   }
 ]

@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://179.49.113.225:999",
-    "tested_at": "2026-02-14T17:22:25Z",
-    "ip": "179.49.113.226",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Honduras",
-    "country_code": "HN",
-    "region": "Ocotepeque",
-    "region_code": "OC",
-    "city": "San Fernando",
-    "latitude": 14.6826072,
-    "longitude": -89.1128205,
-    "is_eu": false,
-    "postal": "1646",
-    "connection": {
-      "asn": 262234,
-      "org": "ASOCIACION DE SERVICIO DE INTERNET S. DE RL.",
-      "isp": "ASOCIACION DE SERVICIO DE INTERNET S. DE RL.",
-      "domain": "asi.hn"
-    }
-  },
-  {
-    "proxy": "http://190.130.6.11:8080",
-    "tested_at": "2026-02-14T17:22:53Z",
-    "ip": "190.130.6.11",
+    "proxy": "http://72.10.160.90:5369",
+    "tested_at": "2026-02-14T17:54:03Z",
+    "ip": "38.172.40.33",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -39,10 +16,33 @@
     "is_eu": false,
     "postal": "12101",
     "connection": {
-      "asn": 7727,
-      "org": "Hondutel",
-      "isp": "Hondutel",
-      "domain": "hondutel.hn"
+      "asn": 27884,
+      "org": "Cogent Communications",
+      "isp": "CABLECOLOR S.A.",
+      "domain": "cablecolor.hn"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.91:5369",
+    "tested_at": "2026-02-14T17:54:13Z",
+    "ip": "38.172.40.33",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Honduras",
+    "country_code": "HN",
+    "region": "Francisco Morazán",
+    "region_code": "FM",
+    "city": "Tegucigalpa",
+    "latitude": 14.0722751,
+    "longitude": -87.192136,
+    "is_eu": false,
+    "postal": "12101",
+    "connection": {
+      "asn": 27884,
+      "org": "Cogent Communications",
+      "isp": "CABLECOLOR S.A.",
+      "domain": "cablecolor.hn"
     }
   }
 ]

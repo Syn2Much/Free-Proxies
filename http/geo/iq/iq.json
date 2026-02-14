@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://37.238.63.39:8080",
-    "tested_at": "2026-02-14T17:22:44Z",
-    "ip": "37.237.226.173",
+    "proxy": "http://72.10.164.178:9833",
+    "tested_at": "2026-02-14T17:54:04Z",
+    "ip": "169.224.33.58",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Al-Basrah District",
+    "region_code": "",
+    "city": "Basrah",
+    "latitude": 30.5081033,
+    "longitude": 47.7834888,
+    "is_eu": false,
+    "postal": "00110",
+    "connection": {
+      "asn": 199739,
+      "org": "Earthlink Telecommunications Equipment Trading Services Dmcc",
+      "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
+      "domain": "earthlink.iq"
+    }
+  },
+  {
+    "proxy": "http://37.237.224.164:8080",
+    "tested_at": "2026-02-14T17:54:16Z",
+    "ip": "37.237.224.164",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -20,6 +43,52 @@
       "org": "Earthlink Ltd. Communications internet Services orange",
       "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
       "domain": "earthlink.iq"
+    }
+  },
+  {
+    "proxy": "http://109.127.82.4:8085",
+    "tested_at": "2026-02-14T17:54:24Z",
+    "ip": "109.127.82.4",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Erbil Governorate",
+    "region_code": "AR",
+    "city": "Erbil",
+    "latitude": 36.2062933,
+    "longitude": 44.0088697,
+    "is_eu": false,
+    "postal": "44001",
+    "connection": {
+      "asn": 21277,
+      "org": "Allai Newroz Telecom",
+      "isp": "Allay Nawroz Telecom Company for Communication ltd.",
+      "domain": "newroztelecom.com"
+    }
+  },
+  {
+    "proxy": "http://5.10.230.93:8080",
+    "tested_at": "2026-02-14T17:54:25Z",
+    "ip": "5.10.228.161",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Baghdad Governorate",
+    "region_code": "BG",
+    "city": "Tarmiyah",
+    "latitude": 33.6732479,
+    "longitude": 44.3614875,
+    "is_eu": false,
+    "postal": "10084",
+    "connection": {
+      "asn": 3194,
+      "org": "SatGate IQ ISP",
+      "isp": "Satgate Company for Trading of Computers Systems And Communications Appliances Wll",
+      "domain": "satgate-iraq.com"
     }
   }
 ]

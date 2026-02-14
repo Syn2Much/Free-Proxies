@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://14.161.33.150:8080",
-    "tested_at": "2026-02-14T17:22:26Z",
-    "ip": "14.161.33.150",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Thành phố Hồ Chí Minh",
-    "region_code": "",
-    "city": "Nguyễn Đình Chiểu",
-    "latitude": 10.7749256,
-    "longitude": 106.6859306,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 45899,
-      "org": "Vietnam Posts And Telecommunications Group",
-      "isp": "Vnpt Corp",
-      "domain": "vnpt.com.vn"
-    }
-  },
-  {
     "proxy": "http://103.3.246.71:3128",
-    "tested_at": "2026-02-14T17:23:09Z",
+    "tested_at": "2026-02-14T17:53:58Z",
     "ip": "103.3.246.71",
     "success": true,
     "type": "IPv4",
@@ -43,6 +20,52 @@
       "org": "New Vision Trading Co.,ltd",
       "isp": "Bach Kim Network Solutions Join Stock Company",
       "domain": "vdata.vn"
+    }
+  },
+  {
+    "proxy": "http://152.32.255.24:27197",
+    "tested_at": "2026-02-14T17:54:13Z",
+    "ip": "152.32.255.24",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Ho Chi Minh",
+    "region_code": "SG",
+    "city": "Ho Chi Minh City",
+    "latitude": 10.8230989,
+    "longitude": 106.6296638,
+    "is_eu": false,
+    "postal": "708000",
+    "connection": {
+      "asn": 135377,
+      "org": "UCLOUD INFORMATION TECHNOLOGY HK LIMITED",
+      "isp": "UCLOUD INFORMATION TECHNOLOGY HK LIMITED",
+      "domain": "ucloud.cn"
+    }
+  },
+  {
+    "proxy": "http://14.224.181.172:8080",
+    "tested_at": "2026-02-14T17:54:28Z",
+    "ip": "14.224.181.172",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Ho Chi Minh",
+    "region_code": "SG",
+    "city": "Ho Chi Minh City",
+    "latitude": 10.8230989,
+    "longitude": 106.6296638,
+    "is_eu": false,
+    "postal": "708000",
+    "connection": {
+      "asn": 45899,
+      "org": "Vietnam Posts And Telecommunications Group",
+      "isp": "Vnpt Corp",
+      "domain": "vnpt.com.vn"
     }
   }
 ]

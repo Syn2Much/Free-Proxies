@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://213.220.3.183:3128",
-    "tested_at": "2026-02-14T17:22:20Z",
-    "ip": "213.220.3.183",
+    "proxy": "http://188.227.140.181:8080",
+    "tested_at": "2026-02-14T17:54:23Z",
+    "ip": "188.227.140.181",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Spain",
     "country_code": "ES",
-    "region": "Aragón",
-    "region_code": "AR",
-    "city": "Zaragoza",
-    "latitude": 41.6488226,
-    "longitude": -0.8890853,
+    "region": "Madrid",
+    "region_code": "M",
+    "city": "Madrid",
+    "latitude": 40.4167754,
+    "longitude": -3.7037902,
     "is_eu": true,
-    "postal": "50001",
+    "postal": "28080",
     "connection": {
-      "asn": 211484,
-      "org": "Redestel Networks S.L.",
-      "isp": "YSZ TRADING CO., LIMITED",
-      "domain": "redestel.net"
+      "asn": 56882,
+      "org": "AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+      "isp": "AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+      "domain": "airenetworks.es"
     }
   }
 ]

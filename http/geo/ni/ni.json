@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://72.10.160.90:30031",
+    "tested_at": "2026-02-14T17:54:26Z",
+    "ip": "161.0.42.114",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Nicaragua",
+    "country_code": "NI",
+    "region": "Managua",
+    "region_code": "MN",
+    "city": "Managua",
+    "latitude": 12.1149926,
+    "longitude": -86.2361744,
+    "is_eu": false,
+    "postal": "11104",
+    "connection": {
+      "asn": 25607,
+      "org": "Ibw Communications",
+      "isp": "Ibw Communications",
+      "domain": "ibw.com.ni"
+    }
+  }
+]
