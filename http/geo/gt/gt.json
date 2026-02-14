@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://67.43.236.20:4795",
-    "tested_at": "2026-02-14T14:20:17Z",
-    "ip": "190.14.143.51",
+    "proxy": "http://45.5.119.70:999",
+    "tested_at": "2026-02-14T15:53:43Z",
+    "ip": "45.5.119.70",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "01004",
     "connection": {
-      "asn": 52362,
-      "org": "Servicios Innovadores De Comunicaci n Y Entretenimiento, S.A.",
-      "isp": "Servicios Innovadores De Comunicaci n Y Entretenimiento, S.A.",
-      "domain": "tigo.com.gt"
+      "asn": 52468,
+      "org": "INFINITUM S.A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "infinitumplus.com.gt"
     }
   }
 ]

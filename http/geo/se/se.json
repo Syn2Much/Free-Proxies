@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://83.219.250.8:62920",
-    "tested_at": "2026-02-14T14:51:04Z",
-    "ip": "83.219.250.8",
+    "proxy": "http://193.181.35.12:8118",
+    "tested_at": "2026-02-14T15:53:51Z",
+    "ip": "193.181.35.12",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +16,10 @@
     "is_eu": true,
     "postal": "111 29",
     "connection": {
-      "asn": 41745,
-      "org": "Baykov Ilya Sergeevich",
-      "isp": "Baykov Ilya Sergeevich",
-      "domain": "fortis.host"
+      "asn": 42201,
+      "org": "Pvdatanet Ab",
+      "isp": "Pvdatanet Ab",
+      "domain": "pvdatanet.com"
     }
   }
 ]

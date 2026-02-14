@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://165.231.141.138:443",
-    "tested_at": "2026-02-14T15:22:38Z",
-    "ip": "165.231.193.100",
+    "proxy": "https://165.231.141.74:9443",
+    "tested_at": "2026-02-14T15:54:20Z",
+    "ip": "196.196.122.235",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -19,13 +19,13 @@
       "asn": 58065,
       "org": "Fiber Grid",
       "isp": "Orion Network Limited",
-      "domain": "fibergrid.net"
+      "domain": "fibergrid.co.za"
     }
   },
   {
-    "proxy": "https://165.231.141.138:9443",
-    "tested_at": "2026-02-14T15:22:48Z",
-    "ip": "165.231.193.100",
+    "proxy": "https://165.231.141.122:9443",
+    "tested_at": "2026-02-14T15:54:22Z",
+    "ip": "165.231.193.196",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",

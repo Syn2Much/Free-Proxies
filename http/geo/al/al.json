@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://80.91.116.129:8081",
+    "tested_at": "2026-02-14T15:54:06Z",
+    "ip": "77.242.21.186",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Albania",
+    "country_code": "AL",
+    "region": "Central Albania",
+    "region_code": "",
+    "city": "Kamëz",
+    "latitude": 41.3783926,
+    "longitude": 19.7770261,
+    "is_eu": false,
+    "postal": "1030",
+    "connection": {
+      "asn": 35047,
+      "org": "Business Static Pool",
+      "isp": "Abissnet SH.A.",
+      "domain": "abissnet.al"
+    }
+  },
+  {
     "proxy": "http://79.106.229.115:8989",
-    "tested_at": "2026-02-14T15:23:20Z",
+    "tested_at": "2026-02-14T15:54:32Z",
     "ip": "79.106.229.115",
     "success": true,
     "type": "IPv4",
@@ -20,6 +43,29 @@
       "org": "TEST 1",
       "isp": "ONE ALBANIA SH.A.",
       "domain": "one.al"
+    }
+  },
+  {
+    "proxy": "http://185.89.156.2:44224",
+    "tested_at": "2026-02-14T15:54:39Z",
+    "ip": "185.89.156.2",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Albania",
+    "country_code": "AL",
+    "region": "Southern Albania",
+    "region_code": "",
+    "city": "Mollas",
+    "latitude": 40.4265952,
+    "longitude": 20.6757427,
+    "is_eu": false,
+    "postal": "7403",
+    "connection": {
+      "asn": 198279,
+      "org": "Atu Residential Customers",
+      "isp": "Albanian Telecommunications Union Sh. P.K.",
+      "domain": "atu.al"
     }
   }
 ]

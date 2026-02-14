@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://37.27.180.250:2081",
-    "tested_at": "2026-02-14T15:23:11Z",
-    "ip": "141.98.101.182",
+    "proxy": "http://157.125.220.80:8080",
+    "tested_at": "2026-02-14T15:53:54Z",
+    "ip": "157.125.220.80",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,22 +10,22 @@
     "country_code": "GB",
     "region": "England",
     "region_code": "ENG",
-    "city": "Manchester",
-    "latitude": 53.446622,
-    "longitude": -2.308713,
+    "city": "Pudsey",
+    "latitude": 53.795766,
+    "longitude": -1.6761082,
     "is_eu": false,
-    "postal": "M2 3FU",
+    "postal": "LS28 7LH",
     "connection": {
-      "asn": 9009,
-      "org": "M LTD Manchester Infrastructure",
-      "isp": "M Europe SRL",
-      "domain": "m247.com"
+      "asn": 31655,
+      "org": "Gamma Telecom Limited",
+      "isp": "Gamma Telecom Holdings LTD",
+      "domain": "gamma.co.uk"
     }
   },
   {
-    "proxy": "http://152.53.136.194:10000",
-    "tested_at": "2026-02-14T15:23:15Z",
-    "ip": "2.219.183.205",
+    "proxy": "http://51.89.135.171:8080",
+    "tested_at": "2026-02-14T15:54:33Z",
+    "ip": "51.38.70.236",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -33,16 +33,16 @@
     "country_code": "GB",
     "region": "England",
     "region_code": "ENG",
-    "city": "Felbridge",
-    "latitude": 51.138998,
-    "longitude": -0.039724,
+    "city": "London",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583,
     "is_eu": false,
-    "postal": "RH7 6HL",
+    "postal": "SW1",
     "connection": {
-      "asn": 5607,
-      "org": "Sky UK Limited",
-      "isp": "Sky UK Limited",
-      "domain": "sky.uk"
+      "asn": 16276,
+      "org": "OVH SAS",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
     }
   }
 ]

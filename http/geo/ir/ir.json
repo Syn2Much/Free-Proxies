@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://78.157.57.71:3128",
-    "tested_at": "2026-02-14T15:23:09Z",
-    "ip": "78.157.57.71",
+    "proxy": "http://185.186.240.9:1396",
+    "tested_at": "2026-02-14T15:53:48Z",
+    "ip": "185.186.240.9",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "1317947564",
     "connection": {
-      "asn": 62442,
-      "org": "Dade Samane Fanava Company pjs",
-      "isp": "Dade Samane Fanava Company pjs",
-      "domain": "fanavaraneomid.com"
+      "asn": 203684,
+      "org": "Gostaresh Ertebat Azin Kia Company Pjsc",
+      "isp": "Imen Sanat Novin Alighapoo Private Joint Stock Company",
+      "domain": "azinkia.ir"
     }
   }
 ]

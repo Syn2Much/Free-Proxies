@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://46.10.209.230:8080",
-    "tested_at": "2026-02-14T14:51:21Z",
-    "ip": "46.10.209.230",
+    "proxy": "http://213.169.33.8:8001",
+    "tested_at": "2026-02-14T15:53:47Z",
+    "ip": "213.169.33.7",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "region": "Sofia-city",
+    "region_code": "",
+    "city": "Sofia",
+    "latitude": 42.6977082,
+    "longitude": 23.3218675,
+    "is_eu": true,
+    "postal": "1000",
+    "connection": {
+      "asn": 8717,
+      "org": "A1 Bulgaria Ead",
+      "isp": "A1 Bulgaria Ead",
+      "domain": "a1.bg"
+    }
+  },
+  {
+    "proxy": "http://87.126.65.11:1388",
+    "tested_at": "2026-02-14T15:54:26Z",
+    "ip": "87.126.65.11",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -17,9 +40,9 @@
     "postal": "1000",
     "connection": {
       "asn": 8866,
-      "org": "Business Customer Migration",
+      "org": "Bulgarian Telecommunications Company Plc",
       "isp": "Vivacom Bulgaria Ead",
-      "domain": "vivacom.bg"
+      "domain": ""
     }
   }
 ]

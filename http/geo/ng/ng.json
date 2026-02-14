@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://197.211.45.4:10000",
-    "tested_at": "2026-02-14T15:22:33Z",
+    "tested_at": "2026-02-14T15:54:13Z",
     "ip": "129.222.204.27",
     "success": true,
     "type": "IPv4",
@@ -20,52 +20,6 @@
       "org": "Starlink",
       "isp": "Space Exploration Technologies Corporation",
       "domain": "spacex.com"
-    }
-  },
-  {
-    "proxy": "http://154.113.209.162:8082",
-    "tested_at": "2026-02-14T15:22:41Z",
-    "ip": "154.113.209.162",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Nigeria",
-    "country_code": "NG",
-    "region": "Lagos",
-    "region_code": "LA",
-    "city": "Lagos",
-    "latitude": 6.5243793,
-    "longitude": 3.3792057,
-    "is_eu": false,
-    "postal": "8600-000",
-    "connection": {
-      "asn": 37282,
-      "org": "Mdxi Cloud Infrastructure",
-      "isp": "Mainone Cable Company",
-      "domain": "mainonecable.com"
-    }
-  },
-  {
-    "proxy": "http://154.113.209.164:8082",
-    "tested_at": "2026-02-14T15:23:10Z",
-    "ip": "154.113.209.164",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Nigeria",
-    "country_code": "NG",
-    "region": "Lagos",
-    "region_code": "LA",
-    "city": "Lagos",
-    "latitude": 6.5243793,
-    "longitude": 3.3792057,
-    "is_eu": false,
-    "postal": "8600-000",
-    "connection": {
-      "asn": 37282,
-      "org": "Mdxi Cloud Infrastructure",
-      "isp": "Mainone Cable Company",
-      "domain": "mainonecable.com"
     }
   }
 ]

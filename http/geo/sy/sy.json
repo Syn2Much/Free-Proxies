@@ -1,8 +1,54 @@
 [
   {
-    "proxy": "http://212.108.115.172:8080",
-    "tested_at": "2026-02-14T15:22:30Z",
-    "ip": "212.108.115.172",
+    "proxy": "http://164.138.205.67:8080",
+    "tested_at": "2026-02-14T15:53:41Z",
+    "ip": "164.138.205.67",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Syria",
+    "country_code": "SY",
+    "region": "Damascus Governorate",
+    "region_code": "DI",
+    "city": "Damascus",
+    "latitude": 33.5138073,
+    "longitude": 36.2765279,
+    "is_eu": false,
+    "postal": "2277",
+    "connection": {
+      "asn": 216472,
+      "org": "Telecom Sy",
+      "isp": "High Speed For Internet Services L.L.C",
+      "domain": "kaer.technology"
+    }
+  },
+  {
+    "proxy": "http://89.43.133.145:8080",
+    "tested_at": "2026-02-14T15:53:42Z",
+    "ip": "89.43.133.130",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Syria",
+    "country_code": "SY",
+    "region": "Hama Governorate",
+    "region_code": "HM",
+    "city": "Halfaya",
+    "latitude": 35.2626536,
+    "longitude": 36.6066932,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 216472,
+      "org": "HU PANTEL INT 00 11",
+      "isp": "High Speed For Internet Services L.L.C",
+      "domain": "turktelekomint.com"
+    }
+  },
+  {
+    "proxy": "http://212.108.115.102:8080",
+    "tested_at": "2026-02-14T15:54:10Z",
+    "ip": "212.108.115.102",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -23,26 +69,26 @@
     }
   },
   {
-    "proxy": "http://89.43.134.40:8080",
-    "tested_at": "2026-02-14T15:23:01Z",
-    "ip": "89.43.134.40",
+    "proxy": "http://193.43.145.200:8080",
+    "tested_at": "2026-02-14T15:54:22Z",
+    "ip": "193.43.145.200",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Syria",
     "country_code": "SY",
-    "region": "Aleppo Governorate",
-    "region_code": "HL",
-    "city": "Aleppo",
-    "latitude": 36.2021047,
-    "longitude": 37.1342603,
+    "region": "As-Suwayda Governorate",
+    "region_code": "SU",
+    "city": "Al Nashabiyah",
+    "latitude": 33.5145293,
+    "longitude": 36.4878241,
     "is_eu": false,
-    "postal": "720",
+    "postal": "",
     "connection": {
-      "asn": 216472,
-      "org": "HU PANTEL INT 00 11",
-      "isp": "High Speed For Internet Services L.L.C",
-      "domain": "turktelekomint.com"
+      "asn": 29256,
+      "org": "Wafa Telecom J.S.C",
+      "isp": "Syrian Telecommunication Private Closed Joint Stock Company",
+      "domain": "syriantelecom.sy"
     }
   }
 ]

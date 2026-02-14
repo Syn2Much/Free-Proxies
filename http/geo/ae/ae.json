@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://129.151.130.247:1111",
-    "tested_at": "2026-02-14T15:22:38Z",
-    "ip": "129.151.130.247",
+    "proxy": "http://72.10.164.178:19287",
+    "tested_at": "2026-02-14T15:53:50Z",
+    "ip": "217.164.53.169",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,16 +10,39 @@
     "country_code": "AE",
     "region": "Abu Dhabi Emirate",
     "region_code": "AZ",
-    "city": "Abu Dhabi",
-    "latitude": 24.4266734,
-    "longitude": 54.614979,
+    "city": "Al Ain",
+    "latitude": 24.1301619,
+    "longitude": 55.8023118,
     "is_eu": false,
-    "postal": "36668",
+    "postal": "19269",
     "connection": {
-      "asn": 31898,
-      "org": "Oracle Corporation",
-      "isp": "Oracle Corporation",
-      "domain": "oracle.com"
+      "asn": 5384,
+      "org": "Emirates Telecommunications Corporation",
+      "isp": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY ETISALAT GROUP PJSC",
+      "domain": "etisalat.ae"
+    }
+  },
+  {
+    "proxy": "http://47.91.104.88:3128",
+    "tested_at": "2026-02-14T15:54:12Z",
+    "ip": "47.91.104.88",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "region": "Dubai",
+    "region_code": "DU",
+    "city": "Dubai",
+    "latitude": 25.2048493,
+    "longitude": 55.2707828,
+    "is_eu": false,
+    "postal": "39205",
+    "connection": {
+      "asn": 45102,
+      "org": "Alibaba Cloud Ae dubai",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibabacloud.com"
     }
   }
 ]

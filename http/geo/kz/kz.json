@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://82.200.237.11:8080",
+    "tested_at": "2026-02-14T15:53:46Z",
+    "ip": "82.200.237.11",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "region": "Atyrau Region",
+    "region_code": "ATY",
+    "city": "Atyrau",
+    "latitude": 47.0944959,
+    "longitude": 51.9238373,
+    "is_eu": false,
+    "postal": "060000",
+    "connection": {
+      "asn": 9198,
+      "org": "JSC Kazakhtelecom",
+      "isp": "JSC Kazakhtelecom",
+      "domain": "telecom.kz"
+    }
+  },
+  {
     "proxy": "http://188.130.160.209:80",
-    "tested_at": "2026-02-14T15:22:54Z",
+    "tested_at": "2026-02-14T15:53:55Z",
     "ip": "188.130.160.209",
     "success": true,
     "type": "IPv4",

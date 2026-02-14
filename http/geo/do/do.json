@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://190.110.35.230:999",
-    "tested_at": "2026-02-14T15:22:34Z",
-    "ip": "168.196.124.138",
+    "proxy": "http://170.80.203.45:999",
+    "tested_at": "2026-02-14T15:54:13Z",
+    "ip": "170.80.203.34",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -16,16 +16,62 @@
     "is_eu": false,
     "postal": "51000",
     "connection": {
-      "asn": 264821,
-      "org": "COMCAST SRL",
-      "isp": "COMCAST SRL",
-      "domain": "comcast-srl.com"
+      "asn": 271819,
+      "org": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
+      "isp": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
+      "domain": "rgdimax.com"
     }
   },
   {
-    "proxy": "http://190.93.189.142:999",
-    "tested_at": "2026-02-14T15:22:37Z",
-    "ip": "190.93.189.139",
+    "proxy": "http://38.191.88.128:999",
+    "tested_at": "2026-02-14T15:54:14Z",
+    "ip": "38.191.88.187",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Distrito Nacional",
+    "region_code": "01",
+    "city": "Santo Domingo",
+    "latitude": 18.4860575,
+    "longitude": -69.9312117,
+    "is_eu": false,
+    "postal": "10119",
+    "connection": {
+      "asn": 272027,
+      "org": "Megared Telecom LLC",
+      "isp": "LAUAM MEGARED TELECOM, S.R.L.",
+      "domain": "google.com"
+    }
+  },
+  {
+    "proxy": "http://152.166.69.34:8080",
+    "tested_at": "2026-02-14T15:54:25Z",
+    "ip": "152.166.69.34",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "La Romana",
+    "region_code": "12",
+    "city": "La Romana",
+    "latitude": 18.4338645,
+    "longitude": -68.9658817,
+    "is_eu": false,
+    "postal": "03669",
+    "connection": {
+      "asn": 28118,
+      "org": "ALTICE DOMINICANA S.A.",
+      "isp": "ALTICE DOMINICANA S.A.",
+      "domain": "lacnic.net"
+    }
+  },
+  {
+    "proxy": "http://170.80.202.216:999",
+    "tested_at": "2026-02-14T15:54:26Z",
+    "ip": "170.80.202.221",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -39,56 +85,10 @@
     "is_eu": false,
     "postal": "51000",
     "connection": {
-      "asn": 269908,
-      "org": "JOSE DIGITAL MEDIA DOMINICANA SRL",
-      "isp": "JOSE DIGITAL MEDIA DOMINICANA SRL",
-      "domain": "jdimax.com"
-    }
-  },
-  {
-    "proxy": "http://200.125.170.222:999",
-    "tested_at": "2026-02-14T15:22:43Z",
-    "ip": "200.125.170.218",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Monte Plata",
-    "region_code": "29",
-    "city": "Mejía de Navarrete",
-    "latitude": 18.735693,
-    "longitude": -70.162651,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 269931,
-      "org": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
-      "isp": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
-      "domain": "wmservice.com.do"
-    }
-  },
-  {
-    "proxy": "http://38.95.89.204:999",
-    "tested_at": "2026-02-14T15:22:47Z",
-    "ip": "38.95.89.202",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "San José de Ocoa",
-    "region_code": "31",
-    "city": "San Jose de Ocoa",
-    "latitude": 18.543858,
-    "longitude": -70.5041816,
-    "is_eu": false,
-    "postal": "93000",
-    "connection": {
-      "asn": 272112,
-      "org": "Cogent Communications",
-      "isp": "TELECABLE DOMINICANO, S.A.",
-      "domain": "telecabledominicano.com.do"
+      "asn": 271819,
+      "org": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
+      "isp": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
+      "domain": "rgdimax.com"
     }
   }
 ]

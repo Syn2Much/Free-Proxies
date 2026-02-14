@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://77.46.138.38:8080",
-    "tested_at": "2026-02-14T12:15:31Z",
-    "ip": "77.46.138.38",
+    "proxy": "http://82.214.86.82:8080",
+    "tested_at": "2026-02-14T15:54:21Z",
+    "ip": "82.214.86.82",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,16 +10,16 @@
     "country_code": "RS",
     "region": "Central Serbia",
     "region_code": "",
-    "city": "Žujince",
-    "latitude": 42.3194967,
-    "longitude": 21.7078073,
+    "city": "Belgrade",
+    "latitude": 44.786568,
+    "longitude": 20.4489216,
     "is_eu": false,
-    "postal": "17523",
+    "postal": "11000",
     "connection": {
-      "asn": 8400,
-      "org": "Telekom Srbija A.D.",
-      "isp": "Telekom Srbija A.D.",
-      "domain": "telekom.rs"
+      "asn": 25467,
+      "org": "Akton Customer Mina Mar",
+      "isp": "Akton D.O.O.",
+      "domain": "akton.net"
     }
   }
 ]

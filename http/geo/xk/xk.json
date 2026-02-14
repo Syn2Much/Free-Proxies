@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://80.80.163.194:46276",
-    "tested_at": "2026-02-14T13:49:28Z",
-    "ip": "80.80.163.194",
+    "proxy": "http://46.99.178.155:1339",
+    "tested_at": "2026-02-14T15:53:51Z",
+    "ip": "46.99.178.155",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -17,7 +17,30 @@
     "postal": "10000",
     "connection": {
       "asn": 21246,
-      "org": "IPKO 0 0",
+      "org": "Ipko 1",
+      "isp": "Ipko Telecommunications LLC",
+      "domain": "ipko.com"
+    }
+  },
+  {
+    "proxy": "http://91.187.113.68:8080",
+    "tested_at": "2026-02-14T15:54:13Z",
+    "ip": "91.187.113.68",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Kosovo",
+    "country_code": "XK",
+    "region": "Municipality of Pristina",
+    "region_code": "",
+    "city": "Prishtina",
+    "latitude": 42.6629138,
+    "longitude": 21.1655028,
+    "is_eu": false,
+    "postal": "10000",
+    "connection": {
+      "asn": 21246,
+      "org": "IPKO 11",
       "isp": "Ipko Telecommunications LLC",
       "domain": "ipko.com"
     }

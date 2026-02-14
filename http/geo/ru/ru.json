@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://158.160.133.16:8087",
-    "tested_at": "2026-02-14T15:22:38Z",
+    "tested_at": "2026-02-14T15:53:40Z",
     "ip": "158.160.133.16",
     "success": true,
     "type": "IPv4",
@@ -23,54 +23,31 @@
     }
   },
   {
-    "proxy": "http://158.160.215.167:8124",
-    "tested_at": "2026-02-14T15:22:49Z",
-    "ip": "154.212.30.205",
+    "proxy": "http://84.53.245.42:41258",
+    "tested_at": "2026-02-14T15:53:51Z",
+    "ip": "84.53.245.42",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Russia",
     "country_code": "RU",
-    "region": "Moscow",
-    "region_code": "MOW",
-    "city": "Moscow",
-    "latitude": 55.755826,
-    "longitude": 37.6173,
+    "region": "Vladimir Oblast",
+    "region_code": "VLA",
+    "city": "Vladimir",
+    "latitude": 56.1713562,
+    "longitude": 40.413093,
     "is_eu": false,
-    "postal": "103073",
+    "postal": "600000",
     "connection": {
-      "asn": 49505,
-      "org": "IT HOST BKPL",
-      "isp": "JSC Selectel",
-      "domain": "backupland.com"
-    }
-  },
-  {
-    "proxy": "http://176.115.146.232:8080",
-    "tested_at": "2026-02-14T15:23:01Z",
-    "ip": "176.115.146.232",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Nizhny Novgorod Oblast",
-    "region_code": "NIZ",
-    "city": "Nizhny Novgorod",
-    "latitude": 56.2965039,
-    "longitude": 43.9360589,
-    "is_eu": false,
-    "postal": "603033",
-    "connection": {
-      "asn": 197275,
-      "org": "Link Telecom Nn Ltd.",
-      "isp": "Link Telecom Nn Ltd.",
-      "domain": "lt-nn.net"
+      "asn": 34168,
+      "org": "OJSC Rostelecom",
+      "isp": "Elcom ISP",
+      "domain": ""
     }
   },
   {
     "proxy": "http://45.151.182.9:3128",
-    "tested_at": "2026-02-14T15:23:09Z",
+    "tested_at": "2026-02-14T15:54:10Z",
     "ip": "45.151.182.9",
     "success": true,
     "type": "IPv4",
@@ -92,9 +69,9 @@
     }
   },
   {
-    "proxy": "http://158.160.215.167:8126",
-    "tested_at": "2026-02-14T15:23:17Z",
-    "ip": "45.195.99.254",
+    "proxy": "http://213.219.215.233:3128",
+    "tested_at": "2026-02-14T15:54:12Z",
+    "ip": "213.219.215.233",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -108,10 +85,79 @@
     "is_eu": false,
     "postal": "103073",
     "connection": {
-      "asn": 44559,
-      "org": "IT HOST BKPL",
-      "isp": "IT HOSTLINE LTD",
-      "domain": "blsync.com"
+      "asn": 47764,
+      "org": "Vk Cloud Solutions",
+      "isp": "LLC VK",
+      "domain": "ok.ru"
+    }
+  },
+  {
+    "proxy": "http://176.115.146.232:8080",
+    "tested_at": "2026-02-14T15:54:12Z",
+    "ip": "176.115.146.232",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Russia",
+    "country_code": "RU",
+    "region": "Nizhny Novgorod Oblast",
+    "region_code": "NIZ",
+    "city": "Nizhny Novgorod",
+    "latitude": 56.2965039,
+    "longitude": 43.9360589,
+    "is_eu": false,
+    "postal": "603033",
+    "connection": {
+      "asn": 197275,
+      "org": "Link Telecom Nn Ltd.",
+      "isp": "Link Telecom Nn Ltd.",
+      "domain": "lt-nn.net"
+    }
+  },
+  {
+    "proxy": "http://158.160.215.167:8123",
+    "tested_at": "2026-02-14T15:54:17Z",
+    "ip": "195.19.170.219",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Russia",
+    "country_code": "RU",
+    "region": "Saint Petersburg",
+    "region_code": "",
+    "city": "Saint Petersburg",
+    "latitude": 59.9342802,
+    "longitude": 30.3350986,
+    "is_eu": false,
+    "postal": "191186",
+    "connection": {
+      "asn": 49505,
+      "org": "Comfortel Ltd.",
+      "isp": "JSC Selectel",
+      "domain": "comfortel.pro"
+    }
+  },
+  {
+    "proxy": "http://31.132.151.158:8080",
+    "tested_at": "2026-02-14T15:54:21Z",
+    "ip": "31.132.151.158",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Russia",
+    "country_code": "RU",
+    "region": "Bryansk Oblast",
+    "region_code": "BRY",
+    "city": "Bryansk",
+    "latitude": 53.2635306,
+    "longitude": 34.41611,
+    "is_eu": false,
+    "postal": "241000",
+    "connection": {
+      "asn": 57044,
+      "org": "JSC Er telecom Holding",
+      "isp": "JSC Er telecom Holding",
+      "domain": "ertelecom.ru"
     }
   }
 ]
