@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://72.10.160.90:15221",
-    "tested_at": "2026-02-14T08:04:18Z",
-    "ip": "88.176.82.218",
+    "proxy": "http://72.10.164.178:25675",
+    "tested_at": "2026-02-14T08:35:45Z",
+    "ip": "46.193.68.166",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,62 +10,16 @@
     "country_code": "FR",
     "region": "Auvergne-Rhône-Alpes",
     "region_code": "ARA",
-    "city": "Diémoz",
-    "latitude": 45.588444,
-    "longitude": 5.089859,
+    "city": "Méry",
+    "latitude": 45.642877,
+    "longitude": 5.936683,
     "is_eu": true,
-    "postal": "38790",
+    "postal": "73420",
     "connection": {
-      "asn": 12322,
-      "org": "Proxad Free SAS",
-      "isp": "Free SAS",
-      "domain": "proxad.net"
-    }
-  },
-  {
-    "proxy": "http://62.133.62.12:1082",
-    "tested_at": "2026-02-14T08:04:19Z",
-    "ip": "62.133.62.12",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 215540,
-      "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
-      "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
-      "domain": "gir.network"
-    }
-  },
-  {
-    "proxy": "http://84.247.171.137:3128",
-    "tested_at": "2026-02-14T08:04:36Z",
-    "ip": "84.247.171.137",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Grand Est",
-    "region_code": "GES",
-    "city": "Lauterbourg",
-    "latitude": 48.974797,
-    "longitude": 8.176773,
-    "is_eu": true,
-    "postal": "67630",
-    "connection": {
-      "asn": 51167,
-      "org": "Contabo GmbH",
-      "isp": "Contabo GmbH",
-      "domain": "contabo.de"
+      "asn": 52075,
+      "org": "Wifirst End Users",
+      "isp": "Wifirst S.A.S.",
+      "domain": "wifirst.com"
     }
   }
 ]

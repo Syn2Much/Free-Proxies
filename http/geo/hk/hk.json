@@ -1,53 +1,7 @@
 [
   {
-    "proxy": "http://72.10.160.90:21511",
-    "tested_at": "2026-02-14T08:04:10Z",
-    "ip": "58.176.16.212",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.318507,
-    "longitude": 114.1755339,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 9269,
-      "org": "Hong Kong Broadband Network Limited",
-      "isp": "Hong Kong Broadband Network Limited",
-      "domain": "hkbn.net"
-    }
-  },
-  {
-    "proxy": "http://43.250.9.46:10088",
-    "tested_at": "2026-02-14T08:04:13Z",
-    "ip": "43.250.9.46",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.276022,
-    "longitude": 114.1751471,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 38478,
-      "org": "Network Infinity Technologies Limited",
-      "isp": "Sunnyvision Limited",
-      "domain": "netfinity.com.hk"
-    }
-  },
-  {
     "proxy": "http://101.47.73.135:3128",
-    "tested_at": "2026-02-14T08:04:25Z",
+    "tested_at": "2026-02-14T08:35:25Z",
     "ip": "101.47.73.135",
     "success": true,
     "type": "IPv4",
@@ -70,7 +24,7 @@
   },
   {
     "proxy": "http://160.20.55.235:8080",
-    "tested_at": "2026-02-14T08:04:40Z",
+    "tested_at": "2026-02-14T08:35:34Z",
     "ip": "160.20.55.235",
     "success": true,
     "type": "IPv4",
@@ -92,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://67.43.236.18:23107",
-    "tested_at": "2026-02-14T08:04:42Z",
-    "ip": "168.70.65.12",
+    "proxy": "http://72.10.160.90:21511",
+    "tested_at": "2026-02-14T08:35:34Z",
+    "ip": "58.176.16.212",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -102,16 +56,16 @@
     "country_code": "HK",
     "region": "Hong Kong",
     "region_code": "",
-    "city": "Hong Kong Island",
-    "latitude": 22.2793278,
-    "longitude": 114.1628131,
+    "city": "Hong Kong",
+    "latitude": 22.318507,
+    "longitude": 114.1755339,
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 4760,
-      "org": "Hong Kong Telecommunications hkt Limited Mass Internet",
-      "isp": "Pccw Ims Limited",
-      "domain": "netvigator.com"
+      "asn": 9269,
+      "org": "Hong Kong Broadband Network Limited",
+      "isp": "Hong Kong Broadband Network Limited",
+      "domain": "hkbn.net"
     }
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://185.191.236.162:3128",
-    "tested_at": "2026-02-14T08:04:28Z",
+    "tested_at": "2026-02-14T08:35:33Z",
     "ip": "2a0a:20c0:f001:81:4498:fcff:febf:cefb",
     "success": true,
     "type": "IPv6",

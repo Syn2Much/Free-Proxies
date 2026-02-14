@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://103.1.93.184:55443",
-    "tested_at": "2026-02-14T08:04:22Z",
-    "ip": "103.1.93.184",
+    "proxy": "http://72.10.160.174:29347",
+    "tested_at": "2026-02-14T08:35:49Z",
+    "ip": "27.34.110.203",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Nepal",
     "country_code": "NP",
-    "region": "Bagmati Pradesh",
+    "region": "Karnali Pradesh",
     "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
+    "city": "Jumla",
+    "latitude": 29.2787765,
+    "longitude": 82.12784,
     "is_eu": false,
-    "postal": "46600",
+    "postal": "",
     "connection": {
-      "asn": 55915,
-      "org": "Classic Tech Pvt. Ltd.",
-      "isp": "Classic Tech Pvt. Ltd.",
-      "domain": "classic.com.np"
-    }
-  },
-  {
-    "proxy": "http://110.44.115.83:8080",
-    "tested_at": "2026-02-14T08:04:53Z",
-    "ip": "110.44.115.83",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Nepal",
-    "country_code": "NP",
-    "region": "Bagmati Pradesh",
-    "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
-    "is_eu": false,
-    "postal": "46600",
-    "connection": {
-      "asn": 45650,
-      "org": "VIA NET COMMUNICATION PUBLIC LIMITED",
-      "isp": "VIA NET COMMUNICATION PUBLIC LIMITED",
-      "domain": "vianet.com.np"
+      "asn": 17501,
+      "org": "Dynamic Allocation for Broadband Subscribers",
+      "isp": "Worldlink Communications",
+      "domain": "worldlink.com.np"
     }
   }
 ]

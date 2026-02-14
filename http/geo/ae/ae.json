@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://67.43.236.20:11677",
-    "tested_at": "2026-02-14T07:33:35Z",
-    "ip": "86.99.172.103",
+    "proxy": "http://72.10.160.170:20175",
+    "tested_at": "2026-02-14T08:35:35Z",
+    "ip": "94.203.16.230",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "region": "Abu Dhabi Emirate",
+    "region_code": "AZ",
+    "city": "Abu Dhabi",
+    "latitude": 24.2991738,
+    "longitude": 54.6972774,
+    "is_eu": false,
+    "postal": "36668",
+    "connection": {
+      "asn": 15802,
+      "org": "Academiccity Pop",
+      "isp": "Emirates Integrated Telecommunications Company Pjsc",
+      "domain": "du.ae"
+    }
+  },
+  {
+    "proxy": "http://67.43.236.20:1233",
+    "tested_at": "2026-02-14T08:35:45Z",
+    "ip": "92.97.227.91",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -20,6 +43,52 @@
       "org": "Emirates Telecommunications Corporation",
       "isp": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY ETISALAT GROUP PJSC",
       "domain": "etisalat.ae"
+    }
+  },
+  {
+    "proxy": "http://67.43.236.19:1233",
+    "tested_at": "2026-02-14T08:35:45Z",
+    "ip": "92.97.227.91",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "region": "Dubai",
+    "region_code": "DU",
+    "city": "Dubai",
+    "latitude": 25.2048493,
+    "longitude": 55.2707828,
+    "is_eu": false,
+    "postal": "39205",
+    "connection": {
+      "asn": 5384,
+      "org": "Emirates Telecommunications Corporation",
+      "isp": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY ETISALAT GROUP PJSC",
+      "domain": "etisalat.ae"
+    }
+  },
+  {
+    "proxy": "http://67.43.236.18:21205",
+    "tested_at": "2026-02-14T08:35:55Z",
+    "ip": "94.203.112.59",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "region": "Ras al-Khaimah",
+    "region_code": "RK",
+    "city": "Ras Al-Khaimah",
+    "latitude": 25.8006926,
+    "longitude": 55.9761994,
+    "is_eu": false,
+    "postal": "2574",
+    "connection": {
+      "asn": 15802,
+      "org": "IMPZ POP",
+      "isp": "Emirates Integrated Telecommunications Company Pjsc",
+      "domain": "du.ae"
     }
   }
 ]

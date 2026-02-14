@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://72.10.164.178:22411",
-    "tested_at": "2026-02-14T07:02:11Z",
-    "ip": "103.215.193.34",
+    "proxy": "http://72.10.160.173:5901",
+    "tested_at": "2026-02-14T08:36:16Z",
+    "ip": "42.156.33.248",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -11,15 +11,15 @@
     "region": "Yangon",
     "region_code": "06",
     "city": "Yangon",
-    "latitude": 16.9125645,
-    "longitude": 96.1344051,
+    "latitude": 16.8660694,
+    "longitude": 96.195132,
     "is_eu": false,
     "postal": "00000",
     "connection": {
-      "asn": 135371,
-      "org": "Fortune Broadband",
-      "isp": "Fortune International Ltd.",
-      "domain": "fortunemm.com"
+      "asn": 136474,
+      "org": "Marga Global Telecom Limited",
+      "isp": "Marga Global Telecom Limited",
+      "domain": "margaglobal.com"
     }
   }
 ]

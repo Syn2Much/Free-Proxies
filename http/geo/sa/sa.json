@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://67.43.228.252:25293",
-    "tested_at": "2026-02-14T08:04:50Z",
-    "ip": "169.148.80.169",
+    "proxy": "http://67.43.236.21:29745",
+    "tested_at": "2026-02-14T08:35:36Z",
+    "ip": "176.44.59.18",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Saudi Arabia",
     "country_code": "SA",
-    "region": "Makkah Region",
-    "region_code": "02",
-    "city": "Jeddah",
-    "latitude": 21.2854067,
-    "longitude": 39.2375507,
+    "region": "Riyadh Region",
+    "region_code": "",
+    "city": "Riyadh",
+    "latitude": 24.7135517,
+    "longitude": 46.6752957,
     "is_eu": false,
-    "postal": "23434",
+    "postal": "11411",
     "connection": {
       "asn": 25019,
-      "org": "STC FBB",
+      "org": "SAUDINET DSL POOL",
       "isp": "Saudi Telecom Company JSC",
-      "domain": "stc.com.sa"
+      "domain": "saudi.net.sa"
     }
   }
 ]

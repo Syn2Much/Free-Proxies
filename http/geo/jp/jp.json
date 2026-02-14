@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://43.167.193.58:3128",
-    "tested_at": "2026-02-14T08:04:09Z",
-    "ip": "43.167.193.58",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Shibuya City",
-    "latitude": 35.6549037,
-    "longitude": 139.6945698,
-    "is_eu": false,
-    "postal": "150-0036",
-    "connection": {
-      "asn": 132203,
-      "org": "ACEVILLE PTE.LTD.",
-      "isp": "Shenzhen Tencent Computer Systems Company Limited",
-      "domain": "tencent.com"
-    }
-  },
-  {
     "proxy": "http://8.209.255.13:3128",
-    "tested_at": "2026-02-14T08:04:09Z",
+    "tested_at": "2026-02-14T08:35:24Z",
     "ip": "8.209.255.13",
     "success": true,
     "type": "IPv4",
@@ -46,8 +23,31 @@
     }
   },
   {
+    "proxy": "http://140.227.61.201:3128",
+    "tested_at": "2026-02-14T08:35:35Z",
+    "ip": "140.227.61.201",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Chiyoda",
+    "latitude": 35.6940027,
+    "longitude": 139.7535951,
+    "is_eu": false,
+    "postal": "100-0003",
+    "connection": {
+      "asn": 2514,
+      "org": "Infosphere nttpc Communications, Inc.",
+      "isp": "NTT Pc Communications, Inc.",
+      "domain": "nttpc.co.jp"
+    }
+  },
+  {
     "proxy": "http://150.230.104.3:16728",
-    "tested_at": "2026-02-14T08:04:50Z",
+    "tested_at": "2026-02-14T08:35:42Z",
     "ip": "150.230.104.3",
     "success": true,
     "type": "IPv4",
@@ -66,6 +66,29 @@
       "org": "Oracle Corporation",
       "isp": "Oracle Corporation",
       "domain": "oracle.com"
+    }
+  },
+  {
+    "proxy": "http://157.120.34.237:3128",
+    "tested_at": "2026-02-14T08:36:18Z",
+    "ip": "157.120.34.237",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Minato",
+    "latitude": 35.6580681,
+    "longitude": 139.7515992,
+    "is_eu": false,
+    "postal": "108-0074",
+    "connection": {
+      "asn": 2514,
+      "org": "NTTPCCommunications,Inc.",
+      "isp": "NTT Pc Communications, Inc.",
+      "domain": "nttpc.co.jp"
     }
   }
 ]

@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://213.169.33.10:8001",
-    "tested_at": "2026-02-14T07:33:42Z",
-    "ip": "213.169.33.7",
+    "proxy": "http://5.104.174.199:23500",
+    "tested_at": "2026-02-14T08:35:50Z",
+    "ip": "5.104.174.199",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "region": "Dobrich",
+    "region_code": "08",
+    "city": "Dobrich",
+    "latitude": 43.57259,
+    "longitude": 27.8272606,
+    "is_eu": true,
+    "postal": "9300",
+    "connection": {
+      "asn": 57344,
+      "org": "Dobrudjacable Ltd.",
+      "isp": "Telehouse Ead",
+      "domain": "lir.bg"
+    }
+  },
+  {
+    "proxy": "http://77.238.79.111:8080",
+    "tested_at": "2026-02-14T08:36:08Z",
+    "ip": "77.238.79.111",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +39,10 @@
     "is_eu": true,
     "postal": "1000",
     "connection": {
-      "asn": 8717,
-      "org": "A1 Bulgaria Ead",
-      "isp": "A1 Bulgaria Ead",
-      "domain": "a1.bg"
+      "asn": 39135,
+      "org": "FIBER1",
+      "isp": "Fiber 1 Ltd.",
+      "domain": "fiber1.bg"
     }
   }
 ]

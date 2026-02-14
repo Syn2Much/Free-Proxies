@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://178.252.177.39:3128",
-    "tested_at": "2026-02-14T08:04:30Z",
-    "ip": "178.252.177.36",
+    "proxy": "http://78.157.57.71:3128",
+    "tested_at": "2026-02-14T08:35:54Z",
+    "ip": "78.157.57.71",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "1317947564",
     "connection": {
-      "asn": 51074,
-      "org": "MABNA",
-      "isp": "Gostaresh e ertebatat e Mabna Company private Joint Stock",
-      "domain": "mabnatelecom.com"
+      "asn": 62442,
+      "org": "Dade Samane Fanava Company pjs",
+      "isp": "Dade Samane Fanava Company pjs",
+      "domain": "fanavaraneomid.com"
     }
   }
 ]

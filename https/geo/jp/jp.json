@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "https://47.243.181.85:41419",
+    "tested_at": "2026-02-14T08:35:25Z",
+    "ip": "121.92.16.239",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Toyama Prefecture",
+    "region_code": "16",
+    "city": "Toyama",
+    "latitude": 36.6959518,
+    "longitude": 137.2136768,
+    "is_eu": false,
+    "postal": "930-0004",
+    "connection": {
+      "asn": 150359,
+      "org": "Cable Television Toyama Inc.",
+      "isp": "Cable Television Toyama Inc.",
+      "domain": "ctt.ne.jp"
+    }
+  },
+  {
     "proxy": "https://103.100.159.145:443",
-    "tested_at": "2026-02-14T08:04:09Z",
+    "tested_at": "2026-02-14T08:35:27Z",
     "ip": "103.100.159.145",
     "success": true,
     "type": "IPv4",
@@ -23,31 +46,77 @@
     }
   },
   {
-    "proxy": "https://47.243.181.85:41410",
-    "tested_at": "2026-02-14T08:04:10Z",
-    "ip": "121.84.192.181",
+    "proxy": "https://47.243.181.85:41400",
+    "tested_at": "2026-02-14T08:35:33Z",
+    "ip": "124.154.252.234",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Japan",
     "country_code": "JP",
-    "region": "Kyoto Prefecture",
-    "region_code": "26",
-    "city": "Maizuru",
-    "latitude": 35.4747971,
-    "longitude": 135.3859918,
+    "region": "Okayama Prefecture",
+    "region_code": "33",
+    "city": "Asakuchi",
+    "latitude": 34.5278392,
+    "longitude": 133.5849216,
     "is_eu": false,
-    "postal": "625-8503",
+    "postal": "714-0101",
     "connection": {
-      "asn": 17511,
-      "org": "Optage Inc.",
-      "isp": "Optage Inc.",
-      "domain": "optage.co.jp"
+      "asn": 2514,
+      "org": "Infosphere nttpc Communications, Inc.",
+      "isp": "NTT Pc Communications, Inc.",
+      "domain": "nttpc.ne.jp"
+    }
+  },
+  {
+    "proxy": "https://37.120.210.146:9443",
+    "tested_at": "2026-02-14T08:35:34Z",
+    "ip": "37.120.210.152",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
+    "is_eu": false,
+    "postal": "100-0002",
+    "connection": {
+      "asn": 9009,
+      "org": "M LTD Tokyo Infrastructure",
+      "isp": "M Europe SRL",
+      "domain": "m247.ro"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41399",
+    "tested_at": "2026-02-14T08:35:34Z",
+    "ip": "222.9.31.184",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Aichi Prefecture",
+    "region_code": "23",
+    "city": "Nishio",
+    "latitude": 34.8619367,
+    "longitude": 137.0618498,
+    "is_eu": false,
+    "postal": "445-0071",
+    "connection": {
+      "asn": 18126,
+      "org": "Chubu Telecommunications CO.,INC.",
+      "isp": "Chubu Telecommunications CO.,INC.",
+      "domain": "ctc.co.jp"
     }
   },
   {
     "proxy": "https://20.78.213.56:443",
-    "tested_at": "2026-02-14T08:04:20Z",
+    "tested_at": "2026-02-14T08:36:15Z",
     "ip": "20.78.213.56",
     "success": true,
     "type": "IPv4",
@@ -66,52 +135,6 @@
       "org": "Microsoft Corporation",
       "isp": "Microsoft Corporation",
       "domain": "microsoft.com"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41402",
-    "tested_at": "2026-02-14T08:04:41Z",
-    "ip": "2001:268:c20a:8021:a9c2:f17c:b2e9:1814",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
-    "is_eu": false,
-    "postal": "100-0002",
-    "connection": {
-      "asn": 2516,
-      "org": "KDDI CORPORATION",
-      "isp": "KDDI CORPORATION",
-      "domain": "kddi.com"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41399",
-    "tested_at": "2026-02-14T08:04:44Z",
-    "ip": "106.166.138.103",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Ibaraki Prefecture",
-    "region_code": "08",
-    "city": "Tsukuba",
-    "latitude": 36.0834857,
-    "longitude": 140.0766423,
-    "is_eu": false,
-    "postal": "305-8555",
-    "connection": {
-      "asn": 2516,
-      "org": "KDDI CORPORATION",
-      "isp": "KDDI CORPORATION",
-      "domain": "kddi.com"
     }
   }
 ]

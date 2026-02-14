@@ -1,7 +1,53 @@
 [
   {
+    "proxy": "https://47.243.181.85:41797",
+    "tested_at": "2026-02-14T08:35:25Z",
+    "ip": "2804:40e4:f2f5:100:f8c9:41f9:466f:6902",
+    "success": true,
+    "type": "IPv6",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of São Paulo",
+    "region_code": "SP",
+    "city": "Osvaldo Cruz",
+    "latitude": -21.7972251,
+    "longitude": -50.879763,
+    "is_eu": false,
+    "postal": "17700-000",
+    "connection": {
+      "asn": 265989,
+      "org": "GARCIA TELECOMUNICACOES LTDA",
+      "isp": "GARCIA TELECOMUNICACOES LTDA",
+      "domain": "garciatelecomunicacoes.com.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41799",
+    "tested_at": "2026-02-14T08:35:45Z",
+    "ip": "191.5.116.106",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of São Paulo",
+    "region_code": "SP",
+    "city": "Olímpia",
+    "latitude": -20.7371116,
+    "longitude": -48.9110606,
+    "is_eu": false,
+    "postal": "15400-002",
+    "connection": {
+      "asn": 263537,
+      "org": "Via Fibra Internet Banda Larga Eireli",
+      "isp": "Via Fibra Internet Banda Larga Eireli",
+      "domain": "viafibraprovedor.com.br"
+    }
+  },
+  {
     "proxy": "https://134.65.238.25:3128",
-    "tested_at": "2026-02-14T08:04:10Z",
+    "tested_at": "2026-02-14T08:35:47Z",
     "ip": "134.65.238.25",
     "success": true,
     "type": "IPv4",
@@ -23,32 +69,32 @@
     }
   },
   {
-    "proxy": "https://47.243.181.85:41803",
-    "tested_at": "2026-02-14T08:04:11Z",
-    "ip": "186.219.149.42",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of São Paulo",
-    "region_code": "SP",
-    "city": "São João da Boa Vista",
-    "latitude": -21.9707138,
-    "longitude": -46.7953572,
-    "is_eu": false,
-    "postal": "13870-590",
-    "connection": {
-      "asn": 262992,
-      "org": "Alares Cabo Servicos De Telecomunicacoes S.A.",
-      "isp": "CONEXAO SERVICOS DE COMUNICACAO MULTIMIDIA LTDA ME",
-      "domain": "alaresinternet.com.br"
-    }
-  },
-  {
     "proxy": "https://47.243.181.85:41804",
-    "tested_at": "2026-02-14T08:04:21Z",
-    "ip": "45.190.115.169",
+    "tested_at": "2026-02-14T08:36:06Z",
+    "ip": "2804:29b8:50e6:ecbd:c4c4:4721:d3a8:e246",
+    "success": true,
+    "type": "IPv6",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "Rio Grande do Norte",
+    "region_code": "RN",
+    "city": "Macaíba",
+    "latitude": -5.8708834,
+    "longitude": -35.341411,
+    "is_eu": false,
+    "postal": "59280-000",
+    "connection": {
+      "asn": 28126,
+      "org": "BRISANET SERVICOS DE TELECOMUNICACOES S.A",
+      "isp": "BRISANET SERVICOS DE TELECOMUNICACOES S.A",
+      "domain": "grupobrisanet.com.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41795",
+    "tested_at": "2026-02-14T08:36:16Z",
+    "ip": "170.83.43.71",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -56,22 +102,22 @@
     "country_code": "BR",
     "region": "State of São Paulo",
     "region_code": "SP",
-    "city": "Taciba",
-    "latitude": -22.3905362,
-    "longitude": -51.2900373,
+    "city": "Campinas",
+    "latitude": -22.9099384,
+    "longitude": -47.0626332,
     "is_eu": false,
-    "postal": "19590-000",
+    "postal": "13010-151",
     "connection": {
-      "asn": 269641,
-      "org": "INSNET TELECOMUNICACOES LTDA",
-      "isp": "RURALNET BRASIL",
-      "domain": "ruralnetbrasil.com.br"
+      "asn": 266462,
+      "org": "Sw Telecomunica es E Inform tica Itu Ltda. Me",
+      "isp": "Sw Telecomunica es E Inform tica Itu Ltda. Me",
+      "domain": "swtelecom.com.br"
     }
   },
   {
-    "proxy": "https://47.243.181.85:41797",
-    "tested_at": "2026-02-14T08:04:31Z",
-    "ip": "190.180.172.119",
+    "proxy": "https://47.243.181.85:41803",
+    "tested_at": "2026-02-14T08:36:16Z",
+    "ip": "191.243.148.144",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -79,62 +125,16 @@
     "country_code": "BR",
     "region": "State of Rio de Janeiro",
     "region_code": "RJ",
-    "city": "Campos",
-    "latitude": -21.7614561,
-    "longitude": -41.3167841,
+    "city": "Volta Redonda",
+    "latitude": -22.4871853,
+    "longitude": -44.0770134,
     "is_eu": false,
-    "postal": "28010-025",
+    "postal": "27255-430",
     "connection": {
-      "asn": 52993,
-      "org": "Ver TV Comunica es LTDA",
-      "isp": "Ver TV Comunica es LTDA",
-      "domain": "vertv.com.br"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41795",
-    "tested_at": "2026-02-14T08:04:31Z",
-    "ip": "179.0.162.188",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "Maranhão",
-    "region_code": "MA",
-    "city": "Mururu",
-    "latitude": -4.3858612,
-    "longitude": -45.1952737,
-    "is_eu": false,
-    "postal": "65715-000",
-    "connection": {
-      "asn": 270832,
-      "org": "K C TELECOM LTDA",
-      "isp": "K C TELECOM LTDA",
-      "domain": "absnetma.com.br"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41799",
-    "tested_at": "2026-02-14T08:04:33Z",
-    "ip": "186.247.85.153",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "Ceará",
-    "region_code": "CE",
-    "city": "Fortaleza",
-    "latitude": -3.7318616,
-    "longitude": -38.5266704,
-    "is_eu": false,
-    "postal": "60060-090",
-    "connection": {
-      "asn": 7738,
-      "org": "Vtal",
-      "isp": "V Tal",
-      "domain": "v-tal.net.br"
+      "asn": 263047,
+      "org": "Linkfull Melhor Fornecedor Dos Provedores",
+      "isp": "Linkfull Melhor Fornecedor Dos Provedores",
+      "domain": "linkfull.com.br"
     }
   }
 ]

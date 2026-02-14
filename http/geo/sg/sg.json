@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://139.159.97.82:10900",
+    "tested_at": "2026-02-14T08:35:32Z",
+    "ip": "164.52.107.81",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Singapore",
+    "country_code": "SG",
+    "region": "Southeast",
+    "region_code": "",
+    "city": "Singapore",
+    "latitude": 1.3553794,
+    "longitude": 103.8677444,
+    "is_eu": false,
+    "postal": "550304",
+    "connection": {
+      "asn": 63199,
+      "org": "UCUL SG",
+      "isp": "Cds Global Cloud Co., LTD",
+      "domain": "urbanconnectedcloud.com"
+    }
+  },
+  {
     "proxy": "http://217.217.254.94:8080",
-    "tested_at": "2026-02-14T08:04:09Z",
+    "tested_at": "2026-02-14T08:35:44Z",
     "ip": "217.217.254.94",
     "success": true,
     "type": "IPv4",
@@ -23,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://47.74.226.8:5001",
-    "tested_at": "2026-02-14T08:04:20Z",
-    "ip": "47.74.226.8",
+    "proxy": "http://72.10.160.171:23409",
+    "tested_at": "2026-02-14T08:35:54Z",
+    "ip": "116.86.2.87",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -34,38 +57,15 @@
     "region": "Southeast",
     "region_code": "",
     "city": "Singapore",
-    "latitude": 1.3553794,
-    "longitude": 103.8677444,
+    "latitude": 1.3019687,
+    "longitude": 103.8970821,
     "is_eu": false,
-    "postal": "550304",
+    "postal": "439972",
     "connection": {
-      "asn": 45102,
-      "org": "Alibaba Cloud Sg",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibabacloud.com"
-    }
-  },
-  {
-    "proxy": "http://8.219.97.248:80",
-    "tested_at": "2026-02-14T08:04:44Z",
-    "ip": "8.219.64.236",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Singapore",
-    "country_code": "SG",
-    "region": "Southeast",
-    "region_code": "",
-    "city": "Singapore",
-    "latitude": 1.3553794,
-    "longitude": 103.8677444,
-    "is_eu": false,
-    "postal": "550304",
-    "connection": {
-      "asn": 45102,
-      "org": "Alibaba Cloud singapore Private Limited",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibabacloud.com"
+      "asn": 55430,
+      "org": "Starhub Cable Vision LTD",
+      "isp": "Starhub Ltd.",
+      "domain": "starhub.com"
     }
   }
 ]

@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://200.95.184.58:999",
-    "tested_at": "2026-02-14T08:04:30Z",
-    "ip": "200.95.184.146",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Ñuble Region",
-    "region_code": "NB",
-    "city": "Chillán",
-    "latitude": -36.6062618,
-    "longitude": -72.1023351,
-    "is_eu": false,
-    "postal": "3780000",
-    "connection": {
-      "asn": 264859,
-      "org": "Comunicaciones Cablevision Ltda.",
-      "isp": "Comunicaciones Cablevision Ltda.",
-      "domain": "wmnet.cl"
-    }
-  },
-  {
     "proxy": "http://179.57.171.227:999",
-    "tested_at": "2026-02-14T08:04:41Z",
+    "tested_at": "2026-02-14T08:35:35Z",
     "ip": "179.57.171.227",
     "success": true,
     "type": "IPv4",
@@ -38,6 +15,29 @@
     "longitude": -72.2307798,
     "is_eu": false,
     "postal": "493 0611",
+    "connection": {
+      "asn": 14117,
+      "org": "Telefonica del Sur S.A",
+      "isp": "Telefonica Del Sur S.A.",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://201.186.41.170:999",
+    "tested_at": "2026-02-14T08:36:11Z",
+    "ip": "201.186.41.170",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Biobío Region",
+    "region_code": "BI",
+    "city": "Los Ángeles",
+    "latitude": -37.4629159,
+    "longitude": -72.3612251,
+    "is_eu": false,
+    "postal": "90009",
     "connection": {
       "asn": 14117,
       "org": "Telefonica del Sur S.A",
