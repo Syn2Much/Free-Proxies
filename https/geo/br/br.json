@@ -1,77 +1,31 @@
 [
   {
-    "proxy": "https://47.243.181.85:41797",
-    "tested_at": "2026-02-14T05:59:05Z",
-    "ip": "2804:14c:3d87:8070:3c18:958a:a4be:b810",
-    "success": true,
-    "type": "IPv6",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of São Paulo",
-    "region_code": "SP",
-    "city": "Araraquara",
-    "latitude": -21.7848272,
-    "longitude": -48.1786486,
-    "is_eu": false,
-    "postal": "14801-295",
-    "connection": {
-      "asn": 28573,
-      "org": "Claro Nxt Telecomunicacoes LTDA",
-      "isp": "Claro Nxt Telecomunicacoes LTDA",
-      "domain": "claro.com.br"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41799",
-    "tested_at": "2026-02-14T05:59:25Z",
-    "ip": "200.165.172.143",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of Rio de Janeiro",
-    "region_code": "RJ",
-    "city": "Rio de Janeiro",
-    "latitude": -22.9068467,
-    "longitude": -43.1728965,
-    "is_eu": false,
-    "postal": "20270-150",
-    "connection": {
-      "asn": 7738,
-      "org": "V Tal",
-      "isp": "V Tal",
-      "domain": "vtal.com"
-    }
-  },
-  {
     "proxy": "https://47.243.181.85:41803",
-    "tested_at": "2026-02-14T05:59:35Z",
-    "ip": "179.212.12.41",
+    "tested_at": "2026-02-14T06:30:08Z",
+    "ip": "170.254.82.157",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Brazil",
     "country_code": "BR",
-    "region": "State of São Paulo",
-    "region_code": "SP",
-    "city": "São Paulo",
-    "latitude": -23.5505199,
-    "longitude": -46.6333094,
+    "region": "State of Rio de Janeiro",
+    "region_code": "RJ",
+    "city": "Petrópolis",
+    "latitude": -22.5112498,
+    "longitude": -43.1779306,
     "is_eu": false,
-    "postal": "01005-000",
+    "postal": "25685-360",
     "connection": {
-      "asn": 28573,
-      "org": "Claro Nxt Telecomunicacoes LTDA",
-      "isp": "Claro Nxt Telecomunicacoes LTDA",
-      "domain": "claro.com.br"
+      "asn": 265100,
+      "org": "Fsi Telecomunicacoes LTDA",
+      "isp": "Fsi Telecomunicacoes LTDA",
+      "domain": "fsitelecom.com.br"
     }
   },
   {
-    "proxy": "https://47.243.181.85:41795",
-    "tested_at": "2026-02-14T05:59:36Z",
-    "ip": "192.141.113.73",
+    "proxy": "https://47.243.181.85:41797",
+    "tested_at": "2026-02-14T06:30:18Z",
+    "ip": "45.165.103.157",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -85,15 +39,15 @@
     "is_eu": false,
     "postal": "20270-150",
     "connection": {
-      "asn": 267463,
-      "org": "ALL CONECTA INTERNET LTDA ME",
-      "isp": "ALL CONECTA INTERNET LTDA ME",
-      "domain": "allconecta.com.br"
+      "asn": 268675,
+      "org": "Web Fiber Provedor Telecom Acesso A Redes De Inter",
+      "isp": "Web Fiber Provedor Telecom Acesso A Redes De Inter",
+      "domain": "webfiberprovedor.com.br"
     }
   },
   {
     "proxy": "https://134.65.238.25:3128",
-    "tested_at": "2026-02-14T05:59:36Z",
+    "tested_at": "2026-02-14T06:30:18Z",
     "ip": "134.65.238.25",
     "success": true,
     "type": "IPv4",
@@ -112,6 +66,75 @@
       "org": "Oracle Corporation",
       "isp": "Oracle Corporation",
       "domain": "oracle.com"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41804",
+    "tested_at": "2026-02-14T06:30:49Z",
+    "ip": "177.74.138.107",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of Rio Grande do Sul",
+    "region_code": "RS",
+    "city": "São Leopoldo",
+    "latitude": -29.7549941,
+    "longitude": -51.150283,
+    "is_eu": false,
+    "postal": "93110-351",
+    "connection": {
+      "asn": 263648,
+      "org": "PONTOCOMNET SERVI OS DE INTERNET LTDA",
+      "isp": "PONTOCOMNET SERVI OS DE INTERNET LTDA",
+      "domain": "pontocomnet.info"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41799",
+    "tested_at": "2026-02-14T06:30:59Z",
+    "ip": "45.179.157.40",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "Goiás",
+    "region_code": "GO",
+    "city": "Águas Lindas de Goiás",
+    "latitude": -15.7501526,
+    "longitude": -48.2820348,
+    "is_eu": false,
+    "postal": "72910-000",
+    "connection": {
+      "asn": 269097,
+      "org": "CYBERNET LTDA",
+      "isp": "CYBERNET LTDA",
+      "domain": "grupocybernet.com.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41795",
+    "tested_at": "2026-02-14T06:31:00Z",
+    "ip": "187.109.130.147",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of São Paulo",
+    "region_code": "SP",
+    "city": "Matão",
+    "latitude": -21.6012678,
+    "longitude": -48.3613567,
+    "is_eu": false,
+    "postal": "15990-190",
+    "connection": {
+      "asn": 28668,
+      "org": "Desktop Sigmanet Comunica o Multim dia SA",
+      "isp": "Desktop Sigmanet Comunica o Multim dia SA",
+      "domain": "desktop.net.br"
     }
   }
 ]

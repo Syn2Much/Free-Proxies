@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://118.163.13.200:8080",
-    "tested_at": "2026-02-14T05:59:19Z",
-    "ip": "118.163.13.200",
+    "proxy": "http://210.61.216.63:60808",
+    "tested_at": "2026-02-14T06:30:20Z",
+    "ip": "114.45.134.60",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://210.61.216.63:60808",
-    "tested_at": "2026-02-14T05:59:29Z",
-    "ip": "114.45.134.60",
+    "proxy": "http://211.22.151.163:60808",
+    "tested_at": "2026-02-14T06:31:05Z",
+    "ip": "106.104.177.158",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,10 +39,10 @@
     "is_eu": false,
     "postal": "11008",
     "connection": {
-      "asn": 3462,
-      "org": "Chunghwa Telecom CO.,LTD.",
-      "isp": "Chunghwa Telecom Co., Ltd.",
-      "domain": "cht.com.tw"
+      "asn": 4780,
+      "org": "New Century Infocomm Tech. Co., Ltd.",
+      "isp": "Digital United Inc.",
+      "domain": "seed.net.tw"
     }
   }
 ]

@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://155.93.96.210:8080",
+    "tested_at": "2026-02-14T06:30:07Z",
+    "ip": "155.93.96.210",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "region": "Lagos",
+    "region_code": "LA",
+    "city": "Lagos",
+    "latitude": 6.5873161,
+    "longitude": 3.3785711,
+    "is_eu": false,
+    "postal": "8600-000",
+    "connection": {
+      "asn": 16284,
+      "org": "Inq. Digital Nigeria",
+      "isp": "Inq. Digital Nigeria",
+      "domain": "inq.inc"
+    }
+  },
+  {
     "proxy": "http://102.221.238.238:8080",
-    "tested_at": "2026-02-14T05:59:06Z",
+    "tested_at": "2026-02-14T06:30:19Z",
     "ip": "102.221.238.238",
     "success": true,
     "type": "IPv4",

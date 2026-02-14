@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://85.9.87.26:8080",
-    "tested_at": "2026-02-14T04:56:29Z",
-    "ip": "85.9.87.26",
+    "proxy": "http://5.202.191.225:8080",
+    "tested_at": "2026-02-14T06:30:08Z",
+    "ip": "5.202.191.225",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,16 +16,16 @@
     "is_eu": false,
     "postal": "1317947564",
     "connection": {
-      "asn": 47376,
-      "org": "Pishgaman",
-      "isp": "Web Gostaran Bandar Company pjs",
-      "domain": "pishgaman.net"
+      "asn": 49100,
+      "org": "PTE",
+      "isp": "Pishgaman Toseeh Ertebatat Company private Joint Stock",
+      "domain": "goledu.ir"
     }
   },
   {
-    "proxy": "http://178.252.177.39:3128",
-    "tested_at": "2026-02-14T04:56:41Z",
-    "ip": "178.252.177.36",
+    "proxy": "http://178.252.134.188:3128",
+    "tested_at": "2026-02-14T06:30:56Z",
+    "ip": "178.252.134.188",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",

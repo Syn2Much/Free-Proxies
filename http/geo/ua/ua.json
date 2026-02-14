@@ -1,8 +1,54 @@
 [
   {
-    "proxy": "http://185.218.202.182:8080",
-    "tested_at": "2026-02-14T05:58:55Z",
-    "ip": "185.218.202.182",
+    "proxy": "http://176.32.2.193:8080",
+    "tested_at": "2026-02-14T06:30:17Z",
+    "ip": "176.32.2.193",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Khmelnytskyi Oblast",
+    "region_code": "68",
+    "city": "Kam'yanets'-Podil's'kyi",
+    "latitude": 48.6967162,
+    "longitude": 26.5825364,
+    "is_eu": false,
+    "postal": "32320",
+    "connection": {
+      "asn": 49332,
+      "org": "Lanet Network LTD",
+      "isp": "Lanet Network LTD",
+      "domain": "lanet.ua"
+    }
+  },
+  {
+    "proxy": "http://178.251.111.20:8080",
+    "tested_at": "2026-02-14T06:30:19Z",
+    "ip": "178.251.111.18",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Sumy Oblast",
+    "region_code": "59",
+    "city": "Konotop",
+    "latitude": 51.2409432,
+    "longitude": 33.2050521,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 35297,
+      "org": "Dataline LLC",
+      "isp": "Dataline LLC",
+      "domain": "dataline.ua"
+    }
+  },
+  {
+    "proxy": "http://195.34.91.67:8080",
+    "tested_at": "2026-02-14T06:30:22Z",
+    "ip": "195.34.91.67",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,44 +56,21 @@
     "country_code": "UA",
     "region": "Kyiv Oblast",
     "region_code": "32",
-    "city": "Hostomel'",
-    "latitude": 50.579141,
-    "longitude": 30.2150743,
+    "city": "Boyarka",
+    "latitude": 50.317117,
+    "longitude": 30.298167,
     "is_eu": false,
-    "postal": "08290",
+    "postal": "08150",
     "connection": {
-      "asn": 45017,
-      "org": "Dominet LLC",
-      "isp": "DOMINET LLC",
-      "domain": "dominet.com.ua"
-    }
-  },
-  {
-    "proxy": "http://176.37.21.46:41890",
-    "tested_at": "2026-02-14T05:59:06Z",
-    "ip": "176.37.21.46",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Kyiv city",
-    "region_code": "30",
-    "city": "Kyiv",
-    "latitude": 50.4501,
-    "longitude": 30.5234,
-    "is_eu": false,
-    "postal": "01001",
-    "connection": {
-      "asn": 39608,
-      "org": "Lanet Network LTD",
-      "isp": "Lanet Network LTD",
-      "domain": "lanet.ua"
+      "asn": 25514,
+      "org": "Modus global LLC",
+      "isp": "Modus global LLC",
+      "domain": "maximuma.net"
     }
   },
   {
     "proxy": "http://91.238.104.171:2023",
-    "tested_at": "2026-02-14T05:59:07Z",
+    "tested_at": "2026-02-14T06:30:28Z",
     "ip": "91.238.104.171",
     "success": true,
     "type": "IPv4",
@@ -69,32 +92,9 @@
     }
   },
   {
-    "proxy": "http://77.52.187.196:18080",
-    "tested_at": "2026-02-14T05:59:14Z",
-    "ip": "77.52.187.196",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Dnipropetrovsk Oblast",
-    "region_code": "12",
-    "city": "Shyroke",
-    "latitude": 47.693307,
-    "longitude": 33.2682606,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 21497,
-      "org": "Prjsc Vf Ukraine",
-      "isp": "Prjsc Vf Ukraine",
-      "domain": "vodafone.ua"
-    }
-  },
-  {
-    "proxy": "http://31.134.120.124:1214",
-    "tested_at": "2026-02-14T05:59:45Z",
-    "ip": "31.134.120.124",
+    "proxy": "http://176.37.21.46:41890",
+    "tested_at": "2026-02-14T06:30:31Z",
+    "ip": "176.37.21.46",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -108,10 +108,10 @@
     "is_eu": false,
     "postal": "01001",
     "connection": {
-      "asn": 56668,
-      "org": "Fop Demchuk Sergiy Olexandrovuch",
-      "isp": "Fop Demchuk Sergiy Olexandrovuch",
-      "domain": "simnet.kiev.ua"
+      "asn": 39608,
+      "org": "Lanet Network LTD",
+      "isp": "Lanet Network LTD",
+      "domain": "lanet.ua"
     }
   }
 ]

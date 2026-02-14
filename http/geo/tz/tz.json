@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://41.93.63.66:8080",
-    "tested_at": "2026-02-14T02:51:31Z",
-    "ip": "41.93.63.66",
+    "proxy": "http://154.0.153.10:8080",
+    "tested_at": "2026-02-14T06:30:42Z",
+    "ip": "154.0.153.10",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Tanzania",
     "country_code": "TZ",
-    "region": "Coastal Zone",
-    "region_code": "",
-    "city": "Dar es Salaam",
-    "latitude": -6.792354,
-    "longitude": 39.2083284,
+    "region": "Mwanza",
+    "region_code": "18",
+    "city": "Mwanza",
+    "latitude": -2.5164305,
+    "longitude": 32.9174517,
     "is_eu": false,
-    "postal": "11101",
+    "postal": "33214",
     "connection": {
-      "asn": 37182,
-      "org": "Tanzania Education And Research Network",
-      "isp": "Tanzania Education And Research Network",
-      "domain": "ternet.or.tz"
+      "asn": 36909,
+      "org": "Habari Node Public Limited",
+      "isp": "Habari Node Public Limited",
+      "domain": "habari.co.tz"
     }
   }
 ]

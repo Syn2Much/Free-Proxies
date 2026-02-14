@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://72.10.160.172:5837",
-    "tested_at": "2026-02-14T02:51:29Z",
-    "ip": "61.245.170.95",
+    "proxy": "http://192.248.95.98:54126",
+    "tested_at": "2026-02-14T06:31:05Z",
+    "ip": "192.248.95.22",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Sri Lanka",
     "country_code": "LK",
-    "region": "Western Province",
-    "region_code": "1",
-    "city": "Colombo",
-    "latitude": 6.9270786,
-    "longitude": 79.861243,
+    "region": "North Central Province",
+    "region_code": "7",
+    "city": "Anuradhapura",
+    "latitude": 8.3113518,
+    "longitude": 80.4036508,
     "is_eu": false,
-    "postal": "83400-000",
+    "postal": "50000",
     "connection": {
-      "asn": 45356,
-      "org": "Mobitel Pvt LTD",
-      "isp": "Mobitel Pvt LTD",
-      "domain": "mobitel.lk"
+      "asn": 38229,
+      "org": "Lanka Education And Research Network",
+      "isp": "Lanka Education And Research Network",
+      "domain": "learn.ac.lk"
     }
   }
 ]

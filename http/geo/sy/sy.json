@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://139.28.48.39:8080",
-    "tested_at": "2026-02-14T05:59:07Z",
-    "ip": "139.28.48.39",
+    "proxy": "http://212.108.115.39:8080",
+    "tested_at": "2026-02-14T06:30:11Z",
+    "ip": "212.108.115.39",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -17,15 +17,15 @@
     "postal": "2277",
     "connection": {
       "asn": 216472,
-      "org": "Telecom Sy",
+      "org": "TELECOME SY",
       "isp": "High Speed For Internet Services L.L.C",
-      "domain": "highspeed-sy.com"
+      "domain": "kaer.technology"
     }
   },
   {
-    "proxy": "http://164.138.205.67:8080",
-    "tested_at": "2026-02-14T05:59:41Z",
-    "ip": "164.138.205.67",
+    "proxy": "http://212.108.115.195:8080",
+    "tested_at": "2026-02-14T06:30:28Z",
+    "ip": "212.108.115.195",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -40,9 +40,55 @@
     "postal": "2277",
     "connection": {
       "asn": 216472,
-      "org": "Telecom Sy",
+      "org": "TELECOME SY",
       "isp": "High Speed For Internet Services L.L.C",
       "domain": "kaer.technology"
+    }
+  },
+  {
+    "proxy": "http://89.43.133.174:8080",
+    "tested_at": "2026-02-14T06:30:45Z",
+    "ip": "89.43.133.174",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Syria",
+    "country_code": "SY",
+    "region": "Idlib Governorate",
+    "region_code": "ID",
+    "city": "Idlib",
+    "latitude": 35.9310271,
+    "longitude": 36.6417777,
+    "is_eu": false,
+    "postal": "+96323",
+    "connection": {
+      "asn": 216472,
+      "org": "HU PANTEL INT 00 11",
+      "isp": "High Speed For Internet Services L.L.C",
+      "domain": "turktelekomint.com"
+    }
+  },
+  {
+    "proxy": "http://193.43.140.85:8080",
+    "tested_at": "2026-02-14T06:30:54Z",
+    "ip": "193.43.140.85",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Syria",
+    "country_code": "SY",
+    "region": "Latakia Governorate",
+    "region_code": "LA",
+    "city": "Latakia",
+    "latitude": 35.5407103,
+    "longitude": 35.7952667,
+    "is_eu": false,
+    "postal": "0096341",
+    "connection": {
+      "asn": 29256,
+      "org": "Wafa Telecom J.S.C",
+      "isp": "Syrian Telecommunication Private Closed Joint Stock Company",
+      "domain": "syriantelecom.sy"
     }
   }
 ]

@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "http://188.227.196.62:1080",
-    "tested_at": "2026-02-14T05:59:02Z",
-    "ip": "188.227.196.62",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Québec",
-    "region_code": "QC",
-    "city": "Québec City",
-    "latitude": 46.8138783,
-    "longitude": -71.2079809,
-    "is_eu": false,
-    "postal": "G1R 4S9",
-    "connection": {
-      "asn": 400897,
-      "org": "PetroSky",
-      "isp": "PETROSKY CLOUD LLC",
-      "domain": "abuseradar.com"
-    }
-  },
-  {
-    "proxy": "http://149.56.24.51:3128",
-    "tested_at": "2026-02-14T05:59:20Z",
-    "ip": "2607:5300:61:933::1",
-    "success": true,
-    "type": "IPv6",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Québec",
-    "region_code": "QC",
-    "city": "Beauharnois",
-    "latitude": 45.3150817,
-    "longitude": -73.8779033,
-    "is_eu": false,
-    "postal": "J6N 1W8",
-    "connection": {
-      "asn": 16276,
-      "org": "OVH Hosting, Inc.",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
-    }
-  },
-  {
-    "proxy": "http://143.198.37.6:8888",
-    "tested_at": "2026-02-14T05:59:29Z",
-    "ip": "178.249.214.14",
+    "proxy": "http://85.208.108.43:10808",
+    "tested_at": "2026-02-14T06:30:59Z",
+    "ip": "85.208.108.43",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -62,10 +16,10 @@
     "is_eu": false,
     "postal": "M5H 2N2",
     "connection": {
-      "asn": 212238,
-      "org": "CDNEXT TOR",
-      "isp": "Datacamp Limited",
-      "domain": "datacamp.co.uk"
+      "asn": 53363,
+      "org": "Worktitans B.V.",
+      "isp": "TANGRAM CANADA INC.",
+      "domain": "the.hosting"
     }
   }
 ]

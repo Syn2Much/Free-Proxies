@@ -1,7 +1,53 @@
 [
   {
+    "proxy": "http://47.79.91.116:1122",
+    "tested_at": "2026-02-14T06:30:06Z",
+    "ip": "47.79.91.116",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
+    "is_eu": false,
+    "postal": "100-0002",
+    "connection": {
+      "asn": 45102,
+      "org": "Alibaba Cloud LLC",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibaba-inc.com"
+    }
+  },
+  {
+    "proxy": "http://43.167.193.58:3128",
+    "tested_at": "2026-02-14T06:30:17Z",
+    "ip": "43.167.193.58",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Shibuya City",
+    "latitude": 35.6549037,
+    "longitude": 139.6945698,
+    "is_eu": false,
+    "postal": "150-0036",
+    "connection": {
+      "asn": 132203,
+      "org": "ACEVILLE PTE.LTD.",
+      "isp": "Shenzhen Tencent Computer Systems Company Limited",
+      "domain": "tencent.com"
+    }
+  },
+  {
     "proxy": "http://150.230.104.3:16728",
-    "tested_at": "2026-02-14T05:58:58Z",
+    "tested_at": "2026-02-14T06:30:27Z",
     "ip": "150.230.104.3",
     "success": true,
     "type": "IPv4",
@@ -24,7 +70,7 @@
   },
   {
     "proxy": "http://8.209.255.13:3128",
-    "tested_at": "2026-02-14T05:59:14Z",
+    "tested_at": "2026-02-14T06:30:29Z",
     "ip": "8.209.255.13",
     "success": true,
     "type": "IPv4",
@@ -46,9 +92,9 @@
     }
   },
   {
-    "proxy": "http://43.167.193.58:3128",
-    "tested_at": "2026-02-14T05:59:39Z",
-    "ip": "43.167.193.58",
+    "proxy": "http://47.79.93.202:1122",
+    "tested_at": "2026-02-14T06:31:03Z",
+    "ip": "47.79.93.202",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -56,16 +102,16 @@
     "country_code": "JP",
     "region": "Tokyo",
     "region_code": "13",
-    "city": "Shibuya City",
-    "latitude": 35.6549037,
-    "longitude": 139.6945698,
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
     "is_eu": false,
-    "postal": "150-0036",
+    "postal": "100-0002",
     "connection": {
-      "asn": 132203,
-      "org": "ACEVILLE PTE.LTD.",
-      "isp": "Shenzhen Tencent Computer Systems Company Limited",
-      "domain": "tencent.com"
+      "asn": 45102,
+      "org": "Alibaba Cloud LLC",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibaba-inc.com"
     }
   }
 ]

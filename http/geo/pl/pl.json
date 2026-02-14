@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://212.182.119.149:8080",
-    "tested_at": "2026-02-14T05:59:34Z",
-    "ip": "212.182.119.149",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Poland",
-    "country_code": "PL",
-    "region": "Lublin Voivodeship",
-    "region_code": "06",
-    "city": "Lublin",
-    "latitude": 51.2464536,
-    "longitude": 22.5684463,
-    "is_eu": true,
-    "postal": "20-484",
-    "connection": {
-      "asn": 12346,
-      "org": "Avir Sp. z o.o.",
-      "isp": "non academic part of Lublin MAN",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://192.3.20.150:3128",
-    "tested_at": "2026-02-14T05:59:35Z",
-    "ip": "91.206.169.29",
+    "proxy": "http://78.12.230.52:8995",
+    "tested_at": "2026-02-14T06:30:31Z",
+    "ip": "45.141.215.156",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -46,26 +23,26 @@
     }
   },
   {
-    "proxy": "http://91.150.189.122:30389",
-    "tested_at": "2026-02-14T05:59:35Z",
-    "ip": "91.150.189.122",
+    "proxy": "http://144.31.0.166:3128",
+    "tested_at": "2026-02-14T06:31:05Z",
+    "ip": "144.31.0.166",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Poland",
     "country_code": "PL",
-    "region": "Województwo podkarpackie",
-    "region_code": "18",
-    "city": "Rzeszow",
-    "latitude": 50.0411867,
-    "longitude": 21.9991196,
+    "region": "Masovian Voivodeship",
+    "region_code": "14",
+    "city": "Warsaw",
+    "latitude": 52.2296756,
+    "longitude": 21.0122287,
     "is_eu": true,
-    "postal": "35-001",
+    "postal": "00-110",
     "connection": {
-      "asn": 42673,
-      "org": "Skyware Sp. Z O.O.",
-      "isp": "Skyware Sp. Z O.O.",
-      "domain": "skyware.pl"
+      "asn": 215730,
+      "org": "H NEXUS LTD",
+      "isp": "H NEXUS LTD",
+      "domain": "h2.nexus"
     }
   }
 ]

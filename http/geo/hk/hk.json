@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://101.47.73.135:3128",
-    "tested_at": "2026-02-14T05:58:53Z",
+    "tested_at": "2026-02-14T06:30:28Z",
     "ip": "101.47.73.135",
     "success": true,
     "type": "IPv4",
@@ -24,7 +24,7 @@
   },
   {
     "proxy": "http://160.20.55.235:8080",
-    "tested_at": "2026-02-14T05:58:53Z",
+    "tested_at": "2026-02-14T06:30:28Z",
     "ip": "160.20.55.235",
     "success": true,
     "type": "IPv4",
@@ -43,6 +43,29 @@
       "org": "Datamax Osi Limited",
       "isp": "Gateway Technology Development Company Limited",
       "domain": "datamaxosi.com"
+    }
+  },
+  {
+    "proxy": "http://42.200.125.44:8080",
+    "tested_at": "2026-02-14T06:30:32Z",
+    "ip": "42.200.125.44",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.2799907,
+    "longitude": 114.1587983,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 4760,
+      "org": "Hong Kong Telecommunications hkt Limited Business Internet",
+      "isp": "Pccw Ims Limited",
+      "domain": "imsbiz.com"
     }
   }
 ]

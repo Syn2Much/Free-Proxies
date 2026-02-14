@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://190.61.106.97:8080",
-    "tested_at": "2026-02-14T04:56:31Z",
-    "ip": "190.61.106.97",
+    "proxy": "http://168.228.49.15:8080",
+    "tested_at": "2026-02-14T06:30:09Z",
+    "ip": "168.228.49.15",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Costa Rica",
     "country_code": "CR",
-    "region": "Heredia Province",
-    "region_code": "H",
-    "city": "San Rafael",
-    "latitude": 10.0144716,
-    "longitude": -84.0986459,
+    "region": "Alajuela Province",
+    "region_code": "A",
+    "city": "Quesada",
+    "latitude": 10.3270781,
+    "longitude": -84.4356706,
     "is_eu": false,
-    "postal": "40501",
+    "postal": "21001",
     "connection": {
-      "asn": 52468,
-      "org": "Ufinet Costa Rica, S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
+      "asn": 262145,
+      "org": "Cooperativa De Electrificaci n Rural De San Carlos R.L. coopelesca R.L.",
+      "isp": "Cooperativa De Electrificaci n Rural De San Carlos R.L. coopelesca R.L.",
+      "domain": "coopelesca.co.cr"
     }
   }
 ]

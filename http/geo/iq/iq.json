@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://37.238.63.39:8080",
-    "tested_at": "2026-02-14T05:58:55Z",
-    "ip": "37.237.226.176",
+    "proxy": "http://5.10.230.93:8080",
+    "tested_at": "2026-02-14T06:30:20Z",
+    "ip": "5.10.228.161",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,62 +10,16 @@
     "country_code": "IQ",
     "region": "Baghdad Governorate",
     "region_code": "BG",
-    "city": "Baghdad",
-    "latitude": 33.3128057,
+    "city": "Tarmiyah",
+    "latitude": 33.6732479,
     "longitude": 44.3614875,
     "is_eu": false,
-    "postal": "10001",
+    "postal": "10084",
     "connection": {
-      "asn": 199739,
-      "org": "Earthlink Ltd. Communications internet Services orange",
-      "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
-      "domain": "earthlink.iq"
-    }
-  },
-  {
-    "proxy": "http://185.138.120.109:8080",
-    "tested_at": "2026-02-14T05:58:57Z",
-    "ip": "93.180.217.20",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Iraq",
-    "country_code": "IQ",
-    "region": "Karbala",
-    "region_code": "KA",
-    "city": "Karbala",
-    "latitude": 32.6068464,
-    "longitude": 44.0103922,
-    "is_eu": false,
-    "postal": "56001",
-    "connection": {
-      "asn": 203217,
-      "org": "Horizon Scope Mobile Telecom Wll",
-      "isp": "Horizon Scope Mobile Telecom Wll",
-      "domain": "horizonscope.com"
-    }
-  },
-  {
-    "proxy": "http://37.238.63.44:8080",
-    "tested_at": "2026-02-14T05:59:31Z",
-    "ip": "37.237.229.128",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Iraq",
-    "country_code": "IQ",
-    "region": "Baghdad Governorate",
-    "region_code": "BG",
-    "city": "Baghdad",
-    "latitude": 33.3128057,
-    "longitude": 44.3614875,
-    "is_eu": false,
-    "postal": "10001",
-    "connection": {
-      "asn": 199739,
-      "org": "Earthlink Ltd. Communications internet Services orange",
-      "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
-      "domain": "earthlink.iq"
+      "asn": 3194,
+      "org": "SatGate IQ ISP",
+      "isp": "Satgate Company for Trading of Computers Systems And Communications Appliances Wll",
+      "domain": "satgate-iraq.com"
     }
   }
 ]

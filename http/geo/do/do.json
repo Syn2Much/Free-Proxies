@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://38.156.14.34:999",
-    "tested_at": "2026-02-14T05:58:55Z",
-    "ip": "38.156.14.34",
+    "proxy": "http://38.123.48.50:999",
+    "tested_at": "2026-02-14T06:30:07Z",
+    "ip": "38.123.48.50",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -23,9 +23,147 @@
     }
   },
   {
-    "proxy": "http://170.80.203.46:999",
-    "tested_at": "2026-02-14T05:59:18Z",
-    "ip": "170.80.203.34",
+    "proxy": "http://38.156.235.34:999",
+    "tested_at": "2026-02-14T06:30:08Z",
+    "ip": "38.156.235.34",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "San Pedro de Macoris",
+    "region_code": "23",
+    "city": "San Pedro De Macoris",
+    "latitude": 18.4720698,
+    "longitude": -69.2996732,
+    "is_eu": false,
+    "postal": "21000",
+    "connection": {
+      "asn": 272882,
+      "org": "BITNET DOMINICANA, S.R.L.",
+      "isp": "BITNET DOMINICANA, S.R.L.",
+      "domain": "bitnet.com.do"
+    }
+  },
+  {
+    "proxy": "http://38.156.23.225:999",
+    "tested_at": "2026-02-14T06:30:18Z",
+    "ip": "38.156.23.250",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Santiago",
+    "region_code": "25",
+    "city": "Santiago De Los Caballeros",
+    "latitude": 19.4791963,
+    "longitude": -70.6930568,
+    "is_eu": false,
+    "postal": "51000",
+    "connection": {
+      "asn": 64134,
+      "org": "VISNETWORK SRL",
+      "isp": "VISNETWORK SRL",
+      "domain": "visnetworkrd.com"
+    }
+  },
+  {
+    "proxy": "http://190.110.36.195:999",
+    "tested_at": "2026-02-14T06:30:19Z",
+    "ip": "190.110.36.192",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Santiago",
+    "region_code": "25",
+    "city": "Santiago De Los Caballeros",
+    "latitude": 19.4791963,
+    "longitude": -70.6930568,
+    "is_eu": false,
+    "postal": "51000",
+    "connection": {
+      "asn": 271968,
+      "org": "CENTRIC MOBILITY CEMO , S.R.L",
+      "isp": "CENTRIC MOBILITY CEMO , S.R.L",
+      "domain": "cemo.com.do"
+    }
+  },
+  {
+    "proxy": "http://38.159.232.108:999",
+    "tested_at": "2026-02-14T06:30:19Z",
+    "ip": "24.152.49.187",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "La Vega",
+    "region_code": "13",
+    "city": "La Vega",
+    "latitude": 19.2152609,
+    "longitude": -70.5205436,
+    "is_eu": false,
+    "postal": "41000",
+    "connection": {
+      "asn": 269965,
+      "org": "LIGHTWAVE S.R.L",
+      "isp": "LIGHTWAVE S.R.L",
+      "domain": "lightwave.com.do"
+    }
+  },
+  {
+    "proxy": "http://45.225.249.253:8080",
+    "tested_at": "2026-02-14T06:30:27Z",
+    "ip": "45.225.249.253",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Sánchez Ramírez",
+    "region_code": "24",
+    "city": "Cotui",
+    "latitude": 19.058339,
+    "longitude": -70.153032,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 272132,
+      "org": "TELE COTUI, S.R.L.",
+      "isp": "TELE COTUI, S.R.L.",
+      "domain": "telecotui.tv"
+    }
+  },
+  {
+    "proxy": "http://38.159.37.17:999",
+    "tested_at": "2026-02-14T06:30:30Z",
+    "ip": "38.159.37.17",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Distrito Nacional",
+    "region_code": "01",
+    "city": "Santo Domingo",
+    "latitude": 18.4860575,
+    "longitude": -69.9312117,
+    "is_eu": false,
+    "postal": "10119",
+    "connection": {
+      "asn": 271965,
+      "org": "Cogent Communications",
+      "isp": "ORBITEK SRL",
+      "domain": "orbiteksrl.com"
+    }
+  },
+  {
+    "proxy": "http://170.80.203.28:999",
+    "tested_at": "2026-02-14T06:30:32Z",
+    "ip": "170.80.203.2",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -46,32 +184,9 @@
     }
   },
   {
-    "proxy": "http://190.110.35.230:999",
-    "tested_at": "2026-02-14T05:59:21Z",
-    "ip": "168.196.124.138",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Santiago",
-    "region_code": "25",
-    "city": "Santiago De Los Caballeros",
-    "latitude": 19.4791963,
-    "longitude": -70.6930568,
-    "is_eu": false,
-    "postal": "51000",
-    "connection": {
-      "asn": 264821,
-      "org": "COMCAST SRL",
-      "isp": "COMCAST SRL",
-      "domain": "comcast-srl.com"
-    }
-  },
-  {
-    "proxy": "http://38.191.161.178:999",
-    "tested_at": "2026-02-14T05:59:33Z",
-    "ip": "38.191.161.178",
+    "proxy": "http://38.159.37.173:999",
+    "tested_at": "2026-02-14T06:30:58Z",
+    "ip": "38.159.37.170",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -85,33 +200,10 @@
     "is_eu": false,
     "postal": "10119",
     "connection": {
-      "asn": 273180,
-      "org": "Three Networks S.R.L",
-      "isp": "THREE NETWORKS SRL",
-      "domain": "threenetworks.net"
-    }
-  },
-  {
-    "proxy": "http://38.188.247.12:999",
-    "tested_at": "2026-02-14T05:59:43Z",
-    "ip": "38.44.17.142",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Monte Plata",
-    "region_code": "29",
-    "city": "Yamasá",
-    "latitude": 18.7727461,
-    "longitude": -70.0250065,
-    "is_eu": false,
-    "postal": "92000",
-    "connection": {
-      "asn": 272083,
+      "asn": 271965,
       "org": "Cogent Communications",
-      "isp": "REYNOSO, S.R.L.",
-      "domain": "reynosord.com"
+      "isp": "ORBITEK SRL",
+      "domain": "orbiteksrl.com"
     }
   }
 ]

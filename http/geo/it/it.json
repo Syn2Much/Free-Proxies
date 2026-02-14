@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://78.134.20.48:8080",
-    "tested_at": "2026-02-14T05:59:16Z",
-    "ip": "78.134.20.48",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Italy",
-    "country_code": "IT",
-    "region": "Tuscany",
-    "region_code": "52",
-    "city": "Pitigliano",
-    "latitude": 42.6353182,
-    "longitude": 11.6699906,
-    "is_eu": true,
-    "postal": "58017",
-    "connection": {
-      "asn": 35612,
-      "org": "Eolo S.P.A.",
-      "isp": "Eolo S.P.A.",
-      "domain": "eolo.it"
-    }
-  },
-  {
-    "proxy": "http://15.160.134.84:8228",
-    "tested_at": "2026-02-14T05:59:23Z",
-    "ip": "64.190.76.12",
+    "proxy": "http://13.212.222.137:29503",
+    "tested_at": "2026-02-14T06:30:08Z",
+    "ip": "64.190.76.14",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
