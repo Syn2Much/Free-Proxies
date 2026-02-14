@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://82.214.86.82:8080",
-    "tested_at": "2026-02-14T15:54:21Z",
-    "ip": "82.214.86.82",
+    "proxy": "http://217.26.67.57:3180",
+    "tested_at": "2026-02-14T17:22:29Z",
+    "ip": "217.26.67.57",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "11000",
     "connection": {
-      "asn": 25467,
-      "org": "Akton Customer Mina Mar",
-      "isp": "Akton D.O.O.",
-      "domain": "akton.net"
+      "asn": 6700,
+      "org": "VERAT D.O.O",
+      "isp": "Telekom Srbija A.D.",
+      "domain": "telekom.rs"
     }
   }
 ]

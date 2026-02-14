@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://45.5.119.70:999",
-    "tested_at": "2026-02-14T15:53:43Z",
-    "ip": "45.5.119.70",
+    "proxy": "http://190.61.50.93:999",
+    "tested_at": "2026-02-14T17:23:14Z",
+    "ip": "190.61.50.93",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Guatemala",
     "country_code": "GT",
-    "region": "Guatemala Department",
-    "region_code": "GU",
-    "city": "Guatemala City",
-    "latitude": 14.6349149,
-    "longitude": -90.5068824,
+    "region": "Escuintla",
+    "region_code": "ES",
+    "city": "Tiquisate",
+    "latitude": 14.2851374,
+    "longitude": -91.3638041,
     "is_eu": false,
-    "postal": "01004",
+    "postal": "",
     "connection": {
       "asn": 52468,
-      "org": "INFINITUM S.A.",
+      "org": "Ufinet Guatemala S. A.",
       "isp": "UFINET PANAMA S.A.",
-      "domain": "infinitumplus.com.gt"
+      "domain": "ufinet.com"
     }
   }
 ]

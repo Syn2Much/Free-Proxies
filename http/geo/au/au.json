@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://61.29.96.146:8000",
-    "tested_at": "2026-02-14T13:48:58Z",
-    "ip": "61.29.96.146",
+    "proxy": "http://72.10.164.178:4827",
+    "tested_at": "2026-02-14T17:22:43Z",
+    "ip": "101.180.15.1",
     "success": true,
     "type": "IPv4",
     "continent": "Oceania",
     "country": "Australia",
     "country_code": "AU",
-    "region": "Victoria",
-    "region_code": "VIC",
-    "city": "Hawthorn",
-    "latitude": -37.826,
-    "longitude": 145.034,
+    "region": "New South Wales",
+    "region_code": "NSW",
+    "city": "Sydney",
+    "latitude": -33.8688197,
+    "longitude": 151.2092955,
     "is_eu": false,
-    "postal": "3122",
+    "postal": "2000",
     "connection": {
-      "asn": 2764,
-      "org": "Aapt Limited",
-      "isp": "Aapt Limited",
-      "domain": "powertel.co.zw"
+      "asn": 1221,
+      "org": "Telstra Corporation",
+      "isp": "Telstra Limited",
+      "domain": ""
     }
   }
 ]

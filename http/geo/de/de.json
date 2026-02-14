@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://91.107.254.36:2000",
-    "tested_at": "2026-02-14T16:51:07Z",
+    "tested_at": "2026-02-14T17:22:20Z",
     "ip": "2a01:4f8:1c1e:74d6::1",
     "success": true,
     "type": "IPv6",
@@ -23,8 +23,31 @@
     }
   },
   {
+    "proxy": "http://172.86.92.68:31337",
+    "tested_at": "2026-02-14T17:22:20Z",
+    "ip": "2602:fa59:8:83::1",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Hesse",
+    "region_code": "HE",
+    "city": "Frankfurt",
+    "latitude": 50.1109221,
+    "longitude": 8.6821267,
+    "is_eu": true,
+    "postal": "60311",
+    "connection": {
+      "asn": 30823,
+      "org": "Routerhosting LLC",
+      "isp": "Aurologic GmbH",
+      "domain": "cloudzy.com"
+    }
+  },
+  {
     "proxy": "http://47.91.65.23:3128",
-    "tested_at": "2026-02-14T16:51:17Z",
+    "tested_at": "2026-02-14T17:22:46Z",
     "ip": "47.91.65.23",
     "success": true,
     "type": "IPv4",
@@ -46,9 +69,9 @@
     }
   },
   {
-    "proxy": "http://85.234.69.102:3128",
-    "tested_at": "2026-02-14T16:51:38Z",
-    "ip": "85.234.69.102",
+    "proxy": "http://109.91.247.181:8080",
+    "tested_at": "2026-02-14T17:22:47Z",
+    "ip": "109.91.247.181",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -56,22 +79,91 @@
     "country_code": "DE",
     "region": "Hesse",
     "region_code": "HE",
-    "city": "Eschborn",
-    "latitude": 50.1467469,
-    "longitude": 8.5614555,
+    "city": "Darmstadt",
+    "latitude": 49.8728253,
+    "longitude": 8.6511929,
     "is_eu": true,
-    "postal": "65760",
+    "postal": "64283",
     "connection": {
-      "asn": 199524,
-      "org": "G core Labs S.A.",
-      "isp": "G core Labs S.A.",
-      "domain": "gcore.com"
+      "asn": 3209,
+      "org": "Unitymedia Static B B Customer Pool",
+      "isp": "Vodafone GmbH",
+      "domain": "unitymedia.de"
     }
   },
   {
-    "proxy": "http://152.53.136.194:10000",
-    "tested_at": "2026-02-14T16:51:46Z",
-    "ip": "46.114.156.73",
+    "proxy": "http://128.140.118.165:1080",
+    "tested_at": "2026-02-14T17:22:50Z",
+    "ip": "2a01:4f8:c17:162d::1",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Saxony",
+    "region_code": "SN",
+    "city": "Falkenstein",
+    "latitude": 50.4750046,
+    "longitude": 12.3649754,
+    "is_eu": true,
+    "postal": "08324",
+    "connection": {
+      "asn": 24940,
+      "org": "Hetzner Online GmbH",
+      "isp": "Hetzner Online GmbH",
+      "domain": "hetzner.de"
+    }
+  },
+  {
+    "proxy": "http://195.133.64.177:3128",
+    "tested_at": "2026-02-14T17:23:01Z",
+    "ip": "195.133.64.177",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Hesse",
+    "region_code": "HE",
+    "city": "Frankfurt",
+    "latitude": 50.1109221,
+    "longitude": 8.6821267,
+    "is_eu": true,
+    "postal": "60311",
+    "connection": {
+      "asn": 199785,
+      "org": "Cloud Hosting Solutions, Limited.",
+      "isp": "Cloud Hosting Solutions, Limited.",
+      "domain": "chosting.solutions"
+    }
+  },
+  {
+    "proxy": "http://157.230.106.35:8080",
+    "tested_at": "2026-02-14T17:23:05Z",
+    "ip": "157.230.106.35",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Hesse",
+    "region_code": "HE",
+    "city": "Frankfurt",
+    "latitude": 50.1109221,
+    "longitude": 8.6821267,
+    "is_eu": true,
+    "postal": "60311",
+    "connection": {
+      "asn": 14061,
+      "org": "Digitalocean, LLC",
+      "isp": "Digitalocean, LLC",
+      "domain": "digitalocean.com"
+    }
+  },
+  {
+    "proxy": "http://158.101.175.124:5566",
+    "tested_at": "2026-02-14T17:23:13Z",
+    "ip": "185.220.101.54",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -79,16 +171,16 @@
     "country_code": "DE",
     "region": "Brandenburg",
     "region_code": "BB",
-    "city": "Ahrensfelde",
-    "latitude": 52.5817191,
-    "longitude": 13.5747926,
+    "city": "Brandenburg",
+    "latitude": 52.4125287,
+    "longitude": 12.5316444,
     "is_eu": true,
-    "postal": "16356",
+    "postal": "14770",
     "connection": {
-      "asn": 6805,
-      "org": "Telefonica Germany GmbH Co. Ohg",
-      "isp": "Telefonica Germany GmbH Co.ohg",
-      "domain": "telefonica.com"
+      "asn": 60729,
+      "org": "Artikel10 E.V.",
+      "isp": "Stiftung Erneuerbare Freiheit",
+      "domain": "relayon.org"
     }
   }
 ]

@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://65.108.159.129:8081",
+    "tested_at": "2026-02-14T17:22:21Z",
+    "ip": "65.108.159.129",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Finland",
+    "country_code": "FI",
+    "region": "Mainland Finland",
+    "region_code": "",
+    "city": "Helsinki",
+    "latitude": 60.1698557,
+    "longitude": 24.938379,
+    "is_eu": true,
+    "postal": "02101",
+    "connection": {
+      "asn": 24940,
+      "org": "Hetzner Online GmbH",
+      "isp": "Hetzner Online GmbH",
+      "domain": "hetzner.com"
+    }
+  },
+  {
     "proxy": "http://65.108.159.129:3128",
-    "tested_at": "2026-02-14T16:51:09Z",
+    "tested_at": "2026-02-14T17:22:52Z",
     "ip": "65.108.159.129",
     "success": true,
     "type": "IPv4",
@@ -23,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://65.108.159.129:8080",
-    "tested_at": "2026-02-14T16:51:19Z",
-    "ip": "65.108.159.129",
+    "proxy": "http://193.47.60.119:52681",
+    "tested_at": "2026-02-14T17:22:57Z",
+    "ip": "193.47.60.119",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,18 +62,18 @@
     "is_eu": true,
     "postal": "02101",
     "connection": {
-      "asn": 24940,
-      "org": "Hetzner Online GmbH",
-      "isp": "Hetzner Online GmbH",
-      "domain": "hetzner.com"
+      "asn": 41745,
+      "org": "Baykov Ilya Sergeevich",
+      "isp": "Baykov Ilya Sergeevich",
+      "domain": "fortis.host"
     }
   },
   {
-    "proxy": "http://46.209.217.108:8088",
-    "tested_at": "2026-02-14T16:51:45Z",
-    "ip": "95.216.106.61",
+    "proxy": "http://65.21.201.149:8080",
+    "tested_at": "2026-02-14T17:23:01Z",
+    "ip": "2a09:bac1:2500::1d8:1ea",
     "success": true,
-    "type": "IPv4",
+    "type": "IPv6",
     "continent": "Europe",
     "country": "Finland",
     "country_code": "FI",
@@ -62,10 +85,10 @@
     "is_eu": true,
     "postal": "02101",
     "connection": {
-      "asn": 24940,
-      "org": "Hetzner Online GmbH",
-      "isp": "Hetzner Online GmbH",
-      "domain": "hetzner.com"
+      "asn": 13335,
+      "org": "CLOUDFLAREWARP",
+      "isp": "Cloudflare, Inc.",
+      "domain": "cloudflare.com"
     }
   }
 ]

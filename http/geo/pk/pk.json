@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://103.66.149.194:8080",
-    "tested_at": "2026-02-14T16:51:34Z",
+    "tested_at": "2026-02-14T17:22:23Z",
     "ip": "160.30.142.33",
     "success": true,
     "type": "IPv4",
@@ -20,29 +20,6 @@
       "org": "Brain Networks",
       "isp": "Nasstec Airnet Networks Private Limited",
       "domain": "brainnetworks.net.pk"
-    }
-  },
-  {
-    "proxy": "http://103.197.47.42:8080",
-    "tested_at": "2026-02-14T16:51:38Z",
-    "ip": "103.197.47.42",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Pakistan",
-    "country_code": "PK",
-    "region": "Punjab",
-    "region_code": "PB",
-    "city": "Lahore",
-    "latitude": 31.5546061,
-    "longitude": 74.3571581,
-    "is_eu": false,
-    "postal": "54000",
-    "connection": {
-      "asn": 17539,
-      "org": "Netsol Technologies Limited",
-      "isp": "Netsol Connect pvt Limited",
-      "domain": "netsolir.com"
     }
   }
 ]

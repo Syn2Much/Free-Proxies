@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://212.108.115.79:8080",
-    "tested_at": "2026-02-14T16:51:36Z",
-    "ip": "212.108.115.79",
+    "proxy": "http://212.108.115.172:8080",
+    "tested_at": "2026-02-14T17:22:43Z",
+    "ip": "212.108.115.172",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -23,9 +23,32 @@
     }
   },
   {
-    "proxy": "http://212.108.115.83:8080",
-    "tested_at": "2026-02-14T16:51:36Z",
-    "ip": "212.108.115.83",
+    "proxy": "http://193.43.159.163:8080",
+    "tested_at": "2026-02-14T17:22:45Z",
+    "ip": "193.43.159.163",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Syria",
+    "country_code": "SY",
+    "region": "Damascus Governorate",
+    "region_code": "DI",
+    "city": "Damascus",
+    "latitude": 33.5138073,
+    "longitude": 36.2765279,
+    "is_eu": false,
+    "postal": "2277",
+    "connection": {
+      "asn": 29256,
+      "org": "Wafa Telecom J.S.C",
+      "isp": "Syrian Telecommunication Private Closed Joint Stock Company",
+      "domain": "syriantelecom.sy"
+    }
+  },
+  {
+    "proxy": "http://212.108.115.68:8080",
+    "tested_at": "2026-02-14T17:22:48Z",
+    "ip": "212.108.115.68",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -43,6 +66,29 @@
       "org": "TELECOME SY",
       "isp": "High Speed For Internet Services L.L.C",
       "domain": "kaer.technology"
+    }
+  },
+  {
+    "proxy": "http://193.43.145.124:8080",
+    "tested_at": "2026-02-14T17:23:05Z",
+    "ip": "193.43.145.124",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Syria",
+    "country_code": "SY",
+    "region": "Homs Governorate",
+    "region_code": "HI",
+    "city": "Talbiseh",
+    "latitude": 34.8422936,
+    "longitude": 36.7307641,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 29256,
+      "org": "Wafa Telecom J.S.C",
+      "isp": "Syrian Telecommunication Private Closed Joint Stock Company",
+      "domain": "syriantelecom.sy"
     }
   }
 ]

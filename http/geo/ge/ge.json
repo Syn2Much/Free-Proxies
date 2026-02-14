@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://104.238.30.86:63900",
-    "tested_at": "2026-02-14T16:51:12Z",
-    "ip": "104.238.30.86",
+    "proxy": "http://72.56.59.56:63127",
+    "tested_at": "2026-02-14T17:22:21Z",
+    "ip": "72.56.59.56",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Georgia",
+    "country_code": "GE",
+    "region": "Tbilisi",
+    "region_code": "TB",
+    "city": "Tbilisi",
+    "latitude": 41.7151377,
+    "longitude": 44.827096,
+    "is_eu": false,
+    "postal": "0136",
+    "connection": {
+      "asn": 209183,
+      "org": "CLIENT LEASE",
+      "isp": "Akhalinet LLC",
+      "domain": "ulta.team"
+    }
+  },
+  {
+    "proxy": "http://104.238.30.58:63744",
+    "tested_at": "2026-02-14T17:22:21Z",
+    "ip": "104.238.30.58",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -24,7 +47,7 @@
   },
   {
     "proxy": "http://104.238.30.37:59741",
-    "tested_at": "2026-02-14T16:51:19Z",
+    "tested_at": "2026-02-14T17:22:31Z",
     "ip": "104.238.30.37",
     "success": true,
     "type": "IPv4",
@@ -46,9 +69,9 @@
     }
   },
   {
-    "proxy": "http://72.56.50.17:59787",
-    "tested_at": "2026-02-14T16:51:19Z",
-    "ip": "72.56.50.17",
+    "proxy": "http://104.238.30.86:63900",
+    "tested_at": "2026-02-14T17:22:33Z",
+    "ip": "104.238.30.86",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -63,37 +86,37 @@
     "postal": "0136",
     "connection": {
       "asn": 209183,
-      "org": "CLIENT LEASE AkhaliNet",
+      "org": "Akhalinet LLC",
       "isp": "Akhalinet LLC",
-      "domain": "ulta.team"
+      "domain": "akhali.net"
     }
   },
   {
-    "proxy": "http://92.51.97.3:8080",
-    "tested_at": "2026-02-14T16:51:21Z",
-    "ip": "92.51.122.174",
+    "proxy": "http://72.56.59.62:63133",
+    "tested_at": "2026-02-14T17:22:40Z",
+    "ip": "72.56.59.62",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Georgia",
     "country_code": "GE",
-    "region": "Autonomous Republic of Adjara",
-    "region_code": "AJ",
-    "city": "Batumi",
-    "latitude": 41.6167547,
-    "longitude": 41.6367455,
+    "region": "Tbilisi",
+    "region_code": "TB",
+    "city": "Tbilisi",
+    "latitude": 41.7151377,
+    "longitude": 44.827096,
     "is_eu": false,
-    "postal": "6008",
+    "postal": "0136",
     "connection": {
-      "asn": 44327,
-      "org": "INFRA AW",
-      "isp": "DELTA COMM LLC",
-      "domain": "delta-comm.ge"
+      "asn": 209183,
+      "org": "CLIENT LEASE",
+      "isp": "Akhalinet LLC",
+      "domain": "ulta.team"
     }
   },
   {
     "proxy": "http://104.238.30.91:63900",
-    "tested_at": "2026-02-14T16:51:28Z",
+    "tested_at": "2026-02-14T17:22:40Z",
     "ip": "104.238.30.91",
     "success": true,
     "type": "IPv4",
@@ -116,7 +139,7 @@
   },
   {
     "proxy": "http://72.56.59.23:61937",
-    "tested_at": "2026-02-14T16:51:28Z",
+    "tested_at": "2026-02-14T17:22:41Z",
     "ip": "72.56.59.23",
     "success": true,
     "type": "IPv4",
@@ -138,31 +161,8 @@
     }
   },
   {
-    "proxy": "http://104.238.30.58:63744",
-    "tested_at": "2026-02-14T16:51:29Z",
-    "ip": "104.238.30.58",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Georgia",
-    "country_code": "GE",
-    "region": "Tbilisi",
-    "region_code": "TB",
-    "city": "Tbilisi",
-    "latitude": 41.7151377,
-    "longitude": 44.827096,
-    "is_eu": false,
-    "postal": "0136",
-    "connection": {
-      "asn": 209183,
-      "org": "Akhalinet LLC",
-      "isp": "Akhalinet LLC",
-      "domain": "akhali.net"
-    }
-  },
-  {
     "proxy": "http://72.56.59.17:61931",
-    "tested_at": "2026-02-14T16:51:31Z",
+    "tested_at": "2026-02-14T17:22:51Z",
     "ip": "72.56.59.17",
     "success": true,
     "type": "IPv4",
@@ -184,9 +184,9 @@
     }
   },
   {
-    "proxy": "http://72.56.59.62:63133",
-    "tested_at": "2026-02-14T16:51:33Z",
-    "ip": "72.56.59.62",
+    "proxy": "http://72.56.50.17:59787",
+    "tested_at": "2026-02-14T17:22:54Z",
+    "ip": "72.56.50.17",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -201,15 +201,15 @@
     "postal": "0136",
     "connection": {
       "asn": 209183,
-      "org": "CLIENT LEASE",
+      "org": "CLIENT LEASE AkhaliNet",
       "isp": "Akhalinet LLC",
       "domain": "ulta.team"
     }
   },
   {
-    "proxy": "http://72.56.59.56:63127",
-    "tested_at": "2026-02-14T16:51:48Z",
-    "ip": "72.56.59.56",
+    "proxy": "http://2.57.218.130:8080",
+    "tested_at": "2026-02-14T17:23:06Z",
+    "ip": "2.57.218.130",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -223,33 +223,10 @@
     "is_eu": false,
     "postal": "0136",
     "connection": {
-      "asn": 209183,
-      "org": "CLIENT LEASE",
-      "isp": "Akhalinet LLC",
-      "domain": "ulta.team"
-    }
-  },
-  {
-    "proxy": "http://92.51.122.174:8080",
-    "tested_at": "2026-02-14T16:51:51Z",
-    "ip": "92.51.122.174",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Georgia",
-    "country_code": "GE",
-    "region": "Autonomous Republic of Adjara",
-    "region_code": "AJ",
-    "city": "Batumi",
-    "latitude": 41.6167547,
-    "longitude": 41.6367455,
-    "is_eu": false,
-    "postal": "6008",
-    "connection": {
-      "asn": 44327,
-      "org": "INFRA AW",
-      "isp": "DELTA COMM LLC",
-      "domain": "delta-comm.ge"
+      "asn": 209012,
+      "org": "GE MULTISOFT 01 0 0 CORE",
+      "isp": "MULTISOFT LLC",
+      "domain": "multisoftllc.com"
     }
   }
 ]

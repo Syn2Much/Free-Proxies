@@ -1,77 +1,8 @@
 [
   {
-    "proxy": "http://38.224.32.186:999",
-    "tested_at": "2026-02-14T16:51:11Z",
-    "ip": "38.224.32.130",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Trujillo State",
-    "region_code": "T",
-    "city": "Boconó",
-    "latitude": 9.2534438,
-    "longitude": -70.2497616,
-    "is_eu": false,
-    "postal": "3103",
-    "connection": {
-      "asn": 273007,
-      "org": "Cogent Communications",
-      "isp": "SPEEDNET, C.A",
-      "domain": "fiven.com.ve"
-    }
-  },
-  {
-    "proxy": "http://138.59.10.112:999",
-    "tested_at": "2026-02-14T16:51:32Z",
-    "ip": "138.59.10.10",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Carabobo State",
-    "region_code": "G",
-    "city": "Valencia",
-    "latitude": 10.1579312,
-    "longitude": -67.9972104,
-    "is_eu": false,
-    "postal": "2001",
-    "connection": {
-      "asn": 269788,
-      "org": "Fonet",
-      "isp": "DISTRIBUIDORA OFIC TECH DE VENEZUELA C.A.",
-      "domain": "fonet.com.ve"
-    }
-  },
-  {
-    "proxy": "http://190.97.254.180:8080",
-    "tested_at": "2026-02-14T16:51:33Z",
-    "ip": "190.97.254.154",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Tachira State",
-    "region_code": "S",
-    "city": "San Cristobal",
-    "latitude": 7.7713572,
-    "longitude": -72.2261466,
-    "is_eu": false,
-    "postal": "5001",
-    "connection": {
-      "asn": 263703,
-      "org": "VIGINET C.A",
-      "isp": "VIGINET C.A",
-      "domain": "viginet.com.ve"
-    }
-  },
-  {
-    "proxy": "http://45.230.169.5:999",
-    "tested_at": "2026-02-14T16:51:37Z",
-    "ip": "45.230.169.5",
+    "proxy": "http://190.94.212.249:999",
+    "tested_at": "2026-02-14T17:22:36Z",
+    "ip": "190.94.212.249",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -82,6 +13,29 @@
     "city": "Caracas",
     "latitude": 10.4805937,
     "longitude": -66.9036063,
+    "is_eu": false,
+    "postal": "1012",
+    "connection": {
+      "asn": 8053,
+      "org": "Ifx Networks Venezuela C.A.",
+      "isp": "Ifx Networks Venezuela C.A.",
+      "domain": "ifxnw.com.ve"
+    }
+  },
+  {
+    "proxy": "http://45.230.170.30:999",
+    "tested_at": "2026-02-14T17:23:01Z",
+    "ip": "45.230.170.30",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Capital District",
+    "region_code": "A",
+    "city": "Caracas",
+    "latitude": 10.4851233,
+    "longitude": -66.7408708,
     "is_eu": false,
     "postal": "1012",
     "connection": {
@@ -92,49 +46,26 @@
     }
   },
   {
-    "proxy": "http://190.94.232.39:999",
-    "tested_at": "2026-02-14T16:51:39Z",
-    "ip": "190.94.232.36",
+    "proxy": "http://200.59.186.158:999",
+    "tested_at": "2026-02-14T17:23:14Z",
+    "ip": "200.59.186.158",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Venezuela",
     "country_code": "VE",
-    "region": "Capital District",
-    "region_code": "A",
-    "city": "Caracas",
-    "latitude": 10.4805937,
-    "longitude": -66.9036063,
+    "region": "Zulia State",
+    "region_code": "V",
+    "city": "San Carlos del Zulia",
+    "latitude": 8.9999952,
+    "longitude": -71.9253141,
     "is_eu": false,
-    "postal": "1012",
+    "postal": "5147",
     "connection": {
-      "asn": 8053,
-      "org": "Ifx Networks Venezuela C.A.",
-      "isp": "Ifx Networks Venezuela C.A.",
-      "domain": "ifxnw.com.ve"
-    }
-  },
-  {
-    "proxy": "http://190.94.213.80:999",
-    "tested_at": "2026-02-14T16:51:51Z",
-    "ip": "190.94.213.80",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Capital District",
-    "region_code": "A",
-    "city": "Caracas",
-    "latitude": 10.4805937,
-    "longitude": -66.9036063,
-    "is_eu": false,
-    "postal": "1012",
-    "connection": {
-      "asn": 8053,
-      "org": "Ifx Networks Venezuela C.A.",
-      "isp": "Ifx Networks Venezuela C.A.",
-      "domain": "ifxnw.com.ve"
+      "asn": 264778,
+      "org": "Totalcom Venezuela C.A.",
+      "isp": "Totalcom Venezuela C.A.",
+      "domain": "totalcom.tel"
     }
   }
 ]

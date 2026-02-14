@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://190.61.116.253:999",
-    "tested_at": "2026-02-14T16:19:51Z",
-    "ip": "190.61.116.250",
+    "proxy": "http://179.49.113.225:999",
+    "tested_at": "2026-02-14T17:22:25Z",
+    "ip": "179.49.113.226",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Honduras",
+    "country_code": "HN",
+    "region": "Ocotepeque",
+    "region_code": "OC",
+    "city": "San Fernando",
+    "latitude": 14.6826072,
+    "longitude": -89.1128205,
+    "is_eu": false,
+    "postal": "1646",
+    "connection": {
+      "asn": 262234,
+      "org": "ASOCIACION DE SERVICIO DE INTERNET S. DE RL.",
+      "isp": "ASOCIACION DE SERVICIO DE INTERNET S. DE RL.",
+      "domain": "asi.hn"
+    }
+  },
+  {
+    "proxy": "http://190.130.6.11:8080",
+    "tested_at": "2026-02-14T17:22:53Z",
+    "ip": "190.130.6.11",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -16,148 +39,10 @@
     "is_eu": false,
     "postal": "12101",
     "connection": {
-      "asn": 52468,
-      "org": "Ufinet Honduras, S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://138.0.228.121:8080",
-    "tested_at": "2026-02-14T16:19:57Z",
-    "ip": "138.0.228.185",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Honduras",
-    "country_code": "HN",
-    "region": "Cortés",
-    "region_code": "CR",
-    "city": "San Pedro Sula",
-    "latitude": 15.5149204,
-    "longitude": -87.9922684,
-    "is_eu": false,
-    "postal": "21101",
-    "connection": {
-      "asn": 263725,
-      "org": "MULTICABLE DE HONDURAS",
-      "isp": "MULTICABLE DE HONDURAS",
-      "domain": "multicable.hn"
-    }
-  },
-  {
-    "proxy": "http://181.78.44.243:999",
-    "tested_at": "2026-02-14T16:20:16Z",
-    "ip": "181.78.44.242",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Honduras",
-    "country_code": "HN",
-    "region": "Cortés",
-    "region_code": "CR",
-    "city": "San Pedro Sula",
-    "latitude": 15.5149204,
-    "longitude": -87.9922684,
-    "is_eu": false,
-    "postal": "21101",
-    "connection": {
-      "asn": 52468,
-      "org": "Ufinet Honduras, S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://181.78.44.63:999",
-    "tested_at": "2026-02-14T16:20:17Z",
-    "ip": "181.78.44.63",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Honduras",
-    "country_code": "HN",
-    "region": "Cortés",
-    "region_code": "CR",
-    "city": "San Pedro Sula",
-    "latitude": 15.5149204,
-    "longitude": -87.9922684,
-    "is_eu": false,
-    "postal": "21101",
-    "connection": {
-      "asn": 52468,
-      "org": "Ufinet Honduras, S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://190.61.116.244:999",
-    "tested_at": "2026-02-14T16:20:23Z",
-    "ip": "190.61.116.242",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Honduras",
-    "country_code": "HN",
-    "region": "Francisco Morazán",
-    "region_code": "FM",
-    "city": "Tegucigalpa",
-    "latitude": 14.0722751,
-    "longitude": -87.192136,
-    "is_eu": false,
-    "postal": "12101",
-    "connection": {
-      "asn": 52468,
-      "org": "Ufinet Honduras, S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://190.185.112.58:999",
-    "tested_at": "2026-02-14T16:20:25Z",
-    "ip": "190.185.112.58",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Honduras",
-    "country_code": "HN",
-    "region": "Cortés",
-    "region_code": "CR",
-    "city": "San Pedro Sula",
-    "latitude": 15.5149204,
-    "longitude": -87.9922684,
-    "is_eu": false,
-    "postal": "21101",
-    "connection": {
-      "asn": 27932,
-      "org": "REYTEL",
-      "isp": "Redes Y Telecomunicaciones",
-      "domain": "reytelhn.net"
-    }
-  },
-  {
-    "proxy": "http://181.115.67.3:999",
-    "tested_at": "2026-02-14T16:20:37Z",
-    "ip": "181.119.101.112",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Honduras",
-    "country_code": "HN",
-    "region": "Francisco Morazán",
-    "region_code": "FM",
-    "city": "Tegucigalpa",
-    "latitude": 14.0722751,
-    "longitude": -87.192136,
-    "is_eu": false,
-    "postal": "12101",
-    "connection": {
-      "asn": 52468,
-      "org": "Ufinet Honduras, S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
+      "asn": 7727,
+      "org": "Hondutel",
+      "isp": "Hondutel",
+      "domain": "hondutel.hn"
     }
   }
 ]

@@ -1,100 +1,8 @@
 [
   {
-    "proxy": "http://8.212.178.171:8080",
-    "tested_at": "2026-02-14T16:51:08Z",
-    "ip": "8.212.178.171",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Philippines",
-    "country_code": "PH",
-    "region": "Metro Manila",
-    "region_code": "NCR",
-    "city": "Manila",
-    "latitude": 14.5995124,
-    "longitude": 120.9842195,
-    "is_eu": false,
-    "postal": "1000",
-    "connection": {
-      "asn": 45102,
-      "org": "Alibaba Cloud Ph",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibaba-inc.com"
-    }
-  },
-  {
-    "proxy": "http://122.52.157.209:8081",
-    "tested_at": "2026-02-14T16:51:15Z",
-    "ip": "122.52.157.209",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Philippines",
-    "country_code": "PH",
-    "region": "Metro Manila",
-    "region_code": "NCR",
-    "city": "Mandaluyong",
-    "latitude": 14.5794443,
-    "longitude": 121.0359174,
-    "is_eu": false,
-    "postal": "1551",
-    "connection": {
-      "asn": 9299,
-      "org": "0 1 THE CHURCH OF JESUS LATTER DAY SAINTS",
-      "isp": "Philippine Long Distance Telephone Co.",
-      "domain": "pldt.com.ph"
-    }
-  },
-  {
-    "proxy": "http://124.104.184.43:8082",
-    "tested_at": "2026-02-14T16:51:16Z",
-    "ip": "124.104.184.43",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Philippines",
-    "country_code": "PH",
-    "region": "Tarlac",
-    "region_code": "TAR",
-    "city": "Bamban",
-    "latitude": 15.2373082,
-    "longitude": 120.4703258,
-    "is_eu": false,
-    "postal": "2317",
-    "connection": {
-      "asn": 9299,
-      "org": "HOME DSL",
-      "isp": "Philippine Long Distance Telephone Co.",
-      "domain": "pldthome.com"
-    }
-  },
-  {
-    "proxy": "http://180.191.16.34:8082",
-    "tested_at": "2026-02-14T16:51:32Z",
-    "ip": "180.191.16.34",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Philippines",
-    "country_code": "PH",
-    "region": "Pangasinan",
-    "region_code": "PAN",
-    "city": "Umingan",
-    "latitude": 15.9292773,
-    "longitude": 120.8334911,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 132199,
-      "org": "GBB SJN IP POOL",
-      "isp": "Globe Telecom Inc.",
-      "domain": "globe.com.ph"
-    }
-  },
-  {
-    "proxy": "http://157.20.143.212:8085",
-    "tested_at": "2026-02-14T16:51:34Z",
-    "ip": "157.20.143.215",
+    "proxy": "http://165.101.102.206:8088",
+    "tested_at": "2026-02-14T17:22:23Z",
+    "ip": "165.101.102.199",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -108,62 +16,16 @@
     "is_eu": false,
     "postal": "1100",
     "connection": {
-      "asn": 152107,
-      "org": "Fiberbro Internet Communication Services Corp.",
-      "isp": "Fiberbro Internet Communication Services Corp.",
-      "domain": "fiberbro.com"
+      "asn": 154002,
+      "org": "iRateNet Solutions",
+      "isp": "iRateNet Solutions",
+      "domain": ""
     }
   },
   {
-    "proxy": "http://112.203.192.108:8080",
-    "tested_at": "2026-02-14T16:51:34Z",
-    "ip": "112.203.192.99",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Philippines",
-    "country_code": "PH",
-    "region": "Metro Manila",
-    "region_code": "NCR",
-    "city": "Manila",
-    "latitude": 14.5995124,
-    "longitude": 120.9842195,
-    "is_eu": false,
-    "postal": "1000",
-    "connection": {
-      "asn": 9299,
-      "org": "Pldt Spcme 0i01 Dhcp",
-      "isp": "Philippine Long Distance Telephone Co.",
-      "domain": "pldt.com.ph"
-    }
-  },
-  {
-    "proxy": "http://119.92.70.182:8181",
-    "tested_at": "2026-02-14T16:51:37Z",
-    "ip": "112.211.74.95",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Philippines",
-    "country_code": "PH",
-    "region": "Cavite",
-    "region_code": "CAV",
-    "city": "Cavite",
-    "latitude": 14.3276984,
-    "longitude": 120.881473,
-    "is_eu": false,
-    "postal": "4107",
-    "connection": {
-      "asn": 9299,
-      "org": "HOME DSL",
-      "isp": "Philippine Long Distance Telephone Co.",
-      "domain": "pldthome.com"
-    }
-  },
-  {
-    "proxy": "http://115.147.165.113:8082",
-    "tested_at": "2026-02-14T16:51:41Z",
-    "ip": "124.107.239.106",
+    "proxy": "http://119.93.81.143:8080",
+    "tested_at": "2026-02-14T17:23:02Z",
+    "ip": "119.93.81.143",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -180,13 +42,36 @@
       "asn": 9299,
       "org": "Philippine Long Distance Telephone Co.",
       "isp": "Philippine Long Distance Telephone Co.",
-      "domain": "pldt.net"
+      "domain": "pldt.com.ph"
     }
   },
   {
-    "proxy": "http://122.52.32.86:8082",
-    "tested_at": "2026-02-14T16:51:44Z",
-    "ip": "122.52.32.86",
+    "proxy": "http://120.28.212.240:5050",
+    "tested_at": "2026-02-14T17:23:02Z",
+    "ip": "120.28.212.240",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Philippines",
+    "country_code": "PH",
+    "region": "Davao Region",
+    "region_code": "11",
+    "city": "Davao City",
+    "latitude": 7.190708,
+    "longitude": 125.455341,
+    "is_eu": false,
+    "postal": "8016",
+    "connection": {
+      "asn": 132199,
+      "org": "GBB VISAYAS",
+      "isp": "Globe Telecom Inc.",
+      "domain": "globe.com.ph"
+    }
+  },
+  {
+    "proxy": "http://180.191.254.10:8081",
+    "tested_at": "2026-02-14T17:23:04Z",
+    "ip": "180.191.254.10",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -194,16 +79,39 @@
     "country_code": "PH",
     "region": "Cavite",
     "region_code": "CAV",
-    "city": "Bacoor",
-    "latitude": 14.4129931,
-    "longitude": 120.9736786,
+    "city": "General Trias",
+    "latitude": 14.3214094,
+    "longitude": 120.907304,
     "is_eu": false,
-    "postal": "4102",
+    "postal": "4107",
+    "connection": {
+      "asn": 132199,
+      "org": "GBB VISMIN IP POOL",
+      "isp": "Globe Telecom Inc.",
+      "domain": "globe.com.ph"
+    }
+  },
+  {
+    "proxy": "http://122.54.147.110:8082",
+    "tested_at": "2026-02-14T17:23:20Z",
+    "ip": "122.54.147.110",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Philippines",
+    "country_code": "PH",
+    "region": "Cavite",
+    "region_code": "CAV",
+    "city": "Trece Martires",
+    "latitude": 14.2866478,
+    "longitude": 120.8613785,
+    "is_eu": false,
+    "postal": "4109",
     "connection": {
       "asn": 9299,
-      "org": "HOME DSL",
+      "org": "Philippine Long Distance Telephone Co.",
       "isp": "Philippine Long Distance Telephone Co.",
-      "domain": "pldthome.com"
+      "domain": "pldt.com.ph"
     }
   }
 ]

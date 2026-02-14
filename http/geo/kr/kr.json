@@ -1,8 +1,54 @@
 [
   {
-    "proxy": "http://210.223.44.230:3128",
-    "tested_at": "2026-02-14T16:19:53Z",
-    "ip": "210.223.44.230",
+    "proxy": "http://211.230.49.122:3128",
+    "tested_at": "2026-02-14T17:22:31Z",
+    "ip": "211.230.49.122",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "Gyeonggi",
+    "region_code": "41",
+    "city": "Seongnam-si",
+    "latitude": 37.4449168,
+    "longitude": 127.1388684,
+    "is_eu": false,
+    "postal": "13437",
+    "connection": {
+      "asn": 4766,
+      "org": "Kornet",
+      "isp": "Korea Telecom",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://67.43.236.20:8567",
+    "tested_at": "2026-02-14T17:22:32Z",
+    "ip": "121.184.76.243",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "",
+    "region_code": "",
+    "city": "Seo-gu",
+    "latitude": 37.5454212,
+    "longitude": 126.6759723,
+    "is_eu": false,
+    "postal": "22726",
+    "connection": {
+      "asn": 4766,
+      "org": "Korea Telecom",
+      "isp": "Korea Telecom",
+      "domain": "kt.com"
+    }
+  },
+  {
+    "proxy": "http://8.213.151.128:3128",
+    "tested_at": "2026-02-14T17:23:15Z",
+    "ip": "8.213.151.128",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +62,10 @@
     "is_eu": false,
     "postal": "04523",
     "connection": {
-      "asn": 4766,
-      "org": "Korea Telecom",
-      "isp": "Korea Telecom",
-      "domain": "kt.com"
+      "asn": 45102,
+      "org": "Alibaba Cloud South Korea",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibaba-inc.com"
     }
   }
 ]

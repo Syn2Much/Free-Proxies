@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://110.34.1.178:7777",
+    "tested_at": "2026-02-14T17:22:24Z",
+    "ip": "110.34.1.178",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Nepal",
+    "country_code": "NP",
+    "region": "Bagmati Pradesh",
+    "region_code": "",
+    "city": "Kathmandu",
+    "latitude": 27.7172453,
+    "longitude": 85.3239605,
+    "is_eu": false,
+    "postal": "46600",
+    "connection": {
+      "asn": 4007,
+      "org": "Server Networks",
+      "isp": "Subisu Cablenet",
+      "domain": "subisu.net.np"
+    }
+  },
+  {
     "proxy": "http://182.93.75.77:8080",
-    "tested_at": "2026-02-14T16:51:40Z",
+    "tested_at": "2026-02-14T17:23:19Z",
     "ip": "182.93.75.77",
     "success": true,
     "type": "IPv4",
@@ -20,29 +43,6 @@
       "org": "Subisu Retail Pool",
       "isp": "Subisu Cablenet",
       "domain": "subisu.net.np"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:21089",
-    "tested_at": "2026-02-14T16:51:50Z",
-    "ip": "27.34.73.93",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Nepal",
-    "country_code": "NP",
-    "region": "Gandaki Pradesh",
-    "region_code": "",
-    "city": "Parbat",
-    "latitude": 28.2586837,
-    "longitude": 83.7743509,
-    "is_eu": false,
-    "postal": "33400",
-    "connection": {
-      "asn": 17501,
-      "org": "Dynamic Allocation for Broadband Subscribers",
-      "isp": "Worldlink Communications",
-      "domain": "worldlink.com.np"
     }
   }
 ]

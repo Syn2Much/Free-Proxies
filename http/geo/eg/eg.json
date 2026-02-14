@@ -1,53 +1,30 @@
 [
   {
-    "proxy": "http://217.52.247.87:1976",
-    "tested_at": "2026-02-14T16:51:09Z",
-    "ip": "217.52.247.87",
+    "proxy": "http://196.204.138.244:1976",
+    "tested_at": "2026-02-14T17:22:54Z",
+    "ip": "196.204.138.244",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Egypt",
     "country_code": "EG",
-    "region": "Cairo",
-    "region_code": "C",
-    "city": "Cairo",
-    "latitude": 30.0444196,
-    "longitude": 31.2357116,
+    "region": "Giza",
+    "region_code": "",
+    "city": "Abo El Nomros",
+    "latitude": 29.9517097,
+    "longitude": 31.219709,
     "is_eu": false,
-    "postal": "28625",
+    "postal": "12911",
     "connection": {
-      "asn": 36992,
-      "org": "Nile Online",
-      "isp": "ETISALAT MISR",
-      "domain": "nile-online.com"
-    }
-  },
-  {
-    "proxy": "http://217.52.247.87:1981",
-    "tested_at": "2026-02-14T16:51:12Z",
-    "ip": "217.52.247.87",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Egypt",
-    "country_code": "EG",
-    "region": "Cairo",
-    "region_code": "C",
-    "city": "Cairo",
-    "latitude": 30.0444196,
-    "longitude": 31.2357116,
-    "is_eu": false,
-    "postal": "28625",
-    "connection": {
-      "asn": 36992,
-      "org": "Nile Online",
-      "isp": "ETISALAT MISR",
-      "domain": "nile-online.com"
+      "asn": 24835,
+      "org": "Vodafone Data",
+      "isp": "Vodafone Data",
+      "domain": "localisp.com"
     }
   },
   {
     "proxy": "http://197.164.101.14:1976",
-    "tested_at": "2026-02-14T16:51:30Z",
+    "tested_at": "2026-02-14T17:23:04Z",
     "ip": "197.164.101.14",
     "success": true,
     "type": "IPv4",
@@ -69,54 +46,8 @@
     }
   },
   {
-    "proxy": "http://62.193.108.131:1976",
-    "tested_at": "2026-02-14T16:51:34Z",
-    "ip": "62.193.108.131",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Egypt",
-    "country_code": "EG",
-    "region": "Asyut",
-    "region_code": "AST",
-    "city": "Al Qusiyyah",
-    "latitude": 27.4393096,
-    "longitude": 30.8171333,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 36992,
-      "org": "Services in Cairo",
-      "isp": "ETISALAT MISR",
-      "domain": "etisalatdata.net"
-    }
-  },
-  {
-    "proxy": "http://197.164.101.14:1981",
-    "tested_at": "2026-02-14T16:51:42Z",
-    "ip": "197.164.101.14",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Egypt",
-    "country_code": "EG",
-    "region": "Cairo",
-    "region_code": "C",
-    "city": "Cairo",
-    "latitude": 30.0444196,
-    "longitude": 31.2357116,
-    "is_eu": false,
-    "postal": "28625",
-    "connection": {
-      "asn": 24863,
-      "org": "",
-      "isp": "Link Egypt link.net",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://197.164.101.13:1976",
-    "tested_at": "2026-02-14T16:51:46Z",
+    "proxy": "http://197.164.101.13:1981",
+    "tested_at": "2026-02-14T17:23:05Z",
     "ip": "197.164.101.13",
     "success": true,
     "type": "IPv4",
@@ -135,6 +66,29 @@
       "org": "",
       "isp": "Link Egypt link.net",
       "domain": ""
+    }
+  },
+  {
+    "proxy": "http://196.219.202.74:8080",
+    "tested_at": "2026-02-14T17:23:09Z",
+    "ip": "196.219.202.74",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Cairo",
+    "region_code": "C",
+    "city": "Cairo",
+    "latitude": 30.0444196,
+    "longitude": 31.2357116,
+    "is_eu": false,
+    "postal": "28625",
+    "connection": {
+      "asn": 8452,
+      "org": "Te Data",
+      "isp": "TE AS",
+      "domain": "tedata.net"
     }
   }
 ]

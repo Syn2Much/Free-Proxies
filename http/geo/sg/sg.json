@@ -1,53 +1,7 @@
 [
   {
-    "proxy": "http://129.226.155.60:3128",
-    "tested_at": "2026-02-14T16:51:15Z",
-    "ip": "129.226.155.60",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Singapore",
-    "country_code": "SG",
-    "region": "Southeast",
-    "region_code": "",
-    "city": "Singapore",
-    "latitude": 1.3553794,
-    "longitude": 103.8677444,
-    "is_eu": false,
-    "postal": "550304",
-    "connection": {
-      "asn": 132203,
-      "org": "1 COLLYER QUAY 1 INCOME AT RAFFLES",
-      "isp": "Shenzhen Tencent Computer Systems Company Limited",
-      "domain": "tencent.com"
-    }
-  },
-  {
-    "proxy": "http://146.190.80.158:9090",
-    "tested_at": "2026-02-14T16:51:18Z",
-    "ip": "146.190.80.158",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Singapore",
-    "country_code": "SG",
-    "region": "Southeast",
-    "region_code": "",
-    "city": "Singapore",
-    "latitude": 1.3553794,
-    "longitude": 103.8677444,
-    "is_eu": false,
-    "postal": "550304",
-    "connection": {
-      "asn": 14061,
-      "org": "Digitalocean, LLC",
-      "isp": "Digitalocean, LLC",
-      "domain": "digitalocean.com"
-    }
-  },
-  {
     "proxy": "http://217.217.254.94:8080",
-    "tested_at": "2026-02-14T16:51:18Z",
+    "tested_at": "2026-02-14T17:22:26Z",
     "ip": "217.217.254.94",
     "success": true,
     "type": "IPv4",
@@ -69,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://104.248.151.93:9090",
-    "tested_at": "2026-02-14T16:51:28Z",
-    "ip": "104.248.151.93",
+    "proxy": "http://128.199.113.85:9090",
+    "tested_at": "2026-02-14T17:22:31Z",
+    "ip": "128.199.113.85",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -92,32 +46,9 @@
     }
   },
   {
-    "proxy": "http://138.2.64.185:8118",
-    "tested_at": "2026-02-14T16:51:38Z",
-    "ip": "138.2.64.185",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Singapore",
-    "country_code": "SG",
-    "region": "Southeast",
-    "region_code": "",
-    "city": "Singapore",
-    "latitude": 1.3553794,
-    "longitude": 103.8677444,
-    "is_eu": false,
-    "postal": "550304",
-    "connection": {
-      "asn": 31898,
-      "org": "Oracle Corporation",
-      "isp": "Oracle Corporation",
-      "domain": "oracle.com"
-    }
-  },
-  {
-    "proxy": "http://128.199.116.219:9090",
-    "tested_at": "2026-02-14T16:51:40Z",
-    "ip": "128.199.116.219",
+    "proxy": "http://152.42.170.187:9090",
+    "tested_at": "2026-02-14T17:22:32Z",
+    "ip": "152.42.170.187",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -138,32 +69,9 @@
     }
   },
   {
-    "proxy": "http://128.199.120.45:9090",
-    "tested_at": "2026-02-14T16:51:43Z",
-    "ip": "128.199.120.45",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Singapore",
-    "country_code": "SG",
-    "region": "Southeast",
-    "region_code": "",
-    "city": "Singapore",
-    "latitude": 1.3553794,
-    "longitude": 103.8677444,
-    "is_eu": false,
-    "postal": "550304",
-    "connection": {
-      "asn": 14061,
-      "org": "Digitalocean, LLC",
-      "isp": "Digitalocean, LLC",
-      "domain": "digitalocean.com"
-    }
-  },
-  {
-    "proxy": "http://128.199.114.189:9090",
-    "tested_at": "2026-02-14T16:51:48Z",
-    "ip": "128.199.114.189",
+    "proxy": "http://146.190.80.158:9090",
+    "tested_at": "2026-02-14T17:22:44Z",
+    "ip": "146.190.80.158",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -185,7 +93,7 @@
   },
   {
     "proxy": "http://128.199.254.13:9090",
-    "tested_at": "2026-02-14T16:51:49Z",
+    "tested_at": "2026-02-14T17:22:52Z",
     "ip": "128.199.254.13",
     "success": true,
     "type": "IPv4",
@@ -207,9 +115,32 @@
     }
   },
   {
-    "proxy": "http://128.199.113.85:9090",
-    "tested_at": "2026-02-14T16:51:51Z",
-    "ip": "128.199.113.85",
+    "proxy": "http://128.199.114.189:9090",
+    "tested_at": "2026-02-14T17:22:54Z",
+    "ip": "128.199.114.189",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Singapore",
+    "country_code": "SG",
+    "region": "Southeast",
+    "region_code": "",
+    "city": "Singapore",
+    "latitude": 1.3553794,
+    "longitude": 103.8677444,
+    "is_eu": false,
+    "postal": "550304",
+    "connection": {
+      "asn": 14061,
+      "org": "Digitalocean, LLC",
+      "isp": "Digitalocean, LLC",
+      "domain": "digitalocean.com"
+    }
+  },
+  {
+    "proxy": "http://128.199.120.45:9090",
+    "tested_at": "2026-02-14T17:23:01Z",
+    "ip": "128.199.120.45",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",

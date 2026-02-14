@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://185.186.240.9:1396",
-    "tested_at": "2026-02-14T15:53:48Z",
-    "ip": "185.186.240.9",
+    "proxy": "http://46.209.30.11:8080",
+    "tested_at": "2026-02-14T17:23:20Z",
+    "ip": "46.209.30.11",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "1317947564",
     "connection": {
-      "asn": 203684,
-      "org": "Gostaresh Ertebat Azin Kia Company Pjsc",
-      "isp": "Imen Sanat Novin Alighapoo Private Joint Stock Company",
-      "domain": "azinkia.ir"
+      "asn": 42337,
+      "org": "National Library Of Iran",
+      "isp": "Respina Networks Beyond Pjsc",
+      "domain": "respina.net"
     }
   }
 ]
