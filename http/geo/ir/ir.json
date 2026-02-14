@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://46.245.123.10:8080",
-    "tested_at": "2026-02-14T09:06:55Z",
-    "ip": "46.245.123.10",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Iran",
-    "country_code": "IR",
-    "region": "Tehran Province",
-    "region_code": "23",
-    "city": "Tehran",
-    "latitude": 35.6891975,
-    "longitude": 51.3889736,
-    "is_eu": false,
-    "postal": "1317947564",
-    "connection": {
-      "asn": 43754,
-      "org": "Asiatech Data Transmission Co.",
-      "isp": "Asiatech Data Transmission Company",
-      "domain": "asiatech.ir"
-    }
-  },
-  {
     "proxy": "http://46.209.30.11:8080",
-    "tested_at": "2026-02-14T09:07:29Z",
+    "tested_at": "2026-02-14T11:43:55Z",
     "ip": "46.209.30.11",
     "success": true,
     "type": "IPv4",

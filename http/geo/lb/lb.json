@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://85.112.71.208:8080",
-    "tested_at": "2026-02-14T10:40:39Z",
-    "ip": "85.112.71.208",
+    "proxy": "http://185.82.99.204:92",
+    "tested_at": "2026-02-14T11:44:12Z",
+    "ip": "185.82.99.57",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Lebanon",
     "country_code": "LB",
-    "region": "Beirut Governorate",
-    "region_code": "BA",
-    "city": "Beirut",
-    "latitude": 33.8925575,
-    "longitude": 35.5109932,
+    "region": "North Governorate",
+    "region_code": "AS",
+    "city": "Tripoli",
+    "latitude": 34.4345975,
+    "longitude": 35.836167,
     "is_eu": false,
-    "postal": "2034 1111",
+    "postal": "1300",
     "connection": {
-      "asn": 39010,
-      "org": "Terranet Sal",
-      "isp": "Terranet Sal",
-      "domain": "terra.net.lb"
+      "asn": 42183,
+      "org": "net 0 pool",
+      "isp": "NET 0 S.A.R.L",
+      "domain": "net360.net.lb"
     }
   }
 ]

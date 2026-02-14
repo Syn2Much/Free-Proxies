@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://38.7.195.40:999",
-    "tested_at": "2026-02-14T11:12:11Z",
-    "ip": "38.7.195.41",
+    "proxy": "http://204.199.139.72:999",
+    "tested_at": "2026-02-14T11:43:18Z",
+    "ip": "204.199.139.70",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Talagante",
+    "latitude": -33.6637468,
+    "longitude": -70.9273937,
+    "is_eu": false,
+    "postal": "975 0000",
+    "connection": {
+      "asn": 273237,
+      "org": "INGBELL CHILE SPA",
+      "isp": "INGBELL CHILE SPA",
+      "domain": "ingbell.cl"
+    }
+  },
+  {
+    "proxy": "http://38.7.221.191:8080",
+    "tested_at": "2026-02-14T11:43:20Z",
+    "ip": "38.7.221.191",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -23,9 +46,78 @@
     }
   },
   {
-    "proxy": "http://204.199.140.27:999",
-    "tested_at": "2026-02-14T11:12:30Z",
-    "ip": "204.199.140.27",
+    "proxy": "http://204.199.139.125:999",
+    "tested_at": "2026-02-14T11:43:56Z",
+    "ip": "45.225.204.99",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "O'Higgins Region",
+    "region_code": "",
+    "city": "Las Cabras",
+    "latitude": -34.2932184,
+    "longitude": -71.3126292,
+    "is_eu": false,
+    "postal": "3030000",
+    "connection": {
+      "asn": 265858,
+      "org": "NETDELSUR TELECOMUNICACIONES SPA",
+      "isp": "NETDELSUR TELECOMUNICACIONES SPA",
+      "domain": "netdelsur.cl"
+    }
+  },
+  {
+    "proxy": "http://200.95.184.50:999",
+    "tested_at": "2026-02-14T11:44:03Z",
+    "ip": "200.95.184.207",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Ñuble Region",
+    "region_code": "NB",
+    "city": "Chillán",
+    "latitude": -36.6062618,
+    "longitude": -72.1023351,
+    "is_eu": false,
+    "postal": "3780000",
+    "connection": {
+      "asn": 264859,
+      "org": "Comunicaciones Cablevision Ltda.",
+      "isp": "Comunicaciones Cablevision Ltda.",
+      "domain": "wmnet.cl"
+    }
+  },
+  {
+    "proxy": "http://200.95.184.62:999",
+    "tested_at": "2026-02-14T11:44:13Z",
+    "ip": "200.95.184.186",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Ñuble Region",
+    "region_code": "NB",
+    "city": "Chillán",
+    "latitude": -36.6062618,
+    "longitude": -72.1023351,
+    "is_eu": false,
+    "postal": "3780000",
+    "connection": {
+      "asn": 264859,
+      "org": "Comunicaciones Cablevision Ltda.",
+      "isp": "Comunicaciones Cablevision Ltda.",
+      "domain": "wmnet.cl"
+    }
+  },
+  {
+    "proxy": "http://38.7.195.52:999",
+    "tested_at": "2026-02-14T11:44:14Z",
+    "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -39,56 +131,10 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 273237,
-      "org": "INGBELL CHILE SPA",
-      "isp": "INGBELL CHILE SPA",
-      "domain": "ingbell.cl"
-    }
-  },
-  {
-    "proxy": "http://170.233.193.129:999",
-    "tested_at": "2026-02-14T11:12:51Z",
-    "ip": "170.233.193.129",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
-    "is_eu": false,
-    "postal": "832 0202",
-    "connection": {
-      "asn": 52510,
-      "org": "MI INTERNET SPA",
-      "isp": "MI INTERNET SPA",
-      "domain": "miinternet.cl"
-    }
-  },
-  {
-    "proxy": "http://45.4.0.18:999",
-    "tested_at": "2026-02-14T11:12:58Z",
-    "ip": "45.4.0.18",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "San José de Tango",
-    "latitude": -33.616667,
-    "longitude": -70.8,
-    "is_eu": false,
-    "postal": "971 0000",
-    "connection": {
-      "asn": 265662,
-      "org": "TLINK SPA",
-      "isp": "TLINK SPA",
-      "domain": "tlink.cl"
+      "asn": 263702,
+      "org": "Cogent Communications",
+      "isp": "GRUPO ZGH SPA",
+      "domain": "zglobalhost.com"
     }
   }
 ]

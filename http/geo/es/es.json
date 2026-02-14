@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://67.43.236.20:5541",
-    "tested_at": "2026-02-14T10:41:17Z",
-    "ip": "83.41.45.104",
+    "proxy": "http://2.139.62.85:3128",
+    "tested_at": "2026-02-14T11:43:30Z",
+    "ip": "2.139.62.85",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Spain",
     "country_code": "ES",
-    "region": "Catalunya",
-    "region_code": "CT",
-    "city": "Premià de Mar",
-    "latitude": 41.4946642,
-    "longitude": 2.3591531,
+    "region": "Madrid",
+    "region_code": "M",
+    "city": "Madrid",
+    "latitude": 40.4167754,
+    "longitude": -3.7037902,
     "is_eu": true,
-    "postal": "08330",
+    "postal": "28080",
     "connection": {
       "asn": 3352,
-      "org": "Telefonica De Espana Sau",
+      "org": "Red De Servicios Ip",
       "isp": "TELEFONICA DE ESPANA S.A.U.",
-      "domain": "movistar.es"
+      "domain": "telefonica.es"
     }
   }
 ]

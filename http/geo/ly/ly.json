@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://102.68.128.212:8080",
-    "tested_at": "2026-02-14T11:12:08Z",
-    "ip": "102.68.128.194",
+    "proxy": "http://102.68.128.216:8080",
+    "tested_at": "2026-02-14T11:43:58Z",
+    "ip": "102.68.128.195",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://154.73.28.89:8080",
-    "tested_at": "2026-02-14T11:12:20Z",
-    "ip": "154.73.28.74",
+    "proxy": "http://154.73.28.205:8080",
+    "tested_at": "2026-02-14T11:43:59Z",
+    "ip": "154.73.28.72",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -43,29 +43,6 @@
       "org": "RAWAFED LIBYA",
       "isp": "General Post And Telecommunication Company gptc",
       "domain": "rltt.net"
-    }
-  },
-  {
-    "proxy": "http://41.254.48.188:1970",
-    "tested_at": "2026-02-14T11:12:29Z",
-    "ip": "41.254.48.188",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Libya",
-    "country_code": "LY",
-    "region": "Tripoli",
-    "region_code": "TB",
-    "city": "Tripoli",
-    "latitude": 32.8872094,
-    "longitude": 13.1913383,
-    "is_eu": false,
-    "postal": "350",
-    "connection": {
-      "asn": 21003,
-      "org": "Libyan Telecom And Technology",
-      "isp": "General Post And Telecommunication Company gptc",
-      "domain": "ltt.ly"
     }
   }
 ]

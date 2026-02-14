@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://109.127.82.4:8085",
-    "tested_at": "2026-02-14T11:12:26Z",
-    "ip": "109.127.82.4",
+    "proxy": "http://185.138.120.109:8080",
+    "tested_at": "2026-02-14T11:43:32Z",
+    "ip": "93.180.217.20",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Iraq",
     "country_code": "IQ",
-    "region": "Erbil Governorate",
-    "region_code": "AR",
-    "city": "Erbil",
-    "latitude": 36.2062933,
-    "longitude": 44.0088697,
+    "region": "Karbala",
+    "region_code": "KA",
+    "city": "Karbala",
+    "latitude": 32.6068464,
+    "longitude": 44.0103922,
     "is_eu": false,
-    "postal": "44001",
+    "postal": "56001",
     "connection": {
-      "asn": 21277,
-      "org": "Allai Newroz Telecom",
-      "isp": "Allay Nawroz Telecom Company for Communication ltd.",
-      "domain": "newroztelecom.com"
+      "asn": 203217,
+      "org": "Horizon Scope Mobile Telecom Wll",
+      "isp": "Horizon Scope Mobile Telecom Wll",
+      "domain": "horizonscope.com"
     }
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://185.191.236.162:3128",
-    "tested_at": "2026-02-14T11:12:11Z",
+    "tested_at": "2026-02-14T11:43:25Z",
     "ip": "2a0a:20c0:f001:81:4498:fcff:febf:cefb",
     "success": true,
     "type": "IPv6",
@@ -20,6 +20,29 @@
       "org": "Fidel Ernesto Geronimo Ramirez Trading AS Global Business Consulting, Geronimo Ramirez",
       "isp": "GRUPO PANAGLOBAL 1 S.A",
       "domain": "gercomnet.ch"
+    }
+  },
+  {
+    "proxy": "http://212.51.157.178:8080",
+    "tested_at": "2026-02-14T11:44:12Z",
+    "ip": "212.51.157.178",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "region": "Zurich",
+    "region_code": "ZH",
+    "city": "Oberengstringen",
+    "latitude": 47.4090873,
+    "longitude": 8.4627128,
+    "is_eu": false,
+    "postal": "8102",
+    "connection": {
+      "asn": 13030,
+      "org": "Liip AG",
+      "isp": "Init switzerland Ltd.",
+      "domain": "init7.net"
     }
   }
 ]

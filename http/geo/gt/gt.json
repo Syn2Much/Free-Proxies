@@ -1,8 +1,54 @@
 [
   {
-    "proxy": "http://143.208.59.2:999",
-    "tested_at": "2026-02-14T11:12:29Z",
-    "ip": "143.208.59.2",
+    "proxy": "http://190.61.50.93:999",
+    "tested_at": "2026-02-14T11:43:19Z",
+    "ip": "190.61.50.93",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "region": "Escuintla",
+    "region_code": "ES",
+    "city": "Tiquisate",
+    "latitude": 14.2851374,
+    "longitude": -91.3638041,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 52468,
+      "org": "Ufinet Guatemala S. A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "ufinet.com"
+    }
+  },
+  {
+    "proxy": "http://138.117.231.133:999",
+    "tested_at": "2026-02-14T11:43:20Z",
+    "ip": "138.117.231.133",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "region": "Huehuetenango",
+    "region_code": "HU",
+    "city": "Huehuetenango",
+    "latitude": 15.320133,
+    "longitude": -91.4700395,
+    "is_eu": false,
+    "postal": "13001",
+    "connection": {
+      "asn": 269989,
+      "org": "FIBERNET S.A",
+      "isp": "FIBERNET S.A",
+      "domain": "fibernetgt.com"
+    }
+  },
+  {
+    "proxy": "http://181.78.49.177:999",
+    "tested_at": "2026-02-14T11:43:57Z",
+    "ip": "181.78.49.177",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -16,33 +62,10 @@
     "is_eu": false,
     "postal": "01004",
     "connection": {
-      "asn": 22869,
-      "org": "COMUNICACIONES METROPOLITANAS CABLECOLOR",
-      "isp": "CABLECOLOR S.A.",
-      "domain": "cablecolor.com.gt"
-    }
-  },
-  {
-    "proxy": "http://138.117.230.131:999",
-    "tested_at": "2026-02-14T11:12:35Z",
-    "ip": "138.117.230.131",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "Escuintla",
-    "region_code": "ES",
-    "city": "La Democracia",
-    "latitude": 14.229012,
-    "longitude": -90.9462345,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 269989,
-      "org": "FIBERNET S.A",
-      "isp": "FIBERNET S.A",
-      "domain": "fibernetgt.com"
+      "asn": 52468,
+      "org": "Ufinet Guatemala S. A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "ufinet.com"
     }
   }
 ]

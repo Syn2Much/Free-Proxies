@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://96.9.66.208:80",
-    "tested_at": "2026-02-14T10:40:49Z",
-    "ip": "96.9.66.208",
+    "proxy": "http://49.156.44.115:8080",
+    "tested_at": "2026-02-14T11:43:21Z",
+    "ip": "49.156.44.115",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,102 @@
     "is_eu": false,
     "postal": "120603",
     "connection": {
-      "asn": 131207,
-      "org": "Sinet, Dedicated Fiber, Dedicated Speed, Dedicated Support, Dedicated Always.",
-      "isp": "S.i Group",
-      "domain": "sinet.com.kh"
+      "asn": 24492,
+      "org": "Wicam Corporation Ltd.",
+      "isp": "Wicam Corporation Ltd.",
+      "domain": "wicam.com.kh"
+    }
+  },
+  {
+    "proxy": "http://116.212.149.218:8080",
+    "tested_at": "2026-02-14T11:43:50Z",
+    "ip": "116.212.149.218",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "region": "Phnom Penh",
+    "region_code": "12",
+    "city": "Phnom Phen City",
+    "latitude": 11.5448729,
+    "longitude": 104.8921668,
+    "is_eu": false,
+    "postal": "120603",
+    "connection": {
+      "asn": 38235,
+      "org": "Mekongnet, Internet Service Provider isp , Internet Exchange Provider ixp And Internet Data Exchange Center idx",
+      "isp": "ANGKOR DATA COMMUNICATION GROUP CO., LTD. A D C",
+      "domain": "mekongnet.com.kh"
+    }
+  },
+  {
+    "proxy": "http://103.9.190.130:8080",
+    "tested_at": "2026-02-14T11:43:59Z",
+    "ip": "103.9.190.130",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "region": "Phnom Penh",
+    "region_code": "12",
+    "city": "Phnom Phen City",
+    "latitude": 11.5448729,
+    "longitude": 104.8921668,
+    "is_eu": false,
+    "postal": "120603",
+    "connection": {
+      "asn": 38901,
+      "org": "EZECOM CO., LTD.",
+      "isp": "EZECOM CO., LTD.",
+      "domain": "ezecom.com.kh"
+    }
+  },
+  {
+    "proxy": "http://203.171.252.7:8080",
+    "tested_at": "2026-02-14T11:44:03Z",
+    "ip": "203.171.252.7",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "region": "Phnom Penh",
+    "region_code": "12",
+    "city": "Phnom Phen City",
+    "latitude": 11.5448729,
+    "longitude": 104.8921668,
+    "is_eu": false,
+    "postal": "120603",
+    "connection": {
+      "asn": 38235,
+      "org": "Angkor Data Communication",
+      "isp": "ANGKOR DATA COMMUNICATION GROUP CO., LTD. A D C",
+      "domain": "mekongnet.com.kh"
+    }
+  },
+  {
+    "proxy": "http://45.201.208.192:8080",
+    "tested_at": "2026-02-14T11:44:07Z",
+    "ip": "45.201.208.192",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "region": "Phnom Penh",
+    "region_code": "12",
+    "city": "Phnom Phen City",
+    "latitude": 11.5448729,
+    "longitude": 104.8921668,
+    "is_eu": false,
+    "postal": "120603",
+    "connection": {
+      "asn": 131178,
+      "org": "EZECOM CO., LTD.",
+      "isp": "EZECOM CO., LTD.",
+      "domain": "ezecom.com.kh"
     }
   }
 ]

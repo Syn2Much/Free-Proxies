@@ -1,76 +1,7 @@
 [
   {
-    "proxy": "http://220.128.223.136:8083",
-    "tested_at": "2026-02-14T11:12:10Z",
-    "ip": "220.128.223.136",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Taiwan",
-    "country_code": "TW",
-    "region": "Keelung City",
-    "region_code": "KEE",
-    "city": "Taipei",
-    "latitude": 25.0329694,
-    "longitude": 121.5654177,
-    "is_eu": false,
-    "postal": "11008",
-    "connection": {
-      "asn": 3462,
-      "org": "Chunghwa Telecom CO.,LTD.",
-      "isp": "Chunghwa Telecom Co., Ltd.",
-      "domain": "twnic.tw"
-    }
-  },
-  {
-    "proxy": "http://27.147.28.73:8080",
-    "tested_at": "2026-02-14T11:12:21Z",
-    "ip": "27.147.28.73",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Taiwan",
-    "country_code": "TW",
-    "region": "New Taipei City",
-    "region_code": "",
-    "city": "Zhitan 5th Street",
-    "latitude": 24.941202,
-    "longitude": 121.534131,
-    "is_eu": false,
-    "postal": "231",
-    "connection": {
-      "asn": 18429,
-      "org": "CABLE GIANT CATV. CO., LTD.",
-      "isp": "Extra lan Technologies Co., LTD",
-      "domain": "cable-giant.com.tw"
-    }
-  },
-  {
-    "proxy": "http://210.61.216.63:60808",
-    "tested_at": "2026-02-14T11:12:22Z",
-    "ip": "114.45.134.60",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Taiwan",
-    "country_code": "TW",
-    "region": "Keelung City",
-    "region_code": "KEE",
-    "city": "Taipei",
-    "latitude": 25.0329694,
-    "longitude": 121.5654177,
-    "is_eu": false,
-    "postal": "11008",
-    "connection": {
-      "asn": 3462,
-      "org": "Chunghwa Telecom CO.,LTD.",
-      "isp": "Chunghwa Telecom Co., Ltd.",
-      "domain": "cht.com.tw"
-    }
-  },
-  {
     "proxy": "http://44.30.18.32:8080",
-    "tested_at": "2026-02-14T11:12:24Z",
+    "tested_at": "2026-02-14T11:43:28Z",
     "ip": "44.30.18.32",
     "success": true,
     "type": "IPv4",
@@ -89,29 +20,6 @@
       "org": "Amateur Radio Digital Communications",
       "isp": "Li Heng Yu",
       "domain": "ardc.net"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:14901",
-    "tested_at": "2026-02-14T11:12:26Z",
-    "ip": "106.1.105.71",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Taiwan",
-    "country_code": "TW",
-    "region": "Taichung City",
-    "region_code": "TXQ",
-    "city": "Taichung",
-    "latitude": 24.1631651,
-    "longitude": 120.6746691,
-    "is_eu": false,
-    "postal": "40701",
-    "connection": {
-      "asn": 38841,
-      "org": "Kbro Co. Ltd.",
-      "isp": "Kbro Co. Ltd.",
-      "domain": "kbro.com.tw"
     }
   }
 ]

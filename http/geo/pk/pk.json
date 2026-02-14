@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://72.10.164.178:6129",
-    "tested_at": "2026-02-14T11:12:05Z",
-    "ip": "139.135.43.15",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Pakistan",
-    "country_code": "PK",
-    "region": "Punjab",
-    "region_code": "PB",
-    "city": "Khanqah Dogran",
-    "latitude": 31.8299489,
-    "longitude": 73.6124102,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 9541,
-      "org": "Cyber Internet Services Pakistan",
-      "isp": "Cyber Internet Services private Limited",
-      "domain": "cyber.net.pk"
-    }
-  },
-  {
-    "proxy": "http://154.208.58.89:8080",
-    "tested_at": "2026-02-14T11:12:30Z",
-    "ip": "154.208.58.172",
+    "proxy": "http://103.115.197.142:3127",
+    "tested_at": "2026-02-14T11:44:05Z",
+    "ip": "103.115.197.142",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,10 +16,10 @@
     "is_eu": false,
     "postal": "54000",
     "connection": {
-      "asn": 150750,
-      "org": "IN CABLE INTERNET PRIVATE LIMITED",
-      "isp": "IN CABLE INTERNET PRIVATE LIMITED",
-      "domain": "incableinternet.com"
+      "asn": 152605,
+      "org": "Ambition",
+      "isp": "Z COM NETWORKS",
+      "domain": "ambition.net.pk"
     }
   }
 ]

@@ -1,7 +1,53 @@
 [
   {
+    "proxy": "https://165.231.253.210:9443",
+    "tested_at": "2026-02-14T11:43:27Z",
+    "ip": "165.231.253.219",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "India",
+    "country_code": "IN",
+    "region": "Delhi",
+    "region_code": "DL",
+    "city": "New Delhi",
+    "latitude": 28.6139391,
+    "longitude": 77.2090212,
+    "is_eu": false,
+    "postal": "110001",
+    "connection": {
+      "asn": 41564,
+      "org": "Fiber Grid",
+      "isp": "Orion Network Limited",
+      "domain": "fibergrid.co.za"
+    }
+  },
+  {
+    "proxy": "https://165.231.253.242:9443",
+    "tested_at": "2026-02-14T11:43:47Z",
+    "ip": "165.231.253.252",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "India",
+    "country_code": "IN",
+    "region": "Delhi",
+    "region_code": "DL",
+    "city": "New Delhi",
+    "latitude": 28.6139391,
+    "longitude": 77.2090212,
+    "is_eu": false,
+    "postal": "110001",
+    "connection": {
+      "asn": 41564,
+      "org": "Fiber Grid",
+      "isp": "Orion Network Limited",
+      "domain": "fibergrid.co.za"
+    }
+  },
+  {
     "proxy": "https://45.114.142.178:443",
-    "tested_at": "2026-02-14T11:12:04Z",
+    "tested_at": "2026-02-14T11:43:59Z",
     "ip": "45.114.142.178",
     "success": true,
     "type": "IPv4",
@@ -20,29 +66,6 @@
       "org": "Psr Holdings Private Limited",
       "isp": "CtrlS",
       "domain": "psrholdings.in"
-    }
-  },
-  {
-    "proxy": "https://165.231.253.66:9443",
-    "tested_at": "2026-02-14T11:12:24Z",
-    "ip": "196.240.60.217",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "India",
-    "country_code": "IN",
-    "region": "Delhi",
-    "region_code": "DL",
-    "city": "New Delhi",
-    "latitude": 28.6139391,
-    "longitude": 77.2090212,
-    "is_eu": false,
-    "postal": "110001",
-    "connection": {
-      "asn": 41564,
-      "org": "Fiber Grid",
-      "isp": "Orion Network Limited",
-      "domain": "fibergrid.co.za"
     }
   }
 ]

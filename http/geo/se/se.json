@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://40.177.211.224:9019",
-    "tested_at": "2026-02-14T11:12:04Z",
-    "ip": "88.80.26.3",
+    "proxy": "http://193.181.35.12:8118",
+    "tested_at": "2026-02-14T11:43:28Z",
+    "ip": "193.181.35.12",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,33 +16,10 @@
     "is_eu": true,
     "postal": "111 29",
     "connection": {
-      "asn": 33837,
-      "org": "Prq Vpn Network",
-      "isp": "Fredrik Holmqvist",
-      "domain": "sitabinfra.se"
-    }
-  },
-  {
-    "proxy": "http://35.181.173.74:8892",
-    "tested_at": "2026-02-14T11:12:47Z",
-    "ip": "45.84.107.172",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Sundbyberg",
-    "latitude": 59.3670471,
-    "longitude": 17.9663093,
-    "is_eu": true,
-    "postal": "172 31",
-    "connection": {
-      "asn": 214503,
-      "org": "R0CKET CLOUD",
-      "isp": "Quxlabs Ab",
-      "domain": "quxlabs.com"
+      "asn": 42201,
+      "org": "Pvdatanet Ab",
+      "isp": "Pvdatanet Ab",
+      "domain": "pvdatanet.com"
     }
   }
 ]
