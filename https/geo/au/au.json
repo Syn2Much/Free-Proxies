@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "https://103.62.50.130:443",
-    "tested_at": "2026-02-14T15:54:21Z",
-    "ip": "103.62.50.142",
+    "proxy": "https://47.243.181.85:41693",
+    "tested_at": "2026-02-14T16:19:48Z",
+    "ip": "113.29.243.8",
     "success": true,
     "type": "IPv4",
     "continent": "Oceania",
     "country": "Australia",
     "country_code": "AU",
-    "region": "Queensland",
-    "region_code": "QLD",
-    "city": "Brisbane",
-    "latitude": -27.4697707,
-    "longitude": 153.0251235,
+    "region": "Victoria",
+    "region_code": "VIC",
+    "city": "Melbourne",
+    "latitude": -37.8136276,
+    "longitude": 144.9630576,
     "is_eu": false,
-    "postal": "4004",
+    "postal": "3000",
     "connection": {
-      "asn": 137409,
-      "org": "Streamline Servers LTD Brisbane",
-      "isp": "Gsl Networks Pty LTD",
-      "domain": "streamline-servers.com"
-    }
-  },
-  {
-    "proxy": "https://103.62.50.130:9443",
-    "tested_at": "2026-02-14T15:54:34Z",
-    "ip": "103.62.50.142",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Oceania",
-    "country": "Australia",
-    "country_code": "AU",
-    "region": "Queensland",
-    "region_code": "QLD",
-    "city": "Brisbane",
-    "latitude": -27.4697707,
-    "longitude": 153.0251235,
-    "is_eu": false,
-    "postal": "4004",
-    "connection": {
-      "asn": 137409,
-      "org": "Streamline Servers LTD Brisbane",
-      "isp": "Gsl Networks Pty LTD",
-      "domain": "streamline-servers.com"
+      "asn": 134090,
+      "org": "Leaptel",
+      "isp": "Leaptel",
+      "domain": "leaptel.com.au"
     }
   }
 ]

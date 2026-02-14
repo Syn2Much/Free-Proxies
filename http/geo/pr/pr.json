@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://204.77.11.13:999",
-    "tested_at": "2026-02-14T15:54:20Z",
-    "ip": "104.238.232.210",
+    "proxy": "http://192.203.0.250:999",
+    "tested_at": "2026-02-14T16:20:02Z",
+    "ip": "192.203.0.250",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "region": "Puerto Rico",
+    "region_code": "PR",
+    "city": "Yabucoa",
+    "latitude": 18.0505201,
+    "longitude": -65.8793288,
+    "is_eu": false,
+    "postal": "00767",
+    "connection": {
+      "asn": 63393,
+      "org": "BOOM NET",
+      "isp": "BOOM NET",
+      "domain": "boomsolutionspr.com"
+    }
+  },
+  {
+    "proxy": "http://192.203.0.166:999",
+    "tested_at": "2026-02-14T16:20:17Z",
+    "ip": "192.203.0.166",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -16,10 +39,10 @@
     "is_eu": false,
     "postal": "00738-4805",
     "connection": {
-      "asn": 21559,
-      "org": "FiberX",
-      "isp": "OSNET",
-      "domain": "fiberx.net"
+      "asn": 63393,
+      "org": "BOOM NET",
+      "isp": "BOOM NET",
+      "domain": "boomsolutionspr.com"
     }
   }
 ]

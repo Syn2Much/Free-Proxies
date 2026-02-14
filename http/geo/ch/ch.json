@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://185.191.236.162:3128",
-    "tested_at": "2026-02-14T12:46:16Z",
-    "ip": "2a0a:20c0:f001:81:4498:fcff:febf:cefb",
+    "proxy": "http://104.244.78.150:5555",
+    "tested_at": "2026-02-14T16:20:04Z",
+    "ip": "104.244.78.150",
     "success": true,
-    "type": "IPv6",
+    "type": "IPv4",
     "continent": "Europe",
     "country": "Switzerland",
     "country_code": "CH",
-    "region": "Zurich",
-    "region_code": "ZH",
-    "city": "Wetzikon",
-    "latitude": 47.3270602,
-    "longitude": 8.801356,
+    "region": "Bern",
+    "region_code": "BE",
+    "city": "Bern",
+    "latitude": 46.9479739,
+    "longitude": 7.4474468,
     "is_eu": false,
-    "postal": "8620",
+    "postal": "3011",
     "connection": {
-      "asn": 264617,
-      "org": "Fidel Ernesto Geronimo Ramirez Trading AS Global Business Consulting, Geronimo Ramirez",
-      "isp": "GRUPO PANAGLOBAL 1 S.A",
-      "domain": "gercomnet.ch"
+      "asn": 53667,
+      "org": "BuyVM",
+      "isp": "Frantech Solutions",
+      "domain": "frantech.ca"
     }
   }
 ]

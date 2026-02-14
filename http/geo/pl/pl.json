@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://188.116.37.3:8090",
-    "tested_at": "2026-02-14T15:53:58Z",
+    "tested_at": "2026-02-14T16:20:35Z",
     "ip": "188.116.37.3",
     "success": true,
     "type": "IPv4",
@@ -20,29 +20,6 @@
       "org": "Mernyk Mykyta",
       "isp": "Artnet Sp. Z O.O.",
       "domain": "artnet.pl"
-    }
-  },
-  {
-    "proxy": "http://193.239.103.13:34415",
-    "tested_at": "2026-02-14T15:54:04Z",
-    "ip": "193.239.103.13",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Poland",
-    "country_code": "PL",
-    "region": "Kuyavian-Pomeranian Voivodeship",
-    "region_code": "04",
-    "city": "Kobylnica",
-    "latitude": 52.4489287,
-    "longitude": 17.0925845,
-    "is_eu": true,
-    "postal": "88-121",
-    "connection": {
-      "asn": 12741,
-      "org": "Solarme Tomasz Kaszynski",
-      "isp": "Netia SA",
-      "domain": "solarme.pl"
     }
   }
 ]

@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://217.52.247.87:1976",
-    "tested_at": "2026-02-14T15:53:41Z",
-    "ip": "217.52.247.87",
+    "proxy": "http://196.204.138.244:1976",
+    "tested_at": "2026-02-14T16:19:41Z",
+    "ip": "196.204.138.244",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Giza",
+    "region_code": "",
+    "city": "Abo El Nomros",
+    "latitude": 29.9517097,
+    "longitude": 31.219709,
+    "is_eu": false,
+    "postal": "12911",
+    "connection": {
+      "asn": 24835,
+      "org": "Vodafone Data",
+      "isp": "Vodafone Data",
+      "domain": "localisp.com"
+    }
+  },
+  {
+    "proxy": "http://197.164.101.14:1981",
+    "tested_at": "2026-02-14T16:20:00Z",
+    "ip": "197.164.101.14",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -15,40 +38,17 @@
     "longitude": 31.2357116,
     "is_eu": false,
     "postal": "28625",
-    "connection": {
-      "asn": 36992,
-      "org": "Nile Online",
-      "isp": "ETISALAT MISR",
-      "domain": "nile-online.com"
-    }
-  },
-  {
-    "proxy": "http://213.131.85.26:1976",
-    "tested_at": "2026-02-14T15:53:47Z",
-    "ip": "213.131.85.26",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Egypt",
-    "country_code": "EG",
-    "region": "The Lake",
-    "region_code": "",
-    "city": "An Nubariyah",
-    "latitude": 30.666272,
-    "longitude": 30.069743,
-    "is_eu": false,
-    "postal": "22773",
     "connection": {
       "asn": 24863,
-      "org": "Link Egypt",
+      "org": "",
       "isp": "Link Egypt link.net",
-      "domain": "link.net"
+      "domain": ""
     }
   },
   {
-    "proxy": "http://41.65.146.178:1981",
-    "tested_at": "2026-02-14T15:53:52Z",
-    "ip": "41.65.146.170",
+    "proxy": "http://197.164.101.13:1976",
+    "tested_at": "2026-02-14T16:20:08Z",
+    "ip": "197.164.101.13",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -62,15 +62,15 @@
     "is_eu": false,
     "postal": "28625",
     "connection": {
-      "asn": 36992,
-      "org": "Roda Area Enterprise Customers With Static Ips",
-      "isp": "ETISALAT MISR",
-      "domain": "etisalatdata.net"
+      "asn": 24863,
+      "org": "",
+      "isp": "Link Egypt link.net",
+      "domain": ""
     }
   },
   {
     "proxy": "http://217.52.247.87:1981",
-    "tested_at": "2026-02-14T15:53:59Z",
+    "tested_at": "2026-02-14T16:20:10Z",
     "ip": "217.52.247.87",
     "success": true,
     "type": "IPv4",
@@ -93,7 +93,7 @@
   },
   {
     "proxy": "http://196.202.91.43:8080",
-    "tested_at": "2026-02-14T15:54:08Z",
+    "tested_at": "2026-02-14T16:20:12Z",
     "ip": "196.202.91.43",
     "success": true,
     "type": "IPv4",
@@ -115,9 +115,9 @@
     }
   },
   {
-    "proxy": "http://197.164.101.13:1976",
-    "tested_at": "2026-02-14T15:54:23Z",
-    "ip": "197.164.101.13",
+    "proxy": "http://197.164.101.14:1976",
+    "tested_at": "2026-02-14T16:20:29Z",
+    "ip": "197.164.101.14",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",

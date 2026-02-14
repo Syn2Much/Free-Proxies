@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://72.10.164.178:8565",
-    "tested_at": "2026-02-14T15:54:16Z",
-    "ip": "184.162.104.230",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Québec",
-    "region_code": "QC",
-    "city": "Montreal",
-    "latitude": 45.5016889,
-    "longitude": -73.567256,
-    "is_eu": false,
-    "postal": "H3A 2A6",
-    "connection": {
-      "asn": 5769,
-      "org": "Videotron Ltee",
-      "isp": "Videotron Ltee",
-      "domain": "videotron.com"
-    }
-  },
-  {
-    "proxy": "http://66.70.235.23:5454",
-    "tested_at": "2026-02-14T15:54:24Z",
-    "ip": "66.70.235.23",
+    "proxy": "http://67.43.228.253:23415",
+    "tested_at": "2026-02-14T16:20:27Z",
+    "ip": "70.54.138.244",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -33,16 +10,16 @@
     "country_code": "CA",
     "region": "Ontario",
     "region_code": "ON",
-    "city": "Ottawa",
-    "latitude": 45.4215296,
-    "longitude": -75.6971931,
+    "city": "Halton Hills",
+    "latitude": 43.6688344,
+    "longitude": -79.9266158,
     "is_eu": false,
-    "postal": "K1P 1J1",
+    "postal": "L7G 5W1",
     "connection": {
-      "asn": 16276,
-      "org": "OVH NWK",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
+      "asn": 577,
+      "org": "Sympatico Hse",
+      "isp": "Bell Canada",
+      "domain": "bell.ca"
     }
   }
 ]

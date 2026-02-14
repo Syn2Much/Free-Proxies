@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://37.238.63.44:8080",
-    "tested_at": "2026-02-14T15:54:21Z",
-    "ip": "37.237.229.128",
+    "proxy": "http://37.238.63.39:8080",
+    "tested_at": "2026-02-14T16:20:09Z",
+    "ip": "37.237.226.176",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -23,26 +23,26 @@
     }
   },
   {
-    "proxy": "http://37.237.225.218:8081",
-    "tested_at": "2026-02-14T15:54:38Z",
-    "ip": "37.237.225.218",
+    "proxy": "http://45.81.146.7:8080",
+    "tested_at": "2026-02-14T16:20:22Z",
+    "ip": "45.81.146.7",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Iraq",
     "country_code": "IQ",
-    "region": "Baghdad Governorate",
-    "region_code": "BG",
-    "city": "Baghdad",
-    "latitude": 33.3128057,
-    "longitude": 44.3614875,
+    "region": "Iraqi Kurdistan Region",
+    "region_code": "",
+    "city": "Duhok",
+    "latitude": 36.8679054,
+    "longitude": 42.9488574,
     "is_eu": false,
-    "postal": "10001",
+    "postal": "42001",
     "connection": {
-      "asn": 199739,
-      "org": "Earthlink Ltd. Communications internet Services orange",
-      "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
-      "domain": "earthlink.iq"
+      "asn": 208859,
+      "org": "Duhok Networks",
+      "isp": "FACT LTD",
+      "domain": ""
     }
   }
 ]

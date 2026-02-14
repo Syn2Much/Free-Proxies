@@ -1,8 +1,8 @@
 [
   {
     "proxy": "https://31.171.155.210:9443",
-    "tested_at": "2026-02-14T12:46:28Z",
-    "ip": "31.171.155.216",
+    "tested_at": "2026-02-14T16:19:37Z",
+    "ip": "31.171.155.214",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",

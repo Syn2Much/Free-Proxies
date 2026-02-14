@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://36.253.18.38:8181",
-    "tested_at": "2026-02-14T15:53:54Z",
-    "ip": "36.253.18.38",
+    "proxy": "http://49.236.212.134:8888",
+    "tested_at": "2026-02-14T16:19:54Z",
+    "ip": "49.236.212.134",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,22 +10,22 @@
     "country_code": "NP",
     "region": "Bagmati Pradesh",
     "region_code": "",
-    "city": "Patan",
-    "latitude": 27.6644011,
-    "longitude": 85.3187914,
+    "city": "Kathmandu",
+    "latitude": 27.7172453,
+    "longitude": 85.3239605,
     "is_eu": false,
-    "postal": "44707",
+    "postal": "46600",
     "connection": {
-      "asn": 38565,
-      "org": "Ncell Pty. Ltd.",
-      "isp": "Ncell Pty. Ltd.",
-      "domain": "ncell.com.np"
+      "asn": 55915,
+      "org": "Classic Tech Pvt. Ltd.",
+      "isp": "Classic Tech Pvt. Ltd.",
+      "domain": "classic.com.np"
     }
   },
   {
-    "proxy": "http://182.93.95.80:8080",
-    "tested_at": "2026-02-14T15:53:54Z",
-    "ip": "182.93.95.80",
+    "proxy": "http://182.93.75.77:8080",
+    "tested_at": "2026-02-14T16:20:25Z",
+    "ip": "182.93.75.77",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -40,32 +40,9 @@
     "postal": "46600",
     "connection": {
       "asn": 4007,
-      "org": "Subisu Corporate Pool10",
+      "org": "Subisu Retail Pool",
       "isp": "Subisu Cablenet",
       "domain": "subisu.net.np"
-    }
-  },
-  {
-    "proxy": "http://103.124.97.12:8080",
-    "tested_at": "2026-02-14T15:54:31Z",
-    "ip": "103.124.97.12",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Nepal",
-    "country_code": "NP",
-    "region": "Gandaki Pradesh",
-    "region_code": "",
-    "city": "Parbat",
-    "latitude": 28.2586837,
-    "longitude": 83.7743509,
-    "is_eu": false,
-    "postal": "33400",
-    "connection": {
-      "asn": 138388,
-      "org": "Pi net Prefix",
-      "isp": "Pokhara Internet Pvt. Ltd.",
-      "domain": "pokharainternet.com.np"
     }
   }
 ]

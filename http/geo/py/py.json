@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://67.43.228.250:25161",
-    "tested_at": "2026-02-14T15:23:09Z",
-    "ip": "181.91.86.106",
+    "proxy": "http://24.152.40.49:8080",
+    "tested_at": "2026-02-14T16:20:13Z",
+    "ip": "24.152.40.49",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Paraguay",
     "country_code": "PY",
-    "region": "Distrito Capital de Paraguay",
-    "region_code": "",
-    "city": "Asuncion",
-    "latitude": -25.2637399,
-    "longitude": -57.575926,
+    "region": "Caaguazú",
+    "region_code": "5",
+    "city": "Coronel Oviedo",
+    "latitude": -25.400442,
+    "longitude": -56.4495924,
     "is_eu": false,
-    "postal": "1226",
+    "postal": "3300",
     "connection": {
-      "asn": 27895,
-      "org": "N cleo S.A.",
-      "isp": "N cleo S.A.",
-      "domain": "personal.com.py"
+      "asn": 269976,
+      "org": "TV MAX CABLE S.A.",
+      "isp": "TV MAX CABLE S.A.",
+      "domain": "tvmaxsa.com.py"
+    }
+  },
+  {
+    "proxy": "http://181.78.95.49:999",
+    "tested_at": "2026-02-14T16:20:31Z",
+    "ip": "181.78.95.50",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "region": "San Pedro",
+    "region_code": "2",
+    "city": "Puerto Antequera",
+    "latitude": -24.085215,
+    "longitude": -57.2000138,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 52468,
+      "org": "UFINET PARAGUAY S.A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "ufinet.com"
     }
   }
 ]

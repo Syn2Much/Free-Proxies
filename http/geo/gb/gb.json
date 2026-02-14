@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://157.125.220.80:8080",
-    "tested_at": "2026-02-14T15:53:54Z",
-    "ip": "157.125.220.80",
+    "proxy": "http://37.27.180.250:2081",
+    "tested_at": "2026-02-14T16:19:57Z",
+    "ip": "141.98.101.182",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,39 +10,16 @@
     "country_code": "GB",
     "region": "England",
     "region_code": "ENG",
-    "city": "Pudsey",
-    "latitude": 53.795766,
-    "longitude": -1.6761082,
+    "city": "Manchester",
+    "latitude": 53.446622,
+    "longitude": -2.308713,
     "is_eu": false,
-    "postal": "LS28 7LH",
+    "postal": "M2 3FU",
     "connection": {
-      "asn": 31655,
-      "org": "Gamma Telecom Limited",
-      "isp": "Gamma Telecom Holdings LTD",
-      "domain": "gamma.co.uk"
-    }
-  },
-  {
-    "proxy": "http://51.89.135.171:8080",
-    "tested_at": "2026-02-14T15:54:33Z",
-    "ip": "51.38.70.236",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "London",
-    "latitude": 51.5073509,
-    "longitude": -0.1277583,
-    "is_eu": false,
-    "postal": "SW1",
-    "connection": {
-      "asn": 16276,
-      "org": "OVH SAS",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
+      "asn": 9009,
+      "org": "M LTD Manchester Infrastructure",
+      "isp": "M Europe SRL",
+      "domain": "m247.com"
     }
   }
 ]

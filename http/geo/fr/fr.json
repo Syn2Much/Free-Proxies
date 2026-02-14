@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://90.84.188.97:8000",
+    "tested_at": "2026-02-14T16:19:37Z",
+    "ip": "90.84.188.97",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "is_eu": true,
+    "postal": "75007",
+    "connection": {
+      "asn": 2280,
+      "org": "OBS OCB HONEY",
+      "isp": "Orange S.A.",
+      "domain": "orange.com"
+    }
+  },
+  {
     "proxy": "http://72.10.160.172:14411",
-    "tested_at": "2026-02-14T15:53:50Z",
+    "tested_at": "2026-02-14T16:19:38Z",
     "ip": "176.136.251.213",
     "success": true,
     "type": "IPv4",
@@ -23,55 +46,9 @@
     }
   },
   {
-    "proxy": "http://62.133.62.12:1082",
-    "tested_at": "2026-02-14T15:54:08Z",
-    "ip": "62.133.62.12",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 215540,
-      "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
-      "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
-      "domain": "gir.network"
-    }
-  },
-  {
-    "proxy": "http://51.159.66.158:3128",
-    "tested_at": "2026-02-14T15:54:11Z",
-    "ip": "51.159.66.158",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 12876,
-      "org": "Scaleway",
-      "isp": "SCALEWAY S.A.S.",
-      "domain": "scaleway.com"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:10209",
-    "tested_at": "2026-02-14T15:54:19Z",
-    "ip": "88.178.188.18",
+    "proxy": "http://185.41.152.110:3128",
+    "tested_at": "2026-02-14T16:19:48Z",
+    "ip": "185.41.152.110",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -79,45 +56,45 @@
     "country_code": "FR",
     "region": "Grand Est",
     "region_code": "GES",
-    "city": "Baccarat",
-    "latitude": 48.449081,
-    "longitude": 6.738029,
+    "city": "Marly",
+    "latitude": 49.059828,
+    "longitude": 6.154795,
     "is_eu": true,
-    "postal": "54120",
+    "postal": "57155",
     "connection": {
-      "asn": 12322,
-      "org": "Proxad Free SAS",
-      "isp": "Free SAS",
-      "domain": "proxad.net"
+      "asn": 197922,
+      "org": "FIRSTHEBERG",
+      "isp": "Techcrea Solutions SAS",
+      "domain": "techcrea.fr"
     }
   },
   {
-    "proxy": "http://178.170.43.129:8081",
-    "tested_at": "2026-02-14T15:54:23Z",
-    "ip": "178.170.43.129",
+    "proxy": "http://67.43.228.250:26263",
+    "tested_at": "2026-02-14T16:19:48Z",
+    "ip": "128.78.133.246",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "France",
     "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Boulogne-Billancourt",
-    "latitude": 48.8396952,
-    "longitude": 2.2399123,
+    "region": "Grand Est",
+    "region_code": "GES",
+    "city": "Lunéville",
+    "latitude": 48.592237,
+    "longitude": 6.492339,
     "is_eu": true,
-    "postal": "92100",
+    "postal": "54300",
     "connection": {
-      "asn": 21409,
-      "org": "SERVERS",
-      "isp": "Ikoula Net SAS",
-      "domain": "ikoula.com"
+      "asn": 5410,
+      "org": "Pool for Broadband Dsl Customers",
+      "isp": "Bouygues Telecom SA",
+      "domain": "bouyguestelecom.fr"
     }
   },
   {
-    "proxy": "http://90.84.188.97:8000",
-    "tested_at": "2026-02-14T15:54:32Z",
-    "ip": "90.84.188.97",
+    "proxy": "http://94.183.188.7:6891",
+    "tested_at": "2026-02-14T16:20:16Z",
+    "ip": "94.183.188.7",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -131,10 +108,33 @@
     "is_eu": true,
     "postal": "75007",
     "connection": {
-      "asn": 2280,
-      "org": "OBS OCB HONEY",
-      "isp": "Orange S.A.",
-      "domain": "orange.com"
+      "asn": 56971,
+      "org": "CGI GLOBAL LIMITED",
+      "isp": "CGI GLOBAL LIMITED",
+      "domain": "cloudbackbone.net"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.173:14411",
+    "tested_at": "2026-02-14T16:20:28Z",
+    "ip": "176.136.251.213",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Montigny-le-Bretonneux",
+    "latitude": 48.7738734,
+    "longitude": 2.0360157,
+    "is_eu": true,
+    "postal": "78180",
+    "connection": {
+      "asn": 5410,
+      "org": "Pool for Broadband Dsl Customers",
+      "isp": "Bouygues Telecom SA",
+      "domain": "bouyguestelecom.fr"
     }
   }
 ]

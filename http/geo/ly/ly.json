@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://165.16.27.43:1981",
-    "tested_at": "2026-02-14T15:54:05Z",
-    "ip": "165.16.27.22",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Libya",
-    "country_code": "LY",
-    "region": "Derna",
-    "region_code": "DR",
-    "city": "Derna",
-    "latitude": 32.755613,
-    "longitude": 22.6377432,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 37284,
-      "org": "Organisation Transahar IT Communications",
-      "isp": "Aljeel Aljadeed For Technology",
-      "domain": "aljeel.ly"
-    }
-  },
-  {
-    "proxy": "http://102.68.135.157:8080",
-    "tested_at": "2026-02-14T15:54:22Z",
-    "ip": "102.68.135.148",
+    "proxy": "http://102.68.128.215:8080",
+    "tested_at": "2026-02-14T16:20:26Z",
+    "ip": "102.68.128.206",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -40,9 +17,9 @@
     "postal": "350",
     "connection": {
       "asn": 21003,
-      "org": "Early Technical",
+      "org": "For Company Use And Interface Assignments",
       "isp": "General Post And Telecommunication Company gptc",
-      "domain": "earlytechnicaleducation.org"
+      "domain": "noclibya.com"
     }
   }
 ]

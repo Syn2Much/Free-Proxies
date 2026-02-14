@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://81.196.74.147:8080",
-    "tested_at": "2026-02-14T15:22:41Z",
-    "ip": "81.196.74.147",
+    "proxy": "http://185.128.240.77:8080",
+    "tested_at": "2026-02-14T16:20:35Z",
+    "ip": "185.128.240.77",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,16 +10,16 @@
     "country_code": "RO",
     "region": "Mehedinți",
     "region_code": "MH",
-    "city": "Drobeta-Turnu Severin",
-    "latitude": 44.6369227,
-    "longitude": 22.6597342,
+    "city": "Gogoșu",
+    "latitude": 44.3714069,
+    "longitude": 22.5957561,
     "is_eu": true,
-    "postal": "220131",
+    "postal": "227220",
     "connection": {
-      "asn": 8708,
-      "org": "RCS RDS S.A.",
-      "isp": "DIGI ROMANIA S.A.",
-      "domain": "digi.ro"
+      "asn": 49052,
+      "org": "DATACENTER SERVERS HOSTING",
+      "isp": "DATA ZYX SRL",
+      "domain": "datazyx.ro"
     }
   }
 ]
