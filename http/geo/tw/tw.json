@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://72.10.160.170:3295",
-    "tested_at": "2026-02-14T13:17:47Z",
-    "ip": "124.218.93.216",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Taiwan",
-    "country_code": "TW",
-    "region": "Kaohsiung City",
-    "region_code": "KHQ",
-    "city": "寶珠里",
-    "latitude": 22.6483956,
-    "longitude": 120.3262085,
-    "is_eu": false,
-    "postal": "807",
-    "connection": {
-      "asn": 7482,
-      "org": "Asia Pacific On line Services Inc.",
-      "isp": "Asia Pacific On line Service Inc.",
-      "domain": "apol.com.tw"
-    }
-  },
-  {
-    "proxy": "http://35.234.17.221:8080",
-    "tested_at": "2026-02-14T13:17:54Z",
-    "ip": "35.234.17.221",
+    "proxy": "http://106.107.195.68:8080",
+    "tested_at": "2026-02-14T13:49:22Z",
+    "ip": "106.107.195.68",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,10 +16,10 @@
     "is_eu": false,
     "postal": "11008",
     "connection": {
-      "asn": 396982,
-      "org": "Google LLC",
-      "isp": "Google LLC",
-      "domain": "google.com"
+      "asn": 18049,
+      "org": "New Century Infocomm Tech. Co., Ltd.",
+      "isp": "Taiwan Infrastructure Network Technologie",
+      "domain": "seed.net.tw"
     }
   }
 ]

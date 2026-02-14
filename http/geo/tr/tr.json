@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://188.132.222.141:8080",
-    "tested_at": "2026-02-14T13:17:43Z",
-    "ip": "188.132.222.141",
+    "proxy": "http://195.62.50.14:8080",
+    "tested_at": "2026-02-14T13:49:09Z",
+    "ip": "195.62.50.14",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,31 +16,54 @@
     "is_eu": false,
     "postal": "34126",
     "connection": {
-      "asn": 202561,
-      "org": "HIGH SPEED TELEKOMUNIKASYON VE HABERLESME HIZMETLERI LTD. STI.",
-      "isp": "High Speed Telekomunikasyon Ve Hab. Hiz. Ltd. Sti.",
-      "domain": "highspeed.com.tr"
+      "asn": 216472,
+      "org": "Hiperonline Iletisim Hizmetleri San. Tic. Ltd. Sti.",
+      "isp": "High Speed For Internet Services L.L.C",
+      "domain": "hiperonline.com.tr"
     }
   },
   {
-    "proxy": "http://188.132.222.69:8080",
-    "tested_at": "2026-02-14T13:17:58Z",
-    "ip": "188.132.222.69",
+    "proxy": "http://38.156.72.40:8080",
+    "tested_at": "2026-02-14T13:49:18Z",
+    "ip": "38.156.72.40",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Turkey",
     "country_code": "TR",
-    "region": "Mediterranean Region",
-    "region_code": "",
-    "city": "Antakya",
-    "latitude": 36.2022842,
-    "longitude": 36.1613221,
+    "region": "Kilis",
+    "region_code": "79",
+    "city": "Kilis",
+    "latitude": 36.716477,
+    "longitude": 37.114661,
     "is_eu": false,
-    "postal": "31001",
+    "postal": "79002",
     "connection": {
       "asn": 202561,
-      "org": "HIGH SPEED TELEKOMUNIKASYON VE HABERLESME HIZMETLERI LTD. STI.",
+      "org": "Cogent Communications",
+      "isp": "High Speed Telekomunikasyon Ve Hab. Hiz. Ltd. Sti.",
+      "domain": "highspeed.com.tr"
+    }
+  },
+  {
+    "proxy": "http://38.156.74.93:8080",
+    "tested_at": "2026-02-14T13:49:25Z",
+    "ip": "38.156.74.93",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Turkey",
+    "country_code": "TR",
+    "region": "Kilis",
+    "region_code": "79",
+    "city": "Kilis",
+    "latitude": 36.716477,
+    "longitude": 37.114661,
+    "is_eu": false,
+    "postal": "79002",
+    "connection": {
+      "asn": 202561,
+      "org": "Cogent Communications",
       "isp": "High Speed Telekomunikasyon Ve Hab. Hiz. Ltd. Sti.",
       "domain": "highspeed.com.tr"
     }

@@ -1,7 +1,76 @@
 [
   {
+    "proxy": "http://177.234.217.82:999",
+    "tested_at": "2026-02-14T13:48:38Z",
+    "ip": "177.234.217.82",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "region": "Azuay",
+    "region_code": "A",
+    "city": "San Felipe de Oña",
+    "latitude": -3.4575776,
+    "longitude": -79.1322744,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 52468,
+      "org": "NEGOCIOS Y TELEFONIA NEDETEL S.A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "nedetel.net"
+    }
+  },
+  {
+    "proxy": "http://200.24.130.149:999",
+    "tested_at": "2026-02-14T13:48:40Z",
+    "ip": "200.24.130.149",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "region": "Los Ríos",
+    "region_code": "R",
+    "city": "Pajonal",
+    "latitude": -1.9880611,
+    "longitude": -79.6066926,
+    "is_eu": false,
+    "postal": "120115",
+    "connection": {
+      "asn": 52468,
+      "org": "NEGOCIOS Y TELEFONIA NEDETEL S.A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "ufinet.com"
+    }
+  },
+  {
+    "proxy": "http://200.24.130.147:999",
+    "tested_at": "2026-02-14T13:48:41Z",
+    "ip": "200.24.130.149",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "region": "Los Ríos",
+    "region_code": "R",
+    "city": "Pajonal",
+    "latitude": -1.9880611,
+    "longitude": -79.6066926,
+    "is_eu": false,
+    "postal": "120115",
+    "connection": {
+      "asn": 52468,
+      "org": "NEGOCIOS Y TELEFONIA NEDETEL S.A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "ufinet.com"
+    }
+  },
+  {
     "proxy": "http://45.186.6.104:3128",
-    "tested_at": "2026-02-14T13:17:24Z",
+    "tested_at": "2026-02-14T13:48:45Z",
     "ip": "45.186.6.104",
     "success": true,
     "type": "IPv4",
@@ -23,9 +92,9 @@
     }
   },
   {
-    "proxy": "http://177.234.217.42:999",
-    "tested_at": "2026-02-14T13:17:30Z",
-    "ip": "177.234.217.42",
+    "proxy": "http://190.12.150.244:999",
+    "tested_at": "2026-02-14T13:48:47Z",
+    "ip": "190.12.150.244",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -39,16 +108,39 @@
     "is_eu": false,
     "postal": "170515",
     "connection": {
-      "asn": 52468,
-      "org": "NEGOCIOS Y TELEFONIA NEDETEL S.A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "nedetel.net"
+      "asn": 271795,
+      "org": "SERVITELCONET CIA. LTDA.",
+      "isp": "SERVITELCONET CIA. LTDA.",
+      "domain": "one.net.ec"
     }
   },
   {
-    "proxy": "http://177.234.217.43:999",
-    "tested_at": "2026-02-14T13:17:30Z",
-    "ip": "177.234.217.42",
+    "proxy": "http://67.43.236.19:2273",
+    "tested_at": "2026-02-14T13:48:54Z",
+    "ip": "186.69.116.74",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "region": "Pichincha",
+    "region_code": "P",
+    "city": "Quito",
+    "latitude": -0.3,
+    "longitude": -78.4833,
+    "is_eu": false,
+    "postal": "170801",
+    "connection": {
+      "asn": 14522,
+      "org": "",
+      "isp": "SERVICIOS DE TELECOMUNICACIONES SETEL S.A. XTRIM EC",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:9739",
+    "tested_at": "2026-02-14T13:49:16Z",
+    "ip": "191.99.18.2",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -62,15 +154,38 @@
     "is_eu": false,
     "postal": "170515",
     "connection": {
-      "asn": 52468,
-      "org": "NEGOCIOS Y TELEFONIA NEDETEL S.A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "nedetel.net"
+      "asn": 27738,
+      "org": "Ecuadortelecom S.A.",
+      "isp": "Ecuadortelecom S.A.",
+      "domain": "claro.com.ec"
+    }
+  },
+  {
+    "proxy": "http://177.234.211.79:999",
+    "tested_at": "2026-02-14T13:49:19Z",
+    "ip": "177.234.211.65",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "region": "Guayas",
+    "region_code": "G",
+    "city": "Guayaquil",
+    "latitude": -2.1709979,
+    "longitude": -79.9223592,
+    "is_eu": false,
+    "postal": "090505",
+    "connection": {
+      "asn": 272954,
+      "org": "VUELATECHNOLOGY S.A.S.",
+      "isp": "VUELATECHNOLOGY S.A.S.",
+      "domain": ""
     }
   },
   {
     "proxy": "http://181.78.194.249:999",
-    "tested_at": "2026-02-14T13:17:36Z",
+    "tested_at": "2026-02-14T13:49:21Z",
     "ip": "181.78.194.249",
     "success": true,
     "type": "IPv4",
@@ -92,32 +207,9 @@
     }
   },
   {
-    "proxy": "http://181.78.195.137:999",
-    "tested_at": "2026-02-14T13:17:47Z",
-    "ip": "181.78.195.137",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Ecuador",
-    "country_code": "EC",
-    "region": "Azuay",
-    "region_code": "A",
-    "city": "Nabón Canton",
-    "latitude": -3.3365341,
-    "longitude": -79.0630932,
-    "is_eu": false,
-    "postal": "010450",
-    "connection": {
-      "asn": 52468,
-      "org": "NEGOCIOS Y TELEFONIA NEDETEL S.A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "speednet.com.ec"
-    }
-  },
-  {
-    "proxy": "http://200.24.157.121:999",
-    "tested_at": "2026-02-14T13:18:06Z",
-    "ip": "200.24.157.120",
+    "proxy": "http://181.78.202.28:8080",
+    "tested_at": "2026-02-14T13:49:32Z",
+    "ip": "200.24.159.230",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -132,55 +224,9 @@
     "postal": "090505",
     "connection": {
       "asn": 52468,
-      "org": "NEGOCIOS Y TELEFONIA NEDETEL S.A.",
+      "org": "SISTELRAN S.A.",
       "isp": "UFINET PANAMA S.A.",
-      "domain": "nedetel.net"
-    }
-  },
-  {
-    "proxy": "http://45.4.202.144:999",
-    "tested_at": "2026-02-14T13:18:06Z",
-    "ip": "45.4.200.66",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Ecuador",
-    "country_code": "EC",
-    "region": "Pichincha",
-    "region_code": "P",
-    "city": "Quito",
-    "latitude": -0.1806532,
-    "longitude": -78.4678382,
-    "is_eu": false,
-    "postal": "170515",
-    "connection": {
-      "asn": 263238,
-      "org": "GEDATECU SA.",
-      "isp": "Eliana Vanessa Morocho O a",
-      "domain": "yopmail.com"
-    }
-  },
-  {
-    "proxy": "http://45.4.202.170:999",
-    "tested_at": "2026-02-14T13:18:10Z",
-    "ip": "45.4.202.171",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Ecuador",
-    "country_code": "EC",
-    "region": "Pichincha",
-    "region_code": "P",
-    "city": "Quito",
-    "latitude": -0.1806532,
-    "longitude": -78.4678382,
-    "is_eu": false,
-    "postal": "170515",
-    "connection": {
-      "asn": 263238,
-      "org": "Eliana Vanessa Morocho O a",
-      "isp": "Eliana Vanessa Morocho O a",
-      "domain": "iplanet.ec"
+      "domain": "ufinet.com"
     }
   }
 ]

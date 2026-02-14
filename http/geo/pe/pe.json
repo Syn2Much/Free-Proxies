@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://72.10.160.172:31085",
-    "tested_at": "2026-02-14T13:17:25Z",
+    "tested_at": "2026-02-14T13:48:45Z",
     "ip": "45.230.248.82",
     "success": true,
     "type": "IPv4",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://38.52.182.101:999",
-    "tested_at": "2026-02-14T13:17:25Z",
-    "ip": "38.52.182.96",
+    "proxy": "http://72.10.160.90:30649",
+    "tested_at": "2026-02-14T13:48:45Z",
+    "ip": "190.237.91.74",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -33,16 +33,39 @@
     "country_code": "PE",
     "region": "Lima",
     "region_code": "LIM",
-    "city": "Lima",
-    "latitude": -12.2179228,
-    "longitude": -76.9071431,
+    "city": "Jesus Maria",
+    "latitude": -12.0750295,
+    "longitude": -77.0435289,
     "is_eu": false,
-    "postal": "15822",
+    "postal": "20920",
     "connection": {
-      "asn": 273026,
+      "asn": 6147,
+      "org": "PE TDP GRS",
+      "isp": "TDP GRS",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://38.190.100.105:999",
+    "tested_at": "2026-02-14T13:48:55Z",
+    "ip": "38.190.100.106",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Lima",
+    "region_code": "LIM",
+    "city": "Independencia",
+    "latitude": -11.9929208,
+    "longitude": -77.0518169,
+    "is_eu": false,
+    "postal": "95300",
+    "connection": {
+      "asn": 273133,
       "org": "Cogent Communications",
-      "isp": "NEXSATEL SOCIEDAD ANONIMA CERRADA NEXSATEL S.A.C.",
-      "domain": "nexsatel.com.pe"
+      "isp": "CONEX TV E.I.R.L.",
+      "domain": "conextv.pe"
     }
   }
 ]

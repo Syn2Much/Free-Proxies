@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://2.139.62.85:3128",
-    "tested_at": "2026-02-14T11:43:30Z",
-    "ip": "2.139.62.85",
+    "proxy": "http://188.227.140.181:8080",
+    "tested_at": "2026-02-14T13:49:30Z",
+    "ip": "188.227.140.181",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +16,33 @@
     "is_eu": true,
     "postal": "28080",
     "connection": {
-      "asn": 3352,
-      "org": "Red De Servicios Ip",
-      "isp": "TELEFONICA DE ESPANA S.A.U.",
-      "domain": "telefonica.es"
+      "asn": 56882,
+      "org": "AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+      "isp": "AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+      "domain": "airenetworks.es"
+    }
+  },
+  {
+    "proxy": "http://80.78.128.94:8080",
+    "tested_at": "2026-02-14T13:49:31Z",
+    "ip": "80.78.128.94",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Spain",
+    "country_code": "ES",
+    "region": "Comunitat Valenciana",
+    "region_code": "VC",
+    "city": "Finestrat",
+    "latitude": 38.5677498,
+    "longitude": -0.2125435,
+    "is_eu": true,
+    "postal": "03509",
+    "connection": {
+      "asn": 202913,
+      "org": "CLOUDWIFI, SL",
+      "isp": "CLOUDWIFI, SL",
+      "domain": "cloudwifi.es"
     }
   }
 ]

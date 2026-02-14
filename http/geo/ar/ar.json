@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://167.249.52.218:999",
-    "tested_at": "2026-02-14T13:17:38Z",
-    "ip": "167.249.52.218",
+    "proxy": "http://67.43.236.20:8895",
+    "tested_at": "2026-02-14T13:49:20Z",
+    "ip": "181.166.0.42",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "Caseros",
+    "latitude": -34.6094827,
+    "longitude": -58.5634631,
+    "is_eu": false,
+    "postal": "1678",
+    "connection": {
+      "asn": 7303,
+      "org": "Telecom Argentina S.A.",
+      "isp": "Telecom Argentina S.A.",
+      "domain": "telecom.com.ar"
+    }
+  },
+  {
+    "proxy": "http://200.70.35.2:8080",
+    "tested_at": "2026-02-14T13:49:23Z",
+    "ip": "201.190.178.191",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -10,85 +33,16 @@
     "country_code": "AR",
     "region": "Mendoza",
     "region_code": "M",
-    "city": "Baños Lunlunta",
-    "latitude": -33.0666618,
-    "longitude": -68.8333511,
+    "city": "Maipú",
+    "latitude": -32.9846649,
+    "longitude": -68.7884399,
     "is_eu": false,
-    "postal": "",
+    "postal": "5515",
     "connection": {
-      "asn": 263793,
-      "org": "TECNET ARGENTINA S.A.",
-      "isp": "TECNET ARGENTINA S.A.",
-      "domain": "tecnetmza.com.ar"
-    }
-  },
-  {
-    "proxy": "http://190.111.218.139:999",
-    "tested_at": "2026-02-14T13:17:53Z",
-    "ip": "190.111.218.142",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Buenos Aires",
-    "region_code": "B",
-    "city": "Buenos Aires",
-    "latitude": -34.6036844,
-    "longitude": -58.3815591,
-    "is_eu": false,
-    "postal": "C1405 DJG",
-    "connection": {
-      "asn": 11014,
-      "org": "CPS",
-      "isp": "CPS",
-      "domain": "cps.com.ar"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.174:2793",
-    "tested_at": "2026-02-14T13:18:09Z",
-    "ip": "190.174.36.172",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Buenos Aires",
-    "region_code": "B",
-    "city": "Avellaneda",
-    "latitude": -34.6610756,
-    "longitude": -58.3669739,
-    "is_eu": false,
-    "postal": "1870",
-    "connection": {
-      "asn": 22927,
-      "org": "Telefonica De Argentina",
-      "isp": "Telefonica De Argentina",
-      "domain": "telefonica.com.ar"
-    }
-  },
-  {
-    "proxy": "http://191.97.96.208:8080",
-    "tested_at": "2026-02-14T13:18:10Z",
-    "ip": "191.97.96.86",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Río Negro",
-    "region_code": "R",
-    "city": "General Roca",
-    "latitude": -39.032803,
-    "longitude": -67.5892227,
-    "is_eu": false,
-    "postal": "8332",
-    "connection": {
-      "asn": 263213,
-      "org": "VISION NET",
-      "isp": "VISION NET",
-      "domain": "sierravision.com.ar"
+      "asn": 28075,
+      "org": "ARLINK S.A.",
+      "isp": "ARLINK S.A.",
+      "domain": "arlink.net.ar"
     }
   }
 ]

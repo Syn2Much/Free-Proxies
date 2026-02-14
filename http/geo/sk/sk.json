@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://91.217.33.161:8080",
-    "tested_at": "2026-02-14T07:02:16Z",
-    "ip": "185.69.107.246",
+    "proxy": "http://185.225.204.5:3128",
+    "tested_at": "2026-02-14T13:48:39Z",
+    "ip": "185.225.204.149",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Slovak Republic",
     "country_code": "SK",
-    "region": "Trnava",
+    "region": "Prešov",
     "region_code": "",
-    "city": "Trnava",
-    "latitude": 48.3709108,
-    "longitude": 17.5833218,
+    "city": "Kračúnovce",
+    "latitude": 49.0943599,
+    "longitude": 21.4875846,
     "is_eu": true,
-    "postal": "917 01",
+    "postal": "087 01",
     "connection": {
-      "asn": 201603,
-      "org": "AIRNET SK",
-      "isp": "Airnet S.R.O.",
-      "domain": "airnet.sk"
+      "asn": 34820,
+      "org": "Probasec net S.R.O.",
+      "isp": "Delta Online Spol. S R.O.",
+      "domain": "dol.sk"
     }
   }
 ]

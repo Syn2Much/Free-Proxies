@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://72.10.164.178:17469",
+    "tested_at": "2026-02-14T13:49:19Z",
+    "ip": "207.191.255.70",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Saint Lucia",
+    "country_code": "LC",
+    "region": "Castries",
+    "region_code": "02",
+    "city": "Castries City",
+    "latitude": 14.0101094,
+    "longitude": -60.9874687,
+    "is_eu": false,
+    "postal": "CP5857",
+    "connection": {
+      "asn": 15344,
+      "org": "KARIB CABLE KELCOM INTERNATIONAL SLU",
+      "isp": "Karib Cable",
+      "domain": "karibcable.com"
+    }
+  }
+]

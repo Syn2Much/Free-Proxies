@@ -1,77 +1,8 @@
 [
   {
-    "proxy": "http://123.16.15.41:1452",
-    "tested_at": "2026-02-14T13:17:31Z",
-    "ip": "123.16.15.41",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Son La province",
-    "region_code": "05",
-    "city": "Quang Minh",
-    "latitude": 20.8675802,
-    "longitude": 104.9739333,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 45899,
-      "org": "Vietnam Posts And Telecommunications Group",
-      "isp": "Vnpt Corp",
-      "domain": "vnpt.com.vn"
-    }
-  },
-  {
-    "proxy": "http://14.241.39.169:8080",
-    "tested_at": "2026-02-14T13:17:51Z",
-    "ip": "14.241.39.169",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Bac Ninh Province",
-    "region_code": "56",
-    "city": "Bac Ninh Province",
-    "latitude": 21.121444,
-    "longitude": 106.1110501,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 45899,
-      "org": "Vietnam Posts And Telecommunications Group",
-      "isp": "Vnpt Corp",
-      "domain": "vnpt.com.vn"
-    }
-  },
-  {
-    "proxy": "http://113.189.164.2:8080",
-    "tested_at": "2026-02-14T13:18:07Z",
-    "ip": "113.189.164.2",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Khanh Hoa Province",
-    "region_code": "34",
-    "city": "Nha Trang",
-    "latitude": 12.2387911,
-    "longitude": 109.1967488,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 45899,
-      "org": "Vietnam Posts And Telecommunications Group",
-      "isp": "Vnpt Corp",
-      "domain": "vnpt.com.vn"
-    }
-  },
-  {
-    "proxy": "http://203.205.33.131:1452",
-    "tested_at": "2026-02-14T13:18:10Z",
-    "ip": "203.205.33.131",
+    "proxy": "http://14.225.240.23:8562",
+    "tested_at": "2026-02-14T13:48:59Z",
+    "ip": "14.225.240.23",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -85,10 +16,10 @@
     "is_eu": false,
     "postal": "708000",
     "connection": {
-      "asn": 45903,
-      "org": "Cmc Telecom Infrastructure Company",
-      "isp": "Cmc Telecom Infrastructure Company",
-      "domain": "cmctelecom.vn"
+      "asn": 135905,
+      "org": "Vietnam Posts And Telecommunications Group",
+      "isp": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+      "domain": "vnpt.com.vn"
     }
   }
 ]

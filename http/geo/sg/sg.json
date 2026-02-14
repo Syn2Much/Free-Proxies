@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://72.10.160.92:23365",
-    "tested_at": "2026-02-14T13:17:35Z",
-    "ip": "103.6.151.73",
+    "proxy": "http://217.217.254.94:8080",
+    "tested_at": "2026-02-14T13:48:45Z",
+    "ip": "217.217.254.94",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,16 +16,39 @@
     "is_eu": false,
     "postal": "550304",
     "connection": {
-      "asn": 56300,
-      "org": "Myrepublic LTD",
-      "isp": "MYREPUBLIC LIMITED",
-      "domain": "myrepublic.net"
+      "asn": 141995,
+      "org": "Contabo GmbH",
+      "isp": "Contabo Asia Private Limited",
+      "domain": "contabo.de"
     }
   },
   {
-    "proxy": "http://146.190.80.158:9090",
-    "tested_at": "2026-02-14T13:18:04Z",
-    "ip": "146.190.80.158",
+    "proxy": "http://8.219.97.248:80",
+    "tested_at": "2026-02-14T13:49:15Z",
+    "ip": "8.219.64.236",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Singapore",
+    "country_code": "SG",
+    "region": "Southeast",
+    "region_code": "",
+    "city": "Singapore",
+    "latitude": 1.3553794,
+    "longitude": 103.8677444,
+    "is_eu": false,
+    "postal": "550304",
+    "connection": {
+      "asn": 45102,
+      "org": "Alibaba Cloud singapore Private Limited",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibabacloud.com"
+    }
+  },
+  {
+    "proxy": "http://128.199.254.13:9090",
+    "tested_at": "2026-02-14T13:49:27Z",
+    "ip": "128.199.254.13",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",

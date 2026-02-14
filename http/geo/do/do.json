@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://38.159.37.173:999",
-    "tested_at": "2026-02-14T12:14:58Z",
-    "ip": "38.159.37.170",
+    "proxy": "http://200.125.170.108:999",
+    "tested_at": "2026-02-14T13:48:37Z",
+    "ip": "200.125.170.109",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Dominican Republic",
     "country_code": "DO",
-    "region": "Distrito Nacional",
-    "region_code": "01",
-    "city": "Santo Domingo",
-    "latitude": 18.4860575,
-    "longitude": -69.9312117,
+    "region": "Santiago",
+    "region_code": "25",
+    "city": "Santiago De Los Caballeros",
+    "latitude": 19.4791963,
+    "longitude": -70.6930568,
     "is_eu": false,
-    "postal": "10119",
+    "postal": "51000",
     "connection": {
-      "asn": 271965,
-      "org": "Cogent Communications",
-      "isp": "ORBITEK SRL",
-      "domain": "orbiteksrl.com"
-    }
-  },
-  {
-    "proxy": "http://38.52.220.122:999",
-    "tested_at": "2026-02-14T12:15:33Z",
-    "ip": "38.52.220.5",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Distrito Nacional",
-    "region_code": "01",
-    "city": "Santo Domingo",
-    "latitude": 18.4860575,
-    "longitude": -69.9312117,
-    "is_eu": false,
-    "postal": "10119",
-    "connection": {
-      "asn": 272112,
-      "org": "Cogent Communications",
-      "isp": "TELECABLE DOMINICANO, S.A.",
-      "domain": "telecabledominicano.com.do"
+      "asn": 269931,
+      "org": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
+      "isp": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
+      "domain": "wmservice.com.do"
     }
   }
 ]

@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://185.157.160.159:8118",
+    "tested_at": "2026-02-14T13:48:53Z",
+    "ip": "185.157.160.159",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Sweden",
+    "country_code": "SE",
+    "region": "Stockholm County",
+    "region_code": "AB",
+    "city": "Stockholm",
+    "latitude": 59.3293235,
+    "longitude": 18.0685808,
+    "is_eu": true,
+    "postal": "111 29",
+    "connection": {
+      "asn": 42675,
+      "org": "Ovpn Stockholm",
+      "isp": "Obehosting Ab",
+      "domain": "ovpn.com"
+    }
+  },
+  {
     "proxy": "http://193.181.35.95:8118",
-    "tested_at": "2026-02-14T13:17:37Z",
+    "tested_at": "2026-02-14T13:49:11Z",
     "ip": "193.181.35.95",
     "success": true,
     "type": "IPv4",
