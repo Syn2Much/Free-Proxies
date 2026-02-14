@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://181.78.94.23:9991",
-    "tested_at": "2026-02-14T09:38:12Z",
-    "ip": "181.78.94.23",
+    "proxy": "http://37.230.57.112:999",
+    "tested_at": "2026-02-14T10:09:28Z",
+    "ip": "138.59.227.111",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Paraguay",
     "country_code": "PY",
-    "region": "San Pedro",
-    "region_code": "2",
-    "city": "Choré",
-    "latitude": -24.1866187,
-    "longitude": -56.5812701,
+    "region": "Concepción",
+    "region_code": "1",
+    "city": "Concepción",
+    "latitude": -23.4214264,
+    "longitude": -57.4344451,
     "is_eu": false,
-    "postal": "",
+    "postal": "8100",
     "connection": {
-      "asn": 52468,
-      "org": "UFINET PARAGUAY S.A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://190.104.134.145:3128",
-    "tested_at": "2026-02-14T09:38:38Z",
-    "ip": "190.128.201.236",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Paraguay",
-    "country_code": "PY",
-    "region": "Distrito Capital de Paraguay",
-    "region_code": "",
-    "city": "Asuncion",
-    "latitude": -25.2637399,
-    "longitude": -57.575926,
-    "is_eu": false,
-    "postal": "1226",
-    "connection": {
-      "asn": 23201,
-      "org": "Telecel S.A.",
-      "isp": "Telecel S.A.",
-      "domain": "telecel.com.py"
+      "asn": 270052,
+      "org": "STARTELECOM S.A.",
+      "isp": "STARTELECOM S.A.",
+      "domain": "startpy.com.py"
     }
   }
 ]

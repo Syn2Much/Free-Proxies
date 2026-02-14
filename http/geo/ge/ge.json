@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://72.56.59.62:63133",
-    "tested_at": "2026-02-14T09:37:57Z",
+    "tested_at": "2026-02-14T10:09:24Z",
     "ip": "72.56.59.62",
     "success": true,
     "type": "IPv4",
@@ -23,100 +23,8 @@
     }
   },
   {
-    "proxy": "http://104.238.30.91:63900",
-    "tested_at": "2026-02-14T09:37:57Z",
-    "ip": "104.238.30.91",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Georgia",
-    "country_code": "GE",
-    "region": "Tbilisi",
-    "region_code": "TB",
-    "city": "Tbilisi",
-    "latitude": 41.7151377,
-    "longitude": 44.827096,
-    "is_eu": false,
-    "postal": "0136",
-    "connection": {
-      "asn": 209183,
-      "org": "Akhalinet LLC",
-      "isp": "Akhalinet LLC",
-      "domain": "akhali.net"
-    }
-  },
-  {
-    "proxy": "http://104.238.30.86:63900",
-    "tested_at": "2026-02-14T09:37:58Z",
-    "ip": "104.238.30.86",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Georgia",
-    "country_code": "GE",
-    "region": "Tbilisi",
-    "region_code": "TB",
-    "city": "Tbilisi",
-    "latitude": 41.7151377,
-    "longitude": 44.827096,
-    "is_eu": false,
-    "postal": "0136",
-    "connection": {
-      "asn": 209183,
-      "org": "Akhalinet LLC",
-      "isp": "Akhalinet LLC",
-      "domain": "akhali.net"
-    }
-  },
-  {
-    "proxy": "http://72.56.59.56:63127",
-    "tested_at": "2026-02-14T09:38:00Z",
-    "ip": "72.56.59.56",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Georgia",
-    "country_code": "GE",
-    "region": "Tbilisi",
-    "region_code": "TB",
-    "city": "Tbilisi",
-    "latitude": 41.7151377,
-    "longitude": 44.827096,
-    "is_eu": false,
-    "postal": "0136",
-    "connection": {
-      "asn": 209183,
-      "org": "CLIENT LEASE",
-      "isp": "Akhalinet LLC",
-      "domain": "ulta.team"
-    }
-  },
-  {
-    "proxy": "http://72.56.50.17:59787",
-    "tested_at": "2026-02-14T09:38:05Z",
-    "ip": "72.56.50.17",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Georgia",
-    "country_code": "GE",
-    "region": "Tbilisi",
-    "region_code": "TB",
-    "city": "Tbilisi",
-    "latitude": 41.7151377,
-    "longitude": 44.827096,
-    "is_eu": false,
-    "postal": "0136",
-    "connection": {
-      "asn": 209183,
-      "org": "CLIENT LEASE AkhaliNet",
-      "isp": "Akhalinet LLC",
-      "domain": "ulta.team"
-    }
-  },
-  {
     "proxy": "http://104.238.30.58:63744",
-    "tested_at": "2026-02-14T09:38:09Z",
+    "tested_at": "2026-02-14T10:09:24Z",
     "ip": "104.238.30.58",
     "success": true,
     "type": "IPv4",
@@ -138,8 +46,54 @@
     }
   },
   {
+    "proxy": "http://72.56.59.56:63127",
+    "tested_at": "2026-02-14T10:09:24Z",
+    "ip": "72.56.59.56",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Georgia",
+    "country_code": "GE",
+    "region": "Tbilisi",
+    "region_code": "TB",
+    "city": "Tbilisi",
+    "latitude": 41.7151377,
+    "longitude": 44.827096,
+    "is_eu": false,
+    "postal": "0136",
+    "connection": {
+      "asn": 209183,
+      "org": "CLIENT LEASE",
+      "isp": "Akhalinet LLC",
+      "domain": "ulta.team"
+    }
+  },
+  {
+    "proxy": "http://72.56.59.23:61937",
+    "tested_at": "2026-02-14T10:09:24Z",
+    "ip": "72.56.59.23",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Georgia",
+    "country_code": "GE",
+    "region": "Tbilisi",
+    "region_code": "TB",
+    "city": "Tbilisi",
+    "latitude": 41.7151377,
+    "longitude": 44.827096,
+    "is_eu": false,
+    "postal": "0136",
+    "connection": {
+      "asn": 209183,
+      "org": "CLIENT LEASE",
+      "isp": "Akhalinet LLC",
+      "domain": "ulta.team"
+    }
+  },
+  {
     "proxy": "http://72.56.59.17:61931",
-    "tested_at": "2026-02-14T09:38:30Z",
+    "tested_at": "2026-02-14T10:09:24Z",
     "ip": "72.56.59.17",
     "success": true,
     "type": "IPv4",
@@ -161,8 +115,31 @@
     }
   },
   {
+    "proxy": "http://104.238.30.91:63900",
+    "tested_at": "2026-02-14T10:09:34Z",
+    "ip": "104.238.30.91",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Georgia",
+    "country_code": "GE",
+    "region": "Tbilisi",
+    "region_code": "TB",
+    "city": "Tbilisi",
+    "latitude": 41.7151377,
+    "longitude": 44.827096,
+    "is_eu": false,
+    "postal": "0136",
+    "connection": {
+      "asn": 209183,
+      "org": "Akhalinet LLC",
+      "isp": "Akhalinet LLC",
+      "domain": "akhali.net"
+    }
+  },
+  {
     "proxy": "http://104.238.30.37:59741",
-    "tested_at": "2026-02-14T09:38:37Z",
+    "tested_at": "2026-02-14T10:09:34Z",
     "ip": "104.238.30.37",
     "success": true,
     "type": "IPv4",
@@ -184,32 +161,9 @@
     }
   },
   {
-    "proxy": "http://85.117.56.115:8080",
-    "tested_at": "2026-02-14T09:38:45Z",
-    "ip": "85.117.56.115",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Georgia",
-    "country_code": "GE",
-    "region": "Lower Kartli",
-    "region_code": "KK",
-    "city": "Kazreti",
-    "latitude": 41.3820084,
-    "longitude": 44.4181799,
-    "is_eu": false,
-    "postal": "1100",
-    "connection": {
-      "asn": 20771,
-      "org": "CO",
-      "isp": "Caucasus Online Ltd.",
-      "domain": "co.ge"
-    }
-  },
-  {
-    "proxy": "http://72.56.59.23:61937",
-    "tested_at": "2026-02-14T09:38:47Z",
-    "ip": "72.56.59.23",
+    "proxy": "http://104.238.30.86:63900",
+    "tested_at": "2026-02-14T10:09:34Z",
+    "ip": "104.238.30.86",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -224,7 +178,76 @@
     "postal": "0136",
     "connection": {
       "asn": 209183,
-      "org": "CLIENT LEASE",
+      "org": "Akhalinet LLC",
+      "isp": "Akhalinet LLC",
+      "domain": "akhali.net"
+    }
+  },
+  {
+    "proxy": "http://85.117.61.112:8080",
+    "tested_at": "2026-02-14T10:09:44Z",
+    "ip": "85.117.61.112",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Georgia",
+    "country_code": "GE",
+    "region": "Tbilisi",
+    "region_code": "TB",
+    "city": "Tbilisi",
+    "latitude": 41.7151377,
+    "longitude": 44.827096,
+    "is_eu": false,
+    "postal": "0136",
+    "connection": {
+      "asn": 20771,
+      "org": "CO",
+      "isp": "Caucasus Online Ltd.",
+      "domain": "co.ge"
+    }
+  },
+  {
+    "proxy": "http://94.43.164.242:8080",
+    "tested_at": "2026-02-14T10:10:00Z",
+    "ip": "94.43.164.242",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Georgia",
+    "country_code": "GE",
+    "region": "Autonomous Republic of Adjara",
+    "region_code": "AJ",
+    "city": "Batumi",
+    "latitude": 41.6167547,
+    "longitude": 41.6367455,
+    "is_eu": false,
+    "postal": "6008",
+    "connection": {
+      "asn": 35805,
+      "org": "JSC Silknet",
+      "isp": "JSC Silknet",
+      "domain": "silknet.com"
+    }
+  },
+  {
+    "proxy": "http://72.56.50.17:59787",
+    "tested_at": "2026-02-14T10:10:06Z",
+    "ip": "72.56.50.17",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Georgia",
+    "country_code": "GE",
+    "region": "Tbilisi",
+    "region_code": "TB",
+    "city": "Tbilisi",
+    "latitude": 41.7151377,
+    "longitude": 44.827096,
+    "is_eu": false,
+    "postal": "0136",
+    "connection": {
+      "asn": 209183,
+      "org": "CLIENT LEASE AkhaliNet",
       "isp": "Akhalinet LLC",
       "domain": "ulta.team"
     }

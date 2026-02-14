@@ -1,23 +1,23 @@
 [
   {
-    "proxy": "http://72.10.164.178:20055",
-    "tested_at": "2026-02-14T08:04:54Z",
-    "ip": "188.236.207.225",
+    "proxy": "http://72.10.160.91:19717",
+    "tested_at": "2026-02-14T10:09:56Z",
+    "ip": "37.34.138.46",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Kuwait",
     "country_code": "KW",
-    "region": "Mubarak Al-Kabeer",
-    "region_code": "MU",
-    "city": "Mubarak Al-Kabeer Governorate",
-    "latitude": 29.21224,
-    "longitude": 48.0605108,
+    "region": "Al Asimah",
+    "region_code": "KU",
+    "city": "Kuwait City",
+    "latitude": 29.375859,
+    "longitude": 47.9774052,
     "is_eu": false,
-    "postal": "35706",
+    "postal": "15005",
     "connection": {
       "asn": 42961,
-      "org": "Mobile Telecommunications Company K.S.C.P.",
+      "org": "ZAIN KW",
       "isp": "Mobile Telecommunications Company K.S.C.P.",
       "domain": "zain.com"
     }

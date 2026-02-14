@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://190.210.62.131:8080",
-    "tested_at": "2026-02-14T09:38:09Z",
-    "ip": "190.210.62.131",
+    "proxy": "http://181.209.118.250:999",
+    "tested_at": "2026-02-14T10:09:29Z",
+    "ip": "181.209.118.250",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -16,16 +16,39 @@
     "is_eu": false,
     "postal": "C1405 DJG",
     "connection": {
-      "asn": 16814,
-      "org": "NSS S.A.",
-      "isp": "NSS S.A.",
-      "domain": "iplan.com.ar"
+      "asn": 52361,
+      "org": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
+      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
+      "domain": "arsat.com.ar"
     }
   },
   {
-    "proxy": "http://131.0.234.54:55555",
-    "tested_at": "2026-02-14T09:38:15Z",
-    "ip": "131.0.234.51",
+    "proxy": "http://200.59.10.42:999",
+    "tested_at": "2026-02-14T10:09:40Z",
+    "ip": "200.59.10.38",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "AAP",
+    "latitude": -34.604694,
+    "longitude": -58.395998,
+    "is_eu": false,
+    "postal": "C1045",
+    "connection": {
+      "asn": 12150,
+      "org": "Clientes Ctlc",
+      "isp": "COTELCAM",
+      "domain": "advantun.com"
+    }
+  },
+  {
+    "proxy": "http://181.209.82.206:999",
+    "tested_at": "2026-02-14T10:09:41Z",
+    "ip": "181.209.82.206",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -39,16 +62,16 @@
     "is_eu": false,
     "postal": "C1405 DJG",
     "connection": {
-      "asn": 61470,
-      "org": "MUSURIT",
-      "isp": "MUSURIT",
-      "domain": "musurit.net"
+      "asn": 52361,
+      "org": "Net g S.R.L",
+      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
+      "domain": "arsat.com.ar"
     }
   },
   {
-    "proxy": "http://181.209.111.146:999",
-    "tested_at": "2026-02-14T09:38:17Z",
-    "ip": "181.209.111.148",
+    "proxy": "http://170.80.95.254:11211",
+    "tested_at": "2026-02-14T10:09:47Z",
+    "ip": "170.80.95.1",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -56,22 +79,22 @@
     "country_code": "AR",
     "region": "Buenos Aires",
     "region_code": "B",
-    "city": "Benavidez",
-    "latitude": -34.4151715,
-    "longitude": -58.6867547,
+    "city": "San Carlos de Bolívar",
+    "latitude": -36.2391263,
+    "longitude": -61.1255879,
     "is_eu": false,
-    "postal": "1621",
+    "postal": "B6550 CGG",
     "connection": {
-      "asn": 52361,
-      "org": "Jujuy Sapem",
-      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
-      "domain": "arsat.com.ar"
+      "asn": 270089,
+      "org": "FIBRAS OPTICAS DE MAR DEL PLATA S.A.",
+      "isp": "FIBRAS OPTICAS DE MAR DEL PLATA S.A.",
+      "domain": "sectornet.com.ar"
     }
   },
   {
-    "proxy": "http://181.209.111.147:999",
-    "tested_at": "2026-02-14T09:38:28Z",
-    "ip": "181.209.111.147",
+    "proxy": "http://181.209.82.195:999",
+    "tested_at": "2026-02-14T10:09:55Z",
+    "ip": "181.209.82.197",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -79,22 +102,45 @@
     "country_code": "AR",
     "region": "Buenos Aires",
     "region_code": "B",
-    "city": "Benavidez",
-    "latitude": -34.4151715,
-    "longitude": -58.6867547,
+    "city": "Buenos Aires",
+    "latitude": -34.6036844,
+    "longitude": -58.3815591,
     "is_eu": false,
-    "postal": "1621",
+    "postal": "C1405 DJG",
     "connection": {
       "asn": 52361,
-      "org": "Jujuy Sapem",
+      "org": "Net g S.R.L",
       "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
       "domain": "arsat.com.ar"
     }
   },
   {
-    "proxy": "http://179.0.183.182:999",
-    "tested_at": "2026-02-14T09:38:28Z",
-    "ip": "179.0.183.179",
+    "proxy": "http://181.104.70.198:3128",
+    "tested_at": "2026-02-14T10:10:00Z",
+    "ip": "181.104.70.198",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "Buenos Aires",
+    "latitude": -34.6036844,
+    "longitude": -58.3815591,
+    "is_eu": false,
+    "postal": "C1405 DJG",
+    "connection": {
+      "asn": 7303,
+      "org": "Telecom Personal Bs AS",
+      "isp": "Telecom Argentina S.A.",
+      "domain": "telecom.com.ar"
+    }
+  },
+  {
+    "proxy": "http://200.114.81.219:8080",
+    "tested_at": "2026-02-14T10:10:01Z",
+    "ip": "200.114.81.20",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -102,16 +148,16 @@
     "country_code": "AR",
     "region": "Corrientes",
     "region_code": "W",
-    "city": "Corrientes",
-    "latitude": -27.4692131,
-    "longitude": -58.8306349,
+    "city": "Saladas",
+    "latitude": -28.2557422,
+    "longitude": -58.6233566,
     "is_eu": false,
-    "postal": "3400",
+    "postal": "3420",
     "connection": {
-      "asn": 270044,
-      "org": "CORRIENTES TELECOMUNICACIONES S.A.P.E.M.",
-      "isp": "CORRIENTES TELECOMUNICACIONES S.A.P.E.M.",
-      "domain": "telco.com.ar"
+      "asn": 273088,
+      "org": "SIGOT ALEXIS RAUL SPEED INTERNET",
+      "isp": "SIGOT ALEXIS RAUL SPEED INTERNET",
+      "domain": "speedinternet.com.ar"
     }
   }
 ]

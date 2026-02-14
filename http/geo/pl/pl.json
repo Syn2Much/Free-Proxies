@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://144.31.0.166:3128",
-    "tested_at": "2026-02-14T09:38:24Z",
+    "tested_at": "2026-02-14T10:09:36Z",
     "ip": "144.31.0.166",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,29 @@
       "org": "H NEXUS LTD",
       "isp": "H NEXUS LTD",
       "domain": "h2.nexus"
+    }
+  },
+  {
+    "proxy": "http://78.9.234.55:8080",
+    "tested_at": "2026-02-14T10:09:53Z",
+    "ip": "78.9.234.55",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Poland",
+    "country_code": "PL",
+    "region": "West Pomeranian Voivodeship",
+    "region_code": "32",
+    "city": "Szczecin",
+    "latitude": 53.4285438,
+    "longitude": 14.5528116,
+    "is_eu": true,
+    "postal": "70-414",
+    "connection": {
+      "asn": 12741,
+      "org": "Dynamic Broadband Services",
+      "isp": "Netia SA",
+      "domain": "netia.pl"
     }
   }
 ]

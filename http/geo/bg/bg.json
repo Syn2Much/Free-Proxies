@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://85.217.192.245:1414",
-    "tested_at": "2026-02-14T09:38:09Z",
-    "ip": "85.217.192.39",
+    "proxy": "http://45.136.198.40:3128",
+    "tested_at": "2026-02-14T10:09:44Z",
+    "ip": "45.136.198.40",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Bulgaria",
     "country_code": "BG",
-    "region": "Veliko Tarnovo",
-    "region_code": "04",
-    "city": "Svishtov",
-    "latitude": 43.618351,
-    "longitude": 25.3506225,
+    "region": "Sofia-city",
+    "region_code": "",
+    "city": "Sofia",
+    "latitude": 42.6977082,
+    "longitude": 23.3218675,
     "is_eu": true,
-    "postal": "5250",
+    "postal": "1000",
     "connection": {
-      "asn": 34368,
-      "org": "NETERRA THEZONE NET",
-      "isp": "Zonata Invest Sllc",
-      "domain": "neterra.net"
+      "asn": 9009,
+      "org": "Iroko Networks Corporation",
+      "isp": "M Europe SRL",
+      "domain": "iroko.net"
+    }
+  },
+  {
+    "proxy": "http://213.169.33.8:8001",
+    "tested_at": "2026-02-14T10:10:12Z",
+    "ip": "213.169.33.7",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "region": "Sofia-city",
+    "region_code": "",
+    "city": "Sofia",
+    "latitude": 42.6977082,
+    "longitude": 23.3218675,
+    "is_eu": true,
+    "postal": "1000",
+    "connection": {
+      "asn": 8717,
+      "org": "A1 Bulgaria Ead",
+      "isp": "A1 Bulgaria Ead",
+      "domain": "a1.bg"
     }
   }
 ]

@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://72.10.164.178:1737",
+    "tested_at": "2026-02-14T10:09:52Z",
+    "ip": "212.70.108.16",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Qatar",
+    "country_code": "QA",
+    "region": "Doha",
+    "region_code": "DA",
+    "city": "Doha",
+    "latitude": 25.2854473,
+    "longitude": 51.5310398,
+    "is_eu": false,
+    "postal": "15054",
+    "connection": {
+      "asn": 48728,
+      "org": "QA VODAFONEQATAR",
+      "isp": "Vodafone Qatar P.Q.S.C",
+      "domain": "vodafone.qa"
+    }
+  }
+]

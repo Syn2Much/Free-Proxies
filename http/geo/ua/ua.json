@@ -1,76 +1,7 @@
 [
   {
-    "proxy": "http://178.34.190.6:8080",
-    "tested_at": "2026-02-14T09:38:04Z",
-    "ip": "178.34.190.6",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Simferopol municipality council",
-    "region_code": "",
-    "city": "Simferopol",
-    "latitude": 44.952117,
-    "longitude": 34.102417,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 201776,
-      "org": "Miranda media LTD",
-      "isp": "Miranda media LTD",
-      "domain": "miranda-media.ru"
-    }
-  },
-  {
-    "proxy": "http://195.149.125.150:8080",
-    "tested_at": "2026-02-14T09:38:21Z",
-    "ip": "195.149.125.150",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Odesa Oblast",
-    "region_code": "51",
-    "city": "Moldove",
-    "latitude": 46.2141398,
-    "longitude": 29.6513956,
-    "is_eu": false,
-    "postal": "68271",
-    "connection": {
-      "asn": 29475,
-      "org": "Complex Communication Systems LTD",
-      "isp": "Complex Communication Systems LTD",
-      "domain": "tst.od.ua"
-    }
-  },
-  {
-    "proxy": "http://62.122.207.173:8080",
-    "tested_at": "2026-02-14T09:38:22Z",
-    "ip": "62.122.207.173",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Ivano-Frankivsk Oblast",
-    "region_code": "",
-    "city": "Ivano-Frankivsk",
-    "latitude": 48.922633,
-    "longitude": 24.711117,
-    "is_eu": false,
-    "postal": "76000",
-    "connection": {
-      "asn": 49125,
-      "org": "Uteam LTD",
-      "isp": "Uteam LTD",
-      "domain": "uteam.ua"
-    }
-  },
-  {
     "proxy": "http://91.238.104.171:2023",
-    "tested_at": "2026-02-14T09:38:37Z",
+    "tested_at": "2026-02-14T10:09:27Z",
     "ip": "91.238.104.171",
     "success": true,
     "type": "IPv4",
@@ -89,6 +20,52 @@
       "org": "Fop Reznichenko Sergey Mykolayovich",
       "isp": "Fop Reznichenko Sergey Mykolayovich",
       "domain": "bytes.ua"
+    }
+  },
+  {
+    "proxy": "http://91.228.217.195:8989",
+    "tested_at": "2026-02-14T10:09:28Z",
+    "ip": "91.228.217.195",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Ivano-Frankivsk Oblast",
+    "region_code": "",
+    "city": "Kryvorivnya",
+    "latitude": 48.1736874,
+    "longitude": 24.8963763,
+    "is_eu": false,
+    "postal": "78710",
+    "connection": {
+      "asn": 209907,
+      "org": "Fop Saiv Igor Stepanovich",
+      "isp": "Fop Saiv Igor Stepanovich",
+      "domain": "gipernet.com.ua"
+    }
+  },
+  {
+    "proxy": "http://194.29.60.220:8080",
+    "tested_at": "2026-02-14T10:10:00Z",
+    "ip": "194.29.60.220",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Vinnytsia Oblast",
+    "region_code": "05",
+    "city": "Vinnytsia",
+    "latitude": 49.233083,
+    "longitude": 28.468217,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 31520,
+      "org": "PRIVATE JOINT STOCK COMPANY DATAGROUP",
+      "isp": "PRIVATE JOINT STOCK COMPANY DATAGROUP",
+      "domain": "datagroup.ua"
     }
   }
 ]

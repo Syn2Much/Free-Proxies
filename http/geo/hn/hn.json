@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://181.78.45.77:999",
-    "tested_at": "2026-02-14T09:38:00Z",
-    "ip": "45.68.63.133",
+    "proxy": "http://181.78.44.63:999",
+    "tested_at": "2026-02-14T10:09:39Z",
+    "ip": "181.78.44.63",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Honduras",
     "country_code": "HN",
-    "region": "Yoro",
-    "region_code": "YO",
-    "city": "La Mina",
-    "latitude": 15.3173064,
-    "longitude": -87.8328712,
+    "region": "Cortés",
+    "region_code": "CR",
+    "city": "San Pedro Sula",
+    "latitude": 15.5149204,
+    "longitude": -87.9922684,
     "is_eu": false,
-    "postal": "23201",
+    "postal": "21101",
     "connection": {
-      "asn": 64150,
-      "org": "PIT HONDURAS S. DE R.L. DE C.V.",
-      "isp": "PIT HONDURAS S. DE R.L. DE C.V.",
-      "domain": "pithonduras.hn"
+      "asn": 52468,
+      "org": "Ufinet Honduras, S. A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "ufinet.com"
     }
   }
 ]

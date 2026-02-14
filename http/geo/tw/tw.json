@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://27.147.28.73:8080",
-    "tested_at": "2026-02-14T09:38:04Z",
-    "ip": "27.147.28.73",
+    "proxy": "http://72.10.164.178:4471",
+    "tested_at": "2026-02-14T10:10:04Z",
+    "ip": "103.234.205.170",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Taiwan",
     "country_code": "TW",
-    "region": "New Taipei City",
-    "region_code": "",
-    "city": "Zhitan 5th Street",
-    "latitude": 24.941202,
-    "longitude": 121.534131,
+    "region": "Keelung City",
+    "region_code": "KEE",
+    "city": "Taipei",
+    "latitude": 25.0329694,
+    "longitude": 121.5654177,
     "is_eu": false,
-    "postal": "231",
+    "postal": "11008",
     "connection": {
-      "asn": 18429,
-      "org": "CABLE GIANT CATV. CO., LTD.",
-      "isp": "Extra lan Technologies Co., LTD",
-      "domain": "cable-giant.com.tw"
+      "asn": 18419,
+      "org": "Dada Broadband Ltd.",
+      "isp": "Dada Broadband Ltd.",
+      "domain": "dadabroadband.com"
     }
   }
 ]

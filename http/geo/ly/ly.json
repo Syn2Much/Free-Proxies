@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://102.68.135.157:8080",
-    "tested_at": "2026-02-14T09:37:56Z",
-    "ip": "102.68.135.148",
+    "proxy": "http://102.68.135.147:8080",
+    "tested_at": "2026-02-14T10:09:27Z",
+    "ip": "102.68.135.147",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -23,9 +23,55 @@
     }
   },
   {
-    "proxy": "http://102.68.128.216:8080",
-    "tested_at": "2026-02-14T09:38:20Z",
-    "ip": "102.68.128.207",
+    "proxy": "http://41.254.47.66:19000",
+    "tested_at": "2026-02-14T10:09:38Z",
+    "ip": "41.254.47.66",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Tripoli",
+    "region_code": "TB",
+    "city": "Tripoli",
+    "latitude": 32.8872094,
+    "longitude": 13.1913383,
+    "is_eu": false,
+    "postal": "350",
+    "connection": {
+      "asn": 21003,
+      "org": "Libyan Telecom and Technology",
+      "isp": "LTT Network Backbone and POPs",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://165.16.58.124:8080",
+    "tested_at": "2026-02-14T10:09:56Z",
+    "ip": "165.16.58.124",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Jabal al Gharbi",
+    "region_code": "JG",
+    "city": "Yefren",
+    "latitude": 32.053558,
+    "longitude": 12.5355393,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 37284,
+      "org": "Aljeel Aljadeed For Technology",
+      "isp": "Aljeel Aljadeed For Technology",
+      "domain": "aljeel.ly"
+    }
+  },
+  {
+    "proxy": "http://102.68.128.210:8080",
+    "tested_at": "2026-02-14T10:10:14Z",
+    "ip": "102.68.128.200",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",

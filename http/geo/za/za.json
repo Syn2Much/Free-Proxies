@@ -1,8 +1,54 @@
 [
   {
-    "proxy": "http://169.159.128.76:8865",
-    "tested_at": "2026-02-14T09:38:00Z",
-    "ip": "169.159.128.76",
+    "proxy": "http://102.164.215.223:8080",
+    "tested_at": "2026-02-14T10:09:26Z",
+    "ip": "102.164.215.223",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "North West",
+    "region_code": "NW",
+    "city": "Mmabatho",
+    "latitude": -25.8377623,
+    "longitude": 25.594752,
+    "is_eu": false,
+    "postal": "2790",
+    "connection": {
+      "asn": 327750,
+      "org": "JENNY INTERNET PTY LTD",
+      "isp": "JENNY INTERNET PTY LTD",
+      "domain": "jennyinternet.co.za"
+    }
+  },
+  {
+    "proxy": "http://102.218.40.77:8082",
+    "tested_at": "2026-02-14T10:09:47Z",
+    "ip": "102.218.40.66",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "KwaZulu-Natal",
+    "region_code": "KZN",
+    "city": "Newcastle",
+    "latitude": -27.7138429,
+    "longitude": 29.9971769,
+    "is_eu": false,
+    "postal": "2940",
+    "connection": {
+      "asn": 328942,
+      "org": "Newcastle Broadband Users",
+      "isp": "IMVULA ITECHNOLOGIES PTY LTD",
+      "domain": "imvulaitech.co.za"
+    }
+  },
+  {
+    "proxy": "http://105.28.176.41:9812",
+    "tested_at": "2026-02-14T10:09:50Z",
+    "ip": "105.27.130.22",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -10,21 +56,67 @@
     "country_code": "ZA",
     "region": "Gauteng",
     "region_code": "GT",
-    "city": "Pretoria",
-    "latitude": -25.7478676,
-    "longitude": 28.2292712,
+    "city": "Sandton",
+    "latitude": -26.1075663,
+    "longitude": 28.0567007,
     "is_eu": false,
-    "postal": "0126",
+    "postal": "1865",
     "connection": {
-      "asn": 328471,
-      "org": "HERO TELECOMS PTY LTD",
-      "isp": "HERO TELECOMS PTY LTD",
-      "domain": "herotel.com"
+      "asn": 37100,
+      "org": "Assignment Made to Seacom Infrastructure.",
+      "isp": "Seacom Limited",
+      "domain": "seacom.mu"
     }
   },
   {
-    "proxy": "http://196.251.193.116:8084",
-    "tested_at": "2026-02-14T09:38:02Z",
+    "proxy": "http://41.79.148.233:8084",
+    "tested_at": "2026-02-14T10:09:59Z",
+    "ip": "41.222.152.21",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "North West",
+    "region_code": "NW",
+    "city": "Brits",
+    "latitude": -25.6099895,
+    "longitude": 27.7959713,
+    "is_eu": false,
+    "postal": "0250",
+    "connection": {
+      "asn": 37403,
+      "org": "Infogro Netblock",
+      "isp": "Info gro pty LTD",
+      "domain": "infogro.net"
+    }
+  },
+  {
+    "proxy": "http://102.39.157.235:8080",
+    "tested_at": "2026-02-14T10:10:01Z",
+    "ip": "102.39.157.235",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Western Cape",
+    "region_code": "WC",
+    "city": "Cape Town",
+    "latitude": -33.719294,
+    "longitude": 18.4543113,
+    "is_eu": false,
+    "postal": "8001",
+    "connection": {
+      "asn": 11845,
+      "org": "Vox Telecom",
+      "isp": "Vox Telecom LTD",
+      "domain": "voxtelecom.co.za"
+    }
+  },
+  {
+    "proxy": "http://196.251.193.252:8083",
+    "tested_at": "2026-02-14T10:10:09Z",
     "ip": "196.251.193.116",
     "success": true,
     "type": "IPv4",
@@ -47,7 +139,7 @@
   },
   {
     "proxy": "http://156.155.50.93:8080",
-    "tested_at": "2026-02-14T09:38:40Z",
+    "tested_at": "2026-02-14T10:10:11Z",
     "ip": "156.155.50.93",
     "success": true,
     "type": "IPv4",
@@ -66,52 +158,6 @@
       "org": "Axxess Networks",
       "isp": "AFRIHOST SP PTY LTD",
       "domain": "axxess.co.za"
-    }
-  },
-  {
-    "proxy": "http://165.0.136.30:8080",
-    "tested_at": "2026-02-14T09:38:42Z",
-    "ip": "165.0.136.30",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Western Cape",
-    "region_code": "WC",
-    "city": "Cape Town",
-    "latitude": -33.9248685,
-    "longitude": 18.4240553,
-    "is_eu": false,
-    "postal": "8001",
-    "connection": {
-      "asn": 37053,
-      "org": "Rsaweb",
-      "isp": "RSAWEB PTY LTD",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://154.0.14.116:3128",
-    "tested_at": "2026-02-14T09:38:50Z",
-    "ip": "154.0.14.116",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Gauteng",
-    "region_code": "GT",
-    "city": "Johannesburg",
-    "latitude": -26.2041028,
-    "longitude": 28.0473051,
-    "is_eu": false,
-    "postal": "2001",
-    "connection": {
-      "asn": 37680,
-      "org": "Cisp Internal",
-      "isp": "Cool Ideas Service Provider pty LTD",
-      "domain": "coolideas.co.za"
     }
   }
 ]

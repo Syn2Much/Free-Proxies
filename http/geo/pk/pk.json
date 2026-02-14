@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "http://67.43.236.20:11565",
-    "tested_at": "2026-02-14T09:38:08Z",
-    "ip": "182.180.61.84",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Pakistan",
-    "country_code": "PK",
-    "region": "Islamabad Capital Territory",
-    "region_code": "",
-    "city": "Islamabad",
-    "latitude": 33.7293882,
-    "longitude": 73.0931461,
-    "is_eu": false,
-    "postal": "44000",
-    "connection": {
-      "asn": 17557,
-      "org": "Dslam Infrastructure South",
-      "isp": "Pakistan Telecommuication Company Limited",
-      "domain": "ptcl.net.pk"
-    }
-  },
-  {
-    "proxy": "http://67.43.236.19:11565",
-    "tested_at": "2026-02-14T09:38:18Z",
-    "ip": "182.180.61.84",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Pakistan",
-    "country_code": "PK",
-    "region": "Islamabad Capital Territory",
-    "region_code": "",
-    "city": "Islamabad",
-    "latitude": 33.7293882,
-    "longitude": 73.0931461,
-    "is_eu": false,
-    "postal": "44000",
-    "connection": {
-      "asn": 17557,
-      "org": "Dslam Infrastructure South",
-      "isp": "Pakistan Telecommuication Company Limited",
-      "domain": "ptcl.net.pk"
-    }
-  },
-  {
-    "proxy": "http://125.209.110.83:39617",
-    "tested_at": "2026-02-14T09:38:52Z",
-    "ip": "58.27.152.162",
+    "proxy": "http://121.91.60.68:8080",
+    "tested_at": "2026-02-14T10:09:47Z",
+    "ip": "121.91.60.68",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -56,16 +10,16 @@
     "country_code": "PK",
     "region": "Punjab",
     "region_code": "PB",
-    "city": "Lahore",
-    "latitude": 31.5546061,
-    "longitude": 74.3571581,
+    "city": "Daultala",
+    "latitude": 33.1918408,
+    "longitude": 73.1423364,
     "is_eu": false,
-    "postal": "54000",
+    "postal": "",
     "connection": {
-      "asn": 38264,
-      "org": "National Wimax ims Environment",
-      "isp": "Wateen Telecom Limited",
-      "domain": "wateen.com"
+      "asn": 138423,
+      "org": "Cmpak Public Ips",
+      "isp": "Cmpak Limited",
+      "domain": "zong.com.pk"
     }
   }
 ]

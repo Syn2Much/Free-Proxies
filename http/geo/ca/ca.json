@@ -1,25 +1,94 @@
 [
   {
-    "proxy": "http://188.227.196.62:1080",
-    "tested_at": "2026-02-14T09:07:13Z",
-    "ip": "188.227.196.62",
+    "proxy": "http://85.208.108.43:2094",
+    "tested_at": "2026-02-14T10:09:24Z",
+    "ip": "85.208.108.43",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Canada",
     "country_code": "CA",
-    "region": "Québec",
-    "region_code": "QC",
-    "city": "Québec City",
-    "latitude": 46.8138783,
-    "longitude": -71.2079809,
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
     "is_eu": false,
-    "postal": "G1R 4S9",
+    "postal": "M5H 2N2",
     "connection": {
-      "asn": 400897,
-      "org": "PetroSky",
-      "isp": "PETROSKY CLOUD LLC",
-      "domain": "abuseradar.com"
+      "asn": 53363,
+      "org": "Worktitans B.V.",
+      "isp": "TANGRAM CANADA INC.",
+      "domain": "the.hosting"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:9393",
+    "tested_at": "2026-02-14T10:09:39Z",
+    "ip": "209.121.228.99",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "British Columbia",
+    "region_code": "BC",
+    "city": "Burnaby",
+    "latitude": 49.2488091,
+    "longitude": -122.9805104,
+    "is_eu": false,
+    "postal": "V5G 1M2",
+    "connection": {
+      "asn": 852,
+      "org": "Richards Packaging Inc.",
+      "isp": "Telus Communications Inc.",
+      "domain": "telus.com"
+    }
+  },
+  {
+    "proxy": "http://85.208.108.43:10808",
+    "tested_at": "2026-02-14T10:09:46Z",
+    "ip": "85.208.108.43",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
+    "is_eu": false,
+    "postal": "M5H 2N2",
+    "connection": {
+      "asn": 53363,
+      "org": "Worktitans B.V.",
+      "isp": "TANGRAM CANADA INC.",
+      "domain": "the.hosting"
+    }
+  },
+  {
+    "proxy": "http://143.198.37.6:8888",
+    "tested_at": "2026-02-14T10:10:13Z",
+    "ip": "178.249.214.14",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
+    "is_eu": false,
+    "postal": "M5H 2N2",
+    "connection": {
+      "asn": 212238,
+      "org": "CDNEXT TOR",
+      "isp": "Datacamp Limited",
+      "domain": "datacamp.co.uk"
     }
   }
 ]
