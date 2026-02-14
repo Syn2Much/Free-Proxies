@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://190.153.237.6:37453",
-    "tested_at": "2026-02-14T03:53:44Z",
-    "ip": "190.153.237.5",
+    "proxy": "http://38.7.195.49:999",
+    "tested_at": "2026-02-14T04:24:53Z",
+    "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -16,15 +16,38 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 14259,
-      "org": "Gtd Internet S.A.",
-      "isp": "Gtd Internet S.A.",
-      "domain": "gtdinternet.com"
+      "asn": 263702,
+      "org": "Cogent Communications",
+      "isp": "GRUPO ZGH SPA",
+      "domain": "zglobalhost.com"
+    }
+  },
+  {
+    "proxy": "http://38.7.195.50:999",
+    "tested_at": "2026-02-14T04:24:55Z",
+    "ip": "38.7.195.49",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 263702,
+      "org": "Cogent Communications",
+      "isp": "GRUPO ZGH SPA",
+      "domain": "zglobalhost.com"
     }
   },
   {
     "proxy": "http://72.10.160.90:30281",
-    "tested_at": "2026-02-14T03:53:46Z",
+    "tested_at": "2026-02-14T04:24:59Z",
     "ip": "186.105.71.232",
     "success": true,
     "type": "IPv4",
@@ -46,9 +69,32 @@
     }
   },
   {
-    "proxy": "http://200.111.232.94:8080",
-    "tested_at": "2026-02-14T03:53:54Z",
-    "ip": "200.111.232.94",
+    "proxy": "http://201.186.41.170:999",
+    "tested_at": "2026-02-14T04:25:03Z",
+    "ip": "201.186.41.170",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Biobío Region",
+    "region_code": "BI",
+    "city": "Los Ángeles",
+    "latitude": -37.4629159,
+    "longitude": -72.3612251,
+    "is_eu": false,
+    "postal": "90009",
+    "connection": {
+      "asn": 14117,
+      "org": "Telefonica del Sur S.A",
+      "isp": "Telefonica Del Sur S.A.",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://38.7.195.53:999",
+    "tested_at": "2026-02-14T04:25:21Z",
+    "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -62,16 +108,16 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 27651,
-      "org": "Entel Chile S.A",
-      "isp": "ENTEL CHILE S.A.",
-      "domain": ""
+      "asn": 263702,
+      "org": "Cogent Communications",
+      "isp": "GRUPO ZGH SPA",
+      "domain": "zglobalhost.com"
     }
   },
   {
-    "proxy": "http://45.225.204.8:999",
-    "tested_at": "2026-02-14T03:54:27Z",
-    "ip": "45.225.204.8",
+    "proxy": "http://204.199.139.125:999",
+    "tested_at": "2026-02-14T04:25:33Z",
+    "ip": "45.225.204.99",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -79,16 +125,85 @@
     "country_code": "CL",
     "region": "O'Higgins Region",
     "region_code": "",
-    "city": "San Vicente de Tagua Tagua",
-    "latitude": -34.4349435,
-    "longitude": -71.0913748,
+    "city": "Las Cabras",
+    "latitude": -34.2932184,
+    "longitude": -71.3126292,
     "is_eu": false,
-    "postal": "297 0000",
+    "postal": "3030000",
     "connection": {
       "asn": 265858,
       "org": "NETDELSUR TELECOMUNICACIONES SPA",
       "isp": "NETDELSUR TELECOMUNICACIONES SPA",
       "domain": "netdelsur.cl"
+    }
+  },
+  {
+    "proxy": "http://204.199.140.26:999",
+    "tested_at": "2026-02-14T04:25:34Z",
+    "ip": "204.199.140.26",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 273237,
+      "org": "INGBELL CHILE SPA",
+      "isp": "INGBELL CHILE SPA",
+      "domain": "ingbell.cl"
+    }
+  },
+  {
+    "proxy": "http://170.233.192.225:999",
+    "tested_at": "2026-02-14T04:25:35Z",
+    "ip": "170.233.192.231",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 52510,
+      "org": "MI INTERNET SPA",
+      "isp": "MI INTERNET SPA",
+      "domain": "miinternet.cl"
+    }
+  },
+  {
+    "proxy": "http://38.7.195.51:999",
+    "tested_at": "2026-02-14T04:25:51Z",
+    "ip": "38.7.195.49",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 263702,
+      "org": "Cogent Communications",
+      "isp": "GRUPO ZGH SPA",
+      "domain": "zglobalhost.com"
     }
   }
 ]

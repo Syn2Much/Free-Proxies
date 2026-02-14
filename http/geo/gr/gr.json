@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://62.103.66.18:3128",
+    "tested_at": "2026-02-14T04:25:25Z",
+    "ip": "62.103.66.18",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Greece",
+    "country_code": "GR",
+    "region": "Attica",
+    "region_code": "I",
+    "city": "Athens",
+    "latitude": 37.9838096,
+    "longitude": 23.7275388,
+    "is_eu": true,
+    "postal": "10431",
+    "connection": {
+      "asn": 6799,
+      "org": "Multiprotocol Service Provider to Other Isp s And End Users",
+      "isp": "Ote SA hellenic Telecommunications Organisation",
+      "domain": "otenet.gr"
+    }
+  },
+  {
     "proxy": "http://185.4.132.222:3128",
-    "tested_at": "2026-02-14T03:54:02Z",
+    "tested_at": "2026-02-14T04:25:53Z",
     "ip": "2a02:c500:2:a9::6524",
     "success": true,
     "type": "IPv6",

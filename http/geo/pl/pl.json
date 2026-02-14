@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://188.116.37.3:8090",
-    "tested_at": "2026-02-14T03:53:58Z",
-    "ip": "188.116.37.3",
+    "proxy": "http://91.150.189.122:30389",
+    "tested_at": "2026-02-14T04:25:10Z",
+    "ip": "91.150.189.122",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Poland",
     "country_code": "PL",
-    "region": "Pomeranian Voivodeship",
-    "region_code": "22",
-    "city": "Gdańsk",
-    "latitude": 54.3520252,
-    "longitude": 18.6466384,
+    "region": "Województwo podkarpackie",
+    "region_code": "18",
+    "city": "Rzeszow",
+    "latitude": 50.0411867,
+    "longitude": 21.9991196,
     "is_eu": true,
-    "postal": "80-208",
+    "postal": "35-001",
     "connection": {
-      "asn": 197155,
-      "org": "Mernyk Mykyta",
-      "isp": "Artnet Sp. Z O.O.",
-      "domain": "artnet.pl"
+      "asn": 42673,
+      "org": "Skyware Sp. Z O.O.",
+      "isp": "Skyware Sp. Z O.O.",
+      "domain": "skyware.pl"
     }
   }
 ]

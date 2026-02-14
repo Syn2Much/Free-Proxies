@@ -1,8 +1,77 @@
 [
   {
+    "proxy": "http://102.68.129.54:8080",
+    "tested_at": "2026-02-14T04:24:58Z",
+    "ip": "102.68.129.62",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Tripoli",
+    "region_code": "TB",
+    "city": "Tripoli",
+    "latitude": 32.8872094,
+    "longitude": 13.1913383,
+    "is_eu": false,
+    "postal": "350",
+    "connection": {
+      "asn": 21003,
+      "org": "Palm City",
+      "isp": "General Post And Telecommunication Company gptc",
+      "domain": "rltt.net"
+    }
+  },
+  {
+    "proxy": "http://102.68.135.147:8080",
+    "tested_at": "2026-02-14T04:25:01Z",
+    "ip": "102.68.135.147",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Tripoli",
+    "region_code": "TB",
+    "city": "Tripoli",
+    "latitude": 32.8872094,
+    "longitude": 13.1913383,
+    "is_eu": false,
+    "postal": "350",
+    "connection": {
+      "asn": 21003,
+      "org": "Early Technical",
+      "isp": "General Post And Telecommunication Company gptc",
+      "domain": "earlytechnicaleducation.org"
+    }
+  },
+  {
+    "proxy": "http://165.16.46.193:8080",
+    "tested_at": "2026-02-14T04:25:29Z",
+    "ip": "165.16.46.193",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Tripoli",
+    "region_code": "TB",
+    "city": "Tripoli",
+    "latitude": 32.8872094,
+    "longitude": 13.1913383,
+    "is_eu": false,
+    "postal": "350",
+    "connection": {
+      "asn": 37284,
+      "org": "Organisation Alhadatha International",
+      "isp": "Aljeel Aljadeed For Technology",
+      "domain": "aljeel.ly"
+    }
+  },
+  {
     "proxy": "http://154.73.28.49:8080",
-    "tested_at": "2026-02-14T03:54:04Z",
-    "ip": "154.73.28.74",
+    "tested_at": "2026-02-14T04:25:41Z",
+    "ip": "154.73.28.72",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -18,52 +87,6 @@
     "connection": {
       "asn": 21003,
       "org": "RAWAFED LIBYA",
-      "isp": "General Post And Telecommunication Company gptc",
-      "domain": "rltt.net"
-    }
-  },
-  {
-    "proxy": "http://102.38.7.110:1972",
-    "tested_at": "2026-02-14T03:54:10Z",
-    "ip": "102.38.7.107",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Libya",
-    "country_code": "LY",
-    "region": "Tripoli",
-    "region_code": "TB",
-    "city": "Tripoli",
-    "latitude": 32.8872094,
-    "longitude": 13.1913383,
-    "is_eu": false,
-    "postal": "350",
-    "connection": {
-      "asn": 328539,
-      "org": "Giga for Telecommunication And Technology Limited",
-      "isp": "Giga for Telecommunication And Technology Limited",
-      "domain": "giga.ly"
-    }
-  },
-  {
-    "proxy": "http://102.68.131.31:8080",
-    "tested_at": "2026-02-14T03:54:19Z",
-    "ip": "102.68.131.31",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Libya",
-    "country_code": "LY",
-    "region": "Tripoli",
-    "region_code": "TB",
-    "city": "Tripoli",
-    "latitude": 32.8872094,
-    "longitude": 13.1913383,
-    "is_eu": false,
-    "postal": "350",
-    "connection": {
-      "asn": 21003,
-      "org": "Ertikaz Co.",
       "isp": "General Post And Telecommunication Company gptc",
       "domain": "rltt.net"
     }

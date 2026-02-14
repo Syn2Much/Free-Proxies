@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://185.20.216.158:8088",
+    "tested_at": "2026-02-14T04:24:51Z",
+    "ip": "31.172.138.135",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Kyiv city",
+    "region_code": "30",
+    "city": "Kyiv",
+    "latitude": 50.4501,
+    "longitude": 30.5234,
+    "is_eu": false,
+    "postal": "01001",
+    "connection": {
+      "asn": 1820,
+      "org": "Domonet by Wnet",
+      "isp": "Wnet Telecom USA Corp.",
+      "domain": "w-net.eu"
+    }
+  },
+  {
     "proxy": "http://91.238.104.171:2023",
-    "tested_at": "2026-02-14T03:53:39Z",
+    "tested_at": "2026-02-14T04:24:59Z",
     "ip": "91.238.104.171",
     "success": true,
     "type": "IPv4",
@@ -23,32 +46,55 @@
     }
   },
   {
-    "proxy": "http://195.34.91.67:8080",
-    "tested_at": "2026-02-14T03:53:57Z",
-    "ip": "195.34.91.67",
+    "proxy": "http://77.52.187.196:18080",
+    "tested_at": "2026-02-14T04:25:02Z",
+    "ip": "77.52.187.196",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Ukraine",
     "country_code": "UA",
-    "region": "Kyiv Oblast",
-    "region_code": "32",
-    "city": "Boyarka",
-    "latitude": 50.317117,
-    "longitude": 30.298167,
+    "region": "Dnipropetrovsk Oblast",
+    "region_code": "12",
+    "city": "Shyroke",
+    "latitude": 47.693307,
+    "longitude": 33.2682606,
     "is_eu": false,
-    "postal": "08150",
+    "postal": "",
     "connection": {
-      "asn": 25514,
-      "org": "Modus global LLC",
-      "isp": "Modus global LLC",
-      "domain": "maximuma.net"
+      "asn": 21497,
+      "org": "Prjsc Vf Ukraine",
+      "isp": "Prjsc Vf Ukraine",
+      "domain": "vodafone.ua"
     }
   },
   {
-    "proxy": "http://176.100.60.249:3128",
-    "tested_at": "2026-02-14T03:54:13Z",
-    "ip": "176.100.60.249",
+    "proxy": "http://91.228.217.195:8989",
+    "tested_at": "2026-02-14T04:25:23Z",
+    "ip": "91.228.217.195",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Ivano-Frankivsk Oblast",
+    "region_code": "",
+    "city": "Kryvorivnya",
+    "latitude": 48.1736874,
+    "longitude": 24.8963763,
+    "is_eu": false,
+    "postal": "78710",
+    "connection": {
+      "asn": 209907,
+      "org": "Fop Saiv Igor Stepanovich",
+      "isp": "Fop Saiv Igor Stepanovich",
+      "domain": "gipernet.com.ua"
+    }
+  },
+  {
+    "proxy": "http://185.65.247.133:48049",
+    "tested_at": "2026-02-14T04:25:34Z",
+    "ip": "185.65.247.133",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -62,10 +108,33 @@
     "is_eu": false,
     "postal": "01001",
     "connection": {
-      "asn": 57460,
-      "org": "Pe Scherban Evgeniy Aleksandrovich",
-      "isp": "Pe Scherban Evgeniy Aleksandrovich",
-      "domain": "linknet.org.ua"
+      "asn": 200000,
+      "org": "Hosting Ukraine VPS Network",
+      "isp": "Hosting Ukraine LTD",
+      "domain": "ukraine.com.ua"
+    }
+  },
+  {
+    "proxy": "http://176.32.2.193:8080",
+    "tested_at": "2026-02-14T04:25:52Z",
+    "ip": "176.32.2.193",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Khmelnytskyi Oblast",
+    "region_code": "68",
+    "city": "Kam'yanets'-Podil's'kyi",
+    "latitude": 48.6967162,
+    "longitude": 26.5825364,
+    "is_eu": false,
+    "postal": "32320",
+    "connection": {
+      "asn": 49332,
+      "org": "Lanet Network LTD",
+      "isp": "Lanet Network LTD",
+      "domain": "lanet.ua"
     }
   }
 ]

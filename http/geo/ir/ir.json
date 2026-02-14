@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://46.209.30.11:8080",
-    "tested_at": "2026-02-14T03:53:43Z",
-    "ip": "46.209.30.11",
+    "proxy": "http://185.4.29.243:7887",
+    "tested_at": "2026-02-14T04:25:14Z",
+    "ip": "185.4.29.243",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -11,38 +11,15 @@
     "region": "Tehran Province",
     "region_code": "23",
     "city": "Tehran",
-    "latitude": 35.6891975,
-    "longitude": 51.3889736,
+    "latitude": 35.7952267,
+    "longitude": 51.4322706,
     "is_eu": false,
     "postal": "1317947564",
     "connection": {
-      "asn": 42337,
-      "org": "National Library Of Iran",
-      "isp": "Respina Networks Beyond Pjsc",
-      "domain": "respina.net"
-    }
-  },
-  {
-    "proxy": "http://185.186.240.9:1396",
-    "tested_at": "2026-02-14T03:53:58Z",
-    "ip": "185.186.240.9",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Iran",
-    "country_code": "IR",
-    "region": "Tehran Province",
-    "region_code": "23",
-    "city": "Tehran",
-    "latitude": 35.6891975,
-    "longitude": 51.3889736,
-    "is_eu": false,
-    "postal": "1317947564",
-    "connection": {
-      "asn": 203684,
-      "org": "Gostaresh Ertebat Azin Kia Company Pjsc",
-      "isp": "Imen Sanat Novin Alighapoo Private Joint Stock Company",
-      "domain": "azinkia.ir"
+      "asn": 61173,
+      "org": "Green Web Samaneh Novin Co LTD",
+      "isp": "Green Web Samaneh Novin Pjsc",
+      "domain": "greenweb.ir"
     }
   }
 ]

@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://190.61.50.93:999",
-    "tested_at": "2026-02-14T03:54:15Z",
-    "ip": "190.61.50.93",
+    "proxy": "http://24.152.53.7:999",
+    "tested_at": "2026-02-14T04:24:56Z",
+    "ip": "24.152.53.3",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Guatemala",
     "country_code": "GT",
-    "region": "Escuintla",
-    "region_code": "ES",
-    "city": "Tiquisate",
-    "latitude": 14.2851374,
-    "longitude": -91.3638041,
+    "region": "Jalapa",
+    "region_code": "JA",
+    "city": "Jalapa",
+    "latitude": 14.6325483,
+    "longitude": -89.9930052,
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 52468,
-      "org": "Ufinet Guatemala S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://45.5.118.249:999",
-    "tested_at": "2026-02-14T03:54:23Z",
-    "ip": "45.5.118.249",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "Chimaltenango",
-    "region_code": "CM",
-    "city": "San José Poaquil",
-    "latitude": 14.8173986,
-    "longitude": -90.9128192,
-    "is_eu": false,
-    "postal": "04002",
-    "connection": {
-      "asn": 52468,
-      "org": "INFINITUM S.A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "infinitum.com.gt"
+      "asn": 269964,
+      "org": "TV CABLE UNIVERSAL S.A",
+      "isp": "TV CABLE UNIVERSAL S.A",
+      "domain": "vosguatemala.com"
     }
   }
 ]

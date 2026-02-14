@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://203.196.8.6:3128",
-    "tested_at": "2026-02-14T03:53:44Z",
-    "ip": "203.196.8.6",
+    "proxy": "http://160.20.55.235:8080",
+    "tested_at": "2026-02-14T04:24:49Z",
+    "ip": "160.20.55.235",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,15 +16,15 @@
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 23764,
-      "org": "Chinatelecom Next Carrying Network backbone",
-      "isp": "China Telecom Global Limited",
-      "domain": "chinatelecom.com.hk"
+      "asn": 58411,
+      "org": "Datamax Osi Limited",
+      "isp": "Gateway Technology Development Company Limited",
+      "domain": "datamaxosi.com"
     }
   },
   {
     "proxy": "http://101.47.73.135:3128",
-    "tested_at": "2026-02-14T03:53:56Z",
+    "tested_at": "2026-02-14T04:25:10Z",
     "ip": "101.47.73.135",
     "success": true,
     "type": "IPv4",
@@ -46,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://160.20.55.235:8080",
-    "tested_at": "2026-02-14T03:54:26Z",
-    "ip": "160.20.55.235",
+    "proxy": "http://8.217.147.173:8080",
+    "tested_at": "2026-02-14T04:25:30Z",
+    "ip": "8.217.147.173",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -62,10 +62,33 @@
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 58411,
-      "org": "Datamax Osi Limited",
-      "isp": "Gateway Technology Development Company Limited",
-      "domain": "datamaxosi.com"
+      "asn": 45102,
+      "org": "Aliyun Computing Co.ltd",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibaba-inc.com"
+    }
+  },
+  {
+    "proxy": "http://203.196.8.6:3128",
+    "tested_at": "2026-02-14T04:25:48Z",
+    "ip": "203.196.8.6",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.276022,
+    "longitude": 114.1751471,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 23764,
+      "org": "Chinatelecom Next Carrying Network backbone",
+      "isp": "China Telecom Global Limited",
+      "domain": "chinatelecom.com.hk"
     }
   }
 ]

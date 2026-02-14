@@ -1,8 +1,100 @@
 [
   {
-    "proxy": "http://27.74.251.99:8080",
-    "tested_at": "2026-02-14T03:53:49Z",
-    "ip": "27.74.251.99",
+    "proxy": "http://115.79.70.69:8470",
+    "tested_at": "2026-02-14T04:25:00Z",
+    "ip": "115.79.70.69",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Hanoi",
+    "region_code": "HN",
+    "city": "Hanoi",
+    "latitude": 21.0277644,
+    "longitude": 105.8341598,
+    "is_eu": false,
+    "postal": "110905",
+    "connection": {
+      "asn": 7552,
+      "org": "Viettel Group",
+      "isp": "Viettel Group",
+      "domain": "viettel.com.vn"
+    }
+  },
+  {
+    "proxy": "http://163.223.230.92:39089",
+    "tested_at": "2026-02-14T04:25:08Z",
+    "ip": "163.223.230.92",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Bình Định Province",
+    "region_code": "31",
+    "city": "Phù Mỹ District",
+    "latitude": 14.2157645,
+    "longitude": 109.1166566,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 135983,
+      "org": "Le Gia Technology Company Limited",
+      "isp": "Tino Group Joint Stock Company",
+      "domain": "legiatech.com"
+    }
+  },
+  {
+    "proxy": "http://163.223.230.230:39227",
+    "tested_at": "2026-02-14T04:25:10Z",
+    "ip": "163.223.230.230",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Bình Định Province",
+    "region_code": "31",
+    "city": "Phù Mỹ District",
+    "latitude": 14.2157645,
+    "longitude": 109.1166566,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 135983,
+      "org": "Le Gia Technology Company Limited",
+      "isp": "Tino Group Joint Stock Company",
+      "domain": "legiatech.com"
+    }
+  },
+  {
+    "proxy": "http://27.72.244.228:8080",
+    "tested_at": "2026-02-14T04:25:13Z",
+    "ip": "27.72.244.228",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Haiphong",
+    "region_code": "HP",
+    "city": "Hai Phong",
+    "latitude": 20.8449115,
+    "longitude": 106.6880841,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 7552,
+      "org": "Viettel Group",
+      "isp": "Viettel Group",
+      "domain": "viettel.com.vn"
+    }
+  },
+  {
+    "proxy": "http://160.191.167.216:39212",
+    "tested_at": "2026-02-14T04:25:17Z",
+    "ip": "160.191.167.216",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,39 +108,16 @@
     "is_eu": false,
     "postal": "708000",
     "connection": {
-      "asn": 7552,
-      "org": "Viettel Group",
-      "isp": "Viettel Group",
-      "domain": "viettel.com.vn"
-    }
-  },
-  {
-    "proxy": "http://14.241.39.169:8080",
-    "tested_at": "2026-02-14T03:53:50Z",
-    "ip": "14.241.39.169",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Bac Ninh Province",
-    "region_code": "56",
-    "city": "Bac Ninh Province",
-    "latitude": 21.121444,
-    "longitude": 106.1110501,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 45899,
-      "org": "Vietnam Posts And Telecommunications Group",
-      "isp": "Vnpt Corp",
-      "domain": "vnpt.com.vn"
+      "asn": 153403,
+      "org": "Huy Hoang Electronics And Telecommunications Company Limited",
+      "isp": "Huy Hoang Electronics And Telecommunications Company Limited",
+      "domain": "nefo.net"
     }
   },
   {
     "proxy": "http://14.225.71.183:25565",
-    "tested_at": "2026-02-14T03:53:58Z",
-    "ip": "83.97.112.25",
+    "tested_at": "2026-02-14T04:25:17Z",
+    "ip": "83.97.112.18",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -69,32 +138,9 @@
     }
   },
   {
-    "proxy": "http://203.205.33.131:1452",
-    "tested_at": "2026-02-14T03:54:00Z",
-    "ip": "203.205.33.131",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Ho Chi Minh",
-    "region_code": "SG",
-    "city": "Ho Chi Minh City",
-    "latitude": 10.8230989,
-    "longitude": 106.6296638,
-    "is_eu": false,
-    "postal": "708000",
-    "connection": {
-      "asn": 45903,
-      "org": "Cmc Telecom Infrastructure Company",
-      "isp": "Cmc Telecom Infrastructure Company",
-      "domain": "cmctelecom.vn"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.90:19919",
-    "tested_at": "2026-02-14T03:54:12Z",
-    "ip": "116.96.47.158",
+    "proxy": "http://14.224.218.210:8080",
+    "tested_at": "2026-02-14T04:25:23Z",
+    "ip": "14.224.218.210",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -108,56 +154,56 @@
     "is_eu": false,
     "postal": "110905",
     "connection": {
-      "asn": 7552,
-      "org": "Viettel Group",
-      "isp": "Viettel Group",
-      "domain": "viettel.com.vn"
+      "asn": 45899,
+      "org": "Vietnam Posts And Telecommunications Group",
+      "isp": "Vnpt Corp",
+      "domain": "vnpt.com.vn"
     }
   },
   {
-    "proxy": "http://72.10.164.178:18243",
-    "tested_at": "2026-02-14T03:54:16Z",
-    "ip": "1.55.68.37",
+    "proxy": "http://14.241.133.207:8080",
+    "tested_at": "2026-02-14T04:25:25Z",
+    "ip": "14.241.133.207",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Vietnam",
     "country_code": "VN",
-    "region": "Hanoi",
-    "region_code": "HN",
-    "city": "Bach Mai",
-    "latitude": 20.9989186,
-    "longitude": 105.8532916,
+    "region": "Quang Nam Province",
+    "region_code": "27",
+    "city": "Hội An",
+    "latitude": 15.8800584,
+    "longitude": 108.3380469,
+    "is_eu": false,
+    "postal": "563812",
+    "connection": {
+      "asn": 45899,
+      "org": "Vietnam Posts And Telecommunications Group",
+      "isp": "Vnpt Corp",
+      "domain": "vnpt.com.vn"
+    }
+  },
+  {
+    "proxy": "http://103.3.246.71:3128",
+    "tested_at": "2026-02-14T04:25:27Z",
+    "ip": "103.3.246.71",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Tien Giang province",
+    "region_code": "46",
+    "city": "Tân Phú",
+    "latitude": 10.7900517,
+    "longitude": 106.6281901,
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 18403,
-      "org": "Fpt Telecom Company",
-      "isp": "Fpt Telecom Company",
-      "domain": "fpt.net"
-    }
-  },
-  {
-    "proxy": "http://160.191.167.216:39212",
-    "tested_at": "2026-02-14T03:54:16Z",
-    "ip": "160.191.167.216",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Ho Chi Minh",
-    "region_code": "SG",
-    "city": "Ho Chi Minh City",
-    "latitude": 10.8230989,
-    "longitude": 106.6296638,
-    "is_eu": false,
-    "postal": "708000",
-    "connection": {
-      "asn": 153403,
-      "org": "Huy Hoang Electronics And Telecommunications Company Limited",
-      "isp": "Huy Hoang Electronics And Telecommunications Company Limited",
-      "domain": "nefo.net"
+      "asn": 135967,
+      "org": "New Vision Trading Co.,ltd",
+      "isp": "Bach Kim Network Solutions Join Stock Company",
+      "domain": "vdata.vn"
     }
   }
 ]

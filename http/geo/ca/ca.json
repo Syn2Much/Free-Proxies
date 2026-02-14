@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://188.227.196.62:1080",
-    "tested_at": "2026-02-14T03:53:49Z",
+    "tested_at": "2026-02-14T04:25:12Z",
     "ip": "188.227.196.62",
     "success": true,
     "type": "IPv4",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://67.43.236.20:15505",
-    "tested_at": "2026-02-14T03:54:06Z",
-    "ip": "207.219.155.88",
+    "proxy": "http://85.208.108.43:2094",
+    "tested_at": "2026-02-14T04:25:16Z",
+    "ip": "85.208.108.43",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -39,10 +39,33 @@
     "is_eu": false,
     "postal": "M5H 2N2",
     "connection": {
-      "asn": 852,
-      "org": "T.E.S. Contract Services",
-      "isp": "Telus Communications Inc.",
-      "domain": "telus.com"
+      "asn": 53363,
+      "org": "Worktitans B.V.",
+      "isp": "TANGRAM CANADA INC.",
+      "domain": "the.hosting"
+    }
+  },
+  {
+    "proxy": "http://85.208.108.43:10808",
+    "tested_at": "2026-02-14T04:25:19Z",
+    "ip": "85.208.108.43",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
+    "is_eu": false,
+    "postal": "M5H 2N2",
+    "connection": {
+      "asn": 53363,
+      "org": "Worktitans B.V.",
+      "isp": "TANGRAM CANADA INC.",
+      "domain": "the.hosting"
     }
   }
 ]

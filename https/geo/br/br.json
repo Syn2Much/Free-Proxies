@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "https://47.243.181.85:41797",
-    "tested_at": "2026-02-14T03:53:37Z",
-    "ip": "2804:8ab0:111:5f00:f809:c5ee:7e83:c324",
+    "proxy": "https://47.243.181.85:41795",
+    "tested_at": "2026-02-14T04:25:00Z",
+    "ip": "201.49.244.216",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "Santa Catarina",
+    "region_code": "SC",
+    "city": "Blumenau",
+    "latitude": -26.9165792,
+    "longitude": -49.0717331,
+    "is_eu": false,
+    "postal": "89000-020",
+    "connection": {
+      "asn": 28343,
+      "org": "UNIFIQUE TELECOMUNICACOES S A",
+      "isp": "UNIFIQUE TELECOMUNICACOES S A",
+      "domain": "unifique.com.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41803",
+    "tested_at": "2026-02-14T04:25:01Z",
+    "ip": "2804:544:4059:9180:b84d:7fd:735a:396d",
     "success": true,
     "type": "IPv6",
     "continent": "South America",
@@ -10,45 +33,22 @@
     "country_code": "BR",
     "region": "State of São Paulo",
     "region_code": "SP",
-    "city": "Santa Bárbara d'Oeste",
-    "latitude": -22.7557344,
-    "longitude": -47.4147896,
+    "city": "Sao Jose do Rio Preto",
+    "latitude": -20.811761,
+    "longitude": -49.3762272,
     "is_eu": false,
-    "postal": "13450-970",
+    "postal": "15010-060",
     "connection": {
-      "asn": 273686,
-      "org": "WFNET SOLU ES EIRELI",
-      "isp": "WFNET SOLU ES EIRELI",
-      "domain": "wfnetsolucoes.com.br"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41795",
-    "tested_at": "2026-02-14T03:53:49Z",
-    "ip": "177.185.21.114",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of Minas Gerais",
-    "region_code": "MG",
-    "city": "Lavras",
-    "latitude": -21.2484538,
-    "longitude": -45.001392,
-    "is_eu": false,
-    "postal": "37203-710",
-    "connection": {
-      "asn": 28198,
-      "org": "SEMPRE TELECOMUNICACOES LTDA",
-      "isp": "SEMPRE TELECOMUNICACOES LTDA",
-      "domain": "sempre.tec.br"
+      "asn": 262505,
+      "org": "N Telecomunicacoes LTDA Me",
+      "isp": "N Telecomunicacoes LTDA Me",
+      "domain": "n4telecom.com.br"
     }
   },
   {
     "proxy": "https://47.243.181.85:41799",
-    "tested_at": "2026-02-14T03:53:57Z",
-    "ip": "187.255.42.27",
+    "tested_at": "2026-02-14T04:25:16Z",
+    "ip": "179.42.111.158",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -56,67 +56,21 @@
     "country_code": "BR",
     "region": "State of São Paulo",
     "region_code": "SP",
-    "city": "São Paulo",
-    "latitude": -23.5505199,
-    "longitude": -46.6333094,
+    "city": "Diadema",
+    "latitude": -23.6818396,
+    "longitude": -46.620967,
     "is_eu": false,
-    "postal": "01005-000",
+    "postal": "09920-650",
     "connection": {
-      "asn": 28573,
-      "org": "Claro Nxt Telecomunicacoes LTDA",
-      "isp": "Claro Nxt Telecomunicacoes LTDA",
-      "domain": "claro.com.br"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41804",
-    "tested_at": "2026-02-14T03:53:57Z",
-    "ip": "191.7.200.130",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "Maranhão",
-    "region_code": "MA",
-    "city": "BR-222",
-    "latitude": -3.6930722,
-    "longitude": -43.017535,
-    "is_eu": false,
-    "postal": "65525-000",
-    "connection": {
-      "asn": 263327,
-      "org": "ONLINE TELECOMUNICACOES LTDA",
-      "isp": "ONLINE TELECOMUNICACOES LTDA",
-      "domain": "online.net.br"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41803",
-    "tested_at": "2026-02-14T03:53:59Z",
-    "ip": "45.183.19.203",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of São Paulo",
-    "region_code": "SP",
-    "city": "Cotia",
-    "latitude": -23.6026684,
-    "longitude": -46.9194693,
-    "is_eu": false,
-    "postal": "06717-250",
-    "connection": {
-      "asn": 269254,
-      "org": "Ripardo Telecomuni aoes Eireli",
-      "isp": "SOL TELECOM LTDA",
-      "domain": "soltelecom.net.br"
+      "asn": 271150,
+      "org": "BRAS FIBER NETWORKING LTDA",
+      "isp": "FOX LINK TELECOM LTDA",
+      "domain": ""
     }
   },
   {
     "proxy": "https://134.65.238.25:3128",
-    "tested_at": "2026-02-14T03:54:11Z",
+    "tested_at": "2026-02-14T04:25:39Z",
     "ip": "134.65.238.25",
     "success": true,
     "type": "IPv4",
@@ -135,6 +89,52 @@
       "org": "Oracle Corporation",
       "isp": "Oracle Corporation",
       "domain": "oracle.com"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41797",
+    "tested_at": "2026-02-14T04:25:40Z",
+    "ip": "2804:4398:84:9380:719d:d583:38c7:a9b5",
+    "success": true,
+    "type": "IPv6",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of Rio de Janeiro",
+    "region_code": "RJ",
+    "city": "Rio de Janeiro",
+    "latitude": -22.9068467,
+    "longitude": -43.1728965,
+    "is_eu": false,
+    "postal": "20270-150",
+    "connection": {
+      "asn": 267578,
+      "org": "WILLIAN MENDES DE OLIVEIRA ME",
+      "isp": "WILLIAN MENDES DE OLIVEIRA ME",
+      "domain": "wlinks.com.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41804",
+    "tested_at": "2026-02-14T04:25:43Z",
+    "ip": "177.128.77.93",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of Rio Grande do Sul",
+    "region_code": "RS",
+    "city": "Feliz",
+    "latitude": -29.4547595,
+    "longitude": -51.3062969,
+    "is_eu": false,
+    "postal": "95770-000",
+    "connection": {
+      "asn": 52643,
+      "org": "N g Tecnologia LTDA",
+      "isp": "N g Tecnologia LTDA",
+      "domain": "ngtecnologia.com.br"
     }
   }
 ]

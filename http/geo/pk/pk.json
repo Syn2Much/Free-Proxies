@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://72.10.160.93:2099",
-    "tested_at": "2026-02-14T03:53:56Z",
-    "ip": "103.18.10.77",
+    "proxy": "http://202.154.241.199:808",
+    "tested_at": "2026-02-14T04:25:13Z",
+    "ip": "202.154.241.199",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Pakistan",
     "country_code": "PK",
-    "region": "Punjab",
-    "region_code": "PB",
-    "city": "Multan",
-    "latitude": 30.1983807,
-    "longitude": 71.4687028,
+    "region": "Islamabad Capital Territory",
+    "region_code": "",
+    "city": "Islamabad",
+    "latitude": 33.7293882,
+    "longitude": 73.0931461,
     "is_eu": false,
-    "postal": "60000",
+    "postal": "44000",
     "connection": {
-      "asn": 9541,
-      "org": "Broadband Services",
-      "isp": "Cyber Internet Services private Limited",
-      "domain": "cyber.net.pk"
-    }
-  },
-  {
-    "proxy": "http://103.111.39.179:8080",
-    "tested_at": "2026-02-14T03:54:09Z",
-    "ip": "103.111.39.179",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Pakistan",
-    "country_code": "PK",
-    "region": "Punjab",
-    "region_code": "PB",
-    "city": "Kot Qutubuddin",
-    "latitude": 32.4705974,
-    "longitude": 74.0052466,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 142618,
-      "org": "GH Telecom",
-      "isp": "Gh Telecom",
-      "domain": "ghinternet.com"
+      "asn": 23966,
+      "org": "Linkdotnet Telecom Limited",
+      "isp": "Linkdotnet Telecom Limited",
+      "domain": "link.net.pk"
     }
   }
 ]

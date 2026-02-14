@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://149.57.28.10:9443",
-    "tested_at": "2026-02-14T03:54:17Z",
-    "ip": "149.57.28.56",
+    "proxy": "https://181.215.52.192:9443",
+    "tested_at": "2026-02-14T04:24:58Z",
+    "ip": "181.215.52.196",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,16 +10,108 @@
     "country_code": "CA",
     "region": "Ontario",
     "region_code": "ON",
-    "city": "Richmond Hill",
-    "latitude": 43.8828401,
-    "longitude": -79.4402808,
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
     "is_eu": false,
-    "postal": "L4C 3C1",
+    "postal": "M5H 2N2",
     "connection": {
       "asn": 397540,
-      "org": "Windscribe",
+      "org": "Private Customer",
       "isp": "Windscribe",
-      "domain": "windscribe.com"
+      "domain": "us.com"
+    }
+  },
+  {
+    "proxy": "https://181.215.52.2:9443",
+    "tested_at": "2026-02-14T04:24:58Z",
+    "ip": "181.215.52.97",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
+    "is_eu": false,
+    "postal": "M5H 2N2",
+    "connection": {
+      "asn": 397540,
+      "org": "Private Customer",
+      "isp": "Windscribe",
+      "domain": "us.com"
+    }
+  },
+  {
+    "proxy": "https://181.215.52.101:9443",
+    "tested_at": "2026-02-14T04:25:10Z",
+    "ip": "181.215.52.105",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
+    "is_eu": false,
+    "postal": "M5H 2N2",
+    "connection": {
+      "asn": 397540,
+      "org": "Private Customer",
+      "isp": "Windscribe",
+      "domain": "us.com"
+    }
+  },
+  {
+    "proxy": "https://181.215.52.6:9443",
+    "tested_at": "2026-02-14T04:25:39Z",
+    "ip": "181.215.52.10",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
+    "is_eu": false,
+    "postal": "M5H 2N2",
+    "connection": {
+      "asn": 397540,
+      "org": "Private Customer",
+      "isp": "Windscribe",
+      "domain": "us.com"
+    }
+  },
+  {
+    "proxy": "https://181.215.52.122:9443",
+    "tested_at": "2026-02-14T04:25:42Z",
+    "ip": "181.215.52.131",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
+    "is_eu": false,
+    "postal": "M5H 2N2",
+    "connection": {
+      "asn": 397540,
+      "org": "Private Customer",
+      "isp": "Windscribe",
+      "domain": "us.com"
     }
   }
 ]

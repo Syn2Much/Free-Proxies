@@ -1,7 +1,7 @@
 [
   {
-    "proxy": "http://65.108.159.129:8080",
-    "tested_at": "2026-02-14T03:53:47Z",
+    "proxy": "http://65.108.159.129:3128",
+    "tested_at": "2026-02-14T04:24:49Z",
     "ip": "65.108.159.129",
     "success": true,
     "type": "IPv4",
@@ -24,7 +24,7 @@
   },
   {
     "proxy": "http://65.108.159.129:8081",
-    "tested_at": "2026-02-14T03:53:47Z",
+    "tested_at": "2026-02-14T04:24:49Z",
     "ip": "65.108.159.129",
     "success": true,
     "type": "IPv4",
@@ -46,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://91.217.76.97:1080",
-    "tested_at": "2026-02-14T03:53:48Z",
-    "ip": "91.217.76.97",
+    "proxy": "http://176.124.220.172:3128",
+    "tested_at": "2026-02-14T04:25:17Z",
+    "ip": "176.124.220.172",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -62,16 +62,16 @@
     "is_eu": true,
     "postal": "02101",
     "connection": {
-      "asn": 200740,
-      "org": "FIRST SERVER LIMITED",
-      "isp": "FIRST SERVER LIMITED",
-      "domain": "first-server.net"
+      "asn": 210644,
+      "org": "Aeza International LTD",
+      "isp": "AEZA INTERNATIONAL LTD",
+      "domain": "aeza.net"
     }
   },
   {
-    "proxy": "http://94.159.112.138:3129",
-    "tested_at": "2026-02-14T03:53:56Z",
-    "ip": "94.159.112.138",
+    "proxy": "http://193.47.60.119:52681",
+    "tested_at": "2026-02-14T04:25:20Z",
+    "ip": "193.47.60.119",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -85,10 +85,10 @@
     "is_eu": true,
     "postal": "02101",
     "connection": {
-      "asn": 216300,
-      "org": "New Hosting Technologies LLC",
-      "isp": "Closed Joint Stock Company Abkhazmedia",
-      "domain": "landvps.ru"
+      "asn": 41745,
+      "org": "Baykov Ilya Sergeevich",
+      "isp": "Baykov Ilya Sergeevich",
+      "domain": "fortis.host"
     }
   }
 ]

@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://52.78.193.98:10841",
-    "tested_at": "2026-02-14T03:53:57Z",
-    "ip": "195.80.151.242",
+    "proxy": "http://78.130.246.65:1881",
+    "tested_at": "2026-02-14T04:25:07Z",
+    "ip": "78.130.246.65",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "region": "Plovdiv",
+    "region_code": "16",
+    "city": "Plovdiv",
+    "latitude": 42.1354079,
+    "longitude": 24.7452904,
+    "is_eu": true,
+    "postal": "4000",
+    "connection": {
+      "asn": 9070,
+      "org": "Cooolbox Ad",
+      "isp": "Cooolbox Ad",
+      "domain": "cooolbox.bg"
+    }
+  },
+  {
+    "proxy": "http://85.196.179.34:8080",
+    "tested_at": "2026-02-14T04:25:41Z",
+    "ip": "85.196.179.34",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +39,33 @@
     "is_eu": true,
     "postal": "1000",
     "connection": {
-      "asn": 206804,
-      "org": "ESTNOC GLOBAL",
-      "isp": "Estnoc Ou",
-      "domain": "estnoc.ee"
+      "asn": 29580,
+      "org": "Gpon Studentski Grad",
+      "isp": "A1 Bulgaria Ead",
+      "domain": "a1.bg"
+    }
+  },
+  {
+    "proxy": "http://213.169.33.7:8001",
+    "tested_at": "2026-02-14T04:25:43Z",
+    "ip": "213.169.33.7",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "region": "Sofia-city",
+    "region_code": "",
+    "city": "Sofia",
+    "latitude": 42.6977082,
+    "longitude": 23.3218675,
+    "is_eu": true,
+    "postal": "1000",
+    "connection": {
+      "asn": 8717,
+      "org": "A1 Bulgaria Ead",
+      "isp": "A1 Bulgaria Ead",
+      "domain": "a1.bg"
     }
   }
 ]
