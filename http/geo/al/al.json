@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://79.106.165.246:8989",
-    "tested_at": "2026-02-14T00:46:14Z",
-    "ip": "79.106.165.246",
+    "proxy": "http://79.106.229.115:8989",
+    "tested_at": "2026-02-14T01:17:48Z",
+    "ip": "79.106.229.115",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,14 +10,14 @@
     "country_code": "AL",
     "region": "Southern Albania",
     "region_code": "",
-    "city": "Korçë",
-    "latitude": 40.6140785,
-    "longitude": 20.7778071,
+    "city": "Berat",
+    "latitude": 40.709678,
+    "longitude": 19.9391402,
     "is_eu": false,
-    "postal": "7001",
+    "postal": "5001",
     "connection": {
       "asn": 42313,
-      "org": "TEST",
+      "org": "TEST 1",
       "isp": "ONE ALBANIA SH.A.",
       "domain": "one.al"
     }

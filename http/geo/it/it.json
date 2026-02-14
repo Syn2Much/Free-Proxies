@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://89.40.143.28:7788",
-    "tested_at": "2026-02-14T00:14:46Z",
-    "ip": "89.40.143.28",
+    "proxy": "http://15.168.235.57:38191",
+    "tested_at": "2026-02-14T01:16:50Z",
+    "ip": "64.190.76.14",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Italy",
+    "country_code": "IT",
+    "region": "Piemont",
+    "region_code": "21",
+    "city": "Turin",
+    "latitude": 45.070312,
+    "longitude": 7.6868565,
+    "is_eu": true,
+    "postal": "10100",
+    "connection": {
+      "asn": 214094,
+      "org": "Davide Silvetti Trading AS association Osservatorio Nessuno Odv",
+      "isp": "Davide Silvetti Trading AS association Osservatorio Nessuno Odv",
+      "domain": "osservatorionessuno.org"
+    }
+  },
+  {
+    "proxy": "http://18.61.254.187:4045",
+    "tested_at": "2026-02-14T01:17:40Z",
+    "ip": "172.232.209.254",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +39,10 @@
     "is_eu": true,
     "postal": "20122",
     "connection": {
-      "asn": 64445,
-      "org": "Virtual Solution SRL",
-      "isp": "Michele Pietravalle Trading AS Netjoin",
-      "domain": "virtualsolution.net"
+      "asn": 63949,
+      "org": "Linode",
+      "isp": "Akamai Technologies, Inc.",
+      "domain": "linode.com"
     }
   }
 ]

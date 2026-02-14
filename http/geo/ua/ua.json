@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://195.234.68.34:3128",
-    "tested_at": "2026-02-14T00:45:58Z",
-    "ip": "195.234.68.34",
+    "proxy": "http://176.105.199.153:8010",
+    "tested_at": "2026-02-14T01:16:55Z",
+    "ip": "176.105.199.153",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,15 +16,15 @@
     "is_eu": false,
     "postal": "01001",
     "connection": {
-      "asn": 13307,
-      "org": "AS LIMITED LIABILITY COMPANY",
-      "isp": "AS LIMITED LIABILITY COMPANY",
-      "domain": "as6723.net"
+      "asn": 24812,
+      "org": "Rpc Homenet Ltd.",
+      "isp": "Rpc Homenet Ltd.",
+      "domain": "homenet.ua"
     }
   },
   {
     "proxy": "http://91.238.104.171:2023",
-    "tested_at": "2026-02-14T00:45:59Z",
+    "tested_at": "2026-02-14T01:17:01Z",
     "ip": "91.238.104.171",
     "success": true,
     "type": "IPv4",
@@ -46,55 +46,9 @@
     }
   },
   {
-    "proxy": "http://178.251.111.27:8080",
-    "tested_at": "2026-02-14T00:46:06Z",
-    "ip": "178.251.111.18",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Sumy Oblast",
-    "region_code": "59",
-    "city": "Konotop",
-    "latitude": 51.2409432,
-    "longitude": 33.2050521,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 35297,
-      "org": "Dataline LLC",
-      "isp": "Dataline LLC",
-      "domain": "dataline.ua"
-    }
-  },
-  {
-    "proxy": "http://178.165.42.166:3128",
-    "tested_at": "2026-02-14T00:46:20Z",
-    "ip": "178.165.42.166",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Kharkiv Oblast",
-    "region_code": "63",
-    "city": "Kharkiv",
-    "latitude": 49.9935,
-    "longitude": 36.230383,
-    "is_eu": false,
-    "postal": "61003",
-    "connection": {
-      "asn": 34700,
-      "org": "Maxnet Ltd., Kharkiv",
-      "isp": "MAXNET TELECOM, LTD",
-      "domain": "maxnet.ua"
-    }
-  },
-  {
-    "proxy": "http://176.105.199.153:8010",
-    "tested_at": "2026-02-14T00:46:25Z",
-    "ip": "176.105.199.153",
+    "proxy": "http://5.58.97.89:8080",
+    "tested_at": "2026-02-14T01:17:18Z",
+    "ip": "5.58.97.89",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -108,10 +62,10 @@
     "is_eu": false,
     "postal": "01001",
     "connection": {
-      "asn": 24812,
-      "org": "Rpc Homenet Ltd.",
-      "isp": "Rpc Homenet Ltd.",
-      "domain": "homenet.ua"
+      "asn": 16223,
+      "org": "UA TE COLUMBUS PE",
+      "isp": "MAXNET TELECOM, LTD",
+      "domain": "maxnet.ua"
     }
   }
 ]

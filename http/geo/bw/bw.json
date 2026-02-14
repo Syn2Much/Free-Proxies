@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://154.73.87.241:8080",
+    "tested_at": "2026-02-14T01:17:13Z",
+    "ip": "102.134.170.30",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Botswana",
+    "country_code": "BW",
+    "region": "Kweneng District",
+    "region_code": "KW",
+    "city": "Mmopane",
+    "latitude": -24.5685435,
+    "longitude": 25.8728782,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 327776,
+      "org": "Maun stature Network",
+      "isp": "STATURE PTY LTD",
+      "domain": "nashua.co.bw"
+    }
+  }
+]

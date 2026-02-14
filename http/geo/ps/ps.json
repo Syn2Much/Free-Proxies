@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://46.60.15.42:8082",
+    "tested_at": "2026-02-14T01:17:22Z",
+    "ip": "46.60.15.42",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Palestine",
+    "country_code": "PS",
+    "region": "West Bank",
+    "region_code": "",
+    "city": "Salfit",
+    "latitude": 32.085094,
+    "longitude": 35.180832,
+    "is_eu": false,
+    "postal": "390",
+    "connection": {
+      "asn": 197350,
+      "org": "ZAYTONA NETWORK",
+      "isp": "Al Zaytona Company For Communication Ltd.",
+      "domain": "zaytona.ps"
+    }
+  }
+]

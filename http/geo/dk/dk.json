@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://108.137.1.116:51393",
-    "tested_at": "2026-02-14T00:14:44Z",
-    "ip": "185.129.61.4",
+    "proxy": "http://40.177.212.16:197",
+    "tested_at": "2026-02-14T01:17:43Z",
+    "ip": "185.129.62.62",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,16 +10,16 @@
     "country_code": "DK",
     "region": "Denmark",
     "region_code": "",
-    "city": "Hundested",
-    "latitude": 55.967747,
-    "longitude": 11.858962,
+    "city": "Graested",
+    "latitude": 56.0652,
+    "longitude": 12.285583,
     "is_eu": true,
-    "postal": "3390",
+    "postal": "3230",
     "connection": {
-      "asn": 210731,
-      "org": "This Network Includes A Tor Servers And We Are Sorry for Any Inconvenience, Handled by Dotsrc",
-      "isp": "Forening for Dotsrc",
-      "domain": "dotsrc.org"
+      "asn": 57860,
+      "org": "Various Servers Including Tor Servers",
+      "isp": "Zencurity Aps",
+      "domain": "zencurity.com"
     }
   }
 ]

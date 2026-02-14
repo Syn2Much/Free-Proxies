@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://196.1.120.193:8080",
+    "tested_at": "2026-02-14T01:17:13Z",
+    "ip": "196.1.120.65",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Seychelles",
+    "country_code": "SC",
+    "region": "Mahe",
+    "region_code": "",
+    "city": "Victoria",
+    "latitude": -4.619143,
+    "longitude": 55.4513149,
+    "is_eu": false,
+    "postal": "SEZ",
+    "connection": {
+      "asn": 36867,
+      "org": "ISP Services",
+      "isp": "Kokonet LTD",
+      "domain": "seychelles.sc"
+    }
+  }
+]

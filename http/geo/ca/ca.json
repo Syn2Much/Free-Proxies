@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://72.10.164.178:30459",
-    "tested_at": "2026-02-14T00:45:42Z",
-    "ip": "99.240.158.213",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Markham",
-    "latitude": 43.8561002,
-    "longitude": -79.3370188,
-    "is_eu": false,
-    "postal": "L3R 0G6",
-    "connection": {
-      "asn": 812,
-      "org": "Rogers Cable Inc. Slnt",
-      "isp": "Rogers Communications Canada Inc.",
-      "domain": "rogers.com"
-    }
-  },
-  {
     "proxy": "http://143.198.37.6:8888",
-    "tested_at": "2026-02-14T00:45:44Z",
+    "tested_at": "2026-02-14T01:16:49Z",
     "ip": "178.249.214.14",
     "success": true,
     "type": "IPv4",
@@ -43,6 +20,29 @@
       "org": "CDNEXT TOR",
       "isp": "Datacamp Limited",
       "domain": "datacamp.co.uk"
+    }
+  },
+  {
+    "proxy": "http://67.43.236.20:31201",
+    "tested_at": "2026-02-14T01:17:24Z",
+    "ip": "142.119.61.250",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Québec",
+    "region_code": "QC",
+    "city": "Montreal",
+    "latitude": 45.5016889,
+    "longitude": -73.567256,
+    "is_eu": false,
+    "postal": "H3A 2A6",
+    "connection": {
+      "asn": 577,
+      "org": "Virgin Home Quebec",
+      "isp": "Bell Canada",
+      "domain": "virginmobile.ca"
     }
   }
 ]

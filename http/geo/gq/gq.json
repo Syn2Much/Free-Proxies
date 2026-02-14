@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://102.164.252.150:8080",
+    "tested_at": "2026-02-14T01:17:19Z",
+    "ip": "102.164.252.150",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Equatorial Guinea",
+    "country_code": "GQ",
+    "region": "Litoral",
+    "region_code": "LI",
+    "city": "Bata",
+    "latitude": 1.8533177,
+    "longitude": 9.7790227,
+    "is_eu": false,
+    "postal": "7149",
+    "connection": {
+      "asn": 328311,
+      "org": "CONEXXIA BATA",
+      "isp": "Conexxia Guinea Equatorial, S.l",
+      "domain": "conexxiaeg.com"
+    }
+  }
+]

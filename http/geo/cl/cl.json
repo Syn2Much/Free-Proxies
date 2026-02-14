@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://190.153.237.6:37453",
-    "tested_at": "2026-02-14T00:45:49Z",
-    "ip": "190.153.237.5",
+    "proxy": "http://200.54.22.74:80",
+    "tested_at": "2026-02-14T01:16:56Z",
+    "ip": "200.54.22.74",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -10,22 +10,22 @@
     "country_code": "CL",
     "region": "Santiago Metropolitan Region",
     "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
+    "city": "Providencia",
+    "latitude": -33.4314474,
+    "longitude": -70.6093325,
     "is_eu": false,
-    "postal": "832 0202",
+    "postal": "750 0000",
     "connection": {
-      "asn": 14259,
-      "org": "Gtd Internet S.A.",
-      "isp": "Gtd Internet S.A.",
-      "domain": "gtdinternet.com"
+      "asn": 16629,
+      "org": "CTC. CORP S.A. TELEFONICA EMPRESAS",
+      "isp": "CTC. CORP S.A. TELEFONICA EMPRESAS",
+      "domain": "redip.cl"
     }
   },
   {
-    "proxy": "http://38.7.195.54:999",
-    "tested_at": "2026-02-14T00:46:07Z",
-    "ip": "38.7.195.49",
+    "proxy": "http://167.249.29.218:999",
+    "tested_at": "2026-02-14T01:16:56Z",
+    "ip": "167.249.29.218",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -39,15 +39,38 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 263702,
-      "org": "Cogent Communications",
-      "isp": "GRUPO ZGH SPA",
-      "domain": "zglobalhost.com"
+      "asn": 64139,
+      "org": "GRUPO METROWAN TELECOM SPA",
+      "isp": "GRUPO METROWAN TELECOM SPA",
+      "domain": "metrowan.cl"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:30031",
+    "tested_at": "2026-02-14T01:17:10Z",
+    "ip": "190.113.27.242",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 22860,
+      "org": "SERVICIOS INTERNET LTDA",
+      "isp": "SERVICIOS INTERNET LTDA",
+      "domain": "tecnoera.com"
     }
   },
   {
     "proxy": "http://38.7.195.50:999",
-    "tested_at": "2026-02-14T00:46:25Z",
+    "tested_at": "2026-02-14T01:17:43Z",
     "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
@@ -66,29 +89,6 @@
       "org": "Cogent Communications",
       "isp": "GRUPO ZGH SPA",
       "domain": "zglobalhost.com"
-    }
-  },
-  {
-    "proxy": "http://186.67.47.230:999",
-    "tested_at": "2026-02-14T00:46:29Z",
-    "ip": "186.10.219.154",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
-    "is_eu": false,
-    "postal": "832 0202",
-    "connection": {
-      "asn": 27651,
-      "org": "ENTEL CHILE S.A.",
-      "isp": "ENTEL CHILE S.A.",
-      "domain": "entel.cl"
     }
   }
 ]

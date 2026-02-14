@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://94.136.143.92:8888",
+    "tested_at": "2026-02-14T01:17:47Z",
+    "ip": "94.136.143.92",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Slovak Republic",
+    "country_code": "SK",
+    "region": "Košice",
+    "region_code": "",
+    "city": "Michalovce",
+    "latitude": 48.7556769,
+    "longitude": 21.9183859,
+    "is_eu": true,
+    "postal": "071 01",
+    "connection": {
+      "asn": 39574,
+      "org": "Minet S.R.O.",
+      "isp": "Minet Slovakia S.R.O.",
+      "domain": "minet.sk"
+    }
+  }
+]

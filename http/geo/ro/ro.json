@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "https://54.74.104.194:45318",
-    "tested_at": "2026-02-14T00:46:09Z",
-    "ip": "45.137.99.182",
+    "proxy": "http://54.233.23.106:27265",
+    "tested_at": "2026-02-14T01:17:20Z",
+    "ip": "72.5.43.62",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Romania",
     "country_code": "RO",
-    "region": "Hunedoara",
-    "region_code": "HD",
-    "city": "Orăștie",
-    "latitude": 45.8451246,
-    "longitude": 23.2019265,
+    "region": "Bucharest",
+    "region_code": "B",
+    "city": "Bucharest",
+    "latitude": 44.4267674,
+    "longitude": 26.1025384,
     "is_eu": true,
-    "postal": "335700",
+    "postal": "030163",
     "connection": {
-      "asn": 214209,
-      "org": "Internet Magnate pty LTD",
-      "isp": "Internet Magnate pty LTD",
-      "domain": "magnates.co.za"
+      "asn": 399629,
+      "org": "Bl Networks",
+      "isp": "Bl Networks",
+      "domain": "blnwx.com"
     }
   }
 ]

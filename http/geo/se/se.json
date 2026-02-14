@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://95.40.79.184:76",
-    "tested_at": "2026-02-14T00:46:12Z",
-    "ip": "45.84.107.47",
+    "proxy": "http://18.61.254.187:22993",
+    "tested_at": "2026-02-14T01:17:11Z",
+    "ip": "45.84.107.198",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -24,8 +24,54 @@
   },
   {
     "proxy": "http://65.108.203.36:18080",
-    "tested_at": "2026-02-14T00:45:58Z",
-    "ip": "2001:67c:2660:425:1f::2a8",
+    "tested_at": "2026-02-14T01:17:19Z",
+    "ip": "2001:67c:2660:425:f24d:a2ff:fe74:2bdc",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "Sweden",
+    "country_code": "SE",
+    "region": "Östergötland County",
+    "region_code": "E",
+    "city": "Linköping",
+    "latitude": 58.410807,
+    "longitude": 15.6213727,
+    "is_eu": true,
+    "postal": "582 24",
+    "connection": {
+      "asn": 205016,
+      "org": "Hern Labs Ab",
+      "isp": "Hern Labs Ab",
+      "domain": "hernlabs.se"
+    }
+  },
+  {
+    "proxy": "https://3.79.194.222:38664",
+    "tested_at": "2026-02-14T01:17:29Z",
+    "ip": "171.25.193.82",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Sweden",
+    "country_code": "SE",
+    "region": "Stockholm County",
+    "region_code": "AB",
+    "city": "Stockholm",
+    "latitude": 59.3293235,
+    "longitude": 18.0685808,
+    "is_eu": true,
+    "postal": "111 29",
+    "connection": {
+      "asn": 198093,
+      "org": "Foreningen for Digitala Fri Och Rattigheter",
+      "isp": "Foreningen for Digitala Fri Och Rattigheter",
+      "domain": "dfri.net"
+    }
+  },
+  {
+    "proxy": "http://65.108.203.35:18080",
+    "tested_at": "2026-02-14T01:17:39Z",
+    "ip": "2001:67c:2660:425:f24d:a2ff:fe74:2bdc",
     "success": true,
     "type": "IPv6",
     "continent": "Europe",

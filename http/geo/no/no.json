@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "https://78.12.230.52:8995",
+    "tested_at": "2026-02-14T01:17:22Z",
+    "ip": "194.32.107.163",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Norway",
+    "country_code": "NO",
+    "region": "Vestfold og Telemark",
+    "region_code": "38",
+    "city": "Sandefjord",
+    "latitude": 59.1313095,
+    "longitude": 10.2165948,
+    "is_eu": false,
+    "postal": "3234",
+    "connection": {
+      "asn": 56655,
+      "org": "Gigahost AS",
+      "isp": "Gigahost AS",
+      "domain": "gigahost.no"
+    }
+  }
+]

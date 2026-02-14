@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://181.94.197.37:8080",
-    "tested_at": "2026-02-14T00:46:32Z",
-    "ip": "181.94.197.37",
+    "proxy": "http://190.52.165.120:8080",
+    "tested_at": "2026-02-14T01:17:49Z",
+    "ip": "190.52.165.120",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Paraguay",
     "country_code": "PY",
-    "region": "Central",
-    "region_code": "11",
-    "city": "Fernando De La Mora",
-    "latitude": -25.3252466,
-    "longitude": -57.5476145,
+    "region": "Cordillera",
+    "region_code": "3",
+    "city": "Tobati",
+    "latitude": -25.2630014,
+    "longitude": -57.0844094,
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 27895,
-      "org": "N cleo S.A.",
-      "isp": "N cleo S.A.",
-      "domain": "personal.com.py"
+      "asn": 27866,
+      "org": "COMPA IA PARAGUAYA DE COMUNICACIONES S.A. COPACO S.A.",
+      "isp": "COMPA IA PARAGUAYA DE COMUNICACIONES S.A. COPACO S.A.",
+      "domain": "copaco.com.py"
     }
   }
 ]
