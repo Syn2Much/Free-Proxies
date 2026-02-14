@@ -1,8 +1,54 @@
 [
   {
-    "proxy": "http://18.60.222.217:16825",
-    "tested_at": "2026-02-14T07:32:45Z",
-    "ip": "185.220.101.36",
+    "proxy": "http://128.140.118.165:1080",
+    "tested_at": "2026-02-14T08:04:09Z",
+    "ip": "2a01:4f8:c17:162d::1",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Saxony",
+    "region_code": "SN",
+    "city": "Falkenstein",
+    "latitude": 50.4750046,
+    "longitude": 12.3649754,
+    "is_eu": true,
+    "postal": "08324",
+    "connection": {
+      "asn": 24940,
+      "org": "Hetzner Online GmbH",
+      "isp": "Hetzner Online GmbH",
+      "domain": "hetzner.de"
+    }
+  },
+  {
+    "proxy": "http://91.107.148.58:53967",
+    "tested_at": "2026-02-14T08:04:09Z",
+    "ip": "2a09:bac1:1e60:60::1d8:18b",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Bavaria",
+    "region_code": "BY",
+    "city": "Nuremberg",
+    "latitude": 49.4254092,
+    "longitude": 11.0796553,
+    "is_eu": true,
+    "postal": "90403",
+    "connection": {
+      "asn": 13335,
+      "org": "CLOUDFLAREWARP",
+      "isp": "Cloudflare, Inc.",
+      "domain": "cloudflare.com"
+    }
+  },
+  {
+    "proxy": "http://95.40.79.184:8091",
+    "tested_at": "2026-02-14T08:04:21Z",
+    "ip": "185.220.101.45",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -23,34 +69,11 @@
     }
   },
   {
-    "proxy": "http://91.199.43.167:1080",
-    "tested_at": "2026-02-14T07:32:54Z",
-    "ip": "2a00:c98:2050:a04d:1::2200",
+    "proxy": "http://157.230.106.35:8080",
+    "tested_at": "2026-02-14T08:04:25Z",
+    "ip": "157.230.106.35",
     "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Hesse",
-    "region_code": "HE",
-    "city": "Frankfurt",
-    "latitude": 50.1109221,
-    "longitude": 8.6821267,
-    "is_eu": true,
-    "postal": "60311",
-    "connection": {
-      "asn": 28753,
-      "org": "Leaseweb Deutschland GmbH",
-      "isp": "Leaseweb Deutschland GmbH",
-      "domain": "leaseweb.com"
-    }
-  },
-  {
-    "proxy": "http://206.81.31.215:80",
-    "tested_at": "2026-02-14T07:33:06Z",
-    "ip": "2a03:b0c0:3:d0::f1c:5001",
-    "success": true,
-    "type": "IPv6",
+    "type": "IPv4",
     "continent": "Europe",
     "country": "Germany",
     "country_code": "DE",
@@ -63,14 +86,14 @@
     "postal": "60311",
     "connection": {
       "asn": 14061,
-      "org": "DIGITALOCEAN",
+      "org": "Digitalocean, LLC",
       "isp": "Digitalocean, LLC",
       "domain": "digitalocean.com"
     }
   },
   {
     "proxy": "http://5.75.198.16:1080",
-    "tested_at": "2026-02-14T07:33:15Z",
+    "tested_at": "2026-02-14T08:04:39Z",
     "ip": "2a01:4f8:1c1b:399::1",
     "success": true,
     "type": "IPv6",
@@ -92,32 +115,32 @@
     }
   },
   {
-    "proxy": "http://209.38.222.145:8080",
-    "tested_at": "2026-02-14T07:33:23Z",
-    "ip": "209.38.222.145",
+    "proxy": "http://194.59.204.87:9080",
+    "tested_at": "2026-02-14T08:04:40Z",
+    "ip": "194.59.204.87",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Germany",
     "country_code": "DE",
-    "region": "Hesse",
-    "region_code": "HE",
-    "city": "Frankfurt",
-    "latitude": 50.1109221,
-    "longitude": 8.6821267,
+    "region": "Bavaria",
+    "region_code": "BY",
+    "city": "Nuremberg",
+    "latitude": 49.4254092,
+    "longitude": 11.0796553,
     "is_eu": true,
-    "postal": "60311",
+    "postal": "90403",
     "connection": {
-      "asn": 14061,
-      "org": "Digitalocean, LLC",
-      "isp": "Digitalocean, LLC",
-      "domain": "digitalocean.com"
+      "asn": 197540,
+      "org": "Netcup GmbH",
+      "isp": "Netcup GmbH",
+      "domain": "netcup.de"
     }
   },
   {
-    "proxy": "http://157.230.106.35:8080",
-    "tested_at": "2026-02-14T07:33:25Z",
-    "ip": "157.230.106.35",
+    "proxy": "http://195.133.44.205:8443",
+    "tested_at": "2026-02-14T08:04:41Z",
+    "ip": "195.133.44.205",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -131,10 +154,10 @@
     "is_eu": true,
     "postal": "60311",
     "connection": {
-      "asn": 14061,
-      "org": "Digitalocean, LLC",
-      "isp": "Digitalocean, LLC",
-      "domain": "digitalocean.com"
+      "asn": 215346,
+      "org": "Glb Bulut Teknolojisi Limited Sirketi",
+      "isp": "Big Data Host LLC",
+      "domain": "yandex.com"
     }
   }
 ]

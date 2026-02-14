@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://24.152.40.49:8080",
-    "tested_at": "2026-02-14T06:30:10Z",
-    "ip": "24.152.40.49",
+    "proxy": "http://170.245.132.85:999",
+    "tested_at": "2026-02-14T08:04:35Z",
+    "ip": "170.245.132.81",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Paraguay",
     "country_code": "PY",
-    "region": "Caaguazú",
-    "region_code": "5",
-    "city": "Coronel Oviedo",
-    "latitude": -25.400442,
-    "longitude": -56.4495924,
+    "region": "Paraguarí",
+    "region_code": "9",
+    "city": "Carapeguá",
+    "latitude": -25.7643636,
+    "longitude": -57.2423411,
     "is_eu": false,
-    "postal": "3300",
+    "postal": "",
     "connection": {
-      "asn": 269976,
-      "org": "TV MAX CABLE S.A.",
-      "isp": "TV MAX CABLE S.A.",
-      "domain": "tvmaxsa.com.py"
-    }
-  },
-  {
-    "proxy": "http://181.40.18.42:999",
-    "tested_at": "2026-02-14T06:30:53Z",
-    "ip": "181.40.18.42",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Paraguay",
-    "country_code": "PY",
-    "region": "Distrito Capital de Paraguay",
-    "region_code": "",
-    "city": "Asuncion",
-    "latitude": -25.2637399,
-    "longitude": -57.575926,
-    "is_eu": false,
-    "postal": "1226",
-    "connection": {
-      "asn": 23201,
-      "org": "Telecel S.A.",
-      "isp": "Telecel S.A.",
-      "domain": "telecel.com.py"
+      "asn": 270096,
+      "org": "MACHADO BAEZ, NERY JAVIER LOCAL NET PARAGUAY",
+      "isp": "MACHADO BAEZ, NERY JAVIER LOCAL NET PARAGUAY",
+      "domain": "local.net.py"
     }
   }
 ]

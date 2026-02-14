@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://220.128.223.136:8082",
+    "tested_at": "2026-02-14T08:04:20Z",
+    "ip": "220.128.223.136",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "region": "Keelung City",
+    "region_code": "KEE",
+    "city": "Taipei",
+    "latitude": 25.0329694,
+    "longitude": 121.5654177,
+    "is_eu": false,
+    "postal": "11008",
+    "connection": {
+      "asn": 3462,
+      "org": "Chunghwa Telecom CO.,LTD.",
+      "isp": "Chunghwa Telecom Co., Ltd.",
+      "domain": "twnic.tw"
+    }
+  },
+  {
     "proxy": "http://35.234.17.221:8080",
-    "tested_at": "2026-02-14T07:33:35Z",
+    "tested_at": "2026-02-14T08:04:29Z",
     "ip": "35.234.17.221",
     "success": true,
     "type": "IPv4",

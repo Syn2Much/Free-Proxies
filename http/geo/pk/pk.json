@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://72.10.164.178:17121",
-    "tested_at": "2026-02-14T07:33:29Z",
+    "tested_at": "2026-02-14T08:04:30Z",
     "ip": "205.164.152.130",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,29 @@
       "org": "Cogent Communications",
       "isp": "Optix Pakistan pvt. Limited",
       "domain": "optix.pk"
+    }
+  },
+  {
+    "proxy": "http://115.42.67.186:8080",
+    "tested_at": "2026-02-14T08:04:37Z",
+    "ip": "115.42.67.186",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "region": "Balochistan",
+    "region_code": "BA",
+    "city": "Gaddani",
+    "latitude": 25.0861084,
+    "longitude": 66.7307796,
+    "is_eu": false,
+    "postal": "90300",
+    "connection": {
+      "asn": 132165,
+      "org": "Connect Communication",
+      "isp": "Connect Communication",
+      "domain": "connect.net.pk"
     }
   }
 ]

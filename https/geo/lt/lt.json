@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://89.124.11.13:443",
-    "tested_at": "2026-02-14T07:33:33Z",
-    "ip": "89.124.11.13",
+    "proxy": "https://89.124.11.10:443",
+    "tested_at": "2026-02-14T08:04:19Z",
+    "ip": "89.124.11.10",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "https://89.124.11.10:443",
-    "tested_at": "2026-02-14T07:33:34Z",
-    "ip": "89.124.11.10",
+    "proxy": "https://89.124.11.13:443",
+    "tested_at": "2026-02-14T08:04:29Z",
+    "ip": "89.124.11.13",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",

@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "https://181.215.52.122:9443",
-    "tested_at": "2026-02-14T07:32:44Z",
-    "ip": "181.215.52.129",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 397540,
-      "org": "Private Customer",
-      "isp": "Windscribe",
-      "domain": "us.com"
-    }
-  },
-  {
-    "proxy": "https://181.215.52.2:9443",
-    "tested_at": "2026-02-14T07:33:03Z",
-    "ip": "181.215.52.100",
+    "proxy": "https://181.215.52.16:9443",
+    "tested_at": "2026-02-14T08:04:34Z",
+    "ip": "181.215.52.38",
     "success": true,
     "type": "IPv4",
     "continent": "North America",

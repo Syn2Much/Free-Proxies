@@ -1,8 +1,54 @@
 [
   {
-    "proxy": "https://35.180.127.14:1001",
-    "tested_at": "2026-02-14T07:33:05Z",
-    "ip": "45.84.107.182",
+    "proxy": "http://40.192.16.115:8011",
+    "tested_at": "2026-02-14T08:04:20Z",
+    "ip": "195.47.238.91",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Sweden",
+    "country_code": "SE",
+    "region": "Stockholm County",
+    "region_code": "AB",
+    "city": "Stockholm",
+    "latitude": 59.3293235,
+    "longitude": 18.0685808,
+    "is_eu": true,
+    "postal": "111 29",
+    "connection": {
+      "asn": 30893,
+      "org": "No Ack Group Holding Ab",
+      "isp": "No Ack Group Holding Ab",
+      "domain": "noackgroup.se"
+    }
+  },
+  {
+    "proxy": "http://199.68.199.81:3128",
+    "tested_at": "2026-02-14T08:04:45Z",
+    "ip": "199.68.199.81",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Sweden",
+    "country_code": "SE",
+    "region": "Halland County",
+    "region_code": "",
+    "city": "Falkenberg",
+    "latitude": 56.9027333,
+    "longitude": 12.4888013,
+    "is_eu": true,
+    "postal": "311 91",
+    "connection": {
+      "asn": 48040,
+      "org": "WWW.FORNEX.COM, Fornex Hosting S.L.",
+      "isp": "Fornex Hosting S.L.",
+      "domain": "fornex.com"
+    }
+  },
+  {
+    "proxy": "http://43.208.16.9:9401",
+    "tested_at": "2026-02-14T08:04:52Z",
+    "ip": "45.84.107.198",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -23,9 +69,9 @@
     }
   },
   {
-    "proxy": "https://95.40.79.184:8091",
-    "tested_at": "2026-02-14T07:33:18Z",
-    "ip": "45.84.107.55",
+    "proxy": "http://212.113.100.114:8089",
+    "tested_at": "2026-02-14T08:04:55Z",
+    "ip": "212.113.100.114",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -33,16 +79,16 @@
     "country_code": "SE",
     "region": "Stockholm County",
     "region_code": "AB",
-    "city": "Sundbyberg",
-    "latitude": 59.3670471,
-    "longitude": 17.9663093,
+    "city": "Stockholm",
+    "latitude": 59.3293235,
+    "longitude": 18.0685808,
     "is_eu": true,
-    "postal": "172 31",
+    "postal": "111 29",
     "connection": {
-      "asn": 214503,
-      "org": "R0CKET CLOUD",
-      "isp": "Quxlabs Ab",
-      "domain": "quxlabs.com"
+      "asn": 210644,
+      "org": "Aeza International LTD",
+      "isp": "AEZA INTERNATIONAL LTD",
+      "domain": "aeza.net"
     }
   }
 ]

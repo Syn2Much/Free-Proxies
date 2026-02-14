@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://43.167.193.58:3128",
+    "tested_at": "2026-02-14T08:04:09Z",
+    "ip": "43.167.193.58",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Shibuya City",
+    "latitude": 35.6549037,
+    "longitude": 139.6945698,
+    "is_eu": false,
+    "postal": "150-0036",
+    "connection": {
+      "asn": 132203,
+      "org": "ACEVILLE PTE.LTD.",
+      "isp": "Shenzhen Tencent Computer Systems Company Limited",
+      "domain": "tencent.com"
+    }
+  },
+  {
     "proxy": "http://8.209.255.13:3128",
-    "tested_at": "2026-02-14T07:33:04Z",
+    "tested_at": "2026-02-14T08:04:09Z",
     "ip": "8.209.255.13",
     "success": true,
     "type": "IPv4",
@@ -24,7 +47,7 @@
   },
   {
     "proxy": "http://150.230.104.3:16728",
-    "tested_at": "2026-02-14T07:33:05Z",
+    "tested_at": "2026-02-14T08:04:50Z",
     "ip": "150.230.104.3",
     "success": true,
     "type": "IPv4",

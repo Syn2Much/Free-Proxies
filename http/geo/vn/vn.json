@@ -1,48 +1,48 @@
 [
   {
-    "proxy": "http://152.32.255.24:27197",
-    "tested_at": "2026-02-14T07:33:16Z",
-    "ip": "152.32.255.24",
+    "proxy": "http://103.3.246.71:3128",
+    "tested_at": "2026-02-14T08:04:32Z",
+    "ip": "103.3.246.71",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Vietnam",
     "country_code": "VN",
-    "region": "Ho Chi Minh",
-    "region_code": "SG",
-    "city": "Ho Chi Minh City",
-    "latitude": 10.8230989,
-    "longitude": 106.6296638,
-    "is_eu": false,
-    "postal": "708000",
-    "connection": {
-      "asn": 135377,
-      "org": "UCLOUD INFORMATION TECHNOLOGY HK LIMITED",
-      "isp": "UCLOUD INFORMATION TECHNOLOGY HK LIMITED",
-      "domain": "ucloud.cn"
-    }
-  },
-  {
-    "proxy": "http://163.223.231.155:39152",
-    "tested_at": "2026-02-14T07:33:40Z",
-    "ip": "163.223.231.155",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Vietnam",
-    "country_code": "VN",
-    "region": "Bình Định Province",
-    "region_code": "31",
-    "city": "Phù Mỹ District",
-    "latitude": 14.2157645,
-    "longitude": 109.1166566,
+    "region": "Tien Giang province",
+    "region_code": "46",
+    "city": "Tân Phú",
+    "latitude": 10.7900517,
+    "longitude": 106.6281901,
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 135983,
-      "org": "Le Gia Technology Company Limited",
-      "isp": "Tino Group Joint Stock Company",
-      "domain": "legiatech.com"
+      "asn": 135967,
+      "org": "New Vision Trading Co.,ltd",
+      "isp": "Bach Kim Network Solutions Join Stock Company",
+      "domain": "vdata.vn"
+    }
+  },
+  {
+    "proxy": "http://42.116.10.196:443",
+    "tested_at": "2026-02-14T08:04:33Z",
+    "ip": "42.116.10.196",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "region": "Hanoi",
+    "region_code": "HN",
+    "city": "Hanoi",
+    "latitude": 21.0277644,
+    "longitude": 105.8341598,
+    "is_eu": false,
+    "postal": "110905",
+    "connection": {
+      "asn": 18403,
+      "org": "Fpt Telecom Company",
+      "isp": "Fpt Telecom Company",
+      "domain": "fpt.net"
     }
   }
 ]

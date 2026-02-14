@@ -1,7 +1,76 @@
 [
   {
+    "proxy": "http://178.251.111.20:8080",
+    "tested_at": "2026-02-14T08:04:31Z",
+    "ip": "178.251.111.18",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Sumy Oblast",
+    "region_code": "59",
+    "city": "Konotop",
+    "latitude": 51.2409432,
+    "longitude": 33.2050521,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 35297,
+      "org": "Dataline LLC",
+      "isp": "Dataline LLC",
+      "domain": "dataline.ua"
+    }
+  },
+  {
+    "proxy": "http://91.228.217.195:8989",
+    "tested_at": "2026-02-14T08:04:41Z",
+    "ip": "91.228.217.195",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Ivano-Frankivsk Oblast",
+    "region_code": "",
+    "city": "Kryvorivnya",
+    "latitude": 48.1736874,
+    "longitude": 24.8963763,
+    "is_eu": false,
+    "postal": "78710",
+    "connection": {
+      "asn": 209907,
+      "org": "Fop Saiv Igor Stepanovich",
+      "isp": "Fop Saiv Igor Stepanovich",
+      "domain": "gipernet.com.ua"
+    }
+  },
+  {
+    "proxy": "http://31.134.120.124:1214",
+    "tested_at": "2026-02-14T08:04:43Z",
+    "ip": "31.134.120.124",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Kyiv city",
+    "region_code": "30",
+    "city": "Kyiv",
+    "latitude": 50.4501,
+    "longitude": 30.5234,
+    "is_eu": false,
+    "postal": "01001",
+    "connection": {
+      "asn": 56668,
+      "org": "Fop Demchuk Sergiy Olexandrovuch",
+      "isp": "Fop Demchuk Sergiy Olexandrovuch",
+      "domain": "simnet.kiev.ua"
+    }
+  },
+  {
     "proxy": "http://46.185.34.136:8187",
-    "tested_at": "2026-02-14T07:33:11Z",
+    "tested_at": "2026-02-14T08:04:55Z",
     "ip": "46.185.34.136",
     "success": true,
     "type": "IPv4",
@@ -20,29 +89,6 @@
       "org": "Kyivstar Gsm",
       "isp": "Kyivstar Pjsc",
       "domain": "kyivstar.net"
-    }
-  },
-  {
-    "proxy": "http://91.238.104.171:2023",
-    "tested_at": "2026-02-14T07:33:29Z",
-    "ip": "91.238.104.171",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Kyiv city",
-    "region_code": "30",
-    "city": "Kyiv",
-    "latitude": 50.4501,
-    "longitude": 30.5234,
-    "is_eu": false,
-    "postal": "01001",
-    "connection": {
-      "asn": 50321,
-      "org": "Fop Reznichenko Sergey Mykolayovich",
-      "isp": "Fop Reznichenko Sergey Mykolayovich",
-      "domain": "bytes.ua"
     }
   }
 ]

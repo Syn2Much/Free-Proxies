@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://67.43.228.252:25293",
+    "tested_at": "2026-02-14T08:04:50Z",
+    "ip": "169.148.80.169",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "region": "Makkah Region",
+    "region_code": "02",
+    "city": "Jeddah",
+    "latitude": 21.2854067,
+    "longitude": 39.2375507,
+    "is_eu": false,
+    "postal": "23434",
+    "connection": {
+      "asn": 25019,
+      "org": "STC FBB",
+      "isp": "Saudi Telecom Company JSC",
+      "domain": "stc.com.sa"
+    }
+  }
+]

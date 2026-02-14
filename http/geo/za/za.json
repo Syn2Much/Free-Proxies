@@ -1,8 +1,54 @@
 [
   {
-    "proxy": "http://102.212.44.151:12354",
-    "tested_at": "2026-02-14T07:32:55Z",
-    "ip": "102.212.44.197",
+    "proxy": "http://160.119.228.146:12354",
+    "tested_at": "2026-02-14T08:04:16Z",
+    "ip": "160.119.228.146",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Gauteng",
+    "region_code": "GT",
+    "city": "Randburg",
+    "latitude": -26.1438399,
+    "longitude": 27.9951862,
+    "is_eu": false,
+    "postal": "2194",
+    "connection": {
+      "asn": 328137,
+      "org": "Web Squad Connect",
+      "isp": "Web Squad Connect pty LTD",
+      "domain": "websquad.co.za"
+    }
+  },
+  {
+    "proxy": "http://102.135.142.234:12354",
+    "tested_at": "2026-02-14T08:04:22Z",
+    "ip": "102.135.142.234",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Gauteng",
+    "region_code": "GT",
+    "city": "Centurion",
+    "latitude": -25.864029,
+    "longitude": 28.0888578,
+    "is_eu": false,
+    "postal": "0014",
+    "connection": {
+      "asn": 327907,
+      "org": "ISPDIVISION",
+      "isp": "Session Telecoms pty LTD",
+      "domain": "sessiontelecoms.co.za"
+    }
+  },
+  {
+    "proxy": "http://196.251.222.17:8103",
+    "tested_at": "2026-02-14T08:04:45Z",
+    "ip": "196.251.222.250",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,33 +62,56 @@
     "is_eu": false,
     "postal": "2001",
     "connection": {
-      "asn": 329243,
-      "org": "OM SN",
-      "isp": "One Mile Telecoms pty Ltd.",
-      "domain": "1mile.co.za"
+      "asn": 37403,
+      "org": "Infogro Dsl",
+      "isp": "Info gro pty LTD",
+      "domain": "infogro.net"
     }
   },
   {
-    "proxy": "http://102.36.152.26:8080",
-    "tested_at": "2026-02-14T07:33:13Z",
-    "ip": "102.36.152.26",
+    "proxy": "http://196.251.222.154:8080",
+    "tested_at": "2026-02-14T08:04:48Z",
+    "ip": "196.251.222.154",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "South Africa",
     "country_code": "ZA",
-    "region": "Mpumalanga",
-    "region_code": "MP",
-    "city": "Nelspruit",
-    "latitude": -25.4752984,
-    "longitude": 30.9694163,
+    "region": "Gauteng",
+    "region_code": "GT",
+    "city": "Johannesburg",
+    "latitude": -26.2041028,
+    "longitude": 28.0473051,
     "is_eu": false,
-    "postal": "1201",
+    "postal": "2001",
     "connection": {
-      "asn": 328538,
-      "org": "Octopi Smart Solutions ISP Teraco",
-      "isp": "OCTOPI SMART SOLUTIONS PTY LTD",
-      "domain": "octopismart.co.za"
+      "asn": 37403,
+      "org": "Infogro Dsl",
+      "isp": "Info gro pty LTD",
+      "domain": "infogro.net"
+    }
+  },
+  {
+    "proxy": "http://169.239.223.79:9999",
+    "tested_at": "2026-02-14T08:04:55Z",
+    "ip": "169.239.223.79",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Eastern Cape",
+    "region_code": "EC",
+    "city": "Queenstown",
+    "latitude": -31.8976415,
+    "longitude": 26.9263671,
+    "is_eu": false,
+    "postal": "5319",
+    "connection": {
+      "asn": 328471,
+      "org": "HERO TELECOMS PTY LTD",
+      "isp": "HERO TELECOMS PTY LTD",
+      "domain": "herotel.com"
     }
   }
 ]

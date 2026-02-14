@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://197.211.45.4:10000",
-    "tested_at": "2026-02-14T07:33:26Z",
-    "ip": "129.222.204.27",
+    "proxy": "http://154.113.209.164:8082",
+    "tested_at": "2026-02-14T08:04:39Z",
+    "ip": "154.113.209.164",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "8600-000",
     "connection": {
-      "asn": 14593,
-      "org": "Starlink",
-      "isp": "Space Exploration Technologies Corporation",
-      "domain": "spacex.com"
+      "asn": 37282,
+      "org": "Mdxi Cloud Infrastructure",
+      "isp": "Mainone Cable Company",
+      "domain": "mainonecable.com"
     }
   }
 ]

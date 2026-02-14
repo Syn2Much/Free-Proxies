@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://181.104.70.198:3128",
-    "tested_at": "2026-02-14T07:33:33Z",
-    "ip": "181.104.70.198",
+    "proxy": "http://131.0.234.54:55555",
+    "tested_at": "2026-02-14T08:04:23Z",
+    "ip": "131.0.234.51",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -16,10 +16,102 @@
     "is_eu": false,
     "postal": "C1405 DJG",
     "connection": {
-      "asn": 7303,
-      "org": "Telecom Personal Bs AS",
-      "isp": "Telecom Argentina S.A.",
-      "domain": "telecom.com.ar"
+      "asn": 61470,
+      "org": "MUSURIT",
+      "isp": "MUSURIT",
+      "domain": "musurit.net"
+    }
+  },
+  {
+    "proxy": "http://190.122.88.117:6969",
+    "tested_at": "2026-02-14T08:04:26Z",
+    "ip": "198.12.37.41",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Chaco",
+    "region_code": "H",
+    "city": "Resistencia",
+    "latitude": -27.4518622,
+    "longitude": -58.9855547,
+    "is_eu": false,
+    "postal": "H3500 ASC",
+    "connection": {
+      "asn": 27988,
+      "org": "Servicios Y Telecomunicaciones S.A.",
+      "isp": "Servicios Y Telecomunicaciones S.A.",
+      "domain": "syt.net"
+    }
+  },
+  {
+    "proxy": "http://181.209.108.218:999",
+    "tested_at": "2026-02-14T08:04:31Z",
+    "ip": "181.209.108.218",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Santiago del Estero",
+    "region_code": "G",
+    "city": "Campo Gallo",
+    "latitude": -26.5834765,
+    "longitude": -62.8452392,
+    "is_eu": false,
+    "postal": "3747",
+    "connection": {
+      "asn": 52361,
+      "org": "Jujuy Sapem",
+      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
+      "domain": "arsat.com.ar"
+    }
+  },
+  {
+    "proxy": "http://181.209.122.117:999",
+    "tested_at": "2026-02-14T08:04:36Z",
+    "ip": "181.209.122.114",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Salta",
+    "region_code": "A",
+    "city": "Iruya",
+    "latitude": -22.7913886,
+    "longitude": -65.2159331,
+    "is_eu": false,
+    "postal": "4633",
+    "connection": {
+      "asn": 52361,
+      "org": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
+      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
+      "domain": "arsat.com.ar"
+    }
+  },
+  {
+    "proxy": "http://167.249.52.218:999",
+    "tested_at": "2026-02-14T08:04:45Z",
+    "ip": "167.249.52.218",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Mendoza",
+    "region_code": "M",
+    "city": "Baños Lunlunta",
+    "latitude": -33.0666618,
+    "longitude": -68.8333511,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 263793,
+      "org": "TECNET ARGENTINA S.A.",
+      "isp": "TECNET ARGENTINA S.A.",
+      "domain": "tecnetmza.com.ar"
     }
   }
 ]

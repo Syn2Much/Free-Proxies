@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://37.239.47.74:8080",
-    "tested_at": "2026-02-14T07:33:28Z",
-    "ip": "93.180.216.58",
+    "proxy": "http://37.238.63.49:8080",
+    "tested_at": "2026-02-14T08:04:31Z",
+    "ip": "37.237.229.128",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Iraq",
     "country_code": "IQ",
-    "region": "Dhi Qar Governorate",
-    "region_code": "DQ",
-    "city": "Nasiriyah",
-    "latitude": 31.0452345,
-    "longitude": 46.2665911,
+    "region": "Baghdad Governorate",
+    "region_code": "BG",
+    "city": "Baghdad",
+    "latitude": 33.3128057,
+    "longitude": 44.3614875,
     "is_eu": false,
-    "postal": "",
+    "postal": "10001",
     "connection": {
-      "asn": 203217,
-      "org": "Horizon Scope Mobile Telecom Wll",
-      "isp": "Horizon Scope Mobile Telecom Wll",
-      "domain": "horizonscope.com"
+      "asn": 199739,
+      "org": "Earthlink Ltd. Communications internet Services orange",
+      "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
+      "domain": "earthlink.iq"
     }
   }
 ]

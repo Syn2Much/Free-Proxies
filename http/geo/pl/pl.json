@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://185.28.250.90:8090",
-    "tested_at": "2026-02-14T07:01:49Z",
-    "ip": "185.28.250.90",
+    "proxy": "http://146.59.16.105:3128",
+    "tested_at": "2026-02-14T08:04:35Z",
+    "ip": "146.59.16.105",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Poland",
     "country_code": "PL",
-    "region": "Lesser Poland Voivodeship",
-    "region_code": "12",
-    "city": "Kraków",
-    "latitude": 50.0646501,
-    "longitude": 19.9449799,
+    "region": "Masovian Voivodeship",
+    "region_code": "14",
+    "city": "Warsaw",
+    "latitude": 52.2296756,
+    "longitude": 21.0122287,
     "is_eu": true,
-    "postal": "30-730",
+    "postal": "00-110",
     "connection": {
-      "asn": 206910,
-      "org": "BESTCONNECT CUST",
-      "isp": "Janusz Ciurus Trading AS Bestconnect",
-      "domain": "mynet.pl"
+      "asn": 16276,
+      "org": "OVH Sp. Z O. O.",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
     }
   }
 ]

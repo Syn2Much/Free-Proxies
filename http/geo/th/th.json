@@ -1,8 +1,77 @@
 [
   {
-    "proxy": "http://27.254.99.183:8118",
-    "tested_at": "2026-02-14T07:32:54Z",
-    "ip": "27.254.99.183",
+    "proxy": "http://203.150.172.151:8080",
+    "tested_at": "2026-02-14T08:04:21Z",
+    "ip": "203.150.172.151",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Thailand",
+    "country_code": "TH",
+    "region": "Pathum Thani Province",
+    "region_code": "13",
+    "city": "Lam Luk Ka District",
+    "latitude": 13.9754896,
+    "longitude": 100.7774424,
+    "is_eu": false,
+    "postal": "12150",
+    "connection": {
+      "asn": 4618,
+      "org": "Inext Broadband Company Limited",
+      "isp": "Internet Thailand Company Ltd.",
+      "domain": "inext.co.th"
+    }
+  },
+  {
+    "proxy": "http://182.52.229.165:8080",
+    "tested_at": "2026-02-14T08:04:23Z",
+    "ip": "182.52.229.165",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Thailand",
+    "country_code": "TH",
+    "region": "Rayong Province",
+    "region_code": "21",
+    "city": "Pluak Daeng District",
+    "latitude": 12.9964249,
+    "longitude": 101.2750531,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 23969,
+      "org": "Tot Public Company Limited",
+      "isp": "Tot Public Company Limited",
+      "domain": "totidc.net"
+    }
+  },
+  {
+    "proxy": "http://125.27.24.41:8080",
+    "tested_at": "2026-02-14T08:04:27Z",
+    "ip": "125.27.24.41",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Thailand",
+    "country_code": "TH",
+    "region": "Chanthaburi Province",
+    "region_code": "22",
+    "city": "Chanthaburi",
+    "latitude": 12.6112485,
+    "longitude": 102.1037806,
+    "is_eu": false,
+    "postal": "22000",
+    "connection": {
+      "asn": 23974,
+      "org": "Tot Public Company Limited Bangkok",
+      "isp": "Ministry of Education Emisc",
+      "domain": "totisp.net"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.170:24885",
+    "tested_at": "2026-02-14T08:04:31Z",
+    "ip": "49.228.122.63",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,16 +85,16 @@
     "is_eu": false,
     "postal": "10200",
     "connection": {
-      "asn": 9891,
-      "org": "CSLOXINFO IDC",
-      "isp": "Cs Loxinfo Public Company Limited",
-      "domain": "csloxinfo.com"
+      "asn": 133481,
+      "org": "Ais Fibre",
+      "isp": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+      "domain": "ais.co.th"
     }
   },
   {
-    "proxy": "http://182.53.143.200:8180",
-    "tested_at": "2026-02-14T07:32:59Z",
-    "ip": "182.53.143.200",
+    "proxy": "http://1.20.184.214:8080",
+    "tested_at": "2026-02-14T08:04:32Z",
+    "ip": "1.20.184.214",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -40,9 +109,124 @@
     "postal": "10200",
     "connection": {
       "asn": 23969,
+      "org": "TOT Mobile Co LTD",
+      "isp": "Tot Public Company Limited",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://118.175.30.26:80",
+    "tested_at": "2026-02-14T08:04:36Z",
+    "ip": "118.175.30.26",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Thailand",
+    "country_code": "TH",
+    "region": "Udon Thani Province",
+    "region_code": "41",
+    "city": "Udon Thani",
+    "latitude": 17.3646969,
+    "longitude": 102.8158924,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 131293,
       "org": "Tot Public Company Limited",
       "isp": "Tot Public Company Limited",
-      "domain": "totidc.net"
+      "domain": "totbb.net"
+    }
+  },
+  {
+    "proxy": "http://27.131.146.251:3128",
+    "tested_at": "2026-02-14T08:04:38Z",
+    "ip": "171.7.80.226",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Thailand",
+    "country_code": "TH",
+    "region": "Bangkok",
+    "region_code": "10",
+    "city": "Bang Khen",
+    "latitude": 13.8630429,
+    "longitude": 100.6027654,
+    "is_eu": false,
+    "postal": "10220",
+    "connection": {
+      "asn": 45758,
+      "org": "Triple T Broadband Public Company Limited",
+      "isp": "Triple T Broadband Public Company Limited",
+      "domain": "3bbmail.com"
+    }
+  },
+  {
+    "proxy": "http://110.164.175.110:8080",
+    "tested_at": "2026-02-14T08:04:43Z",
+    "ip": "223.206.195.232",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Thailand",
+    "country_code": "TH",
+    "region": "Buri Ram Province",
+    "region_code": "31",
+    "city": "Prakhon Chai District",
+    "latitude": 14.6161754,
+    "longitude": 103.035694,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 45758,
+      "org": "Triple T Broadband Public Company Limited",
+      "isp": "Triple T Broadband Public Company Limited",
+      "domain": "3bbmail.com"
+    }
+  },
+  {
+    "proxy": "http://223.206.190.39:8080",
+    "tested_at": "2026-02-14T08:04:51Z",
+    "ip": "223.206.190.39",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Thailand",
+    "country_code": "TH",
+    "region": "Changwat Nakhon Pathom",
+    "region_code": "",
+    "city": "Sam Phran District",
+    "latitude": 13.6866945,
+    "longitude": 100.106741,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 45758,
+      "org": "Triple T Broadband Public Company Limited",
+      "isp": "Triple T Broadband Public Company Limited",
+      "domain": "3bbmail.com"
+    }
+  },
+  {
+    "proxy": "http://124.120.232.119:8080",
+    "tested_at": "2026-02-14T08:05:01Z",
+    "ip": "124.120.232.119",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Thailand",
+    "country_code": "TH",
+    "region": "Chachoengsao Province",
+    "region_code": "24",
+    "city": "Khlong Luang Phaeng",
+    "latitude": 13.7463658,
+    "longitude": 100.9028149,
+    "is_eu": false,
+    "postal": "24000",
+    "connection": {
+      "asn": 17552,
+      "org": "TRUEHISP",
+      "isp": "TRUE INTERNET CORPORATION CO. LTD.",
+      "domain": "true.th"
     }
   }
 ]

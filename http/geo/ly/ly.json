@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://41.254.48.192:1978",
-    "tested_at": "2026-02-14T07:33:01Z",
-    "ip": "41.254.48.192",
+    "proxy": "http://154.73.28.79:8080",
+    "tested_at": "2026-02-14T08:04:23Z",
+    "ip": "154.73.28.74",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Libya",
     "country_code": "LY",
-    "region": "Sirte",
-    "region_code": "SR",
-    "city": "Sirte",
-    "latitude": 31.189689,
-    "longitude": 16.5701927,
+    "region": "Tripoli",
+    "region_code": "TB",
+    "city": "Tripoli",
+    "latitude": 32.8872094,
+    "longitude": 13.1913383,
     "is_eu": false,
-    "postal": "1087",
+    "postal": "350",
     "connection": {
       "asn": 21003,
-      "org": "Libyan Telecom And Technology",
+      "org": "RAWAFED LIBYA",
       "isp": "General Post And Telecommunication Company gptc",
-      "domain": "ltt.ly"
+      "domain": "rltt.net"
+    }
+  },
+  {
+    "proxy": "http://165.16.22.86:9999",
+    "tested_at": "2026-02-14T08:04:30Z",
+    "ip": "165.16.22.86",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Benghazi district",
+    "region_code": "BA",
+    "city": "Benghazi",
+    "latitude": 32.0947711,
+    "longitude": 20.1879106,
+    "is_eu": false,
+    "postal": "10001",
+    "connection": {
+      "asn": 37284,
+      "org": "Giga for Telecommunication And Technology LTD",
+      "isp": "Aljeel Aljadeed For Technology",
+      "domain": "iontel.ly"
     }
   }
 ]

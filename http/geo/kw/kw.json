@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://72.10.164.178:9343",
-    "tested_at": "2026-02-14T07:33:28Z",
-    "ip": "188.71.241.78",
+    "proxy": "http://72.10.164.178:20055",
+    "tested_at": "2026-02-14T08:04:54Z",
+    "ip": "188.236.207.225",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Kuwait",
     "country_code": "KW",
-    "region": "Hawalli",
-    "region_code": "HA",
-    "city": "Bayan",
-    "latitude": 29.2979895,
-    "longitude": 48.0510871,
+    "region": "Mubarak Al-Kabeer",
+    "region_code": "MU",
+    "city": "Mubarak Al-Kabeer Governorate",
+    "latitude": 29.21224,
+    "longitude": 48.0605108,
     "is_eu": false,
-    "postal": "32001",
+    "postal": "35706",
     "connection": {
-      "asn": 29357,
-      "org": "NATIONAL MOBILE TELECOMMUNICATIONS COMPANY K.S.C.P.",
-      "isp": "NATIONAL MOBILE TELECOMMUNICATIONS COMPANY K.S.C.P.",
-      "domain": "ooredoo.com.kw"
+      "asn": 42961,
+      "org": "Mobile Telecommunications Company K.S.C.P.",
+      "isp": "Mobile Telecommunications Company K.S.C.P.",
+      "domain": "zain.com"
     }
   }
 ]
