@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://72.10.160.170:5981",
-    "tested_at": "2026-02-14T22:35:22Z",
-    "ip": "174.89.13.140",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 577,
-      "org": "Sympatico Hse",
-      "isp": "Bell Canada",
-      "domain": "bell.ca"
-    }
-  },
-  {
     "proxy": "http://67.43.228.250:20167",
-    "tested_at": "2026-02-14T22:35:23Z",
+    "tested_at": "2026-02-14T23:06:50Z",
     "ip": "96.45.199.242",
     "success": true,
     "type": "IPv4",
@@ -43,34 +20,11 @@
       "org": "Beanfield Technologies Inc.",
       "isp": "Beanfield Technologies Inc.",
       "domain": "beanfield.com"
-    }
-  },
-  {
-    "proxy": "http://188.227.196.62:1080",
-    "tested_at": "2026-02-14T22:35:32Z",
-    "ip": "188.227.196.62",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Québec",
-    "region_code": "QC",
-    "city": "Québec City",
-    "latitude": 46.8138783,
-    "longitude": -71.2079809,
-    "is_eu": false,
-    "postal": "G1R 4S9",
-    "connection": {
-      "asn": 400897,
-      "org": "PetroSky",
-      "isp": "PETROSKY CLOUD LLC",
-      "domain": "abuseradar.com"
     }
   },
   {
     "proxy": "http://67.43.228.253:20167",
-    "tested_at": "2026-02-14T22:35:41Z",
+    "tested_at": "2026-02-14T23:06:50Z",
     "ip": "96.45.199.242",
     "success": true,
     "type": "IPv4",
@@ -89,75 +43,6 @@
       "org": "Beanfield Technologies Inc.",
       "isp": "Beanfield Technologies Inc.",
       "domain": "beanfield.com"
-    }
-  },
-  {
-    "proxy": "http://85.208.108.43:10808",
-    "tested_at": "2026-02-14T22:35:43Z",
-    "ip": "85.208.108.43",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 53363,
-      "org": "Worktitans B.V.",
-      "isp": "TANGRAM CANADA INC.",
-      "domain": "the.hosting"
-    }
-  },
-  {
-    "proxy": "http://85.208.108.43:2094",
-    "tested_at": "2026-02-14T22:35:43Z",
-    "ip": "85.208.108.43",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 53363,
-      "org": "Worktitans B.V.",
-      "isp": "TANGRAM CANADA INC.",
-      "domain": "the.hosting"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.90:11745",
-    "tested_at": "2026-02-14T22:36:01Z",
-    "ip": "70.31.231.111",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Québec",
-    "region_code": "QC",
-    "city": "Laval",
-    "latitude": 45.570336,
-    "longitude": -73.692033,
-    "is_eu": false,
-    "postal": "H7M 4M2",
-    "connection": {
-      "asn": 577,
-      "org": "Sympatico Hse",
-      "isp": "Bell Canada",
-      "domain": "bell.ca"
     }
   }
 ]

@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://72.10.160.90:4627",
+    "tested_at": "2026-02-14T23:07:11Z",
+    "ip": "122.121.34.113",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "region": "Kaohsiung City",
+    "region_code": "KHQ",
+    "city": "寶珠里",
+    "latitude": 22.6483956,
+    "longitude": 120.3262085,
+    "is_eu": false,
+    "postal": "807",
+    "connection": {
+      "asn": 3462,
+      "org": "Chunghwa Telecom CO.,LTD.",
+      "isp": "Chunghwa Telecom Co., Ltd.",
+      "domain": "cht.com.tw"
+    }
+  },
+  {
     "proxy": "http://35.234.17.221:8080",
-    "tested_at": "2026-02-14T22:04:31Z",
+    "tested_at": "2026-02-14T23:07:21Z",
     "ip": "35.234.17.221",
     "success": true,
     "type": "IPv4",
@@ -20,29 +43,6 @@
       "org": "Google LLC",
       "isp": "Google LLC",
       "domain": "google.com"
-    }
-  },
-  {
-    "proxy": "http://27.147.28.73:8080",
-    "tested_at": "2026-02-14T22:04:39Z",
-    "ip": "27.147.28.73",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Taiwan",
-    "country_code": "TW",
-    "region": "New Taipei City",
-    "region_code": "",
-    "city": "Zhitan 5th Street",
-    "latitude": 24.941202,
-    "longitude": 121.534131,
-    "is_eu": false,
-    "postal": "231",
-    "connection": {
-      "asn": 18429,
-      "org": "CABLE GIANT CATV. CO., LTD.",
-      "isp": "Extra lan Technologies Co., LTD",
-      "domain": "cable-giant.com.tw"
     }
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://185.133.214.90:8080",
-    "tested_at": "2026-02-14T19:27:42Z",
+    "tested_at": "2026-02-14T23:07:10Z",
     "ip": "203.81.71.98",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,29 @@
       "org": "Myanma Post And Telecommunication",
       "isp": "Myanma Post Telecommunication",
       "domain": "mptjo.com.mm"
+    }
+  },
+  {
+    "proxy": "http://67.43.228.254:5325",
+    "tested_at": "2026-02-14T23:07:17Z",
+    "ip": "210.14.99.166",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Myanmar [Burma]",
+    "country_code": "MM",
+    "region": "Yangon",
+    "region_code": "06",
+    "city": "Yangon",
+    "latitude": 16.8660694,
+    "longitude": 96.195132,
+    "is_eu": false,
+    "postal": "00000",
+    "connection": {
+      "asn": 58952,
+      "org": "Frontiir Co., LTD",
+      "isp": "Frontiir Co., LTD",
+      "domain": "frontiir.net"
     }
   }
 ]

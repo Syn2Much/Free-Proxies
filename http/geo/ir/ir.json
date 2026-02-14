@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://85.9.87.26:8080",
-    "tested_at": "2026-02-14T22:04:51Z",
-    "ip": "85.9.87.26",
+    "proxy": "http://178.252.134.188:3128",
+    "tested_at": "2026-02-14T23:07:12Z",
+    "ip": "178.252.134.188",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "1317947564",
     "connection": {
-      "asn": 47376,
-      "org": "Pishgaman",
-      "isp": "Web Gostaran Bandar Company pjs",
-      "domain": "pishgaman.net"
+      "asn": 51074,
+      "org": "MABNA",
+      "isp": "Gostaresh e ertebatat e Mabna Company private Joint Stock",
+      "domain": "mabnatelecom.com"
     }
   }
 ]

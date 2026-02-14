@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://147.45.60.34:1082",
-    "tested_at": "2026-02-14T06:30:19Z",
-    "ip": "147.45.60.34",
+    "proxy": "http://185.155.99.114:8118",
+    "tested_at": "2026-02-14T23:06:57Z",
+    "ip": "185.155.99.114",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Estonia",
     "country_code": "EE",
-    "region": "Harju maakond",
+    "region": "Ida-Viru maakond",
     "region_code": "",
-    "city": "Tallinn",
-    "latitude": 59.4369608,
-    "longitude": 24.7535746,
+    "city": "Narva",
+    "latitude": 59.3796798,
+    "longitude": 28.1791333,
     "is_eu": true,
-    "postal": "10123",
+    "postal": "29022",
     "connection": {
-      "asn": 215540,
-      "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
-      "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
-      "domain": "globconnex.com"
+      "asn": 202759,
+      "org": "Rj Network Ou",
+      "isp": "Rj Network Ou",
+      "domain": "rjnet.ee"
     }
   }
 ]

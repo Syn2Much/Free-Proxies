@@ -1,7 +1,7 @@
 [
   {
-    "proxy": "http://185.32.6.131:8070",
-    "tested_at": "2026-02-14T22:35:39Z",
+    "proxy": "http://185.32.6.131:8090",
+    "tested_at": "2026-02-14T23:07:05Z",
     "ip": "212.127.88.213",
     "success": true,
     "type": "IPv4",
@@ -23,26 +23,26 @@
     }
   },
   {
-    "proxy": "http://144.31.0.166:3128",
-    "tested_at": "2026-02-14T22:35:54Z",
-    "ip": "144.31.0.166",
+    "proxy": "http://212.182.119.149:8080",
+    "tested_at": "2026-02-14T23:07:24Z",
+    "ip": "212.182.119.149",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Poland",
     "country_code": "PL",
-    "region": "Masovian Voivodeship",
-    "region_code": "14",
-    "city": "Warsaw",
-    "latitude": 52.2296756,
-    "longitude": 21.0122287,
+    "region": "Lublin Voivodeship",
+    "region_code": "06",
+    "city": "Lublin",
+    "latitude": 51.2464536,
+    "longitude": 22.5684463,
     "is_eu": true,
-    "postal": "00-110",
+    "postal": "20-484",
     "connection": {
-      "asn": 215730,
-      "org": "H NEXUS LTD",
-      "isp": "H NEXUS LTD",
-      "domain": "h2.nexus"
+      "asn": 12346,
+      "org": "Avir Sp. z o.o.",
+      "isp": "non academic part of Lublin MAN",
+      "domain": ""
     }
   }
 ]

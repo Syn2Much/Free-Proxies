@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://139.99.238.95:8080",
-    "tested_at": "2026-02-14T22:35:38Z",
-    "ip": "139.99.238.95",
+    "proxy": "http://67.43.228.251:11597",
+    "tested_at": "2026-02-14T23:07:04Z",
+    "ip": "202.14.195.203",
     "success": true,
     "type": "IPv4",
     "continent": "Oceania",
     "country": "Australia",
     "country_code": "AU",
-    "region": "New South Wales",
-    "region_code": "NSW",
-    "city": "Sydney",
-    "latitude": -33.8688197,
-    "longitude": 151.2092955,
+    "region": "Victoria",
+    "region_code": "VIC",
+    "city": "Melbourne",
+    "latitude": -37.8136276,
+    "longitude": 144.9630576,
     "is_eu": false,
-    "postal": "2000",
+    "postal": "3000",
     "connection": {
-      "asn": 16276,
-      "org": "OVH Australia Pty LTD",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
+      "asn": 139049,
+      "org": "Customer Range",
+      "isp": "GIGACOMM PTY LTD",
+      "domain": "gigacomm.net.au"
     }
   }
 ]

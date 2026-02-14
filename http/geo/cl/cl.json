@@ -1,7 +1,122 @@
 [
   {
-    "proxy": "http://38.7.195.50:999",
-    "tested_at": "2026-02-14T22:35:34Z",
+    "proxy": "http://45.180.26.1:999",
+    "tested_at": "2026-02-14T23:06:56Z",
+    "ip": "45.180.26.130",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Coquimbo Region",
+    "region_code": "CO",
+    "city": "Ovalle",
+    "latitude": -30.604304,
+    "longitude": -71.1969882,
+    "is_eu": false,
+    "postal": "184 0612",
+    "connection": {
+      "asn": 267926,
+      "org": "ROBERTO MENA OYARZUN COMUNICACIONES EIRL",
+      "isp": "Roberto Mena Oyarzun Comunicaciones Eirl",
+      "domain": "kzen.cl"
+    }
+  },
+  {
+    "proxy": "http://204.199.140.23:999",
+    "tested_at": "2026-02-14T23:07:08Z",
+    "ip": "204.199.140.23",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 273237,
+      "org": "INGBELL CHILE SPA",
+      "isp": "INGBELL CHILE SPA",
+      "domain": "ingbell.cl"
+    }
+  },
+  {
+    "proxy": "http://179.49.237.6:999",
+    "tested_at": "2026-02-14T23:07:18Z",
+    "ip": "179.49.239.2",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 271777,
+      "org": "SITELCO SPA",
+      "isp": "SITELCO SPA",
+      "domain": "sitelco.cl"
+    }
+  },
+  {
+    "proxy": "http://201.186.41.170:999",
+    "tested_at": "2026-02-14T23:07:18Z",
+    "ip": "201.186.41.170",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Biobío Region",
+    "region_code": "BI",
+    "city": "Los Ángeles",
+    "latitude": -37.4629159,
+    "longitude": -72.3612251,
+    "is_eu": false,
+    "postal": "90009",
+    "connection": {
+      "asn": 14117,
+      "org": "Telefonica del Sur S.A",
+      "isp": "Telefonica Del Sur S.A.",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://72.10.160.171:21307",
+    "tested_at": "2026-02-14T23:07:22Z",
+    "ip": "186.189.99.207",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 52341,
+      "org": "WOM S.A.",
+      "isp": "WOM S.A.",
+      "domain": "wom.cl"
+    }
+  },
+  {
+    "proxy": "http://38.7.195.53:999",
+    "tested_at": "2026-02-14T23:07:28Z",
     "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
@@ -23,54 +138,31 @@
     }
   },
   {
-    "proxy": "http://167.249.29.218:999",
-    "tested_at": "2026-02-14T22:35:48Z",
-    "ip": "167.249.29.218",
+    "proxy": "http://204.199.139.125:999",
+    "tested_at": "2026-02-14T23:07:29Z",
+    "ip": "45.225.204.99",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Chile",
     "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
+    "region": "O'Higgins Region",
     "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
+    "city": "Las Cabras",
+    "latitude": -34.2932184,
+    "longitude": -71.3126292,
     "is_eu": false,
-    "postal": "832 0202",
+    "postal": "3030000",
     "connection": {
-      "asn": 64139,
-      "org": "GRUPO METROWAN TELECOM SPA",
-      "isp": "GRUPO METROWAN TELECOM SPA",
-      "domain": "metrowan.cl"
-    }
-  },
-  {
-    "proxy": "http://207.248.3.81:999",
-    "tested_at": "2026-02-14T22:35:57Z",
-    "ip": "207.248.3.81",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Buin",
-    "latitude": -33.7309374,
-    "longitude": -70.7423218,
-    "is_eu": false,
-    "postal": "9500000",
-    "connection": {
-      "asn": 64139,
-      "org": "GRUPO METROWAN TELECOM SPA",
-      "isp": "GRUPO METROWAN TELECOM SPA",
-      "domain": "metrowan.cl"
+      "asn": 265858,
+      "org": "NETDELSUR TELECOMUNICACIONES SPA",
+      "isp": "NETDELSUR TELECOMUNICACIONES SPA",
+      "domain": "netdelsur.cl"
     }
   },
   {
     "proxy": "http://186.67.74.52:3128",
-    "tested_at": "2026-02-14T22:36:03Z",
+    "tested_at": "2026-02-14T23:07:30Z",
     "ip": "186.67.74.52",
     "success": true,
     "type": "IPv4",
@@ -92,9 +184,9 @@
     }
   },
   {
-    "proxy": "http://170.233.192.225:999",
-    "tested_at": "2026-02-14T22:36:05Z",
-    "ip": "170.233.192.231",
+    "proxy": "http://190.153.237.6:37453",
+    "tested_at": "2026-02-14T23:07:34Z",
+    "ip": "190.153.237.5",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -108,33 +200,10 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 52510,
-      "org": "MI INTERNET SPA",
-      "isp": "MI INTERNET SPA",
-      "domain": "miinternet.cl"
-    }
-  },
-  {
-    "proxy": "http://186.67.94.10:999",
-    "tested_at": "2026-02-14T22:36:13Z",
-    "ip": "201.236.20.98",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Valparaiso Region",
-    "region_code": "VS",
-    "city": "Quillota",
-    "latitude": -32.8803027,
-    "longitude": -71.2497156,
-    "is_eu": false,
-    "postal": "226 0000",
-    "connection": {
-      "asn": 15311,
-      "org": "MONTALVA PROPIEDADES LTDA",
-      "isp": "TELEFONICA EMPRESAS CHILE SA",
-      "domain": "movistar.cl"
+      "asn": 14259,
+      "org": "Gtd Internet S.A.",
+      "isp": "Gtd Internet S.A.",
+      "domain": "gtdinternet.com"
     }
   }
 ]

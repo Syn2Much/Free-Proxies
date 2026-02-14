@@ -1,31 +1,77 @@
 [
   {
-    "proxy": "http://41.254.48.66:1973",
-    "tested_at": "2026-02-14T22:35:23Z",
-    "ip": "41.254.48.66",
+    "proxy": "http://41.254.47.66:19000",
+    "tested_at": "2026-02-14T23:07:01Z",
+    "ip": "41.254.47.66",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Libya",
     "country_code": "LY",
-    "region": "Sirte",
-    "region_code": "SR",
-    "city": "Sirte",
-    "latitude": 31.189689,
-    "longitude": 16.5701927,
+    "region": "Tripoli",
+    "region_code": "TB",
+    "city": "Tripoli",
+    "latitude": 32.8872094,
+    "longitude": 13.1913383,
     "is_eu": false,
-    "postal": "1087",
+    "postal": "350",
     "connection": {
       "asn": 21003,
-      "org": "Libyan Telecom And Technology",
-      "isp": "General Post And Telecommunication Company gptc",
-      "domain": "ltt.ly"
+      "org": "Libyan Telecom and Technology",
+      "isp": "LTT Network Backbone and POPs",
+      "domain": ""
     }
   },
   {
-    "proxy": "http://102.68.128.214:8080",
-    "tested_at": "2026-02-14T22:35:36Z",
-    "ip": "102.68.128.195",
+    "proxy": "http://165.16.59.65:8080",
+    "tested_at": "2026-02-14T23:07:16Z",
+    "ip": "165.16.59.65",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Jabal al Gharbi",
+    "region_code": "JG",
+    "city": "Jadu",
+    "latitude": 31.9584113,
+    "longitude": 12.0204247,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 37284,
+      "org": "Aljeel Aljadeed For Technology",
+      "isp": "Aljeel Aljadeed For Technology",
+      "domain": "aljeel.ly"
+    }
+  },
+  {
+    "proxy": "http://154.127.78.16:44444",
+    "tested_at": "2026-02-14T23:07:19Z",
+    "ip": "154.127.79.199",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Tripoli",
+    "region_code": "TB",
+    "city": "Tripoli",
+    "latitude": 32.8872094,
+    "longitude": 13.1913383,
+    "is_eu": false,
+    "postal": "350",
+    "connection": {
+      "asn": 37284,
+      "org": "Tripoli, Libya",
+      "isp": "Aljeel Aljadeed For Technology",
+      "domain": "aljeel.ly"
+    }
+  },
+  {
+    "proxy": "http://102.68.128.217:8080",
+    "tested_at": "2026-02-14T23:07:22Z",
+    "ip": "102.68.128.200",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -46,9 +92,55 @@
     }
   },
   {
+    "proxy": "http://165.16.2.254:9999",
+    "tested_at": "2026-02-14T23:07:22Z",
+    "ip": "165.16.2.250",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Al Hizam Al Akhdar",
+    "region_code": "HZ",
+    "city": "Qaminis",
+    "latitude": 31.661538,
+    "longitude": 20.0181673,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 37284,
+      "org": "Aljeel Aljadeed For Technology",
+      "isp": "Aljeel Aljadeed For Technology",
+      "domain": "aljeel.ly"
+    }
+  },
+  {
+    "proxy": "http://165.16.92.193:8104",
+    "tested_at": "2026-02-14T23:07:29Z",
+    "ip": "165.16.92.192",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Tripoli",
+    "region_code": "TB",
+    "city": "Tripoli",
+    "latitude": 32.8872094,
+    "longitude": 13.1913383,
+    "is_eu": false,
+    "postal": "350",
+    "connection": {
+      "asn": 37284,
+      "org": "Aljeel Aljadeed For Technology",
+      "isp": "Aljeel Aljadeed For Technology",
+      "domain": "aljeel.ly"
+    }
+  },
+  {
     "proxy": "http://154.73.29.161:8080",
-    "tested_at": "2026-02-14T22:36:11Z",
-    "ip": "154.73.28.72",
+    "tested_at": "2026-02-14T23:07:34Z",
+    "ip": "154.73.28.74",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -66,29 +158,6 @@
       "org": "RAWAFED LIBYA",
       "isp": "General Post And Telecommunication Company gptc",
       "domain": "rltt.net"
-    }
-  },
-  {
-    "proxy": "http://165.16.27.43:1981",
-    "tested_at": "2026-02-14T22:36:17Z",
-    "ip": "165.16.27.22",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Libya",
-    "country_code": "LY",
-    "region": "Derna",
-    "region_code": "DR",
-    "city": "Derna",
-    "latitude": 32.755613,
-    "longitude": 22.6377432,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 37284,
-      "org": "Organisation Transahar IT Communications",
-      "isp": "Aljeel Aljadeed For Technology",
-      "domain": "aljeel.ly"
     }
   }
 ]

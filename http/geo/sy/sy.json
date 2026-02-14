@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://139.28.48.39:8080",
-    "tested_at": "2026-02-14T22:35:33Z",
-    "ip": "139.28.48.39",
+    "proxy": "http://89.43.133.165:8080",
+    "tested_at": "2026-02-14T23:07:07Z",
+    "ip": "89.43.133.165",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Syria",
+    "country_code": "SY",
+    "region": "Idlib Governorate",
+    "region_code": "ID",
+    "city": "Idlib",
+    "latitude": 35.9310271,
+    "longitude": 36.6417777,
+    "is_eu": false,
+    "postal": "+96323",
+    "connection": {
+      "asn": 216472,
+      "org": "HU PANTEL INT 00 11",
+      "isp": "High Speed For Internet Services L.L.C",
+      "domain": "turktelekomint.com"
+    }
+  },
+  {
+    "proxy": "http://212.108.115.130:8080",
+    "tested_at": "2026-02-14T23:07:09Z",
+    "ip": "212.108.115.181",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -17,25 +40,25 @@
     "postal": "2277",
     "connection": {
       "asn": 216472,
-      "org": "Telecom Sy",
+      "org": "TELECOME SY",
       "isp": "High Speed For Internet Services L.L.C",
-      "domain": "highspeed-sy.com"
+      "domain": "kaer.technology"
     }
   },
   {
-    "proxy": "http://193.43.145.124:8080",
-    "tested_at": "2026-02-14T22:35:42Z",
-    "ip": "193.43.145.124",
+    "proxy": "http://193.43.140.228:8080",
+    "tested_at": "2026-02-14T23:07:15Z",
+    "ip": "193.43.140.228",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Syria",
     "country_code": "SY",
-    "region": "Homs Governorate",
-    "region_code": "HI",
-    "city": "Talbiseh",
-    "latitude": 34.8422936,
-    "longitude": 36.7307641,
+    "region": "Rif Dimashq Governorate",
+    "region_code": "RD",
+    "city": "Harasta",
+    "latitude": 33.5583385,
+    "longitude": 36.3660597,
     "is_eu": false,
     "postal": "",
     "connection": {
@@ -46,9 +69,32 @@
     }
   },
   {
-    "proxy": "http://164.138.205.120:8080",
-    "tested_at": "2026-02-14T22:35:44Z",
-    "ip": "164.138.205.120",
+    "proxy": "http://139.28.49.183:8080",
+    "tested_at": "2026-02-14T23:07:18Z",
+    "ip": "139.28.49.183",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Syria",
+    "country_code": "SY",
+    "region": "Aleppo Governorate",
+    "region_code": "HL",
+    "city": "Aleppo",
+    "latitude": 36.2021047,
+    "longitude": 37.1342603,
+    "is_eu": false,
+    "postal": "720",
+    "connection": {
+      "asn": 216472,
+      "org": "Telecom Sy",
+      "isp": "High Speed For Internet Services L.L.C",
+      "domain": "highspeed-sy.com"
+    }
+  },
+  {
+    "proxy": "http://164.138.205.122:8080",
+    "tested_at": "2026-02-14T23:07:20Z",
+    "ip": "164.138.205.122",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -69,21 +115,21 @@
     }
   },
   {
-    "proxy": "http://89.43.134.40:8080",
-    "tested_at": "2026-02-14T22:36:12Z",
-    "ip": "89.43.134.40",
+    "proxy": "http://89.43.133.197:8080",
+    "tested_at": "2026-02-14T23:07:28Z",
+    "ip": "89.43.133.197",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Syria",
     "country_code": "SY",
-    "region": "Aleppo Governorate",
-    "region_code": "HL",
-    "city": "Aleppo",
-    "latitude": 36.2021047,
-    "longitude": 37.1342603,
+    "region": "Idlib Governorate",
+    "region_code": "ID",
+    "city": "Idlib",
+    "latitude": 35.9310271,
+    "longitude": 36.6417777,
     "is_eu": false,
-    "postal": "720",
+    "postal": "+96323",
     "connection": {
       "asn": 216472,
       "org": "HU PANTEL INT 00 11",
@@ -92,9 +138,9 @@
     }
   },
   {
-    "proxy": "http://212.108.115.102:8080",
-    "tested_at": "2026-02-14T22:36:15Z",
-    "ip": "212.108.115.102",
+    "proxy": "http://164.138.205.120:8080",
+    "tested_at": "2026-02-14T23:07:31Z",
+    "ip": "164.138.205.120",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -109,7 +155,7 @@
     "postal": "2277",
     "connection": {
       "asn": 216472,
-      "org": "TELECOME SY",
+      "org": "Telecom Sy",
       "isp": "High Speed For Internet Services L.L.C",
       "domain": "kaer.technology"
     }

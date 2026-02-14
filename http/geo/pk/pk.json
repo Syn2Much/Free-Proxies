@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://103.111.39.179:8080",
-    "tested_at": "2026-02-14T22:35:24Z",
-    "ip": "103.111.39.179",
+    "proxy": "http://103.153.39.35:8083",
+    "tested_at": "2026-02-14T23:07:17Z",
+    "ip": "103.153.39.35",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,62 +10,16 @@
     "country_code": "PK",
     "region": "Punjab",
     "region_code": "PB",
-    "city": "Kot Qutubuddin",
-    "latitude": 32.4705974,
-    "longitude": 74.0052466,
+    "city": "Burewala",
+    "latitude": 30.1592839,
+    "longitude": 72.694262,
     "is_eu": false,
-    "postal": "",
+    "postal": "78646",
     "connection": {
-      "asn": 142618,
-      "org": "GH Telecom",
-      "isp": "Gh Telecom",
-      "domain": "ghinternet.com"
-    }
-  },
-  {
-    "proxy": "http://182.176.164.41:8080",
-    "tested_at": "2026-02-14T22:35:24Z",
-    "ip": "119.155.32.76",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Pakistan",
-    "country_code": "PK",
-    "region": "Punjab",
-    "region_code": "PB",
-    "city": "Lahore",
-    "latitude": 31.5546061,
-    "longitude": 74.3571581,
-    "is_eu": false,
-    "postal": "54000",
-    "connection": {
-      "asn": 17557,
-      "org": "Hsi Pool on Karachi Bras",
-      "isp": "Pakistan Telecommuication Company Limited",
-      "domain": "ptcl.net.pk"
-    }
-  },
-  {
-    "proxy": "http://121.91.60.68:8080",
-    "tested_at": "2026-02-14T22:35:58Z",
-    "ip": "121.91.60.68",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Pakistan",
-    "country_code": "PK",
-    "region": "Punjab",
-    "region_code": "PB",
-    "city": "Daultala",
-    "latitude": 33.1918408,
-    "longitude": 73.1423364,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 138423,
-      "org": "Cmpak Public Ips",
-      "isp": "Cmpak Limited",
-      "domain": "zong.com.pk"
+      "asn": 140900,
+      "org": "Getlinks smc private Limited Market",
+      "isp": "Getlinks smc private Limited",
+      "domain": "getlinks.net.pk"
     }
   }
 ]

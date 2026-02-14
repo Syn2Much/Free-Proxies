@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://110.34.13.4:8080",
-    "tested_at": "2026-02-14T22:36:19Z",
-    "ip": "110.34.13.4",
+    "proxy": "http://36.253.18.38:8181",
+    "tested_at": "2026-02-14T23:07:24Z",
+    "ip": "36.253.18.38",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "44707",
     "connection": {
-      "asn": 4007,
-      "org": "Subisu Retail Pool",
-      "isp": "Subisu Cablenet",
-      "domain": "subisu.net.np"
+      "asn": 38565,
+      "org": "Ncell Pty. Ltd.",
+      "isp": "Ncell Pty. Ltd.",
+      "domain": "ncell.com.np"
     }
   }
 ]

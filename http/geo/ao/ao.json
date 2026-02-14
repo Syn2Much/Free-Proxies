@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://154.127.219.242:999",
-    "tested_at": "2026-02-14T17:54:00Z",
-    "ip": "154.127.219.242",
+    "proxy": "http://102.207.128.2:8080",
+    "tested_at": "2026-02-14T23:07:37Z",
+    "ip": "102.207.128.2",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -10,16 +10,16 @@
     "country_code": "AO",
     "region": "Luanda Province",
     "region_code": "LUA",
-    "city": "Camana",
-    "latitude": -8.9186,
-    "longitude": 13.2602,
+    "city": "Luanda",
+    "latitude": -8.8399876,
+    "longitude": 13.2894368,
     "is_eu": false,
-    "postal": "",
+    "postal": "1120",
     "connection": {
-      "asn": 36907,
-      "org": "Tvcabo Angola, Lda",
-      "isp": "TV CABO ANGOLA LDA",
-      "domain": "tvcabo.ao"
+      "asn": 329506,
+      "org": "MSBYTE SOLUTION,LIMITADA",
+      "isp": "MSBYTE SOLUTION,LIMITADA",
+      "domain": "msbytesolution.com"
     }
   }
 ]

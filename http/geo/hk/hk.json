@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://34.96.238.40:8080",
-    "tested_at": "2026-02-14T22:35:21Z",
-    "ip": "34.96.238.40",
+    "proxy": "http://43.250.9.46:10088",
+    "tested_at": "2026-02-14T23:06:51Z",
+    "ip": "43.250.9.46",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,15 +16,15 @@
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 396982,
-      "org": "Google LLC",
-      "isp": "Google LLC",
-      "domain": "google.com"
+      "asn": 38478,
+      "org": "Network Infinity Technologies Limited",
+      "isp": "Sunnyvision Limited",
+      "domain": "netfinity.com.hk"
     }
   },
   {
     "proxy": "http://47.243.92.199:3128",
-    "tested_at": "2026-02-14T22:35:35Z",
+    "tested_at": "2026-02-14T23:06:55Z",
     "ip": "47.243.92.199",
     "success": true,
     "type": "IPv4",
@@ -47,7 +47,7 @@
   },
   {
     "proxy": "http://101.47.73.135:3128",
-    "tested_at": "2026-02-14T22:35:54Z",
+    "tested_at": "2026-02-14T23:07:02Z",
     "ip": "101.47.73.135",
     "success": true,
     "type": "IPv4",
@@ -66,75 +66,6 @@
       "org": "BYTEPLUS",
       "isp": "Byteplus Pte. Ltd.",
       "domain": "bytedance.com"
-    }
-  },
-  {
-    "proxy": "http://160.20.55.235:8080",
-    "tested_at": "2026-02-14T22:36:14Z",
-    "ip": "160.20.55.235",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.276022,
-    "longitude": 114.1751471,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 58411,
-      "org": "Datamax Osi Limited",
-      "isp": "Gateway Technology Development Company Limited",
-      "domain": "datamaxosi.com"
-    }
-  },
-  {
-    "proxy": "http://203.196.8.6:3128",
-    "tested_at": "2026-02-14T22:36:19Z",
-    "ip": "203.196.8.6",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.276022,
-    "longitude": 114.1751471,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 23764,
-      "org": "Chinatelecom Next Carrying Network backbone",
-      "isp": "China Telecom Global Limited",
-      "domain": "chinatelecom.com.hk"
-    }
-  },
-  {
-    "proxy": "http://149.88.71.87:8080",
-    "tested_at": "2026-02-14T22:36:20Z",
-    "ip": "149.88.71.87",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.3668502,
-    "longitude": 114.1302591,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 401696,
-      "org": "Cogent Communications",
-      "isp": "Cognetcloud INC",
-      "domain": "cogentco.com"
     }
   }
 ]

@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "http://41.90.167.149:8082",
-    "tested_at": "2026-02-14T22:35:27Z",
-    "ip": "41.90.167.149",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Nairobi",
-    "region_code": "110",
-    "city": "Nairobi",
-    "latitude": -1.3237958,
-    "longitude": 36.8808553,
-    "is_eu": false,
-    "postal": "200",
-    "connection": {
-      "asn": 37061,
-      "org": "Safaricom Limited",
-      "isp": "Safaricom Limited",
-      "domain": "safaricom.co.ke"
-    }
-  },
-  {
-    "proxy": "http://102.0.16.252:8080",
-    "tested_at": "2026-02-14T22:36:14Z",
-    "ip": "102.0.16.252",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Kiambu",
-    "region_code": "13",
-    "city": "Ruiru",
-    "latitude": -1.1457029,
-    "longitude": 36.9648534,
-    "is_eu": false,
-    "postal": "01001",
-    "connection": {
-      "asn": 327708,
-      "org": "Allocated to Airtel Kenya Mobile Broadband And Fixed Internet",
-      "isp": "Airtel Rwanda LTD",
-      "domain": "airtel.com"
-    }
-  },
-  {
-    "proxy": "http://102.0.18.120:8080",
-    "tested_at": "2026-02-14T22:36:15Z",
-    "ip": "102.0.18.120",
+    "proxy": "http://102.0.16.226:8080",
+    "tested_at": "2026-02-14T23:06:51Z",
+    "ip": "102.0.16.226",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -66,6 +20,29 @@
       "org": "Allocated to Airtel Kenya Mobile Broadband And Fixed Internet",
       "isp": "Airtel Rwanda LTD",
       "domain": "airtel.com"
+    }
+  },
+  {
+    "proxy": "http://197.248.204.231:8080",
+    "tested_at": "2026-02-14T23:07:19Z",
+    "ip": "197.248.204.231",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Kiambu",
+    "region_code": "13",
+    "city": "Kikuyu",
+    "latitude": -1.2543366,
+    "longitude": 36.681661,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 37061,
+      "org": "Safaricom Limited",
+      "isp": "Safaricom Limited",
+      "domain": ""
     }
   }
 ]
