@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://94.68.245.147:8080",
-    "tested_at": "2026-02-14T17:54:26Z",
-    "ip": "94.68.245.147",
+    "proxy": "http://62.103.66.18:3128",
+    "tested_at": "2026-02-14T19:59:22Z",
+    "ip": "62.103.66.18",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Greece",
     "country_code": "GR",
-    "region": "Macedonia and Thrace",
-    "region_code": "",
-    "city": "Kopanos",
-    "latitude": 40.6350113,
-    "longitude": 22.1299742,
+    "region": "Attica",
+    "region_code": "I",
+    "city": "Athens",
+    "latitude": 37.9838096,
+    "longitude": 23.7275388,
     "is_eu": true,
-    "postal": "59035",
+    "postal": "10431",
     "connection": {
       "asn": 6799,
       "org": "Multiprotocol Service Provider to Other Isp s And End Users",
       "isp": "Ote SA hellenic Telecommunications Organisation",
-      "domain": "ote.gr"
+      "domain": "otenet.gr"
     }
   }
 ]

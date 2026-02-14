@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://38.52.222.227:999",
-    "tested_at": "2026-02-14T19:27:33Z",
-    "ip": "38.52.222.229",
+    "proxy": "http://38.123.48.50:999",
+    "tested_at": "2026-02-14T19:59:28Z",
+    "ip": "38.123.48.50",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Dominican Republic",
     "country_code": "DO",
-    "region": "Distrito Nacional",
-    "region_code": "01",
-    "city": "Santo Domingo",
-    "latitude": 18.4860575,
-    "longitude": -69.9312117,
+    "region": "Santo Domingo",
+    "region_code": "32",
+    "city": "Santo Domingo Este",
+    "latitude": 18.505583,
+    "longitude": -69.8001762,
     "is_eu": false,
-    "postal": "10119",
+    "postal": "11507",
     "connection": {
-      "asn": 272112,
+      "asn": 273224,
       "org": "Cogent Communications",
-      "isp": "TELECABLE DOMINICANO, S.A.",
-      "domain": "telecabledominicano.com.do"
-    }
-  },
-  {
-    "proxy": "http://38.191.88.128:999",
-    "tested_at": "2026-02-14T19:27:45Z",
-    "ip": "38.191.88.148",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Distrito Nacional",
-    "region_code": "01",
-    "city": "Santo Domingo",
-    "latitude": 18.4860575,
-    "longitude": -69.9312117,
-    "is_eu": false,
-    "postal": "10119",
-    "connection": {
-      "asn": 272027,
-      "org": "Megared Telecom LLC",
-      "isp": "LAUAM MEGARED TELECOM, S.R.L.",
-      "domain": "google.com"
+      "isp": "BRAVIC SRL",
+      "domain": "cismatechnology.com"
     }
   }
 ]

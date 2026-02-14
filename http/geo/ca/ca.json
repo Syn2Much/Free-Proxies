@@ -1,25 +1,71 @@
 [
   {
-    "proxy": "http://67.43.236.20:22873",
-    "tested_at": "2026-02-14T19:27:28Z",
-    "ip": "207.216.50.9",
+    "proxy": "http://85.208.108.43:10808",
+    "tested_at": "2026-02-14T19:59:00Z",
+    "ip": "85.208.108.43",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Canada",
     "country_code": "CA",
-    "region": "British Columbia",
-    "region_code": "BC",
-    "city": "Vancouver",
-    "latitude": 49.2827291,
-    "longitude": -123.1207375,
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
     "is_eu": false,
-    "postal": "98661",
+    "postal": "M5H 2N2",
     "connection": {
-      "asn": 852,
-      "org": "TELUS FIBRE GDFRBC01",
-      "isp": "Telus Communications Inc.",
-      "domain": "telus.com"
+      "asn": 53363,
+      "org": "Worktitans B.V.",
+      "isp": "TANGRAM CANADA INC.",
+      "domain": "the.hosting"
+    }
+  },
+  {
+    "proxy": "http://143.198.37.6:8888",
+    "tested_at": "2026-02-14T19:59:08Z",
+    "ip": "178.249.214.14",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
+    "is_eu": false,
+    "postal": "M5H 2N2",
+    "connection": {
+      "asn": 212238,
+      "org": "CDNEXT TOR",
+      "isp": "Datacamp Limited",
+      "domain": "datacamp.co.uk"
+    }
+  },
+  {
+    "proxy": "http://67.43.228.251:9625",
+    "tested_at": "2026-02-14T19:59:16Z",
+    "ip": "173.230.174.94",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
+    "is_eu": false,
+    "postal": "M5H 2N2",
+    "connection": {
+      "asn": 5645,
+      "org": "Teksavvy Solutions, Inc.",
+      "isp": "Teksavvy Solutions, Inc.",
+      "domain": "teksavvy.com"
     }
   }
 ]

@@ -1,10 +1,10 @@
 [
   {
-    "proxy": "http://160.20.55.235:8080",
-    "tested_at": "2026-02-14T19:27:29Z",
-    "ip": "160.20.55.235",
+    "proxy": "http://103.143.81.46:3128",
+    "tested_at": "2026-02-14T19:59:13Z",
+    "ip": "2001:df1:7880:100::f74",
     "success": true,
-    "type": "IPv4",
+    "type": "IPv6",
     "continent": "Asia",
     "country": "Hong Kong",
     "country_code": "HK",
@@ -16,15 +16,15 @@
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 58411,
-      "org": "Datamax Osi Limited",
-      "isp": "Gateway Technology Development Company Limited",
-      "domain": "datamaxosi.com"
+      "asn": 139659,
+      "org": "LUCIDACLOUD LIMITED",
+      "isp": "LUCIDACLOUD LIMITED",
+      "domain": "yecaoyun.com"
     }
   },
   {
     "proxy": "http://101.47.73.135:3128",
-    "tested_at": "2026-02-14T19:27:33Z",
+    "tested_at": "2026-02-14T19:59:26Z",
     "ip": "101.47.73.135",
     "success": true,
     "type": "IPv4",
@@ -47,7 +47,7 @@
   },
   {
     "proxy": "http://47.243.92.199:3128",
-    "tested_at": "2026-02-14T19:27:47Z",
+    "tested_at": "2026-02-14T19:59:27Z",
     "ip": "47.243.92.199",
     "success": true,
     "type": "IPv4",

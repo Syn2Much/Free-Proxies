@@ -1,7 +1,53 @@
 [
   {
-    "proxy": "http://196.251.222.17:8103",
-    "tested_at": "2026-02-14T19:27:36Z",
+    "proxy": "http://102.164.215.223:8080",
+    "tested_at": "2026-02-14T19:59:08Z",
+    "ip": "102.164.215.223",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "North West",
+    "region_code": "NW",
+    "city": "Mmabatho",
+    "latitude": -25.8377623,
+    "longitude": 25.594752,
+    "is_eu": false,
+    "postal": "2790",
+    "connection": {
+      "asn": 327750,
+      "org": "JENNY INTERNET PTY LTD",
+      "isp": "JENNY INTERNET PTY LTD",
+      "domain": "jennyinternet.co.za"
+    }
+  },
+  {
+    "proxy": "http://102.66.163.87:9999",
+    "tested_at": "2026-02-14T19:59:26Z",
+    "ip": "102.66.163.87",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Mpumalanga",
+    "region_code": "MP",
+    "city": "Lydenburg",
+    "latitude": -25.0815817,
+    "longitude": 30.447285,
+    "is_eu": false,
+    "postal": "1120",
+    "connection": {
+      "asn": 328471,
+      "org": "HERO TELECOMS PTY LTD",
+      "isp": "HERO TELECOMS PTY LTD",
+      "domain": "herotel.com"
+    }
+  },
+  {
+    "proxy": "http://196.251.222.25:8104",
+    "tested_at": "2026-02-14T19:59:39Z",
     "ip": "196.251.222.250",
     "success": true,
     "type": "IPv4",
@@ -20,29 +66,6 @@
       "org": "Infogro Dsl",
       "isp": "Info gro pty LTD",
       "domain": "infogro.net"
-    }
-  },
-  {
-    "proxy": "http://102.212.45.34:12354",
-    "tested_at": "2026-02-14T19:27:55Z",
-    "ip": "102.212.45.34",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Gauteng",
-    "region_code": "GT",
-    "city": "Johannesburg",
-    "latitude": -26.2041028,
-    "longitude": 28.0473051,
-    "is_eu": false,
-    "postal": "2001",
-    "connection": {
-      "asn": 329243,
-      "org": "OM SN",
-      "isp": "One Mile Telecoms pty Ltd.",
-      "domain": "1mile.co.za"
     }
   }
 ]

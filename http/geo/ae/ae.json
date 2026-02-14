@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://47.91.104.88:3128",
-    "tested_at": "2026-02-14T19:27:45Z",
+    "tested_at": "2026-02-14T19:59:08Z",
     "ip": "47.91.104.88",
     "success": true,
     "type": "IPv4",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://72.10.160.90:26925",
-    "tested_at": "2026-02-14T19:28:22Z",
-    "ip": "31.215.143.246",
+    "proxy": "http://67.43.228.250:2075",
+    "tested_at": "2026-02-14T19:59:10Z",
+    "ip": "92.96.94.50",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -33,11 +33,11 @@
     "country_code": "AE",
     "region": "Abu Dhabi Emirate",
     "region_code": "AZ",
-    "city": "Al Ain",
-    "latitude": 24.1301619,
-    "longitude": 55.8023118,
+    "city": "Abu Dhabi",
+    "latitude": 24.3477446,
+    "longitude": 54.553266,
     "is_eu": false,
-    "postal": "19269",
+    "postal": "36668",
     "connection": {
       "asn": 5384,
       "org": "Emirates Telecommunications Corporation",

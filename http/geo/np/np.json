@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://49.236.212.134:8888",
-    "tested_at": "2026-02-14T19:27:52Z",
-    "ip": "49.236.212.134",
+    "proxy": "http://110.34.1.180:32650",
+    "tested_at": "2026-02-14T19:59:20Z",
+    "ip": "110.34.1.180",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "46600",
     "connection": {
-      "asn": 55915,
-      "org": "Classic Tech Pvt. Ltd.",
-      "isp": "Classic Tech Pvt. Ltd.",
-      "domain": "classic.com.np"
+      "asn": 4007,
+      "org": "Server Networks",
+      "isp": "Subisu Cablenet",
+      "domain": "subisu.net.np"
     }
   }
 ]

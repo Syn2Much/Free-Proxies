@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://80.78.128.94:8080",
+    "tested_at": "2026-02-14T19:59:23Z",
+    "ip": "80.78.128.94",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Spain",
+    "country_code": "ES",
+    "region": "Comunitat Valenciana",
+    "region_code": "VC",
+    "city": "Finestrat",
+    "latitude": 38.5677498,
+    "longitude": -0.2125435,
+    "is_eu": true,
+    "postal": "03509",
+    "connection": {
+      "asn": 202913,
+      "org": "CLOUDWIFI, SL",
+      "isp": "CLOUDWIFI, SL",
+      "domain": "cloudwifi.es"
+    }
+  },
+  {
     "proxy": "http://2.139.62.85:3128",
-    "tested_at": "2026-02-14T18:24:53Z",
+    "tested_at": "2026-02-14T19:59:25Z",
     "ip": "2.139.62.85",
     "success": true,
     "type": "IPv4",

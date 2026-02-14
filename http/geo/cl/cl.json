@@ -1,54 +1,31 @@
 [
   {
-    "proxy": "http://38.3.162.129:999",
-    "tested_at": "2026-02-14T19:27:36Z",
-    "ip": "38.3.162.130",
+    "proxy": "http://200.95.184.58:999",
+    "tested_at": "2026-02-14T19:59:08Z",
+    "ip": "200.95.184.146",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Chile",
     "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Puente Alto",
-    "latitude": -33.6186082,
-    "longitude": -70.5906057,
+    "region": "Ñuble Region",
+    "region_code": "NB",
+    "city": "Chillán",
+    "latitude": -36.6062618,
+    "longitude": -72.1023351,
     "is_eu": false,
-    "postal": "815 0000",
+    "postal": "3780000",
     "connection": {
-      "asn": 274025,
-      "org": "Cogent Communications",
-      "isp": "SERVICIOS INTEGRALES METFY TELECOM SPA",
-      "domain": "metfy.cl"
+      "asn": 264859,
+      "org": "Comunicaciones Cablevision Ltda.",
+      "isp": "Comunicaciones Cablevision Ltda.",
+      "domain": "wmnet.cl"
     }
   },
   {
-    "proxy": "http://45.4.3.89:999",
-    "tested_at": "2026-02-14T19:27:37Z",
-    "ip": "45.4.0.18",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "San José de Tango",
-    "latitude": -33.616667,
-    "longitude": -70.8,
-    "is_eu": false,
-    "postal": "971 0000",
-    "connection": {
-      "asn": 265662,
-      "org": "TLINK SPA",
-      "isp": "TLINK SPA",
-      "domain": "tlink.cl"
-    }
-  },
-  {
-    "proxy": "http://38.7.221.191:8080",
-    "tested_at": "2026-02-14T19:27:43Z",
-    "ip": "38.7.221.191",
+    "proxy": "http://186.67.74.52:3128",
+    "tested_at": "2026-02-14T19:59:16Z",
+    "ip": "186.67.74.52",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -62,15 +39,38 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 263702,
-      "org": "Cogent Communications",
-      "isp": "GRUPO ZGH SPA",
-      "domain": "zglobalhost.com"
+      "asn": 27651,
+      "org": "Servicio Nacional De Aduanas De Chile",
+      "isp": "ENTEL CHILE S.A.",
+      "domain": "entel.cl"
     }
   },
   {
-    "proxy": "http://38.7.195.55:999",
-    "tested_at": "2026-02-14T19:27:43Z",
+    "proxy": "http://204.199.140.15:999",
+    "tested_at": "2026-02-14T19:59:28Z",
+    "ip": "204.199.140.14",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 273237,
+      "org": "INGBELL CHILE SPA",
+      "isp": "INGBELL CHILE SPA",
+      "domain": "ingbell.cl"
+    }
+  },
+  {
+    "proxy": "http://38.7.195.49:999",
+    "tested_at": "2026-02-14T19:59:29Z",
     "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
@@ -92,9 +92,9 @@
     }
   },
   {
-    "proxy": "http://45.162.132.9:999",
-    "tested_at": "2026-02-14T19:27:54Z",
-    "ip": "45.162.134.126",
+    "proxy": "http://38.7.195.53:999",
+    "tested_at": "2026-02-14T19:59:42Z",
+    "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -108,10 +108,10 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 271843,
-      "org": "LARA INGENIERIA EN TECNOLOGIA Y TELECOMUNICACIONES LIMITADA SOLUCIONES INTERLAN",
-      "isp": "LARA INGENIERIA EN TECNOLOGIA Y TELECOMUNICACIONES LIMITADA SOLUCIONES INTERLAN",
-      "domain": "interlan.cl"
+      "asn": 263702,
+      "org": "Cogent Communications",
+      "isp": "GRUPO ZGH SPA",
+      "domain": "zglobalhost.com"
     }
   }
 ]

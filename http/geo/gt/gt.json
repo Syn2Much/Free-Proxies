@@ -1,20 +1,20 @@
 [
   {
-    "proxy": "http://181.119.111.239:999",
-    "tested_at": "2026-02-14T18:25:23Z",
-    "ip": "181.119.111.53",
+    "proxy": "http://190.61.50.93:999",
+    "tested_at": "2026-02-14T19:58:58Z",
+    "ip": "190.61.50.93",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Guatemala",
     "country_code": "GT",
-    "region": "Quetzaltenango",
-    "region_code": "QZ",
-    "city": "Coatepeque",
-    "latitude": 14.7038002,
-    "longitude": -91.8659809,
+    "region": "Escuintla",
+    "region_code": "ES",
+    "city": "Tiquisate",
+    "latitude": 14.2851374,
+    "longitude": -91.3638041,
     "is_eu": false,
-    "postal": "09020",
+    "postal": "",
     "connection": {
       "asn": 52468,
       "org": "Ufinet Guatemala S. A.",
@@ -23,32 +23,9 @@
     }
   },
   {
-    "proxy": "http://181.78.49.207:999",
-    "tested_at": "2026-02-14T18:25:38Z",
-    "ip": "181.78.49.207",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "San Marcos",
-    "region_code": "SM",
-    "city": "San Marcos",
-    "latitude": 14.9609782,
-    "longitude": -91.8074586,
-    "is_eu": false,
-    "postal": "12001",
-    "connection": {
-      "asn": 52468,
-      "org": "Ufinet Guatemala S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://143.208.57.59:8080",
-    "tested_at": "2026-02-14T18:25:49Z",
-    "ip": "143.208.57.59",
+    "proxy": "http://181.119.103.237:999",
+    "tested_at": "2026-02-14T19:59:17Z",
+    "ip": "181.119.103.237",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -62,10 +39,33 @@
     "is_eu": false,
     "postal": "01004",
     "connection": {
-      "asn": 22869,
-      "org": "COMUNICACIONES METROPOLITANAS CABLECOLOR",
-      "isp": "CABLECOLOR S.A.",
-      "domain": "cablecolor.net"
+      "asn": 52468,
+      "org": "Ufinet Guatemala S. A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "ufinet.com"
+    }
+  },
+  {
+    "proxy": "http://190.61.98.107:999",
+    "tested_at": "2026-02-14T19:59:24Z",
+    "ip": "190.61.98.107",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "region": "Huehuetenango",
+    "region_code": "HU",
+    "city": "Jacaltenango",
+    "latitude": 15.6653998,
+    "longitude": -91.7113107,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 52468,
+      "org": "Ufinet Guatemala S. A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "ufinet.com"
     }
   }
 ]

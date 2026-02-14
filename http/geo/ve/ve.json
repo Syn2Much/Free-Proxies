@@ -1,54 +1,54 @@
 [
   {
-    "proxy": "http://67.43.228.253:1905",
-    "tested_at": "2026-02-14T19:27:43Z",
-    "ip": "190.89.30.25",
+    "proxy": "http://138.59.10.112:999",
+    "tested_at": "2026-02-14T19:59:14Z",
+    "ip": "138.59.10.10",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Venezuela",
     "country_code": "VE",
-    "region": "Anzoategui State",
-    "region_code": "B",
-    "city": "Puerto La Cruz",
-    "latitude": 10.2007985,
-    "longitude": -64.6334643,
+    "region": "Carabobo State",
+    "region_code": "G",
+    "city": "Valencia",
+    "latitude": 10.1579312,
+    "longitude": -67.9972104,
     "is_eu": false,
-    "postal": "6023",
+    "postal": "2001",
     "connection": {
-      "asn": 264628,
-      "org": "CORPORACION FIBEX TELECOM, C.A.",
-      "isp": "CORPORACION FIBEX TELECOM, C.A.",
-      "domain": "fibextelecom.net"
+      "asn": 269788,
+      "org": "Fonet",
+      "isp": "DISTRIBUIDORA OFIC TECH DE VENEZUELA C.A.",
+      "domain": "fonet.com.ve"
     }
   },
   {
-    "proxy": "http://67.43.228.254:1905",
-    "tested_at": "2026-02-14T19:27:53Z",
-    "ip": "190.89.30.25",
+    "proxy": "http://38.183.212.8:999",
+    "tested_at": "2026-02-14T19:59:30Z",
+    "ip": "38.183.215.124",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Venezuela",
     "country_code": "VE",
-    "region": "Anzoategui State",
-    "region_code": "B",
-    "city": "Puerto La Cruz",
-    "latitude": 10.2007985,
-    "longitude": -64.6334643,
+    "region": "Aragua State",
+    "region_code": "D",
+    "city": "Villa de Cura",
+    "latitude": 10.0313499,
+    "longitude": -67.4933707,
     "is_eu": false,
-    "postal": "6023",
+    "postal": "2126",
     "connection": {
-      "asn": 264628,
-      "org": "CORPORACION FIBEX TELECOM, C.A.",
-      "isp": "CORPORACION FIBEX TELECOM, C.A.",
-      "domain": "fibextelecom.net"
+      "asn": 273093,
+      "org": "Cogent Communications",
+      "isp": "WISP TECNOGER, C.A.",
+      "domain": "wisptecnoger.com.ve"
     }
   },
   {
-    "proxy": "http://186.96.74.144:999",
-    "tested_at": "2026-02-14T19:28:13Z",
-    "ip": "186.96.74.152",
+    "proxy": "http://45.230.169.225:999",
+    "tested_at": "2026-02-14T19:59:30Z",
+    "ip": "45.230.169.237",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -62,10 +62,33 @@
     "is_eu": false,
     "postal": "1012",
     "connection": {
-      "asn": 394684,
-      "org": "Gold Data Inc.",
-      "isp": "GOLD DATA USA INC",
-      "domain": "gold-data.net"
+      "asn": 266742,
+      "org": "SOLUCIONES DCN NETWORK C.A",
+      "isp": "SOLUCIONES DCN NETWORK C.A",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://45.186.208.34:8080",
+    "tested_at": "2026-02-14T19:59:36Z",
+    "ip": "45.186.208.34",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Capital District",
+    "region_code": "A",
+    "city": "Caracas",
+    "latitude": 10.4805937,
+    "longitude": -66.9036063,
+    "is_eu": false,
+    "postal": "1012",
+    "connection": {
+      "asn": 263703,
+      "org": "VIGINET C.A",
+      "isp": "VIGINET C.A",
+      "domain": "viginet.com.ve"
     }
   }
 ]

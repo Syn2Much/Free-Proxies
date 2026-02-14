@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://154.64.211.145:999",
-    "tested_at": "2026-02-14T18:56:21Z",
+    "tested_at": "2026-02-14T19:59:26Z",
     "ip": "198.52.241.102",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,29 @@
       "org": "Wireless Network",
       "isp": "OSNET",
       "domain": "wirelessns.com"
+    }
+  },
+  {
+    "proxy": "http://154.64.215.193:999",
+    "tested_at": "2026-02-14T19:59:29Z",
+    "ip": "23.130.144.12",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "region": "Puerto Rico",
+    "region_code": "PR",
+    "city": "San Sebastián",
+    "latitude": 18.3327741,
+    "longitude": -66.9958226,
+    "is_eu": false,
+    "postal": "00685",
+    "connection": {
+      "asn": 397470,
+      "org": "Antoniol Electronic",
+      "isp": "Antoniol Electronic",
+      "domain": "alenet.co"
     }
   }
 ]

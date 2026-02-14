@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://67.43.228.251:12799",
-    "tested_at": "2026-02-14T13:18:01Z",
-    "ip": "190.113.115.219",
+    "proxy": "http://190.61.106.97:8080",
+    "tested_at": "2026-02-14T19:59:01Z",
+    "ip": "190.61.106.97",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,16 +10,16 @@
     "country_code": "CR",
     "region": "Heredia Province",
     "region_code": "H",
-    "city": "Heredia",
-    "latitude": 9.9981413,
-    "longitude": -84.1197643,
+    "city": "San Rafael",
+    "latitude": 10.0144716,
+    "longitude": -84.0986459,
     "is_eu": false,
-    "postal": "40101",
+    "postal": "40501",
     "connection": {
-      "asn": 52263,
-      "org": "Millenium",
-      "isp": "Telecable Economico S.A.",
-      "domain": "telecablecr.com"
+      "asn": 52468,
+      "org": "Ufinet Costa Rica, S. A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "ufinet.com"
     }
   }
 ]

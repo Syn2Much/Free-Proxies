@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://92.247.12.136:9510",
-    "tested_at": "2026-02-14T19:28:10Z",
-    "ip": "92.247.12.130",
+    "proxy": "http://213.169.33.7:8001",
+    "tested_at": "2026-02-14T19:59:39Z",
+    "ip": "213.169.33.7",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -17,7 +17,7 @@
     "postal": "1000",
     "connection": {
       "asn": 8717,
-      "org": "Spectrum Net Sofia",
+      "org": "A1 Bulgaria Ead",
       "isp": "A1 Bulgaria Ead",
       "domain": "a1.bg"
     }

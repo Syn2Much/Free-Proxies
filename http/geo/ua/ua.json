@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://195.234.68.34:3128",
-    "tested_at": "2026-02-14T19:27:58Z",
-    "ip": "195.234.68.34",
+    "proxy": "http://62.122.207.173:8080",
+    "tested_at": "2026-02-14T19:58:57Z",
+    "ip": "62.122.207.173",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Ivano-Frankivsk Oblast",
+    "region_code": "",
+    "city": "Ivano-Frankivsk",
+    "latitude": 48.922633,
+    "longitude": 24.711117,
+    "is_eu": false,
+    "postal": "76000",
+    "connection": {
+      "asn": 49125,
+      "org": "Uteam LTD",
+      "isp": "Uteam LTD",
+      "domain": "uteam.ua"
+    }
+  },
+  {
+    "proxy": "http://176.37.21.46:41890",
+    "tested_at": "2026-02-14T19:59:01Z",
+    "ip": "176.37.21.46",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +39,79 @@
     "is_eu": false,
     "postal": "01001",
     "connection": {
-      "asn": 13307,
-      "org": "AS LIMITED LIABILITY COMPANY",
-      "isp": "AS LIMITED LIABILITY COMPANY",
-      "domain": "as6723.net"
+      "asn": 39608,
+      "org": "Lanet Network LTD",
+      "isp": "Lanet Network LTD",
+      "domain": "lanet.ua"
+    }
+  },
+  {
+    "proxy": "http://46.185.34.136:8187",
+    "tested_at": "2026-02-14T19:59:11Z",
+    "ip": "46.185.34.136",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Rivne Oblast",
+    "region_code": "",
+    "city": "Rivne",
+    "latitude": 50.6199,
+    "longitude": 26.251617,
+    "is_eu": false,
+    "postal": "27160",
+    "connection": {
+      "asn": 15895,
+      "org": "Kyivstar Gsm",
+      "isp": "Kyivstar Pjsc",
+      "domain": "kyivstar.net"
+    }
+  },
+  {
+    "proxy": "http://88.135.210.179:8080",
+    "tested_at": "2026-02-14T19:59:24Z",
+    "ip": "88.135.210.179",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Ivano-Frankivsk Oblast",
+    "region_code": "",
+    "city": "Ivano-Frankivsk",
+    "latitude": 48.922633,
+    "longitude": 24.711117,
+    "is_eu": false,
+    "postal": "76000",
+    "connection": {
+      "asn": 49125,
+      "org": "Uteam LTD",
+      "isp": "Uteam LTD",
+      "domain": "uteam.ua"
+    }
+  },
+  {
+    "proxy": "http://176.105.220.74:3129",
+    "tested_at": "2026-02-14T19:59:26Z",
+    "ip": "176.105.220.74",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Poltava Oblast",
+    "region_code": "53",
+    "city": "Kremenchuk",
+    "latitude": 49.065783,
+    "longitude": 33.410033,
+    "is_eu": false,
+    "postal": "39600",
+    "connection": {
+      "asn": 24812,
+      "org": "Rpc Homenet Ltd.",
+      "isp": "Rpc Homenet Ltd.",
+      "domain": "homenet.ua"
     }
   }
 ]

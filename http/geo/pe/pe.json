@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://38.252.215.110:999",
-    "tested_at": "2026-02-14T19:27:36Z",
-    "ip": "38.252.215.108",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Lima",
-    "region_code": "LIM",
-    "city": "Lima District",
-    "latitude": -12.046374,
-    "longitude": -77.0427934,
-    "is_eu": false,
-    "postal": "15081",
-    "connection": {
-      "asn": 274156,
-      "org": "Telcom Mikrotik Peru S.A.C",
-      "isp": "Cogent Communications",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://38.190.100.107:999",
-    "tested_at": "2026-02-14T19:27:42Z",
+    "proxy": "http://38.190.100.105:999",
+    "tested_at": "2026-02-14T19:58:59Z",
     "ip": "38.190.100.106",
     "success": true,
     "type": "IPv4",
@@ -46,9 +23,55 @@
     }
   },
   {
-    "proxy": "http://38.172.130.240:999",
-    "tested_at": "2026-02-14T19:28:14Z",
-    "ip": "38.159.166.157",
+    "proxy": "http://200.107.142.36:3128",
+    "tested_at": "2026-02-14T19:59:02Z",
+    "ip": "200.107.142.38",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Cajamarca",
+    "region_code": "CAJ",
+    "city": "San Ignacio",
+    "latitude": -5.146268,
+    "longitude": -79.0023523,
+    "is_eu": false,
+    "postal": "3322",
+    "connection": {
+      "asn": 6147,
+      "org": "TELEFONICA DEL PERU SAA",
+      "isp": "INTEGRATEL PER S.A.A.",
+      "domain": "telefonica.com.pe"
+    }
+  },
+  {
+    "proxy": "http://200.48.35.125:999",
+    "tested_at": "2026-02-14T19:59:07Z",
+    "ip": "200.10.68.234",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Junin",
+    "region_code": "JUN",
+    "city": "Tarma",
+    "latitude": -11.4193347,
+    "longitude": -75.6889493,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 6147,
+      "org": "INTEGRATEL PER S.A.A.",
+      "isp": "INTEGRATEL PER S.A.A.",
+      "domain": "telefonica.com.pe"
+    }
+  },
+  {
+    "proxy": "http://45.189.108.20:999",
+    "tested_at": "2026-02-14T19:59:09Z",
+    "ip": "45.189.108.16",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -62,10 +85,33 @@
     "is_eu": false,
     "postal": "15081",
     "connection": {
-      "asn": 274113,
-      "org": "Cogent Communications",
-      "isp": "CINTELSUR PERU S.A.C.",
-      "domain": "cintel.pe"
+      "asn": 269843,
+      "org": "BANTEL SAC",
+      "isp": "BANTEL SAC",
+      "domain": "bantel.com.pe"
+    }
+  },
+  {
+    "proxy": "http://190.238.171.190:999",
+    "tested_at": "2026-02-14T19:59:19Z",
+    "ip": "190.238.171.190",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Cajamarca",
+    "region_code": "CAJ",
+    "city": "Cajabamba",
+    "latitude": -7.6209569,
+    "longitude": -78.0452217,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 6147,
+      "org": "PE TDPERX LACNIC",
+      "isp": "INTEGRATEL PER S.A.A.",
+      "domain": "telefonica.com.pe"
     }
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://110.93.231.21:8082",
-    "tested_at": "2026-02-14T19:28:04Z",
+    "tested_at": "2026-02-14T19:59:26Z",
     "ip": "103.19.48.60",
     "success": true,
     "type": "IPv4",
@@ -23,26 +23,26 @@
     }
   },
   {
-    "proxy": "http://67.43.228.253:15261",
-    "tested_at": "2026-02-14T19:28:10Z",
-    "ip": "182.184.129.42",
+    "proxy": "http://202.154.241.199:808",
+    "tested_at": "2026-02-14T19:59:43Z",
+    "ip": "202.154.241.199",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Pakistan",
     "country_code": "PK",
-    "region": "Rawalpindi Cantonment",
+    "region": "Islamabad Capital Territory",
     "region_code": "",
-    "city": "Rawalpindi",
-    "latitude": 33.598394,
-    "longitude": 73.0441352,
+    "city": "Islamabad",
+    "latitude": 33.7293882,
+    "longitude": 73.0931461,
     "is_eu": false,
-    "postal": "46000",
+    "postal": "44000",
     "connection": {
-      "asn": 17557,
-      "org": "Usf Dslam North",
-      "isp": "Pakistan Telecommuication Company Limited",
-      "domain": "ptcl.net.pk"
+      "asn": 23966,
+      "org": "Linkdotnet Telecom Limited",
+      "isp": "Linkdotnet Telecom Limited",
+      "domain": "link.net.pk"
     }
   }
 ]

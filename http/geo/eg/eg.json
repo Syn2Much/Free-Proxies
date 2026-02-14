@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://82.129.237.65:1976",
-    "tested_at": "2026-02-14T19:27:34Z",
-    "ip": "213.212.204.207",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Egypt",
-    "country_code": "EG",
-    "region": "Cairo",
-    "region_code": "C",
-    "city": "Cairo",
-    "latitude": 30.0444196,
-    "longitude": 31.2357116,
-    "is_eu": false,
-    "postal": "28625",
-    "connection": {
-      "asn": 24835,
-      "org": "Vodafone Data",
-      "isp": "Vodafone Data",
-      "domain": "rayatelecom.net"
-    }
-  },
-  {
-    "proxy": "http://197.164.101.12:1981",
-    "tested_at": "2026-02-14T19:27:48Z",
-    "ip": "197.164.101.12",
+    "proxy": "http://197.164.101.13:1981",
+    "tested_at": "2026-02-14T19:59:16Z",
+    "ip": "197.164.101.13",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -46,32 +23,9 @@
     }
   },
   {
-    "proxy": "http://213.131.85.26:1976",
-    "tested_at": "2026-02-14T19:27:49Z",
-    "ip": "213.131.85.26",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Egypt",
-    "country_code": "EG",
-    "region": "The Lake",
-    "region_code": "",
-    "city": "An Nubariyah",
-    "latitude": 30.666272,
-    "longitude": 30.069743,
-    "is_eu": false,
-    "postal": "22773",
-    "connection": {
-      "asn": 24863,
-      "org": "Link Egypt",
-      "isp": "Link Egypt link.net",
-      "domain": "link.net"
-    }
-  },
-  {
-    "proxy": "http://197.164.101.12:1976",
-    "tested_at": "2026-02-14T19:27:52Z",
-    "ip": "197.164.101.12",
+    "proxy": "http://197.164.101.13:1976",
+    "tested_at": "2026-02-14T19:59:28Z",
+    "ip": "197.164.101.13",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -92,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://41.65.236.34:1981",
-    "tested_at": "2026-02-14T19:28:24Z",
-    "ip": "41.65.236.34",
+    "proxy": "http://196.204.138.244:1976",
+    "tested_at": "2026-02-14T19:59:42Z",
+    "ip": "196.204.138.244",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -102,16 +56,16 @@
     "country_code": "EG",
     "region": "Giza",
     "region_code": "",
-    "city": "Giza",
-    "latitude": 30.0130557,
-    "longitude": 31.2088526,
+    "city": "Abo El Nomros",
+    "latitude": 29.9517097,
+    "longitude": 31.219709,
     "is_eu": false,
-    "postal": "12510",
+    "postal": "12911",
     "connection": {
-      "asn": 36992,
-      "org": "Nile Online",
-      "isp": "ETISALAT MISR",
-      "domain": "nile-online.com"
+      "asn": 24835,
+      "org": "Vodafone Data",
+      "isp": "Vodafone Data",
+      "domain": "localisp.com"
     }
   }
 ]
