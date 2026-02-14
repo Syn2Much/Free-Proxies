@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://65.20.154.62:28080",
-    "tested_at": "2026-02-14T04:25:07Z",
-    "ip": "65.20.154.62",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Iraq",
-    "country_code": "IQ",
-    "region": "Baghdad Governorate",
-    "region_code": "BG",
-    "city": "Baghdad",
-    "latitude": 33.3128057,
-    "longitude": 44.3614875,
-    "is_eu": false,
-    "postal": "10001",
-    "connection": {
-      "asn": 203214,
-      "org": "Earthlink Telecommunications Equipment Trading Services Dmcc",
-      "isp": "Hulum Almustakbal Company for Communication Engineering And Services LTD",
-      "domain": "earthlink.iq"
-    }
-  },
-  {
-    "proxy": "http://37.237.225.218:8081",
-    "tested_at": "2026-02-14T04:25:26Z",
-    "ip": "37.237.225.218",
+    "proxy": "http://37.238.63.53:8080",
+    "tested_at": "2026-02-14T04:56:34Z",
+    "ip": "37.239.130.88",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -40,32 +17,9 @@
     "postal": "10001",
     "connection": {
       "asn": 199739,
-      "org": "Earthlink Ltd. Communications internet Services orange",
+      "org": "Earthlink Ltd. Communications internet Services",
       "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
       "domain": "earthlink.iq"
-    }
-  },
-  {
-    "proxy": "http://46.161.195.133:8080",
-    "tested_at": "2026-02-14T04:25:46Z",
-    "ip": "46.161.195.133",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Iraq",
-    "country_code": "IQ",
-    "region": "Iraqi Kurdistan Region",
-    "region_code": "",
-    "city": "Duhok",
-    "latitude": 36.8632107,
-    "longitude": 42.9884805,
-    "is_eu": false,
-    "postal": "42001",
-    "connection": {
-      "asn": 205254,
-      "org": "Valeen for General Trading, Internet Services And Information Technology LTD",
-      "isp": "Valeen for General Trading, Internet Services And Information Technology LTD",
-      "domain": "valeenonline.com"
     }
   }
 ]

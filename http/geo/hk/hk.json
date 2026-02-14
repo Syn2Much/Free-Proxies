@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://160.20.55.235:8080",
-    "tested_at": "2026-02-14T04:24:49Z",
-    "ip": "160.20.55.235",
+    "proxy": "http://43.250.9.46:10088",
+    "tested_at": "2026-02-14T04:56:31Z",
+    "ip": "43.250.9.46",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,61 +16,15 @@
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 58411,
-      "org": "Datamax Osi Limited",
-      "isp": "Gateway Technology Development Company Limited",
-      "domain": "datamaxosi.com"
-    }
-  },
-  {
-    "proxy": "http://101.47.73.135:3128",
-    "tested_at": "2026-02-14T04:25:10Z",
-    "ip": "101.47.73.135",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.276022,
-    "longitude": 114.1751471,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 150436,
-      "org": "BYTEPLUS",
-      "isp": "Byteplus Pte. Ltd.",
-      "domain": "bytedance.com"
-    }
-  },
-  {
-    "proxy": "http://8.217.147.173:8080",
-    "tested_at": "2026-02-14T04:25:30Z",
-    "ip": "8.217.147.173",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.276022,
-    "longitude": 114.1751471,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 45102,
-      "org": "Aliyun Computing Co.ltd",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibaba-inc.com"
+      "asn": 38478,
+      "org": "Network Infinity Technologies Limited",
+      "isp": "Sunnyvision Limited",
+      "domain": "netfinity.com.hk"
     }
   },
   {
     "proxy": "http://203.196.8.6:3128",
-    "tested_at": "2026-02-14T04:25:48Z",
+    "tested_at": "2026-02-14T04:56:42Z",
     "ip": "203.196.8.6",
     "success": true,
     "type": "IPv4",
@@ -89,6 +43,75 @@
       "org": "Chinatelecom Next Carrying Network backbone",
       "isp": "China Telecom Global Limited",
       "domain": "chinatelecom.com.hk"
+    }
+  },
+  {
+    "proxy": "http://185.74.222.94:8090",
+    "tested_at": "2026-02-14T04:56:42Z",
+    "ip": "185.74.222.94",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Chai Wan",
+    "latitude": 22.2678103,
+    "longitude": 114.2360778,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 209847,
+      "org": "Worktitans B.V.",
+      "isp": "Worktitans B.V.",
+      "domain": "dgtl.tech"
+    }
+  },
+  {
+    "proxy": "http://34.96.238.40:8080",
+    "tested_at": "2026-02-14T04:56:47Z",
+    "ip": "34.96.238.40",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.276022,
+    "longitude": 114.1751471,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 396982,
+      "org": "Google LLC",
+      "isp": "Google LLC",
+      "domain": "google.com"
+    }
+  },
+  {
+    "proxy": "http://101.47.73.135:3128",
+    "tested_at": "2026-02-14T04:56:48Z",
+    "ip": "101.47.73.135",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.276022,
+    "longitude": 114.1751471,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 150436,
+      "org": "BYTEPLUS",
+      "isp": "Byteplus Pte. Ltd.",
+      "domain": "bytedance.com"
     }
   }
 ]

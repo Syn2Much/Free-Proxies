@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://65.108.159.129:3128",
-    "tested_at": "2026-02-14T04:24:49Z",
-    "ip": "65.108.159.129",
+    "proxy": "http://94.159.112.138:3129",
+    "tested_at": "2026-02-14T04:56:22Z",
+    "ip": "94.159.112.138",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,15 +16,15 @@
     "is_eu": true,
     "postal": "02101",
     "connection": {
-      "asn": 24940,
-      "org": "Hetzner Online GmbH",
-      "isp": "Hetzner Online GmbH",
-      "domain": "hetzner.com"
+      "asn": 216300,
+      "org": "New Hosting Technologies LLC",
+      "isp": "Closed Joint Stock Company Abkhazmedia",
+      "domain": "landvps.ru"
     }
   },
   {
     "proxy": "http://65.108.159.129:8081",
-    "tested_at": "2026-02-14T04:24:49Z",
+    "tested_at": "2026-02-14T04:56:36Z",
     "ip": "65.108.159.129",
     "success": true,
     "type": "IPv4",
@@ -46,31 +46,8 @@
     }
   },
   {
-    "proxy": "http://176.124.220.172:3128",
-    "tested_at": "2026-02-14T04:25:17Z",
-    "ip": "176.124.220.172",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Finland",
-    "country_code": "FI",
-    "region": "Mainland Finland",
-    "region_code": "",
-    "city": "Helsinki",
-    "latitude": 60.1698557,
-    "longitude": 24.938379,
-    "is_eu": true,
-    "postal": "02101",
-    "connection": {
-      "asn": 210644,
-      "org": "Aeza International LTD",
-      "isp": "AEZA INTERNATIONAL LTD",
-      "domain": "aeza.net"
-    }
-  },
-  {
     "proxy": "http://193.47.60.119:52681",
-    "tested_at": "2026-02-14T04:25:20Z",
+    "tested_at": "2026-02-14T04:56:51Z",
     "ip": "193.47.60.119",
     "success": true,
     "type": "IPv4",

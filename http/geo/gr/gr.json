@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://62.103.66.18:3128",
-    "tested_at": "2026-02-14T04:25:25Z",
-    "ip": "62.103.66.18",
+    "proxy": "http://91.236.74.11:8080",
+    "tested_at": "2026-02-14T04:57:05Z",
+    "ip": "91.236.74.11",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Greece",
     "country_code": "GR",
-    "region": "Attica",
-    "region_code": "I",
-    "city": "Athens",
-    "latitude": 37.9838096,
-    "longitude": 23.7275388,
+    "region": "Macedonia and Thrace",
+    "region_code": "",
+    "city": "Komotini",
+    "latitude": 41.1224394,
+    "longitude": 25.4065582,
     "is_eu": true,
-    "postal": "10431",
+    "postal": "69100",
     "connection": {
-      "asn": 6799,
-      "org": "Multiprotocol Service Provider to Other Isp s And End Users",
-      "isp": "Ote SA hellenic Telecommunications Organisation",
-      "domain": "otenet.gr"
-    }
-  },
-  {
-    "proxy": "http://185.4.132.222:3128",
-    "tested_at": "2026-02-14T04:25:53Z",
-    "ip": "2a02:c500:2:a9::6524",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "Greece",
-    "country_code": "GR",
-    "region": "Attica",
-    "region_code": "I",
-    "city": "Athens",
-    "latitude": 37.9838096,
-    "longitude": 23.7275388,
-    "is_eu": true,
-    "postal": "10431",
-    "connection": {
-      "asn": 20857,
-      "org": "Enartia Ipv Peer Ips",
-      "isp": "Signet B.V.",
-      "domain": "enartia.com"
+      "asn": 212442,
+      "org": "Mechmet Chatip Memet Trading AS Speednet",
+      "isp": "Mechmet Chatip Memet Trading AS Speednet",
+      "domain": "speednet.cz"
     }
   }
 ]

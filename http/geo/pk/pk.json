@@ -1,8 +1,54 @@
 [
   {
-    "proxy": "http://202.154.241.199:808",
-    "tested_at": "2026-02-14T04:25:13Z",
-    "ip": "202.154.241.199",
+    "proxy": "http://103.66.149.194:8080",
+    "tested_at": "2026-02-14T04:56:19Z",
+    "ip": "160.30.142.33",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "region": "Punjab",
+    "region_code": "PB",
+    "city": "Jalalpur Jattan",
+    "latitude": 32.6480365,
+    "longitude": 74.2120629,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 142647,
+      "org": "Brain Networks",
+      "isp": "Nasstec Airnet Networks Private Limited",
+      "domain": "brainnetworks.net.pk"
+    }
+  },
+  {
+    "proxy": "http://103.197.47.42:8080",
+    "tested_at": "2026-02-14T04:56:30Z",
+    "ip": "103.197.47.42",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "region": "Punjab",
+    "region_code": "PB",
+    "city": "Lahore",
+    "latitude": 31.5546061,
+    "longitude": 74.3571581,
+    "is_eu": false,
+    "postal": "54000",
+    "connection": {
+      "asn": 17539,
+      "org": "Netsol Technologies Limited",
+      "isp": "Netsol Connect pvt Limited",
+      "domain": "netsolir.com"
+    }
+  },
+  {
+    "proxy": "http://59.103.34.162:8080",
+    "tested_at": "2026-02-14T04:56:56Z",
+    "ip": "59.103.34.162",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +62,10 @@
     "is_eu": false,
     "postal": "44000",
     "connection": {
-      "asn": 23966,
-      "org": "Linkdotnet Telecom Limited",
-      "isp": "Linkdotnet Telecom Limited",
-      "domain": "link.net.pk"
+      "asn": 139820,
+      "org": "Narrowband Hsi Pool for Rawalpindi1",
+      "isp": "HG TELECOMMUNICATION PRIVATE LIMITED",
+      "domain": "ptcl.net.pk"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://154.64.219.61:8888",
-    "tested_at": "2026-02-14T04:25:05Z",
-    "ip": "154.64.219.24",
+    "proxy": "http://23.138.88.96:999",
+    "tested_at": "2026-02-14T04:56:20Z",
+    "ip": "23.138.88.97",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,22 +10,22 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "Humacao",
-    "latitude": 18.1496828,
-    "longitude": -65.8273847,
+    "city": "Adjuntas",
+    "latitude": 18.1627363,
+    "longitude": -66.7221187,
     "is_eu": false,
-    "postal": "00792",
+    "postal": "00601",
     "connection": {
-      "asn": 21559,
-      "org": "Cogent Communications",
-      "isp": "OSNET",
-      "domain": "osnetpr.net"
+      "asn": 400354,
+      "org": "ALPHANET CORP",
+      "isp": "ALPHANET CORP",
+      "domain": "alphanetwireless.net"
     }
   },
   {
-    "proxy": "http://154.64.211.145:999",
-    "tested_at": "2026-02-14T04:25:33Z",
-    "ip": "198.52.241.102",
+    "proxy": "http://23.138.80.49:999",
+    "tested_at": "2026-02-14T04:56:33Z",
+    "ip": "173.243.92.182",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -33,16 +33,39 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "Corozal",
-    "latitude": 18.3410622,
-    "longitude": -66.3168357,
+    "city": "Cabán",
+    "latitude": 18.4475679,
+    "longitude": -67.1365698,
     "is_eu": false,
-    "postal": "00783",
+    "postal": "00603",
     "connection": {
-      "asn": 21559,
-      "org": "Wireless Network",
-      "isp": "OSNET",
-      "domain": "wirelessns.com"
+      "asn": 14979,
+      "org": "Aeronet Wireless",
+      "isp": "Aeronet Wireless",
+      "domain": "aeronetpr.com"
+    }
+  },
+  {
+    "proxy": "http://192.203.0.62:999",
+    "tested_at": "2026-02-14T04:56:43Z",
+    "ip": "192.203.0.62",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "region": "Puerto Rico",
+    "region_code": "PR",
+    "city": "Yabucoa",
+    "latitude": 18.0505201,
+    "longitude": -65.8793288,
+    "is_eu": false,
+    "postal": "00767",
+    "connection": {
+      "asn": 63393,
+      "org": "BOOM NET",
+      "isp": "BOOM NET",
+      "domain": "boomsolutionspr.com"
     }
   }
 ]

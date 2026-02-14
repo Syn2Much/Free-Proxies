@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://185.115.74.185:8080",
-    "tested_at": "2026-02-14T04:24:58Z",
+    "tested_at": "2026-02-14T04:56:46Z",
     "ip": "185.115.75.43",
     "success": true,
     "type": "IPv4",
@@ -20,29 +20,6 @@
       "org": "Teamcity S.R.O.",
       "isp": "Teamcity S.R.O.",
       "domain": "teamcity.cz"
-    }
-  },
-  {
-    "proxy": "http://185.73.103.23:3128",
-    "tested_at": "2026-02-14T04:24:59Z",
-    "ip": "185.73.103.23",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Czech Republic",
-    "country_code": "CZ",
-    "region": "Northwest",
-    "region_code": "",
-    "city": "Karlovy Vary",
-    "latitude": 50.2318521,
-    "longitude": 12.8719616,
-    "is_eu": true,
-    "postal": "360 01",
-    "connection": {
-      "asn": 201476,
-      "org": "System Net Line",
-      "isp": "ISP Alliance A.S.",
-      "domain": "line.cz"
     }
   }
 ]

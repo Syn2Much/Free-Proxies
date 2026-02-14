@@ -1,30 +1,30 @@
 [
   {
-    "proxy": "http://72.10.160.90:22099",
-    "tested_at": "2026-02-14T03:53:44Z",
-    "ip": "181.115.97.148",
+    "proxy": "http://190.61.118.115:999",
+    "tested_at": "2026-02-14T04:56:18Z",
+    "ip": "190.61.118.116",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Honduras",
     "country_code": "HN",
-    "region": "Francisco Morazán",
-    "region_code": "FM",
-    "city": "Santa Lucia",
-    "latitude": 14.1148241,
-    "longitude": -87.1098612,
+    "region": "Lempira",
+    "region_code": "LE",
+    "city": "Guatemalita",
+    "latitude": 14.1170344,
+    "longitude": -88.5996065,
     "is_eu": false,
-    "postal": "40205",
+    "postal": "",
     "connection": {
-      "asn": 14754,
-      "org": "Sercom De Honduras",
-      "isp": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
-      "domain": "claro.com.hn"
+      "asn": 52468,
+      "org": "Ufinet Honduras, S. A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "ufinet.com"
     }
   },
   {
     "proxy": "http://181.78.44.63:999",
-    "tested_at": "2026-02-14T03:53:59Z",
+    "tested_at": "2026-02-14T04:56:40Z",
     "ip": "181.78.44.63",
     "success": true,
     "type": "IPv4",
@@ -46,9 +46,32 @@
     }
   },
   {
-    "proxy": "http://181.78.44.243:999",
-    "tested_at": "2026-02-14T03:54:08Z",
-    "ip": "181.78.44.243",
+    "proxy": "http://45.182.21.165:999",
+    "tested_at": "2026-02-14T04:56:43Z",
+    "ip": "45.182.21.166",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Honduras",
+    "country_code": "HN",
+    "region": "Santa Bárbara",
+    "region_code": "SB",
+    "city": "Joconal",
+    "latitude": 15.3551122,
+    "longitude": -88.6353495,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 263725,
+      "org": "MULTICABLE DE HONDURAS",
+      "isp": "MULTICABLE DE HONDURAS",
+      "domain": "multicable.hn"
+    }
+  },
+  {
+    "proxy": "http://179.49.113.230:999",
+    "tested_at": "2026-02-14T04:56:57Z",
+    "ip": "179.49.113.230",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -62,10 +85,10 @@
     "is_eu": false,
     "postal": "21101",
     "connection": {
-      "asn": 52468,
-      "org": "Ufinet Honduras, S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
+      "asn": 262234,
+      "org": "ASOCIACION DE SERVICIO DE INTERNET S. DE RL.",
+      "isp": "ASOCIACION DE SERVICIO DE INTERNET S. DE RL.",
+      "domain": "asi.hn"
     }
   }
 ]

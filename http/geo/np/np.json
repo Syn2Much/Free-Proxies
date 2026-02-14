@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "http://103.1.93.184:55443",
-    "tested_at": "2026-02-14T04:25:25Z",
-    "ip": "103.1.93.184",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Nepal",
-    "country_code": "NP",
-    "region": "Bagmati Pradesh",
-    "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
-    "is_eu": false,
-    "postal": "46600",
-    "connection": {
-      "asn": 55915,
-      "org": "Classic Tech Pvt. Ltd.",
-      "isp": "Classic Tech Pvt. Ltd.",
-      "domain": "classic.com.np"
-    }
-  },
-  {
-    "proxy": "http://110.44.115.83:8080",
-    "tested_at": "2026-02-14T04:25:34Z",
-    "ip": "110.44.115.83",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Nepal",
-    "country_code": "NP",
-    "region": "Bagmati Pradesh",
-    "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
-    "is_eu": false,
-    "postal": "46600",
-    "connection": {
-      "asn": 45650,
-      "org": "VIA NET COMMUNICATION PUBLIC LIMITED",
-      "isp": "VIA NET COMMUNICATION PUBLIC LIMITED",
-      "domain": "vianet.com.np"
-    }
-  },
-  {
-    "proxy": "http://182.93.85.225:8080",
-    "tested_at": "2026-02-14T04:25:36Z",
-    "ip": "182.93.85.225",
+    "proxy": "http://182.93.95.80:8080",
+    "tested_at": "2026-02-14T04:57:03Z",
+    "ip": "182.93.95.80",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -63,7 +17,7 @@
     "postal": "46600",
     "connection": {
       "asn": 4007,
-      "org": "Subisu Retail Pool",
+      "org": "Subisu Corporate Pool10",
       "isp": "Subisu Cablenet",
       "domain": "subisu.net.np"
     }

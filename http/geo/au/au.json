@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://67.43.228.253:19645",
-    "tested_at": "2026-02-14T03:22:09Z",
-    "ip": "115.69.48.170",
+    "proxy": "http://110.141.237.221:5200",
+    "tested_at": "2026-02-14T04:57:04Z",
+    "ip": "110.141.237.221",
     "success": true,
     "type": "IPv4",
     "continent": "Oceania",
     "country": "Australia",
     "country_code": "AU",
-    "region": "New South Wales",
-    "region_code": "NSW",
-    "city": "Sydney",
-    "latitude": -33.8688197,
-    "longitude": 151.2092955,
+    "region": "Victoria",
+    "region_code": "VIC",
+    "city": "Melbourne",
+    "latitude": -37.8136276,
+    "longitude": 144.9630576,
     "is_eu": false,
-    "postal": "2000",
+    "postal": "3000",
     "connection": {
-      "asn": 18390,
-      "org": "Spintel Pty LTD",
-      "isp": "Spintel Pty LTD",
-      "domain": "spintel.net.au"
+      "asn": 1221,
+      "org": "Telstra Limited",
+      "isp": "Telstra Limited",
+      "domain": "telstra.net"
     }
   }
 ]

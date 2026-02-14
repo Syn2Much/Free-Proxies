@@ -1,76 +1,30 @@
 [
   {
-    "proxy": "http://38.253.88.242:999",
-    "tested_at": "2026-02-14T04:25:32Z",
-    "ip": "190.112.200.146",
+    "proxy": "http://38.156.233.78:999",
+    "tested_at": "2026-02-14T04:56:22Z",
+    "ip": "38.156.233.74",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Dominican Republic",
     "country_code": "DO",
-    "region": "La Vega",
-    "region_code": "13",
-    "city": "La Vega",
-    "latitude": 19.2152609,
-    "longitude": -70.5205436,
+    "region": "San Pedro de Macoris",
+    "region_code": "23",
+    "city": "San Pedro De Macoris",
+    "latitude": 18.4720698,
+    "longitude": -69.2996732,
     "is_eu": false,
-    "postal": "41000",
+    "postal": "21000",
     "connection": {
-      "asn": 272027,
-      "org": "LAUAM MEGARED TELECOM, SRL.",
-      "isp": "LAUAM MEGARED TELECOM, S.R.L.",
-      "domain": "megared.com.do"
-    }
-  },
-  {
-    "proxy": "http://38.159.223.159:999",
-    "tested_at": "2026-02-14T04:25:34Z",
-    "ip": "38.159.223.159",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Monte Plata",
-    "region_code": "29",
-    "city": "Yamasá",
-    "latitude": 18.7727461,
-    "longitude": -70.0250065,
-    "is_eu": false,
-    "postal": "92000",
-    "connection": {
-      "asn": 272083,
-      "org": "Cogent Communications",
-      "isp": "REYNOSO, S.R.L.",
-      "domain": "reynosord.com"
-    }
-  },
-  {
-    "proxy": "http://38.253.85.27:999",
-    "tested_at": "2026-02-14T04:25:37Z",
-    "ip": "38.253.85.27",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Puerto Plata",
-    "region_code": "18",
-    "city": "Maimón",
-    "latitude": 19.8224199,
-    "longitude": -70.7792902,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 273048,
-      "org": "Cogent Communications",
-      "isp": "WIMAS, S.R.L.",
-      "domain": "wimas-srl.com"
+      "asn": 272882,
+      "org": "BITNET DOMINICANA, S.R.L.",
+      "isp": "BITNET DOMINICANA, S.R.L.",
+      "domain": "bitnet.com.do"
     }
   },
   {
     "proxy": "http://38.159.37.17:999",
-    "tested_at": "2026-02-14T04:25:42Z",
+    "tested_at": "2026-02-14T04:56:55Z",
     "ip": "38.159.37.17",
     "success": true,
     "type": "IPv4",
@@ -89,6 +43,29 @@
       "org": "Cogent Communications",
       "isp": "ORBITEK SRL",
       "domain": "orbiteksrl.com"
+    }
+  },
+  {
+    "proxy": "http://177.52.221.100:999",
+    "tested_at": "2026-02-14T04:57:01Z",
+    "ip": "177.52.221.101",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Santiago",
+    "region_code": "25",
+    "city": "Santiago De Los Caballeros",
+    "latitude": 19.4791963,
+    "longitude": -70.6930568,
+    "is_eu": false,
+    "postal": "51000",
+    "connection": {
+      "asn": 271799,
+      "org": "TELERY NETWORKS, S.R.L",
+      "isp": "TELERY NETWORKS, S.R.L",
+      "domain": "telery.net"
     }
   }
 ]
