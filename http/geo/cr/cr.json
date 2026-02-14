@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://168.228.49.15:8080",
-    "tested_at": "2026-02-13T23:12:13Z",
-    "ip": "168.228.49.15",
+    "proxy": "http://72.10.160.171:21671",
+    "tested_at": "2026-02-14T03:53:36Z",
+    "ip": "201.192.135.175",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Costa Rica",
     "country_code": "CR",
-    "region": "Alajuela Province",
-    "region_code": "A",
-    "city": "Quesada",
-    "latitude": 10.3270781,
-    "longitude": -84.4356706,
+    "region": "San José Province",
+    "region_code": "SJ",
+    "city": "San José",
+    "latitude": 9.9280694,
+    "longitude": -84.0907246,
     "is_eu": false,
-    "postal": "21001",
+    "postal": "10103",
     "connection": {
-      "asn": 262145,
-      "org": "Cooperativa De Electrificaci n Rural De San Carlos R.L. coopelesca R.L.",
-      "isp": "Cooperativa De Electrificaci n Rural De San Carlos R.L. coopelesca R.L.",
-      "domain": "coopelesca.co.cr"
+      "asn": 11830,
+      "org": "SAN JOSE",
+      "isp": "Instituto Costarricense De Electricidad Y Telecom.",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:21459",
+    "tested_at": "2026-02-14T03:53:56Z",
+    "ip": "138.94.57.113",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "region": "Cartago Province",
+    "region_code": "C",
+    "city": "Cartago",
+    "latitude": 9.8638091,
+    "longitude": -83.9161935,
+    "is_eu": false,
+    "postal": "30101",
+    "connection": {
+      "asn": 263749,
+      "org": "Junta Administrativa Del Servicio El ctrico Municipal De Cartago jasec",
+      "isp": "Junta Administrativa Del Servicio El ctrico Municipal De Cartago jasec",
+      "domain": "jasec.go.cr"
     }
   }
 ]

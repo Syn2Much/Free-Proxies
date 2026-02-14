@@ -1,8 +1,8 @@
 [
   {
     "proxy": "https://103.62.50.130:443",
-    "tested_at": "2026-02-14T00:14:14Z",
-    "ip": "103.62.50.134",
+    "tested_at": "2026-02-14T03:53:37Z",
+    "ip": "103.62.50.136",
     "success": true,
     "type": "IPv4",
     "continent": "Oceania",
@@ -24,8 +24,8 @@
   },
   {
     "proxy": "https://103.62.50.130:9443",
-    "tested_at": "2026-02-14T00:14:57Z",
-    "ip": "103.62.50.134",
+    "tested_at": "2026-02-14T03:53:56Z",
+    "ip": "103.62.50.136",
     "success": true,
     "type": "IPv4",
     "continent": "Oceania",

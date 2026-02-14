@@ -1,7 +1,7 @@
 [
   {
     "proxy": "https://45.80.69.38:3129",
-    "tested_at": "2026-02-14T03:22:29Z",
+    "tested_at": "2026-02-14T03:54:05Z",
     "ip": "45.80.69.38",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,29 @@
       "org": "BEGET NET",
       "isp": "Beget LLC",
       "domain": "beget.ru"
+    }
+  },
+  {
+    "proxy": "https://149.126.16.38:443",
+    "tested_at": "2026-02-14T03:54:18Z",
+    "ip": "149.126.16.38",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Russia",
+    "country_code": "RU",
+    "region": "Saint Petersburg",
+    "region_code": "",
+    "city": "Saint Petersburg",
+    "latitude": 59.9342802,
+    "longitude": 30.3350986,
+    "is_eu": false,
+    "postal": "191186",
+    "connection": {
+      "asn": 8492,
+      "org": "Modbiikontinent Network",
+      "isp": "Obit Ltd.",
+      "domain": "obit.ru"
     }
   }
 ]

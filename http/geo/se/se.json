@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://40.177.211.224:908",
-    "tested_at": "2026-02-14T03:22:19Z",
-    "ip": "45.84.107.172",
+    "proxy": "http://98.130.124.119:19980",
+    "tested_at": "2026-02-14T03:53:36Z",
+    "ip": "88.80.26.3",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,22 +10,22 @@
     "country_code": "SE",
     "region": "Stockholm County",
     "region_code": "AB",
-    "city": "Sundbyberg",
-    "latitude": 59.3670471,
-    "longitude": 17.9663093,
+    "city": "Stockholm",
+    "latitude": 59.3293235,
+    "longitude": 18.0685808,
     "is_eu": true,
-    "postal": "172 31",
+    "postal": "111 29",
     "connection": {
-      "asn": 214503,
-      "org": "R0CKET CLOUD",
-      "isp": "Quxlabs Ab",
-      "domain": "quxlabs.com"
+      "asn": 33837,
+      "org": "Prq Vpn Network",
+      "isp": "Fredrik Holmqvist",
+      "domain": "sitabinfra.se"
     }
   },
   {
     "proxy": "http://98.130.124.119:9090",
-    "tested_at": "2026-02-14T03:22:29Z",
-    "ip": "193.189.100.195",
+    "tested_at": "2026-02-14T03:53:39Z",
+    "ip": "88.80.26.3",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,16 +39,16 @@
     "is_eu": true,
     "postal": "111 29",
     "connection": {
-      "asn": 41281,
-      "org": "Keff Networks LTD",
-      "isp": "Keff Networks LTD",
-      "domain": "keff.org"
+      "asn": 33837,
+      "org": "Prq Vpn Network",
+      "isp": "Fredrik Holmqvist",
+      "domain": "sitabinfra.se"
     }
   },
   {
-    "proxy": "https://13.126.187.20:1080",
-    "tested_at": "2026-02-14T03:22:30Z",
-    "ip": "45.84.107.222",
+    "proxy": "https://3.79.194.222:38664",
+    "tested_at": "2026-02-14T03:53:46Z",
+    "ip": "45.84.107.76",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -69,11 +69,11 @@
     }
   },
   {
-    "proxy": "http://193.181.35.95:8118",
-    "tested_at": "2026-02-14T03:22:31Z",
-    "ip": "193.181.35.95",
+    "proxy": "http://65.108.203.37:28080",
+    "tested_at": "2026-02-14T03:54:06Z",
+    "ip": "2001:67c:2628:647:32:604:0:389",
     "success": true,
-    "type": "IPv4",
+    "type": "IPv6",
     "continent": "Europe",
     "country": "Sweden",
     "country_code": "SE",
@@ -85,79 +85,10 @@
     "is_eu": true,
     "postal": "111 29",
     "connection": {
-      "asn": 42201,
-      "org": "Pvdatanet Ab",
-      "isp": "Pvdatanet Ab",
-      "domain": "pvdatanet.com"
-    }
-  },
-  {
-    "proxy": "http://52.78.193.98:10841",
-    "tested_at": "2026-02-14T03:22:40Z",
-    "ip": "45.84.107.74",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Sundbyberg",
-    "latitude": 59.3670471,
-    "longitude": 17.9663093,
-    "is_eu": true,
-    "postal": "172 31",
-    "connection": {
-      "asn": 214503,
-      "org": "R0CKET CLOUD",
-      "isp": "Quxlabs Ab",
-      "domain": "quxlabs.com"
-    }
-  },
-  {
-    "proxy": "http://46.246.1.106:3128",
-    "tested_at": "2026-02-14T03:22:54Z",
-    "ip": "46.246.1.106",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Stockholm",
-    "latitude": 59.3,
-    "longitude": 17.966667,
-    "is_eu": true,
-    "postal": "129 41",
-    "connection": {
-      "asn": 206804,
-      "org": "Swedish Infra",
-      "isp": "Estnoc Ou",
-      "domain": "estnoc.ee"
-    }
-  },
-  {
-    "proxy": "http://15.168.235.57:407",
-    "tested_at": "2026-02-14T03:22:56Z",
-    "ip": "45.84.107.172",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Sundbyberg",
-    "latitude": 59.3670471,
-    "longitude": 17.9663093,
-    "is_eu": true,
-    "postal": "172 31",
-    "connection": {
-      "asn": 214503,
-      "org": "R0CKET CLOUD",
-      "isp": "Quxlabs Ab",
-      "domain": "quxlabs.com"
+      "asn": 205016,
+      "org": "Hern Labs Ab",
+      "isp": "Hern Labs Ab",
+      "domain": "hernlabs.se"
     }
   }
 ]

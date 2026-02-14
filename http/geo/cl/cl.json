@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "http://190.121.4.157:999",
-    "tested_at": "2026-02-14T03:22:09Z",
-    "ip": "190.121.4.157",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Los Lagos Region",
-    "region_code": "LL",
-    "city": "Osorno",
-    "latitude": -40.5761897,
-    "longitude": -73.1149469,
-    "is_eu": false,
-    "postal": "531 2321",
-    "connection": {
-      "asn": 14117,
-      "org": "Telefonica Del Sur S.A.",
-      "isp": "Telefonica Del Sur S.A.",
-      "domain": "telsur.cl"
-    }
-  },
-  {
-    "proxy": "http://179.57.172.172:999",
-    "tested_at": "2026-02-14T03:22:10Z",
-    "ip": "179.57.172.172",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Maule Region",
-    "region_code": "ML",
-    "city": "Curico",
-    "latitude": -34.9779853,
-    "longitude": -71.2528803,
-    "is_eu": false,
-    "postal": "334 2121",
-    "connection": {
-      "asn": 14117,
-      "org": "Telefonica del Sur S.A",
-      "isp": "Telefonica Del Sur S.A.",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://38.7.195.54:999",
-    "tested_at": "2026-02-14T03:22:12Z",
-    "ip": "38.7.195.49",
+    "proxy": "http://190.153.237.6:37453",
+    "tested_at": "2026-02-14T03:53:44Z",
+    "ip": "190.153.237.5",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -62,16 +16,16 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 263702,
-      "org": "Cogent Communications",
-      "isp": "GRUPO ZGH SPA",
-      "domain": "zglobalhost.com"
+      "asn": 14259,
+      "org": "Gtd Internet S.A.",
+      "isp": "Gtd Internet S.A.",
+      "domain": "gtdinternet.com"
     }
   },
   {
-    "proxy": "http://45.4.0.18:999",
-    "tested_at": "2026-02-14T03:22:52Z",
-    "ip": "45.4.0.18",
+    "proxy": "http://72.10.160.90:30281",
+    "tested_at": "2026-02-14T03:53:46Z",
+    "ip": "186.105.71.232",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -79,22 +33,22 @@
     "country_code": "CL",
     "region": "Santiago Metropolitan Region",
     "region_code": "",
-    "city": "San José de Tango",
-    "latitude": -33.616667,
-    "longitude": -70.8,
+    "city": "Maipú",
+    "latitude": -33.5209155,
+    "longitude": -70.7631335,
     "is_eu": false,
-    "postal": "971 0000",
+    "postal": "925 1542",
     "connection": {
-      "asn": 265662,
-      "org": "TLINK SPA",
-      "isp": "TLINK SPA",
-      "domain": "tlink.cl"
+      "asn": 7418,
+      "org": "TELEF NICA CHILE S.A.",
+      "isp": "TELEF NICA CHILE S.A.",
+      "domain": "telefonicachile.cl"
     }
   },
   {
-    "proxy": "http://207.248.3.81:999",
-    "tested_at": "2026-02-14T03:23:01Z",
-    "ip": "207.248.3.81",
+    "proxy": "http://200.111.232.94:8080",
+    "tested_at": "2026-02-14T03:53:54Z",
+    "ip": "200.111.232.94",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -102,22 +56,22 @@
     "country_code": "CL",
     "region": "Santiago Metropolitan Region",
     "region_code": "",
-    "city": "Buin",
-    "latitude": -33.7309374,
-    "longitude": -70.7423218,
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
     "is_eu": false,
-    "postal": "9500000",
+    "postal": "832 0202",
     "connection": {
-      "asn": 64139,
-      "org": "GRUPO METROWAN TELECOM SPA",
-      "isp": "GRUPO METROWAN TELECOM SPA",
-      "domain": "metrowan.cl"
+      "asn": 27651,
+      "org": "Entel Chile S.A",
+      "isp": "ENTEL CHILE S.A.",
+      "domain": ""
     }
   },
   {
-    "proxy": "http://204.199.139.125:999",
-    "tested_at": "2026-02-14T03:23:01Z",
-    "ip": "45.225.204.99",
+    "proxy": "http://45.225.204.8:999",
+    "tested_at": "2026-02-14T03:54:27Z",
+    "ip": "45.225.204.8",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -125,39 +79,16 @@
     "country_code": "CL",
     "region": "O'Higgins Region",
     "region_code": "",
-    "city": "Las Cabras",
-    "latitude": -34.2932184,
-    "longitude": -71.3126292,
+    "city": "San Vicente de Tagua Tagua",
+    "latitude": -34.4349435,
+    "longitude": -71.0913748,
     "is_eu": false,
-    "postal": "3030000",
+    "postal": "297 0000",
     "connection": {
       "asn": 265858,
       "org": "NETDELSUR TELECOMUNICACIONES SPA",
       "isp": "NETDELSUR TELECOMUNICACIONES SPA",
       "domain": "netdelsur.cl"
-    }
-  },
-  {
-    "proxy": "http://38.7.195.52:999",
-    "tested_at": "2026-02-14T03:23:03Z",
-    "ip": "38.7.195.49",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
-    "is_eu": false,
-    "postal": "832 0202",
-    "connection": {
-      "asn": 263702,
-      "org": "Cogent Communications",
-      "isp": "GRUPO ZGH SPA",
-      "domain": "zglobalhost.com"
     }
   }
 ]

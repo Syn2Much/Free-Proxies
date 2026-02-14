@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://79.106.79.154:8989",
-    "tested_at": "2026-02-14T03:22:54Z",
-    "ip": "79.106.79.154",
+    "proxy": "http://80.78.75.80:8080",
+    "tested_at": "2026-02-14T03:53:43Z",
+    "ip": "80.78.75.80",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,14 +10,37 @@
     "country_code": "AL",
     "region": "Central Albania",
     "region_code": "",
-    "city": "Tirana",
-    "latitude": 41.3275459,
-    "longitude": 19.8186982,
+    "city": "Prezë",
+    "latitude": 41.4283649,
+    "longitude": 19.6654188,
     "is_eu": false,
-    "postal": "1051",
+    "postal": "1039",
+    "connection": {
+      "asn": 21183,
+      "org": "Business Clients at The Fiber Abcom Infrastructure",
+      "isp": "Vodafone Albania SH.A.",
+      "domain": "vodafone.al"
+    }
+  },
+  {
+    "proxy": "http://79.106.165.246:8989",
+    "tested_at": "2026-02-14T03:54:25Z",
+    "ip": "79.106.165.246",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Albania",
+    "country_code": "AL",
+    "region": "Southern Albania",
+    "region_code": "",
+    "city": "Korçë",
+    "latitude": 40.6140785,
+    "longitude": 20.7778071,
+    "is_eu": false,
+    "postal": "7001",
     "connection": {
       "asn": 42313,
-      "org": "TEST 0",
+      "org": "TEST",
       "isp": "ONE ALBANIA SH.A.",
       "domain": "one.al"
     }

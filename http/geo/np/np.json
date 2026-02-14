@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://202.166.197.177:2121",
-    "tested_at": "2026-02-14T03:22:35Z",
-    "ip": "202.166.217.188",
+    "proxy": "http://182.93.85.225:8080",
+    "tested_at": "2026-02-14T03:53:56Z",
+    "ip": "182.93.85.225",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,56 +16,10 @@
     "is_eu": false,
     "postal": "46600",
     "connection": {
-      "asn": 17501,
-      "org": "Assigned by Kathmandu, Jawalakhel",
-      "isp": "Worldlink Communications",
-      "domain": "worldlink.com.np"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.170:18929",
-    "tested_at": "2026-02-14T03:22:45Z",
-    "ip": "103.134.219.68",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Nepal",
-    "country_code": "NP",
-    "region": "Bagmati Pradesh",
-    "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
-    "is_eu": false,
-    "postal": "46600",
-    "connection": {
-      "asn": 151396,
-      "org": "Sajilo Net Pvt LTD",
-      "isp": "Sajilo Net Pvt LTD",
-      "domain": "sajilonet.com.np"
-    }
-  },
-  {
-    "proxy": "http://103.1.93.184:55443",
-    "tested_at": "2026-02-14T03:23:08Z",
-    "ip": "103.1.93.184",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Nepal",
-    "country_code": "NP",
-    "region": "Bagmati Pradesh",
-    "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
-    "is_eu": false,
-    "postal": "46600",
-    "connection": {
-      "asn": 55915,
-      "org": "Classic Tech Pvt. Ltd.",
-      "isp": "Classic Tech Pvt. Ltd.",
-      "domain": "classic.com.np"
+      "asn": 4007,
+      "org": "Subisu Retail Pool",
+      "isp": "Subisu Cablenet",
+      "domain": "subisu.net.np"
     }
   }
 ]

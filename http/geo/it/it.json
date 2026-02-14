@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://79.16.45.168:8080",
-    "tested_at": "2026-02-14T02:51:23Z",
-    "ip": "79.16.45.168",
+    "proxy": "http://13.59.97.103:8499",
+    "tested_at": "2026-02-14T03:54:15Z",
+    "ip": "64.190.76.3",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Italy",
     "country_code": "IT",
-    "region": "Lazio",
-    "region_code": "62",
-    "city": "Fabrica di Roma",
-    "latitude": 42.3347553,
-    "longitude": 12.2949282,
+    "region": "Piemont",
+    "region_code": "21",
+    "city": "Turin",
+    "latitude": 45.070312,
+    "longitude": 7.6868565,
     "is_eu": true,
-    "postal": "01034",
+    "postal": "10100",
     "connection": {
-      "asn": 3269,
-      "org": "Nas Dhcp Pool Bologna",
-      "isp": "Telecom Italia S.P.A.",
-      "domain": "telecomitalia.it"
+      "asn": 214094,
+      "org": "Davide Silvetti Trading AS association Osservatorio Nessuno Odv",
+      "isp": "Davide Silvetti Trading AS association Osservatorio Nessuno Odv",
+      "domain": "osservatorionessuno.org"
     }
   }
 ]

@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://192.145.173.101:8080",
+    "tested_at": "2026-02-14T03:53:56Z",
+    "ip": "192.145.173.101",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Somalia",
+    "country_code": "SO",
+    "region": "Middle Shebelle",
+    "region_code": "",
+    "city": "Jowhar",
+    "latitude": 2.7802764,
+    "longitude": 45.5015377,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 37371,
+      "org": "Hormuud Telecom Somalia inc",
+      "isp": "Hormuud Telecom Somalia INC",
+      "domain": "hormuud.com"
+    }
+  }
+]

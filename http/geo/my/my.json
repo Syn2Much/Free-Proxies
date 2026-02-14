@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://72.10.160.170:13345",
-    "tested_at": "2026-02-14T03:22:19Z",
-    "ip": "175.143.84.195",
+    "proxy": "http://67.43.228.254:9673",
+    "tested_at": "2026-02-14T03:53:39Z",
+    "ip": "210.195.226.200",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Malaysia",
     "country_code": "MY",
-    "region": "Malacca",
-    "region_code": "04",
-    "city": "Melaka",
-    "latitude": 2.186977,
-    "longitude": 102.2636261,
+    "region": "Selangor",
+    "region_code": "10",
+    "city": "Puchong",
+    "latitude": 3.050629,
+    "longitude": 101.649001,
     "is_eu": false,
-    "postal": "75050",
+    "postal": "47170",
     "connection": {
       "asn": 4788,
-      "org": "TMNST",
+      "org": "TMNET",
       "isp": "TM TECHNOLOGY SERVICES SDN BHD",
       "domain": "tm.com.my"
-    }
-  },
-  {
-    "proxy": "http://103.86.131.62:80",
-    "tested_at": "2026-02-14T03:22:34Z",
-    "ip": "103.86.130.43",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Malaysia",
-    "country_code": "MY",
-    "region": "Perlis",
-    "region_code": "09",
-    "city": "Arau",
-    "latitude": 6.429708,
-    "longitude": 100.2698471,
-    "is_eu": false,
-    "postal": "02800",
-    "connection": {
-      "asn": 133169,
-      "org": "University Malaysia Perlis",
-      "isp": "University Malaysia Perlis",
-      "domain": "unimap.edu.my"
     }
   }
 ]

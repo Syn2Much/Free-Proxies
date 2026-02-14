@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://44.30.18.32:8080",
-    "tested_at": "2026-02-14T03:22:15Z",
-    "ip": "44.30.18.32",
+    "proxy": "http://118.163.13.200:8080",
+    "tested_at": "2026-02-14T03:53:48Z",
+    "ip": "118.163.13.200",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Taiwan",
     "country_code": "TW",
-    "region": "New Taipei City",
-    "region_code": "",
-    "city": "Zhitan 5th Street",
-    "latitude": 24.941202,
-    "longitude": 121.534131,
+    "region": "Keelung City",
+    "region_code": "KEE",
+    "city": "Taipei",
+    "latitude": 25.0329694,
+    "longitude": 121.5654177,
     "is_eu": false,
-    "postal": "231",
+    "postal": "11008",
     "connection": {
-      "asn": 207468,
-      "org": "Amateur Radio Digital Communications",
-      "isp": "Li Heng Yu",
-      "domain": "ardc.net"
+      "asn": 3462,
+      "org": "Chunghwa Telecom CO.,LTD.",
+      "isp": "Chunghwa Telecom Co., Ltd.",
+      "domain": "cht.com.tw"
+    }
+  },
+  {
+    "proxy": "http://118.163.120.181:58837",
+    "tested_at": "2026-02-14T03:53:59Z",
+    "ip": "118.163.120.181",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "region": "Keelung City",
+    "region_code": "KEE",
+    "city": "Taipei",
+    "latitude": 25.0329694,
+    "longitude": 121.5654177,
+    "is_eu": false,
+    "postal": "11008",
+    "connection": {
+      "asn": 3462,
+      "org": "Chunghwa Telecom CO.,LTD.",
+      "isp": "Chunghwa Telecom Co., Ltd.",
+      "domain": "cht.com.tw"
     }
   }
 ]

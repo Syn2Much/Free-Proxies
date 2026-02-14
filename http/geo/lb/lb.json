@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://85.112.65.130:8080",
-    "tested_at": "2026-02-14T01:48:39Z",
-    "ip": "85.112.65.130",
+    "proxy": "http://160.238.122.200:8080",
+    "tested_at": "2026-02-14T03:54:19Z",
+    "ip": "160.238.122.1",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "2034 1111",
     "connection": {
-      "asn": 39010,
-      "org": "Terranet Sal",
-      "isp": "Terranet Sal",
-      "domain": "terra.net.lb"
+      "asn": 210292,
+      "org": "dataplus",
+      "isp": "Data Plus SARL",
+      "domain": "datapluslb.net"
     }
   }
 ]

@@ -1,123 +1,31 @@
 [
   {
-    "proxy": "http://72.10.160.91:6153",
-    "tested_at": "2026-02-14T03:22:10Z",
-    "ip": "24.78.185.128",
+    "proxy": "http://188.227.196.62:1080",
+    "tested_at": "2026-02-14T03:53:49Z",
+    "ip": "188.227.196.62",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Canada",
     "country_code": "CA",
-    "region": "Manitoba",
-    "region_code": "MB",
-    "city": "Winnipeg",
-    "latitude": 49.8997541,
-    "longitude": -97.1374937,
+    "region": "Québec",
+    "region_code": "QC",
+    "city": "Québec City",
+    "latitude": 46.8138783,
+    "longitude": -71.2079809,
     "is_eu": false,
-    "postal": "R3X 1V3",
+    "postal": "G1R 4S9",
     "connection": {
-      "asn": 6327,
-      "org": "Shaw Communications",
-      "isp": "Shaw Communications",
-      "domain": "shaw.ca"
+      "asn": 400897,
+      "org": "PetroSky",
+      "isp": "PETROSKY CLOUD LLC",
+      "domain": "abuseradar.com"
     }
   },
   {
-    "proxy": "http://72.10.160.170:16155",
-    "tested_at": "2026-02-14T03:22:10Z",
-    "ip": "64.180.50.34",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "British Columbia",
-    "region_code": "BC",
-    "city": "Surrey",
-    "latitude": 49.1044302,
-    "longitude": -122.801094,
-    "is_eu": false,
-    "postal": "V3T 1V8",
-    "connection": {
-      "asn": 852,
-      "org": "TELUS FIBRE VANCBC0",
-      "isp": "Telus Communications Inc.",
-      "domain": "telus.com"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.93:19617",
-    "tested_at": "2026-02-14T03:22:50Z",
-    "ip": "99.244.212.202",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Mississauga",
-    "latitude": 43.5890452,
-    "longitude": -79.6441198,
-    "is_eu": false,
-    "postal": "L5B 3C9",
-    "connection": {
-      "asn": 812,
-      "org": "Rogers Cable Inc. MTMC",
-      "isp": "Rogers Communications Canada Inc.",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://72.10.160.174:5337",
-    "tested_at": "2026-02-14T03:22:59Z",
-    "ip": "184.64.121.154",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Alberta",
-    "region_code": "AB",
-    "city": "Calgary",
-    "latitude": 51.0486151,
-    "longitude": -114.0708459,
-    "is_eu": false,
-    "postal": "T2P 0W7",
-    "connection": {
-      "asn": 6327,
-      "org": "Shaw Communications",
-      "isp": "Shaw Communications",
-      "domain": "shaw.ca"
-    }
-  },
-  {
-    "proxy": "http://67.43.228.250:28841",
-    "tested_at": "2026-02-14T03:22:59Z",
-    "ip": "70.75.137.190",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Alberta",
-    "region_code": "AB",
-    "city": "Okotoks",
-    "latitude": 50.7254936,
-    "longitude": -113.9749472,
-    "is_eu": false,
-    "postal": "T1S 1K1",
-    "connection": {
-      "asn": 6327,
-      "org": "Shaw Communications",
-      "isp": "Shaw Communications",
-      "domain": "shaw.ca"
-    }
-  },
-  {
-    "proxy": "http://85.208.108.43:2094",
-    "tested_at": "2026-02-14T03:23:02Z",
-    "ip": "85.208.108.43",
+    "proxy": "http://67.43.236.20:15505",
+    "tested_at": "2026-02-14T03:54:06Z",
+    "ip": "207.219.155.88",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -131,33 +39,10 @@
     "is_eu": false,
     "postal": "M5H 2N2",
     "connection": {
-      "asn": 53363,
-      "org": "Worktitans B.V.",
-      "isp": "TANGRAM CANADA INC.",
-      "domain": "the.hosting"
-    }
-  },
-  {
-    "proxy": "http://66.70.235.23:5454",
-    "tested_at": "2026-02-14T03:23:03Z",
-    "ip": "66.70.235.23",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Ottawa",
-    "latitude": 45.4215296,
-    "longitude": -75.6971931,
-    "is_eu": false,
-    "postal": "K1P 1J1",
-    "connection": {
-      "asn": 16276,
-      "org": "OVH NWK",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
+      "asn": 852,
+      "org": "T.E.S. Contract Services",
+      "isp": "Telus Communications Inc.",
+      "domain": "telus.com"
     }
   }
 ]

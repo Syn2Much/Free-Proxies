@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://23.131.56.129:999",
-    "tested_at": "2026-02-14T03:22:37Z",
-    "ip": "23.131.56.46",
+    "proxy": "http://192.203.0.210:999",
+    "tested_at": "2026-02-14T03:54:16Z",
+    "ip": "192.203.0.210",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,16 +10,16 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "Betances",
-    "latitude": 18.0299225,
-    "longitude": -67.1321012,
+    "city": "Yabucoa",
+    "latitude": 18.0505201,
+    "longitude": -65.8793288,
     "is_eu": false,
-    "postal": "00623",
+    "postal": "00767",
     "connection": {
-      "asn": 399826,
-      "org": "Webiffi LLC",
-      "isp": "Webiffi LLC",
-      "domain": "webiffi.com"
+      "asn": 63393,
+      "org": "BOOM NET",
+      "isp": "BOOM NET",
+      "domain": "boomsolutionspr.com"
     }
   }
 ]

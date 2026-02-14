@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://181.215.52.30:443",
-    "tested_at": "2026-02-14T03:22:08Z",
-    "ip": "181.215.52.35",
+    "proxy": "https://149.57.28.10:9443",
+    "tested_at": "2026-02-14T03:54:17Z",
+    "ip": "149.57.28.56",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,85 +10,16 @@
     "country_code": "CA",
     "region": "Ontario",
     "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
+    "city": "Richmond Hill",
+    "latitude": 43.8828401,
+    "longitude": -79.4402808,
     "is_eu": false,
-    "postal": "M5H 2N2",
+    "postal": "L4C 3C1",
     "connection": {
       "asn": 397540,
-      "org": "Private Customer",
+      "org": "Windscribe",
       "isp": "Windscribe",
-      "domain": "us.com"
-    }
-  },
-  {
-    "proxy": "https://181.215.52.16:9443",
-    "tested_at": "2026-02-14T03:22:08Z",
-    "ip": "181.215.52.38",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 397540,
-      "org": "Private Customer",
-      "isp": "Windscribe",
-      "domain": "us.com"
-    }
-  },
-  {
-    "proxy": "https://181.215.52.25:9443",
-    "tested_at": "2026-02-14T03:22:28Z",
-    "ip": "181.215.52.29",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 397540,
-      "org": "Private Customer",
-      "isp": "Windscribe",
-      "domain": "us.com"
-    }
-  },
-  {
-    "proxy": "https://181.215.52.40:9443",
-    "tested_at": "2026-02-14T03:22:39Z",
-    "ip": "181.215.52.48",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 397540,
-      "org": "Private Customer",
-      "isp": "Windscribe",
-      "domain": "us.com"
+      "domain": "windscribe.com"
     }
   }
 ]

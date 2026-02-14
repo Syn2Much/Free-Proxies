@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://13.126.187.20:1080",
-    "tested_at": "2026-02-14T03:22:30Z",
-    "ip": "45.84.107.222",
+    "proxy": "https://3.79.194.222:38664",
+    "tested_at": "2026-02-14T03:53:46Z",
+    "ip": "45.84.107.76",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://154.119.80.27:3128",
-    "tested_at": "2026-02-13T23:11:59Z",
-    "ip": "154.119.80.27",
+    "proxy": "http://197.155.230.206:8080",
+    "tested_at": "2026-02-14T03:54:20Z",
+    "ip": "197.155.230.206",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "04-263",
     "connection": {
-      "asn": 37123,
-      "org": "Servers",
-      "isp": "Telecontract Pvt LTD",
-      "domain": "teamtelco.co.zw"
+      "asn": 30844,
+      "org": "Liquid Zimbabwe Mpls Core",
+      "isp": "Liquid Telecommunications LTD",
+      "domain": "liquidtelecom.mu"
     }
   }
 ]

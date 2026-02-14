@@ -1,7 +1,122 @@
 [
   {
+    "proxy": "https://47.243.181.85:41797",
+    "tested_at": "2026-02-14T03:53:37Z",
+    "ip": "2804:8ab0:111:5f00:f809:c5ee:7e83:c324",
+    "success": true,
+    "type": "IPv6",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of São Paulo",
+    "region_code": "SP",
+    "city": "Santa Bárbara d'Oeste",
+    "latitude": -22.7557344,
+    "longitude": -47.4147896,
+    "is_eu": false,
+    "postal": "13450-970",
+    "connection": {
+      "asn": 273686,
+      "org": "WFNET SOLU ES EIRELI",
+      "isp": "WFNET SOLU ES EIRELI",
+      "domain": "wfnetsolucoes.com.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41795",
+    "tested_at": "2026-02-14T03:53:49Z",
+    "ip": "177.185.21.114",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of Minas Gerais",
+    "region_code": "MG",
+    "city": "Lavras",
+    "latitude": -21.2484538,
+    "longitude": -45.001392,
+    "is_eu": false,
+    "postal": "37203-710",
+    "connection": {
+      "asn": 28198,
+      "org": "SEMPRE TELECOMUNICACOES LTDA",
+      "isp": "SEMPRE TELECOMUNICACOES LTDA",
+      "domain": "sempre.tec.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41799",
+    "tested_at": "2026-02-14T03:53:57Z",
+    "ip": "187.255.42.27",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of São Paulo",
+    "region_code": "SP",
+    "city": "São Paulo",
+    "latitude": -23.5505199,
+    "longitude": -46.6333094,
+    "is_eu": false,
+    "postal": "01005-000",
+    "connection": {
+      "asn": 28573,
+      "org": "Claro Nxt Telecomunicacoes LTDA",
+      "isp": "Claro Nxt Telecomunicacoes LTDA",
+      "domain": "claro.com.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41804",
+    "tested_at": "2026-02-14T03:53:57Z",
+    "ip": "191.7.200.130",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "Maranhão",
+    "region_code": "MA",
+    "city": "BR-222",
+    "latitude": -3.6930722,
+    "longitude": -43.017535,
+    "is_eu": false,
+    "postal": "65525-000",
+    "connection": {
+      "asn": 263327,
+      "org": "ONLINE TELECOMUNICACOES LTDA",
+      "isp": "ONLINE TELECOMUNICACOES LTDA",
+      "domain": "online.net.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41803",
+    "tested_at": "2026-02-14T03:53:59Z",
+    "ip": "45.183.19.203",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of São Paulo",
+    "region_code": "SP",
+    "city": "Cotia",
+    "latitude": -23.6026684,
+    "longitude": -46.9194693,
+    "is_eu": false,
+    "postal": "06717-250",
+    "connection": {
+      "asn": 269254,
+      "org": "Ripardo Telecomuni aoes Eireli",
+      "isp": "SOL TELECOM LTDA",
+      "domain": "soltelecom.net.br"
+    }
+  },
+  {
     "proxy": "https://134.65.238.25:3128",
-    "tested_at": "2026-02-14T03:22:39Z",
+    "tested_at": "2026-02-14T03:54:11Z",
     "ip": "134.65.238.25",
     "success": true,
     "type": "IPv4",
@@ -20,75 +135,6 @@
       "org": "Oracle Corporation",
       "isp": "Oracle Corporation",
       "domain": "oracle.com"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41804",
-    "tested_at": "2026-02-14T03:22:51Z",
-    "ip": "187.44.172.18",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of Bahia",
-    "region_code": "BA",
-    "city": "Salvador",
-    "latitude": -12.9730401,
-    "longitude": -38.502304,
-    "is_eu": false,
-    "postal": "40276-140",
-    "connection": {
-      "asn": 28186,
-      "org": "ITS TELECOMUNICACOES LTDA",
-      "isp": "ITS TELECOMUNICACOES LTDA",
-      "domain": "itsweb.com.br"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41799",
-    "tested_at": "2026-02-14T03:22:52Z",
-    "ip": "131.100.249.204",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of Bahia",
-    "region_code": "BA",
-    "city": "Mairi",
-    "latitude": -11.711732,
-    "longitude": -40.149168,
-    "is_eu": false,
-    "postal": "44630-000",
-    "connection": {
-      "asn": 61668,
-      "org": "Mr. Ynet Network Informatica LTDA",
-      "isp": "Mr. Ynet Network Informatica LTDA",
-      "domain": "mrynet.com.br"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41803",
-    "tested_at": "2026-02-14T03:23:02Z",
-    "ip": "189.62.46.168",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of São Paulo",
-    "region_code": "SP",
-    "city": "São Paulo",
-    "latitude": -23.5505199,
-    "longitude": -46.6333094,
-    "is_eu": false,
-    "postal": "01005-000",
-    "connection": {
-      "asn": 28573,
-      "org": "Claro Nxt Telecomunicacoes LTDA",
-      "isp": "Claro Nxt Telecomunicacoes LTDA",
-      "domain": "claro.com.br"
     }
   }
 ]

@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://40.192.14.136:9292",
+    "tested_at": "2026-02-14T03:53:36Z",
+    "ip": "178.20.55.16",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Auvergne-Rhône-Alpes",
+    "region_code": "ARA",
+    "city": "Saint-Martin-Bellevue",
+    "latitude": 45.96286,
+    "longitude": 6.148198,
+    "is_eu": true,
+    "postal": "74370",
+    "connection": {
+      "asn": 29075,
+      "org": "Backbone",
+      "isp": "IELO LIAZO SERVICES SAS",
+      "domain": "liazo.fr"
+    }
+  },
+  {
     "proxy": "http://62.133.62.12:1082",
-    "tested_at": "2026-02-14T03:22:09Z",
+    "tested_at": "2026-02-14T03:53:48Z",
     "ip": "62.133.62.12",
     "success": true,
     "type": "IPv4",
@@ -23,54 +46,31 @@
     }
   },
   {
-    "proxy": "http://40.177.151.5:38489",
-    "tested_at": "2026-02-14T03:22:09Z",
-    "ip": "203.55.81.2",
+    "proxy": "http://51.68.10.90:80",
+    "tested_at": "2026-02-14T03:53:50Z",
+    "ip": "54.36.60.178",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "France",
     "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
+    "region": "Hauts-de-France",
+    "region_code": "HDF",
+    "city": "Roubaix",
+    "latitude": 50.6927049,
+    "longitude": 3.177847,
     "is_eu": true,
-    "postal": "75007",
+    "postal": "59100",
     "connection": {
-      "asn": 213873,
-      "org": "MOJI SAS",
-      "isp": "MOJI SAS",
-      "domain": "moji.fr"
-    }
-  },
-  {
-    "proxy": "http://94.183.188.7:6891",
-    "tested_at": "2026-02-14T03:22:39Z",
-    "ip": "94.183.188.7",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 56971,
-      "org": "CGI GLOBAL LIMITED",
-      "isp": "CGI GLOBAL LIMITED",
-      "domain": "cloudbackbone.net"
+      "asn": 16276,
+      "org": "OVH Sp. Z O. O.",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
     }
   },
   {
     "proxy": "http://72.10.160.170:16353",
-    "tested_at": "2026-02-14T03:22:49Z",
+    "tested_at": "2026-02-14T03:53:55Z",
     "ip": "91.166.252.105",
     "success": true,
     "type": "IPv4",
@@ -89,6 +89,29 @@
       "org": "Broadband Pool",
       "isp": "Free SAS",
       "domain": "scaleway.com"
+    }
+  },
+  {
+    "proxy": "http://37.187.109.70:10111",
+    "tested_at": "2026-02-14T03:54:24Z",
+    "ip": "37.187.109.70",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Hauts-de-France",
+    "region_code": "HDF",
+    "city": "Roubaix",
+    "latitude": 50.6927049,
+    "longitude": 3.177847,
+    "is_eu": true,
+    "postal": "59100",
+    "connection": {
+      "asn": 16276,
+      "org": "OVH SAS",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
     }
   }
 ]
