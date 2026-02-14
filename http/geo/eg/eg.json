@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://196.219.202.74:8080",
-    "tested_at": "2026-02-14T07:01:48Z",
-    "ip": "196.219.202.74",
+    "proxy": "http://197.164.101.13:1976",
+    "tested_at": "2026-02-14T07:33:26Z",
+    "ip": "197.164.101.13",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,16 +16,16 @@
     "is_eu": false,
     "postal": "28625",
     "connection": {
-      "asn": 8452,
-      "org": "Te Data",
-      "isp": "TE AS",
-      "domain": "tedata.net"
+      "asn": 24863,
+      "org": "",
+      "isp": "Link Egypt link.net",
+      "domain": ""
     }
   },
   {
-    "proxy": "http://154.236.191.48:1976",
-    "tested_at": "2026-02-14T07:01:50Z",
-    "ip": "154.236.191.48",
+    "proxy": "http://197.164.101.14:1981",
+    "tested_at": "2026-02-14T07:33:32Z",
+    "ip": "197.164.101.14",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -33,90 +33,21 @@
     "country_code": "EG",
     "region": "Cairo",
     "region_code": "C",
-    "city": "El-Reyad",
-    "latitude": 30.6522489,
-    "longitude": 31.2299414,
+    "city": "Cairo",
+    "latitude": 30.0444196,
+    "longitude": 31.2357116,
     "is_eu": false,
-    "postal": "19519",
-    "connection": {
-      "asn": 36992,
-      "org": "Nile Online",
-      "isp": "ETISALAT MISR",
-      "domain": "nile-online.com"
-    }
-  },
-  {
-    "proxy": "http://154.236.191.38:1981",
-    "tested_at": "2026-02-14T07:01:56Z",
-    "ip": "154.236.191.38",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Egypt",
-    "country_code": "EG",
-    "region": "Cairo",
-    "region_code": "C",
-    "city": "El-Reyad",
-    "latitude": 30.6522489,
-    "longitude": 31.2299414,
-    "is_eu": false,
-    "postal": "19519",
-    "connection": {
-      "asn": 36992,
-      "org": "Nile Online",
-      "isp": "ETISALAT MISR",
-      "domain": "nile-online.com"
-    }
-  },
-  {
-    "proxy": "http://196.204.83.237:1981",
-    "tested_at": "2026-02-14T07:02:10Z",
-    "ip": "156.207.244.78",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Egypt",
-    "country_code": "EG",
-    "region": "Eastern",
-    "region_code": "",
-    "city": "Minya Al Qamh",
-    "latitude": 30.5104799,
-    "longitude": 31.3455091,
-    "is_eu": false,
-    "postal": "44692",
-    "connection": {
-      "asn": 8452,
-      "org": "Te Data",
-      "isp": "TE AS",
-      "domain": "afrinic.net."
-    }
-  },
-  {
-    "proxy": "http://213.131.85.26:1981",
-    "tested_at": "2026-02-14T07:02:12Z",
-    "ip": "213.131.85.26",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Egypt",
-    "country_code": "EG",
-    "region": "The Lake",
-    "region_code": "",
-    "city": "An Nubariyah",
-    "latitude": 30.666272,
-    "longitude": 30.069743,
-    "is_eu": false,
-    "postal": "22773",
+    "postal": "28625",
     "connection": {
       "asn": 24863,
-      "org": "Link Egypt",
+      "org": "",
       "isp": "Link Egypt link.net",
-      "domain": "link.net"
+      "domain": ""
     }
   },
   {
     "proxy": "http://197.164.101.13:1981",
-    "tested_at": "2026-02-14T07:02:25Z",
+    "tested_at": "2026-02-14T07:33:42Z",
     "ip": "197.164.101.13",
     "success": true,
     "type": "IPv4",

@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://160.238.122.200:8080",
-    "tested_at": "2026-02-14T07:02:16Z",
-    "ip": "160.238.122.1",
+    "proxy": "http://185.82.99.20:8724",
+    "tested_at": "2026-02-14T07:33:31Z",
+    "ip": "185.82.99.20",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Lebanon",
     "country_code": "LB",
-    "region": "Beirut Governorate",
-    "region_code": "BA",
-    "city": "Beirut",
-    "latitude": 33.8925575,
-    "longitude": 35.5109932,
+    "region": "North Governorate",
+    "region_code": "AS",
+    "city": "Tripoli",
+    "latitude": 34.4345975,
+    "longitude": 35.836167,
     "is_eu": false,
-    "postal": "2034 1111",
+    "postal": "1300",
     "connection": {
-      "asn": 210292,
-      "org": "dataplus",
-      "isp": "Data Plus SARL",
-      "domain": "datapluslb.net"
+      "asn": 42183,
+      "org": "net 0 pool",
+      "isp": "NET 0 S.A.R.L",
+      "domain": "net360.net.lb"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://34.236.148.220:4699",
-    "tested_at": "2026-02-14T07:01:32Z",
-    "ip": "45.84.107.128",
+    "proxy": "https://35.180.127.14:1001",
+    "tested_at": "2026-02-14T07:33:05Z",
+    "ip": "45.84.107.182",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -23,32 +23,9 @@
     }
   },
   {
-    "proxy": "http://43.208.16.9:9401",
-    "tested_at": "2026-02-14T07:01:43Z",
-    "ip": "171.25.193.131",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Stockholm",
-    "latitude": 59.3293235,
-    "longitude": 18.0685808,
-    "is_eu": true,
-    "postal": "111 29",
-    "connection": {
-      "asn": 198093,
-      "org": "Foreningen for Digitala Fri Och Rattigheter",
-      "isp": "Foreningen for Digitala Fri Och Rattigheter",
-      "domain": "dfri.net"
-    }
-  },
-  {
-    "proxy": "http://35.180.127.14:1001",
-    "tested_at": "2026-02-14T07:02:01Z",
-    "ip": "45.84.107.33",
+    "proxy": "https://95.40.79.184:8091",
+    "tested_at": "2026-02-14T07:33:18Z",
+    "ip": "45.84.107.55",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -66,29 +43,6 @@
       "org": "R0CKET CLOUD",
       "isp": "Quxlabs Ab",
       "domain": "quxlabs.com"
-    }
-  },
-  {
-    "proxy": "http://78.12.230.52:8995",
-    "tested_at": "2026-02-14T07:02:03Z",
-    "ip": "171.25.193.235",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Stockholm",
-    "latitude": 59.3293235,
-    "longitude": 18.0685808,
-    "is_eu": true,
-    "postal": "111 29",
-    "connection": {
-      "asn": 198093,
-      "org": "Foreningen for Digitala Fri Och Rattigheter",
-      "isp": "Foreningen for Digitala Fri Och Rattigheter",
-      "domain": "dfri.net"
     }
   }
 ]

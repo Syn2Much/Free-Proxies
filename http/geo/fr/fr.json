@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://16.26.54.32:9091",
-    "tested_at": "2026-02-14T07:01:44Z",
-    "ip": "203.55.81.2",
+    "proxy": "http://141.253.101.47:3169",
+    "tested_at": "2026-02-14T07:32:45Z",
+    "ip": "141.145.198.169",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +16,79 @@
     "is_eu": true,
     "postal": "75007",
     "connection": {
-      "asn": 213873,
-      "org": "MOJI SAS",
-      "isp": "MOJI SAS",
-      "domain": "moji.fr"
+      "asn": 31898,
+      "org": "Oracle Svenska Ab",
+      "isp": "Oracle Corporation",
+      "domain": "oracle.com"
+    }
+  },
+  {
+    "proxy": "http://185.41.152.110:3128",
+    "tested_at": "2026-02-14T07:32:56Z",
+    "ip": "185.41.152.110",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Grand Est",
+    "region_code": "GES",
+    "city": "Marly",
+    "latitude": 49.059828,
+    "longitude": 6.154795,
+    "is_eu": true,
+    "postal": "57155",
+    "connection": {
+      "asn": 197922,
+      "org": "FIRSTHEBERG",
+      "isp": "Techcrea Solutions SAS",
+      "domain": "techcrea.fr"
+    }
+  },
+  {
+    "proxy": "http://62.133.62.12:1082",
+    "tested_at": "2026-02-14T07:33:05Z",
+    "ip": "62.133.62.12",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "is_eu": true,
+    "postal": "75007",
+    "connection": {
+      "asn": 215540,
+      "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "domain": "gir.network"
+    }
+  },
+  {
+    "proxy": "http://37.187.109.70:10111",
+    "tested_at": "2026-02-14T07:33:16Z",
+    "ip": "37.187.109.70",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Hauts-de-France",
+    "region_code": "HDF",
+    "city": "Roubaix",
+    "latitude": 50.6927049,
+    "longitude": 3.177847,
+    "is_eu": true,
+    "postal": "59100",
+    "connection": {
+      "asn": 16276,
+      "org": "OVH SAS",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
     }
   }
 ]

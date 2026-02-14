@@ -1,77 +1,8 @@
 [
   {
-    "proxy": "http://182.50.65.169:8080",
-    "tested_at": "2026-02-14T06:30:17Z",
-    "ip": "103.232.228.138",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Nepal",
-    "country_code": "NP",
-    "region": "Bagmati Pradesh",
-    "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
-    "is_eu": false,
-    "postal": "46600",
-    "connection": {
-      "asn": 55427,
-      "org": "Route Object Broadlink",
-      "isp": "Broadlink Networks And Communications",
-      "domain": "broadlink.com.np"
-    }
-  },
-  {
-    "proxy": "http://103.1.93.184:55443",
-    "tested_at": "2026-02-14T06:30:20Z",
-    "ip": "103.1.93.184",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Nepal",
-    "country_code": "NP",
-    "region": "Bagmati Pradesh",
-    "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
-    "is_eu": false,
-    "postal": "46600",
-    "connection": {
-      "asn": 55915,
-      "org": "Classic Tech Pvt. Ltd.",
-      "isp": "Classic Tech Pvt. Ltd.",
-      "domain": "classic.com.np"
-    }
-  },
-  {
-    "proxy": "http://110.44.115.83:8080",
-    "tested_at": "2026-02-14T06:30:54Z",
-    "ip": "110.44.115.83",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Nepal",
-    "country_code": "NP",
-    "region": "Bagmati Pradesh",
-    "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
-    "is_eu": false,
-    "postal": "46600",
-    "connection": {
-      "asn": 45650,
-      "org": "VIA NET COMMUNICATION PUBLIC LIMITED",
-      "isp": "VIA NET COMMUNICATION PUBLIC LIMITED",
-      "domain": "vianet.com.np"
-    }
-  },
-  {
-    "proxy": "http://110.34.1.178:7777",
-    "tested_at": "2026-02-14T06:30:58Z",
-    "ip": "110.34.1.178",
+    "proxy": "http://182.93.95.80:8080",
+    "tested_at": "2026-02-14T07:33:38Z",
+    "ip": "182.93.95.80",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -86,7 +17,7 @@
     "postal": "46600",
     "connection": {
       "asn": 4007,
-      "org": "Server Networks",
+      "org": "Subisu Corporate Pool10",
       "isp": "Subisu Cablenet",
       "domain": "subisu.net.np"
     }

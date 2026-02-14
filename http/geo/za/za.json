@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://102.135.142.234:12354",
-    "tested_at": "2026-02-14T07:01:36Z",
-    "ip": "102.135.142.234",
+    "proxy": "http://102.212.44.151:12354",
+    "tested_at": "2026-02-14T07:32:55Z",
+    "ip": "102.212.44.197",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -10,45 +10,22 @@
     "country_code": "ZA",
     "region": "Gauteng",
     "region_code": "GT",
-    "city": "Centurion",
-    "latitude": -25.864029,
-    "longitude": 28.0888578,
+    "city": "Johannesburg",
+    "latitude": -26.2041028,
+    "longitude": 28.0473051,
     "is_eu": false,
-    "postal": "0014",
+    "postal": "2001",
     "connection": {
-      "asn": 327907,
-      "org": "ISPDIVISION",
-      "isp": "Session Telecoms pty LTD",
-      "domain": "sessiontelecoms.co.za"
+      "asn": 329243,
+      "org": "OM SN",
+      "isp": "One Mile Telecoms pty Ltd.",
+      "domain": "1mile.co.za"
     }
   },
   {
-    "proxy": "http://105.27.130.22:9812",
-    "tested_at": "2026-02-14T07:01:50Z",
-    "ip": "105.27.130.22",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Gauteng",
-    "region_code": "GT",
-    "city": "Sandton",
-    "latitude": -26.1075663,
-    "longitude": 28.0567007,
-    "is_eu": false,
-    "postal": "1865",
-    "connection": {
-      "asn": 37100,
-      "org": "Assignment Made to Seacom Infrastructure.",
-      "isp": "Seacom Limited",
-      "domain": "seacom.mu"
-    }
-  },
-  {
-    "proxy": "http://102.66.163.87:9999",
-    "tested_at": "2026-02-14T07:01:59Z",
-    "ip": "102.66.163.87",
+    "proxy": "http://102.36.152.26:8080",
+    "tested_at": "2026-02-14T07:33:13Z",
+    "ip": "102.36.152.26",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -56,39 +33,16 @@
     "country_code": "ZA",
     "region": "Mpumalanga",
     "region_code": "MP",
-    "city": "Lydenburg",
-    "latitude": -25.0815817,
-    "longitude": 30.447285,
+    "city": "Nelspruit",
+    "latitude": -25.4752984,
+    "longitude": 30.9694163,
     "is_eu": false,
-    "postal": "1120",
+    "postal": "1201",
     "connection": {
-      "asn": 328471,
-      "org": "HERO TELECOMS PTY LTD",
-      "isp": "HERO TELECOMS PTY LTD",
-      "domain": "herotel.com"
-    }
-  },
-  {
-    "proxy": "http://217.29.209.22:8865",
-    "tested_at": "2026-02-14T07:02:15Z",
-    "ip": "217.29.209.22",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "North West",
-    "region_code": "NW",
-    "city": "Potchefstroom",
-    "latitude": -26.7145297,
-    "longitude": 27.0970475,
-    "is_eu": false,
-    "postal": "2520",
-    "connection": {
-      "asn": 328471,
-      "org": "HERO TELECOMS PTY LTD",
-      "isp": "HERO TELECOMS PTY LTD",
-      "domain": "herotel.com"
+      "asn": 328538,
+      "org": "Octopi Smart Solutions ISP Teraco",
+      "isp": "OCTOPI SMART SOLUTIONS PTY LTD",
+      "domain": "octopismart.co.za"
     }
   }
 ]

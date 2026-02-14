@@ -1,77 +1,8 @@
 [
   {
-    "proxy": "http://171.4.177.114:8080",
-    "tested_at": "2026-02-14T07:01:50Z",
-    "ip": "171.4.177.114",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Thailand",
-    "country_code": "TH",
-    "region": "Nakhon Nayok Province",
-    "region_code": "26",
-    "city": "Wihan Daeng",
-    "latitude": 14.3153708,
-    "longitude": 100.9863525,
-    "is_eu": false,
-    "postal": "18150",
-    "connection": {
-      "asn": 45758,
-      "org": "Triple T Broadband Public Company Limited",
-      "isp": "Triple T Broadband Public Company Limited",
-      "domain": "3bbmail.com"
-    }
-  },
-  {
-    "proxy": "http://184.22.2.239:80",
-    "tested_at": "2026-02-14T07:02:05Z",
-    "ip": "184.22.2.239",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Thailand",
-    "country_code": "TH",
-    "region": "Surat Thani Province",
-    "region_code": "84",
-    "city": "Ko Samui",
-    "latitude": 9.5120168,
-    "longitude": 100.0135929,
-    "is_eu": false,
-    "postal": "84320",
-    "connection": {
-      "asn": 133481,
-      "org": "Ais Fibre",
-      "isp": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
-      "domain": "ais.co.th"
-    }
-  },
-  {
-    "proxy": "http://182.53.202.208:8080",
-    "tested_at": "2026-02-14T07:02:18Z",
-    "ip": "182.53.202.208",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Thailand",
-    "country_code": "TH",
-    "region": "Chiang Mai Province",
-    "region_code": "50",
-    "city": "Chiang Mai",
-    "latitude": 18.7060641,
-    "longitude": 98.9817163,
-    "is_eu": false,
-    "postal": "55520",
-    "connection": {
-      "asn": 23969,
-      "org": "Tot Public Company Limited",
-      "isp": "Tot Public Company Limited",
-      "domain": "totidc.net"
-    }
-  },
-  {
-    "proxy": "http://49.229.100.42:8080",
-    "tested_at": "2026-02-14T07:02:24Z",
-    "ip": "49.229.100.42",
+    "proxy": "http://27.254.99.183:8118",
+    "tested_at": "2026-02-14T07:32:54Z",
+    "ip": "27.254.99.183",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -85,10 +16,33 @@
     "is_eu": false,
     "postal": "10200",
     "connection": {
-      "asn": 133481,
-      "org": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
-      "isp": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
-      "domain": "ais.co.th"
+      "asn": 9891,
+      "org": "CSLOXINFO IDC",
+      "isp": "Cs Loxinfo Public Company Limited",
+      "domain": "csloxinfo.com"
+    }
+  },
+  {
+    "proxy": "http://182.53.143.200:8180",
+    "tested_at": "2026-02-14T07:32:59Z",
+    "ip": "182.53.143.200",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Thailand",
+    "country_code": "TH",
+    "region": "Bangkok",
+    "region_code": "10",
+    "city": "Bangkok",
+    "latitude": 13.7563309,
+    "longitude": 100.5017651,
+    "is_eu": false,
+    "postal": "10200",
+    "connection": {
+      "asn": 23969,
+      "org": "Tot Public Company Limited",
+      "isp": "Tot Public Company Limited",
+      "domain": "totidc.net"
     }
   }
 ]

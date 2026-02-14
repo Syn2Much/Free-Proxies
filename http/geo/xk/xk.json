@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://84.22.42.41:8080",
-    "tested_at": "2026-02-14T05:28:11Z",
-    "ip": "37.35.65.190",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Kosovo",
-    "country_code": "XK",
-    "region": "District of Prishtina",
-    "region_code": "",
-    "city": "Novo Brdo",
-    "latitude": 42.6088372,
-    "longitude": 21.440567,
-    "is_eu": false,
-    "postal": "16000",
-    "connection": {
-      "asn": 33983,
-      "org": "ARTMOTION SH.P.K.",
-      "isp": "ARTMOTION SH.P.K.",
-      "domain": "artmotion.net"
-    }
-  },
-  {
-    "proxy": "http://91.187.113.68:8080",
-    "tested_at": "2026-02-14T05:28:24Z",
-    "ip": "91.187.113.68",
+    "proxy": "http://46.99.178.155:1339",
+    "tested_at": "2026-02-14T07:33:33Z",
+    "ip": "46.99.178.155",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -40,7 +17,7 @@
     "postal": "10000",
     "connection": {
       "asn": 21246,
-      "org": "IPKO 11",
+      "org": "Ipko 1",
       "isp": "Ipko Telecommunications LLC",
       "domain": "ipko.com"
     }

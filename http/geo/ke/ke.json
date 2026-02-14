@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://197.232.47.122:8080",
-    "tested_at": "2026-02-14T07:02:20Z",
-    "ip": "197.232.47.122",
+    "proxy": "http://102.207.191.68:8080",
+    "tested_at": "2026-02-14T07:33:24Z",
+    "ip": "102.207.191.68",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Kenya",
     "country_code": "KE",
-    "region": "Kiambu",
-    "region_code": "13",
-    "city": "Kikuyu",
-    "latitude": -1.2543366,
-    "longitude": 36.681661,
+    "region": "Kitui",
+    "region_code": "18",
+    "city": "Mwingi",
+    "latitude": -0.937411,
+    "longitude": 38.0605006,
     "is_eu": false,
-    "postal": "",
+    "postal": "90400",
     "connection": {
-      "asn": 36866,
-      "org": "Jamii Telecommunications Limited",
-      "isp": "Jamii Telecommunications Limited",
-      "domain": "jtl.co.ke"
+      "asn": 329497,
+      "org": "Customer Assignment Public Ipv Addresses for Subscriber customer Devices.",
+      "isp": "Avitech Solutions LTD",
+      "domain": "avitechsolutionsltd.com"
     }
   }
 ]

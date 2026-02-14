@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://200.106.124.152:999",
-    "tested_at": "2026-02-14T07:01:34Z",
-    "ip": "200.106.124.152",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Tacna",
-    "region_code": "TAC",
-    "city": "Tacna",
-    "latitude": -18.0065679,
-    "longitude": -70.2462741,
-    "is_eu": false,
-    "postal": "23001",
-    "connection": {
-      "asn": 6147,
-      "org": "PE TDPERX LACNIC",
-      "isp": "INTEGRATEL PER S.A.A.",
-      "domain": "tdp.net.pe"
-    }
-  },
-  {
-    "proxy": "http://38.52.183.33:999",
-    "tested_at": "2026-02-14T07:02:16Z",
-    "ip": "38.52.183.32",
+    "proxy": "http://38.52.182.101:999",
+    "tested_at": "2026-02-14T07:32:45Z",
+    "ip": "38.52.182.96",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -43,29 +20,6 @@
       "org": "Cogent Communications",
       "isp": "NEXSATEL SOCIEDAD ANONIMA CERRADA NEXSATEL S.A.C.",
       "domain": "nexsatel.com.pe"
-    }
-  },
-  {
-    "proxy": "http://201.230.15.57:999",
-    "tested_at": "2026-02-14T07:02:17Z",
-    "ip": "201.230.15.57",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Tacna",
-    "region_code": "TAC",
-    "city": "Tacna",
-    "latitude": -17.9833329,
-    "longitude": -70.183333,
-    "is_eu": false,
-    "postal": "23000",
-    "connection": {
-      "asn": 6147,
-      "org": "PE TDPERX1 LACNIC",
-      "isp": "INTEGRATEL PER S.A.A.",
-      "domain": "tdp.net.pe"
     }
   }
 ]

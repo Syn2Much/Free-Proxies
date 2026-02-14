@@ -1,76 +1,7 @@
 [
   {
-    "proxy": "http://160.20.55.235:8080",
-    "tested_at": "2026-02-14T07:01:41Z",
-    "ip": "160.20.55.235",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.276022,
-    "longitude": 114.1751471,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 58411,
-      "org": "Datamax Osi Limited",
-      "isp": "Gateway Technology Development Company Limited",
-      "domain": "datamaxosi.com"
-    }
-  },
-  {
-    "proxy": "http://103.135.102.161:8081",
-    "tested_at": "2026-02-14T07:01:52Z",
-    "ip": "103.135.102.161",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.276022,
-    "longitude": 114.1751471,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 38136,
-      "org": "Akari Networks",
-      "isp": "Akari Networks Limited",
-      "domain": "akari.hk"
-    }
-  },
-  {
-    "proxy": "http://203.196.8.6:3128",
-    "tested_at": "2026-02-14T07:02:11Z",
-    "ip": "203.196.8.6",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.276022,
-    "longitude": 114.1751471,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 23764,
-      "org": "Chinatelecom Next Carrying Network backbone",
-      "isp": "China Telecom Global Limited",
-      "domain": "chinatelecom.com.hk"
-    }
-  },
-  {
     "proxy": "http://101.47.73.135:3128",
-    "tested_at": "2026-02-14T07:02:16Z",
+    "tested_at": "2026-02-14T07:33:12Z",
     "ip": "101.47.73.135",
     "success": true,
     "type": "IPv4",
@@ -89,6 +20,29 @@
       "org": "BYTEPLUS",
       "isp": "Byteplus Pte. Ltd.",
       "domain": "bytedance.com"
+    }
+  },
+  {
+    "proxy": "http://67.43.236.18:11589",
+    "tested_at": "2026-02-14T07:33:17Z",
+    "ip": "221.127.175.130",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Kwai Tsing District",
+    "latitude": 22.3498562,
+    "longitude": 114.1092727,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 9304,
+      "org": "HGC Global Communications Limited",
+      "isp": "HGC Global Communications Limited",
+      "domain": "hgc.com.hk"
     }
   }
 ]

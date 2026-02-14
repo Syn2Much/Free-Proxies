@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://190.192.45.168:3128",
-    "tested_at": "2026-02-14T07:01:56Z",
-    "ip": "190.192.45.168",
+    "proxy": "http://181.104.70.198:3128",
+    "tested_at": "2026-02-14T07:33:33Z",
+    "ip": "181.104.70.198",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Argentina",
     "country_code": "AR",
-    "region": "Santa Fe",
-    "region_code": "S",
-    "city": "Rosario",
-    "latitude": -32.9442426,
-    "longitude": -60.6505388,
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "Buenos Aires",
+    "latitude": -34.6036844,
+    "longitude": -58.3815591,
     "is_eu": false,
-    "postal": "10309",
+    "postal": "C1405 DJG",
     "connection": {
       "asn": 7303,
-      "org": "Telecom Argentina S.A.",
+      "org": "Telecom Personal Bs AS",
       "isp": "Telecom Argentina S.A.",
       "domain": "telecom.com.ar"
-    }
-  },
-  {
-    "proxy": "http://181.209.108.218:999",
-    "tested_at": "2026-02-14T07:01:56Z",
-    "ip": "181.209.108.218",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Santiago del Estero",
-    "region_code": "G",
-    "city": "Campo Gallo",
-    "latitude": -26.5834765,
-    "longitude": -62.8452392,
-    "is_eu": false,
-    "postal": "3747",
-    "connection": {
-      "asn": 52361,
-      "org": "Jujuy Sapem",
-      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
-      "domain": "arsat.com.ar"
     }
   }
 ]

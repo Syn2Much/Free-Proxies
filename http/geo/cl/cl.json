@@ -1,7 +1,7 @@
 [
   {
-    "proxy": "http://38.7.195.53:999",
-    "tested_at": "2026-02-14T07:01:35Z",
+    "proxy": "http://38.7.195.55:999",
+    "tested_at": "2026-02-14T07:32:48Z",
     "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
@@ -23,31 +23,8 @@
     }
   },
   {
-    "proxy": "http://38.7.221.191:8080",
-    "tested_at": "2026-02-14T07:01:50Z",
-    "ip": "38.7.221.191",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
-    "is_eu": false,
-    "postal": "832 0202",
-    "connection": {
-      "asn": 263702,
-      "org": "Cogent Communications",
-      "isp": "GRUPO ZGH SPA",
-      "domain": "zglobalhost.com"
-    }
-  },
-  {
-    "proxy": "http://38.7.195.55:999",
-    "tested_at": "2026-02-14T07:01:56Z",
+    "proxy": "http://38.7.195.53:999",
+    "tested_at": "2026-02-14T07:33:01Z",
     "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",

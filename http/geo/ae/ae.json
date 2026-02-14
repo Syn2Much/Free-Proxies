@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://38.180.26.208:3128",
-    "tested_at": "2026-02-14T06:30:44Z",
-    "ip": "38.180.26.41",
+    "proxy": "http://67.43.236.20:11677",
+    "tested_at": "2026-02-14T07:33:35Z",
+    "ip": "86.99.172.103",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "39205",
     "connection": {
-      "asn": 9009,
-      "org": "Cogent Communications",
-      "isp": "M Europe SRL",
-      "domain": "3nt.com"
+      "asn": 5384,
+      "org": "Emirates Telecommunications Corporation",
+      "isp": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY ETISALAT GROUP PJSC",
+      "domain": "etisalat.ae"
     }
   }
 ]
