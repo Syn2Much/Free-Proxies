@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://210.223.44.230:3128",
-    "tested_at": "2026-02-15T00:40:34Z",
-    "ip": "210.223.44.230",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Republic of Korea",
-    "country_code": "KR",
-    "region": "",
-    "region_code": "",
-    "city": "Seoul",
-    "latitude": 37.566535,
-    "longitude": 126.9779692,
-    "is_eu": false,
-    "postal": "04523",
-    "connection": {
-      "asn": 4766,
-      "org": "Korea Telecom",
-      "isp": "Korea Telecom",
-      "domain": "kt.com"
-    }
-  },
-  {
     "proxy": "http://211.230.49.122:3128",
-    "tested_at": "2026-02-15T00:40:45Z",
+    "tested_at": "2026-02-15T01:12:21Z",
     "ip": "211.230.49.122",
     "success": true,
     "type": "IPv4",
@@ -46,9 +23,32 @@
     }
   },
   {
-    "proxy": "http://8.213.151.128:3128",
-    "tested_at": "2026-02-15T00:41:32Z",
-    "ip": "8.213.151.128",
+    "proxy": "http://175.215.147.63:3092",
+    "tested_at": "2026-02-15T01:12:26Z",
+    "ip": "59.28.103.235",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "Gyeonggi",
+    "region_code": "41",
+    "city": "Seongnam-si",
+    "latitude": 37.4449168,
+    "longitude": 127.1388684,
+    "is_eu": false,
+    "postal": "13437",
+    "connection": {
+      "asn": 4766,
+      "org": "Korea Telecom",
+      "isp": "Korea Telecom",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://210.223.44.230:3128",
+    "tested_at": "2026-02-15T01:12:29Z",
+    "ip": "210.223.44.230",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -62,10 +62,10 @@
     "is_eu": false,
     "postal": "04523",
     "connection": {
-      "asn": 45102,
-      "org": "Alibaba Cloud South Korea",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibaba-inc.com"
+      "asn": 4766,
+      "org": "Korea Telecom",
+      "isp": "Korea Telecom",
+      "domain": "kt.com"
     }
   }
 ]

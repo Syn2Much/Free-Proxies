@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://62.113.119.14:8080",
-    "tested_at": "2026-02-15T00:40:34Z",
+    "tested_at": "2026-02-15T01:11:59Z",
     "ip": "62.113.119.14",
     "success": true,
     "type": "IPv4",
@@ -23,31 +23,8 @@
     }
   },
   {
-    "proxy": "http://109.194.17.191:8282",
-    "tested_at": "2026-02-15T00:40:49Z",
-    "ip": "109.194.17.191",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Irkutsk Oblast",
-    "region_code": "IRK",
-    "city": "Irkutsk",
-    "latitude": 52.2869741,
-    "longitude": 104.3050183,
-    "is_eu": false,
-    "postal": "664011",
-    "connection": {
-      "asn": 51645,
-      "org": "JSC Er telecom Holding Irkutsk Branch",
-      "isp": "JSC Er telecom Holding",
-      "domain": "ertelecom.ru"
-    }
-  },
-  {
     "proxy": "http://45.151.182.9:3128",
-    "tested_at": "2026-02-15T00:40:49Z",
+    "tested_at": "2026-02-15T01:12:19Z",
     "ip": "45.151.182.9",
     "success": true,
     "type": "IPv4",
@@ -69,77 +46,31 @@
     }
   },
   {
-    "proxy": "http://185.189.100.94:8080",
-    "tested_at": "2026-02-15T00:40:50Z",
-    "ip": "185.189.100.94",
+    "proxy": "http://217.150.43.253:8080",
+    "tested_at": "2026-02-15T01:12:39Z",
+    "ip": "217.150.43.253",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Russia",
     "country_code": "RU",
-    "region": "Republic of Dagestan",
-    "region_code": "DA",
-    "city": "Makhachkala",
-    "latitude": 42.9666308,
-    "longitude": 47.5126285,
+    "region": "Saint Petersburg",
+    "region_code": "",
+    "city": "Saint Petersburg",
+    "latitude": 59.9342802,
+    "longitude": 30.3350986,
     "is_eu": false,
-    "postal": "367000",
-    "connection": {
-      "asn": 47895,
-      "org": "LTD Erline",
-      "isp": "LTD Erline",
-      "domain": "r-line.ru"
-    }
-  },
-  {
-    "proxy": "http://89.237.33.126:37647",
-    "tested_at": "2026-02-15T00:40:53Z",
-    "ip": "89.237.34.174",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Orenburg Oblast",
-    "region_code": "ORE",
-    "city": "Orsk",
-    "latitude": 51.2145242,
-    "longitude": 58.5440566,
-    "is_eu": false,
-    "postal": "462420",
+    "postal": "191186",
     "connection": {
       "asn": 20485,
-      "org": "ACC KOM",
+      "org": "Transtelecom Office Network",
       "isp": "Joint Stock Company Transtelecom",
-      "domain": "acc-kom.ru"
-    }
-  },
-  {
-    "proxy": "http://109.111.166.40:8080",
-    "tested_at": "2026-02-15T00:40:56Z",
-    "ip": "109.111.166.4",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Kemerovo Oblast–Kuzbass",
-    "region_code": "",
-    "city": "Novokuznetsk",
-    "latitude": 53.7595935,
-    "longitude": 87.1215705,
-    "is_eu": false,
-    "postal": "654007",
-    "connection": {
-      "asn": 40995,
-      "org": "Siberian Networks Novokuznetsk",
-      "isp": "Sibirskie Seti Ltd.",
-      "domain": "sibset-team.ru"
+      "domain": "transtelecom.net"
     }
   },
   {
     "proxy": "http://217.77.102.18:3128",
-    "tested_at": "2026-02-15T00:41:04Z",
+    "tested_at": "2026-02-15T01:12:43Z",
     "ip": "217.77.102.18",
     "success": true,
     "type": "IPv4",
@@ -158,121 +89,6 @@
       "org": "Region Svyaz Konsalt LLC",
       "isp": "Region Svyaz Konsalt LLC",
       "domain": "metromax.ru"
-    }
-  },
-  {
-    "proxy": "http://158.160.215.167:8125",
-    "tested_at": "2026-02-15T00:41:10Z",
-    "ip": "45.196.125.153",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Nizhny Novgorod Oblast",
-    "region_code": "NIZ",
-    "city": "Nizhny Novgorod",
-    "latitude": 56.2965039,
-    "longitude": 43.9360589,
-    "is_eu": false,
-    "postal": "603033",
-    "connection": {
-      "asn": 44559,
-      "org": "IT HOST BKPL",
-      "isp": "IT HOSTLINE LTD",
-      "domain": "blsync.com"
-    }
-  },
-  {
-    "proxy": "http://91.218.244.153:8989",
-    "tested_at": "2026-02-15T00:41:12Z",
-    "ip": "91.218.244.153",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Moscow",
-    "region_code": "MOW",
-    "city": "Moscow",
-    "latitude": 55.755826,
-    "longitude": 37.6173,
-    "is_eu": false,
-    "postal": "103073",
-    "connection": {
-      "asn": 50867,
-      "org": "LLC IT BASIS",
-      "isp": "HOSTKEY B.V.",
-      "domain": "hostkey.ru"
-    }
-  },
-  {
-    "proxy": "http://94.73.239.124:55443",
-    "tested_at": "2026-02-15T00:41:17Z",
-    "ip": "94.73.239.124",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Krasnoyarsk Krai",
-    "region_code": "KYA",
-    "city": "Krasnoyarsk",
-    "latitude": 56.0152834,
-    "longitude": 92.8932476,
-    "is_eu": false,
-    "postal": "660049",
-    "connection": {
-      "asn": 31257,
-      "org": "Orion Telecom LLC",
-      "isp": "Orion Telecom LLC",
-      "domain": "orionnet.ru"
-    }
-  },
-  {
-    "proxy": "http://91.230.65.202:8080",
-    "tested_at": "2026-02-15T00:41:29Z",
-    "ip": "91.230.65.202",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Moscow",
-    "region_code": "MOW",
-    "city": "Moscow",
-    "latitude": 55.755826,
-    "longitude": 37.6173,
-    "is_eu": false,
-    "postal": "103073",
-    "connection": {
-      "asn": 57045,
-      "org": "Panin Kirill Evgenyevich",
-      "isp": "Panin Kirill Evgenyevich",
-      "domain": "ya.ru"
-    }
-  },
-  {
-    "proxy": "http://93.100.125.249:8080",
-    "tested_at": "2026-02-15T00:41:30Z",
-    "ip": "93.100.125.249",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Saint Petersburg",
-    "region_code": "",
-    "city": "Saint Petersburg",
-    "latitude": 59.9342802,
-    "longitude": 30.3350986,
-    "is_eu": false,
-    "postal": "191186",
-    "connection": {
-      "asn": 35807,
-      "org": "SkyNet",
-      "isp": "Skynet Ltd.",
-      "domain": "sknt.ru"
     }
   }
 ]

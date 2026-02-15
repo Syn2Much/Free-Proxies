@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://103.205.178.226:8080",
+    "tested_at": "2026-02-15T01:12:03Z",
+    "ip": "103.205.178.226",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "region": "Sindh",
+    "region_code": "SD",
+    "city": "Karachi",
+    "latitude": 24.8614622,
+    "longitude": 67.0099388,
+    "is_eu": false,
+    "postal": "74400",
+    "connection": {
+      "asn": 38713,
+      "org": "Satcomm pvt. Ltd.",
+      "isp": "Satcomm pvt. Ltd.",
+      "domain": "satcomm.pk"
+    }
+  },
+  {
     "proxy": "http://72.10.160.90:12213",
-    "tested_at": "2026-02-15T00:40:35Z",
+    "tested_at": "2026-02-15T01:12:11Z",
     "ip": "203.175.72.5",
     "success": true,
     "type": "IPv4",
@@ -23,26 +46,26 @@
     }
   },
   {
-    "proxy": "http://115.42.67.186:8080",
-    "tested_at": "2026-02-15T00:41:08Z",
-    "ip": "115.42.67.186",
+    "proxy": "http://103.66.149.194:8080",
+    "tested_at": "2026-02-15T01:12:46Z",
+    "ip": "160.30.142.33",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Pakistan",
     "country_code": "PK",
-    "region": "Balochistan",
-    "region_code": "BA",
-    "city": "Gaddani",
-    "latitude": 25.0861084,
-    "longitude": 66.7307796,
+    "region": "Punjab",
+    "region_code": "PB",
+    "city": "Jalalpur Jattan",
+    "latitude": 32.6480365,
+    "longitude": 74.2120629,
     "is_eu": false,
-    "postal": "90300",
+    "postal": "",
     "connection": {
-      "asn": 132165,
-      "org": "Connect Communication",
-      "isp": "Connect Communication",
-      "domain": "connect.net.pk"
+      "asn": 142647,
+      "org": "Brain Networks",
+      "isp": "Nasstec Airnet Networks Private Limited",
+      "domain": "brainnetworks.net.pk"
     }
   }
 ]

@@ -1,25 +1,71 @@
 [
   {
-    "proxy": "http://169.239.85.121:8080",
-    "tested_at": "2026-02-15T00:40:41Z",
-    "ip": "169.239.85.121",
+    "proxy": "http://102.66.104.162:8865",
+    "tested_at": "2026-02-15T01:12:18Z",
+    "ip": "102.66.104.162",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "South Africa",
     "country_code": "ZA",
-    "region": "Gauteng",
-    "region_code": "GT",
-    "city": "Lethabong",
-    "latitude": -26.0880026,
-    "longitude": 28.1444516,
+    "region": "Mpumalanga",
+    "region_code": "MP",
+    "city": "Acornhoek",
+    "latitude": -24.6056556,
+    "longitude": 31.0874925,
     "is_eu": false,
-    "postal": "2065",
+    "postal": "1360",
     "connection": {
-      "asn": 327943,
-      "org": "Mezobyte Allocation 1",
-      "isp": "Mezobyte pty LTD",
-      "domain": "mezobyte.com"
+      "asn": 328471,
+      "org": "Herotel Ra Subscriber Block A",
+      "isp": "HERO TELECOMS PTY LTD",
+      "domain": "herotel.com"
+    }
+  },
+  {
+    "proxy": "http://102.39.157.235:8080",
+    "tested_at": "2026-02-15T01:12:42Z",
+    "ip": "102.39.157.235",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Western Cape",
+    "region_code": "WC",
+    "city": "Cape Town",
+    "latitude": -33.719294,
+    "longitude": 18.4543113,
+    "is_eu": false,
+    "postal": "8001",
+    "connection": {
+      "asn": 11845,
+      "org": "Vox Telecom",
+      "isp": "Vox Telecom LTD",
+      "domain": "voxtelecom.co.za"
+    }
+  },
+  {
+    "proxy": "http://156.155.50.93:8080",
+    "tested_at": "2026-02-15T01:12:46Z",
+    "ip": "156.155.50.93",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "KwaZulu-Natal",
+    "region_code": "KZN",
+    "city": "Durban",
+    "latitude": -29.8586804,
+    "longitude": 31.0218404,
+    "is_eu": false,
+    "postal": "4023",
+    "connection": {
+      "asn": 37611,
+      "org": "Axxess Networks",
+      "isp": "AFRIHOST SP PTY LTD",
+      "domain": "axxess.co.za"
     }
   }
 ]

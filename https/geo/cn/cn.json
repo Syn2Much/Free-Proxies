@@ -1,7 +1,7 @@
 [
   {
-    "proxy": "https://180.166.128.182:24001",
-    "tested_at": "2026-02-15T00:40:44Z",
+    "proxy": "https://180.166.128.182:34001",
+    "tested_at": "2026-02-15T01:12:20Z",
     "ip": "58.34.88.74",
     "success": true,
     "type": "IPv4",
@@ -23,26 +23,26 @@
     }
   },
   {
-    "proxy": "https://114.55.114.43:8391",
-    "tested_at": "2026-02-15T00:40:49Z",
-    "ip": "106.118.82.99",
+    "proxy": "https://180.166.128.182:12011",
+    "tested_at": "2026-02-15T01:12:30Z",
+    "ip": "58.34.88.74",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "China",
     "country_code": "CN",
-    "region": "Hebei",
-    "region_code": "13",
-    "city": "Langfang",
-    "latitude": 39.538047,
-    "longitude": 116.683752,
+    "region": "Shanghai",
+    "region_code": "31",
+    "city": "Shanghai",
+    "latitude": 31.230416,
+    "longitude": 121.473701,
     "is_eu": false,
-    "postal": "065400",
+    "postal": "200001",
     "connection": {
-      "asn": 4134,
-      "org": "Chinanet Hebei Province Network",
-      "isp": "No. 1,jin rong Street",
-      "domain": "chinatelecom.cn"
+      "asn": 4812,
+      "org": "Chinanet Shanghai Province Network",
+      "isp": "China Telecom group",
+      "domain": "online.sh.cn"
     }
   }
 ]

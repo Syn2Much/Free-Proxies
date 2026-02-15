@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://72.10.164.178:28119",
+    "tested_at": "2026-02-15T01:12:03Z",
+    "ip": "41.208.191.186",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Senegal",
+    "country_code": "SN",
+    "region": "Dakar Region",
+    "region_code": "DK",
+    "city": "Dakar",
+    "latitude": 14.7645042,
+    "longitude": -17.3660286,
+    "is_eu": false,
+    "postal": "10000",
+    "connection": {
+      "asn": 8346,
+      "org": "Sonatel Societe Nationale Des Telecommunications Du Senegal",
+      "isp": "Sonatel as Autonomous System",
+      "domain": "orange-sonatel.com"
+    }
+  }
+]

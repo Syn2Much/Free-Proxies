@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://212.110.188.194:34410",
-    "tested_at": "2026-02-15T00:40:50Z",
-    "ip": "212.110.188.194",
+    "proxy": "http://62.255.223.195:8080",
+    "tested_at": "2026-02-15T01:12:08Z",
+    "ip": "62.255.223.195",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "Scotland",
+    "region_code": "SCT",
+    "city": "Edinburgh",
+    "latitude": 55.953252,
+    "longitude": -3.188267,
+    "is_eu": false,
+    "postal": "EH1 3EG",
+    "connection": {
+      "asn": 5089,
+      "org": "Virgin Media Limited",
+      "isp": "Virgin Media Limited",
+      "domain": "adsgroup.org.uk"
+    }
+  },
+  {
+    "proxy": "http://212.110.188.205:34403",
+    "tested_at": "2026-02-15T01:12:15Z",
+    "ip": "212.110.188.205",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -20,57 +43,11 @@
       "org": "Bytemark Services",
       "isp": "IOMART MANAGED SERVICES LIMITED",
       "domain": "rapidswitch.com"
-    }
-  },
-  {
-    "proxy": "http://212.110.188.199:34406",
-    "tested_at": "2026-02-15T00:40:52Z",
-    "ip": "212.110.188.199",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "York",
-    "latitude": 53.9599651,
-    "longitude": -1.0872979,
-    "is_eu": false,
-    "postal": "YO1 8SG",
-    "connection": {
-      "asn": 35425,
-      "org": "Bytemark Services",
-      "isp": "IOMART MANAGED SERVICES LIMITED",
-      "domain": "rapidswitch.com"
-    }
-  },
-  {
-    "proxy": "http://109.120.135.230:2030",
-    "tested_at": "2026-02-15T00:40:54Z",
-    "ip": "2a0b:4140:685e::2",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "London",
-    "latitude": 51.5073509,
-    "longitude": -0.1277583,
-    "is_eu": false,
-    "postal": "SW1",
-    "connection": {
-      "asn": 210644,
-      "org": "AEZA NETWORK STOCKHOLM",
-      "isp": "AEZA INTERNATIONAL LTD",
-      "domain": "aeza.net"
     }
   },
   {
     "proxy": "http://37.27.180.250:2081",
-    "tested_at": "2026-02-15T00:40:56Z",
+    "tested_at": "2026-02-15T01:12:26Z",
     "ip": "141.98.101.182",
     "success": true,
     "type": "IPv4",
@@ -92,9 +69,9 @@
     }
   },
   {
-    "proxy": "http://157.125.220.80:8080",
-    "tested_at": "2026-02-15T00:41:02Z",
-    "ip": "157.125.220.80",
+    "proxy": "http://152.53.136.194:10001",
+    "tested_at": "2026-02-15T01:12:37Z",
+    "ip": "90.216.205.170",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -102,22 +79,45 @@
     "country_code": "GB",
     "region": "England",
     "region_code": "ENG",
-    "city": "Pudsey",
-    "latitude": 53.795766,
-    "longitude": -1.6761082,
+    "city": "London",
+    "latitude": 51.502781,
+    "longitude": -0.087738,
     "is_eu": false,
-    "postal": "LS28 7LH",
+    "postal": "SW1",
     "connection": {
-      "asn": 31655,
-      "org": "Gamma Telecom Limited",
-      "isp": "Gamma Telecom Holdings LTD",
-      "domain": "gamma.co.uk"
+      "asn": 5607,
+      "org": "Sky UK Limited",
+      "isp": "Sky UK Limited",
+      "domain": "sky.uk"
     }
   },
   {
-    "proxy": "http://212.110.188.197:34404",
-    "tested_at": "2026-02-15T00:41:03Z",
-    "ip": "212.110.188.197",
+    "proxy": "http://152.53.136.194:10000",
+    "tested_at": "2026-02-15T01:12:38Z",
+    "ip": "86.143.160.148",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "England",
+    "region_code": "ENG",
+    "city": "London",
+    "latitude": 51.4911875,
+    "longitude": -0.2237315,
+    "is_eu": false,
+    "postal": "SW1",
+    "connection": {
+      "asn": 2856,
+      "org": "Ip Pools",
+      "isp": "British Telecommunications PLC",
+      "domain": "bt.com"
+    }
+  },
+  {
+    "proxy": "http://212.110.188.193:34409",
+    "tested_at": "2026-02-15T01:12:46Z",
+    "ip": "212.110.188.193",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -138,9 +138,9 @@
     }
   },
   {
-    "proxy": "http://212.110.188.212:34410",
-    "tested_at": "2026-02-15T00:41:08Z",
-    "ip": "212.110.188.212",
+    "proxy": "http://212.110.188.211:34409",
+    "tested_at": "2026-02-15T01:12:49Z",
+    "ip": "212.110.188.211",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",

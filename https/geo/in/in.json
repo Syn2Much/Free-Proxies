@@ -1,7 +1,7 @@
 [
   {
     "proxy": "https://45.114.142.178:443",
-    "tested_at": "2026-02-15T00:41:02Z",
+    "tested_at": "2026-02-15T01:12:20Z",
     "ip": "45.114.142.178",
     "success": true,
     "type": "IPv4",
@@ -23,9 +23,32 @@
     }
   },
   {
-    "proxy": "https://165.231.253.66:9443",
-    "tested_at": "2026-02-15T00:41:16Z",
-    "ip": "196.240.60.217",
+    "proxy": "https://165.231.253.242:9443",
+    "tested_at": "2026-02-15T01:12:30Z",
+    "ip": "165.231.253.249",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "India",
+    "country_code": "IN",
+    "region": "Delhi",
+    "region_code": "DL",
+    "city": "New Delhi",
+    "latitude": 28.6139391,
+    "longitude": 77.2090212,
+    "is_eu": false,
+    "postal": "110001",
+    "connection": {
+      "asn": 41564,
+      "org": "Fiber Grid",
+      "isp": "Orion Network Limited",
+      "domain": "fibergrid.co.za"
+    }
+  },
+  {
+    "proxy": "https://165.231.253.210:9443",
+    "tested_at": "2026-02-15T01:12:41Z",
+    "ip": "165.231.253.221",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",

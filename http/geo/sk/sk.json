@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://185.225.204.5:3128",
-    "tested_at": "2026-02-15T00:41:06Z",
-    "ip": "185.225.204.149",
+    "proxy": "http://45.129.141.143:3128",
+    "tested_at": "2026-02-15T01:12:19Z",
+    "ip": "45.129.141.143",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Slovak Republic",
     "country_code": "SK",
-    "region": "Prešov",
+    "region": "Bratislava",
     "region_code": "",
-    "city": "Kračúnovce",
-    "latitude": 49.0943599,
-    "longitude": 21.4875846,
+    "city": "Bratislava",
+    "latitude": 48.1485965,
+    "longitude": 17.1077477,
     "is_eu": true,
-    "postal": "087 01",
+    "postal": "811 06",
     "connection": {
-      "asn": 34820,
-      "org": "Probasec net S.R.O.",
-      "isp": "Delta Online Spol. S R.O.",
-      "domain": "dol.sk"
+      "asn": 61424,
+      "org": "VPS1 NET",
+      "isp": "Eserver S.R.O.",
+      "domain": "di.city"
     }
   }
 ]

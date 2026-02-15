@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://92.247.12.136:9510",
-    "tested_at": "2026-02-15T00:40:59Z",
-    "ip": "92.247.12.130",
+    "proxy": "http://78.130.246.65:1881",
+    "tested_at": "2026-02-15T01:12:24Z",
+    "ip": "78.130.246.65",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "region": "Plovdiv",
+    "region_code": "16",
+    "city": "Plovdiv",
+    "latitude": 42.1354079,
+    "longitude": 24.7452904,
+    "is_eu": true,
+    "postal": "4000",
+    "connection": {
+      "asn": 9070,
+      "org": "Cooolbox Ad",
+      "isp": "Cooolbox Ad",
+      "domain": "cooolbox.bg"
+    }
+  },
+  {
+    "proxy": "http://45.136.198.40:3128",
+    "tested_at": "2026-02-15T01:12:36Z",
+    "ip": "45.136.198.40",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +39,10 @@
     "is_eu": true,
     "postal": "1000",
     "connection": {
-      "asn": 8717,
-      "org": "Spectrum Net Sofia",
-      "isp": "A1 Bulgaria Ead",
-      "domain": "a1.bg"
+      "asn": 9009,
+      "org": "Iroko Networks Corporation",
+      "isp": "M Europe SRL",
+      "domain": "iroko.net"
     }
   }
 ]

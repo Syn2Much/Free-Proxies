@@ -1,7 +1,7 @@
 [
   {
-    "proxy": "http://45.177.16.132:999",
-    "tested_at": "2026-02-15T00:41:08Z",
+    "proxy": "http://45.177.16.137:999",
+    "tested_at": "2026-02-15T01:12:35Z",
     "ip": "45.177.16.254",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,29 @@
       "org": "Cross Connect Paraguay S.A.",
       "isp": "MSW S.A.",
       "domain": "cross.net.py"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:8903",
+    "tested_at": "2026-02-15T01:12:41Z",
+    "ip": "186.158.200.8",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "region": "Central",
+    "region_code": "11",
+    "city": "San Antonio",
+    "latitude": -25.4200064,
+    "longitude": -57.5476145,
+    "is_eu": false,
+    "postal": "2650",
+    "connection": {
+      "asn": 11664,
+      "org": "Claro",
+      "isp": "Techtel Lmds Comunicaciones Interactivas S.A.",
+      "domain": "claro.com.py"
     }
   }
 ]

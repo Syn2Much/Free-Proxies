@@ -1,25 +1,71 @@
 [
   {
-    "proxy": "http://67.43.236.20:14477",
-    "tested_at": "2026-02-15T00:41:25Z",
-    "ip": "212.126.125.68",
+    "proxy": "http://159.255.163.153:47193",
+    "tested_at": "2026-02-15T01:12:25Z",
+    "ip": "188.72.43.161",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Iraq",
     "country_code": "IQ",
-    "region": "Halabja Governorate",
-    "region_code": "",
-    "city": "Halabja",
-    "latitude": 35.1654999,
-    "longitude": 45.9896078,
+    "region": "Erbil Governorate",
+    "region_code": "AR",
+    "city": "Xebat",
+    "latitude": 36.278,
+    "longitude": 43.6707,
     "is_eu": false,
-    "postal": "46006",
+    "postal": "28500",
     "connection": {
-      "asn": 39216,
-      "org": "Al sard Fiber Co. for Internet Fiber And Optical Cable Services ltd.",
-      "isp": "Al sard Fiber Co. for Internet Fiber And Optical Cable Services ltd.",
-      "domain": "alsardfiber.com"
+      "asn": 213098,
+      "org": "Pirmam For Information Technology Services LTD",
+      "isp": "Pirmam For Information Technology Services LTD",
+      "domain": "pirmam.com"
+    }
+  },
+  {
+    "proxy": "http://37.237.224.164:8080",
+    "tested_at": "2026-02-15T01:12:28Z",
+    "ip": "37.237.224.164",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Baghdad Governorate",
+    "region_code": "BG",
+    "city": "Baghdad",
+    "latitude": 33.3128057,
+    "longitude": 44.3614875,
+    "is_eu": false,
+    "postal": "10001",
+    "connection": {
+      "asn": 199739,
+      "org": "Earthlink Ltd. Communications internet Services orange",
+      "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
+      "domain": "earthlink.iq"
+    }
+  },
+  {
+    "proxy": "http://188.72.43.129:47193",
+    "tested_at": "2026-02-15T01:12:41Z",
+    "ip": "193.47.189.65",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Erbil Governorate",
+    "region_code": "AR",
+    "city": "Erbil",
+    "latitude": 36.2062933,
+    "longitude": 44.0088697,
+    "is_eu": false,
+    "postal": "44001",
+    "connection": {
+      "asn": 197882,
+      "org": "Pirmam",
+      "isp": "Tarin General Trading And Setting Up Internet Device LTD",
+      "domain": "pirmam.com"
     }
   }
 ]

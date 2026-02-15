@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://72.10.160.90:9787",
-    "tested_at": "2026-02-15T00:40:37Z",
-    "ip": "83.123.191.121",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Iran",
-    "country_code": "IR",
-    "region": "Razavi Khorasan",
-    "region_code": "",
-    "city": "Chenaran",
-    "latitude": 36.6415869,
-    "longitude": 59.1213974,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 197207,
-      "org": "Mobile Communication Company of Iran",
-      "isp": "Mobile Communication Company of Iran PLC",
-      "domain": "mci.ir"
-    }
-  },
-  {
-    "proxy": "http://5.202.191.225:8080",
-    "tested_at": "2026-02-15T00:41:18Z",
-    "ip": "5.202.191.225",
+    "proxy": "http://78.157.57.71:3128",
+    "tested_at": "2026-02-15T01:11:59Z",
+    "ip": "78.157.57.71",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,10 +16,33 @@
     "is_eu": false,
     "postal": "1317947564",
     "connection": {
-      "asn": 49100,
-      "org": "PTE",
-      "isp": "Pishgaman Toseeh Ertebatat Company private Joint Stock",
-      "domain": "goledu.ir"
+      "asn": 62442,
+      "org": "Dade Samane Fanava Company pjs",
+      "isp": "Dade Samane Fanava Company pjs",
+      "domain": "fanavaraneomid.com"
+    }
+  },
+  {
+    "proxy": "http://46.209.30.11:8080",
+    "tested_at": "2026-02-15T01:12:25Z",
+    "ip": "46.209.30.11",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iran",
+    "country_code": "IR",
+    "region": "Tehran Province",
+    "region_code": "23",
+    "city": "Tehran",
+    "latitude": 35.6891975,
+    "longitude": 51.3889736,
+    "is_eu": false,
+    "postal": "1317947564",
+    "connection": {
+      "asn": 42337,
+      "org": "National Library Of Iran",
+      "isp": "Respina Networks Beyond Pjsc",
+      "domain": "respina.net"
     }
   }
 ]

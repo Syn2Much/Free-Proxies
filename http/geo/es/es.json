@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://2.139.62.85:3128",
-    "tested_at": "2026-02-15T00:40:57Z",
-    "ip": "2.139.62.85",
+    "proxy": "http://77.225.198.220:9812",
+    "tested_at": "2026-02-15T01:12:15Z",
+    "ip": "77.225.198.220",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,33 +16,10 @@
     "is_eu": true,
     "postal": "28080",
     "connection": {
-      "asn": 3352,
-      "org": "Red De Servicios Ip",
-      "isp": "TELEFONICA DE ESPANA S.A.U.",
-      "domain": "telefonica.es"
-    }
-  },
-  {
-    "proxy": "http://67.43.236.20:12121",
-    "tested_at": "2026-02-15T00:41:24Z",
-    "ip": "91.117.234.248",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Spain",
-    "country_code": "ES",
-    "region": "Galicia",
-    "region_code": "GA",
-    "city": "Pontevedra",
-    "latitude": 42.4298846,
-    "longitude": -8.6446202,
-    "is_eu": true,
-    "postal": "36001",
-    "connection": {
-      "asn": 12334,
-      "org": "R Cable Y Telecomunicaciones Galicia S.A.",
-      "isp": "R Cable Y Telecable Telecomunicaciones, S.A.U.",
-      "domain": "cablegalicia.com"
+      "asn": 12430,
+      "org": "Comunitel Global S.A.",
+      "isp": "VODAFONE ESPANA S.A.U.",
+      "domain": "vodafone.es"
     }
   }
 ]
