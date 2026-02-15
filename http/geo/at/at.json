@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://89.26.83.25:8080",
-    "tested_at": "2026-02-15T01:12:01Z",
-    "ip": "89.26.83.25",
+    "proxy": "http://178.115.230.100:8080",
+    "tested_at": "2026-02-15T08:30:11Z",
+    "ip": "178.115.230.100",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,16 +10,16 @@
     "country_code": "AT",
     "region": "Salzburg",
     "region_code": "5",
-    "city": "Rauris",
-    "latitude": 47.2291409,
-    "longitude": 12.9943159,
+    "city": "Salzburg",
+    "latitude": 47.80949,
+    "longitude": 13.05501,
     "is_eu": true,
-    "postal": "5661",
+    "postal": "5020",
     "connection": {
-      "asn": 8445,
-      "org": "Salzburg AG Fur Energie, Verkehr Und Telekommunikation",
-      "isp": "Salzburg AG Fur Energie, Verkehr Und Telekommunikation",
-      "domain": "salzburg-ag.at"
+      "asn": 25255,
+      "org": "H G CUSTOMERS NET",
+      "isp": "Hutchison Drei Austria GmbH",
+      "domain": "drei.at"
     }
   }
 ]

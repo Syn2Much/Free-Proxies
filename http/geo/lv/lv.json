@@ -1,10 +1,10 @@
 [
   {
-    "proxy": "http://195.123.209.48:3128",
-    "tested_at": "2026-02-15T07:27:30Z",
-    "ip": "195.123.209.48",
+    "proxy": "http://195.123.211.251:8118",
+    "tested_at": "2026-02-15T08:30:16Z",
+    "ip": "2a02:27ac::f59",
     "success": true,
-    "type": "IPv4",
+    "type": "IPv6",
     "continent": "Europe",
     "country": "Latvia",
     "country_code": "LV",
@@ -17,9 +17,9 @@
     "postal": "LV-1811",
     "connection": {
       "asn": 50979,
-      "org": "Green Floid LLC",
+      "org": "Ipv Services for Dedicated Servers And Vds vps",
       "isp": "GREEN FLOID LLC",
-      "domain": "greenfloid.com"
+      "domain": "layer6.net"
     }
   }
 ]

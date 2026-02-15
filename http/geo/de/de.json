@@ -1,31 +1,31 @@
 [
   {
-    "proxy": "http://128.140.118.165:1080",
-    "tested_at": "2026-02-15T07:58:46Z",
-    "ip": "2a01:4f8:c17:162d::1",
+    "proxy": "http://57.129.70.80:3128",
+    "tested_at": "2026-02-15T08:30:14Z",
+    "ip": "57.129.70.80",
     "success": true,
-    "type": "IPv6",
+    "type": "IPv4",
     "continent": "Europe",
     "country": "Germany",
     "country_code": "DE",
-    "region": "Saxony",
-    "region_code": "SN",
-    "city": "Falkenstein",
-    "latitude": 50.4750046,
-    "longitude": 12.3649754,
+    "region": "Hesse",
+    "region_code": "HE",
+    "city": "Limburg",
+    "latitude": 50.3986005,
+    "longitude": 8.0795783,
     "is_eu": true,
-    "postal": "08324",
+    "postal": "65549",
     "connection": {
-      "asn": 24940,
-      "org": "Hetzner Online GmbH",
-      "isp": "Hetzner Online GmbH",
-      "domain": "hetzner.de"
+      "asn": 16276,
+      "org": "OVH GmbH",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
     }
   },
   {
-    "proxy": "http://195.133.44.205:7777",
-    "tested_at": "2026-02-15T07:58:48Z",
-    "ip": "195.133.44.205",
+    "proxy": "http://157.230.106.35:8080",
+    "tested_at": "2026-02-15T08:30:18Z",
+    "ip": "157.230.106.35",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,38 +39,38 @@
     "is_eu": true,
     "postal": "60311",
     "connection": {
-      "asn": 215346,
-      "org": "Glb Bulut Teknolojisi Limited Sirketi",
-      "isp": "Big Data Host LLC",
-      "domain": "yandex.com"
+      "asn": 14061,
+      "org": "Digitalocean, LLC",
+      "isp": "Digitalocean, LLC",
+      "domain": "digitalocean.com"
     }
   },
   {
-    "proxy": "http://91.107.254.36:2000",
-    "tested_at": "2026-02-15T07:58:53Z",
-    "ip": "2a01:4f8:1c1e:74d6::1",
+    "proxy": "http://51.250.88.121:9998",
+    "tested_at": "2026-02-15T08:30:52Z",
+    "ip": "139.59.148.123",
     "success": true,
-    "type": "IPv6",
+    "type": "IPv4",
     "continent": "Europe",
     "country": "Germany",
     "country_code": "DE",
-    "region": "Bavaria",
-    "region_code": "BY",
-    "city": "Nuremberg",
-    "latitude": 49.4254092,
-    "longitude": 11.0796553,
+    "region": "Hesse",
+    "region_code": "HE",
+    "city": "Frankfurt",
+    "latitude": 50.1109221,
+    "longitude": 8.6821267,
     "is_eu": true,
-    "postal": "90403",
+    "postal": "60311",
     "connection": {
-      "asn": 24940,
-      "org": "Hetzner Online GmbH",
-      "isp": "Hetzner Online GmbH",
-      "domain": "hetzner.de"
+      "asn": 14061,
+      "org": "Digitalocean, LLC",
+      "isp": "Digitalocean, LLC",
+      "domain": "digitalocean.com"
     }
   },
   {
     "proxy": "http://47.91.65.23:3128",
-    "tested_at": "2026-02-15T07:59:04Z",
+    "tested_at": "2026-02-15T08:30:52Z",
     "ip": "47.91.65.23",
     "success": true,
     "type": "IPv4",
@@ -92,11 +92,11 @@
     }
   },
   {
-    "proxy": "http://194.59.204.87:9080",
-    "tested_at": "2026-02-15T07:59:07Z",
-    "ip": "194.59.204.87",
+    "proxy": "http://91.107.254.36:2000",
+    "tested_at": "2026-02-15T08:30:53Z",
+    "ip": "2a01:4f8:1c1e:74d6::1",
     "success": true,
-    "type": "IPv4",
+    "type": "IPv6",
     "continent": "Europe",
     "country": "Germany",
     "country_code": "DE",
@@ -108,56 +108,10 @@
     "is_eu": true,
     "postal": "90403",
     "connection": {
-      "asn": 197540,
-      "org": "Netcup GmbH",
-      "isp": "Netcup GmbH",
-      "domain": "netcup.de"
-    }
-  },
-  {
-    "proxy": "http://172.86.92.68:31337",
-    "tested_at": "2026-02-15T07:59:13Z",
-    "ip": "2602:fa59:8:83::1",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Hesse",
-    "region_code": "HE",
-    "city": "Frankfurt",
-    "latitude": 50.1109221,
-    "longitude": 8.6821267,
-    "is_eu": true,
-    "postal": "60311",
-    "connection": {
-      "asn": 30823,
-      "org": "Routerhosting LLC",
-      "isp": "Aurologic GmbH",
-      "domain": "cloudzy.com"
-    }
-  },
-  {
-    "proxy": "http://51.250.88.121:9998",
-    "tested_at": "2026-02-15T07:59:27Z",
-    "ip": "139.59.148.123",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Hesse",
-    "region_code": "HE",
-    "city": "Frankfurt",
-    "latitude": 50.1109221,
-    "longitude": 8.6821267,
-    "is_eu": true,
-    "postal": "60311",
-    "connection": {
-      "asn": 14061,
-      "org": "Digitalocean, LLC",
-      "isp": "Digitalocean, LLC",
-      "domain": "digitalocean.com"
+      "asn": 24940,
+      "org": "Hetzner Online GmbH",
+      "isp": "Hetzner Online GmbH",
+      "domain": "hetzner.de"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://49.236.212.134:8888",
-    "tested_at": "2026-02-15T07:59:12Z",
-    "ip": "49.236.212.134",
+    "proxy": "http://110.34.8.110:8080",
+    "tested_at": "2026-02-15T08:30:24Z",
+    "ip": "110.34.13.4",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,60 +10,14 @@
     "country_code": "NP",
     "region": "Bagmati Pradesh",
     "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
+    "city": "Patan",
+    "latitude": 27.6644011,
+    "longitude": 85.3187914,
     "is_eu": false,
-    "postal": "46600",
-    "connection": {
-      "asn": 55915,
-      "org": "Classic Tech Pvt. Ltd.",
-      "isp": "Classic Tech Pvt. Ltd.",
-      "domain": "classic.com.np"
-    }
-  },
-  {
-    "proxy": "http://103.191.160.145:8081",
-    "tested_at": "2026-02-15T07:59:21Z",
-    "ip": "103.191.161.38",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Nepal",
-    "country_code": "NP",
-    "region": "Bagmati Pradesh",
-    "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
-    "is_eu": false,
-    "postal": "46600",
-    "connection": {
-      "asn": 150131,
-      "org": "D.G. Link Network Pvt LTD",
-      "isp": "D.G. Link Network Pvt LTD",
-      "domain": "dglink.com.np"
-    }
-  },
-  {
-    "proxy": "http://110.34.1.178:7777",
-    "tested_at": "2026-02-15T07:59:30Z",
-    "ip": "110.34.1.178",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Nepal",
-    "country_code": "NP",
-    "region": "Bagmati Pradesh",
-    "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
-    "is_eu": false,
-    "postal": "46600",
+    "postal": "44707",
     "connection": {
       "asn": 4007,
-      "org": "Server Networks",
+      "org": "Subisu Retail Pool",
       "isp": "Subisu Cablenet",
       "domain": "subisu.net.np"
     }

@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://154.117.154.194:8080",
-    "tested_at": "2026-02-15T07:58:58Z",
-    "ip": "154.117.154.194",
+    "proxy": "http://196.216.133.17:9999",
+    "tested_at": "2026-02-15T08:30:14Z",
+    "ip": "196.216.133.17",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "North West",
+    "region_code": "NW",
+    "city": "Vryburg",
+    "latitude": -26.9584048,
+    "longitude": 24.7298615,
+    "is_eu": false,
+    "postal": "8601",
+    "connection": {
+      "asn": 328471,
+      "org": "HERO TELECOMS PTY LTD",
+      "isp": "HERO TELECOMS PTY LTD",
+      "domain": "herotel.com"
+    }
+  },
+  {
+    "proxy": "http://102.212.44.151:12354",
+    "tested_at": "2026-02-15T08:30:24Z",
+    "ip": "102.212.44.197",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,16 +39,16 @@
     "is_eu": false,
     "postal": "2001",
     "connection": {
-      "asn": 37358,
-      "org": "Assigned to Customer",
-      "isp": "BitCo",
-      "domain": "bitco.co.za"
+      "asn": 329243,
+      "org": "OM SN",
+      "isp": "One Mile Telecoms pty Ltd.",
+      "domain": "1mile.co.za"
     }
   },
   {
-    "proxy": "http://169.255.77.150:9999",
-    "tested_at": "2026-02-15T07:59:12Z",
-    "ip": "169.255.78.227",
+    "proxy": "http://102.219.170.116:8080",
+    "tested_at": "2026-02-15T08:30:27Z",
+    "ip": "102.219.170.116",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -33,44 +56,21 @@
     "country_code": "ZA",
     "region": "Western Cape",
     "region_code": "WC",
-    "city": "George",
-    "latitude": -33.9881281,
-    "longitude": 22.4529878,
+    "city": "Cape Town",
+    "latitude": -33.7854478,
+    "longitude": 18.7140639,
     "is_eu": false,
-    "postal": "6529",
+    "postal": "8001",
     "connection": {
-      "asn": 328471,
-      "org": "HERO TELECOMS PTY LTD",
-      "isp": "HERO TELECOMS PTY LTD",
-      "domain": "herotel.com"
+      "asn": 328480,
+      "org": "Too Much Wifi",
+      "isp": "Too Much Wifi",
+      "domain": "toomuchwifi.co.za"
     }
   },
   {
-    "proxy": "http://160.119.228.146:12354",
-    "tested_at": "2026-02-15T07:59:13Z",
-    "ip": "160.119.228.146",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Gauteng",
-    "region_code": "GT",
-    "city": "Randburg",
-    "latitude": -26.1438399,
-    "longitude": 27.9951862,
-    "is_eu": false,
-    "postal": "2194",
-    "connection": {
-      "asn": 328137,
-      "org": "Web Squad Connect",
-      "isp": "Web Squad Connect pty LTD",
-      "domain": "websquad.co.za"
-    }
-  },
-  {
-    "proxy": "http://102.218.40.77:8082",
-    "tested_at": "2026-02-15T07:59:27Z",
+    "proxy": "http://102.218.40.66:8082",
+    "tested_at": "2026-02-15T08:30:39Z",
     "ip": "102.218.40.66",
     "success": true,
     "type": "IPv4",
@@ -92,26 +92,49 @@
     }
   },
   {
-    "proxy": "http://169.239.85.121:8080",
-    "tested_at": "2026-02-15T07:59:39Z",
-    "ip": "169.239.85.121",
+    "proxy": "http://196.251.193.252:8083",
+    "tested_at": "2026-02-15T08:30:50Z",
+    "ip": "196.251.193.116",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "South Africa",
     "country_code": "ZA",
-    "region": "Gauteng",
-    "region_code": "GT",
-    "city": "Lethabong",
-    "latitude": -26.0880026,
-    "longitude": 28.1444516,
+    "region": "North West",
+    "region_code": "NW",
+    "city": "Brits",
+    "latitude": -25.6099895,
+    "longitude": 27.7959713,
     "is_eu": false,
-    "postal": "2065",
+    "postal": "0250",
     "connection": {
-      "asn": 327943,
-      "org": "Mezobyte Allocation 1",
-      "isp": "Mezobyte pty LTD",
-      "domain": "mezobyte.com"
+      "asn": 37403,
+      "org": "Infogro Dsl",
+      "isp": "Info gro pty LTD",
+      "domain": "infogro.net"
+    }
+  },
+  {
+    "proxy": "http://102.217.139.31:8180",
+    "tested_at": "2026-02-15T08:30:56Z",
+    "ip": "102.217.139.31",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "region": "Western Cape",
+    "region_code": "WC",
+    "city": "Cape Town",
+    "latitude": -34.1340882,
+    "longitude": 18.4187029,
+    "is_eu": false,
+    "postal": "7975",
+    "connection": {
+      "asn": 329181,
+      "org": "Bluedog Technology",
+      "isp": "Bluedog Technology",
+      "domain": "bluedogtech.co.za"
     }
   }
 ]

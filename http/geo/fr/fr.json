@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://37.187.109.70:10111",
-    "tested_at": "2026-02-15T07:58:47Z",
-    "ip": "37.187.109.70",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Hauts-de-France",
-    "region_code": "HDF",
-    "city": "Roubaix",
-    "latitude": 50.6927049,
-    "longitude": 3.177847,
-    "is_eu": true,
-    "postal": "59100",
-    "connection": {
-      "asn": 16276,
-      "org": "OVH SAS",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
-    }
-  },
-  {
-    "proxy": "http://173.212.246.157:3128",
-    "tested_at": "2026-02-15T07:58:50Z",
-    "ip": "173.212.246.157",
+    "proxy": "http://173.249.37.45:5005",
+    "tested_at": "2026-02-15T08:30:20Z",
+    "ip": "173.249.37.45",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -46,8 +23,31 @@
     }
   },
   {
+    "proxy": "http://141.253.112.177:3154",
+    "tested_at": "2026-02-15T08:30:24Z",
+    "ip": "141.145.192.80",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "is_eu": true,
+    "postal": "75007",
+    "connection": {
+      "asn": 31898,
+      "org": "Oracle Svenska Ab",
+      "isp": "Oracle Corporation",
+      "domain": "oracle.com"
+    }
+  },
+  {
     "proxy": "http://90.84.188.97:8000",
-    "tested_at": "2026-02-15T07:59:13Z",
+    "tested_at": "2026-02-15T08:30:45Z",
     "ip": "90.84.188.97",
     "success": true,
     "type": "IPv4",
@@ -69,9 +69,32 @@
     }
   },
   {
-    "proxy": "http://62.133.62.12:1081",
-    "tested_at": "2026-02-15T07:59:14Z",
-    "ip": "62.133.62.12",
+    "proxy": "http://173.212.246.157:3128",
+    "tested_at": "2026-02-15T08:30:56Z",
+    "ip": "173.212.246.157",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Grand Est",
+    "region_code": "GES",
+    "city": "Lauterbourg",
+    "latitude": 48.974797,
+    "longitude": 8.176773,
+    "is_eu": true,
+    "postal": "67630",
+    "connection": {
+      "asn": 51167,
+      "org": "Contabo GmbH",
+      "isp": "Contabo GmbH",
+      "domain": "contabo.de"
+    }
+  },
+  {
+    "proxy": "http://141.253.121.129:3211",
+    "tested_at": "2026-02-15T08:30:57Z",
+    "ip": "141.253.126.46",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -85,10 +108,10 @@
     "is_eu": true,
     "postal": "75007",
     "connection": {
-      "asn": 215540,
-      "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
-      "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
-      "domain": "gir.network"
+      "asn": 31898,
+      "org": "Oracle Svenska Ab",
+      "isp": "Oracle Corporation",
+      "domain": "oracle.com"
     }
   }
 ]

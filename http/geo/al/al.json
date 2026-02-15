@@ -1,23 +1,23 @@
 [
   {
-    "proxy": "http://79.106.33.26:8079",
-    "tested_at": "2026-02-15T07:59:29Z",
-    "ip": "79.106.33.26",
+    "proxy": "http://79.106.229.115:8989",
+    "tested_at": "2026-02-15T08:30:13Z",
+    "ip": "79.106.229.115",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Albania",
     "country_code": "AL",
-    "region": "Central Albania",
+    "region": "Southern Albania",
     "region_code": "",
-    "city": "Kashar",
-    "latitude": 41.3445243,
-    "longitude": 19.7234519,
+    "city": "Berat",
+    "latitude": 40.709678,
+    "longitude": 19.9391402,
     "is_eu": false,
-    "postal": "1051",
+    "postal": "5001",
     "connection": {
       "asn": 42313,
-      "org": "TEST 0",
+      "org": "TEST 1",
       "isp": "ONE ALBANIA SH.A.",
       "domain": "one.al"
     }

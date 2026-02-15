@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "https://47.243.181.85:41419",
+    "tested_at": "2026-02-15T08:30:25Z",
+    "ip": "2800:810:853:10c9:2c7:79ff:fe43:6a94",
+    "success": true,
+    "type": "IPv6",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "Merlo",
+    "latitude": -34.6685004,
+    "longitude": -58.7282483,
+    "is_eu": false,
+    "postal": "1722",
+    "connection": {
+      "asn": 27747,
+      "org": "Telecentro S.A",
+      "isp": "Telecentro S.A.",
+      "domain": ""
+    }
+  }
+]

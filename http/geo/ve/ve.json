@@ -1,53 +1,7 @@
 [
   {
-    "proxy": "http://190.94.232.42:999",
-    "tested_at": "2026-02-15T07:58:45Z",
-    "ip": "190.94.232.42",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Capital District",
-    "region_code": "A",
-    "city": "Caracas",
-    "latitude": 10.4805937,
-    "longitude": -66.9036063,
-    "is_eu": false,
-    "postal": "1012",
-    "connection": {
-      "asn": 8053,
-      "org": "Ifx Networks Venezuela C.A.",
-      "isp": "Ifx Networks Venezuela C.A.",
-      "domain": "ifxnw.com.ve"
-    }
-  },
-  {
-    "proxy": "http://38.224.32.186:999",
-    "tested_at": "2026-02-15T07:59:36Z",
-    "ip": "38.224.32.130",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Trujillo State",
-    "region_code": "T",
-    "city": "Boconó",
-    "latitude": 9.2534438,
-    "longitude": -70.2497616,
-    "is_eu": false,
-    "postal": "3103",
-    "connection": {
-      "asn": 273007,
-      "org": "Cogent Communications",
-      "isp": "SPEEDNET, C.A",
-      "domain": "fiven.com.ve"
-    }
-  },
-  {
-    "proxy": "http://190.8.164.29:8086",
-    "tested_at": "2026-02-15T07:59:39Z",
+    "proxy": "http://190.8.164.31:8086",
+    "tested_at": "2026-02-15T08:30:14Z",
     "ip": "190.8.164.26",
     "success": true,
     "type": "IPv4",
@@ -69,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://190.52.107.85:999",
-    "tested_at": "2026-02-15T07:59:41Z",
-    "ip": "190.52.107.86",
+    "proxy": "http://190.94.212.247:999",
+    "tested_at": "2026-02-15T08:30:35Z",
+    "ip": "190.94.212.247",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -85,39 +39,62 @@
     "is_eu": false,
     "postal": "1012",
     "connection": {
-      "asn": 394684,
-      "org": "Gold Data Inc.",
-      "isp": "GOLD DATA USA INC",
-      "domain": "gold-data.net"
+      "asn": 8053,
+      "org": "Ifx Networks Venezuela C.A.",
+      "isp": "Ifx Networks Venezuela C.A.",
+      "domain": "ifxnw.com.ve"
     }
   },
   {
-    "proxy": "http://38.172.160.160:999",
-    "tested_at": "2026-02-15T07:59:44Z",
-    "ip": "38.172.160.182",
+    "proxy": "http://72.10.160.170:19317",
+    "tested_at": "2026-02-15T08:30:52Z",
+    "ip": "143.105.147.253",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Venezuela",
     "country_code": "VE",
-    "region": "Lara State",
-    "region_code": "K",
-    "city": "Barquisimeto",
-    "latitude": 10.0677719,
-    "longitude": -69.3473509,
+    "region": "Capital District",
+    "region_code": "A",
+    "city": "Caracas",
+    "latitude": 10.4805937,
+    "longitude": -66.9036063,
     "is_eu": false,
-    "postal": "3001",
+    "postal": "1012",
     "connection": {
-      "asn": 270026,
-      "org": "Cogent Communications",
-      "isp": "RED SERVITEL, CA",
-      "domain": "servitel.net.ve"
+      "asn": 14593,
+      "org": "Starlink",
+      "isp": "Space Exploration Technologies Corporation",
+      "domain": "spacex.com"
     }
   },
   {
-    "proxy": "http://190.97.254.180:8080",
-    "tested_at": "2026-02-15T07:59:45Z",
-    "ip": "190.97.254.154",
+    "proxy": "http://190.120.255.167:999",
+    "tested_at": "2026-02-15T08:30:55Z",
+    "ip": "190.120.255.165",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Sucre State",
+    "region_code": "R",
+    "city": "Cumana",
+    "latitude": 10.431916,
+    "longitude": -64.183316,
+    "is_eu": false,
+    "postal": "6101",
+    "connection": {
+      "asn": 264628,
+      "org": "CORPORACION FIBEX TELECOM, C.A.",
+      "isp": "CORPORACION FIBEX TELECOM, C.A.",
+      "domain": "fibextelecom.net"
+    }
+  },
+  {
+    "proxy": "http://141.136.63.126:8080",
+    "tested_at": "2026-02-15T08:30:58Z",
+    "ip": "141.136.63.126",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -125,16 +102,62 @@
     "country_code": "VE",
     "region": "Tachira State",
     "region_code": "S",
-    "city": "San Cristobal",
-    "latitude": 7.7713572,
-    "longitude": -72.2261466,
+    "city": "La Grita",
+    "latitude": 8.1338118,
+    "longitude": -71.9786626,
     "is_eu": false,
-    "postal": "5001",
+    "postal": "5022",
     "connection": {
-      "asn": 263703,
-      "org": "VIGINET C.A",
-      "isp": "VIGINET C.A",
-      "domain": "viginet.com.ve"
+      "asn": 208888,
+      "org": "FRONTERA TV. C.A.",
+      "isp": "Four Mirror Advisors, S.L.",
+      "domain": "fronteratvoficial.com"
+    }
+  },
+  {
+    "proxy": "http://67.43.228.253:2427",
+    "tested_at": "2026-02-15T08:30:59Z",
+    "ip": "156.231.222.102",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Zulia State",
+    "region_code": "V",
+    "city": "Maracaibo",
+    "latitude": 10.6544509,
+    "longitude": -71.7147951,
+    "is_eu": false,
+    "postal": "4001",
+    "connection": {
+      "asn": 61461,
+      "org": "Corporacion Matrix TV C.A",
+      "isp": "Airtek Solutions C.A.",
+      "domain": "corporacionmatrixtv.com"
+    }
+  },
+  {
+    "proxy": "http://154.59.59.89:999",
+    "tested_at": "2026-02-15T08:31:01Z",
+    "ip": "154.59.59.106",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Zulia State",
+    "region_code": "V",
+    "city": "Maracaibo",
+    "latitude": 10.6544509,
+    "longitude": -71.7147951,
+    "is_eu": false,
+    "postal": "4001",
+    "connection": {
+      "asn": 264778,
+      "org": "Cogent Communications",
+      "isp": "Totalcom Venezuela C.A.",
+      "domain": "totalcom.tel"
     }
   }
 ]

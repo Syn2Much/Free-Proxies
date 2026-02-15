@@ -1,8 +1,54 @@
 [
   {
-    "proxy": "http://190.93.189.142:999",
-    "tested_at": "2026-02-15T07:59:25Z",
-    "ip": "190.93.189.139",
+    "proxy": "http://38.95.89.204:999",
+    "tested_at": "2026-02-15T08:30:26Z",
+    "ip": "38.95.89.202",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "San José de Ocoa",
+    "region_code": "31",
+    "city": "San Jose de Ocoa",
+    "latitude": 18.543858,
+    "longitude": -70.5041816,
+    "is_eu": false,
+    "postal": "93000",
+    "connection": {
+      "asn": 272112,
+      "org": "Cogent Communications",
+      "isp": "TELECABLE DOMINICANO, S.A.",
+      "domain": "telecabledominicano.com.do"
+    }
+  },
+  {
+    "proxy": "http://38.159.232.108:999",
+    "tested_at": "2026-02-15T08:30:31Z",
+    "ip": "24.152.49.187",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "La Vega",
+    "region_code": "13",
+    "city": "La Vega",
+    "latitude": 19.2152609,
+    "longitude": -70.5205436,
+    "is_eu": false,
+    "postal": "41000",
+    "connection": {
+      "asn": 269965,
+      "org": "LIGHTWAVE S.R.L",
+      "isp": "LIGHTWAVE S.R.L",
+      "domain": "lightwave.com.do"
+    }
+  },
+  {
+    "proxy": "http://190.93.191.20:999",
+    "tested_at": "2026-02-15T08:30:35Z",
+    "ip": "190.93.191.2",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -20,29 +66,6 @@
       "org": "JOSE DIGITAL MEDIA DOMINICANA SRL",
       "isp": "JOSE DIGITAL MEDIA DOMINICANA SRL",
       "domain": "jdimax.com"
-    }
-  },
-  {
-    "proxy": "http://38.123.48.50:999",
-    "tested_at": "2026-02-15T07:59:42Z",
-    "ip": "38.123.48.50",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Santo Domingo",
-    "region_code": "32",
-    "city": "Santo Domingo Este",
-    "latitude": 18.505583,
-    "longitude": -69.8001762,
-    "is_eu": false,
-    "postal": "11507",
-    "connection": {
-      "asn": 273224,
-      "org": "Cogent Communications",
-      "isp": "BRAVIC SRL",
-      "domain": "cismatechnology.com"
     }
   }
 ]

@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "https://51.38.191.151:443",
-    "tested_at": "2026-02-15T07:58:43Z",
-    "ip": "2001:41d0:305:2100::4801",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 16276,
-      "org": "OVH",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
-    }
-  },
-  {
     "proxy": "https://91.121.88.53:443",
-    "tested_at": "2026-02-15T07:59:03Z",
+    "tested_at": "2026-02-15T08:30:51Z",
     "ip": "2001:41d0:1:8d35::1",
     "success": true,
     "type": "IPv6",
@@ -47,7 +24,7 @@
   },
   {
     "proxy": "https://5.189.184.6:443",
-    "tested_at": "2026-02-15T07:59:34Z",
+    "tested_at": "2026-02-15T08:30:51Z",
     "ip": "5.189.184.6",
     "success": true,
     "type": "IPv4",
@@ -66,6 +43,29 @@
       "org": "Contabo GmbH",
       "isp": "Contabo GmbH",
       "domain": "contabo.de"
+    }
+  },
+  {
+    "proxy": "https://51.38.191.151:443",
+    "tested_at": "2026-02-15T08:30:53Z",
+    "ip": "2001:41d0:305:2100::4801",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "is_eu": true,
+    "postal": "75007",
+    "connection": {
+      "asn": 16276,
+      "org": "OVH",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
     }
   }
 ]

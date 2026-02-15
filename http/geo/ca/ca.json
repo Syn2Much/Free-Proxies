@@ -1,53 +1,7 @@
 [
   {
-    "proxy": "http://85.208.108.43:2094",
-    "tested_at": "2026-02-15T07:27:30Z",
-    "ip": "85.208.108.43",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 53363,
-      "org": "Worktitans B.V.",
-      "isp": "TANGRAM CANADA INC.",
-      "domain": "the.hosting"
-    }
-  },
-  {
-    "proxy": "http://143.198.37.6:8888",
-    "tested_at": "2026-02-15T07:27:59Z",
-    "ip": "178.249.214.14",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 212238,
-      "org": "CDNEXT TOR",
-      "isp": "Datacamp Limited",
-      "domain": "datacamp.co.uk"
-    }
-  },
-  {
     "proxy": "http://85.208.108.43:10808",
-    "tested_at": "2026-02-15T07:28:12Z",
+    "tested_at": "2026-02-15T08:30:10Z",
     "ip": "85.208.108.43",
     "success": true,
     "type": "IPv4",
@@ -66,6 +20,75 @@
       "org": "Worktitans B.V.",
       "isp": "TANGRAM CANADA INC.",
       "domain": "the.hosting"
+    }
+  },
+  {
+    "proxy": "http://66.70.235.23:5454",
+    "tested_at": "2026-02-15T08:30:18Z",
+    "ip": "66.70.235.23",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Ottawa",
+    "latitude": 45.4215296,
+    "longitude": -75.6971931,
+    "is_eu": false,
+    "postal": "K1P 1J1",
+    "connection": {
+      "asn": 16276,
+      "org": "OVH NWK",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
+    }
+  },
+  {
+    "proxy": "http://85.208.108.43:2094",
+    "tested_at": "2026-02-15T08:30:20Z",
+    "ip": "85.208.108.43",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
+    "is_eu": false,
+    "postal": "M5H 2N2",
+    "connection": {
+      "asn": 53363,
+      "org": "Worktitans B.V.",
+      "isp": "TANGRAM CANADA INC.",
+      "domain": "the.hosting"
+    }
+  },
+  {
+    "proxy": "http://85.236.191.180:1080",
+    "tested_at": "2026-02-15T08:30:31Z",
+    "ip": "146.19.106.154",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
+    "is_eu": false,
+    "postal": "M5H 2N2",
+    "connection": {
+      "asn": 53363,
+      "org": "Worktitans B.V.",
+      "isp": "TANGRAM CANADA INC.",
+      "domain": "dgtl.tech"
     }
   }
 ]

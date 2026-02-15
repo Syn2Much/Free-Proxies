@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://150.230.104.3:16728",
-    "tested_at": "2026-02-15T07:58:44Z",
-    "ip": "150.230.104.3",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Chiba Prefecture",
-    "region_code": "12",
-    "city": "Inzai",
-    "latitude": 35.8323485,
-    "longitude": 140.1458154,
-    "is_eu": false,
-    "postal": "270-1327",
-    "connection": {
-      "asn": 31898,
-      "org": "Oracle Corporation",
-      "isp": "Oracle Corporation",
-      "domain": "oracle.com"
-    }
-  },
-  {
     "proxy": "http://94.177.131.12:3128",
-    "tested_at": "2026-02-15T07:58:44Z",
+    "tested_at": "2026-02-15T08:30:11Z",
     "ip": "94.177.131.12",
     "success": true,
     "type": "IPv4",
@@ -46,31 +23,54 @@
     }
   },
   {
-    "proxy": "http://67.43.236.20:15821",
-    "tested_at": "2026-02-15T07:58:55Z",
-    "ip": "133.106.32.182",
+    "proxy": "http://150.230.104.3:16728",
+    "tested_at": "2026-02-15T08:30:11Z",
+    "ip": "150.230.104.3",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Japan",
     "country_code": "JP",
-    "region": "Saitama Prefecture",
-    "region_code": "11",
-    "city": "Soka",
-    "latitude": 35.8253547,
-    "longitude": 139.8054022,
+    "region": "Chiba Prefecture",
+    "region_code": "12",
+    "city": "Inzai",
+    "latitude": 35.8323485,
+    "longitude": 140.1458154,
     "is_eu": false,
-    "postal": "340-0015",
+    "postal": "270-1327",
     "connection": {
-      "asn": 138384,
-      "org": "Rakuten Mobile, Inc.",
-      "isp": "Rakuten Mobile, Inc.",
-      "domain": "rakuten.co.jp"
+      "asn": 31898,
+      "org": "Oracle Corporation",
+      "isp": "Oracle Corporation",
+      "domain": "oracle.com"
+    }
+  },
+  {
+    "proxy": "http://20.78.213.56:80",
+    "tested_at": "2026-02-15T08:30:21Z",
+    "ip": "20.78.213.56",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
+    "is_eu": false,
+    "postal": "100-0002",
+    "connection": {
+      "asn": 8075,
+      "org": "Microsoft Corporation",
+      "isp": "Microsoft Corporation",
+      "domain": "microsoft.com"
     }
   },
   {
     "proxy": "http://8.209.255.13:3128",
-    "tested_at": "2026-02-15T07:59:04Z",
+    "tested_at": "2026-02-15T08:30:44Z",
     "ip": "8.209.255.13",
     "success": true,
     "type": "IPv4",
@@ -92,9 +92,9 @@
     }
   },
   {
-    "proxy": "http://47.79.94.78:1122",
-    "tested_at": "2026-02-15T07:59:27Z",
-    "ip": "47.79.94.78",
+    "proxy": "http://150.249.255.91:3128",
+    "tested_at": "2026-02-15T08:31:01Z",
+    "ip": "150.249.255.91",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -108,10 +108,10 @@
     "is_eu": false,
     "postal": "100-0002",
     "connection": {
-      "asn": 45102,
-      "org": "Alibaba Cloud LLC",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibaba-inc.com"
+      "asn": 2527,
+      "org": "So net Service",
+      "isp": "Sony Network Communications Inc.",
+      "domain": "sonynetwork.co.jp"
     }
   }
 ]
