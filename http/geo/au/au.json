@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://72.10.164.178:24817",
-    "tested_at": "2026-02-14T23:38:32Z",
-    "ip": "36.255.112.140",
+    "proxy": "http://72.10.160.170:22153",
+    "tested_at": "2026-02-15T00:40:35Z",
+    "ip": "122.151.22.217",
     "success": true,
     "type": "IPv4",
     "continent": "Oceania",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "2000",
     "connection": {
-      "asn": 38195,
-      "org": "Exetel Pty LTD",
-      "isp": "SUPERLOOP AUSTRALIA PTY LTD",
-      "domain": "superloop.com"
+      "asn": 9443,
+      "org": "Vocus Australia",
+      "isp": "VOCUS PTY LTD",
+      "domain": "vocus.com.au"
     }
   }
 ]

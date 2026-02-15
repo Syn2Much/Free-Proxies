@@ -1,8 +1,31 @@
 [
   {
     "proxy": "http://72.10.160.92:2969",
-    "tested_at": "2026-02-15T00:10:08Z",
+    "tested_at": "2026-02-15T00:41:15Z",
     "ip": "190.62.88.172",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "El Salvador",
+    "country_code": "SV",
+    "region": "Departamento de San Salvador",
+    "region_code": "SS",
+    "city": "San Salvador",
+    "latitude": 13.6929403,
+    "longitude": -89.2181911,
+    "is_eu": false,
+    "postal": "3218",
+    "connection": {
+      "asn": 14754,
+      "org": "Cte S.A. De C.V.",
+      "isp": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+      "domain": "claro.com.sv"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:20917",
+    "tested_at": "2026-02-15T00:41:16Z",
+    "ip": "190.87.165.9",
     "success": true,
     "type": "IPv4",
     "continent": "North America",

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://45.189.117.52:999",
-    "tested_at": "2026-02-15T00:09:27Z",
-    "ip": "45.189.117.53",
+    "proxy": "http://67.43.228.253:12093",
+    "tested_at": "2026-02-15T00:40:44Z",
+    "ip": "38.25.22.33",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -16,52 +16,6 @@
     "is_eu": false,
     "postal": "15081",
     "connection": {
-      "asn": 273133,
-      "org": "CONEX TV E.I.R.L.",
-      "isp": "CONEX TV E.I.R.L.",
-      "domain": "fiberdigital.pe"
-    }
-  },
-  {
-    "proxy": "http://200.107.142.36:3128",
-    "tested_at": "2026-02-15T00:09:28Z",
-    "ip": "200.107.142.38",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Cajamarca",
-    "region_code": "CAJ",
-    "city": "San Ignacio",
-    "latitude": -5.146268,
-    "longitude": -79.0023523,
-    "is_eu": false,
-    "postal": "3322",
-    "connection": {
-      "asn": 6147,
-      "org": "TELEFONICA DEL PERU SAA",
-      "isp": "INTEGRATEL PER S.A.A.",
-      "domain": "telefonica.com.pe"
-    }
-  },
-  {
-    "proxy": "http://67.43.236.20:18085",
-    "tested_at": "2026-02-15T00:09:37Z",
-    "ip": "38.253.159.36",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Lima",
-    "region_code": "LIM",
-    "city": "San Isidro",
-    "latitude": -12.0971829,
-    "longitude": -77.032585,
-    "is_eu": false,
-    "postal": "15073",
-    "connection": {
       "asn": 265691,
       "org": "Cogent Communications",
       "isp": "WI NET TELECOM S.A.C.",
@@ -69,31 +23,31 @@
     }
   },
   {
-    "proxy": "http://200.121.48.195:999",
-    "tested_at": "2026-02-15T00:09:53Z",
-    "ip": "200.121.48.195",
+    "proxy": "http://200.48.35.124:999",
+    "tested_at": "2026-02-15T00:40:47Z",
+    "ip": "200.10.68.234",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Peru",
     "country_code": "PE",
-    "region": "Tacna",
-    "region_code": "TAC",
-    "city": "Tacna",
-    "latitude": -17.9950587,
-    "longitude": -70.2478474,
+    "region": "Junin",
+    "region_code": "JUN",
+    "city": "Tarma",
+    "latitude": -11.4193347,
+    "longitude": -75.6889493,
     "is_eu": false,
-    "postal": "23001",
+    "postal": "",
     "connection": {
       "asn": 6147,
-      "org": "PE TDPERX LACNIC",
+      "org": "INTEGRATEL PER S.A.A.",
       "isp": "INTEGRATEL PER S.A.A.",
-      "domain": "tdp.net.pe"
+      "domain": "telefonica.com.pe"
     }
   },
   {
-    "proxy": "http://200.48.35.123:999",
-    "tested_at": "2026-02-15T00:10:04Z",
+    "proxy": "http://200.48.35.125:999",
+    "tested_at": "2026-02-15T00:40:47Z",
     "ip": "200.10.68.234",
     "success": true,
     "type": "IPv4",
@@ -116,7 +70,7 @@
   },
   {
     "proxy": "http://67.43.228.250:12245",
-    "tested_at": "2026-02-15T00:10:09Z",
+    "tested_at": "2026-02-15T00:41:17Z",
     "ip": "38.25.53.50",
     "success": true,
     "type": "IPv4",
@@ -138,9 +92,9 @@
     }
   },
   {
-    "proxy": "http://38.172.128.172:8889",
-    "tested_at": "2026-02-15T00:10:12Z",
-    "ip": "38.172.128.174",
+    "proxy": "http://72.10.164.178:23441",
+    "tested_at": "2026-02-15T00:41:27Z",
+    "ip": "190.233.209.193",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -154,10 +108,33 @@
     "is_eu": false,
     "postal": "15081",
     "connection": {
-      "asn": 273133,
-      "org": "Cogent Communications",
-      "isp": "CONEX TV E.I.R.L.",
-      "domain": "conextv.pe"
+      "asn": 6147,
+      "org": "PE TDPERX LACNIC",
+      "isp": "INTEGRATEL PER S.A.A.",
+      "domain": "tdp.net.pe"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.90:33087",
+    "tested_at": "2026-02-15T00:41:27Z",
+    "ip": "179.6.13.191",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Lima",
+    "region_code": "LIM",
+    "city": "Breña",
+    "latitude": -12.0584783,
+    "longitude": -77.0506617,
+    "is_eu": false,
+    "postal": "15083",
+    "connection": {
+      "asn": 12252,
+      "org": "America Movil Peru S.A.C.",
+      "isp": "America Movil Peru S.A.C.",
+      "domain": "claro.com.pe"
     }
   }
 ]

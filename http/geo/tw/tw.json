@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://61.216.156.222:60808",
-    "tested_at": "2026-02-15T00:09:56Z",
-    "ip": "61.216.156.222",
+    "proxy": "http://72.10.164.178:5207",
+    "tested_at": "2026-02-15T00:41:26Z",
+    "ip": "27.247.129.176",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,33 +16,10 @@
     "is_eu": false,
     "postal": "22055",
     "connection": {
-      "asn": 3462,
-      "org": "Data Communication Business Group,",
-      "isp": "Chunghwa Telecom Co., Ltd.",
-      "domain": "hinet.net"
-    }
-  },
-  {
-    "proxy": "http://44.30.18.32:8080",
-    "tested_at": "2026-02-15T00:10:03Z",
-    "ip": "44.30.18.32",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Taiwan",
-    "country_code": "TW",
-    "region": "New Taipei City",
-    "region_code": "",
-    "city": "Zhitan 5th Street",
-    "latitude": 24.941202,
-    "longitude": 121.534131,
-    "is_eu": false,
-    "postal": "231",
-    "connection": {
-      "asn": 207468,
-      "org": "Amateur Radio Digital Communications",
-      "isp": "Li Heng Yu",
-      "domain": "ardc.net"
+      "asn": 9674,
+      "org": "Far Eastone Telecommunication Co., Ltd.",
+      "isp": "Far Easttone Telecommunication Co., Ltd.",
+      "domain": "fareastone.com.tw"
     }
   }
 ]

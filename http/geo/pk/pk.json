@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://103.255.66.109:8080",
-    "tested_at": "2026-02-15T00:09:42Z",
-    "ip": "203.215.174.107",
+    "proxy": "http://72.10.160.90:12213",
+    "tested_at": "2026-02-15T00:40:35Z",
+    "ip": "203.175.72.5",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,33 +16,33 @@
     "is_eu": false,
     "postal": "46000",
     "connection": {
-      "asn": 150683,
-      "org": "Pakistan Software Export Board",
-      "isp": "FASTTEL BROADBAND PRIVATE LIMITED",
-      "domain": "pseb.org.pk"
+      "asn": 23674,
+      "org": "Naya Tel pvt. Limited",
+      "isp": "Naya Tel pvt. Limited",
+      "domain": "nayatel.com"
     }
   },
   {
-    "proxy": "http://103.155.62.141:8081",
-    "tested_at": "2026-02-15T00:09:53Z",
-    "ip": "103.155.62.141",
+    "proxy": "http://115.42.67.186:8080",
+    "tested_at": "2026-02-15T00:41:08Z",
+    "ip": "115.42.67.186",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Pakistan",
     "country_code": "PK",
-    "region": "Punjab",
-    "region_code": "PB",
-    "city": "Lahore",
-    "latitude": 31.5546061,
-    "longitude": 74.3571581,
+    "region": "Balochistan",
+    "region_code": "BA",
+    "city": "Gaddani",
+    "latitude": 25.0861084,
+    "longitude": 66.7307796,
     "is_eu": false,
-    "postal": "54000",
+    "postal": "90300",
     "connection": {
-      "asn": 152605,
-      "org": "Hometelecom Pvt LTD",
-      "isp": "Z COM NETWORKS",
-      "domain": "hometel.pk"
+      "asn": 132165,
+      "org": "Connect Communication",
+      "isp": "Connect Communication",
+      "domain": "connect.net.pk"
     }
   }
 ]

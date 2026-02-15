@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "https://47.243.181.85:41714",
-    "tested_at": "2026-02-15T00:09:39Z",
-    "ip": "115.64.164.83",
+    "proxy": "https://103.62.50.130:443",
+    "tested_at": "2026-02-15T00:40:54Z",
+    "ip": "103.62.50.136",
     "success": true,
     "type": "IPv4",
     "continent": "Oceania",
     "country": "Australia",
     "country_code": "AU",
-    "region": "District of Canberra Central",
-    "region_code": "",
-    "city": "Canberra",
-    "latitude": -35.2809368,
-    "longitude": 149.1300092,
+    "region": "Queensland",
+    "region_code": "QLD",
+    "city": "Brisbane",
+    "latitude": -27.4697707,
+    "longitude": 153.0251235,
     "is_eu": false,
-    "postal": "2600",
+    "postal": "4004",
     "connection": {
-      "asn": 7545,
-      "org": "Tpg Internet Pty LTD",
-      "isp": "Tpg Internet Pty LTD",
-      "domain": "tpg.com.au"
+      "asn": 137409,
+      "org": "Streamline Servers LTD Brisbane",
+      "isp": "Gsl Networks Pty LTD",
+      "domain": "streamline-servers.com"
+    }
+  },
+  {
+    "proxy": "https://103.62.50.130:9443",
+    "tested_at": "2026-02-15T00:41:25Z",
+    "ip": "103.62.50.136",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Oceania",
+    "country": "Australia",
+    "country_code": "AU",
+    "region": "Queensland",
+    "region_code": "QLD",
+    "city": "Brisbane",
+    "latitude": -27.4697707,
+    "longitude": 153.0251235,
+    "is_eu": false,
+    "postal": "4004",
+    "connection": {
+      "asn": 137409,
+      "org": "Streamline Servers LTD Brisbane",
+      "isp": "Gsl Networks Pty LTD",
+      "domain": "streamline-servers.com"
     }
   }
 ]

@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://67.43.228.254:20825",
+    "tested_at": "2026-02-15T00:41:02Z",
+    "ip": "180.94.88.29",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Afghanistan",
+    "country_code": "AF",
+    "region": "Kabul Province",
+    "region_code": "KAB",
+    "city": "Kabul",
+    "latitude": 34.5553494,
+    "longitude": 69.207486,
+    "is_eu": false,
+    "postal": "5010",
+    "connection": {
+      "asn": 55330,
+      "org": "Government Communications Network",
+      "isp": "Government Communications Network",
+      "domain": "afghantelecom.af"
+    }
+  }
+]

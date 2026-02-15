@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://72.10.164.178:4895",
-    "tested_at": "2026-02-13T23:12:11Z",
-    "ip": "46.184.188.246",
+    "proxy": "http://67.43.236.20:11505",
+    "tested_at": "2026-02-15T00:40:34Z",
+    "ip": "88.201.18.14",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "309",
     "connection": {
-      "asn": 51375,
-      "org": "Broadband",
-      "isp": "STC BAHRAIN B.S.C CLOSED",
-      "domain": "stc.com.bh"
+      "asn": 5416,
+      "org": "BEYON B.S.C.",
+      "isp": "BEYON B.S.C.",
+      "domain": "btc.com.bh"
     }
   }
 ]

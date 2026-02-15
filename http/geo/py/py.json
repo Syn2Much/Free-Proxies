@@ -1,94 +1,25 @@
 [
   {
-    "proxy": "http://181.78.95.98:999",
-    "tested_at": "2026-02-15T00:09:28Z",
-    "ip": "181.78.95.98",
+    "proxy": "http://45.177.16.132:999",
+    "tested_at": "2026-02-15T00:41:08Z",
+    "ip": "45.177.16.254",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Paraguay",
     "country_code": "PY",
-    "region": "Paraguarí",
-    "region_code": "9",
-    "city": "Sapucai",
-    "latitude": -25.6616409,
-    "longitude": -56.9604942,
+    "region": "Alto Paraná",
+    "region_code": "10",
+    "city": "Ciudad del Este",
+    "latitude": -25.5085286,
+    "longitude": -54.6753231,
     "is_eu": false,
-    "postal": "",
+    "postal": "7000",
     "connection": {
-      "asn": 52468,
-      "org": "UFINET PARAGUAY S.A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://37.230.58.20:999",
-    "tested_at": "2026-02-15T00:09:29Z",
-    "ip": "138.59.227.88",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Paraguay",
-    "country_code": "PY",
-    "region": "Concepción",
-    "region_code": "1",
-    "city": "Concepción",
-    "latitude": -23.4214264,
-    "longitude": -57.4344451,
-    "is_eu": false,
-    "postal": "8100",
-    "connection": {
-      "asn": 270052,
-      "org": "STARTELECOM S.A.",
-      "isp": "STARTELECOM S.A.",
-      "domain": "startpy.com.py"
-    }
-  },
-  {
-    "proxy": "http://181.78.27.38:999",
-    "tested_at": "2026-02-15T00:10:09Z",
-    "ip": "181.78.27.38",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Paraguay",
-    "country_code": "PY",
-    "region": "Distrito Capital de Paraguay",
-    "region_code": "",
-    "city": "Asuncion",
-    "latitude": -25.2637399,
-    "longitude": -57.575926,
-    "is_eu": false,
-    "postal": "1226",
-    "connection": {
-      "asn": 52468,
-      "org": "UFINET PARAGUAY S.A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://181.78.27.35:999",
-    "tested_at": "2026-02-15T00:10:16Z",
-    "ip": "181.78.27.33",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Paraguay",
-    "country_code": "PY",
-    "region": "San Pedro",
-    "region_code": "2",
-    "city": "Tacuati",
-    "latitude": -23.4595396,
-    "longitude": -56.7383988,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 52468,
-      "org": "UFINET PARAGUAY S.A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
+      "asn": 267885,
+      "org": "Cross Connect Paraguay S.A.",
+      "isp": "MSW S.A.",
+      "domain": "cross.net.py"
     }
   }
 ]

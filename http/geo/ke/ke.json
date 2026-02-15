@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://102.211.216.18:8080",
-    "tested_at": "2026-02-15T00:09:42Z",
-    "ip": "102.211.216.18",
+    "proxy": "http://102.0.11.176:8080",
+    "tested_at": "2026-02-15T00:40:50Z",
+    "ip": "102.0.11.176",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -10,45 +10,22 @@
     "country_code": "KE",
     "region": "Kiambu",
     "region_code": "13",
-    "city": "Juja",
-    "latitude": -1.1018224,
-    "longitude": 37.0144027,
+    "city": "Ruiru",
+    "latitude": -1.1457029,
+    "longitude": 36.9648534,
     "is_eu": false,
-    "postal": "",
+    "postal": "01001",
     "connection": {
-      "asn": 37129,
-      "org": "Rasmilink",
-      "isp": "Rasmilink",
-      "domain": "rasmilink.co.ke"
+      "asn": 327708,
+      "org": "Allocated to Airtel Kenya Mobile Broadband And Fixed Internet",
+      "isp": "Airtel Rwanda LTD",
+      "domain": "airtel.com"
     }
   },
   {
-    "proxy": "http://102.207.191.68:8080",
-    "tested_at": "2026-02-15T00:09:42Z",
-    "ip": "102.207.191.68",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Kitui",
-    "region_code": "18",
-    "city": "Mwingi",
-    "latitude": -0.937411,
-    "longitude": 38.0605006,
-    "is_eu": false,
-    "postal": "90400",
-    "connection": {
-      "asn": 329497,
-      "org": "Customer Assignment Public Ipv Addresses for Subscriber customer Devices.",
-      "isp": "Avitech Solutions LTD",
-      "domain": "avitechsolutionsltd.com"
-    }
-  },
-  {
-    "proxy": "http://41.89.225.225:3128",
-    "tested_at": "2026-02-15T00:09:48Z",
-    "ip": "41.89.225.225",
+    "proxy": "http://72.10.160.91:29943",
+    "tested_at": "2026-02-15T00:41:06Z",
+    "ip": "102.0.26.60",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -62,10 +39,10 @@
     "is_eu": false,
     "postal": "200",
     "connection": {
-      "asn": 36914,
-      "org": "Kenya Methodist University Meru Campus",
-      "isp": "Kenya Education Network",
-      "domain": "kenet.or.ke"
+      "asn": 327708,
+      "org": "Allocated to Airtel Kenya Mobile Broadband And Fixed Internet",
+      "isp": "Airtel Rwanda LTD",
+      "domain": "airtel.com"
     }
   }
 ]

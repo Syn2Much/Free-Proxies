@@ -1,99 +1,7 @@
 [
   {
-    "proxy": "https://47.243.181.85:41804",
-    "tested_at": "2026-02-15T00:09:28Z",
-    "ip": "187.19.86.86",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of São Paulo",
-    "region_code": "SP",
-    "city": "Limeira",
-    "latitude": -22.5713452,
-    "longitude": -47.3997825,
-    "is_eu": false,
-    "postal": "13480-760",
-    "connection": {
-      "asn": 28667,
-      "org": "VERO S.A",
-      "isp": "VERO S.A",
-      "domain": "querovero.com.br"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41797",
-    "tested_at": "2026-02-15T00:09:32Z",
-    "ip": "45.237.32.15",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of Minas Gerais",
-    "region_code": "MG",
-    "city": "Moisés Sena",
-    "latitude": -16.9833329,
-    "longitude": -41.983333,
-    "is_eu": false,
-    "postal": "39600-000",
-    "connection": {
-      "asn": 268310,
-      "org": "IBNET TELECOM LTDA",
-      "isp": "IBNET TELECOM LTDA",
-      "domain": "ibnetfibra.com.br"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41803",
-    "tested_at": "2026-02-15T00:09:38Z",
-    "ip": "177.138.156.28",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of São Paulo",
-    "region_code": "SP",
-    "city": "São Paulo",
-    "latitude": -23.5505199,
-    "longitude": -46.6333094,
-    "is_eu": false,
-    "postal": "01005-000",
-    "connection": {
-      "asn": 27699,
-      "org": "TELEF NICA BRASIL S.A",
-      "isp": "TELEF NICA BRASIL S.A",
-      "domain": "telefonica.com.br"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41795",
-    "tested_at": "2026-02-15T00:09:50Z",
-    "ip": "2804:42b8:c081:a0ff:9d6:456a:b11f:5de8",
-    "success": true,
-    "type": "IPv6",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of Minas Gerais",
-    "region_code": "MG",
-    "city": "Coronel Fabriciano",
-    "latitude": -19.5190218,
-    "longitude": -42.6282537,
-    "is_eu": false,
-    "postal": "35170-019",
-    "connection": {
-      "asn": 267521,
-      "org": "ULTRANET NETWORK",
-      "isp": "ULTRANET NETWORK",
-      "domain": "ultranet.psi.br"
-    }
-  },
-  {
     "proxy": "https://134.65.238.25:3128",
-    "tested_at": "2026-02-15T00:09:59Z",
+    "tested_at": "2026-02-15T00:40:35Z",
     "ip": "134.65.238.25",
     "success": true,
     "type": "IPv4",
@@ -115,9 +23,32 @@
     }
   },
   {
-    "proxy": "https://47.243.181.85:41799",
-    "tested_at": "2026-02-15T00:09:59Z",
-    "ip": "201.80.3.143",
+    "proxy": "https://47.243.181.85:41804",
+    "tested_at": "2026-02-15T00:40:57Z",
+    "ip": "189.46.23.71",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of São Paulo",
+    "region_code": "SP",
+    "city": "Campinas",
+    "latitude": -22.9099384,
+    "longitude": -47.0626332,
+    "is_eu": false,
+    "postal": "13010-151",
+    "connection": {
+      "asn": 27699,
+      "org": "TELEF NICA BRASIL S.A",
+      "isp": "TELEF NICA BRASIL S.A",
+      "domain": "telefonica.com.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41795",
+    "tested_at": "2026-02-15T00:41:11Z",
+    "ip": "45.162.99.215",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -125,16 +56,62 @@
     "country_code": "BR",
     "region": "State of Minas Gerais",
     "region_code": "MG",
-    "city": "Belo Horizonte",
-    "latitude": -19.9166813,
-    "longitude": -43.9344931,
+    "city": "Planura",
+    "latitude": -20.1382968,
+    "longitude": -48.7008434,
     "is_eu": false,
-    "postal": "30170-080",
+    "postal": "38220-000",
     "connection": {
-      "asn": 28573,
-      "org": "Claro Nxt Telecomunicacoes LTDA",
-      "isp": "Claro Nxt Telecomunicacoes LTDA",
-      "domain": "claro.com.br"
+      "asn": 268506,
+      "org": "LEON TELECOM LTDA",
+      "isp": "LEON TELECOM LTDA",
+      "domain": "grupoleon.com.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41803",
+    "tested_at": "2026-02-15T00:41:17Z",
+    "ip": "190.89.78.199",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of Bahia",
+    "region_code": "BA",
+    "city": "Santa Cruz Cabrália",
+    "latitude": -16.2835098,
+    "longitude": -39.0377358,
+    "is_eu": false,
+    "postal": "45807-000",
+    "connection": {
+      "asn": 270359,
+      "org": "Ixnet Fibra",
+      "isp": "Ixnet Fibra",
+      "domain": "ixnet.com.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41797",
+    "tested_at": "2026-02-15T00:41:19Z",
+    "ip": "177.221.218.152",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "Mato Grosso",
+    "region_code": "MT",
+    "city": "Alta Floresta",
+    "latitude": -9.8672231,
+    "longitude": -56.0870033,
+    "is_eu": false,
+    "postal": "78580-000",
+    "connection": {
+      "asn": 52682,
+      "org": "AVATO TECNOLOGIA S.A",
+      "isp": "AVATO TECNOLOGIA S.A",
+      "domain": "w3nt.com"
     }
   }
 ]

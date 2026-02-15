@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://80.91.116.129:8081",
-    "tested_at": "2026-02-15T00:09:35Z",
-    "ip": "77.242.21.186",
+    "proxy": "http://79.106.165.246:8989",
+    "tested_at": "2026-02-15T00:40:56Z",
+    "ip": "79.106.165.246",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Albania",
+    "country_code": "AL",
+    "region": "Southern Albania",
+    "region_code": "",
+    "city": "Korçë",
+    "latitude": 40.6140785,
+    "longitude": 20.7778071,
+    "is_eu": false,
+    "postal": "7001",
+    "connection": {
+      "asn": 42313,
+      "org": "TEST",
+      "isp": "ONE ALBANIA SH.A.",
+      "domain": "one.al"
+    }
+  },
+  {
+    "proxy": "http://79.106.33.26:8079",
+    "tested_at": "2026-02-15T00:40:57Z",
+    "ip": "79.106.33.26",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,16 +33,16 @@
     "country_code": "AL",
     "region": "Central Albania",
     "region_code": "",
-    "city": "Kamëz",
-    "latitude": 41.3783926,
-    "longitude": 19.7770261,
+    "city": "Kashar",
+    "latitude": 41.3445243,
+    "longitude": 19.7234519,
     "is_eu": false,
-    "postal": "1030",
+    "postal": "1051",
     "connection": {
-      "asn": 35047,
-      "org": "Business Static Pool",
-      "isp": "Abissnet SH.A.",
-      "domain": "abissnet.al"
+      "asn": 42313,
+      "org": "TEST 0",
+      "isp": "ONE ALBANIA SH.A.",
+      "domain": "one.al"
     }
   }
 ]

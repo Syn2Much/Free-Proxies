@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://41.59.115.217:80",
-    "tested_at": "2026-02-15T00:09:29Z",
-    "ip": "41.59.115.217",
+    "proxy": "http://154.0.153.10:8080",
+    "tested_at": "2026-02-15T00:41:32Z",
+    "ip": "154.0.153.10",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Tanzania",
     "country_code": "TZ",
-    "region": "Coastal Zone",
-    "region_code": "",
-    "city": "Dar es Salaam",
-    "latitude": -6.792354,
-    "longitude": 39.2083284,
+    "region": "Mwanza",
+    "region_code": "18",
+    "city": "Mwanza",
+    "latitude": -2.5164305,
+    "longitude": 32.9174517,
     "is_eu": false,
-    "postal": "11101",
+    "postal": "33214",
     "connection": {
-      "asn": 33765,
-      "org": "Broadband Subscribers in Tanzania Republic",
-      "isp": "TANZANIA TELECOMMUNICATIONS CO. LTD",
-      "domain": "ttcldata.net"
+      "asn": 36909,
+      "org": "Habari Node Public Limited",
+      "isp": "Habari Node Public Limited",
+      "domain": "habari.co.tz"
     }
   }
 ]

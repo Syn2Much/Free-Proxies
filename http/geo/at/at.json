@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://115.136.121.54:3128",
-    "tested_at": "2026-02-14T23:38:36Z",
-    "ip": "109.70.100.12",
+    "proxy": "http://205.147.201.77:8080",
+    "tested_at": "2026-02-15T00:40:59Z",
+    "ip": "205.147.201.77",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Austria",
     "country_code": "AT",
-    "region": "Vienna",
-    "region_code": "9",
-    "city": "Vienna",
-    "latitude": 48.2081743,
-    "longitude": 16.3738189,
+    "region": "Lower Austria",
+    "region_code": "3",
+    "city": "Langenzersdorf",
+    "latitude": 48.3041049,
+    "longitude": 16.3608632,
     "is_eu": true,
-    "postal": "1010",
+    "postal": "2103",
     "connection": {
-      "asn": 208323,
-      "org": "Foundation for Applied Privacy",
-      "isp": "Foundation for Applied Privacy",
-      "domain": "appliedprivacy.net"
+      "asn": 40994,
+      "org": "Alwyzon, A Trading Name of Hohl IT E.U.",
+      "isp": "Hohl IT E.U.",
+      "domain": "alwyzon.net"
     }
   }
 ]

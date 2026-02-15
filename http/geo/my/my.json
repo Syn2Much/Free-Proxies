@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://72.10.160.172:7447",
+    "tested_at": "2026-02-15T00:40:55Z",
+    "ip": "115.132.75.167",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "region": "Johor",
+    "region_code": "01",
+    "city": "Johor Bahru",
+    "latitude": 1.492659,
+    "longitude": 103.7413591,
+    "is_eu": false,
+    "postal": "80350",
+    "connection": {
+      "asn": 4788,
+      "org": "TMNST",
+      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+      "domain": "tm.com.my"
+    }
+  },
+  {
     "proxy": "http://72.10.160.90:8883",
-    "tested_at": "2026-02-15T00:09:37Z",
+    "tested_at": "2026-02-15T00:40:55Z",
     "ip": "175.138.132.44",
     "success": true,
     "type": "IPv4",
@@ -23,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://113.23.200.85:8081",
-    "tested_at": "2026-02-15T00:09:40Z",
-    "ip": "113.23.200.84",
+    "proxy": "http://67.43.228.251:5459",
+    "tested_at": "2026-02-15T00:41:15Z",
+    "ip": "113.211.215.153",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -33,21 +56,21 @@
     "country_code": "MY",
     "region": "Selangor",
     "region_code": "10",
-    "city": "Cyberjaya",
-    "latitude": 2.921318,
-    "longitude": 101.6559349,
+    "city": "Petaling Jaya",
+    "latitude": 3.1278871,
+    "longitude": 101.5944885,
     "is_eu": false,
-    "postal": "63200",
+    "postal": "46675",
     "connection": {
-      "asn": 38182,
-      "org": "Extreme Broadband",
-      "isp": "Extreme Broadband",
+      "asn": 9534,
+      "org": "",
+      "isp": "Maxis Broadband Sdn.Bhd",
       "domain": ""
     }
   },
   {
     "proxy": "http://72.10.164.178:11861",
-    "tested_at": "2026-02-15T00:09:48Z",
+    "tested_at": "2026-02-15T00:41:16Z",
     "ip": "175.143.16.97",
     "success": true,
     "type": "IPv4",
@@ -64,29 +87,6 @@
     "connection": {
       "asn": 4788,
       "org": "TMNST",
-      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-      "domain": "tm.com.my"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:14361",
-    "tested_at": "2026-02-15T00:10:11Z",
-    "ip": "124.13.39.75",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Malaysia",
-    "country_code": "MY",
-    "region": "Federal Territory of Kuala Lumpur",
-    "region_code": "",
-    "city": "Kuala Lumpur",
-    "latitude": 3.139003,
-    "longitude": 101.686855,
-    "is_eu": false,
-    "postal": "50050",
-    "connection": {
-      "asn": 4788,
-      "org": "STREAMYX HOME KMR",
       "isp": "TM TECHNOLOGY SERVICES SDN BHD",
       "domain": "tm.com.my"
     }

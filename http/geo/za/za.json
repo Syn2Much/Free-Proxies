@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://102.219.170.116:8080",
-    "tested_at": "2026-02-15T00:09:29Z",
-    "ip": "102.219.170.116",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Western Cape",
-    "region_code": "WC",
-    "city": "Cape Town",
-    "latitude": -33.7854478,
-    "longitude": 18.7140639,
-    "is_eu": false,
-    "postal": "8001",
-    "connection": {
-      "asn": 328480,
-      "org": "Too Much Wifi",
-      "isp": "Too Much Wifi",
-      "domain": "toomuchwifi.co.za"
-    }
-  },
-  {
-    "proxy": "http://154.66.159.34:800",
-    "tested_at": "2026-02-15T00:09:39Z",
-    "ip": "154.66.159.34",
+    "proxy": "http://169.239.85.121:8080",
+    "tested_at": "2026-02-15T00:40:41Z",
+    "ip": "169.239.85.121",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -33,62 +10,16 @@
     "country_code": "ZA",
     "region": "Gauteng",
     "region_code": "GT",
-    "city": "Johannesburg",
-    "latitude": -26.2041028,
-    "longitude": 28.0473051,
+    "city": "Lethabong",
+    "latitude": -26.0880026,
+    "longitude": 28.1444516,
     "is_eu": false,
-    "postal": "2001",
+    "postal": "2065",
     "connection": {
-      "asn": 37564,
-      "org": "Wirulink Delporton Customers Pool",
-      "isp": "Wirulink Pty LTD",
-      "domain": "wiru.co.za"
-    }
-  },
-  {
-    "proxy": "http://102.217.139.31:8180",
-    "tested_at": "2026-02-15T00:09:41Z",
-    "ip": "102.217.139.31",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Western Cape",
-    "region_code": "WC",
-    "city": "Cape Town",
-    "latitude": -34.1340882,
-    "longitude": 18.4187029,
-    "is_eu": false,
-    "postal": "7975",
-    "connection": {
-      "asn": 329181,
-      "org": "Bluedog Technology",
-      "isp": "Bluedog Technology",
-      "domain": "bluedogtech.co.za"
-    }
-  },
-  {
-    "proxy": "http://160.119.228.146:12354",
-    "tested_at": "2026-02-15T00:10:17Z",
-    "ip": "160.119.228.146",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Gauteng",
-    "region_code": "GT",
-    "city": "Randburg",
-    "latitude": -26.1438399,
-    "longitude": 27.9951862,
-    "is_eu": false,
-    "postal": "2194",
-    "connection": {
-      "asn": 328137,
-      "org": "Web Squad Connect",
-      "isp": "Web Squad Connect pty LTD",
-      "domain": "websquad.co.za"
+      "asn": 327943,
+      "org": "Mezobyte Allocation 1",
+      "isp": "Mezobyte pty LTD",
+      "domain": "mezobyte.com"
     }
   }
 ]

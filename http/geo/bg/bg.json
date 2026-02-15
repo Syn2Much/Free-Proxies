@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://45.136.198.40:3128",
-    "tested_at": "2026-02-15T00:09:28Z",
-    "ip": "45.136.198.40",
+    "proxy": "http://92.247.12.136:9510",
+    "tested_at": "2026-02-15T00:40:59Z",
+    "ip": "92.247.12.130",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,56 +16,10 @@
     "is_eu": true,
     "postal": "1000",
     "connection": {
-      "asn": 9009,
-      "org": "Iroko Networks Corporation",
-      "isp": "M Europe SRL",
-      "domain": "iroko.net"
-    }
-  },
-  {
-    "proxy": "http://46.55.143.145:8080",
-    "tested_at": "2026-02-15T00:10:01Z",
-    "ip": "46.55.143.145",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "region": "Plovdiv",
-    "region_code": "16",
-    "city": "Plovdiv",
-    "latitude": 42.1354079,
-    "longitude": 24.7452904,
-    "is_eu": true,
-    "postal": "4000",
-    "connection": {
-      "asn": 51582,
-      "org": "Dcc Plovdiv",
-      "isp": "Cifrova Kabelna Korporacia Eood",
-      "domain": "dcc.bg"
-    }
-  },
-  {
-    "proxy": "http://38.180.2.107:3128",
-    "tested_at": "2026-02-15T00:10:08Z",
-    "ip": "38.180.2.107",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "region": "Sofia-city",
-    "region_code": "",
-    "city": "Sofia",
-    "latitude": 42.6977082,
-    "longitude": 23.3218675,
-    "is_eu": true,
-    "postal": "1000",
-    "connection": {
-      "asn": 9009,
-      "org": "Cogent Communications",
-      "isp": "M Europe SRL",
-      "domain": "3nt.com"
+      "asn": 8717,
+      "org": "Spectrum Net Sofia",
+      "isp": "A1 Bulgaria Ead",
+      "domain": "a1.bg"
     }
   }
 ]

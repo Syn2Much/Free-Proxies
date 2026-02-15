@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://150.230.104.3:16728",
-    "tested_at": "2026-02-15T00:09:27Z",
+    "tested_at": "2026-02-15T00:41:05Z",
     "ip": "150.230.104.3",
     "success": true,
     "type": "IPv4",
@@ -20,29 +20,6 @@
       "org": "Oracle Corporation",
       "isp": "Oracle Corporation",
       "domain": "oracle.com"
-    }
-  },
-  {
-    "proxy": "http://61.118.38.234:60808",
-    "tested_at": "2026-02-15T00:10:14Z",
-    "ip": "61.118.38.234",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Chiba Prefecture",
-    "region_code": "12",
-    "city": "Funabashi",
-    "latitude": 35.6999967,
-    "longitude": 139.9868982,
-    "is_eu": false,
-    "postal": "273-0005",
-    "connection": {
-      "asn": 4713,
-      "org": "Open Computer Network",
-      "isp": "NTT Docomo Business,inc.",
-      "domain": "ntt.com"
     }
   }
 ]

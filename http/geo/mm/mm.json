@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://37.111.53.31:8080",
-    "tested_at": "2026-02-14T23:38:29Z",
-    "ip": "157.15.190.33",
+    "proxy": "http://72.10.160.90:26811",
+    "tested_at": "2026-02-15T00:40:56Z",
+    "ip": "210.14.102.236",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Myanmar [Burma]",
     "country_code": "MM",
-    "region": "Mandalay",
-    "region_code": "04",
-    "city": "Mandalay",
-    "latitude": 21.9588282,
-    "longitude": 96.0891032,
+    "region": "Yangon",
+    "region_code": "06",
+    "city": "Yangon",
+    "latitude": 16.853239,
+    "longitude": 96.0654041,
     "is_eu": false,
-    "postal": "",
+    "postal": "00000",
     "connection": {
-      "asn": 152466,
-      "org": "T link Group Company Limited",
-      "isp": "T link Group Company Limited",
-      "domain": "t-linkgroup.com"
+      "asn": 58952,
+      "org": "Frontiir Co., LTD",
+      "isp": "Frontiir Co., LTD",
+      "domain": "frontiir.net"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.90:2067",
+    "tested_at": "2026-02-15T00:41:06Z",
+    "ip": "103.67.50.93",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Myanmar [Burma]",
+    "country_code": "MM",
+    "region": "Yangon",
+    "region_code": "06",
+    "city": "Yangon",
+    "latitude": 16.8660694,
+    "longitude": 96.195132,
+    "is_eu": false,
+    "postal": "00000",
+    "connection": {
+      "asn": 151965,
+      "org": "Hepta Alliance Technology Group",
+      "isp": "Hepta Alliance Technology Group",
+      "domain": "heptagroup.com.mm"
     }
   }
 ]

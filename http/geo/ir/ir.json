@@ -1,31 +1,31 @@
 [
   {
-    "proxy": "http://178.252.134.188:3128",
-    "tested_at": "2026-02-15T00:09:27Z",
-    "ip": "178.252.134.188",
+    "proxy": "http://72.10.160.90:9787",
+    "tested_at": "2026-02-15T00:40:37Z",
+    "ip": "83.123.191.121",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Iran",
     "country_code": "IR",
-    "region": "Tehran Province",
-    "region_code": "23",
-    "city": "Tehran",
-    "latitude": 35.6891975,
-    "longitude": 51.3889736,
+    "region": "Razavi Khorasan",
+    "region_code": "",
+    "city": "Chenaran",
+    "latitude": 36.6415869,
+    "longitude": 59.1213974,
     "is_eu": false,
-    "postal": "1317947564",
+    "postal": "",
     "connection": {
-      "asn": 51074,
-      "org": "MABNA",
-      "isp": "Gostaresh e ertebatat e Mabna Company private Joint Stock",
-      "domain": "mabnatelecom.com"
+      "asn": 197207,
+      "org": "Mobile Communication Company of Iran",
+      "isp": "Mobile Communication Company of Iran PLC",
+      "domain": "mci.ir"
     }
   },
   {
-    "proxy": "http://185.186.240.9:1396",
-    "tested_at": "2026-02-15T00:10:15Z",
-    "ip": "185.186.240.9",
+    "proxy": "http://5.202.191.225:8080",
+    "tested_at": "2026-02-15T00:41:18Z",
+    "ip": "5.202.191.225",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,10 +39,10 @@
     "is_eu": false,
     "postal": "1317947564",
     "connection": {
-      "asn": 203684,
-      "org": "Gostaresh Ertebat Azin Kia Company Pjsc",
-      "isp": "Imen Sanat Novin Alighapoo Private Joint Stock Company",
-      "domain": "azinkia.ir"
+      "asn": 49100,
+      "org": "PTE",
+      "isp": "Pishgaman Toseeh Ertebatat Company private Joint Stock",
+      "domain": "goledu.ir"
     }
   }
 ]
