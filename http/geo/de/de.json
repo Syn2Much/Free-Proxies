@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://209.38.222.145:8080",
-    "tested_at": "2026-02-15T01:43:08Z",
-    "ip": "209.38.222.145",
+    "proxy": "http://91.107.148.58:53967",
+    "tested_at": "2026-02-15T02:14:30Z",
+    "ip": "104.28.193.116",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Bavaria",
+    "region_code": "BY",
+    "city": "Nuremberg",
+    "latitude": 49.4254092,
+    "longitude": 11.0796553,
+    "is_eu": true,
+    "postal": "90403",
+    "connection": {
+      "asn": 13335,
+      "org": "Cloudflare, Inc.",
+      "isp": "Cloudflare, Inc.",
+      "domain": "cloudflare.com"
+    }
+  },
+  {
+    "proxy": "http://157.230.106.35:8080",
+    "tested_at": "2026-02-15T02:14:33Z",
+    "ip": "157.230.106.35",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -23,31 +46,8 @@
     }
   },
   {
-    "proxy": "http://192.3.20.150:3128",
-    "tested_at": "2026-02-15T01:43:14Z",
-    "ip": "185.220.101.21",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Brandenburg",
-    "region_code": "BB",
-    "city": "Brandenburg",
-    "latitude": 52.4125287,
-    "longitude": 12.5316444,
-    "is_eu": true,
-    "postal": "14770",
-    "connection": {
-      "asn": 60729,
-      "org": "Artikel10 E.V.",
-      "isp": "Stiftung Erneuerbare Freiheit",
-      "domain": "relayon.org"
-    }
-  },
-  {
     "proxy": "http://91.107.254.36:2000",
-    "tested_at": "2026-02-15T01:43:17Z",
+    "tested_at": "2026-02-15T02:14:47Z",
     "ip": "2a01:4f8:1c1e:74d6::1",
     "success": true,
     "type": "IPv6",
@@ -70,7 +70,7 @@
   },
   {
     "proxy": "http://128.140.118.165:1080",
-    "tested_at": "2026-02-15T01:43:39Z",
+    "tested_at": "2026-02-15T02:14:51Z",
     "ip": "2a01:4f8:c17:162d::1",
     "success": true,
     "type": "IPv6",
@@ -92,9 +92,9 @@
     }
   },
   {
-    "proxy": "http://157.230.106.35:8080",
-    "tested_at": "2026-02-15T01:43:49Z",
-    "ip": "157.230.106.35",
+    "proxy": "http://209.38.222.145:8080",
+    "tested_at": "2026-02-15T02:15:06Z",
+    "ip": "209.38.222.145",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -112,29 +112,6 @@
       "org": "Digitalocean, LLC",
       "isp": "Digitalocean, LLC",
       "domain": "digitalocean.com"
-    }
-  },
-  {
-    "proxy": "http://47.91.65.23:3128",
-    "tested_at": "2026-02-15T01:43:52Z",
-    "ip": "47.91.65.23",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Hesse",
-    "region_code": "HE",
-    "city": "Frankfurt",
-    "latitude": 50.1109221,
-    "longitude": 8.6821267,
-    "is_eu": true,
-    "postal": "60311",
-    "connection": {
-      "asn": 45102,
-      "org": "Alibaba Cloud De",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibabacloud.com"
     }
   }
 ]

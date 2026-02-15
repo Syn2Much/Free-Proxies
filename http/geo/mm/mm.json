@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://103.81.115.210:8080",
-    "tested_at": "2026-02-15T01:44:00Z",
-    "ip": "103.81.115.210",
+    "proxy": "http://203.81.67.22:8080",
+    "tested_at": "2026-02-15T02:14:45Z",
+    "ip": "203.81.67.22",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,56 @@
     "is_eu": false,
     "postal": "00000",
     "connection": {
-      "asn": 132148,
-      "org": "HORIZON TELECOM INTERNATIONAL COMPANY LIMITED",
-      "isp": "HORIZON TELECOM INTERNATIONAL COMPANY LIMITED",
-      "domain": "telecom-horizon.com"
+      "asn": 9988,
+      "org": "Myanma Post And Telecommunication",
+      "isp": "Myanma Post Telecommunication",
+      "domain": "mptjo.com.mm"
+    }
+  },
+  {
+    "proxy": "http://67.43.236.20:26207",
+    "tested_at": "2026-02-15T02:14:54Z",
+    "ip": "203.96.241.14",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Myanmar [Burma]",
+    "country_code": "MM",
+    "region": "Magway",
+    "region_code": "03",
+    "city": "Chauk",
+    "latitude": 20.9006356,
+    "longitude": 94.8261424,
+    "is_eu": false,
+    "postal": "24398",
+    "connection": {
+      "asn": 136442,
+      "org": "Ocean Wave Communication Co., LTD",
+      "isp": "Ocean Wave Communication Co., LTD",
+      "domain": "mowcn.com"
+    }
+  },
+  {
+    "proxy": "http://203.81.81.226:8055",
+    "tested_at": "2026-02-15T02:15:12Z",
+    "ip": "203.81.81.226",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Myanmar [Burma]",
+    "country_code": "MM",
+    "region": "Yangon",
+    "region_code": "06",
+    "city": "Yangon",
+    "latitude": 16.8660694,
+    "longitude": 96.195132,
+    "is_eu": false,
+    "postal": "00000",
+    "connection": {
+      "asn": 9988,
+      "org": "Myanma Post And Telecommunication",
+      "isp": "Myanma Post Telecommunication",
+      "domain": "mptjo.com.mm"
     }
   }
 ]

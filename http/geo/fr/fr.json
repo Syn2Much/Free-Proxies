@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://173.212.215.22:3128",
+    "tested_at": "2026-02-15T02:14:41Z",
+    "ip": "173.212.215.22",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Grand Est",
+    "region_code": "GES",
+    "city": "Lauterbourg",
+    "latitude": 48.974797,
+    "longitude": 8.176773,
+    "is_eu": true,
+    "postal": "67630",
+    "connection": {
+      "asn": 51167,
+      "org": "Contabo GmbH",
+      "isp": "Contabo GmbH",
+      "domain": "contabo.de"
+    }
+  },
+  {
     "proxy": "http://90.84.188.97:8000",
-    "tested_at": "2026-02-15T01:43:06Z",
+    "tested_at": "2026-02-15T02:14:43Z",
     "ip": "90.84.188.97",
     "success": true,
     "type": "IPv4",
@@ -23,32 +46,9 @@
     }
   },
   {
-    "proxy": "http://178.170.43.129:8082",
-    "tested_at": "2026-02-15T01:43:07Z",
-    "ip": "178.170.43.129",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Boulogne-Billancourt",
-    "latitude": 48.8396952,
-    "longitude": 2.2399123,
-    "is_eu": true,
-    "postal": "92100",
-    "connection": {
-      "asn": 21409,
-      "org": "SERVERS",
-      "isp": "Ikoula Net SAS",
-      "domain": "ikoula.com"
-    }
-  },
-  {
-    "proxy": "http://62.133.62.12:1081",
-    "tested_at": "2026-02-15T01:43:11Z",
-    "ip": "62.133.62.12",
+    "proxy": "http://164.132.248.251:80",
+    "tested_at": "2026-02-15T02:15:00Z",
+    "ip": "164.132.248.251",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -61,126 +61,11 @@
     "longitude": 2.3522219,
     "is_eu": true,
     "postal": "75007",
-    "connection": {
-      "asn": 215540,
-      "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
-      "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
-      "domain": "gir.network"
-    }
-  },
-  {
-    "proxy": "http://37.187.109.70:10111",
-    "tested_at": "2026-02-15T01:43:21Z",
-    "ip": "37.187.109.70",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Hauts-de-France",
-    "region_code": "HDF",
-    "city": "Roubaix",
-    "latitude": 50.6927049,
-    "longitude": 3.177847,
-    "is_eu": true,
-    "postal": "59100",
     "connection": {
       "asn": 16276,
       "org": "OVH SAS",
       "isp": "OVH SAS",
       "domain": "ovh.net"
-    }
-  },
-  {
-    "proxy": "http://130.110.250.13:1111",
-    "tested_at": "2026-02-15T01:43:27Z",
-    "ip": "130.110.250.13",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Provence-Alpes-Côte d'Azur",
-    "region_code": "PAC",
-    "city": "Marseille",
-    "latitude": 43.296482,
-    "longitude": 5.36978,
-    "is_eu": true,
-    "postal": "13000",
-    "connection": {
-      "asn": 31898,
-      "org": "Oracle Svenska Ab",
-      "isp": "Oracle Corporation",
-      "domain": "oracle.com"
-    }
-  },
-  {
-    "proxy": "http://5.189.161.47:3128",
-    "tested_at": "2026-02-15T01:43:29Z",
-    "ip": "5.189.161.47",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Grand Est",
-    "region_code": "GES",
-    "city": "Lauterbourg",
-    "latitude": 48.974797,
-    "longitude": 8.176773,
-    "is_eu": true,
-    "postal": "67630",
-    "connection": {
-      "asn": 51167,
-      "org": "Contabo GmbH",
-      "isp": "Contabo GmbH",
-      "domain": "contabo.de"
-    }
-  },
-  {
-    "proxy": "http://62.133.62.12:1082",
-    "tested_at": "2026-02-15T01:43:39Z",
-    "ip": "62.133.62.12",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 215540,
-      "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
-      "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
-      "domain": "gir.network"
-    }
-  },
-  {
-    "proxy": "http://178.170.43.106:8081",
-    "tested_at": "2026-02-15T01:44:00Z",
-    "ip": "178.170.43.106",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Boulogne-Billancourt",
-    "latitude": 48.8396952,
-    "longitude": 2.2399123,
-    "is_eu": true,
-    "postal": "92100",
-    "connection": {
-      "asn": 21409,
-      "org": "SERVERS",
-      "isp": "Ikoula Net SAS",
-      "domain": "ikoula.com"
     }
   }
 ]

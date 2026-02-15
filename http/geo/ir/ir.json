@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://185.172.214.59:8080",
-    "tested_at": "2026-02-15T01:43:12Z",
-    "ip": "185.172.214.59",
+    "proxy": "http://85.9.87.26:8080",
+    "tested_at": "2026-02-15T02:14:35Z",
+    "ip": "85.9.87.26",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,33 +16,10 @@
     "is_eu": false,
     "postal": "1317947564",
     "connection": {
-      "asn": 206854,
-      "org": "SUNNET",
-      "isp": "Lesun Communication Furtherance Engineers Co, ltd.",
-      "domain": "lesunco.com"
-    }
-  },
-  {
-    "proxy": "http://46.209.30.11:8080",
-    "tested_at": "2026-02-15T01:43:45Z",
-    "ip": "46.209.30.11",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Iran",
-    "country_code": "IR",
-    "region": "Tehran Province",
-    "region_code": "23",
-    "city": "Tehran",
-    "latitude": 35.6891975,
-    "longitude": 51.3889736,
-    "is_eu": false,
-    "postal": "1317947564",
-    "connection": {
-      "asn": 42337,
-      "org": "National Library Of Iran",
-      "isp": "Respina Networks Beyond Pjsc",
-      "domain": "respina.net"
+      "asn": 47376,
+      "org": "Pishgaman",
+      "isp": "Web Gostaran Bandar Company pjs",
+      "domain": "pishgaman.net"
     }
   }
 ]

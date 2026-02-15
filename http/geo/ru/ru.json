@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://158.160.215.167:8126",
-    "tested_at": "2026-02-15T01:43:07Z",
-    "ip": "45.195.99.254",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Moscow",
-    "region_code": "MOW",
-    "city": "Moscow",
-    "latitude": 55.755826,
-    "longitude": 37.6173,
-    "is_eu": false,
-    "postal": "103073",
-    "connection": {
-      "asn": 44559,
-      "org": "IT HOST BKPL",
-      "isp": "IT HOSTLINE LTD",
-      "domain": "blsync.com"
-    }
-  },
-  {
     "proxy": "http://158.160.215.167:8124",
-    "tested_at": "2026-02-15T01:43:08Z",
+    "tested_at": "2026-02-15T02:14:31Z",
     "ip": "154.212.30.205",
     "success": true,
     "type": "IPv4",
@@ -46,32 +23,9 @@
     }
   },
   {
-    "proxy": "http://84.52.125.113:8082",
-    "tested_at": "2026-02-15T01:43:24Z",
-    "ip": "84.52.125.113",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Saint Petersburg",
-    "region_code": "",
-    "city": "Saint Petersburg",
-    "latitude": 59.9342802,
-    "longitude": 30.3350986,
-    "is_eu": false,
-    "postal": "191186",
-    "connection": {
-      "asn": 41733,
-      "org": "WEST CALL LTD",
-      "isp": "JSC Er telecom Holding",
-      "domain": "ertelecom.ru"
-    }
-  },
-  {
-    "proxy": "http://45.151.182.9:3128",
-    "tested_at": "2026-02-15T01:43:26Z",
-    "ip": "45.151.182.9",
+    "proxy": "http://158.160.215.167:8126",
+    "tested_at": "2026-02-15T02:14:32Z",
+    "ip": "45.195.99.254",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -85,16 +39,62 @@
     "is_eu": false,
     "postal": "103073",
     "connection": {
-      "asn": 213220,
-      "org": "THUNDER NETWORK LIMITED",
-      "isp": "Delta LTD",
-      "domain": "telkom.co.za"
+      "asn": 44559,
+      "org": "IT HOST BKPL",
+      "isp": "IT HOSTLINE LTD",
+      "domain": "blsync.com"
     }
   },
   {
-    "proxy": "http://62.113.119.14:8080",
-    "tested_at": "2026-02-15T01:43:30Z",
-    "ip": "62.113.119.14",
+    "proxy": "http://158.160.215.167:8127",
+    "tested_at": "2026-02-15T02:14:59Z",
+    "ip": "170.168.253.16",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Russia",
+    "country_code": "RU",
+    "region": "Moscow",
+    "region_code": "MOW",
+    "city": "Zelenograd",
+    "latitude": 55.9871526,
+    "longitude": 37.2021514,
+    "is_eu": false,
+    "postal": "124460",
+    "connection": {
+      "asn": 44559,
+      "org": "IT Hostline LTD",
+      "isp": "IT HOSTLINE LTD",
+      "domain": "ithostline.com"
+    }
+  },
+  {
+    "proxy": "http://158.160.215.167:8125",
+    "tested_at": "2026-02-15T02:15:03Z",
+    "ip": "45.196.125.153",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Russia",
+    "country_code": "RU",
+    "region": "Nizhny Novgorod Oblast",
+    "region_code": "NIZ",
+    "city": "Nizhny Novgorod",
+    "latitude": 56.2965039,
+    "longitude": 43.9360589,
+    "is_eu": false,
+    "postal": "603033",
+    "connection": {
+      "asn": 44559,
+      "org": "IT HOST BKPL",
+      "isp": "IT HOSTLINE LTD",
+      "domain": "blsync.com"
+    }
+  },
+  {
+    "proxy": "http://185.145.124.173:8080",
+    "tested_at": "2026-02-15T02:15:03Z",
+    "ip": "185.145.124.173",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -108,102 +108,33 @@
     "is_eu": false,
     "postal": "103073",
     "connection": {
-      "asn": 48282,
-      "org": "Vdsina Vds Hosting",
-      "isp": "Hosting Technology LTD",
-      "domain": "vdsina.ru"
+      "asn": 50254,
+      "org": "RU SKY EN 01 0 11",
+      "isp": "Sky Engineering LLC",
+      "domain": "sky-en.ru"
     }
   },
   {
-    "proxy": "http://91.218.244.153:8989",
-    "tested_at": "2026-02-15T01:43:46Z",
-    "ip": "91.218.244.153",
+    "proxy": "http://176.100.216.164:8282",
+    "tested_at": "2026-02-15T02:15:06Z",
+    "ip": "176.100.216.164",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Russia",
     "country_code": "RU",
-    "region": "Moscow",
-    "region_code": "MOW",
-    "city": "Moscow",
-    "latitude": 55.755826,
-    "longitude": 37.6173,
+    "region": "Moscow Oblast",
+    "region_code": "MOS",
+    "city": "Orekhovo-Zuyevo",
+    "latitude": 55.8034354,
+    "longitude": 38.9667902,
     "is_eu": false,
-    "postal": "103073",
+    "postal": "142600",
     "connection": {
-      "asn": 50867,
-      "org": "LLC IT BASIS",
-      "isp": "HOSTKEY B.V.",
-      "domain": "hostkey.ru"
-    }
-  },
-  {
-    "proxy": "http://158.160.215.167:8123",
-    "tested_at": "2026-02-15T01:43:50Z",
-    "ip": "195.19.170.219",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Saint Petersburg",
-    "region_code": "",
-    "city": "Saint Petersburg",
-    "latitude": 59.9342802,
-    "longitude": 30.3350986,
-    "is_eu": false,
-    "postal": "191186",
-    "connection": {
-      "asn": 49505,
-      "org": "Comfortel Ltd.",
-      "isp": "JSC Selectel",
-      "domain": "comfortel.pro"
-    }
-  },
-  {
-    "proxy": "http://195.9.15.186:10080",
-    "tested_at": "2026-02-15T01:43:54Z",
-    "ip": "195.9.15.186",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Moscow",
-    "region_code": "MOW",
-    "city": "Moscow",
-    "latitude": 55.755826,
-    "longitude": 37.6173,
-    "is_eu": false,
-    "postal": "103073",
-    "connection": {
-      "asn": 25513,
-      "org": "Pjsc Moscow City Telephone Network",
-      "isp": "Pjsc Moscow City Telephone Network",
-      "domain": "spd-mgts.ru"
-    }
-  },
-  {
-    "proxy": "http://194.67.206.117:443",
-    "tested_at": "2026-02-15T01:43:54Z",
-    "ip": "194.67.206.117",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Moscow",
-    "region_code": "MOW",
-    "city": "Moscow",
-    "latitude": 55.755826,
-    "longitude": 37.6173,
-    "is_eu": false,
-    "postal": "103073",
-    "connection": {
-      "asn": 209641,
-      "org": "POWER SERVERS ROLE ORG",
-      "isp": "I SERVERS LTD",
-      "domain": "power-servers.net"
+      "asn": 57489,
+      "org": "LLC Telecom uslugi",
+      "isp": "LLC Telecom uslugi",
+      "domain": "oz-on.ru"
     }
   }
 ]

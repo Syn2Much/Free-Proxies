@@ -1,31 +1,31 @@
 [
   {
-    "proxy": "http://190.97.254.180:8080",
-    "tested_at": "2026-02-15T01:43:11Z",
-    "ip": "190.97.254.154",
+    "proxy": "http://186.96.73.181:999",
+    "tested_at": "2026-02-15T02:14:38Z",
+    "ip": "38.183.215.124",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Venezuela",
     "country_code": "VE",
-    "region": "Tachira State",
-    "region_code": "S",
-    "city": "San Cristobal",
-    "latitude": 7.7713572,
-    "longitude": -72.2261466,
+    "region": "Aragua State",
+    "region_code": "D",
+    "city": "Villa de Cura",
+    "latitude": 10.0313499,
+    "longitude": -67.4933707,
     "is_eu": false,
-    "postal": "5001",
+    "postal": "2126",
     "connection": {
-      "asn": 263703,
-      "org": "VIGINET C.A",
-      "isp": "VIGINET C.A",
-      "domain": "viginet.com.ve"
+      "asn": 273093,
+      "org": "Cogent Communications",
+      "isp": "WISP TECNOGER, C.A.",
+      "domain": "wisptecnoger.com.ve"
     }
   },
   {
-    "proxy": "http://138.59.10.112:999",
-    "tested_at": "2026-02-15T01:43:21Z",
-    "ip": "138.59.10.8",
+    "proxy": "http://38.171.255.232:999",
+    "tested_at": "2026-02-15T02:14:44Z",
+    "ip": "38.171.255.232",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -39,16 +39,16 @@
     "is_eu": false,
     "postal": "2001",
     "connection": {
-      "asn": 269788,
-      "org": "Fonet",
-      "isp": "DISTRIBUIDORA OFIC TECH DE VENEZUELA C.A.",
-      "domain": "fonet.com.ve"
+      "asn": 61461,
+      "org": "Cogent Communications",
+      "isp": "Airtek Solutions C.A.",
+      "domain": "airtek.com.ve"
     }
   },
   {
-    "proxy": "http://190.94.213.80:999",
-    "tested_at": "2026-02-15T01:43:51Z",
-    "ip": "190.94.213.80",
+    "proxy": "http://45.230.169.225:999",
+    "tested_at": "2026-02-15T02:15:06Z",
+    "ip": "45.230.169.231",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -62,16 +62,39 @@
     "is_eu": false,
     "postal": "1012",
     "connection": {
-      "asn": 8053,
-      "org": "Ifx Networks Venezuela C.A.",
-      "isp": "Ifx Networks Venezuela C.A.",
-      "domain": "ifxnw.com.ve"
+      "asn": 266742,
+      "org": "SOLUCIONES DCN NETWORK C.A",
+      "isp": "SOLUCIONES DCN NETWORK C.A",
+      "domain": ""
     }
   },
   {
-    "proxy": "http://190.94.213.4:999",
-    "tested_at": "2026-02-15T01:43:59Z",
-    "ip": "190.94.213.4",
+    "proxy": "http://190.97.243.20:999",
+    "tested_at": "2026-02-15T02:15:06Z",
+    "ip": "190.97.243.21",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Merida State",
+    "region_code": "L",
+    "city": "Merida",
+    "latitude": 8.5698244,
+    "longitude": -71.1804988,
+    "is_eu": false,
+    "postal": "5115",
+    "connection": {
+      "asn": 263703,
+      "org": "VIGINET C.A",
+      "isp": "VIGINET C.A",
+      "domain": "viginet.com.ve"
+    }
+  },
+  {
+    "proxy": "http://45.230.170.30:999",
+    "tested_at": "2026-02-15T02:15:17Z",
+    "ip": "45.230.170.30",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -80,61 +103,15 @@
     "region": "Capital District",
     "region_code": "A",
     "city": "Caracas",
-    "latitude": 10.4805937,
-    "longitude": -66.9036063,
+    "latitude": 10.4851233,
+    "longitude": -66.7408708,
     "is_eu": false,
     "postal": "1012",
     "connection": {
-      "asn": 8053,
-      "org": "Ifx Networks Venezuela C.A.",
-      "isp": "Ifx Networks Venezuela C.A.",
-      "domain": "ifxnw.com.ve"
-    }
-  },
-  {
-    "proxy": "http://38.159.63.8:999",
-    "tested_at": "2026-02-15T01:44:01Z",
-    "ip": "38.159.63.8",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Lara State",
-    "region_code": "K",
-    "city": "Barquisimeto",
-    "latitude": 10.0677719,
-    "longitude": -69.3473509,
-    "is_eu": false,
-    "postal": "3001",
-    "connection": {
-      "asn": 269946,
-      "org": "Boom Solutions C.A.",
-      "isp": "BOOM SOLUTIONS C.A.",
-      "domain": "boomsolutionspr.com"
-    }
-  },
-  {
-    "proxy": "http://38.41.27.150:11201",
-    "tested_at": "2026-02-15T01:44:03Z",
-    "ip": "38.41.27.150",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Capital District",
-    "region_code": "A",
-    "city": "Caracas",
-    "latitude": 10.4805937,
-    "longitude": -66.9036063,
-    "is_eu": false,
-    "postal": "1012",
-    "connection": {
-      "asn": 269832,
-      "org": "Mds Telecom",
-      "isp": "MDS TELECOM C.A.",
-      "domain": "mdstelecom.com.ve"
+      "asn": 266742,
+      "org": "SOLUCIONES DCN NETWORK C.A",
+      "isp": "SOLUCIONES DCN NETWORK C.A",
+      "domain": ""
     }
   }
 ]

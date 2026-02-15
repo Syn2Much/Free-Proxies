@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://190.61.48.2:999",
+    "tested_at": "2026-02-15T02:14:36Z",
+    "ip": "190.61.48.2",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Honduras",
+    "country_code": "HN",
+    "region": "Francisco Morazán",
+    "region_code": "FM",
+    "city": "Tegucigalpa",
+    "latitude": 14.0722751,
+    "longitude": -87.192136,
+    "is_eu": false,
+    "postal": "12101",
+    "connection": {
+      "asn": 52468,
+      "org": "Ufinet Honduras, S. A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "ufinet.com"
+    }
+  },
+  {
     "proxy": "http://190.130.6.11:8080",
-    "tested_at": "2026-02-15T01:43:59Z",
+    "tested_at": "2026-02-15T02:15:04Z",
     "ip": "190.130.6.11",
     "success": true,
     "type": "IPv4",

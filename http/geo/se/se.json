@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://77.110.97.209:8080",
-    "tested_at": "2026-02-15T00:09:56Z",
-    "ip": "77.110.97.209",
+    "proxy": "http://185.189.51.72:12345",
+    "tested_at": "2026-02-15T02:14:50Z",
+    "ip": "185.189.51.72",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Sweden",
+    "country_code": "SE",
+    "region": "Dalecarlia",
+    "region_code": "",
+    "city": "Leksand",
+    "latitude": 60.8260976,
+    "longitude": 14.9920858,
+    "is_eu": true,
+    "postal": "793 90",
+    "connection": {
+      "asn": 206170,
+      "org": "Inleed",
+      "isp": "Yelles Ab",
+      "domain": "yelles.se"
+    }
+  },
+  {
+    "proxy": "http://83.219.250.8:62920",
+    "tested_at": "2026-02-15T02:14:51Z",
+    "ip": "83.219.250.8",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,33 +39,10 @@
     "is_eu": true,
     "postal": "111 29",
     "connection": {
-      "asn": 210644,
-      "org": "Aeza International LTD",
-      "isp": "AEZA INTERNATIONAL LTD",
-      "domain": "aeza.net"
-    }
-  },
-  {
-    "proxy": "http://37.187.92.9:1029",
-    "tested_at": "2026-02-15T00:09:57Z",
-    "ip": "45.84.107.128",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Sundbyberg",
-    "latitude": 59.3670471,
-    "longitude": 17.9663093,
-    "is_eu": true,
-    "postal": "172 31",
-    "connection": {
-      "asn": 214503,
-      "org": "R0CKET CLOUD",
-      "isp": "Quxlabs Ab",
-      "domain": "quxlabs.com"
+      "asn": 41745,
+      "org": "Baykov Ilya Sergeevich",
+      "isp": "Baykov Ilya Sergeevich",
+      "domain": "fortis.host"
     }
   }
 ]

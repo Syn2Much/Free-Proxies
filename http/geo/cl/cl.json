@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://72.10.160.171:21307",
-    "tested_at": "2026-02-15T01:43:07Z",
-    "ip": "186.189.99.207",
+    "proxy": "http://72.10.160.91:28923",
+    "tested_at": "2026-02-15T02:14:33Z",
+    "ip": "190.114.35.229",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -16,38 +16,15 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 52341,
-      "org": "WOM S.A.",
-      "isp": "WOM S.A.",
-      "domain": "wom.cl"
+      "asn": 27901,
+      "org": "Pacifico Cable Spa.",
+      "isp": "Pacifico Cable Spa.",
+      "domain": "mundopacifico.cl"
     }
   },
   {
-    "proxy": "http://72.10.160.90:15605",
-    "tested_at": "2026-02-15T01:43:08Z",
-    "ip": "181.43.124.110",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
-    "is_eu": false,
-    "postal": "832 0202",
-    "connection": {
-      "asn": 27651,
-      "org": "ENTEL CHILE S.A.",
-      "isp": "ENTEL CHILE S.A.",
-      "domain": "entel.cl"
-    }
-  },
-  {
-    "proxy": "http://38.7.195.52:999",
-    "tested_at": "2026-02-15T01:43:10Z",
+    "proxy": "http://38.7.195.51:999",
+    "tested_at": "2026-02-15T02:14:34Z",
     "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
@@ -69,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://67.43.236.20:7463",
-    "tested_at": "2026-02-15T01:43:20Z",
-    "ip": "181.42.17.206",
+    "proxy": "http://72.10.160.90:15605",
+    "tested_at": "2026-02-15T02:14:37Z",
+    "ip": "181.43.124.110",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -92,9 +69,9 @@
     }
   },
   {
-    "proxy": "http://45.4.3.89:999",
-    "tested_at": "2026-02-15T01:43:24Z",
-    "ip": "45.4.0.18",
+    "proxy": "http://38.7.195.55:999",
+    "tested_at": "2026-02-15T02:14:37Z",
+    "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -102,67 +79,21 @@
     "country_code": "CL",
     "region": "Santiago Metropolitan Region",
     "region_code": "",
-    "city": "San José de Tango",
-    "latitude": -33.616667,
-    "longitude": -70.8,
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
     "is_eu": false,
-    "postal": "971 0000",
+    "postal": "832 0202",
     "connection": {
-      "asn": 265662,
-      "org": "TLINK SPA",
-      "isp": "TLINK SPA",
-      "domain": "tlink.cl"
-    }
-  },
-  {
-    "proxy": "http://204.199.139.124:999",
-    "tested_at": "2026-02-15T01:43:29Z",
-    "ip": "45.225.204.99",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "O'Higgins Region",
-    "region_code": "",
-    "city": "Las Cabras",
-    "latitude": -34.2932184,
-    "longitude": -71.3126292,
-    "is_eu": false,
-    "postal": "3030000",
-    "connection": {
-      "asn": 265858,
-      "org": "NETDELSUR TELECOMUNICACIONES SPA",
-      "isp": "NETDELSUR TELECOMUNICACIONES SPA",
-      "domain": "netdelsur.cl"
-    }
-  },
-  {
-    "proxy": "http://67.43.228.250:5799",
-    "tested_at": "2026-02-15T01:43:32Z",
-    "ip": "190.20.67.149",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Pudahuel",
-    "latitude": -33.4421135,
-    "longitude": -70.7640644,
-    "is_eu": false,
-    "postal": "9020000",
-    "connection": {
-      "asn": 7418,
-      "org": "TELEF NICA CHILE S.A.",
-      "isp": "TELEF NICA CHILE S.A.",
-      "domain": "telefonicachile.cl"
+      "asn": 263702,
+      "org": "Cogent Communications",
+      "isp": "GRUPO ZGH SPA",
+      "domain": "zglobalhost.com"
     }
   },
   {
     "proxy": "http://186.67.74.52:3128",
-    "tested_at": "2026-02-15T01:43:45Z",
+    "tested_at": "2026-02-15T02:14:40Z",
     "ip": "186.67.74.52",
     "success": true,
     "type": "IPv4",
@@ -184,8 +115,31 @@
     }
   },
   {
+    "proxy": "http://204.199.139.36:999",
+    "tested_at": "2026-02-15T02:14:43Z",
+    "ip": "200.123.41.1",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Quinta Normal",
+    "latitude": -33.4317378,
+    "longitude": -70.6923917,
+    "is_eu": false,
+    "postal": "8500000",
+    "connection": {
+      "asn": 273237,
+      "org": "INGBELL CHILE SPA",
+      "isp": "INGBELL CHILE SPA",
+      "domain": "ingbell.cl"
+    }
+  },
+  {
     "proxy": "http://72.10.164.178:7873",
-    "tested_at": "2026-02-15T01:43:48Z",
+    "tested_at": "2026-02-15T02:14:45Z",
     "ip": "181.173.192.201",
     "success": true,
     "type": "IPv4",
@@ -207,32 +161,9 @@
     }
   },
   {
-    "proxy": "http://200.95.184.58:999",
-    "tested_at": "2026-02-15T01:43:53Z",
-    "ip": "200.95.184.146",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Ñuble Region",
-    "region_code": "NB",
-    "city": "Chillán",
-    "latitude": -36.6062618,
-    "longitude": -72.1023351,
-    "is_eu": false,
-    "postal": "3780000",
-    "connection": {
-      "asn": 264859,
-      "org": "Comunicaciones Cablevision Ltda.",
-      "isp": "Comunicaciones Cablevision Ltda.",
-      "domain": "wmnet.cl"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.91:28923",
-    "tested_at": "2026-02-15T01:43:58Z",
-    "ip": "190.114.35.229",
+    "proxy": "http://72.10.160.90:7757",
+    "tested_at": "2026-02-15T02:14:52Z",
+    "ip": "181.42.17.206",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -246,10 +177,56 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 27901,
-      "org": "Pacifico Cable Spa.",
-      "isp": "Pacifico Cable Spa.",
-      "domain": "mundopacifico.cl"
+      "asn": 27651,
+      "org": "ENTEL CHILE S.A.",
+      "isp": "ENTEL CHILE S.A.",
+      "domain": "entel.cl"
+    }
+  },
+  {
+    "proxy": "http://38.7.195.40:999",
+    "tested_at": "2026-02-15T02:14:55Z",
+    "ip": "38.7.195.41",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 263702,
+      "org": "Cogent Communications",
+      "isp": "GRUPO ZGH SPA",
+      "domain": "zglobalhost.com"
+    }
+  },
+  {
+    "proxy": "http://186.67.94.10:999",
+    "tested_at": "2026-02-15T02:15:11Z",
+    "ip": "201.236.20.98",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Valparaiso Region",
+    "region_code": "VS",
+    "city": "Quillota",
+    "latitude": -32.8803027,
+    "longitude": -71.2497156,
+    "is_eu": false,
+    "postal": "226 0000",
+    "connection": {
+      "asn": 15311,
+      "org": "MONTALVA PROPIEDADES LTDA",
+      "isp": "TELEFONICA EMPRESAS CHILE SA",
+      "domain": "movistar.cl"
     }
   }
 ]

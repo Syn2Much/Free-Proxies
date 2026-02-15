@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "http://213.178.250.33:8080",
-    "tested_at": "2026-02-15T01:43:13Z",
-    "ip": "82.137.250.37",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Syria",
-    "country_code": "SY",
-    "region": "Damascus Governorate",
-    "region_code": "DI",
-    "city": "Damascus",
-    "latitude": 33.5138073,
-    "longitude": 36.2765279,
-    "is_eu": false,
-    "postal": "2277",
-    "connection": {
-      "asn": 29256,
-      "org": "Tarassul Inetnet Service Provider",
-      "isp": "Syrian Telecommunication Private Closed Joint Stock Company",
-      "domain": "syriantelecom.sy"
-    }
-  },
-  {
-    "proxy": "http://185.225.40.236:8080",
-    "tested_at": "2026-02-15T01:43:21Z",
-    "ip": "185.225.40.236",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Syria",
-    "country_code": "SY",
-    "region": "As-Suwayda Governorate",
-    "region_code": "SU",
-    "city": "Al Nashabiyah",
-    "latitude": 33.5145293,
-    "longitude": 36.4878241,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 29256,
-      "org": "Wafa Telecom J.S.C",
-      "isp": "Syrian Telecommunication Private Closed Joint Stock Company",
-      "domain": "syriantelecom.sy"
-    }
-  },
-  {
-    "proxy": "http://89.43.134.40:8080",
-    "tested_at": "2026-02-15T01:43:23Z",
-    "ip": "89.43.134.40",
+    "proxy": "http://139.28.49.183:8080",
+    "tested_at": "2026-02-15T02:15:18Z",
+    "ip": "139.28.49.183",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -63,32 +17,9 @@
     "postal": "720",
     "connection": {
       "asn": 216472,
-      "org": "HU PANTEL INT 00 11",
-      "isp": "High Speed For Internet Services L.L.C",
-      "domain": "turktelekomint.com"
-    }
-  },
-  {
-    "proxy": "http://164.138.205.120:8080",
-    "tested_at": "2026-02-15T01:43:54Z",
-    "ip": "164.138.205.120",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Syria",
-    "country_code": "SY",
-    "region": "Damascus Governorate",
-    "region_code": "DI",
-    "city": "Damascus",
-    "latitude": 33.5138073,
-    "longitude": 36.2765279,
-    "is_eu": false,
-    "postal": "2277",
-    "connection": {
-      "asn": 216472,
       "org": "Telecom Sy",
       "isp": "High Speed For Internet Services L.L.C",
-      "domain": "kaer.technology"
+      "domain": "highspeed-sy.com"
     }
   }
 ]

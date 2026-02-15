@@ -1,8 +1,77 @@
 [
   {
-    "proxy": "http://197.248.86.237:32650",
-    "tested_at": "2026-02-15T01:43:15Z",
-    "ip": "197.248.86.237",
+    "proxy": "http://41.89.225.225:3128",
+    "tested_at": "2026-02-15T02:14:44Z",
+    "ip": "41.89.225.225",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Nairobi",
+    "region_code": "110",
+    "city": "Nairobi",
+    "latitude": -1.2920659,
+    "longitude": 36.8219462,
+    "is_eu": false,
+    "postal": "200",
+    "connection": {
+      "asn": 36914,
+      "org": "Kenya Methodist University Meru Campus",
+      "isp": "Kenya Education Network",
+      "domain": "kenet.or.ke"
+    }
+  },
+  {
+    "proxy": "http://197.248.75.221:8105",
+    "tested_at": "2026-02-15T02:14:46Z",
+    "ip": "197.248.75.221",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Nakuru",
+    "region_code": "31",
+    "city": "Naivasha",
+    "latitude": -0.7171778,
+    "longitude": 36.4310251,
+    "is_eu": false,
+    "postal": "2050 -20117",
+    "connection": {
+      "asn": 37061,
+      "org": "For Safaricom Kenya Enterprise Business Unit",
+      "isp": "Safaricom Limited",
+      "domain": "safaricom.co.ke"
+    }
+  },
+  {
+    "proxy": "http://102.208.166.248:8082",
+    "tested_at": "2026-02-15T02:14:53Z",
+    "ip": "102.208.166.248",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Nairobi",
+    "region_code": "110",
+    "city": "Nairobi",
+    "latitude": -1.2920659,
+    "longitude": 36.8219462,
+    "is_eu": false,
+    "postal": "200",
+    "connection": {
+      "asn": 329452,
+      "org": "Alwen Networks Co. Limited",
+      "isp": "Alwen Networks Co. Limited",
+      "domain": "alwennetworks.com"
+    }
+  },
+  {
+    "proxy": "http://41.203.213.211:8105",
+    "tested_at": "2026-02-15T02:14:57Z",
+    "ip": "41.203.213.211",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -17,78 +86,9 @@
     "postal": "200",
     "connection": {
       "asn": 37061,
-      "org": "For Safaricom Kenya Enterprise Business Unit",
+      "org": "This Is for Fixed Wimax for Corporate Customers",
       "isp": "Safaricom Limited",
       "domain": "safaricom.co.ke"
-    }
-  },
-  {
-    "proxy": "http://102.0.12.198:8080",
-    "tested_at": "2026-02-15T01:43:25Z",
-    "ip": "102.0.12.198",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Uasin Gishu",
-    "region_code": "44",
-    "city": "Eldoret",
-    "latitude": 0.5142775,
-    "longitude": 35.2697802,
-    "is_eu": false,
-    "postal": "30100",
-    "connection": {
-      "asn": 327708,
-      "org": "Allocated to Airtel Kenya Mobile Broadband And Fixed Internet",
-      "isp": "Airtel Rwanda LTD",
-      "domain": "airtel.com"
-    }
-  },
-  {
-    "proxy": "http://102.0.11.176:8080",
-    "tested_at": "2026-02-15T01:43:28Z",
-    "ip": "102.0.11.176",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Kiambu",
-    "region_code": "13",
-    "city": "Ruiru",
-    "latitude": -1.1457029,
-    "longitude": 36.9648534,
-    "is_eu": false,
-    "postal": "01001",
-    "connection": {
-      "asn": 327708,
-      "org": "Allocated to Airtel Kenya Mobile Broadband And Fixed Internet",
-      "isp": "Airtel Rwanda LTD",
-      "domain": "airtel.com"
-    }
-  },
-  {
-    "proxy": "http://197.155.64.226:8090",
-    "tested_at": "2026-02-15T01:43:29Z",
-    "ip": "197.155.64.226",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Nairobi",
-    "region_code": "110",
-    "city": "Nairobi",
-    "latitude": -1.2920659,
-    "longitude": 36.8219462,
-    "is_eu": false,
-    "postal": "200",
-    "connection": {
-      "asn": 30844,
-      "org": "Pioneer Hi Bred",
-      "isp": "Liquid Telecommunications LTD",
-      "domain": "liquidtelecom.mu"
     }
   }
 ]

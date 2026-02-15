@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://203.189.96.232:443",
-    "tested_at": "2026-02-15T01:43:08Z",
-    "ip": "203.189.96.232",
+    "proxy": "https://37.120.210.146:9443",
+    "tested_at": "2026-02-15T02:14:42Z",
+    "ip": "37.120.210.153",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,39 +16,16 @@
     "is_eu": false,
     "postal": "100-0002",
     "connection": {
-      "asn": 7506,
-      "org": "Gmo Internet, Inc.",
-      "isp": "Gmo Internet Group, Inc.",
-      "domain": "internet.gmo"
+      "asn": 9009,
+      "org": "M LTD Tokyo Infrastructure",
+      "isp": "M Europe SRL",
+      "domain": "m247.ro"
     }
   },
   {
-    "proxy": "https://47.243.181.85:41408",
-    "tested_at": "2026-02-15T01:43:28Z",
-    "ip": "60.87.94.108",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Minato",
-    "latitude": 35.6580681,
-    "longitude": 139.7515992,
-    "is_eu": false,
-    "postal": "108-0074",
-    "connection": {
-      "asn": 17676,
-      "org": "Softbank Corp.",
-      "isp": "Softbank Mobile Corp.",
-      "domain": "bbtec.net"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41419",
-    "tested_at": "2026-02-15T01:43:41Z",
-    "ip": "240f:31:4c03:1:cd80:ff90:a772:32ad",
+    "proxy": "https://47.243.181.85:41399",
+    "tested_at": "2026-02-15T02:14:42Z",
+    "ip": "2001:348:4700:cc00:8a00:33ff:fe77:9369",
     "success": true,
     "type": "IPv6",
     "continent": "Asia",
@@ -56,11 +33,34 @@
     "country_code": "JP",
     "region": "Tokyo",
     "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
+    "city": "Chiyoda City",
+    "latitude": 35.6952553,
+    "longitude": 139.7620134,
     "is_eu": false,
-    "postal": "100-0002",
+    "postal": "101-0052",
+    "connection": {
+      "asn": 7679,
+      "org": "Qtnet, Inc.",
+      "isp": "QTnet,Inc.",
+      "domain": "qtnet.ad.jp"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41408",
+    "tested_at": "2026-02-15T02:14:52Z",
+    "ip": "14.11.69.32",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Aichi Prefecture",
+    "region_code": "23",
+    "city": "Nagoya",
+    "latitude": 35.1891168,
+    "longitude": 136.890033,
+    "is_eu": false,
+    "postal": "460-8511",
     "connection": {
       "asn": 2516,
       "org": "KDDI CORPORATION",
@@ -69,54 +69,8 @@
     }
   },
   {
-    "proxy": "https://20.78.213.56:443",
-    "tested_at": "2026-02-15T01:43:58Z",
-    "ip": "20.78.213.56",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
-    "is_eu": false,
-    "postal": "100-0002",
-    "connection": {
-      "asn": 8075,
-      "org": "Microsoft Corporation",
-      "isp": "Microsoft Corporation",
-      "domain": "microsoft.com"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41400",
-    "tested_at": "2026-02-15T01:43:59Z",
-    "ip": "221.115.180.65",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Edogawa",
-    "latitude": 35.7066569,
-    "longitude": 139.8684267,
-    "is_eu": false,
-    "postal": "134-0003",
-    "connection": {
-      "asn": 17506,
-      "org": "Arteria Networks Corp.",
-      "isp": "Ucom Corp.",
-      "domain": "arteria-net.com"
-    }
-  },
-  {
     "proxy": "https://103.100.159.145:443",
-    "tested_at": "2026-02-15T01:43:59Z",
+    "tested_at": "2026-02-15T02:14:57Z",
     "ip": "103.100.159.145",
     "success": true,
     "type": "IPv4",
@@ -138,9 +92,32 @@
     }
   },
   {
-    "proxy": "https://47.243.181.85:41402",
-    "tested_at": "2026-02-15T01:44:01Z",
-    "ip": "212.102.51.87",
+    "proxy": "https://47.243.181.85:41390",
+    "tested_at": "2026-02-15T02:15:02Z",
+    "ip": "210.170.186.69",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Ibaraki Prefecture",
+    "region_code": "08",
+    "city": "Mito",
+    "latitude": 36.3665027,
+    "longitude": 140.4709965,
+    "is_eu": false,
+    "postal": "310-0015",
+    "connection": {
+      "asn": 4685,
+      "org": "Asahi Net,inc.",
+      "isp": "Asahi Net",
+      "domain": "asahi-net.jp"
+    }
+  },
+  {
+    "proxy": "https://20.78.213.56:443",
+    "tested_at": "2026-02-15T02:15:12Z",
+    "ip": "20.78.213.56",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -148,16 +125,85 @@
     "country_code": "JP",
     "region": "Tokyo",
     "region_code": "13",
-    "city": "Shibuya City",
-    "latitude": 35.6549037,
-    "longitude": 139.6945698,
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
     "is_eu": false,
-    "postal": "150-0036",
+    "postal": "100-0002",
     "connection": {
-      "asn": 212238,
-      "org": "CDNEXT TYO",
-      "isp": "Datacamp Limited",
-      "domain": "datacamp.co.uk"
+      "asn": 8075,
+      "org": "Microsoft Corporation",
+      "isp": "Microsoft Corporation",
+      "domain": "microsoft.com"
+    }
+  },
+  {
+    "proxy": "https://203.189.96.232:443",
+    "tested_at": "2026-02-15T02:15:12Z",
+    "ip": "203.189.96.232",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
+    "is_eu": false,
+    "postal": "100-0002",
+    "connection": {
+      "asn": 7506,
+      "org": "Gmo Internet, Inc.",
+      "isp": "Gmo Internet Group, Inc.",
+      "domain": "internet.gmo"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41419",
+    "tested_at": "2026-02-15T02:15:12Z",
+    "ip": "126.118.196.110",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Minato",
+    "latitude": 35.6580681,
+    "longitude": 139.7515992,
+    "is_eu": false,
+    "postal": "108-0074",
+    "connection": {
+      "asn": 17676,
+      "org": "Softbank Corp.",
+      "isp": "Softbank Mobile Corp.",
+      "domain": "bbtec.net"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41406",
+    "tested_at": "2026-02-15T02:15:14Z",
+    "ip": "2001:ac8:40:26::14",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Shizuoka Prefecture",
+    "region_code": "22",
+    "city": "Fujieda",
+    "latitude": 34.8673673,
+    "longitude": 138.2574584,
+    "is_eu": false,
+    "postal": "426-0027",
+    "connection": {
+      "asn": 9009,
+      "org": "M LTD Tokyo Infrastructure",
+      "isp": "M Europe SRL",
+      "domain": "m247.ro"
     }
   }
 ]

@@ -1,25 +1,94 @@
 [
   {
-    "proxy": "http://38.52.220.58:999",
-    "tested_at": "2026-02-15T01:43:23Z",
-    "ip": "38.95.89.22",
+    "proxy": "http://170.80.203.28:999",
+    "tested_at": "2026-02-15T02:14:44Z",
+    "ip": "170.80.203.2",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Dominican Republic",
     "country_code": "DO",
-    "region": "La Romana",
-    "region_code": "12",
-    "city": "La Romana",
-    "latitude": 18.4338645,
-    "longitude": -68.9658817,
+    "region": "Santiago",
+    "region_code": "25",
+    "city": "Santiago De Los Caballeros",
+    "latitude": 19.4791963,
+    "longitude": -70.6930568,
     "is_eu": false,
-    "postal": "03669",
+    "postal": "51000",
+    "connection": {
+      "asn": 271819,
+      "org": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
+      "isp": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
+      "domain": "rgdimax.com"
+    }
+  },
+  {
+    "proxy": "http://200.26.187.146:999",
+    "tested_at": "2026-02-15T02:14:45Z",
+    "ip": "38.196.221.248",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Monte Plata",
+    "region_code": "29",
+    "city": "Los Botados",
+    "latitude": 18.7389138,
+    "longitude": -70.0011868,
+    "is_eu": false,
+    "postal": "92000",
+    "connection": {
+      "asn": 273217,
+      "org": "Alcome Tech Srl.",
+      "isp": "ACOLME TECH, SRL",
+      "domain": "alcom.ax"
+    }
+  },
+  {
+    "proxy": "http://38.95.89.204:999",
+    "tested_at": "2026-02-15T02:15:17Z",
+    "ip": "38.95.89.202",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "San José de Ocoa",
+    "region_code": "31",
+    "city": "San Jose de Ocoa",
+    "latitude": 18.543858,
+    "longitude": -70.5041816,
+    "is_eu": false,
+    "postal": "93000",
     "connection": {
       "asn": 272112,
       "org": "Cogent Communications",
       "isp": "TELECABLE DOMINICANO, S.A.",
       "domain": "telecabledominicano.com.do"
+    }
+  },
+  {
+    "proxy": "http://38.156.233.74:999",
+    "tested_at": "2026-02-15T02:15:22Z",
+    "ip": "38.156.233.74",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "San Pedro de Macoris",
+    "region_code": "23",
+    "city": "San Pedro De Macoris",
+    "latitude": 18.4720698,
+    "longitude": -69.2996732,
+    "is_eu": false,
+    "postal": "21000",
+    "connection": {
+      "asn": 272882,
+      "org": "BITNET DOMINICANA, S.R.L.",
+      "isp": "BITNET DOMINICANA, S.R.L.",
+      "domain": "bitnet.com.do"
     }
   }
 ]

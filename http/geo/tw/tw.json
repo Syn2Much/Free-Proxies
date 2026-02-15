@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://35.234.17.221:8080",
-    "tested_at": "2026-02-15T01:43:54Z",
+    "tested_at": "2026-02-15T02:15:06Z",
     "ip": "35.234.17.221",
     "success": true,
     "type": "IPv4",
@@ -20,29 +20,6 @@
       "org": "Google LLC",
       "isp": "Google LLC",
       "domain": "google.com"
-    }
-  },
-  {
-    "proxy": "http://118.163.120.181:58837",
-    "tested_at": "2026-02-15T01:44:05Z",
-    "ip": "118.163.120.181",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Taiwan",
-    "country_code": "TW",
-    "region": "Keelung City",
-    "region_code": "KEE",
-    "city": "Taipei",
-    "latitude": 25.0329694,
-    "longitude": 121.5654177,
-    "is_eu": false,
-    "postal": "11008",
-    "connection": {
-      "asn": 3462,
-      "org": "Chunghwa Telecom CO.,LTD.",
-      "isp": "Chunghwa Telecom Co., Ltd.",
-      "domain": "cht.com.tw"
     }
   }
 ]
