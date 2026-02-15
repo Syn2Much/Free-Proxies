@@ -1,23 +1,23 @@
 [
   {
     "proxy": "https://47.243.181.85:41488",
-    "tested_at": "2026-02-15T00:40:45Z",
-    "ip": "45.192.138.222",
+    "tested_at": "2026-02-15T02:46:17Z",
+    "ip": "117.55.251.171",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Myanmar [Burma]",
     "country_code": "MM",
-    "region": "Naypyitaw Union Territory",
-    "region_code": "",
-    "city": "Naypyitaw",
-    "latitude": 19.7633057,
-    "longitude": 96.0785104,
+    "region": "Yangon",
+    "region_code": "06",
+    "city": "Yangon",
+    "latitude": 16.8660694,
+    "longitude": 96.195132,
     "is_eu": false,
-    "postal": "15011",
+    "postal": "00000",
     "connection": {
       "asn": 135300,
-      "org": "Myanmar Broadband Telecom CO.,LTD.",
+      "org": "Myanmar Broadband Telecom Co., LTD",
       "isp": "Myanmar Broadband Telecom Co., Ltd",
       "domain": "mbt.com.mm"
     }

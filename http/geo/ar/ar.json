@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://190.2.57.97:3128",
+    "tested_at": "2026-02-15T02:45:46Z",
+    "ip": "190.2.57.97",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "Buenos Aires",
+    "latitude": -34.6036844,
+    "longitude": -58.3815591,
+    "is_eu": false,
+    "postal": "C1405 DJG",
+    "connection": {
+      "asn": 16814,
+      "org": "LISA DANIEL ADRIAN INTERLIONS",
+      "isp": "NSS S.A.",
+      "domain": "iplan.com.ar"
+    }
+  },
+  {
     "proxy": "http://67.43.228.253:26149",
-    "tested_at": "2026-02-15T02:14:31Z",
+    "tested_at": "2026-02-15T02:45:56Z",
     "ip": "190.173.80.89",
     "success": true,
     "type": "IPv4",
@@ -23,78 +46,9 @@
     }
   },
   {
-    "proxy": "http://72.10.160.90:31817",
-    "tested_at": "2026-02-15T02:14:31Z",
-    "ip": "191.82.104.66",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Mendoza",
-    "region_code": "M",
-    "city": "Mendoza",
-    "latitude": -32.8894587,
-    "longitude": -68.8458386,
-    "is_eu": false,
-    "postal": "78644",
-    "connection": {
-      "asn": 22927,
-      "org": "Telefonica De Argentina",
-      "isp": "Telefonica De Argentina",
-      "domain": "telefonica.com.ar"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.93:31817",
-    "tested_at": "2026-02-15T02:15:03Z",
-    "ip": "191.82.104.66",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Mendoza",
-    "region_code": "M",
-    "city": "Mendoza",
-    "latitude": -32.8894587,
-    "longitude": -68.8458386,
-    "is_eu": false,
-    "postal": "78644",
-    "connection": {
-      "asn": 22927,
-      "org": "Telefonica De Argentina",
-      "isp": "Telefonica De Argentina",
-      "domain": "telefonica.com.ar"
-    }
-  },
-  {
-    "proxy": "http://170.80.95.7:11211",
-    "tested_at": "2026-02-15T02:15:09Z",
-    "ip": "170.80.95.1",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Buenos Aires",
-    "region_code": "B",
-    "city": "San Carlos de Bolívar",
-    "latitude": -36.2391263,
-    "longitude": -61.1255879,
-    "is_eu": false,
-    "postal": "B6550 CGG",
-    "connection": {
-      "asn": 270089,
-      "org": "FIBRAS OPTICAS DE MAR DEL PLATA S.A.",
-      "isp": "FIBRAS OPTICAS DE MAR DEL PLATA S.A.",
-      "domain": "sectornet.com.ar"
-    }
-  },
-  {
-    "proxy": "http://181.209.82.197:999",
-    "tested_at": "2026-02-15T02:15:11Z",
-    "ip": "181.209.82.197",
+    "proxy": "http://138.117.13.129:999",
+    "tested_at": "2026-02-15T02:46:07Z",
+    "ip": "179.40.47.197",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -108,10 +62,102 @@
     "is_eu": false,
     "postal": "C1405 DJG",
     "connection": {
-      "asn": 52361,
-      "org": "Net g S.R.L",
-      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
-      "domain": "arsat.com.ar"
+      "asn": 22927,
+      "org": "Tamayo Magda Judith",
+      "isp": "Telefonica De Argentina",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://72.10.160.92:11435",
+    "tested_at": "2026-02-15T02:46:22Z",
+    "ip": "190.173.193.185",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "Hurlingham",
+    "latitude": -34.589571,
+    "longitude": -58.6275502,
+    "is_eu": false,
+    "postal": "1686",
+    "connection": {
+      "asn": 22927,
+      "org": "Telefonica De Argentina",
+      "isp": "Telefonica De Argentina",
+      "domain": "telefonica.com.ar"
+    }
+  },
+  {
+    "proxy": "http://200.41.170.212:11201",
+    "tested_at": "2026-02-15T02:46:25Z",
+    "ip": "200.41.170.211",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "Buenos Aires",
+    "latitude": -34.6036844,
+    "longitude": -58.3815591,
+    "is_eu": false,
+    "postal": "C1405 DJG",
+    "connection": {
+      "asn": 10834,
+      "org": "Telefonica De Argentina",
+      "isp": "Telefonica De Argentina",
+      "domain": "telefonica.com.ar"
+    }
+  },
+  {
+    "proxy": "http://200.59.10.49:999",
+    "tested_at": "2026-02-15T02:46:27Z",
+    "ip": "200.59.10.38",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "AAP",
+    "latitude": -34.604694,
+    "longitude": -58.395998,
+    "is_eu": false,
+    "postal": "C1045",
+    "connection": {
+      "asn": 12150,
+      "org": "Clientes Ctlc",
+      "isp": "COTELCAM",
+      "domain": "advantun.com"
+    }
+  },
+  {
+    "proxy": "http://45.224.31.13:999",
+    "tested_at": "2026-02-15T02:46:27Z",
+    "ip": "45.224.29.205",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Chaco",
+    "region_code": "H",
+    "city": "Charata",
+    "latitude": -27.2179902,
+    "longitude": -61.1873617,
+    "is_eu": false,
+    "postal": "3730",
+    "connection": {
+      "asn": 265835,
+      "org": "GODOY LUIS ALBERTO",
+      "isp": "GODOY LUIS ALBERTO",
+      "domain": "pro-data.com.ar"
     }
   }
 ]

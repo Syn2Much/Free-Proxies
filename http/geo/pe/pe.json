@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://8.243.126.136:8801",
-    "tested_at": "2026-02-15T02:14:40Z",
-    "ip": "8.243.126.136",
+    "proxy": "http://72.10.160.171:23467",
+    "tested_at": "2026-02-15T02:45:41Z",
+    "ip": "179.7.180.75",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Arequipa",
+    "region_code": "ARE",
+    "city": "Arequipa",
+    "latitude": -16.4090474,
+    "longitude": -71.537451,
+    "is_eu": false,
+    "postal": "04001",
+    "connection": {
+      "asn": 12252,
+      "org": "America Movil Peru S.A.C.",
+      "isp": "America Movil Peru S.A.C.",
+      "domain": "claro.com.pe"
+    }
+  },
+  {
+    "proxy": "http://38.159.166.249:999",
+    "tested_at": "2026-02-15T02:45:43Z",
+    "ip": "38.159.166.157",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -16,84 +39,38 @@
     "is_eu": false,
     "postal": "15081",
     "connection": {
-      "asn": 272106,
-      "org": "CORPORACION TARAZONA CATV SOCIEDAD ANONIMA CERRADA CORPORACION TARAZONA CATV S.A.C.",
-      "isp": "CORPORACION TARAZONA CATV S.A.C.",
-      "domain": "fibernetperu.pe"
+      "asn": 274113,
+      "org": "Cogent Communications",
+      "isp": "CINTELSUR PERU S.A.C.",
+      "domain": "cintel.pe"
     }
   },
   {
-    "proxy": "http://72.10.164.178:25639",
-    "tested_at": "2026-02-15T02:14:42Z",
-    "ip": "38.250.158.71",
+    "proxy": "http://45.171.166.146:999",
+    "tested_at": "2026-02-15T02:45:46Z",
+    "ip": "45.171.166.145",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Peru",
     "country_code": "PE",
-    "region": "Moquegua",
-    "region_code": "MOQ",
-    "city": "Moquegua",
-    "latitude": -16.895405,
-    "longitude": -70.8574902,
+    "region": "Lima",
+    "region_code": "LIM",
+    "city": "San Juan de Lurigancho",
+    "latitude": -11.9689301,
+    "longitude": -76.9939836,
     "is_eu": false,
-    "postal": "",
+    "postal": "15401",
     "connection": {
-      "asn": 270068,
-      "org": "Wow Tel Sac",
-      "isp": "DESARROLLO DE INFRAESTRUCTURA DE TELECOMUNICACIONES PERU S.A.C. INFRATEL",
-      "domain": "wowperu.pe"
+      "asn": 273133,
+      "org": "CONEX TV E.I.R.L.",
+      "isp": "CONEX TV E.I.R.L.",
+      "domain": "conextv.pe"
     }
   },
   {
-    "proxy": "http://170.81.242.238:999",
-    "tested_at": "2026-02-15T02:14:45Z",
-    "ip": "170.81.241.14",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Lambayeque",
-    "region_code": "LAM",
-    "city": "Chiclayo",
-    "latitude": -6.778737,
-    "longitude": -79.886098,
-    "is_eu": false,
-    "postal": "14012",
-    "connection": {
-      "asn": 269803,
-      "org": "INVENTA TELECOMUNICACIONES EIRL",
-      "isp": "INVENTA TELECOMUNICACIONES EIRL",
-      "domain": "inventa.pe"
-    }
-  },
-  {
-    "proxy": "http://190.43.92.125:999",
-    "tested_at": "2026-02-15T02:14:45Z",
-    "ip": "190.43.92.125",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Tacna",
-    "region_code": "TAC",
-    "city": "Tacna",
-    "latitude": -18.0065679,
-    "longitude": -70.2462741,
-    "is_eu": false,
-    "postal": "23001",
-    "connection": {
-      "asn": 6147,
-      "org": "PE TDPERX11 LACNIC",
-      "isp": "INTEGRATEL PER S.A.A.",
-      "domain": "telefonica.com"
-    }
-  },
-  {
-    "proxy": "http://200.48.35.126:999",
-    "tested_at": "2026-02-15T02:15:19Z",
+    "proxy": "http://200.48.35.122:999",
+    "tested_at": "2026-02-15T02:45:49Z",
     "ip": "200.10.68.234",
     "success": true,
     "type": "IPv4",
@@ -115,9 +92,32 @@
     }
   },
   {
-    "proxy": "http://38.252.215.110:999",
-    "tested_at": "2026-02-15T02:15:20Z",
-    "ip": "38.252.215.108",
+    "proxy": "http://200.39.152.161:999",
+    "tested_at": "2026-02-15T02:46:04Z",
+    "ip": "201.230.105.248",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Cajamarca",
+    "region_code": "CAJ",
+    "city": "Cajamarca",
+    "latitude": -7.1617465,
+    "longitude": -78.5127855,
+    "is_eu": false,
+    "postal": "06003",
+    "connection": {
+      "asn": 6147,
+      "org": "PE TDPERX LACNIC",
+      "isp": "Telefonica del Peru",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://45.189.108.20:999",
+    "tested_at": "2026-02-15T02:46:34Z",
+    "ip": "45.189.108.16",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -131,10 +131,10 @@
     "is_eu": false,
     "postal": "15081",
     "connection": {
-      "asn": 274156,
-      "org": "Telcom Mikrotik Peru S.A.C",
-      "isp": "Cogent Communications",
-      "domain": ""
+      "asn": 269843,
+      "org": "BANTEL SAC",
+      "isp": "BANTEL SAC",
+      "domain": "bantel.com.pe"
     }
   }
 ]

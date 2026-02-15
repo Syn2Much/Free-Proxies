@@ -1,20 +1,20 @@
 [
   {
-    "proxy": "http://181.78.107.139:999",
-    "tested_at": "2026-02-15T01:43:24Z",
-    "ip": "181.78.107.139",
+    "proxy": "http://181.78.51.157:999",
+    "tested_at": "2026-02-15T02:45:47Z",
+    "ip": "181.78.51.157",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Guatemala",
     "country_code": "GT",
-    "region": "Huehuetenango",
-    "region_code": "HU",
-    "city": "Jacaltenango",
-    "latitude": 15.6653998,
-    "longitude": -91.7113107,
+    "region": "Guatemala Department",
+    "region_code": "GU",
+    "city": "Guatemala City",
+    "latitude": 14.6349149,
+    "longitude": -90.5068824,
     "is_eu": false,
-    "postal": "",
+    "postal": "01004",
     "connection": {
       "asn": 52468,
       "org": "Ufinet Guatemala S. A.",
@@ -23,26 +23,26 @@
     }
   },
   {
-    "proxy": "http://143.208.57.162:999",
-    "tested_at": "2026-02-15T01:43:52Z",
-    "ip": "143.208.57.162",
+    "proxy": "http://143.208.59.2:999",
+    "tested_at": "2026-02-15T02:46:40Z",
+    "ip": "143.208.59.2",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Guatemala",
     "country_code": "GT",
-    "region": "Chimaltenango",
-    "region_code": "CM",
-    "city": "Parramos",
-    "latitude": 14.6136872,
-    "longitude": -90.8032181,
+    "region": "Guatemala Department",
+    "region_code": "GU",
+    "city": "Guatemala City",
+    "latitude": 14.6349149,
+    "longitude": -90.5068824,
     "is_eu": false,
-    "postal": "04014",
+    "postal": "01004",
     "connection": {
       "asn": 22869,
       "org": "COMUNICACIONES METROPOLITANAS CABLECOLOR",
       "isp": "CABLECOLOR S.A.",
-      "domain": "cablecolor.net"
+      "domain": "cablecolor.com.gt"
     }
   }
 ]

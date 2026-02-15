@@ -1,10 +1,10 @@
 [
   {
-    "proxy": "http://65.21.201.149:8080",
-    "tested_at": "2026-02-15T02:14:30Z",
-    "ip": "2a09:bac1:2500::1d8:1ea",
+    "proxy": "http://65.108.159.129:4145",
+    "tested_at": "2026-02-15T02:45:42Z",
+    "ip": "65.108.159.129",
     "success": true,
-    "type": "IPv6",
+    "type": "IPv4",
     "continent": "Europe",
     "country": "Finland",
     "country_code": "FI",
@@ -16,15 +16,15 @@
     "is_eu": true,
     "postal": "02101",
     "connection": {
-      "asn": 13335,
-      "org": "CLOUDFLAREWARP",
-      "isp": "Cloudflare, Inc.",
-      "domain": "cloudflare.com"
+      "asn": 24940,
+      "org": "Hetzner Online GmbH",
+      "isp": "Hetzner Online GmbH",
+      "domain": "hetzner.com"
     }
   },
   {
     "proxy": "http://65.108.159.129:3128",
-    "tested_at": "2026-02-15T02:14:32Z",
+    "tested_at": "2026-02-15T02:45:52Z",
     "ip": "65.108.159.129",
     "success": true,
     "type": "IPv4",
@@ -46,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://31.57.62.235:37982",
-    "tested_at": "2026-02-15T02:14:41Z",
-    "ip": "31.57.62.235",
+    "proxy": "http://193.47.60.119:52681",
+    "tested_at": "2026-02-15T02:46:01Z",
+    "ip": "193.47.60.119",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -62,56 +62,10 @@
     "is_eu": true,
     "postal": "02101",
     "connection": {
-      "asn": 56971,
-      "org": "CGI GLOBAL LIMITED",
-      "isp": "CGI GLOBAL LIMITED",
-      "domain": "cloudbackbone.net"
-    }
-  },
-  {
-    "proxy": "http://65.108.159.129:5678",
-    "tested_at": "2026-02-15T02:14:52Z",
-    "ip": "65.108.159.129",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Finland",
-    "country_code": "FI",
-    "region": "Mainland Finland",
-    "region_code": "",
-    "city": "Helsinki",
-    "latitude": 60.1698557,
-    "longitude": 24.938379,
-    "is_eu": true,
-    "postal": "02101",
-    "connection": {
-      "asn": 24940,
-      "org": "Hetzner Online GmbH",
-      "isp": "Hetzner Online GmbH",
-      "domain": "hetzner.com"
-    }
-  },
-  {
-    "proxy": "http://94.159.112.138:3128",
-    "tested_at": "2026-02-15T02:15:02Z",
-    "ip": "94.159.112.138",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Finland",
-    "country_code": "FI",
-    "region": "Mainland Finland",
-    "region_code": "",
-    "city": "Helsinki",
-    "latitude": 60.1698557,
-    "longitude": 24.938379,
-    "is_eu": true,
-    "postal": "02101",
-    "connection": {
-      "asn": 216300,
-      "org": "New Hosting Technologies LLC",
-      "isp": "Closed Joint Stock Company Abkhazmedia",
-      "domain": "landvps.ru"
+      "asn": 41745,
+      "org": "Baykov Ilya Sergeevich",
+      "isp": "Baykov Ilya Sergeevich",
+      "domain": "fortis.host"
     }
   }
 ]

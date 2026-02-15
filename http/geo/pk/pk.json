@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://154.208.58.89:8080",
+    "tested_at": "2026-02-15T02:46:05Z",
+    "ip": "154.208.58.172",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "region": "Punjab",
+    "region_code": "PB",
+    "city": "Lahore",
+    "latitude": 31.5546061,
+    "longitude": 74.3571581,
+    "is_eu": false,
+    "postal": "54000",
+    "connection": {
+      "asn": 150750,
+      "org": "IN CABLE INTERNET PRIVATE LIMITED",
+      "isp": "IN CABLE INTERNET PRIVATE LIMITED",
+      "domain": "incableinternet.com"
+    }
+  },
+  {
     "proxy": "http://103.66.149.194:8080",
-    "tested_at": "2026-02-15T02:14:45Z",
+    "tested_at": "2026-02-15T02:46:05Z",
     "ip": "160.30.142.33",
     "success": true,
     "type": "IPv4",
@@ -23,49 +46,49 @@
     }
   },
   {
-    "proxy": "http://72.10.160.174:28731",
-    "tested_at": "2026-02-15T02:15:14Z",
-    "ip": "103.244.176.7",
+    "proxy": "http://115.42.67.186:8080",
+    "tested_at": "2026-02-15T02:46:14Z",
+    "ip": "115.42.67.186",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Pakistan",
     "country_code": "PK",
-    "region": "Sindh",
-    "region_code": "SD",
-    "city": "Karachi",
-    "latitude": 24.8614622,
-    "longitude": 67.0099388,
+    "region": "Balochistan",
+    "region_code": "BA",
+    "city": "Gaddani",
+    "latitude": 25.0861084,
+    "longitude": 66.7307796,
     "is_eu": false,
-    "postal": "74400",
+    "postal": "90300",
     "connection": {
-      "asn": 9541,
-      "org": "Cyber Internet Services Pakistan",
-      "isp": "Cyber Internet Services private Limited",
-      "domain": "cyber.net.pk"
+      "asn": 132165,
+      "org": "Connect Communication",
+      "isp": "Connect Communication",
+      "domain": "connect.net.pk"
     }
   },
   {
-    "proxy": "http://103.198.154.196:8080",
-    "tested_at": "2026-02-15T02:15:24Z",
-    "ip": "103.198.154.196",
+    "proxy": "http://59.103.34.162:8080",
+    "tested_at": "2026-02-15T02:46:25Z",
+    "ip": "59.103.34.162",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Pakistan",
     "country_code": "PK",
-    "region": "Punjab",
-    "region_code": "PB",
-    "city": "Lahore",
-    "latitude": 31.5546061,
-    "longitude": 74.3571581,
+    "region": "Islamabad Capital Territory",
+    "region_code": "",
+    "city": "Islamabad",
+    "latitude": 33.7293882,
+    "longitude": 73.0931461,
     "is_eu": false,
-    "postal": "54000",
+    "postal": "44000",
     "connection": {
-      "asn": 151330,
-      "org": "PLAY BROADBAND PRIVATE LIMITED",
-      "isp": "PLAY BROADBAND PRIVATE LIMITED",
-      "domain": "pbb.net.pk"
+      "asn": 139820,
+      "org": "Narrowband Hsi Pool for Rawalpindi1",
+      "isp": "HG TELECOMMUNICATION PRIVATE LIMITED",
+      "domain": "ptcl.net.pk"
     }
   }
 ]

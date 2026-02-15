@@ -1,30 +1,30 @@
 [
   {
-    "proxy": "http://195.234.68.34:3128",
-    "tested_at": "2026-02-15T02:14:31Z",
-    "ip": "195.234.68.34",
+    "proxy": "http://188.163.170.130:41209",
+    "tested_at": "2026-02-15T02:45:44Z",
+    "ip": "188.163.170.130",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Ukraine",
     "country_code": "UA",
-    "region": "Kyiv city",
-    "region_code": "30",
-    "city": "Kyiv",
-    "latitude": 50.4501,
-    "longitude": 30.5234,
+    "region": "Lviv Oblast",
+    "region_code": "46",
+    "city": "Lviv",
+    "latitude": 49.839683,
+    "longitude": 24.029717,
     "is_eu": false,
-    "postal": "01001",
+    "postal": "79008",
     "connection": {
-      "asn": 13307,
-      "org": "AS LIMITED LIABILITY COMPANY",
-      "isp": "AS LIMITED LIABILITY COMPANY",
-      "domain": "as6723.net"
+      "asn": 15895,
+      "org": "Golden Telecom LLC",
+      "isp": "Kyivstar Pjsc",
+      "domain": "kyivstar.net"
     }
   },
   {
     "proxy": "http://194.29.60.220:8080",
-    "tested_at": "2026-02-15T02:14:58Z",
+    "tested_at": "2026-02-15T02:45:59Z",
     "ip": "194.29.60.220",
     "success": true,
     "type": "IPv4",
@@ -46,49 +46,26 @@
     }
   },
   {
-    "proxy": "http://91.228.217.195:8989",
-    "tested_at": "2026-02-15T02:15:02Z",
-    "ip": "91.228.217.195",
+    "proxy": "http://185.218.202.182:8080",
+    "tested_at": "2026-02-15T02:46:03Z",
+    "ip": "185.218.202.182",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Ukraine",
     "country_code": "UA",
-    "region": "Ivano-Frankivsk Oblast",
-    "region_code": "",
-    "city": "Kryvorivnya",
-    "latitude": 48.1736874,
-    "longitude": 24.8963763,
+    "region": "Kyiv Oblast",
+    "region_code": "32",
+    "city": "Hostomel'",
+    "latitude": 50.579141,
+    "longitude": 30.2150743,
     "is_eu": false,
-    "postal": "78710",
+    "postal": "08290",
     "connection": {
-      "asn": 209907,
-      "org": "Fop Saiv Igor Stepanovich",
-      "isp": "Fop Saiv Igor Stepanovich",
-      "domain": "gipernet.com.ua"
-    }
-  },
-  {
-    "proxy": "http://178.34.190.6:8080",
-    "tested_at": "2026-02-15T02:15:18Z",
-    "ip": "178.34.190.6",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Simferopol municipality council",
-    "region_code": "",
-    "city": "Simferopol",
-    "latitude": 44.952117,
-    "longitude": 34.102417,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 201776,
-      "org": "Miranda media LTD",
-      "isp": "Miranda media LTD",
-      "domain": "miranda-media.ru"
+      "asn": 45017,
+      "org": "Dominet LLC",
+      "isp": "DOMINET LLC",
+      "domain": "dominet.com.ua"
     }
   }
 ]

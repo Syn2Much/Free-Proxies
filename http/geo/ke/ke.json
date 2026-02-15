@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://41.89.225.225:3128",
-    "tested_at": "2026-02-15T02:14:44Z",
-    "ip": "41.89.225.225",
+    "proxy": "http://102.0.16.226:8080",
+    "tested_at": "2026-02-15T02:45:49Z",
+    "ip": "102.0.16.226",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Embu County",
+    "region_code": "06",
+    "city": "Embu",
+    "latitude": -0.5388381,
+    "longitude": 37.4596409,
+    "is_eu": false,
+    "postal": "60100",
+    "connection": {
+      "asn": 327708,
+      "org": "Allocated to Airtel Kenya Mobile Broadband And Fixed Internet",
+      "isp": "Airtel Rwanda LTD",
+      "domain": "airtel.com"
+    }
+  },
+  {
+    "proxy": "http://102.211.145.37:8080",
+    "tested_at": "2026-02-15T02:45:55Z",
+    "ip": "102.211.145.37",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,15 +39,38 @@
     "is_eu": false,
     "postal": "200",
     "connection": {
-      "asn": 36914,
-      "org": "Kenya Methodist University Meru Campus",
-      "isp": "Kenya Education Network",
-      "domain": "kenet.or.ke"
+      "asn": 328490,
+      "org": "Unwired Communications",
+      "isp": "Unwired Communications Limited",
+      "domain": "unwired.co.ke"
     }
   },
   {
-    "proxy": "http://197.248.75.221:8105",
-    "tested_at": "2026-02-15T02:14:46Z",
+    "proxy": "http://102.0.11.176:8080",
+    "tested_at": "2026-02-15T02:45:58Z",
+    "ip": "102.0.11.176",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Kiambu",
+    "region_code": "13",
+    "city": "Ruiru",
+    "latitude": -1.1457029,
+    "longitude": 36.9648534,
+    "is_eu": false,
+    "postal": "01001",
+    "connection": {
+      "asn": 327708,
+      "org": "Allocated to Airtel Kenya Mobile Broadband And Fixed Internet",
+      "isp": "Airtel Rwanda LTD",
+      "domain": "airtel.com"
+    }
+  },
+  {
+    "proxy": "http://197.248.75.221:8104",
+    "tested_at": "2026-02-15T02:46:09Z",
     "ip": "197.248.75.221",
     "success": true,
     "type": "IPv4",
@@ -41,52 +87,6 @@
     "connection": {
       "asn": 37061,
       "org": "For Safaricom Kenya Enterprise Business Unit",
-      "isp": "Safaricom Limited",
-      "domain": "safaricom.co.ke"
-    }
-  },
-  {
-    "proxy": "http://102.208.166.248:8082",
-    "tested_at": "2026-02-15T02:14:53Z",
-    "ip": "102.208.166.248",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Nairobi",
-    "region_code": "110",
-    "city": "Nairobi",
-    "latitude": -1.2920659,
-    "longitude": 36.8219462,
-    "is_eu": false,
-    "postal": "200",
-    "connection": {
-      "asn": 329452,
-      "org": "Alwen Networks Co. Limited",
-      "isp": "Alwen Networks Co. Limited",
-      "domain": "alwennetworks.com"
-    }
-  },
-  {
-    "proxy": "http://41.203.213.211:8105",
-    "tested_at": "2026-02-15T02:14:57Z",
-    "ip": "41.203.213.211",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Nairobi",
-    "region_code": "110",
-    "city": "Nairobi",
-    "latitude": -1.2920659,
-    "longitude": 36.8219462,
-    "is_eu": false,
-    "postal": "200",
-    "connection": {
-      "asn": 37061,
-      "org": "This Is for Fixed Wimax for Corporate Customers",
       "isp": "Safaricom Limited",
       "domain": "safaricom.co.ke"
     }

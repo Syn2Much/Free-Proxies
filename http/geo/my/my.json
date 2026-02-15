@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://72.10.160.171:32241",
-    "tested_at": "2026-02-15T02:14:43Z",
+    "tested_at": "2026-02-15T02:45:52Z",
     "ip": "210.186.174.7",
     "success": true,
     "type": "IPv4",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://67.43.236.20:2589",
-    "tested_at": "2026-02-15T02:14:53Z",
-    "ip": "115.132.255.83",
+    "proxy": "http://113.23.200.86:8081",
+    "tested_at": "2026-02-15T02:45:54Z",
+    "ip": "113.23.200.84",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -33,16 +33,16 @@
     "country_code": "MY",
     "region": "Selangor",
     "region_code": "10",
-    "city": "Ampang Jaya",
-    "latitude": 3.179095,
-    "longitude": 101.773562,
+    "city": "Cyberjaya",
+    "latitude": 2.921318,
+    "longitude": 101.6559349,
     "is_eu": false,
-    "postal": "68000",
+    "postal": "63200",
     "connection": {
-      "asn": 4788,
-      "org": "TMNST",
-      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-      "domain": "tm.com.my"
+      "asn": 38182,
+      "org": "Extreme Broadband",
+      "isp": "Extreme Broadband",
+      "domain": ""
     }
   }
 ]

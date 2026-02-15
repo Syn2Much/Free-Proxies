@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://158.160.215.167:8124",
-    "tested_at": "2026-02-15T02:14:31Z",
-    "ip": "154.212.30.205",
+    "proxy": "http://185.144.60.130:8095",
+    "tested_at": "2026-02-15T02:45:44Z",
+    "ip": "185.144.60.130",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Russia",
+    "country_code": "RU",
+    "region": "Voronezh Oblast",
+    "region_code": "VOR",
+    "city": "Voronezh",
+    "latitude": 51.6754966,
+    "longitude": 39.2088823,
+    "is_eu": false,
+    "postal": "394018",
+    "connection": {
+      "asn": 43991,
+      "org": "RU VORONEZHTELECOM 01 0 1",
+      "isp": "VORONEZH TELECOM LLC",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://45.151.182.9:3128",
+    "tested_at": "2026-02-15T02:45:50Z",
+    "ip": "45.151.182.9",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,15 +39,15 @@
     "is_eu": false,
     "postal": "103073",
     "connection": {
-      "asn": 49505,
-      "org": "IT HOST BKPL",
-      "isp": "JSC Selectel",
-      "domain": "backupland.com"
+      "asn": 213220,
+      "org": "THUNDER NETWORK LIMITED",
+      "isp": "Delta LTD",
+      "domain": "telkom.co.za"
     }
   },
   {
     "proxy": "http://158.160.215.167:8126",
-    "tested_at": "2026-02-15T02:14:32Z",
+    "tested_at": "2026-02-15T02:45:54Z",
     "ip": "45.195.99.254",
     "success": true,
     "type": "IPv4",
@@ -46,9 +69,9 @@
     }
   },
   {
-    "proxy": "http://158.160.215.167:8127",
-    "tested_at": "2026-02-15T02:14:59Z",
-    "ip": "170.168.253.16",
+    "proxy": "http://62.113.119.14:8080",
+    "tested_at": "2026-02-15T02:45:54Z",
+    "ip": "62.113.119.14",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -56,21 +79,44 @@
     "country_code": "RU",
     "region": "Moscow",
     "region_code": "MOW",
-    "city": "Zelenograd",
-    "latitude": 55.9871526,
-    "longitude": 37.2021514,
+    "city": "Moscow",
+    "latitude": 55.755826,
+    "longitude": 37.6173,
     "is_eu": false,
-    "postal": "124460",
+    "postal": "103073",
     "connection": {
-      "asn": 44559,
-      "org": "IT Hostline LTD",
-      "isp": "IT HOSTLINE LTD",
-      "domain": "ithostline.com"
+      "asn": 48282,
+      "org": "Vdsina Vds Hosting",
+      "isp": "Hosting Technology LTD",
+      "domain": "vdsina.ru"
+    }
+  },
+  {
+    "proxy": "http://158.160.215.167:8124",
+    "tested_at": "2026-02-15T02:46:12Z",
+    "ip": "154.212.30.205",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Russia",
+    "country_code": "RU",
+    "region": "Moscow",
+    "region_code": "MOW",
+    "city": "Moscow",
+    "latitude": 55.755826,
+    "longitude": 37.6173,
+    "is_eu": false,
+    "postal": "103073",
+    "connection": {
+      "asn": 49505,
+      "org": "IT HOST BKPL",
+      "isp": "JSC Selectel",
+      "domain": "backupland.com"
     }
   },
   {
     "proxy": "http://158.160.215.167:8125",
-    "tested_at": "2026-02-15T02:15:03Z",
+    "tested_at": "2026-02-15T02:46:25Z",
     "ip": "45.196.125.153",
     "success": true,
     "type": "IPv4",
@@ -92,9 +138,9 @@
     }
   },
   {
-    "proxy": "http://185.145.124.173:8080",
-    "tested_at": "2026-02-15T02:15:03Z",
-    "ip": "185.145.124.173",
+    "proxy": "http://195.133.250.173:3127",
+    "tested_at": "2026-02-15T02:46:27Z",
+    "ip": "195.133.250.173",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -108,33 +154,10 @@
     "is_eu": false,
     "postal": "103073",
     "connection": {
-      "asn": 50254,
-      "org": "RU SKY EN 01 0 11",
-      "isp": "Sky Engineering LLC",
-      "domain": "sky-en.ru"
-    }
-  },
-  {
-    "proxy": "http://176.100.216.164:8282",
-    "tested_at": "2026-02-15T02:15:06Z",
-    "ip": "176.100.216.164",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Russia",
-    "country_code": "RU",
-    "region": "Moscow Oblast",
-    "region_code": "MOS",
-    "city": "Orekhovo-Zuyevo",
-    "latitude": 55.8034354,
-    "longitude": 38.9667902,
-    "is_eu": false,
-    "postal": "142600",
-    "connection": {
-      "asn": 57489,
-      "org": "LLC Telecom uslugi",
-      "isp": "LLC Telecom uslugi",
-      "domain": "oz-on.ru"
+      "asn": 29226,
+      "org": "Mastertel Network For Stroy Service",
+      "isp": "JSC Mastertel",
+      "domain": "mastertel.ru"
     }
   }
 ]

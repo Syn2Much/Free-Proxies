@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://185.189.51.72:12345",
-    "tested_at": "2026-02-15T02:14:50Z",
-    "ip": "185.189.51.72",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Dalecarlia",
-    "region_code": "",
-    "city": "Leksand",
-    "latitude": 60.8260976,
-    "longitude": 14.9920858,
-    "is_eu": true,
-    "postal": "793 90",
-    "connection": {
-      "asn": 206170,
-      "org": "Inleed",
-      "isp": "Yelles Ab",
-      "domain": "yelles.se"
-    }
-  },
-  {
-    "proxy": "http://83.219.250.8:62920",
-    "tested_at": "2026-02-15T02:14:51Z",
-    "ip": "83.219.250.8",
+    "proxy": "http://193.181.35.95:8118",
+    "tested_at": "2026-02-15T02:45:42Z",
+    "ip": "193.181.35.95",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,10 +16,33 @@
     "is_eu": true,
     "postal": "111 29",
     "connection": {
-      "asn": 41745,
-      "org": "Baykov Ilya Sergeevich",
-      "isp": "Baykov Ilya Sergeevich",
-      "domain": "fortis.host"
+      "asn": 42201,
+      "org": "Pvdatanet Ab",
+      "isp": "Pvdatanet Ab",
+      "domain": "pvdatanet.com"
+    }
+  },
+  {
+    "proxy": "http://65.108.203.36:18080",
+    "tested_at": "2026-02-15T02:46:00Z",
+    "ip": "2001:67c:198c:906:27::387",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "Sweden",
+    "country_code": "SE",
+    "region": "Östergötland County",
+    "region_code": "E",
+    "city": "Linköping",
+    "latitude": 58.410807,
+    "longitude": 15.6213727,
+    "is_eu": true,
+    "postal": "582 24",
+    "connection": {
+      "asn": 205016,
+      "org": "Hern Labs Ab",
+      "isp": "Hern Labs Ab",
+      "domain": "hernlabs.se"
     }
   }
 ]

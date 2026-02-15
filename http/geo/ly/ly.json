@@ -1,8 +1,8 @@
 [
   {
     "proxy": "http://102.68.128.212:8080",
-    "tested_at": "2026-02-15T02:14:34Z",
-    "ip": "102.68.128.194",
+    "tested_at": "2026-02-15T02:46:11Z",
+    "ip": "102.68.128.200",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -23,26 +23,26 @@
     }
   },
   {
-    "proxy": "http://102.38.29.36:8080",
-    "tested_at": "2026-02-15T02:15:15Z",
-    "ip": "102.38.29.36",
+    "proxy": "http://102.68.128.217:8080",
+    "tested_at": "2026-02-15T02:46:24Z",
+    "ip": "102.68.128.200",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Libya",
     "country_code": "LY",
-    "region": "Nuqat al Khams",
-    "region_code": "NQ",
-    "city": "Zuwara",
-    "latitude": 32.9234588,
-    "longitude": 12.0775411,
+    "region": "Tripoli",
+    "region_code": "TB",
+    "city": "Tripoli",
+    "latitude": 32.8872094,
+    "longitude": 13.1913383,
     "is_eu": false,
-    "postal": "",
+    "postal": "350",
     "connection": {
-      "asn": 328539,
-      "org": "Giga for Telecommunication And Technology Limited",
-      "isp": "Giga for Telecommunication And Technology Limited",
-      "domain": "giga.ly"
+      "asn": 21003,
+      "org": "For Company Use And Interface Assignments",
+      "isp": "General Post And Telecommunication Company gptc",
+      "domain": "noclibya.com"
     }
   }
 ]

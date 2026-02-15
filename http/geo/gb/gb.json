@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://62.3.71.255:8118",
+    "tested_at": "2026-02-15T02:45:44Z",
+    "ip": "216.169.132.18",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "England",
+    "region_code": "ENG",
+    "city": "Manchester",
+    "latitude": 53.4807593,
+    "longitude": -2.2426305,
+    "is_eu": false,
+    "postal": "M2 3FU",
+    "connection": {
+      "asn": 62240,
+      "org": "NETPR MAN CV",
+      "isp": "Clouvider Limited",
+      "domain": "clouvider.com"
+    }
+  },
+  {
     "proxy": "http://109.120.135.230:2030",
-    "tested_at": "2026-02-15T02:15:16Z",
+    "tested_at": "2026-02-15T02:46:20Z",
     "ip": "2a0b:4140:685e::2",
     "success": true,
     "type": "IPv6",
@@ -20,6 +43,52 @@
       "org": "AEZA NETWORK STOCKHOLM",
       "isp": "AEZA INTERNATIONAL LTD",
       "domain": "aeza.net"
+    }
+  },
+  {
+    "proxy": "http://212.110.188.193:34409",
+    "tested_at": "2026-02-15T02:46:38Z",
+    "ip": "212.110.188.193",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "England",
+    "region_code": "ENG",
+    "city": "York",
+    "latitude": 53.9599651,
+    "longitude": -1.0872979,
+    "is_eu": false,
+    "postal": "YO1 8SG",
+    "connection": {
+      "asn": 35425,
+      "org": "Bytemark Services",
+      "isp": "IOMART MANAGED SERVICES LIMITED",
+      "domain": "rapidswitch.com"
+    }
+  },
+  {
+    "proxy": "http://212.110.188.211:34409",
+    "tested_at": "2026-02-15T02:46:41Z",
+    "ip": "212.110.188.211",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "England",
+    "region_code": "ENG",
+    "city": "York",
+    "latitude": 53.9599651,
+    "longitude": -1.0872979,
+    "is_eu": false,
+    "postal": "YO1 8SG",
+    "connection": {
+      "asn": 35425,
+      "org": "Bytemark Services",
+      "isp": "IOMART MANAGED SERVICES LIMITED",
+      "domain": "rapidswitch.com"
     }
   }
 ]

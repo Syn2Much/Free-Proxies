@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://185.44.232.30:53281",
-    "tested_at": "2026-02-15T02:15:08Z",
-    "ip": "185.44.232.30",
+    "proxy": "http://213.97.158.42:3128",
+    "tested_at": "2026-02-15T02:45:43Z",
+    "ip": "213.97.158.42",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Spain",
     "country_code": "ES",
-    "region": "Andalusia",
-    "region_code": "AN",
-    "city": "Fuengirola",
-    "latitude": 36.544148,
-    "longitude": -4.6249439,
+    "region": "Balearic Islands",
+    "region_code": "PM",
+    "city": "Sant Antoni de Portmany",
+    "latitude": 38.9826357,
+    "longitude": 1.3015192,
     "is_eu": true,
-    "postal": "29640",
+    "postal": "07820",
     "connection": {
-      "asn": 200845,
-      "org": "AVATEL TELECOM, SA",
-      "isp": "AVATEL TELECOM, SA",
-      "domain": "avatel.es"
+      "asn": 3352,
+      "org": "Telefonica De Espana Sau ncc 00001",
+      "isp": "TELEFONICA DE ESPANA S.A.U.",
+      "domain": "telefonica.com"
+    }
+  },
+  {
+    "proxy": "http://213.220.3.183:3128",
+    "tested_at": "2026-02-15T02:46:09Z",
+    "ip": "213.220.3.183",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Spain",
+    "country_code": "ES",
+    "region": "Aragón",
+    "region_code": "AR",
+    "city": "Zaragoza",
+    "latitude": 41.6488226,
+    "longitude": -0.8890853,
+    "is_eu": true,
+    "postal": "50001",
+    "connection": {
+      "asn": 211484,
+      "org": "Redestel Networks S.L.",
+      "isp": "YSZ TRADING CO., LIMITED",
+      "domain": "redestel.net"
     }
   }
 ]

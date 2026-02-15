@@ -1,31 +1,54 @@
 [
   {
-    "proxy": "http://72.10.160.94:13981",
-    "tested_at": "2026-02-15T02:14:54Z",
-    "ip": "70.51.217.201",
+    "proxy": "http://51.79.71.106:8080",
+    "tested_at": "2026-02-15T02:45:46Z",
+    "ip": "51.79.71.106",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Canada",
     "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Mississauga",
-    "latitude": 43.5890452,
-    "longitude": -79.6441198,
+    "region": "Québec",
+    "region_code": "QC",
+    "city": "Montreal",
+    "latitude": 45.5016889,
+    "longitude": -73.567256,
     "is_eu": false,
-    "postal": "L5B 3C9",
+    "postal": "H3A 2A6",
     "connection": {
-      "asn": 577,
-      "org": "Sympatico Hse",
-      "isp": "Bell Canada",
-      "domain": "bell.ca"
+      "asn": 16276,
+      "org": "Backlayer INC",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
     }
   },
   {
-    "proxy": "http://72.10.160.171:28751",
-    "tested_at": "2026-02-15T02:15:02Z",
-    "ip": "64.251.70.60",
+    "proxy": "http://72.10.160.90:24011",
+    "tested_at": "2026-02-15T02:45:51Z",
+    "ip": "142.67.71.81",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Nova Scotia",
+    "region_code": "NS",
+    "city": "Halifax",
+    "latitude": 44.6488625,
+    "longitude": -63.5753196,
+    "is_eu": false,
+    "postal": "B3H 3A6",
+    "connection": {
+      "asn": 11260,
+      "org": "Private Customer",
+      "isp": "EastLink",
+      "domain": "eastlink.ca"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:28139",
+    "tested_at": "2026-02-15T02:45:58Z",
+    "ip": "209.121.24.186",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -33,21 +56,44 @@
     "country_code": "CA",
     "region": "British Columbia",
     "region_code": "BC",
-    "city": "Victoria",
-    "latitude": 48.4284207,
-    "longitude": -123.3656444,
+    "city": "Surrey",
+    "latitude": 49.1044302,
+    "longitude": -122.801094,
     "is_eu": false,
-    "postal": "V8W 1P6",
+    "postal": "V3T 1V8",
     "connection": {
-      "asn": 6327,
-      "org": "Shaw Communications",
-      "isp": "Shaw Communications",
-      "domain": "shaw.ca"
+      "asn": 852,
+      "org": "Richards Packaging Inc.",
+      "isp": "Telus Communications Inc.",
+      "domain": "telus.com"
+    }
+  },
+  {
+    "proxy": "http://188.227.196.62:1080",
+    "tested_at": "2026-02-15T02:46:11Z",
+    "ip": "188.227.196.62",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Québec",
+    "region_code": "QC",
+    "city": "Québec City",
+    "latitude": 46.8138783,
+    "longitude": -71.2079809,
+    "is_eu": false,
+    "postal": "G1R 4S9",
+    "connection": {
+      "asn": 400897,
+      "org": "PetroSky",
+      "isp": "PETROSKY CLOUD LLC",
+      "domain": "abuseradar.com"
     }
   },
   {
     "proxy": "http://67.43.228.250:1957",
-    "tested_at": "2026-02-15T02:15:11Z",
+    "tested_at": "2026-02-15T02:46:31Z",
     "ip": "70.29.39.247",
     "success": true,
     "type": "IPv4",
@@ -66,6 +112,29 @@
       "org": "Bell Canada",
       "isp": "Bell Canada",
       "domain": "bell.ca"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.171:29691",
+    "tested_at": "2026-02-15T02:46:31Z",
+    "ip": "174.113.22.54",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Ottawa",
+    "latitude": 45.4215296,
+    "longitude": -75.6971931,
+    "is_eu": false,
+    "postal": "K1P 1J1",
+    "connection": {
+      "asn": 812,
+      "org": "Rogers Communications Canada Inc.",
+      "isp": "Rogers Communications Canada Inc.",
+      "domain": "rogers.com"
     }
   }
 ]

@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://192.248.95.98:54126",
-    "tested_at": "2026-02-14T06:31:05Z",
-    "ip": "192.248.95.22",
+    "proxy": "http://67.43.236.20:26559",
+    "tested_at": "2026-02-15T02:45:43Z",
+    "ip": "112.134.135.5",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Sri Lanka",
     "country_code": "LK",
-    "region": "North Central Province",
-    "region_code": "7",
-    "city": "Anuradhapura",
-    "latitude": 8.3113518,
-    "longitude": 80.4036508,
+    "region": "Western Province",
+    "region_code": "1",
+    "city": "Colombo",
+    "latitude": 6.9270786,
+    "longitude": 79.861243,
     "is_eu": false,
-    "postal": "50000",
+    "postal": "83400-000",
     "connection": {
-      "asn": 38229,
-      "org": "Lanka Education And Research Network",
-      "isp": "Lanka Education And Research Network",
-      "domain": "learn.ac.lk"
+      "asn": 9329,
+      "org": "ADSL DYNAMIC POOL",
+      "isp": "Sri Lanka Telecom LTD",
+      "domain": "slt.com.lk"
     }
   }
 ]

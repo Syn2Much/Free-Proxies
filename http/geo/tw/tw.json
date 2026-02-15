@@ -1,8 +1,54 @@
 [
   {
-    "proxy": "http://35.234.17.221:8080",
-    "tested_at": "2026-02-15T02:15:06Z",
-    "ip": "35.234.17.221",
+    "proxy": "http://72.10.160.92:18627",
+    "tested_at": "2026-02-15T02:45:42Z",
+    "ip": "118.232.16.240",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "region": "Taiwan Province",
+    "region_code": "",
+    "city": "Changhua",
+    "latitude": 24.0889788,
+    "longitude": 120.5566917,
+    "is_eu": false,
+    "postal": "500",
+    "connection": {
+      "asn": 38841,
+      "org": "Kbro Co. Ltd.",
+      "isp": "Kbro Co. Ltd.",
+      "domain": "kbro.com.tw"
+    }
+  },
+  {
+    "proxy": "http://61.216.156.222:60808",
+    "tested_at": "2026-02-15T02:45:45Z",
+    "ip": "61.216.156.222",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "region": "",
+    "region_code": "",
+    "city": "Banqiao District",
+    "latitude": 25.0114095,
+    "longitude": 121.4618415,
+    "is_eu": false,
+    "postal": "22055",
+    "connection": {
+      "asn": 3462,
+      "org": "Data Communication Business Group,",
+      "isp": "Chunghwa Telecom Co., Ltd.",
+      "domain": "hinet.net"
+    }
+  },
+  {
+    "proxy": "http://118.163.120.181:58837",
+    "tested_at": "2026-02-15T02:45:58Z",
+    "ip": "118.163.120.181",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +62,10 @@
     "is_eu": false,
     "postal": "11008",
     "connection": {
-      "asn": 396982,
-      "org": "Google LLC",
-      "isp": "Google LLC",
-      "domain": "google.com"
+      "asn": 3462,
+      "org": "Chunghwa Telecom CO.,LTD.",
+      "isp": "Chunghwa Telecom Co., Ltd.",
+      "domain": "cht.com.tw"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://192.203.0.210:999",
-    "tested_at": "2026-02-15T01:43:09Z",
-    "ip": "192.203.0.210",
+    "proxy": "http://192.203.0.62:999",
+    "tested_at": "2026-02-15T02:46:16Z",
+    "ip": "192.203.0.62",
     "success": true,
     "type": "IPv4",
     "continent": "North America",

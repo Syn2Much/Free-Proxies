@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://77.242.16.30:8080",
-    "tested_at": "2026-02-15T02:14:38Z",
-    "ip": "77.242.16.30",
+    "proxy": "http://80.91.116.129:8081",
+    "tested_at": "2026-02-15T02:45:45Z",
+    "ip": "77.242.21.186",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,14 +10,14 @@
     "country_code": "AL",
     "region": "Central Albania",
     "region_code": "",
-    "city": "Labinot-Fushë",
-    "latitude": 41.1437394,
-    "longitude": 20.15515,
+    "city": "Kamëz",
+    "latitude": 41.3783926,
+    "longitude": 19.7770261,
     "is_eu": false,
-    "postal": "3010",
+    "postal": "1030",
     "connection": {
       "asn": 35047,
-      "org": "Web App Servers",
+      "org": "Business Static Pool",
       "isp": "Abissnet SH.A.",
       "domain": "abissnet.al"
     }

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://37.238.63.39:8080",
-    "tested_at": "2026-02-15T02:14:43Z",
-    "ip": "37.237.226.174",
+    "proxy": "http://65.20.154.62:28080",
+    "tested_at": "2026-02-15T02:46:06Z",
+    "ip": "65.20.154.62",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,9 +16,9 @@
     "is_eu": false,
     "postal": "10001",
     "connection": {
-      "asn": 199739,
-      "org": "Earthlink Ltd. Communications internet Services orange",
-      "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
+      "asn": 203214,
+      "org": "Earthlink Telecommunications Equipment Trading Services Dmcc",
+      "isp": "Hulum Almustakbal Company for Communication Engineering And Services LTD",
       "domain": "earthlink.iq"
     }
   }

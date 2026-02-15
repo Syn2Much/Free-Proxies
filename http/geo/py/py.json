@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://170.245.132.85:999",
-    "tested_at": "2026-02-15T02:14:45Z",
-    "ip": "170.245.132.81",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Paraguay",
-    "country_code": "PY",
-    "region": "Paraguarí",
-    "region_code": "9",
-    "city": "Carapeguá",
-    "latitude": -25.7643636,
-    "longitude": -57.2423411,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 270096,
-      "org": "MACHADO BAEZ, NERY JAVIER LOCAL NET PARAGUAY",
-      "isp": "MACHADO BAEZ, NERY JAVIER LOCAL NET PARAGUAY",
-      "domain": "local.net.py"
-    }
-  },
-  {
-    "proxy": "http://38.52.135.96:8181",
-    "tested_at": "2026-02-15T02:14:45Z",
-    "ip": "38.52.135.96",
+    "proxy": "http://45.170.128.120:999",
+    "tested_at": "2026-02-15T02:45:47Z",
+    "ip": "45.170.128.120",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -40,32 +17,9 @@
     "postal": "7000",
     "connection": {
       "asn": 61512,
-      "org": "Cogent Communications",
+      "org": "GIG NET SOCIEDAD ANONIMA",
       "isp": "GIG NET SOCIEDAD ANONIMA",
-      "domain": "giganet.com"
-    }
-  },
-  {
-    "proxy": "http://170.245.132.86:999",
-    "tested_at": "2026-02-15T02:15:18Z",
-    "ip": "170.245.132.86",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Paraguay",
-    "country_code": "PY",
-    "region": "Paraguarí",
-    "region_code": "9",
-    "city": "Carapeguá",
-    "latitude": -25.7643636,
-    "longitude": -57.2423411,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 270096,
-      "org": "MACHADO BAEZ, NERY JAVIER LOCAL NET PARAGUAY",
-      "isp": "MACHADO BAEZ, NERY JAVIER LOCAL NET PARAGUAY",
-      "domain": "local.net.py"
+      "domain": "giganet.net.py"
     }
   }
 ]
