@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://23.106.56.43:19881",
-    "tested_at": "2026-02-15T06:56:04Z",
-    "ip": "23.106.56.43",
+    "proxy": "https://37.120.233.50:9443",
+    "tested_at": "2026-02-15T07:27:30Z",
+    "ip": "37.120.233.60",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,21 +10,21 @@
     "country_code": "GB",
     "region": "England",
     "region_code": "ENG",
-    "city": "London",
-    "latitude": 51.5073509,
-    "longitude": -0.1277583,
+    "city": "Manchester",
+    "latitude": 53.4807593,
+    "longitude": -2.2426305,
     "is_eu": false,
-    "postal": "SW1",
+    "postal": "M2 3FU",
     "connection": {
-      "asn": 205544,
-      "org": "Leaseweb UK Limited",
-      "isp": "Leaseweb UK Limited",
-      "domain": "leaseweb.com"
+      "asn": 9009,
+      "org": "M LTD Manchester Infrastructure",
+      "isp": "M Europe SRL",
+      "domain": "m247.com"
     }
   },
   {
     "proxy": "https://23.106.56.11:7714",
-    "tested_at": "2026-02-15T06:56:24Z",
+    "tested_at": "2026-02-15T07:27:30Z",
     "ip": "23.106.56.11",
     "success": true,
     "type": "IPv4",
@@ -46,9 +46,9 @@
     }
   },
   {
-    "proxy": "https://23.106.56.52:15767",
-    "tested_at": "2026-02-15T06:56:26Z",
-    "ip": "23.106.56.52",
+    "proxy": "https://23.106.56.43:19881",
+    "tested_at": "2026-02-15T07:27:30Z",
+    "ip": "23.106.56.43",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -69,8 +69,77 @@
     }
   },
   {
+    "proxy": "https://37.120.233.34:9443",
+    "tested_at": "2026-02-15T07:27:40Z",
+    "ip": "37.120.233.38",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "England",
+    "region_code": "ENG",
+    "city": "Kendal",
+    "latitude": 54.328006,
+    "longitude": -2.74629,
+    "is_eu": false,
+    "postal": "LA9",
+    "connection": {
+      "asn": 9009,
+      "org": "M LTD Manchester Infrastructure",
+      "isp": "M Europe SRL",
+      "domain": "m247.com"
+    }
+  },
+  {
+    "proxy": "https://84.17.50.157:9443",
+    "tested_at": "2026-02-15T07:27:50Z",
+    "ip": "84.17.50.178",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "England",
+    "region_code": "ENG",
+    "city": "London",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583,
+    "is_eu": false,
+    "postal": "SW1",
+    "connection": {
+      "asn": 60068,
+      "org": "CDN LON TEL",
+      "isp": "Datacamp Limited",
+      "domain": "datacamp.co.uk"
+    }
+  },
+  {
+    "proxy": "https://84.17.50.214:9443",
+    "tested_at": "2026-02-15T07:27:51Z",
+    "ip": "82.29.97.246",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "England",
+    "region_code": "ENG",
+    "city": "London",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583,
+    "is_eu": false,
+    "postal": "SW1",
+    "connection": {
+      "asn": 212238,
+      "org": "Private Customer",
+      "isp": "Datacamp Limited",
+      "domain": "us.com"
+    }
+  },
+  {
     "proxy": "https://23.106.56.19:7579",
-    "tested_at": "2026-02-15T06:56:35Z",
+    "tested_at": "2026-02-15T07:28:00Z",
     "ip": "23.106.56.19",
     "success": true,
     "type": "IPv4",
@@ -92,9 +161,9 @@
     }
   },
   {
-    "proxy": "https://23.106.56.54:6157",
-    "tested_at": "2026-02-15T06:56:45Z",
-    "ip": "23.106.56.54",
+    "proxy": "https://23.106.56.35:16927",
+    "tested_at": "2026-02-15T07:28:10Z",
+    "ip": "23.106.56.35",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -115,9 +184,32 @@
     }
   },
   {
-    "proxy": "https://23.106.56.35:16927",
-    "tested_at": "2026-02-15T06:56:54Z",
-    "ip": "23.106.56.35",
+    "proxy": "https://23.106.56.52:15767",
+    "tested_at": "2026-02-15T07:28:10Z",
+    "ip": "23.106.56.52",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "England",
+    "region_code": "ENG",
+    "city": "London",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583,
+    "is_eu": false,
+    "postal": "SW1",
+    "connection": {
+      "asn": 205544,
+      "org": "Leaseweb UK Limited",
+      "isp": "Leaseweb UK Limited",
+      "domain": "leaseweb.com"
+    }
+  },
+  {
+    "proxy": "https://23.106.56.54:6157",
+    "tested_at": "2026-02-15T07:28:12Z",
+    "ip": "23.106.56.54",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",

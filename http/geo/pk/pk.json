@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://103.153.39.35:8083",
-    "tested_at": "2026-02-15T06:56:11Z",
-    "ip": "103.153.39.35",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Pakistan",
-    "country_code": "PK",
-    "region": "Punjab",
-    "region_code": "PB",
-    "city": "Burewala",
-    "latitude": 30.1592839,
-    "longitude": 72.694262,
-    "is_eu": false,
-    "postal": "78646",
-    "connection": {
-      "asn": 140900,
-      "org": "Getlinks smc private Limited Market",
-      "isp": "Getlinks smc private Limited",
-      "domain": "getlinks.net.pk"
-    }
-  },
-  {
-    "proxy": "http://125.209.110.83:39617",
-    "tested_at": "2026-02-15T06:56:39Z",
-    "ip": "58.27.152.162",
+    "proxy": "http://103.198.154.196:8080",
+    "tested_at": "2026-02-15T07:27:34Z",
+    "ip": "103.198.154.196",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,10 +16,33 @@
     "is_eu": false,
     "postal": "54000",
     "connection": {
-      "asn": 38264,
-      "org": "National Wimax ims Environment",
-      "isp": "Wateen Telecom Limited",
-      "domain": "wateen.com"
+      "asn": 151330,
+      "org": "PLAY BROADBAND PRIVATE LIMITED",
+      "isp": "PLAY BROADBAND PRIVATE LIMITED",
+      "domain": "pbb.net.pk"
+    }
+  },
+  {
+    "proxy": "http://202.165.232.238:8080",
+    "tested_at": "2026-02-15T07:27:46Z",
+    "ip": "202.165.232.238",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "region": "Punjab",
+    "region_code": "PB",
+    "city": "Lahore",
+    "latitude": 31.5546061,
+    "longitude": 74.3571581,
+    "is_eu": false,
+    "postal": "54000",
+    "connection": {
+      "asn": 136384,
+      "org": "Optix Pakistan pvt. Limited",
+      "isp": "Optix Pakistan pvt. Limited",
+      "domain": "optix.pk"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://157.120.34.237:3128",
-    "tested_at": "2026-02-15T06:56:12Z",
-    "ip": "157.120.34.237",
+    "proxy": "http://94.177.131.12:3128",
+    "tested_at": "2026-02-15T07:27:31Z",
+    "ip": "94.177.131.12",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,21 +10,21 @@
     "country_code": "JP",
     "region": "Tokyo",
     "region_code": "13",
-    "city": "Minato",
-    "latitude": 35.6580681,
-    "longitude": 139.7515992,
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
     "is_eu": false,
-    "postal": "108-0074",
+    "postal": "100-0002",
     "connection": {
-      "asn": 2514,
-      "org": "NTTPCCommunications,Inc.",
-      "isp": "NTT Pc Communications, Inc.",
-      "domain": "nttpc.co.jp"
+      "asn": 199524,
+      "org": "G core Labs S.A.",
+      "isp": "G core Labs S.A.",
+      "domain": "gcore.com"
     }
   },
   {
     "proxy": "http://150.230.104.3:16728",
-    "tested_at": "2026-02-15T06:56:12Z",
+    "tested_at": "2026-02-15T07:27:35Z",
     "ip": "150.230.104.3",
     "success": true,
     "type": "IPv4",
@@ -43,6 +43,52 @@
       "org": "Oracle Corporation",
       "isp": "Oracle Corporation",
       "domain": "oracle.com"
+    }
+  },
+  {
+    "proxy": "http://94.177.131.33:3128",
+    "tested_at": "2026-02-15T07:27:57Z",
+    "ip": "94.177.131.33",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
+    "is_eu": false,
+    "postal": "100-0002",
+    "connection": {
+      "asn": 199524,
+      "org": "G core Labs S.A.",
+      "isp": "G core Labs S.A.",
+      "domain": "gcore.com"
+    }
+  },
+  {
+    "proxy": "http://8.209.255.13:3128",
+    "tested_at": "2026-02-15T07:28:02Z",
+    "ip": "8.209.255.13",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Shibuya City",
+    "latitude": 35.6549037,
+    "longitude": 139.6945698,
+    "is_eu": false,
+    "postal": "150-0036",
+    "connection": {
+      "asn": 45102,
+      "org": "Shiodome Sumitomo Blog 1 Tokyo",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibaba-inc.com"
     }
   }
 ]

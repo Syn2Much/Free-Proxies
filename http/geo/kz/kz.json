@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://94.126.201.115:3128",
-    "tested_at": "2026-02-15T06:56:32Z",
-    "ip": "94.126.201.115",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "region": "Almaty Province",
-    "region_code": "ALM",
-    "city": "Almaty",
-    "latitude": 43.2220146,
-    "longitude": 76.8512485,
-    "is_eu": false,
-    "postal": "050013",
-    "connection": {
-      "asn": 200590,
-      "org": "Nls Kazakhstan LLC",
-      "isp": "Nls Kazakhstan LLC",
-      "domain": "nls.kz"
-    }
-  },
-  {
     "proxy": "http://188.130.160.209:80",
-    "tested_at": "2026-02-15T06:56:58Z",
+    "tested_at": "2026-02-15T07:28:18Z",
     "ip": "188.130.160.209",
     "success": true,
     "type": "IPv4",

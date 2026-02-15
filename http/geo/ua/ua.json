@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://62.122.207.173:8080",
-    "tested_at": "2026-02-15T06:56:09Z",
-    "ip": "62.122.207.173",
+    "proxy": "http://194.29.60.220:8080",
+    "tested_at": "2026-02-15T07:27:39Z",
+    "ip": "194.29.60.220",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Ukraine",
     "country_code": "UA",
-    "region": "Ivano-Frankivsk Oblast",
-    "region_code": "",
-    "city": "Ivano-Frankivsk",
-    "latitude": 48.922633,
-    "longitude": 24.711117,
+    "region": "Vinnytsia Oblast",
+    "region_code": "05",
+    "city": "Vinnytsia",
+    "latitude": 49.233083,
+    "longitude": 28.468217,
     "is_eu": false,
-    "postal": "76000",
+    "postal": "",
     "connection": {
-      "asn": 49125,
-      "org": "Uteam LTD",
-      "isp": "Uteam LTD",
-      "domain": "uteam.ua"
-    }
-  },
-  {
-    "proxy": "http://91.202.72.105:8080",
-    "tested_at": "2026-02-15T06:56:17Z",
-    "ip": "91.202.72.105",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Kyiv city",
-    "region_code": "30",
-    "city": "Kyiv",
-    "latitude": 50.4501,
-    "longitude": 30.5234,
-    "is_eu": false,
-    "postal": "01001",
-    "connection": {
-      "asn": 44600,
-      "org": "GIGATRANS UKRAINE, LLC",
-      "isp": "GIGATRANS UKRAINE, LLC",
-      "domain": "gigatrans.ua"
+      "asn": 31520,
+      "org": "PRIVATE JOINT STOCK COMPANY DATAGROUP",
+      "isp": "PRIVATE JOINT STOCK COMPANY DATAGROUP",
+      "domain": "datagroup.ua"
     }
   }
 ]

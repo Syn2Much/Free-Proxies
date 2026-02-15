@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://185.89.156.2:44224",
-    "tested_at": "2026-02-15T05:22:55Z",
-    "ip": "185.89.156.2",
+    "proxy": "http://46.252.35.91:8080",
+    "tested_at": "2026-02-15T07:28:19Z",
+    "ip": "46.252.35.91",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Albania",
     "country_code": "AL",
-    "region": "Southern Albania",
+    "region": "Central Albania",
     "region_code": "",
-    "city": "Mollas",
-    "latitude": 40.4265952,
-    "longitude": 20.6757427,
+    "city": "Tirana",
+    "latitude": 41.3275459,
+    "longitude": 19.8186982,
     "is_eu": false,
-    "postal": "7403",
+    "postal": "1051",
     "connection": {
-      "asn": 198279,
-      "org": "Atu Residential Customers",
-      "isp": "Albanian Telecommunications Union Sh. P.K.",
-      "domain": "atu.al"
+      "asn": 21183,
+      "org": "ABCOM class",
+      "isp": "Vodafone Albania SH.A.",
+      "domain": "abcom.al"
     }
   }
 ]

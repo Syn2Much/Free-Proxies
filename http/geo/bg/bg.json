@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://77.238.79.111:8080",
-    "tested_at": "2026-02-15T06:24:57Z",
-    "ip": "77.238.79.111",
+    "proxy": "http://38.180.2.107:3128",
+    "tested_at": "2026-02-15T07:27:40Z",
+    "ip": "38.180.2.107",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +16,10 @@
     "is_eu": true,
     "postal": "1000",
     "connection": {
-      "asn": 39135,
-      "org": "FIBER1",
-      "isp": "Fiber 1 Ltd.",
-      "domain": "fiber1.bg"
+      "asn": 9009,
+      "org": "Cogent Communications",
+      "isp": "M Europe SRL",
+      "domain": "3nt.com"
     }
   }
 ]

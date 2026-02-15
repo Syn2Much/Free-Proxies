@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://67.43.236.20:16007",
-    "tested_at": "2026-02-15T06:25:26Z",
-    "ip": "58.161.132.190",
+    "proxy": "http://152.53.136.194:10001",
+    "tested_at": "2026-02-15T07:27:40Z",
+    "ip": "149.167.42.217",
     "success": true,
     "type": "IPv4",
     "continent": "Oceania",
     "country": "Australia",
     "country_code": "AU",
-    "region": "Queensland",
-    "region_code": "QLD",
-    "city": "Brisbane",
-    "latitude": -27.4697707,
-    "longitude": 153.0251235,
+    "region": "New South Wales",
+    "region_code": "NSW",
+    "city": "Sydney",
+    "latitude": -33.8688197,
+    "longitude": 151.2092955,
     "is_eu": false,
-    "postal": "4004",
+    "postal": "2000",
     "connection": {
-      "asn": 1221,
+      "asn": 135887,
       "org": "Telstra Limited",
       "isp": "Telstra Limited",
       "domain": "telstra.net"
-    }
-  },
-  {
-    "proxy": "http://152.53.136.194:10000",
-    "tested_at": "2026-02-15T06:25:29Z",
-    "ip": "106.70.133.69",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Oceania",
-    "country": "Australia",
-    "country_code": "AU",
-    "region": "Victoria",
-    "region_code": "VIC",
-    "city": "Laverton",
-    "latitude": -37.858,
-    "longitude": 144.773,
-    "is_eu": false,
-    "postal": "3028",
-    "connection": {
-      "asn": 4804,
-      "org": "Optus Internet Pty LTD",
-      "isp": "Singtel Optus Pty LTD",
-      "domain": "optus.net.au"
     }
   }
 ]

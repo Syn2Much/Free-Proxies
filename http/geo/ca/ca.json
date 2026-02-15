@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://85.208.108.43:2094",
-    "tested_at": "2026-02-15T06:56:34Z",
+    "tested_at": "2026-02-15T07:27:30Z",
     "ip": "85.208.108.43",
     "success": true,
     "type": "IPv4",
@@ -23,8 +23,31 @@
     }
   },
   {
+    "proxy": "http://143.198.37.6:8888",
+    "tested_at": "2026-02-15T07:27:59Z",
+    "ip": "178.249.214.14",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
+    "is_eu": false,
+    "postal": "M5H 2N2",
+    "connection": {
+      "asn": 212238,
+      "org": "CDNEXT TOR",
+      "isp": "Datacamp Limited",
+      "domain": "datacamp.co.uk"
+    }
+  },
+  {
     "proxy": "http://85.208.108.43:10808",
-    "tested_at": "2026-02-15T06:56:56Z",
+    "tested_at": "2026-02-15T07:28:12Z",
     "ip": "85.208.108.43",
     "success": true,
     "type": "IPv4",

@@ -1,25 +1,94 @@
 [
   {
-    "proxy": "http://45.233.67.226:999",
-    "tested_at": "2026-02-15T06:56:30Z",
-    "ip": "45.233.64.2",
+    "proxy": "http://143.208.57.162:999",
+    "tested_at": "2026-02-15T07:27:48Z",
+    "ip": "143.208.57.162",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Guatemala",
     "country_code": "GT",
-    "region": "Jalapa",
-    "region_code": "JA",
-    "city": "Jalapa",
-    "latitude": 14.6325483,
-    "longitude": -89.9930052,
+    "region": "Chimaltenango",
+    "region_code": "CM",
+    "city": "Parramos",
+    "latitude": 14.6136872,
+    "longitude": -90.8032181,
+    "is_eu": false,
+    "postal": "04014",
+    "connection": {
+      "asn": 22869,
+      "org": "COMUNICACIONES METROPOLITANAS CABLECOLOR",
+      "isp": "CABLECOLOR S.A.",
+      "domain": "cablecolor.net"
+    }
+  },
+  {
+    "proxy": "http://138.117.230.131:999",
+    "tested_at": "2026-02-15T07:27:55Z",
+    "ip": "138.117.230.131",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "region": "Escuintla",
+    "region_code": "ES",
+    "city": "La Democracia",
+    "latitude": 14.229012,
+    "longitude": -90.9462345,
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 266755,
-      "org": "CONECTIVIDAD Y TECNOLOGIA S.A.",
-      "isp": "CONECTIVIDAD Y TECNOLOGIA S.A.",
-      "domain": "fabri3d.com.ar"
+      "asn": 269989,
+      "org": "FIBERNET S.A",
+      "isp": "FIBERNET S.A",
+      "domain": "fibernetgt.com"
+    }
+  },
+  {
+    "proxy": "http://143.208.57.59:8080",
+    "tested_at": "2026-02-15T07:28:10Z",
+    "ip": "143.208.57.59",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "region": "Guatemala Department",
+    "region_code": "GU",
+    "city": "Guatemala City",
+    "latitude": 14.6349149,
+    "longitude": -90.5068824,
+    "is_eu": false,
+    "postal": "01004",
+    "connection": {
+      "asn": 22869,
+      "org": "COMUNICACIONES METROPOLITANAS CABLECOLOR",
+      "isp": "CABLECOLOR S.A.",
+      "domain": "cablecolor.net"
+    }
+  },
+  {
+    "proxy": "http://38.52.208.49:999",
+    "tested_at": "2026-02-15T07:28:18Z",
+    "ip": "38.52.212.255",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "region": "Guatemala Department",
+    "region_code": "GU",
+    "city": "Guatemala City",
+    "latitude": 14.6349149,
+    "longitude": -90.5068824,
+    "is_eu": false,
+    "postal": "01004",
+    "connection": {
+      "asn": 272818,
+      "org": "Cogent Communications",
+      "isp": "CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+      "domain": "centralredes.com"
     }
   }
 ]

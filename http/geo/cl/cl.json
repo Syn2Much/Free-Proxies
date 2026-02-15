@@ -1,7 +1,30 @@
 [
   {
-    "proxy": "http://38.7.195.52:999",
-    "tested_at": "2026-02-15T06:56:13Z",
+    "proxy": "http://186.67.74.52:3128",
+    "tested_at": "2026-02-15T07:27:52Z",
+    "ip": "186.67.74.52",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 27651,
+      "org": "Servicio Nacional De Aduanas De Chile",
+      "isp": "ENTEL CHILE S.A.",
+      "domain": "entel.cl"
+    }
+  },
+  {
+    "proxy": "http://38.7.195.50:999",
+    "tested_at": "2026-02-15T07:27:58Z",
     "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
@@ -23,32 +46,32 @@
     }
   },
   {
-    "proxy": "http://207.248.3.81:999",
-    "tested_at": "2026-02-15T06:56:18Z",
-    "ip": "207.248.3.81",
+    "proxy": "http://45.180.26.1:999",
+    "tested_at": "2026-02-15T07:28:07Z",
+    "ip": "201.236.21.58",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Chile",
     "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Buin",
-    "latitude": -33.7309374,
-    "longitude": -70.7423218,
+    "region": "Valparaiso Region",
+    "region_code": "VS",
+    "city": "La Calera",
+    "latitude": -32.7877958,
+    "longitude": -71.2039963,
     "is_eu": false,
-    "postal": "9500000",
+    "postal": "229 0000",
     "connection": {
-      "asn": 64139,
-      "org": "GRUPO METROWAN TELECOM SPA",
-      "isp": "GRUPO METROWAN TELECOM SPA",
-      "domain": "metrowan.cl"
+      "asn": 15311,
+      "org": "MONTALVA PROPIEDADES LTDA",
+      "isp": "TELEFONICA EMPRESAS CHILE SA",
+      "domain": "movistar.cl"
     }
   },
   {
-    "proxy": "http://38.7.195.40:999",
-    "tested_at": "2026-02-15T06:56:20Z",
-    "ip": "38.7.195.41",
+    "proxy": "http://38.7.195.51:999",
+    "tested_at": "2026-02-15T07:28:07Z",
+    "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -66,6 +89,29 @@
       "org": "Cogent Communications",
       "isp": "GRUPO ZGH SPA",
       "domain": "zglobalhost.com"
+    }
+  },
+  {
+    "proxy": "http://164.77.40.112:8080",
+    "tested_at": "2026-02-15T07:28:21Z",
+    "ip": "164.77.40.112",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Araucanía Region",
+    "region_code": "AR",
+    "city": "Temuco",
+    "latitude": -38.7359018,
+    "longitude": -72.5903739,
+    "is_eu": false,
+    "postal": "479 1047",
+    "connection": {
+      "asn": 27651,
+      "org": "ENTEL CHILE S.A.",
+      "isp": "ENTEL CHILE S.A.",
+      "domain": "entel.cl"
     }
   }
 ]

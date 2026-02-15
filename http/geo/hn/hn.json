@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://181.78.44.63:999",
-    "tested_at": "2026-02-15T06:56:19Z",
-    "ip": "181.78.44.63",
+    "proxy": "http://181.78.44.243:999",
+    "tested_at": "2026-02-15T07:28:06Z",
+    "ip": "181.78.44.242",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -15,52 +15,6 @@
     "longitude": -87.9922684,
     "is_eu": false,
     "postal": "21101",
-    "connection": {
-      "asn": 52468,
-      "org": "Ufinet Honduras, S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://190.61.116.253:999",
-    "tested_at": "2026-02-15T06:56:47Z",
-    "ip": "190.61.116.250",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Honduras",
-    "country_code": "HN",
-    "region": "Francisco Morazán",
-    "region_code": "FM",
-    "city": "Tegucigalpa",
-    "latitude": 14.0722751,
-    "longitude": -87.192136,
-    "is_eu": false,
-    "postal": "12101",
-    "connection": {
-      "asn": 52468,
-      "org": "Ufinet Honduras, S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://190.61.118.115:999",
-    "tested_at": "2026-02-15T06:56:49Z",
-    "ip": "190.61.118.115",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Honduras",
-    "country_code": "HN",
-    "region": "Lempira",
-    "region_code": "LE",
-    "city": "Guatemalita",
-    "latitude": 14.1170344,
-    "longitude": -88.5996065,
-    "is_eu": false,
-    "postal": "",
     "connection": {
       "asn": 52468,
       "org": "Ufinet Honduras, S. A.",

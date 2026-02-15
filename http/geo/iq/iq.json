@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://62.201.217.243:40010",
-    "tested_at": "2026-02-15T06:56:39Z",
-    "ip": "62.201.217.243",
+    "proxy": "http://46.161.195.133:8080",
+    "tested_at": "2026-02-15T07:27:47Z",
+    "ip": "46.161.195.133",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Iraq",
     "country_code": "IQ",
-    "region": "Sulaimaniya Governorate",
-    "region_code": "SU",
-    "city": "Kalar",
-    "latitude": 34.6307795,
-    "longitude": 45.3275531,
+    "region": "Iraqi Kurdistan Region",
+    "region_code": "",
+    "city": "Duhok",
+    "latitude": 36.8632107,
+    "longitude": 42.9884805,
     "is_eu": false,
-    "postal": "46021",
+    "postal": "42001",
     "connection": {
-      "asn": 44217,
-      "org": "Sulaymaniyah Users",
-      "isp": "Iq Networks for Data And Internet Services LTD",
-      "domain": "iq.email"
+      "asn": 205254,
+      "org": "Valeen for General Trading, Internet Services And Information Technology LTD",
+      "isp": "Valeen for General Trading, Internet Services And Information Technology LTD",
+      "domain": "valeenonline.com"
+    }
+  },
+  {
+    "proxy": "http://37.239.47.76:8080",
+    "tested_at": "2026-02-15T07:28:12Z",
+    "ip": "93.180.216.58",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Dhi Qar Governorate",
+    "region_code": "DQ",
+    "city": "Nasiriyah",
+    "latitude": 31.0452345,
+    "longitude": 46.2665911,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 203217,
+      "org": "Horizon Scope Mobile Telecom Wll",
+      "isp": "Horizon Scope Mobile Telecom Wll",
+      "domain": "horizonscope.com"
     }
   }
 ]

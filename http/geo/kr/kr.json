@@ -1,30 +1,30 @@
 [
   {
-    "proxy": "http://8.213.151.128:3128",
-    "tested_at": "2026-02-15T06:56:05Z",
-    "ip": "8.213.151.128",
+    "proxy": "http://175.215.60.137:3088",
+    "tested_at": "2026-02-15T07:27:32Z",
+    "ip": "175.215.60.67",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Republic of Korea",
     "country_code": "KR",
-    "region": "",
-    "region_code": "",
-    "city": "Seoul",
-    "latitude": 37.566535,
-    "longitude": 126.9779692,
+    "region": "South Gyeongsang",
+    "region_code": "48",
+    "city": "Namhae-gun",
+    "latitude": 34.8376721,
+    "longitude": 127.8924234,
     "is_eu": false,
-    "postal": "04523",
+    "postal": "52420",
     "connection": {
-      "asn": 45102,
-      "org": "Alibaba Cloud South Korea",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibaba-inc.com"
+      "asn": 4766,
+      "org": "Kornet",
+      "isp": "Korea Telecom",
+      "domain": ""
     }
   },
   {
     "proxy": "http://210.223.44.230:3128",
-    "tested_at": "2026-02-15T06:56:44Z",
+    "tested_at": "2026-02-15T07:27:41Z",
     "ip": "210.223.44.230",
     "success": true,
     "type": "IPv4",
@@ -47,7 +47,7 @@
   },
   {
     "proxy": "http://211.230.49.122:3128",
-    "tested_at": "2026-02-15T06:56:57Z",
+    "tested_at": "2026-02-15T07:27:42Z",
     "ip": "211.230.49.122",
     "success": true,
     "type": "IPv4",
@@ -66,6 +66,52 @@
       "org": "Kornet",
       "isp": "Korea Telecom",
       "domain": ""
+    }
+  },
+  {
+    "proxy": "http://72.10.160.91:6249",
+    "tested_at": "2026-02-15T07:27:54Z",
+    "ip": "1.244.47.57",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "",
+    "region_code": "",
+    "city": "Seoul",
+    "latitude": 37.566535,
+    "longitude": 126.9779692,
+    "is_eu": false,
+    "postal": "04523",
+    "connection": {
+      "asn": 9318,
+      "org": "broadNnet",
+      "isp": "Sk Broadband Co LTD",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://8.213.151.128:3128",
+    "tested_at": "2026-02-15T07:28:03Z",
+    "ip": "8.213.151.128",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "",
+    "region_code": "",
+    "city": "Seoul",
+    "latitude": 37.566535,
+    "longitude": 126.9779692,
+    "is_eu": false,
+    "postal": "04523",
+    "connection": {
+      "asn": 45102,
+      "org": "Alibaba Cloud South Korea",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibaba-inc.com"
     }
   }
 ]

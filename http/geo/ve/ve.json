@@ -1,77 +1,8 @@
 [
   {
-    "proxy": "http://190.97.246.58:999",
-    "tested_at": "2026-02-15T06:56:13Z",
-    "ip": "190.97.246.56",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Merida State",
-    "region_code": "L",
-    "city": "Merida",
-    "latitude": 8.5698244,
-    "longitude": -71.1804988,
-    "is_eu": false,
-    "postal": "5115",
-    "connection": {
-      "asn": 263703,
-      "org": "VIGINET C.A",
-      "isp": "VIGINET C.A",
-      "domain": "viginet.com.ve"
-    }
-  },
-  {
-    "proxy": "http://45.184.103.110:999",
-    "tested_at": "2026-02-15T06:56:31Z",
-    "ip": "45.184.103.110",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Carabobo State",
-    "region_code": "G",
-    "city": "Valencia",
-    "latitude": 10.1579312,
-    "longitude": -67.9972104,
-    "is_eu": false,
-    "postal": "2001",
-    "connection": {
-      "asn": 269771,
-      "org": "PRINTER NET SERVICE, C.A.",
-      "isp": "PRINTER NET SERVICE, C.A.",
-      "domain": "pns.com.ve"
-    }
-  },
-  {
-    "proxy": "http://190.97.226.134:999",
-    "tested_at": "2026-02-15T06:56:34Z",
-    "ip": "190.97.232.196",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Lara State",
-    "region_code": "K",
-    "city": "Barquisimeto",
-    "latitude": 10.0677719,
-    "longitude": -69.3473509,
-    "is_eu": false,
-    "postal": "3001",
-    "connection": {
-      "asn": 263703,
-      "org": "VIGINET C.A",
-      "isp": "VIGINET C.A",
-      "domain": "viginet.com.ve"
-    }
-  },
-  {
-    "proxy": "http://190.94.213.78:999",
-    "tested_at": "2026-02-15T06:56:50Z",
-    "ip": "190.94.213.76",
+    "proxy": "http://190.94.212.247:999",
+    "tested_at": "2026-02-15T07:27:36Z",
+    "ip": "190.94.212.247",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -89,6 +20,29 @@
       "org": "Ifx Networks Venezuela C.A.",
       "isp": "Ifx Networks Venezuela C.A.",
       "domain": "ifxnw.com.ve"
+    }
+  },
+  {
+    "proxy": "http://141.136.63.126:8080",
+    "tested_at": "2026-02-15T07:28:09Z",
+    "ip": "141.136.63.126",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Tachira State",
+    "region_code": "S",
+    "city": "La Grita",
+    "latitude": 8.1338118,
+    "longitude": -71.9786626,
+    "is_eu": false,
+    "postal": "5022",
+    "connection": {
+      "asn": 208888,
+      "org": "FRONTERA TV. C.A.",
+      "isp": "Four Mirror Advisors, S.L.",
+      "domain": "fronteratvoficial.com"
     }
   }
 ]

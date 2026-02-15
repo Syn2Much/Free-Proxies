@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://47.91.104.88:3128",
-    "tested_at": "2026-02-15T06:56:04Z",
+    "tested_at": "2026-02-15T07:27:38Z",
     "ip": "47.91.104.88",
     "success": true,
     "type": "IPv4",
@@ -20,29 +20,6 @@
       "org": "Alibaba Cloud Ae dubai",
       "isp": "Alibaba us Technology Co., Ltd.",
       "domain": "alibabacloud.com"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.172:9739",
-    "tested_at": "2026-02-15T06:56:35Z",
-    "ip": "94.204.100.224",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "United Arab Emirates",
-    "country_code": "AE",
-    "region": "Dubai",
-    "region_code": "DU",
-    "city": "Dubai",
-    "latitude": 25.2048493,
-    "longitude": 55.2707828,
-    "is_eu": false,
-    "postal": "39205",
-    "connection": {
-      "asn": 15802,
-      "org": "Emirates Integrated Telecommunications Company Pjsc eitc du",
-      "isp": "Emirates Integrated Telecommunications Company Pjsc",
-      "domain": "du.ae"
     }
   }
 ]
