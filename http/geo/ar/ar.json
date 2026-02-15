@@ -1,71 +1,25 @@
 [
   {
-    "proxy": "http://200.41.170.211:11201",
-    "tested_at": "2026-02-15T08:30:35Z",
-    "ip": "200.41.170.211",
+    "proxy": "http://181.209.82.205:999",
+    "tested_at": "2026-02-15T09:01:40Z",
+    "ip": "181.209.82.205",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Argentina",
     "country_code": "AR",
-    "region": "Buenos Aires",
-    "region_code": "B",
-    "city": "Buenos Aires",
-    "latitude": -34.6036844,
-    "longitude": -58.3815591,
+    "region": "San Juan",
+    "region_code": "J",
+    "city": "Villa San Agustín",
+    "latitude": -30.6356066,
+    "longitude": -67.4661049,
     "is_eu": false,
-    "postal": "C1405 DJG",
+    "postal": "5449",
     "connection": {
-      "asn": 10834,
-      "org": "Telefonica De Argentina",
-      "isp": "Telefonica De Argentina",
-      "domain": "telefonica.com.ar"
-    }
-  },
-  {
-    "proxy": "http://190.15.194.72:8080",
-    "tested_at": "2026-02-15T08:30:40Z",
-    "ip": "190.15.194.72",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Mendoza",
-    "region_code": "M",
-    "city": "Villa Nueva",
-    "latitude": -32.9012119,
-    "longitude": -68.7826282,
-    "is_eu": false,
-    "postal": "5521",
-    "connection": {
-      "asn": 27879,
-      "org": "Inform tica Y Telecomunicaciones S.A.",
-      "isp": "Inform tica Y Telecomunicaciones S.A.",
-      "domain": "itcsa.net.ar"
-    }
-  },
-  {
-    "proxy": "http://131.0.234.54:55555",
-    "tested_at": "2026-02-15T08:30:56Z",
-    "ip": "131.0.234.51",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Buenos Aires",
-    "region_code": "B",
-    "city": "Buenos Aires",
-    "latitude": -34.6036844,
-    "longitude": -58.3815591,
-    "is_eu": false,
-    "postal": "C1405 DJG",
-    "connection": {
-      "asn": 61470,
-      "org": "MUSURIT",
-      "isp": "MUSURIT",
-      "domain": "musurit.net"
+      "asn": 52361,
+      "org": "Net g S.R.L",
+      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
+      "domain": "arsat.com.ar"
     }
   }
 ]

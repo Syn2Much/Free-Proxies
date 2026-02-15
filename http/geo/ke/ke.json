@@ -1,31 +1,31 @@
 [
   {
-    "proxy": "http://154.159.247.119:8080",
-    "tested_at": "2026-02-15T07:59:17Z",
-    "ip": "154.159.247.119",
+    "proxy": "http://102.210.106.1:82",
+    "tested_at": "2026-02-15T09:02:00Z",
+    "ip": "41.72.203.6",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Kenya",
     "country_code": "KE",
-    "region": "Murang`a",
-    "region_code": "",
-    "city": "Maragua",
-    "latitude": -0.794421,
-    "longitude": 37.13122,
+    "region": "Nairobi",
+    "region_code": "110",
+    "city": "Nairobi",
+    "latitude": -1.3222736,
+    "longitude": 36.8288933,
     "is_eu": false,
-    "postal": "",
+    "postal": "200",
     "connection": {
-      "asn": 36926,
-      "org": "",
-      "isp": "Airtel KE Mobile Fixed Internet",
-      "domain": ""
+      "asn": 30844,
+      "org": "Callkey Networks",
+      "isp": "Liquid Telecommunications LTD",
+      "domain": "liquidtelecom.mu"
     }
   },
   {
-    "proxy": "http://197.232.47.122:8080",
-    "tested_at": "2026-02-15T07:59:30Z",
-    "ip": "197.232.47.122",
+    "proxy": "http://197.248.204.231:8080",
+    "tested_at": "2026-02-15T09:02:12Z",
+    "ip": "197.248.204.231",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -39,33 +39,10 @@
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 36866,
-      "org": "Jamii Telecommunications Limited",
-      "isp": "Jamii Telecommunications Limited",
-      "domain": "jtl.co.ke"
-    }
-  },
-  {
-    "proxy": "http://102.209.79.230:8080",
-    "tested_at": "2026-02-15T07:59:38Z",
-    "ip": "102.209.79.230",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Nairobi",
-    "region_code": "110",
-    "city": "Githurai",
-    "latitude": -1.2064151,
-    "longitude": 36.913794,
-    "is_eu": false,
-    "postal": "00608",
-    "connection": {
-      "asn": 329422,
-      "org": "SAFHOME FIBRE LIMITED",
-      "isp": "SAFHOME FIBRE LIMITED",
-      "domain": "safhomefibre.com"
+      "asn": 37061,
+      "org": "Safaricom Limited",
+      "isp": "Safaricom Limited",
+      "domain": ""
     }
   }
 ]

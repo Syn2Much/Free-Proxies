@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://193.38.224.169:8081",
-    "tested_at": "2026-02-15T08:30:41Z",
-    "ip": "193.38.224.169",
+    "proxy": "http://80.78.128.94:8080",
+    "tested_at": "2026-02-15T09:01:30Z",
+    "ip": "80.78.128.94",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Spain",
     "country_code": "ES",
-    "region": "Castile and León",
-    "region_code": "CL",
-    "city": "León",
-    "latitude": 42.5987263,
-    "longitude": -5.5670959,
+    "region": "Comunitat Valenciana",
+    "region_code": "VC",
+    "city": "Finestrat",
+    "latitude": 38.5677498,
+    "longitude": -0.2125435,
     "is_eu": true,
-    "postal": "24003",
+    "postal": "03509",
     "connection": {
-      "asn": 206276,
-      "org": "Citelia S.A.",
-      "isp": "Citelia S.A.",
-      "domain": "citelia.es"
+      "asn": 202913,
+      "org": "CLOUDWIFI, SL",
+      "isp": "CLOUDWIFI, SL",
+      "domain": "cloudwifi.es"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.92:5603",
+    "tested_at": "2026-02-15T09:01:48Z",
+    "ip": "213.195.92.93",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Spain",
+    "country_code": "ES",
+    "region": "Andalusia",
+    "region_code": "AN",
+    "city": "Los Molares",
+    "latitude": 37.1562295,
+    "longitude": -5.7191564,
+    "is_eu": true,
+    "postal": "41750",
+    "connection": {
+      "asn": 15704,
+      "org": "Masmovil Ibercom Net",
+      "isp": "XTRA TELECOM S.A.",
+      "domain": "masmovil.com"
     }
   }
 ]

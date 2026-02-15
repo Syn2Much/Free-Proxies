@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://47.91.104.88:3128",
-    "tested_at": "2026-02-15T08:30:11Z",
+    "tested_at": "2026-02-15T09:01:45Z",
     "ip": "47.91.104.88",
     "success": true,
     "type": "IPv4",
@@ -23,31 +23,8 @@
     }
   },
   {
-    "proxy": "http://72.10.164.178:10965",
-    "tested_at": "2026-02-15T08:30:21Z",
-    "ip": "86.99.78.246",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "United Arab Emirates",
-    "country_code": "AE",
-    "region": "Dubai",
-    "region_code": "DU",
-    "city": "Dubai",
-    "latitude": 25.2048493,
-    "longitude": 55.2707828,
-    "is_eu": false,
-    "postal": "39205",
-    "connection": {
-      "asn": 5384,
-      "org": "Emirates Telecommunications Corporation",
-      "isp": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY ETISALAT GROUP PJSC",
-      "domain": "etisalat.ae"
-    }
-  },
-  {
     "proxy": "http://67.43.228.250:26785",
-    "tested_at": "2026-02-15T08:30:22Z",
+    "tested_at": "2026-02-15T09:02:14Z",
     "ip": "94.59.158.25",
     "success": true,
     "type": "IPv4",

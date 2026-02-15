@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://152.53.136.194:10000",
-    "tested_at": "2026-02-15T07:58:52Z",
-    "ip": "101.189.100.152",
+    "proxy": "http://67.43.228.253:4449",
+    "tested_at": "2026-02-15T09:01:34Z",
+    "ip": "114.129.187.145",
     "success": true,
     "type": "IPv4",
     "continent": "Oceania",
     "country": "Australia",
     "country_code": "AU",
-    "region": "Western Australia",
-    "region_code": "WA",
-    "city": "Perth",
-    "latitude": -31.9505269,
-    "longitude": 115.8604572,
+    "region": "New South Wales",
+    "region_code": "NSW",
+    "city": "Sydney",
+    "latitude": -33.8688197,
+    "longitude": 151.2092955,
     "is_eu": false,
-    "postal": "6000",
+    "postal": "2000",
     "connection": {
-      "asn": 1221,
-      "org": "Telstra Corporation",
-      "isp": "Telstra Limited",
-      "domain": ""
+      "asn": 38195,
+      "org": "Superloop Limited",
+      "isp": "SUPERLOOP AUSTRALIA PTY LTD",
+      "domain": "superloop.com"
     }
   }
 ]

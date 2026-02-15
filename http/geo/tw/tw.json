@@ -1,48 +1,48 @@
 [
   {
-    "proxy": "http://72.10.160.174:20417",
-    "tested_at": "2026-02-15T08:30:13Z",
-    "ip": "111.243.169.183",
+    "proxy": "http://72.10.164.178:28789",
+    "tested_at": "2026-02-15T09:01:24Z",
+    "ip": "101.3.56.73",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Taiwan",
     "country_code": "TW",
-    "region": "Taoyuan City",
-    "region_code": "TAO",
-    "city": "Zhongli District",
-    "latitude": 24.9721514,
-    "longitude": 121.2053963,
+    "region": "Keelung City",
+    "region_code": "KEE",
+    "city": "Taipei",
+    "latitude": 25.0329694,
+    "longitude": 121.5654177,
     "is_eu": false,
-    "postal": "320",
+    "postal": "11008",
     "connection": {
-      "asn": 3462,
-      "org": "Chunghwa Telecom CO.,LTD.",
-      "isp": "Chunghwa Telecom Co., Ltd.",
-      "domain": "cht.com.tw"
+      "asn": 131584,
+      "org": "Taiwan Intelligent Fiber Optic Network CO.,LTD.",
+      "isp": "Taiwan Intelligent Fiber Optic Network CO.,LTD.",
+      "domain": "taifo.com.tw"
     }
   },
   {
-    "proxy": "http://72.10.160.171:20417",
-    "tested_at": "2026-02-15T08:30:37Z",
-    "ip": "111.243.169.183",
+    "proxy": "http://220.128.223.136:8081",
+    "tested_at": "2026-02-15T09:01:39Z",
+    "ip": "220.128.223.136",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Taiwan",
     "country_code": "TW",
-    "region": "Taoyuan City",
-    "region_code": "TAO",
-    "city": "Zhongli District",
-    "latitude": 24.9721514,
-    "longitude": 121.2053963,
+    "region": "Keelung City",
+    "region_code": "KEE",
+    "city": "Taipei",
+    "latitude": 25.0329694,
+    "longitude": 121.5654177,
     "is_eu": false,
-    "postal": "320",
+    "postal": "11008",
     "connection": {
       "asn": 3462,
       "org": "Chunghwa Telecom CO.,LTD.",
       "isp": "Chunghwa Telecom Co., Ltd.",
-      "domain": "cht.com.tw"
+      "domain": "twnic.tw"
     }
   }
 ]

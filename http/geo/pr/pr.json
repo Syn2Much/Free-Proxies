@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://154.64.215.193:999",
-    "tested_at": "2026-02-15T08:30:49Z",
-    "ip": "23.130.144.12",
+    "proxy": "http://23.131.56.169:999",
+    "tested_at": "2026-02-15T09:01:32Z",
+    "ip": "23.131.56.46",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,39 +10,16 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "San Sebastián",
-    "latitude": 18.3327741,
-    "longitude": -66.9958226,
+    "city": "Betances",
+    "latitude": 18.0299225,
+    "longitude": -67.1321012,
     "is_eu": false,
-    "postal": "00685",
+    "postal": "00623",
     "connection": {
-      "asn": 397470,
-      "org": "Antoniol Electronic",
-      "isp": "Antoniol Electronic",
-      "domain": "alenet.co"
-    }
-  },
-  {
-    "proxy": "http://154.64.215.132:999",
-    "tested_at": "2026-02-15T08:31:08Z",
-    "ip": "23.130.144.12",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Puerto Rico",
-    "country_code": "PR",
-    "region": "Puerto Rico",
-    "region_code": "PR",
-    "city": "San Sebastián",
-    "latitude": 18.3327741,
-    "longitude": -66.9958226,
-    "is_eu": false,
-    "postal": "00685",
-    "connection": {
-      "asn": 397470,
-      "org": "Antoniol Electronic",
-      "isp": "Antoniol Electronic",
-      "domain": "alenet.co"
+      "asn": 399826,
+      "org": "Webiffi LLC",
+      "isp": "Webiffi LLC",
+      "domain": "webiffi.com"
     }
   }
 ]

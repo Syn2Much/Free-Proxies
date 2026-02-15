@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://5.180.180.32:1080",
-    "tested_at": "2026-02-15T08:30:17Z",
-    "ip": "5.180.180.32",
+    "proxy": "http://193.32.178.160:57329",
+    "tested_at": "2026-02-15T09:01:23Z",
+    "ip": "193.32.178.160",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "Flevoland",
+    "region_code": "FL",
+    "city": "Dronten",
+    "latitude": 52.5346819,
+    "longitude": 5.7218086,
+    "is_eu": true,
+    "postal": "8251 RS",
+    "connection": {
+      "asn": 41745,
+      "org": "Baykov Ilya Sergeevich",
+      "isp": "Baykov Ilya Sergeevich",
+      "domain": "hip-hosting.com"
+    }
+  },
+  {
+    "proxy": "http://145.40.68.148:10052",
+    "tested_at": "2026-02-15T09:01:24Z",
+    "ip": "145.40.68.148",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,15 +39,38 @@
     "is_eu": true,
     "postal": "1012 JS",
     "connection": {
-      "asn": 41436,
-      "org": "CLOUDWEBMANAGE EU",
-      "isp": "Kamatera INC",
-      "domain": "omc.co.il"
+      "asn": 15830,
+      "org": "Equinix Services, Inc.",
+      "isp": "Equinix emea Acquisition Enterprises B.V.",
+      "domain": "packet.net"
+    }
+  },
+  {
+    "proxy": "http://145.40.68.148:10080",
+    "tested_at": "2026-02-15T09:01:26Z",
+    "ip": "145.40.68.148",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
+    "is_eu": true,
+    "postal": "1012 JS",
+    "connection": {
+      "asn": 15830,
+      "org": "Equinix Services, Inc.",
+      "isp": "Equinix emea Acquisition Enterprises B.V.",
+      "domain": "packet.net"
     }
   },
   {
     "proxy": "http://147.75.34.105:443",
-    "tested_at": "2026-02-15T08:30:18Z",
+    "tested_at": "2026-02-15T09:01:29Z",
     "ip": "147.75.34.105",
     "success": true,
     "type": "IPv4",
@@ -46,9 +92,9 @@
     }
   },
   {
-    "proxy": "http://94.176.3.109:7443",
-    "tested_at": "2026-02-15T08:30:22Z",
-    "ip": "94.176.3.109",
+    "proxy": "http://93.183.126.135:3128",
+    "tested_at": "2026-02-15T09:01:30Z",
+    "ip": "93.183.126.135",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -62,15 +108,61 @@
     "is_eu": true,
     "postal": "1012 JS",
     "connection": {
-      "asn": 57043,
-      "org": "Izitell Cloud Fzco",
-      "isp": "HOSTKEY B.V.",
-      "domain": "izitell.com"
+      "asn": 216071,
+      "org": "Amsterdam, Netherlands",
+      "isp": "SERVERS TECH FZCO",
+      "domain": "vdsina.com"
+    }
+  },
+  {
+    "proxy": "http://20.31.25.199:3128",
+    "tested_at": "2026-02-15T09:01:30Z",
+    "ip": "132.220.155.137",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
+    "is_eu": true,
+    "postal": "1012 JS",
+    "connection": {
+      "asn": 8075,
+      "org": "cloud",
+      "isp": "Microsoft Corporation",
+      "domain": "microsoft.com"
+    }
+  },
+  {
+    "proxy": "http://144.124.228.155:3128",
+    "tested_at": "2026-02-15T09:01:35Z",
+    "ip": "144.124.228.155",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
+    "is_eu": true,
+    "postal": "1012 JS",
+    "connection": {
+      "asn": 216071,
+      "org": "SERVERS TECH FZCO",
+      "isp": "SERVERS TECH FZCO",
+      "domain": "vdsina.com"
     }
   },
   {
     "proxy": "http://94.176.3.43:7443",
-    "tested_at": "2026-02-15T08:30:41Z",
+    "tested_at": "2026-02-15T09:01:39Z",
     "ip": "94.176.3.43",
     "success": true,
     "type": "IPv4",
@@ -92,9 +184,32 @@
     }
   },
   {
-    "proxy": "http://178.253.22.108:65431",
-    "tested_at": "2026-02-15T08:30:41Z",
-    "ip": "178.253.22.108",
+    "proxy": "http://94.176.3.109:7443",
+    "tested_at": "2026-02-15T09:01:44Z",
+    "ip": "94.176.3.109",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
+    "is_eu": true,
+    "postal": "1012 JS",
+    "connection": {
+      "asn": 57043,
+      "org": "Izitell Cloud Fzco",
+      "isp": "HOSTKEY B.V.",
+      "domain": "izitell.com"
+    }
+  },
+  {
+    "proxy": "http://80.242.56.115:3128",
+    "tested_at": "2026-02-15T09:01:51Z",
+    "ip": "80.242.56.115",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -109,14 +224,14 @@
     "postal": "1012 JS",
     "connection": {
       "asn": 210976,
-      "org": "Timeweb, LLP",
+      "org": "Timeweb.cloud LLC",
       "isp": "Timeweb, LLP",
-      "domain": "timeweb.ru"
+      "domain": "timeweb.cloud"
     }
   },
   {
     "proxy": "http://94.176.3.42:7443",
-    "tested_at": "2026-02-15T08:30:42Z",
+    "tested_at": "2026-02-15T09:01:54Z",
     "ip": "94.176.3.42",
     "success": true,
     "type": "IPv4",
@@ -138,49 +253,49 @@
     }
   },
   {
-    "proxy": "http://193.106.150.70:1080",
-    "tested_at": "2026-02-15T08:30:55Z",
-    "ip": "193.106.150.70",
+    "proxy": "http://5.180.180.32:1080",
+    "tested_at": "2026-02-15T09:02:00Z",
+    "ip": "5.180.180.32",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Netherlands",
     "country_code": "NL",
-    "region": "Drenthe",
-    "region_code": "DR",
-    "city": "Meppel",
-    "latitude": 52.6921234,
-    "longitude": 6.1937187,
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
     "is_eu": true,
-    "postal": "7942 JE",
+    "postal": "1012 JS",
     "connection": {
-      "asn": 21100,
-      "org": "Inweb Ltd.",
-      "isp": "GREEN FLOID LLC",
-      "domain": "domishko.ru"
+      "asn": 41436,
+      "org": "CLOUDWEBMANAGE EU",
+      "isp": "Kamatera INC",
+      "domain": "omc.co.il"
     }
   },
   {
-    "proxy": "http://193.32.178.160:57329",
-    "tested_at": "2026-02-15T08:31:01Z",
-    "ip": "193.32.178.160",
+    "proxy": "http://145.40.68.148:10082",
+    "tested_at": "2026-02-15T09:02:12Z",
+    "ip": "145.40.68.148",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Netherlands",
     "country_code": "NL",
-    "region": "Flevoland",
-    "region_code": "FL",
-    "city": "Dronten",
-    "latitude": 52.5346819,
-    "longitude": 5.7218086,
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
     "is_eu": true,
-    "postal": "8251 RS",
+    "postal": "1012 JS",
     "connection": {
-      "asn": 41745,
-      "org": "Baykov Ilya Sergeevich",
-      "isp": "Baykov Ilya Sergeevich",
-      "domain": "hip-hosting.com"
+      "asn": 15830,
+      "org": "Equinix Services, Inc.",
+      "isp": "Equinix emea Acquisition Enterprises B.V.",
+      "domain": "packet.net"
     }
   }
 ]

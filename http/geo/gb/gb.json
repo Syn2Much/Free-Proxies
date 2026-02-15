@@ -1,10 +1,10 @@
 [
   {
-    "proxy": "http://109.120.135.230:2030",
-    "tested_at": "2026-02-15T08:30:28Z",
-    "ip": "2a0b:4140:685e::2",
+    "proxy": "http://115.136.121.54:3128",
+    "tested_at": "2026-02-15T09:02:22Z",
+    "ip": "185.113.128.30",
     "success": true,
-    "type": "IPv6",
+    "type": "IPv4",
     "continent": "Europe",
     "country": "United Kingdom",
     "country_code": "GB",
@@ -16,33 +16,10 @@
     "is_eu": false,
     "postal": "SW1",
     "connection": {
-      "asn": 210644,
-      "org": "AEZA NETWORK STOCKHOLM",
-      "isp": "AEZA INTERNATIONAL LTD",
-      "domain": "aeza.net"
-    }
-  },
-  {
-    "proxy": "http://37.27.180.250:2081",
-    "tested_at": "2026-02-15T08:30:56Z",
-    "ip": "141.98.101.182",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "Manchester",
-    "latitude": 53.446622,
-    "longitude": -2.308713,
-    "is_eu": false,
-    "postal": "M2 3FU",
-    "connection": {
-      "asn": 9009,
-      "org": "M LTD Manchester Infrastructure",
-      "isp": "M Europe SRL",
-      "domain": "m247.com"
+      "asn": 42831,
+      "org": "Gigatux LTD",
+      "isp": "UK Dedicated Servers Limited",
+      "domain": "gigatux.com"
     }
   }
 ]

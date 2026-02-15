@@ -1,53 +1,7 @@
 [
   {
-    "proxy": "http://203.196.8.6:3128",
-    "tested_at": "2026-02-15T08:30:15Z",
-    "ip": "203.196.8.6",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.276022,
-    "longitude": 114.1751471,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 23764,
-      "org": "Chinatelecom Next Carrying Network backbone",
-      "isp": "China Telecom Global Limited",
-      "domain": "chinatelecom.com.hk"
-    }
-  },
-  {
-    "proxy": "http://101.47.73.135:3128",
-    "tested_at": "2026-02-15T08:30:18Z",
-    "ip": "101.47.73.135",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.276022,
-    "longitude": 114.1751471,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 150436,
-      "org": "BYTEPLUS",
-      "isp": "Byteplus Pte. Ltd.",
-      "domain": "bytedance.com"
-    }
-  },
-  {
     "proxy": "http://47.243.92.199:3128",
-    "tested_at": "2026-02-15T08:30:52Z",
+    "tested_at": "2026-02-15T09:01:28Z",
     "ip": "47.243.92.199",
     "success": true,
     "type": "IPv4",
@@ -69,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://114.134.189.39:8080",
-    "tested_at": "2026-02-15T08:30:56Z",
-    "ip": "114.134.189.39",
+    "proxy": "http://101.47.73.135:3128",
+    "tested_at": "2026-02-15T09:01:32Z",
+    "ip": "101.47.73.135",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -80,15 +34,38 @@
     "region": "Hong Kong",
     "region_code": "",
     "city": "Hong Kong",
-    "latitude": 22.3203648,
-    "longitude": 114.169773,
+    "latitude": 22.276022,
+    "longitude": 114.1751471,
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 401696,
-      "org": "VAPELINE TECHNOLOGY HK .,LIMITED",
-      "isp": "Cognetcloud INC",
-      "domain": "vapeline-idc.com"
+      "asn": 150436,
+      "org": "BYTEPLUS",
+      "isp": "Byteplus Pte. Ltd.",
+      "domain": "bytedance.com"
+    }
+  },
+  {
+    "proxy": "http://20.2.83.243:3128",
+    "tested_at": "2026-02-15T09:01:47Z",
+    "ip": "20.2.83.243",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.276022,
+    "longitude": 114.1751471,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 8075,
+      "org": "Microsoft Corporation",
+      "isp": "Microsoft Corporation",
+      "domain": "microsoft.com"
     }
   }
 ]

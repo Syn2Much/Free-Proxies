@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://178.251.111.20:8080",
-    "tested_at": "2026-02-15T08:30:35Z",
-    "ip": "178.251.111.18",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Sumy Oblast",
-    "region_code": "59",
-    "city": "Konotop",
-    "latitude": 51.2409432,
-    "longitude": 33.2050521,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 35297,
-      "org": "Dataline LLC",
-      "isp": "Dataline LLC",
-      "domain": "dataline.ua"
-    }
-  },
-  {
-    "proxy": "http://193.24.30.50:37777",
-    "tested_at": "2026-02-15T08:30:37Z",
-    "ip": "193.24.30.50",
+    "proxy": "http://176.37.21.46:41890",
+    "tested_at": "2026-02-15T09:01:27Z",
+    "ip": "176.37.21.46",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,61 +16,38 @@
     "is_eu": false,
     "postal": "01001",
     "connection": {
-      "asn": 31187,
-      "org": "Ukrtechstroy LTD",
-      "isp": "Ukrtechstroy LTD",
-      "domain": "utsltd.kharkov.ua"
+      "asn": 39608,
+      "org": "Lanet Network LTD",
+      "isp": "Lanet Network LTD",
+      "domain": "lanet.ua"
     }
   },
   {
-    "proxy": "http://5.58.97.89:8080",
-    "tested_at": "2026-02-15T08:30:44Z",
-    "ip": "5.58.97.89",
+    "proxy": "http://91.228.217.195:8989",
+    "tested_at": "2026-02-15T09:01:30Z",
+    "ip": "91.228.217.195",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Ukraine",
     "country_code": "UA",
-    "region": "Kyiv city",
-    "region_code": "30",
-    "city": "Kyiv",
-    "latitude": 50.4501,
-    "longitude": 30.5234,
-    "is_eu": false,
-    "postal": "01001",
-    "connection": {
-      "asn": 16223,
-      "org": "UA TE COLUMBUS PE",
-      "isp": "MAXNET TELECOM, LTD",
-      "domain": "maxnet.ua"
-    }
-  },
-  {
-    "proxy": "http://178.34.190.6:8080",
-    "tested_at": "2026-02-15T08:30:51Z",
-    "ip": "178.34.190.6",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Simferopol municipality council",
+    "region": "Ivano-Frankivsk Oblast",
     "region_code": "",
-    "city": "Simferopol",
-    "latitude": 44.952117,
-    "longitude": 34.102417,
+    "city": "Kryvorivnya",
+    "latitude": 48.1736874,
+    "longitude": 24.8963763,
     "is_eu": false,
-    "postal": "",
+    "postal": "78710",
     "connection": {
-      "asn": 201776,
-      "org": "Miranda media LTD",
-      "isp": "Miranda media LTD",
-      "domain": "miranda-media.ru"
+      "asn": 209907,
+      "org": "Fop Saiv Igor Stepanovich",
+      "isp": "Fop Saiv Igor Stepanovich",
+      "domain": "gipernet.com.ua"
     }
   },
   {
     "proxy": "http://5.58.7.214:8080",
-    "tested_at": "2026-02-15T08:30:54Z",
+    "tested_at": "2026-02-15T09:01:30Z",
     "ip": "5.58.7.214",
     "success": true,
     "type": "IPv4",
@@ -112,6 +66,29 @@
       "org": "UA TE COLUMBUS PE",
       "isp": "MAXNET TELECOM, LTD",
       "domain": "maxnet.ua"
+    }
+  },
+  {
+    "proxy": "http://176.100.60.249:3128",
+    "tested_at": "2026-02-15T09:01:58Z",
+    "ip": "176.100.60.249",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Kyiv city",
+    "region_code": "30",
+    "city": "Kyiv",
+    "latitude": 50.4501,
+    "longitude": 30.5234,
+    "is_eu": false,
+    "postal": "01001",
+    "connection": {
+      "asn": 57460,
+      "org": "Pe Scherban Evgeniy Aleksandrovich",
+      "isp": "Pe Scherban Evgeniy Aleksandrovich",
+      "domain": "linknet.org.ua"
     }
   }
 ]

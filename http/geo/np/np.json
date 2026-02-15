@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://110.34.8.110:8080",
-    "tested_at": "2026-02-15T08:30:24Z",
-    "ip": "110.34.13.4",
+    "proxy": "http://103.167.229.147:8080",
+    "tested_at": "2026-02-15T09:01:31Z",
+    "ip": "103.167.229.147",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Nepal",
+    "country_code": "NP",
+    "region": "Gandaki Pradesh",
+    "region_code": "",
+    "city": "Baglung",
+    "latitude": 28.2774326,
+    "longitude": 83.581615,
+    "is_eu": false,
+    "postal": "33300",
+    "connection": {
+      "asn": 140072,
+      "org": "Mukundasen Cable Network",
+      "isp": "Fiberworld Communication Pvt.ltd",
+      "domain": "mukundasencable.com.np"
+    }
+  },
+  {
+    "proxy": "http://110.34.1.178:7777",
+    "tested_at": "2026-02-15T09:01:42Z",
+    "ip": "110.34.1.178",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,14 +33,14 @@
     "country_code": "NP",
     "region": "Bagmati Pradesh",
     "region_code": "",
-    "city": "Patan",
-    "latitude": 27.6644011,
-    "longitude": 85.3187914,
+    "city": "Kathmandu",
+    "latitude": 27.7172453,
+    "longitude": 85.3239605,
     "is_eu": false,
-    "postal": "44707",
+    "postal": "46600",
     "connection": {
       "asn": 4007,
-      "org": "Subisu Retail Pool",
+      "org": "Server Networks",
       "isp": "Subisu Cablenet",
       "domain": "subisu.net.np"
     }

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://181.215.52.101:9443",
-    "tested_at": "2026-02-15T08:30:15Z",
-    "ip": "181.215.52.114",
+    "proxy": "https://181.215.52.192:9443",
+    "tested_at": "2026-02-15T09:01:23Z",
+    "ip": "181.215.52.199",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "https://181.215.52.40:9443",
-    "tested_at": "2026-02-15T08:30:20Z",
-    "ip": "181.215.52.44",
+    "proxy": "https://181.215.52.2:9443",
+    "tested_at": "2026-02-15T09:01:33Z",
+    "ip": "181.215.52.94",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -46,9 +46,9 @@
     }
   },
   {
-    "proxy": "https://181.215.52.30:443",
-    "tested_at": "2026-02-15T08:30:31Z",
-    "ip": "181.215.52.35",
+    "proxy": "https://181.215.52.16:9443",
+    "tested_at": "2026-02-15T09:01:33Z",
+    "ip": "181.215.52.38",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -69,55 +69,9 @@
     }
   },
   {
-    "proxy": "https://149.57.28.9:9443",
-    "tested_at": "2026-02-15T08:30:33Z",
-    "ip": "149.57.28.245",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Richmond Hill",
-    "latitude": 43.8828401,
-    "longitude": -79.4402808,
-    "is_eu": false,
-    "postal": "L4C 3C1",
-    "connection": {
-      "asn": 397540,
-      "org": "Windscribe",
-      "isp": "Windscribe",
-      "domain": "windscribe.com"
-    }
-  },
-  {
-    "proxy": "https://181.215.52.25:9443",
-    "tested_at": "2026-02-15T08:30:41Z",
-    "ip": "181.215.52.29",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 397540,
-      "org": "Private Customer",
-      "isp": "Windscribe",
-      "domain": "us.com"
-    }
-  },
-  {
-    "proxy": "https://181.215.52.122:9443",
-    "tested_at": "2026-02-15T08:30:42Z",
-    "ip": "181.215.52.127",
+    "proxy": "https://181.215.52.6:9443",
+    "tested_at": "2026-02-15T09:01:43Z",
+    "ip": "181.215.52.10",
     "success": true,
     "type": "IPv4",
     "continent": "North America",

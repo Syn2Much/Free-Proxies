@@ -1,20 +1,20 @@
 [
   {
-    "proxy": "http://72.10.164.178:8795",
-    "tested_at": "2026-02-15T08:30:12Z",
-    "ip": "118.45.30.39",
+    "proxy": "http://121.168.58.213:3128",
+    "tested_at": "2026-02-15T09:01:23Z",
+    "ip": "121.168.58.213",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Republic of Korea",
     "country_code": "KR",
-    "region": "North Gyeongsang",
-    "region_code": "47",
-    "city": "Pohang-si",
-    "latitude": 36.0190178,
-    "longitude": 129.3434808,
+    "region": "Gyeonggi",
+    "region_code": "41",
+    "city": "Suwon-si",
+    "latitude": 37.2635727,
+    "longitude": 127.0286009,
     "is_eu": false,
-    "postal": "37683",
+    "postal": "16490",
     "connection": {
       "asn": 4766,
       "org": "Korea Telecom",
@@ -23,31 +23,8 @@
     }
   },
   {
-    "proxy": "http://67.43.236.20:21415",
-    "tested_at": "2026-02-15T08:30:13Z",
-    "ip": "211.108.50.169",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Republic of Korea",
-    "country_code": "KR",
-    "region": "",
-    "region_code": "",
-    "city": "Yeongdeungpo-gu",
-    "latitude": 37.5263715,
-    "longitude": 126.8962283,
-    "is_eu": false,
-    "postal": "07255",
-    "connection": {
-      "asn": 9318,
-      "org": "Sk Broadband Co LTD",
-      "isp": "Sk Broadband Co LTD",
-      "domain": "skbroadband.com"
-    }
-  },
-  {
     "proxy": "http://210.223.44.230:3128",
-    "tested_at": "2026-02-15T08:30:22Z",
+    "tested_at": "2026-02-15T09:01:34Z",
     "ip": "210.223.44.230",
     "success": true,
     "type": "IPv4",
@@ -69,31 +46,8 @@
     }
   },
   {
-    "proxy": "http://211.171.114.154:3128",
-    "tested_at": "2026-02-15T08:30:34Z",
-    "ip": "223.38.85.198",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Republic of Korea",
-    "country_code": "KR",
-    "region": "",
-    "region_code": "",
-    "city": "Seocho-gu",
-    "latitude": 37.4837121,
-    "longitude": 127.0324112,
-    "is_eu": false,
-    "postal": "06750",
-    "connection": {
-      "asn": 9644,
-      "org": "Sk Telecom",
-      "isp": "Sk Telecom",
-      "domain": "sktelecom.com"
-    }
-  },
-  {
     "proxy": "http://211.230.49.122:3128",
-    "tested_at": "2026-02-15T08:30:52Z",
+    "tested_at": "2026-02-15T09:01:44Z",
     "ip": "211.230.49.122",
     "success": true,
     "type": "IPv4",
@@ -112,6 +66,75 @@
       "org": "Kornet",
       "isp": "Korea Telecom",
       "domain": ""
+    }
+  },
+  {
+    "proxy": "http://72.10.160.90:29817",
+    "tested_at": "2026-02-15T09:01:55Z",
+    "ip": "175.112.197.141",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "Seo-gu",
+    "region_code": "",
+    "city": "Seo-gu",
+    "latitude": 36.3389723,
+    "longitude": 127.3789248,
+    "is_eu": false,
+    "postal": "302-200",
+    "connection": {
+      "asn": 9318,
+      "org": "Sk Broadband Co LTD",
+      "isp": "Sk Broadband Co LTD",
+      "domain": "skbroadband.com"
+    }
+  },
+  {
+    "proxy": "http://211.171.114.154:3128",
+    "tested_at": "2026-02-15T09:02:06Z",
+    "ip": "175.223.10.227",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "",
+    "region_code": "",
+    "city": "Dongjak-gu",
+    "latitude": 37.512402,
+    "longitude": 126.9392525,
+    "is_eu": false,
+    "postal": "06928",
+    "connection": {
+      "asn": 4766,
+      "org": "Korea Telecom",
+      "isp": "Korea Telecom",
+      "domain": "apnic.net"
+    }
+  },
+  {
+    "proxy": "http://67.43.228.250:29351",
+    "tested_at": "2026-02-15T09:02:14Z",
+    "ip": "115.138.247.89",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "Seoul",
+    "region_code": "11",
+    "city": "Yongsan-gu",
+    "latitude": 37.5359626,
+    "longitude": 126.9710048,
+    "is_eu": false,
+    "postal": "04390",
+    "connection": {
+      "asn": 17858,
+      "org": "LG POWERCOMM",
+      "isp": "LG POWERCOMM",
+      "domain": "powercomm.com"
     }
   }
 ]

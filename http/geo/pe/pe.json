@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://38.183.182.242:999",
-    "tested_at": "2026-02-15T08:30:18Z",
-    "ip": "38.183.182.249",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Lima",
-    "region_code": "LIM",
-    "city": "Huaura Province",
-    "latitude": -11.1223461,
-    "longitude": -77.6109546,
-    "is_eu": false,
-    "postal": "15138",
-    "connection": {
-      "asn": 273084,
-      "org": "Cogent Communications",
-      "isp": "FORZA BUSSINES S.A.C.",
-      "domain": "forzatel.pe"
-    }
-  },
-  {
     "proxy": "http://38.158.83.65:999",
-    "tested_at": "2026-02-15T08:30:34Z",
+    "tested_at": "2026-02-15T09:01:54Z",
     "ip": "38.158.82.160",
     "success": true,
     "type": "IPv4",
@@ -46,72 +23,26 @@
     }
   },
   {
-    "proxy": "http://38.187.7.6:3128",
-    "tested_at": "2026-02-15T08:30:53Z",
-    "ip": "38.187.7.6",
+    "proxy": "http://170.81.241.226:999",
+    "tested_at": "2026-02-15T09:02:09Z",
+    "ip": "170.81.241.226",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Peru",
     "country_code": "PE",
-    "region": "Lima",
-    "region_code": "LIM",
-    "city": "Quilmaná District",
-    "latitude": -12.9406805,
-    "longitude": -76.3984537,
+    "region": "Lambayeque",
+    "region_code": "LAM",
+    "city": "Chiclayo",
+    "latitude": -6.7765974,
+    "longitude": -79.8442978,
     "is_eu": false,
-    "postal": "15712",
+    "postal": "",
     "connection": {
-      "asn": 271814,
-      "org": "NEXTNET S.A.C",
-      "isp": "NEXTNET SAC",
-      "domain": "nextnet.com.pe"
-    }
-  },
-  {
-    "proxy": "http://38.172.130.241:999",
-    "tested_at": "2026-02-15T08:30:54Z",
-    "ip": "38.159.166.157",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Lima",
-    "region_code": "LIM",
-    "city": "Lima District",
-    "latitude": -12.046374,
-    "longitude": -77.0427934,
-    "is_eu": false,
-    "postal": "15081",
-    "connection": {
-      "asn": 274113,
-      "org": "Cogent Communications",
-      "isp": "CINTELSUR PERU S.A.C.",
-      "domain": "cintel.pe"
-    }
-  },
-  {
-    "proxy": "http://38.52.183.33:999",
-    "tested_at": "2026-02-15T08:31:02Z",
-    "ip": "38.52.183.32",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Lima",
-    "region_code": "LIM",
-    "city": "Lima",
-    "latitude": -12.2179228,
-    "longitude": -76.9071431,
-    "is_eu": false,
-    "postal": "15822",
-    "connection": {
-      "asn": 273026,
-      "org": "Cogent Communications",
-      "isp": "NEXSATEL SOCIEDAD ANONIMA CERRADA NEXSATEL S.A.C.",
-      "domain": "nexsatel.com.pe"
+      "asn": 269803,
+      "org": "INVENTA TELECOMUNICACIONES EIRL",
+      "isp": "INVENTA TELECOMUNICACIONES EIRL",
+      "domain": "inventa.pe"
     }
   }
 ]
