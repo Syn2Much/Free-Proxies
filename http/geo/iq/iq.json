@@ -1,7 +1,76 @@
 [
   {
+    "proxy": "http://5.10.230.93:8080",
+    "tested_at": "2026-02-15T07:58:45Z",
+    "ip": "5.10.228.162",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Baghdad Governorate",
+    "region_code": "BG",
+    "city": "Tarmiyah",
+    "latitude": 33.6732479,
+    "longitude": 44.3614875,
+    "is_eu": false,
+    "postal": "10084",
+    "connection": {
+      "asn": 3194,
+      "org": "SatGate IQ ISP",
+      "isp": "Satgate Company for Trading of Computers Systems And Communications Appliances Wll",
+      "domain": "satgate-iraq.com"
+    }
+  },
+  {
+    "proxy": "http://37.238.63.39:8080",
+    "tested_at": "2026-02-15T07:58:47Z",
+    "ip": "37.237.226.176",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Baghdad Governorate",
+    "region_code": "BG",
+    "city": "Baghdad",
+    "latitude": 33.3128057,
+    "longitude": 44.3614875,
+    "is_eu": false,
+    "postal": "10001",
+    "connection": {
+      "asn": 199739,
+      "org": "Earthlink Ltd. Communications internet Services orange",
+      "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
+      "domain": "earthlink.iq"
+    }
+  },
+  {
+    "proxy": "http://37.238.63.49:8080",
+    "tested_at": "2026-02-15T07:59:00Z",
+    "ip": "37.237.229.128",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Baghdad Governorate",
+    "region_code": "BG",
+    "city": "Baghdad",
+    "latitude": 33.3128057,
+    "longitude": 44.3614875,
+    "is_eu": false,
+    "postal": "10001",
+    "connection": {
+      "asn": 199739,
+      "org": "Earthlink Ltd. Communications internet Services orange",
+      "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
+      "domain": "earthlink.iq"
+    }
+  },
+  {
     "proxy": "http://46.161.195.133:8080",
-    "tested_at": "2026-02-15T07:27:47Z",
+    "tested_at": "2026-02-15T07:59:38Z",
     "ip": "46.161.195.133",
     "success": true,
     "type": "IPv4",
@@ -20,29 +89,6 @@
       "org": "Valeen for General Trading, Internet Services And Information Technology LTD",
       "isp": "Valeen for General Trading, Internet Services And Information Technology LTD",
       "domain": "valeenonline.com"
-    }
-  },
-  {
-    "proxy": "http://37.239.47.76:8080",
-    "tested_at": "2026-02-15T07:28:12Z",
-    "ip": "93.180.216.58",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Iraq",
-    "country_code": "IQ",
-    "region": "Dhi Qar Governorate",
-    "region_code": "DQ",
-    "city": "Nasiriyah",
-    "latitude": 31.0452345,
-    "longitude": 46.2665911,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 203217,
-      "org": "Horizon Scope Mobile Telecom Wll",
-      "isp": "Horizon Scope Mobile Telecom Wll",
-      "domain": "horizonscope.com"
     }
   }
 ]

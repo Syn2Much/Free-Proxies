@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://213.154.2.210:3128",
-    "tested_at": "2026-02-15T06:56:04Z",
+    "tested_at": "2026-02-15T07:59:05Z",
     "ip": "213.154.2.210",
     "success": true,
     "type": "IPv4",
@@ -20,29 +20,6 @@
       "org": "Baku Telephone Communication LLC",
       "isp": "Aztelekom LLC",
       "domain": "aztelekom.az"
-    }
-  },
-  {
-    "proxy": "http://185.118.51.133:3128",
-    "tested_at": "2026-02-15T06:56:47Z",
-    "ip": "185.118.51.133",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Azerbaijan",
-    "country_code": "AZ",
-    "region": "Baku",
-    "region_code": "BA",
-    "city": "Baku",
-    "latitude": 40.4092617,
-    "longitude": 49.8670924,
-    "is_eu": false,
-    "postal": "AZ 1009",
-    "connection": {
-      "asn": 203971,
-      "org": "CGNAT",
-      "isp": "Azfibernet LLC",
-      "domain": "azfiber.net"
     }
   }
 ]

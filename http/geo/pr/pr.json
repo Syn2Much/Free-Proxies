@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://23.143.160.193:999",
-    "tested_at": "2026-02-15T06:56:31Z",
-    "ip": "23.143.160.21",
+    "proxy": "http://23.138.88.96:999",
+    "tested_at": "2026-02-15T07:58:46Z",
+    "ip": "23.138.88.97",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,16 +10,16 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "Ponce",
-    "latitude": 18.0110768,
-    "longitude": -66.6140616,
+    "city": "Adjuntas",
+    "latitude": 18.1627363,
+    "longitude": -66.7221187,
     "is_eu": false,
-    "postal": "00733-1910",
+    "postal": "00601",
     "connection": {
-      "asn": 14534,
-      "org": "UNONET CORP",
-      "isp": "UNONET CORP",
-      "domain": "myunonet.net"
+      "asn": 400354,
+      "org": "ALPHANET CORP",
+      "isp": "ALPHANET CORP",
+      "domain": "alphanetwireless.net"
     }
   }
 ]

@@ -1,25 +1,94 @@
 [
   {
-    "proxy": "http://194.29.60.220:8080",
-    "tested_at": "2026-02-15T07:27:39Z",
-    "ip": "194.29.60.220",
+    "proxy": "http://178.165.42.166:3128",
+    "tested_at": "2026-02-15T07:58:46Z",
+    "ip": "178.165.42.166",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Ukraine",
     "country_code": "UA",
-    "region": "Vinnytsia Oblast",
-    "region_code": "05",
-    "city": "Vinnytsia",
-    "latitude": 49.233083,
-    "longitude": 28.468217,
+    "region": "Kharkiv Oblast",
+    "region_code": "63",
+    "city": "Kharkiv",
+    "latitude": 49.9935,
+    "longitude": 36.230383,
     "is_eu": false,
-    "postal": "",
+    "postal": "61003",
     "connection": {
-      "asn": 31520,
-      "org": "PRIVATE JOINT STOCK COMPANY DATAGROUP",
-      "isp": "PRIVATE JOINT STOCK COMPANY DATAGROUP",
-      "domain": "datagroup.ua"
+      "asn": 34700,
+      "org": "Maxnet Ltd., Kharkiv",
+      "isp": "MAXNET TELECOM, LTD",
+      "domain": "maxnet.ua"
+    }
+  },
+  {
+    "proxy": "http://176.32.2.193:8080",
+    "tested_at": "2026-02-15T07:58:48Z",
+    "ip": "176.32.2.193",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Khmelnytskyi Oblast",
+    "region_code": "68",
+    "city": "Kam'yanets'-Podil's'kyi",
+    "latitude": 48.6967162,
+    "longitude": 26.5825364,
+    "is_eu": false,
+    "postal": "32320",
+    "connection": {
+      "asn": 49332,
+      "org": "Lanet Network LTD",
+      "isp": "Lanet Network LTD",
+      "domain": "lanet.ua"
+    }
+  },
+  {
+    "proxy": "http://95.67.121.206:45554",
+    "tested_at": "2026-02-15T07:59:06Z",
+    "ip": "95.67.121.206",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Kyiv city",
+    "region_code": "30",
+    "city": "Kyiv",
+    "latitude": 50.4501,
+    "longitude": 30.5234,
+    "is_eu": false,
+    "postal": "01001",
+    "connection": {
+      "asn": 34867,
+      "org": "Cosmonova LLC",
+      "isp": "Cosmonova LLC",
+      "domain": "cosmonova.net"
+    }
+  },
+  {
+    "proxy": "http://176.100.60.249:3128",
+    "tested_at": "2026-02-15T07:59:34Z",
+    "ip": "176.100.60.249",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Kyiv city",
+    "region_code": "30",
+    "city": "Kyiv",
+    "latitude": 50.4501,
+    "longitude": 30.5234,
+    "is_eu": false,
+    "postal": "01001",
+    "connection": {
+      "asn": 57460,
+      "org": "Pe Scherban Evgeniy Aleksandrovich",
+      "isp": "Pe Scherban Evgeniy Aleksandrovich",
+      "domain": "linknet.org.ua"
     }
   }
 ]

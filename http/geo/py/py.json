@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://170.245.132.80:999",
-    "tested_at": "2026-02-15T07:27:38Z",
-    "ip": "170.245.132.80",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Paraguay",
-    "country_code": "PY",
-    "region": "Paraguarí",
-    "region_code": "9",
-    "city": "Carapeguá",
-    "latitude": -25.7643636,
-    "longitude": -57.2423411,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 270096,
-      "org": "MACHADO BAEZ, NERY JAVIER LOCAL NET PARAGUAY",
-      "isp": "MACHADO BAEZ, NERY JAVIER LOCAL NET PARAGUAY",
-      "domain": "local.net.py"
-    }
-  },
-  {
     "proxy": "http://45.177.16.132:999",
-    "tested_at": "2026-02-15T07:28:19Z",
+    "tested_at": "2026-02-15T07:59:18Z",
     "ip": "45.177.16.254",
     "success": true,
     "type": "IPv4",

@@ -1,76 +1,7 @@
 [
   {
-    "proxy": "http://143.208.57.162:999",
-    "tested_at": "2026-02-15T07:27:48Z",
-    "ip": "143.208.57.162",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "Chimaltenango",
-    "region_code": "CM",
-    "city": "Parramos",
-    "latitude": 14.6136872,
-    "longitude": -90.8032181,
-    "is_eu": false,
-    "postal": "04014",
-    "connection": {
-      "asn": 22869,
-      "org": "COMUNICACIONES METROPOLITANAS CABLECOLOR",
-      "isp": "CABLECOLOR S.A.",
-      "domain": "cablecolor.net"
-    }
-  },
-  {
-    "proxy": "http://138.117.230.131:999",
-    "tested_at": "2026-02-15T07:27:55Z",
-    "ip": "138.117.230.131",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "Escuintla",
-    "region_code": "ES",
-    "city": "La Democracia",
-    "latitude": 14.229012,
-    "longitude": -90.9462345,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 269989,
-      "org": "FIBERNET S.A",
-      "isp": "FIBERNET S.A",
-      "domain": "fibernetgt.com"
-    }
-  },
-  {
-    "proxy": "http://143.208.57.59:8080",
-    "tested_at": "2026-02-15T07:28:10Z",
-    "ip": "143.208.57.59",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "Guatemala Department",
-    "region_code": "GU",
-    "city": "Guatemala City",
-    "latitude": 14.6349149,
-    "longitude": -90.5068824,
-    "is_eu": false,
-    "postal": "01004",
-    "connection": {
-      "asn": 22869,
-      "org": "COMUNICACIONES METROPOLITANAS CABLECOLOR",
-      "isp": "CABLECOLOR S.A.",
-      "domain": "cablecolor.net"
-    }
-  },
-  {
     "proxy": "http://38.52.208.49:999",
-    "tested_at": "2026-02-15T07:28:18Z",
+    "tested_at": "2026-02-15T07:58:49Z",
     "ip": "38.52.212.255",
     "success": true,
     "type": "IPv4",
@@ -89,6 +20,75 @@
       "org": "Cogent Communications",
       "isp": "CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
       "domain": "centralredes.com"
+    }
+  },
+  {
+    "proxy": "http://181.174.115.9:1994",
+    "tested_at": "2026-02-15T07:59:30Z",
+    "ip": "181.174.115.9",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "region": "Izabal",
+    "region_code": "IZ",
+    "city": "Puerto Barrios",
+    "latitude": 15.695364,
+    "longitude": -88.5855173,
+    "is_eu": false,
+    "postal": "18013",
+    "connection": {
+      "asn": 23243,
+      "org": "COMUNICACIONES CELULARES, S.A.",
+      "isp": "COMCEL GUATEMALA S.A.",
+      "domain": "tigo.com.gt"
+    }
+  },
+  {
+    "proxy": "http://24.152.53.6:999",
+    "tested_at": "2026-02-15T07:59:36Z",
+    "ip": "24.152.53.3",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "region": "Jalapa",
+    "region_code": "JA",
+    "city": "Jalapa",
+    "latitude": 14.6325483,
+    "longitude": -89.9930052,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 269964,
+      "org": "TV CABLE UNIVERSAL S.A",
+      "isp": "TV CABLE UNIVERSAL S.A",
+      "domain": "vosguatemala.com"
+    }
+  },
+  {
+    "proxy": "http://24.152.53.3:999",
+    "tested_at": "2026-02-15T07:59:41Z",
+    "ip": "24.152.53.3",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "region": "Jalapa",
+    "region_code": "JA",
+    "city": "Jalapa",
+    "latitude": 14.6325483,
+    "longitude": -89.9930052,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 269964,
+      "org": "TV CABLE UNIVERSAL S.A",
+      "isp": "TV CABLE UNIVERSAL S.A",
+      "domain": "vosguatemala.com"
     }
   }
 ]

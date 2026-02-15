@@ -1,7 +1,99 @@
 [
   {
+    "proxy": "http://201.186.41.170:999",
+    "tested_at": "2026-02-15T07:59:06Z",
+    "ip": "201.186.41.170",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Biobío Region",
+    "region_code": "BI",
+    "city": "Los Ángeles",
+    "latitude": -37.4629159,
+    "longitude": -72.3612251,
+    "is_eu": false,
+    "postal": "90009",
+    "connection": {
+      "asn": 14117,
+      "org": "Telefonica del Sur S.A",
+      "isp": "Telefonica Del Sur S.A.",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://190.54.100.74:8080",
+    "tested_at": "2026-02-15T07:59:09Z",
+    "ip": "190.54.100.74",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 6429,
+      "org": "Telmex Servicios Empresariales S.A",
+      "isp": "Telmex Chile Internet S.A.",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://190.121.4.157:999",
+    "tested_at": "2026-02-15T07:59:19Z",
+    "ip": "190.121.4.157",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Los Lagos Region",
+    "region_code": "LL",
+    "city": "Osorno",
+    "latitude": -40.5761897,
+    "longitude": -73.1149469,
+    "is_eu": false,
+    "postal": "531 2321",
+    "connection": {
+      "asn": 14117,
+      "org": "Telefonica Del Sur S.A.",
+      "isp": "Telefonica Del Sur S.A.",
+      "domain": "telsur.cl"
+    }
+  },
+  {
+    "proxy": "http://38.7.195.54:999",
+    "tested_at": "2026-02-15T07:59:20Z",
+    "ip": "38.7.195.49",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 263702,
+      "org": "Cogent Communications",
+      "isp": "GRUPO ZGH SPA",
+      "domain": "zglobalhost.com"
+    }
+  },
+  {
     "proxy": "http://186.67.74.52:3128",
-    "tested_at": "2026-02-15T07:27:52Z",
+    "tested_at": "2026-02-15T07:59:26Z",
     "ip": "186.67.74.52",
     "success": true,
     "type": "IPv4",
@@ -23,9 +115,9 @@
     }
   },
   {
-    "proxy": "http://38.7.195.50:999",
-    "tested_at": "2026-02-15T07:27:58Z",
-    "ip": "38.7.195.49",
+    "proxy": "http://38.7.206.186:999",
+    "tested_at": "2026-02-15T07:59:40Z",
+    "ip": "38.7.206.190",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -47,7 +139,7 @@
   },
   {
     "proxy": "http://45.180.26.1:999",
-    "tested_at": "2026-02-15T07:28:07Z",
+    "tested_at": "2026-02-15T07:59:46Z",
     "ip": "201.236.21.58",
     "success": true,
     "type": "IPv4",
@@ -66,52 +158,6 @@
       "org": "MONTALVA PROPIEDADES LTDA",
       "isp": "TELEFONICA EMPRESAS CHILE SA",
       "domain": "movistar.cl"
-    }
-  },
-  {
-    "proxy": "http://38.7.195.51:999",
-    "tested_at": "2026-02-15T07:28:07Z",
-    "ip": "38.7.195.49",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
-    "is_eu": false,
-    "postal": "832 0202",
-    "connection": {
-      "asn": 263702,
-      "org": "Cogent Communications",
-      "isp": "GRUPO ZGH SPA",
-      "domain": "zglobalhost.com"
-    }
-  },
-  {
-    "proxy": "http://164.77.40.112:8080",
-    "tested_at": "2026-02-15T07:28:21Z",
-    "ip": "164.77.40.112",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Araucanía Region",
-    "region_code": "AR",
-    "city": "Temuco",
-    "latitude": -38.7359018,
-    "longitude": -72.5903739,
-    "is_eu": false,
-    "postal": "479 1047",
-    "connection": {
-      "asn": 27651,
-      "org": "ENTEL CHILE S.A.",
-      "isp": "ENTEL CHILE S.A.",
-      "domain": "entel.cl"
     }
   }
 ]

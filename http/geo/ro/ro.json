@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://144.76.42.215:8118",
-    "tested_at": "2026-02-15T01:12:08Z",
-    "ip": "37.46.196.22",
+    "proxy": "http://92.180.22.224:8081",
+    "tested_at": "2026-02-15T07:58:47Z",
+    "ip": "92.180.22.224",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Romania",
     "country_code": "RO",
-    "region": "Bucharest",
-    "region_code": "B",
-    "city": "Bucharest",
-    "latitude": 44.4267674,
-    "longitude": 26.1025384,
+    "region": "Cluj",
+    "region_code": "CJ",
+    "city": "Turda",
+    "latitude": 46.564676,
+    "longitude": 23.7971063,
     "is_eu": true,
-    "postal": "030163",
+    "postal": "401100",
     "connection": {
-      "asn": 6206,
-      "org": "Netrouting B.V.",
-      "isp": "Netrouting B.V.",
-      "domain": "netrouting.com"
+      "asn": 8953,
+      "org": "Orange Romania",
+      "isp": "Orange Romania S.A.",
+      "domain": "orange.ro"
     }
   }
 ]

@@ -1,25 +1,71 @@
 [
   {
-    "proxy": "http://78.9.234.55:8080",
-    "tested_at": "2026-02-15T05:54:03Z",
-    "ip": "78.9.234.55",
+    "proxy": "http://185.32.6.129:8090",
+    "tested_at": "2026-02-15T07:58:49Z",
+    "ip": "212.127.88.213",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Poland",
     "country_code": "PL",
-    "region": "West Pomeranian Voivodeship",
-    "region_code": "32",
-    "city": "Szczecin",
-    "latitude": 53.4285438,
-    "longitude": 14.5528116,
+    "region": "Województwo dolnośląskie",
+    "region_code": "02",
+    "city": "Wrocław",
+    "latitude": 51.1078852,
+    "longitude": 17.0385376,
     "is_eu": true,
-    "postal": "70-414",
+    "postal": "50-101",
     "connection": {
-      "asn": 12741,
-      "org": "Dynamic Broadband Services",
-      "isp": "Netia SA",
-      "domain": "netia.pl"
+      "asn": 35179,
+      "org": "Korbank S. A.",
+      "isp": "Korbank S. A.",
+      "domain": "korbank.pl"
+    }
+  },
+  {
+    "proxy": "http://148.81.121.5:8080",
+    "tested_at": "2026-02-15T07:59:08Z",
+    "ip": "148.81.121.5",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Poland",
+    "country_code": "PL",
+    "region": "Masovian Voivodeship",
+    "region_code": "14",
+    "city": "Warsaw",
+    "latitude": 52.2296756,
+    "longitude": 21.0122287,
+    "is_eu": true,
+    "postal": "00-110",
+    "connection": {
+      "asn": 1887,
+      "org": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA PANSTWOWY INSTYTUT BADAWCZY",
+      "isp": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA PANSTWOWY INSTYTUT BADAWCZY",
+      "domain": "nask.pl"
+    }
+  },
+  {
+    "proxy": "http://185.28.250.90:8090",
+    "tested_at": "2026-02-15T07:59:45Z",
+    "ip": "185.28.250.90",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Poland",
+    "country_code": "PL",
+    "region": "Lesser Poland Voivodeship",
+    "region_code": "12",
+    "city": "Kraków",
+    "latitude": 50.0646501,
+    "longitude": 19.9449799,
+    "is_eu": true,
+    "postal": "30-730",
+    "connection": {
+      "asn": 206910,
+      "org": "BESTCONNECT CUST",
+      "isp": "Janusz Ciurus Trading AS Bestconnect",
+      "domain": "mynet.pl"
     }
   }
 ]

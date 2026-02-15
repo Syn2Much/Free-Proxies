@@ -1,30 +1,30 @@
 [
   {
-    "proxy": "http://200.48.35.123:999",
-    "tested_at": "2026-02-15T07:27:36Z",
-    "ip": "200.10.68.234",
+    "proxy": "http://38.52.182.49:999",
+    "tested_at": "2026-02-15T07:58:45Z",
+    "ip": "38.52.182.50",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Peru",
     "country_code": "PE",
-    "region": "Junin",
-    "region_code": "JUN",
-    "city": "Tarma",
-    "latitude": -11.4193347,
-    "longitude": -75.6889493,
+    "region": "Lima",
+    "region_code": "LIM",
+    "city": "Lima",
+    "latitude": -12.2179228,
+    "longitude": -76.9071431,
     "is_eu": false,
-    "postal": "",
+    "postal": "15822",
     "connection": {
-      "asn": 6147,
-      "org": "INTEGRATEL PER S.A.A.",
-      "isp": "INTEGRATEL PER S.A.A.",
-      "domain": "telefonica.com.pe"
+      "asn": 273026,
+      "org": "Cogent Communications",
+      "isp": "NEXSATEL SOCIEDAD ANONIMA CERRADA NEXSATEL S.A.C.",
+      "domain": "nexsatel.com.pe"
     }
   },
   {
-    "proxy": "http://38.190.100.107:999",
-    "tested_at": "2026-02-15T07:28:00Z",
+    "proxy": "http://38.190.100.105:999",
+    "tested_at": "2026-02-15T07:59:18Z",
     "ip": "38.190.100.106",
     "success": true,
     "type": "IPv4",
@@ -43,6 +43,121 @@
       "org": "Cogent Communications",
       "isp": "CONEX TV E.I.R.L.",
       "domain": "conextv.pe"
+    }
+  },
+  {
+    "proxy": "http://38.187.7.6:3128",
+    "tested_at": "2026-02-15T07:59:20Z",
+    "ip": "38.187.7.6",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Lima",
+    "region_code": "LIM",
+    "city": "Quilmaná District",
+    "latitude": -12.9406805,
+    "longitude": -76.3984537,
+    "is_eu": false,
+    "postal": "15712",
+    "connection": {
+      "asn": 271814,
+      "org": "NEXTNET S.A.C",
+      "isp": "NEXTNET SAC",
+      "domain": "nextnet.com.pe"
+    }
+  },
+  {
+    "proxy": "http://200.215.229.33:999",
+    "tested_at": "2026-02-15T07:59:29Z",
+    "ip": "200.215.229.14",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Cusco",
+    "region_code": "CUS",
+    "city": "Cusco",
+    "latitude": -13.5294272,
+    "longitude": -71.9355221,
+    "is_eu": false,
+    "postal": "08001",
+    "connection": {
+      "asn": 271868,
+      "org": "GPON NETWORKS S.A.C.",
+      "isp": "GPON NETWORKS S.A.C.",
+      "domain": "gpon.pe"
+    }
+  },
+  {
+    "proxy": "http://38.158.83.129:999",
+    "tested_at": "2026-02-15T07:59:37Z",
+    "ip": "38.158.82.98",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Arequipa",
+    "region_code": "ARE",
+    "city": "Arequipa",
+    "latitude": -16.4090474,
+    "longitude": -71.537451,
+    "is_eu": false,
+    "postal": "04001",
+    "connection": {
+      "asn": 272838,
+      "org": "Cogent Communications",
+      "isp": "FIBERRED SAC",
+      "domain": "fiberred.pe"
+    }
+  },
+  {
+    "proxy": "http://170.81.242.236:999",
+    "tested_at": "2026-02-15T07:59:42Z",
+    "ip": "170.81.241.14",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Lambayeque",
+    "region_code": "LAM",
+    "city": "Chiclayo",
+    "latitude": -6.778737,
+    "longitude": -79.886098,
+    "is_eu": false,
+    "postal": "14012",
+    "connection": {
+      "asn": 269803,
+      "org": "INVENTA TELECOMUNICACIONES EIRL",
+      "isp": "INVENTA TELECOMUNICACIONES EIRL",
+      "domain": "inventa.pe"
+    }
+  },
+  {
+    "proxy": "http://200.107.142.39:3128",
+    "tested_at": "2026-02-15T07:59:45Z",
+    "ip": "200.107.142.38",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Cajamarca",
+    "region_code": "CAJ",
+    "city": "San Ignacio",
+    "latitude": -5.146268,
+    "longitude": -79.0023523,
+    "is_eu": false,
+    "postal": "3322",
+    "connection": {
+      "asn": 6147,
+      "org": "TELEFONICA DEL PERU SAA",
+      "isp": "INTEGRATEL PER S.A.A.",
+      "domain": "telefonica.com.pe"
     }
   }
 ]

@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://152.53.136.194:10001",
-    "tested_at": "2026-02-15T07:27:40Z",
-    "ip": "149.167.42.217",
+    "proxy": "http://152.53.136.194:10000",
+    "tested_at": "2026-02-15T07:58:52Z",
+    "ip": "101.189.100.152",
     "success": true,
     "type": "IPv4",
     "continent": "Oceania",
     "country": "Australia",
     "country_code": "AU",
-    "region": "New South Wales",
-    "region_code": "NSW",
-    "city": "Sydney",
-    "latitude": -33.8688197,
-    "longitude": 151.2092955,
+    "region": "Western Australia",
+    "region_code": "WA",
+    "city": "Perth",
+    "latitude": -31.9505269,
+    "longitude": 115.8604572,
     "is_eu": false,
-    "postal": "2000",
+    "postal": "6000",
     "connection": {
-      "asn": 135887,
-      "org": "Telstra Limited",
+      "asn": 1221,
+      "org": "Telstra Corporation",
       "isp": "Telstra Limited",
-      "domain": "telstra.net"
+      "domain": ""
     }
   }
 ]

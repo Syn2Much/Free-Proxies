@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://94.177.131.12:3128",
-    "tested_at": "2026-02-15T07:27:31Z",
-    "ip": "94.177.131.12",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
-    "is_eu": false,
-    "postal": "100-0002",
-    "connection": {
-      "asn": 199524,
-      "org": "G core Labs S.A.",
-      "isp": "G core Labs S.A.",
-      "domain": "gcore.com"
-    }
-  },
-  {
     "proxy": "http://150.230.104.3:16728",
-    "tested_at": "2026-02-15T07:27:35Z",
+    "tested_at": "2026-02-15T07:58:44Z",
     "ip": "150.230.104.3",
     "success": true,
     "type": "IPv4",
@@ -46,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://94.177.131.33:3128",
-    "tested_at": "2026-02-15T07:27:57Z",
-    "ip": "94.177.131.33",
+    "proxy": "http://94.177.131.12:3128",
+    "tested_at": "2026-02-15T07:58:44Z",
+    "ip": "94.177.131.12",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -69,8 +46,31 @@
     }
   },
   {
+    "proxy": "http://67.43.236.20:15821",
+    "tested_at": "2026-02-15T07:58:55Z",
+    "ip": "133.106.32.182",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Saitama Prefecture",
+    "region_code": "11",
+    "city": "Soka",
+    "latitude": 35.8253547,
+    "longitude": 139.8054022,
+    "is_eu": false,
+    "postal": "340-0015",
+    "connection": {
+      "asn": 138384,
+      "org": "Rakuten Mobile, Inc.",
+      "isp": "Rakuten Mobile, Inc.",
+      "domain": "rakuten.co.jp"
+    }
+  },
+  {
     "proxy": "http://8.209.255.13:3128",
-    "tested_at": "2026-02-15T07:28:02Z",
+    "tested_at": "2026-02-15T07:59:04Z",
     "ip": "8.209.255.13",
     "success": true,
     "type": "IPv4",
@@ -87,6 +87,29 @@
     "connection": {
       "asn": 45102,
       "org": "Shiodome Sumitomo Blog 1 Tokyo",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibaba-inc.com"
+    }
+  },
+  {
+    "proxy": "http://47.79.94.78:1122",
+    "tested_at": "2026-02-15T07:59:27Z",
+    "ip": "47.79.94.78",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Tokyo",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925,
+    "is_eu": false,
+    "postal": "100-0002",
+    "connection": {
+      "asn": 45102,
+      "org": "Alibaba Cloud LLC",
       "isp": "Alibaba us Technology Co., Ltd.",
       "domain": "alibaba-inc.com"
     }
