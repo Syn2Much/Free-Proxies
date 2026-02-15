@@ -1,10 +1,10 @@
 [
   {
-    "proxy": "http://67.43.236.19:17437",
-    "tested_at": "2026-02-15T05:54:03Z",
-    "ip": "193.203.13.250",
+    "proxy": "http://65.108.203.35:28080",
+    "tested_at": "2026-02-15T06:56:24Z",
+    "ip": "2001:67c:2628:647:31:2404:0:14a",
     "success": true,
-    "type": "IPv4",
+    "type": "IPv6",
     "continent": "Europe",
     "country": "Sweden",
     "country_code": "SE",
@@ -16,18 +16,18 @@
     "is_eu": true,
     "postal": "111 29",
     "connection": {
-      "asn": 212238,
-      "org": "Packethub S.A.",
-      "isp": "Datacamp Limited",
-      "domain": "packethub.net"
+      "asn": 205016,
+      "org": "Hern Labs Ab",
+      "isp": "Hern Labs Ab",
+      "domain": "hernlabs.se"
     }
   },
   {
-    "proxy": "http://193.181.35.104:8118",
-    "tested_at": "2026-02-15T05:54:19Z",
-    "ip": "193.181.35.104",
+    "proxy": "http://65.108.203.36:28080",
+    "tested_at": "2026-02-15T06:56:57Z",
+    "ip": "2001:67c:2628:647:31:2404:0:14a",
     "success": true,
-    "type": "IPv4",
+    "type": "IPv6",
     "continent": "Europe",
     "country": "Sweden",
     "country_code": "SE",
@@ -39,10 +39,10 @@
     "is_eu": true,
     "postal": "111 29",
     "connection": {
-      "asn": 42201,
-      "org": "Pvdatanet Ab",
-      "isp": "Pvdatanet Ab",
-      "domain": "pvdatanet.com"
+      "asn": 205016,
+      "org": "Hern Labs Ab",
+      "isp": "Hern Labs Ab",
+      "domain": "hernlabs.se"
     }
   }
 ]

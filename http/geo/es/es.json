@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://213.220.3.183:3128",
-    "tested_at": "2026-02-15T05:54:25Z",
-    "ip": "213.220.3.183",
+    "proxy": "http://193.38.224.169:8081",
+    "tested_at": "2026-02-15T06:56:13Z",
+    "ip": "193.38.224.169",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Spain",
     "country_code": "ES",
-    "region": "Aragón",
-    "region_code": "AR",
-    "city": "Zaragoza",
-    "latitude": 41.6488226,
-    "longitude": -0.8890853,
+    "region": "Castile and León",
+    "region_code": "CL",
+    "city": "León",
+    "latitude": 42.5987263,
+    "longitude": -5.5670959,
     "is_eu": true,
-    "postal": "50001",
+    "postal": "24003",
     "connection": {
-      "asn": 211484,
-      "org": "Redestel Networks S.L.",
-      "isp": "YSZ TRADING CO., LIMITED",
-      "domain": "redestel.net"
+      "asn": 206276,
+      "org": "Citelia S.A.",
+      "isp": "Citelia S.A.",
+      "domain": "citelia.es"
     }
   }
 ]

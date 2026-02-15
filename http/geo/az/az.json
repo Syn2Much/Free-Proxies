@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://213.154.2.210:3128",
-    "tested_at": "2026-02-15T05:53:30Z",
+    "tested_at": "2026-02-15T06:56:04Z",
     "ip": "213.154.2.210",
     "success": true,
     "type": "IPv4",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://5.134.48.59:8080",
-    "tested_at": "2026-02-15T05:54:04Z",
-    "ip": "5.134.48.59",
+    "proxy": "http://185.118.51.133:3128",
+    "tested_at": "2026-02-15T06:56:47Z",
+    "ip": "185.118.51.133",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,10 +39,10 @@
     "is_eu": false,
     "postal": "AZ 1009",
     "connection": {
-      "asn": 39232,
-      "org": "SUPERONLAYN LTD",
-      "isp": "Uninet LLC",
-      "domain": "superonline.az"
+      "asn": 203971,
+      "org": "CGNAT",
+      "isp": "Azfibernet LLC",
+      "domain": "azfiber.net"
     }
   }
 ]

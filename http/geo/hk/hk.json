@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://160.20.55.235:8080",
-    "tested_at": "2026-02-15T06:24:54Z",
-    "ip": "160.20.55.235",
+    "proxy": "http://203.196.8.6:3128",
+    "tested_at": "2026-02-15T06:56:11Z",
+    "ip": "203.196.8.6",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,16 +16,16 @@
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 58411,
-      "org": "Datamax Osi Limited",
-      "isp": "Gateway Technology Development Company Limited",
-      "domain": "datamaxosi.com"
+      "asn": 23764,
+      "org": "Chinatelecom Next Carrying Network backbone",
+      "isp": "China Telecom Global Limited",
+      "domain": "chinatelecom.com.hk"
     }
   },
   {
-    "proxy": "http://101.47.73.135:3128",
-    "tested_at": "2026-02-15T06:25:22Z",
-    "ip": "101.47.73.135",
+    "proxy": "http://34.96.238.40:8080",
+    "tested_at": "2026-02-15T06:56:15Z",
+    "ip": "34.96.238.40",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,15 +39,15 @@
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 150436,
-      "org": "BYTEPLUS",
-      "isp": "Byteplus Pte. Ltd.",
-      "domain": "bytedance.com"
+      "asn": 396982,
+      "org": "Google LLC",
+      "isp": "Google LLC",
+      "domain": "google.com"
     }
   },
   {
     "proxy": "http://47.243.92.199:3128",
-    "tested_at": "2026-02-15T06:25:30Z",
+    "tested_at": "2026-02-15T06:56:27Z",
     "ip": "47.243.92.199",
     "success": true,
     "type": "IPv4",

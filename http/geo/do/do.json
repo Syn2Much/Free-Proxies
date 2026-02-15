@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://38.159.37.173:999",
-    "tested_at": "2026-02-15T06:24:58Z",
-    "ip": "38.159.37.170",
+    "proxy": "http://38.52.222.227:999",
+    "tested_at": "2026-02-15T06:56:12Z",
+    "ip": "38.52.222.228",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "10119",
     "connection": {
-      "asn": 271965,
+      "asn": 272112,
       "org": "Cogent Communications",
-      "isp": "ORBITEK SRL",
-      "domain": "orbiteksrl.com"
+      "isp": "TELECABLE DOMINICANO, S.A.",
+      "domain": "telecabledominicano.com.do"
     }
   }
 ]

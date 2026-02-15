@@ -1,7 +1,7 @@
 [
   {
-    "proxy": "http://65.108.159.129:8080",
-    "tested_at": "2026-02-15T06:24:55Z",
+    "proxy": "http://65.108.159.129:3128",
+    "tested_at": "2026-02-15T06:56:15Z",
     "ip": "65.108.159.129",
     "success": true,
     "type": "IPv4",
@@ -24,7 +24,7 @@
   },
   {
     "proxy": "http://91.217.76.97:1080",
-    "tested_at": "2026-02-15T06:25:04Z",
+    "tested_at": "2026-02-15T06:56:16Z",
     "ip": "91.217.76.97",
     "success": true,
     "type": "IPv4",
@@ -46,31 +46,8 @@
     }
   },
   {
-    "proxy": "http://65.108.159.129:5153",
-    "tested_at": "2026-02-15T06:25:05Z",
-    "ip": "65.108.159.129",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Finland",
-    "country_code": "FI",
-    "region": "Mainland Finland",
-    "region_code": "",
-    "city": "Helsinki",
-    "latitude": 60.1698557,
-    "longitude": 24.938379,
-    "is_eu": true,
-    "postal": "02101",
-    "connection": {
-      "asn": 24940,
-      "org": "Hetzner Online GmbH",
-      "isp": "Hetzner Online GmbH",
-      "domain": "hetzner.com"
-    }
-  },
-  {
     "proxy": "http://31.57.62.235:37982",
-    "tested_at": "2026-02-15T06:25:20Z",
+    "tested_at": "2026-02-15T06:56:21Z",
     "ip": "31.57.62.235",
     "success": true,
     "type": "IPv4",
@@ -92,9 +69,9 @@
     }
   },
   {
-    "proxy": "http://178.252.171.230:8080",
-    "tested_at": "2026-02-15T06:25:29Z",
-    "ip": "95.216.106.60",
+    "proxy": "http://65.108.159.129:8080",
+    "tested_at": "2026-02-15T06:56:47Z",
+    "ip": "65.108.159.129",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -112,6 +89,29 @@
       "org": "Hetzner Online GmbH",
       "isp": "Hetzner Online GmbH",
       "domain": "hetzner.com"
+    }
+  },
+  {
+    "proxy": "http://193.47.60.119:52681",
+    "tested_at": "2026-02-15T06:56:57Z",
+    "ip": "193.47.60.119",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Finland",
+    "country_code": "FI",
+    "region": "Mainland Finland",
+    "region_code": "",
+    "city": "Helsinki",
+    "latitude": 60.1698557,
+    "longitude": 24.938379,
+    "is_eu": true,
+    "postal": "02101",
+    "connection": {
+      "asn": 41745,
+      "org": "Baykov Ilya Sergeevich",
+      "isp": "Baykov Ilya Sergeevich",
+      "domain": "fortis.host"
     }
   }
 ]

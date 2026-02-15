@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://82.200.237.11:8080",
-    "tested_at": "2026-02-15T06:25:23Z",
-    "ip": "82.200.237.11",
+    "proxy": "http://94.126.201.115:3128",
+    "tested_at": "2026-02-15T06:56:32Z",
+    "ip": "94.126.201.115",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Kazakhstan",
     "country_code": "KZ",
-    "region": "Atyrau Region",
-    "region_code": "ATY",
-    "city": "Atyrau",
-    "latitude": 47.0944959,
-    "longitude": 51.9238373,
+    "region": "Almaty Province",
+    "region_code": "ALM",
+    "city": "Almaty",
+    "latitude": 43.2220146,
+    "longitude": 76.8512485,
     "is_eu": false,
-    "postal": "060000",
+    "postal": "050013",
     "connection": {
-      "asn": 9198,
-      "org": "JSC Kazakhtelecom",
-      "isp": "JSC Kazakhtelecom",
-      "domain": "telecom.kz"
+      "asn": 200590,
+      "org": "Nls Kazakhstan LLC",
+      "isp": "Nls Kazakhstan LLC",
+      "domain": "nls.kz"
+    }
+  },
+  {
+    "proxy": "http://188.130.160.209:80",
+    "tested_at": "2026-02-15T06:56:58Z",
+    "ip": "188.130.160.209",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "region": "Karaganda Region",
+    "region_code": "KAR",
+    "city": "Karagandy",
+    "latitude": 49.8046835,
+    "longitude": 73.1093826,
+    "is_eu": false,
+    "postal": "100000",
+    "connection": {
+      "asn": 203087,
+      "org": "Pe Fedinyak Sergey Vyacheslavovich",
+      "isp": "Pe Fedinyak Sergey Vyacheslavovich",
+      "domain": "gohost.kz"
     }
   }
 ]

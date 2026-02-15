@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://85.234.69.183:3128",
+    "tested_at": "2026-02-15T06:56:14Z",
+    "ip": "85.234.69.183",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Hesse",
+    "region_code": "HE",
+    "city": "Eschborn",
+    "latitude": 50.1467469,
+    "longitude": 8.5614555,
+    "is_eu": true,
+    "postal": "65760",
+    "connection": {
+      "asn": 199524,
+      "org": "G core Labs S.A.",
+      "isp": "G core Labs S.A.",
+      "domain": "gcore.com"
+    }
+  },
+  {
     "proxy": "http://91.107.254.36:2000",
-    "tested_at": "2026-02-15T06:24:53Z",
+    "tested_at": "2026-02-15T06:56:24Z",
     "ip": "2a01:4f8:1c1e:74d6::1",
     "success": true,
     "type": "IPv6",
@@ -23,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://152.53.136.194:10001",
-    "tested_at": "2026-02-15T06:25:00Z",
-    "ip": "46.236.200.161",
+    "proxy": "http://209.38.222.145:8080",
+    "tested_at": "2026-02-15T06:56:27Z",
+    "ip": "209.38.222.145",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,16 +62,39 @@
     "is_eu": true,
     "postal": "60311",
     "connection": {
-      "asn": 152179,
-      "org": "Private Customer",
-      "isp": "GLOBAL COMMUNICATION NETWORK LIMITED",
-      "domain": "hkglobalnetwork.com"
+      "asn": 14061,
+      "org": "Digitalocean, LLC",
+      "isp": "Digitalocean, LLC",
+      "domain": "digitalocean.com"
     }
   },
   {
-    "proxy": "http://45.135.165.102:443",
-    "tested_at": "2026-02-15T06:25:08Z",
-    "ip": "45.135.165.102",
+    "proxy": "http://91.107.148.58:53967",
+    "tested_at": "2026-02-15T06:56:34Z",
+    "ip": "104.28.193.116",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Bavaria",
+    "region_code": "BY",
+    "city": "Nuremberg",
+    "latitude": 49.4254092,
+    "longitude": 11.0796553,
+    "is_eu": true,
+    "postal": "90403",
+    "connection": {
+      "asn": 13335,
+      "org": "Cloudflare, Inc.",
+      "isp": "Cloudflare, Inc.",
+      "domain": "cloudflare.com"
+    }
+  },
+  {
+    "proxy": "http://47.91.65.23:3128",
+    "tested_at": "2026-02-15T06:56:35Z",
+    "ip": "47.91.65.23",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -62,39 +108,16 @@
     "is_eu": true,
     "postal": "60311",
     "connection": {
-      "asn": 215346,
-      "org": "Glb Bulut Teknolojisi Limited Sirketi",
-      "isp": "Big Data Host LLC",
-      "domain": "yandex.com"
+      "asn": 45102,
+      "org": "Alibaba Cloud De",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibabacloud.com"
     }
   },
   {
-    "proxy": "http://94.130.177.190:9999",
-    "tested_at": "2026-02-15T06:25:17Z",
-    "ip": "185.220.101.22",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Brandenburg",
-    "region_code": "BB",
-    "city": "Brandenburg",
-    "latitude": 52.4125287,
-    "longitude": 12.5316444,
-    "is_eu": true,
-    "postal": "14770",
-    "connection": {
-      "asn": 60729,
-      "org": "Artikel10 E.V.",
-      "isp": "Stiftung Erneuerbare Freiheit",
-      "domain": "relayon.org"
-    }
-  },
-  {
-    "proxy": "http://157.230.28.51:1981",
-    "tested_at": "2026-02-15T06:25:32Z",
-    "ip": "157.230.28.51",
+    "proxy": "http://157.230.106.35:8080",
+    "tested_at": "2026-02-15T06:56:35Z",
+    "ip": "157.230.106.35",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -116,7 +139,7 @@
   },
   {
     "proxy": "http://51.250.88.121:9998",
-    "tested_at": "2026-02-15T06:25:34Z",
+    "tested_at": "2026-02-15T06:56:44Z",
     "ip": "139.59.148.123",
     "success": true,
     "type": "IPv4",
@@ -138,34 +161,11 @@
     }
   },
   {
-    "proxy": "http://194.59.204.87:9080",
-    "tested_at": "2026-02-15T06:25:36Z",
-    "ip": "194.59.204.87",
+    "proxy": "http://172.86.92.68:31337",
+    "tested_at": "2026-02-15T06:56:56Z",
+    "ip": "2602:fa59:8:83::1",
     "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Bavaria",
-    "region_code": "BY",
-    "city": "Nuremberg",
-    "latitude": 49.4254092,
-    "longitude": 11.0796553,
-    "is_eu": true,
-    "postal": "90403",
-    "connection": {
-      "asn": 197540,
-      "org": "Netcup GmbH",
-      "isp": "Netcup GmbH",
-      "domain": "netcup.de"
-    }
-  },
-  {
-    "proxy": "http://47.91.65.23:3128",
-    "tested_at": "2026-02-15T06:25:37Z",
-    "ip": "47.91.65.23",
-    "success": true,
-    "type": "IPv4",
+    "type": "IPv6",
     "continent": "Europe",
     "country": "Germany",
     "country_code": "DE",
@@ -177,10 +177,10 @@
     "is_eu": true,
     "postal": "60311",
     "connection": {
-      "asn": 45102,
-      "org": "Alibaba Cloud De",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibabacloud.com"
+      "asn": 30823,
+      "org": "Routerhosting LLC",
+      "isp": "Aurologic GmbH",
+      "domain": "cloudzy.com"
     }
   }
 ]

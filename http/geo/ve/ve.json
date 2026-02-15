@@ -1,8 +1,77 @@
 [
   {
-    "proxy": "http://190.94.212.198:999",
-    "tested_at": "2026-02-15T06:25:01Z",
-    "ip": "190.94.212.198",
+    "proxy": "http://190.97.246.58:999",
+    "tested_at": "2026-02-15T06:56:13Z",
+    "ip": "190.97.246.56",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Merida State",
+    "region_code": "L",
+    "city": "Merida",
+    "latitude": 8.5698244,
+    "longitude": -71.1804988,
+    "is_eu": false,
+    "postal": "5115",
+    "connection": {
+      "asn": 263703,
+      "org": "VIGINET C.A",
+      "isp": "VIGINET C.A",
+      "domain": "viginet.com.ve"
+    }
+  },
+  {
+    "proxy": "http://45.184.103.110:999",
+    "tested_at": "2026-02-15T06:56:31Z",
+    "ip": "45.184.103.110",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Carabobo State",
+    "region_code": "G",
+    "city": "Valencia",
+    "latitude": 10.1579312,
+    "longitude": -67.9972104,
+    "is_eu": false,
+    "postal": "2001",
+    "connection": {
+      "asn": 269771,
+      "org": "PRINTER NET SERVICE, C.A.",
+      "isp": "PRINTER NET SERVICE, C.A.",
+      "domain": "pns.com.ve"
+    }
+  },
+  {
+    "proxy": "http://190.97.226.134:999",
+    "tested_at": "2026-02-15T06:56:34Z",
+    "ip": "190.97.232.196",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "region": "Lara State",
+    "region_code": "K",
+    "city": "Barquisimeto",
+    "latitude": 10.0677719,
+    "longitude": -69.3473509,
+    "is_eu": false,
+    "postal": "3001",
+    "connection": {
+      "asn": 263703,
+      "org": "VIGINET C.A",
+      "isp": "VIGINET C.A",
+      "domain": "viginet.com.ve"
+    }
+  },
+  {
+    "proxy": "http://190.94.213.78:999",
+    "tested_at": "2026-02-15T06:56:50Z",
+    "ip": "190.94.213.76",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -20,52 +89,6 @@
       "org": "Ifx Networks Venezuela C.A.",
       "isp": "Ifx Networks Venezuela C.A.",
       "domain": "ifxnw.com.ve"
-    }
-  },
-  {
-    "proxy": "http://200.59.186.178:999",
-    "tested_at": "2026-02-15T06:25:06Z",
-    "ip": "200.59.191.233",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Trujillo State",
-    "region_code": "T",
-    "city": "Trujillo",
-    "latitude": 9.3564497,
-    "longitude": -70.4372404,
-    "is_eu": false,
-    "postal": "3150",
-    "connection": {
-      "asn": 264778,
-      "org": "Totalcom Venezuela C.A.",
-      "isp": "Totalcom Venezuela C.A.",
-      "domain": "totalcom.tel"
-    }
-  },
-  {
-    "proxy": "http://200.59.186.176:999",
-    "tested_at": "2026-02-15T06:25:09Z",
-    "ip": "200.59.191.235",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Trujillo State",
-    "region_code": "T",
-    "city": "San Rafael de Carvajal",
-    "latitude": 9.400557,
-    "longitude": -70.5621902,
-    "is_eu": false,
-    "postal": "3101",
-    "connection": {
-      "asn": 264778,
-      "org": "Totalcom Venezuela C.A.",
-      "isp": "Totalcom Venezuela C.A.",
-      "domain": "totalcom.tel"
     }
   }
 ]

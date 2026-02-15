@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://176.100.60.249:3128",
-    "tested_at": "2026-02-15T06:25:41Z",
-    "ip": "176.100.60.249",
+    "proxy": "http://62.122.207.173:8080",
+    "tested_at": "2026-02-15T06:56:09Z",
+    "ip": "62.122.207.173",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Ivano-Frankivsk Oblast",
+    "region_code": "",
+    "city": "Ivano-Frankivsk",
+    "latitude": 48.922633,
+    "longitude": 24.711117,
+    "is_eu": false,
+    "postal": "76000",
+    "connection": {
+      "asn": 49125,
+      "org": "Uteam LTD",
+      "isp": "Uteam LTD",
+      "domain": "uteam.ua"
+    }
+  },
+  {
+    "proxy": "http://91.202.72.105:8080",
+    "tested_at": "2026-02-15T06:56:17Z",
+    "ip": "91.202.72.105",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +39,10 @@
     "is_eu": false,
     "postal": "01001",
     "connection": {
-      "asn": 57460,
-      "org": "Pe Scherban Evgeniy Aleksandrovich",
-      "isp": "Pe Scherban Evgeniy Aleksandrovich",
-      "domain": "linknet.org.ua"
+      "asn": 44600,
+      "org": "GIGATRANS UKRAINE, LLC",
+      "isp": "GIGATRANS UKRAINE, LLC",
+      "domain": "gigatrans.ua"
     }
   }
 ]

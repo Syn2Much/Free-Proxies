@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://212.110.188.192:34408",
-    "tested_at": "2026-02-15T06:25:20Z",
-    "ip": "212.110.188.192",
+    "proxy": "http://212.110.188.189:34405",
+    "tested_at": "2026-02-15T06:56:13Z",
+    "ip": "212.110.188.189",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -23,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://212.110.188.204:34411",
-    "tested_at": "2026-02-15T06:25:20Z",
-    "ip": "212.110.188.204",
+    "proxy": "http://37.27.180.250:2081",
+    "tested_at": "2026-02-15T06:56:14Z",
+    "ip": "141.98.101.182",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -33,44 +33,21 @@
     "country_code": "GB",
     "region": "England",
     "region_code": "ENG",
-    "city": "York",
-    "latitude": 53.9599651,
-    "longitude": -1.0872979,
+    "city": "Manchester",
+    "latitude": 53.446622,
+    "longitude": -2.308713,
     "is_eu": false,
-    "postal": "YO1 8SG",
+    "postal": "M2 3FU",
     "connection": {
-      "asn": 35425,
-      "org": "Bytemark Services",
-      "isp": "IOMART MANAGED SERVICES LIMITED",
-      "domain": "rapidswitch.com"
-    }
-  },
-  {
-    "proxy": "http://212.110.188.206:34404",
-    "tested_at": "2026-02-15T06:25:33Z",
-    "ip": "212.110.188.206",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "York",
-    "latitude": 53.9599651,
-    "longitude": -1.0872979,
-    "is_eu": false,
-    "postal": "YO1 8SG",
-    "connection": {
-      "asn": 35425,
-      "org": "Bytemark Services",
-      "isp": "IOMART MANAGED SERVICES LIMITED",
-      "domain": "rapidswitch.com"
+      "asn": 9009,
+      "org": "M LTD Manchester Infrastructure",
+      "isp": "M Europe SRL",
+      "domain": "m247.com"
     }
   },
   {
     "proxy": "http://72.10.164.178:2161",
-    "tested_at": "2026-02-15T06:25:40Z",
+    "tested_at": "2026-02-15T06:56:35Z",
     "ip": "176.25.157.213",
     "success": true,
     "type": "IPv4",
@@ -92,9 +69,55 @@
     }
   },
   {
-    "proxy": "http://212.110.188.194:34410",
-    "tested_at": "2026-02-15T06:25:42Z",
-    "ip": "212.110.188.194",
+    "proxy": "http://212.110.188.187:34403",
+    "tested_at": "2026-02-15T06:56:51Z",
+    "ip": "212.110.188.187",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "England",
+    "region_code": "ENG",
+    "city": "York",
+    "latitude": 53.9599651,
+    "longitude": -1.0872979,
+    "is_eu": false,
+    "postal": "YO1 8SG",
+    "connection": {
+      "asn": 35425,
+      "org": "Bytemark Services",
+      "isp": "IOMART MANAGED SERVICES LIMITED",
+      "domain": "rapidswitch.com"
+    }
+  },
+  {
+    "proxy": "http://109.120.135.230:2030",
+    "tested_at": "2026-02-15T06:56:59Z",
+    "ip": "2a0b:4140:685e::2",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "England",
+    "region_code": "ENG",
+    "city": "London",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583,
+    "is_eu": false,
+    "postal": "SW1",
+    "connection": {
+      "asn": 210644,
+      "org": "AEZA NETWORK STOCKHOLM",
+      "isp": "AEZA INTERNATIONAL LTD",
+      "domain": "aeza.net"
+    }
+  },
+  {
+    "proxy": "http://212.110.188.207:34405",
+    "tested_at": "2026-02-15T06:57:04Z",
+    "ip": "212.110.188.207",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",

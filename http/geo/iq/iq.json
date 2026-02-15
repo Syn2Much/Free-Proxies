@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://62.201.217.243:40010",
-    "tested_at": "2026-02-15T06:24:57Z",
+    "tested_at": "2026-02-15T06:56:39Z",
     "ip": "62.201.217.243",
     "success": true,
     "type": "IPv4",
@@ -20,29 +20,6 @@
       "org": "Sulaymaniyah Users",
       "isp": "Iq Networks for Data And Internet Services LTD",
       "domain": "iq.email"
-    }
-  },
-  {
-    "proxy": "http://37.238.63.39:8080",
-    "tested_at": "2026-02-15T06:25:17Z",
-    "ip": "37.237.226.176",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Iraq",
-    "country_code": "IQ",
-    "region": "Baghdad Governorate",
-    "region_code": "BG",
-    "city": "Baghdad",
-    "latitude": 33.3128057,
-    "longitude": 44.3614875,
-    "is_eu": false,
-    "postal": "10001",
-    "connection": {
-      "asn": 199739,
-      "org": "Earthlink Ltd. Communications internet Services orange",
-      "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
-      "domain": "earthlink.iq"
     }
   }
 ]

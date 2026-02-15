@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://154.64.215.193:999",
-    "tested_at": "2026-02-15T06:24:59Z",
-    "ip": "23.130.144.12",
+    "proxy": "http://23.143.160.193:999",
+    "tested_at": "2026-02-15T06:56:31Z",
+    "ip": "23.143.160.21",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,39 +10,16 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "San Sebastián",
-    "latitude": 18.3327741,
-    "longitude": -66.9958226,
+    "city": "Ponce",
+    "latitude": 18.0110768,
+    "longitude": -66.6140616,
     "is_eu": false,
-    "postal": "00685",
+    "postal": "00733-1910",
     "connection": {
-      "asn": 397470,
-      "org": "Antoniol Electronic",
-      "isp": "Antoniol Electronic",
-      "domain": "alenet.co"
-    }
-  },
-  {
-    "proxy": "http://192.203.0.62:999",
-    "tested_at": "2026-02-15T06:25:45Z",
-    "ip": "192.203.0.62",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Puerto Rico",
-    "country_code": "PR",
-    "region": "Puerto Rico",
-    "region_code": "PR",
-    "city": "Yabucoa",
-    "latitude": 18.0505201,
-    "longitude": -65.8793288,
-    "is_eu": false,
-    "postal": "00767",
-    "connection": {
-      "asn": 63393,
-      "org": "BOOM NET",
-      "isp": "BOOM NET",
-      "domain": "boomsolutionspr.com"
+      "asn": 14534,
+      "org": "UNONET CORP",
+      "isp": "UNONET CORP",
+      "domain": "myunonet.net"
     }
   }
 ]
