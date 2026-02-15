@@ -1,76 +1,7 @@
 [
   {
-    "proxy": "https://47.243.181.85:41799",
-    "tested_at": "2026-02-15T01:12:01Z",
-    "ip": "2804:5c:5729:600:f1d1:a639:3947:aab3",
-    "success": true,
-    "type": "IPv6",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of Minas Gerais",
-    "region_code": "MG",
-    "city": "Belo Horizonte",
-    "latitude": -19.9166813,
-    "longitude": -43.9344931,
-    "is_eu": false,
-    "postal": "30170-080",
-    "connection": {
-      "asn": 28201,
-      "org": "Companhia Itabirana Telecomunica es LTDA",
-      "isp": "Companhia Itabirana Telecomunica es LTDA",
-      "domain": "valenet.com.br"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41795",
-    "tested_at": "2026-02-15T01:12:21Z",
-    "ip": "143.0.18.155",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of São Paulo",
-    "region_code": "SP",
-    "city": "Santo André",
-    "latitude": -23.6742228,
-    "longitude": -46.5436003,
-    "is_eu": false,
-    "postal": "09040-010",
-    "connection": {
-      "asn": 263990,
-      "org": "FASTNET COMUNICACAO EIRELI ME",
-      "isp": "FASTNET COMUNICACAO EIRELI ME",
-      "domain": "portalfast.net"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41804",
-    "tested_at": "2026-02-15T01:12:31Z",
-    "ip": "2804:56c:c29b:bf00:a8ee:d139:ba89:93e4",
-    "success": true,
-    "type": "IPv6",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of Minas Gerais",
-    "region_code": "MG",
-    "city": "Muriaé",
-    "latitude": -21.1291403,
-    "longitude": -42.3702252,
-    "is_eu": false,
-    "postal": "36880-000",
-    "connection": {
-      "asn": 28210,
-      "org": "GIGA MAIS FIBRA TELECOMUNICACOES S.A.",
-      "isp": "GIGA MAIS FIBRA TELECOMUNICACOES S.A.",
-      "domain": "gigamaisempresas.com.br"
-    }
-  },
-  {
     "proxy": "https://134.65.238.25:3128",
-    "tested_at": "2026-02-15T01:12:39Z",
+    "tested_at": "2026-02-15T01:43:48Z",
     "ip": "134.65.238.25",
     "success": true,
     "type": "IPv4",
@@ -92,26 +23,26 @@
     }
   },
   {
-    "proxy": "https://47.243.181.85:41803",
-    "tested_at": "2026-02-15T01:12:44Z",
-    "ip": "179.181.104.102",
+    "proxy": "https://47.243.181.85:41795",
+    "tested_at": "2026-02-15T01:43:59Z",
+    "ip": "2804:7af8:2fb:e800:997e:8ea3:6533:981b",
     "success": true,
-    "type": "IPv4",
+    "type": "IPv6",
     "continent": "South America",
     "country": "Brazil",
     "country_code": "BR",
-    "region": "Paraíba",
-    "region_code": "PB",
-    "city": "Campina Grande",
-    "latitude": -7.2302683,
-    "longitude": -35.8917801,
+    "region": "Amazonas",
+    "region_code": "AM",
+    "city": "Manaus",
+    "latitude": -3.1190275,
+    "longitude": -60.0217314,
     "is_eu": false,
-    "postal": "58410-268",
+    "postal": "69000-000",
     "connection": {
-      "asn": 18881,
-      "org": "TELEF NICA BRASIL S.A",
-      "isp": "TELEF NICA BRASIL S.A",
-      "domain": "telefonica.com.br"
+      "asn": 264436,
+      "org": "INTLINK PROVEDORES LTDA",
+      "isp": "INTLINK PROVEDORES LTDA",
+      "domain": "intlink.com.br"
     }
   }
 ]

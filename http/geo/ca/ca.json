@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://143.198.37.6:8888",
-    "tested_at": "2026-02-15T01:12:05Z",
+    "tested_at": "2026-02-15T01:43:26Z",
     "ip": "178.249.214.14",
     "success": true,
     "type": "IPv4",
@@ -23,146 +23,8 @@
     }
   },
   {
-    "proxy": "http://72.10.160.174:1099",
-    "tested_at": "2026-02-15T01:12:05Z",
-    "ip": "99.236.120.121",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Hamilton",
-    "latitude": 43.2500208,
-    "longitude": -79.8660914,
-    "is_eu": false,
-    "postal": "L8P 1H1",
-    "connection": {
-      "asn": 812,
-      "org": "Rogers Cable Inc. Ktgc",
-      "isp": "Rogers Communications Canada Inc.",
-      "domain": "rogers.com"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:3651",
-    "tested_at": "2026-02-15T01:12:09Z",
-    "ip": "70.31.127.86",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 577,
-      "org": "Bell Canada",
-      "isp": "Bell Canada",
-      "domain": "bell.ca"
-    }
-  },
-  {
-    "proxy": "http://67.43.236.19:19477",
-    "tested_at": "2026-02-15T01:12:09Z",
-    "ip": "142.126.99.193",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Windsor",
-    "latitude": 42.3149367,
-    "longitude": -83.0363633,
-    "is_eu": false,
-    "postal": "N9A 3A8",
-    "connection": {
-      "asn": 577,
-      "org": "Sympatico Hse",
-      "isp": "Bell Canada",
-      "domain": "bell.ca"
-    }
-  },
-  {
-    "proxy": "http://67.43.236.20:19477",
-    "tested_at": "2026-02-15T01:12:09Z",
-    "ip": "142.126.99.193",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Windsor",
-    "latitude": 42.3149367,
-    "longitude": -83.0363633,
-    "is_eu": false,
-    "postal": "N9A 3A8",
-    "connection": {
-      "asn": 577,
-      "org": "Sympatico Hse",
-      "isp": "Bell Canada",
-      "domain": "bell.ca"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.172:16403",
-    "tested_at": "2026-02-15T01:12:17Z",
-    "ip": "66.130.76.135",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Québec",
-    "region_code": "QC",
-    "city": "Farnham",
-    "latitude": 45.2831318,
-    "longitude": -72.9748075,
-    "is_eu": false,
-    "postal": "J2N 1S3",
-    "connection": {
-      "asn": 5769,
-      "org": "Videotron Ltee",
-      "isp": "Videotron Ltee",
-      "domain": "videotron.com"
-    }
-  },
-  {
-    "proxy": "http://67.43.228.250:1857",
-    "tested_at": "2026-02-15T01:12:19Z",
-    "ip": "68.150.171.124",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Alberta",
-    "region_code": "AB",
-    "city": "Edmonton",
-    "latitude": 53.544389,
-    "longitude": -113.4909267,
-    "is_eu": false,
-    "postal": "T5J 0G8",
-    "connection": {
-      "asn": 6327,
-      "org": "Shaw Communications",
-      "isp": "Shaw Communications",
-      "domain": "shaw.ca"
-    }
-  },
-  {
     "proxy": "http://67.43.236.20:10051",
-    "tested_at": "2026-02-15T01:12:21Z",
+    "tested_at": "2026-02-15T01:43:35Z",
     "ip": "70.24.38.136",
     "success": true,
     "type": "IPv4",
@@ -184,8 +46,8 @@
     }
   },
   {
-    "proxy": "http://85.208.108.43:2094",
-    "tested_at": "2026-02-15T01:12:30Z",
+    "proxy": "http://85.208.108.43:10808",
+    "tested_at": "2026-02-15T01:43:37Z",
     "ip": "85.208.108.43",
     "success": true,
     "type": "IPv4",
@@ -207,9 +69,9 @@
     }
   },
   {
-    "proxy": "http://68.183.193.91:3128",
-    "tested_at": "2026-02-15T01:12:40Z",
-    "ip": "68.183.193.91",
+    "proxy": "http://85.208.108.43:2094",
+    "tested_at": "2026-02-15T01:43:37Z",
+    "ip": "85.208.108.43",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -223,33 +85,10 @@
     "is_eu": false,
     "postal": "M5H 2N2",
     "connection": {
-      "asn": 14061,
-      "org": "Digitalocean, LLC",
-      "isp": "Digitalocean, LLC",
-      "domain": "digitalocean.com"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:24983",
-    "tested_at": "2026-02-15T01:12:47Z",
-    "ip": "207.216.51.8",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "British Columbia",
-    "region_code": "BC",
-    "city": "Richmond",
-    "latitude": 49.1665898,
-    "longitude": -123.133569,
-    "is_eu": false,
-    "postal": "V6Y 2C1",
-    "connection": {
-      "asn": 852,
-      "org": "TELUS FIBRE GDFRBC01",
-      "isp": "Telus Communications Inc.",
-      "domain": "telus.com"
+      "asn": 53363,
+      "org": "Worktitans B.V.",
+      "isp": "TANGRAM CANADA INC.",
+      "domain": "the.hosting"
     }
   }
 ]

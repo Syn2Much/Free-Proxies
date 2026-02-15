@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://212.51.157.178:8080",
-    "tested_at": "2026-02-14T22:35:28Z",
-    "ip": "212.51.157.178",
+    "proxy": "http://104.244.78.150:5555",
+    "tested_at": "2026-02-15T01:43:49Z",
+    "ip": "104.244.78.150",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Switzerland",
     "country_code": "CH",
-    "region": "Zurich",
-    "region_code": "ZH",
-    "city": "Oberengstringen",
-    "latitude": 47.4090873,
-    "longitude": 8.4627128,
+    "region": "Bern",
+    "region_code": "BE",
+    "city": "Bern",
+    "latitude": 46.9479739,
+    "longitude": 7.4474468,
     "is_eu": false,
-    "postal": "8102",
+    "postal": "3011",
     "connection": {
-      "asn": 13030,
-      "org": "Liip AG",
-      "isp": "Init switzerland Ltd.",
-      "domain": "init7.net"
+      "asn": 53667,
+      "org": "BuyVM",
+      "isp": "Frantech Solutions",
+      "domain": "frantech.ca"
     }
   }
 ]

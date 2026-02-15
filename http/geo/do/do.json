@@ -1,94 +1,25 @@
 [
   {
-    "proxy": "http://38.156.238.77:999",
-    "tested_at": "2026-02-15T01:12:12Z",
-    "ip": "38.156.238.74",
+    "proxy": "http://38.52.220.58:999",
+    "tested_at": "2026-02-15T01:43:23Z",
+    "ip": "38.95.89.22",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Dominican Republic",
     "country_code": "DO",
-    "region": "Santo Domingo",
-    "region_code": "32",
-    "city": "Santo Domingo Este",
-    "latitude": 18.505583,
-    "longitude": -69.8001762,
+    "region": "La Romana",
+    "region_code": "12",
+    "city": "La Romana",
+    "latitude": 18.4338645,
+    "longitude": -68.9658817,
     "is_eu": false,
-    "postal": "11507",
+    "postal": "03669",
     "connection": {
-      "asn": 272882,
-      "org": "BITNET DOMINICANA, S.R.L.",
-      "isp": "BITNET DOMINICANA, S.R.L.",
-      "domain": "bitnet.com.do"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.173:2479",
-    "tested_at": "2026-02-15T01:12:41Z",
-    "ip": "148.101.70.184",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Santiago Rodríguez",
-    "region_code": "26",
-    "city": "Sabaneta",
-    "latitude": 19.4791217,
-    "longitude": -71.3397531,
-    "is_eu": false,
-    "postal": "055450",
-    "connection": {
-      "asn": 6400,
-      "org": "Compa a Dominicana De Tel fonos S. A.",
-      "isp": "Compa a Dominicana De Tel fonos S. A.",
-      "domain": "codetel.net.do"
-    }
-  },
-  {
-    "proxy": "http://204.157.251.178:999",
-    "tested_at": "2026-02-15T01:12:44Z",
-    "ip": "190.167.101.235",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Puerto Plata",
-    "region_code": "18",
-    "city": "Montellano",
-    "latitude": 19.7340605,
-    "longitude": -70.600859,
-    "is_eu": false,
-    "postal": "57000",
-    "connection": {
-      "asn": 6400,
-      "org": "Compa a Dominicana de Tel fonos S. A",
-      "isp": "Compa a Dominicana De Tel fonos S. A.",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://38.191.88.128:999",
-    "tested_at": "2026-02-15T01:12:50Z",
-    "ip": "38.191.88.187",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Distrito Nacional",
-    "region_code": "01",
-    "city": "Santo Domingo",
-    "latitude": 18.4860575,
-    "longitude": -69.9312117,
-    "is_eu": false,
-    "postal": "10119",
-    "connection": {
-      "asn": 272027,
-      "org": "Megared Telecom LLC",
-      "isp": "LAUAM MEGARED TELECOM, S.R.L.",
-      "domain": "google.com"
+      "asn": 272112,
+      "org": "Cogent Communications",
+      "isp": "TELECABLE DOMINICANO, S.A.",
+      "domain": "telecabledominicano.com.do"
     }
   }
 ]

@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://91.211.212.6:32650",
+    "tested_at": "2026-02-15T01:43:30Z",
+    "ip": "91.211.212.6",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Greece",
+    "country_code": "GR",
+    "region": "Attica",
+    "region_code": "I",
+    "city": "Athens",
+    "latitude": 37.9838096,
+    "longitude": 23.7275388,
+    "is_eu": true,
+    "postal": "10431",
+    "connection": {
+      "asn": 200736,
+      "org": "IOT SYNDESI I.K.E.",
+      "isp": "MEDIANET INVEST AE",
+      "domain": "inalan.gr"
+    }
+  },
+  {
     "proxy": "http://62.103.66.18:3128",
-    "tested_at": "2026-02-14T23:07:21Z",
+    "tested_at": "2026-02-15T01:43:34Z",
     "ip": "62.103.66.18",
     "success": true,
     "type": "IPv4",

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://78.157.57.71:3128",
-    "tested_at": "2026-02-15T01:11:59Z",
-    "ip": "78.157.57.71",
+    "proxy": "http://185.172.214.59:8080",
+    "tested_at": "2026-02-15T01:43:12Z",
+    "ip": "185.172.214.59",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,15 +16,15 @@
     "is_eu": false,
     "postal": "1317947564",
     "connection": {
-      "asn": 62442,
-      "org": "Dade Samane Fanava Company pjs",
-      "isp": "Dade Samane Fanava Company pjs",
-      "domain": "fanavaraneomid.com"
+      "asn": 206854,
+      "org": "SUNNET",
+      "isp": "Lesun Communication Furtherance Engineers Co, ltd.",
+      "domain": "lesunco.com"
     }
   },
   {
     "proxy": "http://46.209.30.11:8080",
-    "tested_at": "2026-02-15T01:12:25Z",
+    "tested_at": "2026-02-15T01:43:45Z",
     "ip": "46.209.30.11",
     "success": true,
     "type": "IPv4",

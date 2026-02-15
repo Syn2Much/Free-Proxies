@@ -1,30 +1,53 @@
 [
   {
-    "proxy": "http://67.43.228.253:1343",
-    "tested_at": "2026-02-15T01:11:59Z",
-    "ip": "190.237.204.122",
+    "proxy": "http://190.43.92.125:999",
+    "tested_at": "2026-02-15T01:43:12Z",
+    "ip": "190.43.92.125",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Peru",
     "country_code": "PE",
-    "region": "Lima",
-    "region_code": "LIM",
-    "city": "Lima District",
-    "latitude": -12.046374,
-    "longitude": -77.0427934,
+    "region": "Tacna",
+    "region_code": "TAC",
+    "city": "Tacna",
+    "latitude": -18.0065679,
+    "longitude": -70.2462741,
     "is_eu": false,
-    "postal": "15081",
+    "postal": "23001",
     "connection": {
       "asn": 6147,
-      "org": "PE TDP GRS",
+      "org": "PE TDPERX11 LACNIC",
       "isp": "INTEGRATEL PER S.A.A.",
-      "domain": "tdp.net.pe"
+      "domain": "telefonica.com"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:25639",
+    "tested_at": "2026-02-15T01:43:18Z",
+    "ip": "38.250.158.71",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Moquegua",
+    "region_code": "MOQ",
+    "city": "Moquegua",
+    "latitude": -16.895405,
+    "longitude": -70.8574902,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 270068,
+      "org": "Wow Tel Sac",
+      "isp": "DESARROLLO DE INFRAESTRUCTURA DE TELECOMUNICACIONES PERU S.A.C. INFRATEL",
+      "domain": "wowperu.pe"
     }
   },
   {
     "proxy": "http://72.10.164.178:23441",
-    "tested_at": "2026-02-15T01:12:10Z",
+    "tested_at": "2026-02-15T01:43:21Z",
     "ip": "190.233.209.193",
     "success": true,
     "type": "IPv4",
@@ -46,31 +69,8 @@
     }
   },
   {
-    "proxy": "http://45.189.117.72:999",
-    "tested_at": "2026-02-15T01:12:12Z",
-    "ip": "38.172.131.117",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Lima",
-    "region_code": "LIM",
-    "city": "Lima District",
-    "latitude": -12.046374,
-    "longitude": -77.0427934,
-    "is_eu": false,
-    "postal": "15081",
-    "connection": {
-      "asn": 273133,
-      "org": "Cogent Communications",
-      "isp": "CONEX TV E.I.R.L.",
-      "domain": "conextv.pe"
-    }
-  },
-  {
-    "proxy": "http://200.48.35.125:999",
-    "tested_at": "2026-02-15T01:12:49Z",
+    "proxy": "http://200.48.35.124:999",
+    "tested_at": "2026-02-15T01:43:42Z",
     "ip": "200.10.68.234",
     "success": true,
     "type": "IPv4",
@@ -92,9 +92,32 @@
     }
   },
   {
-    "proxy": "http://67.43.228.253:12093",
-    "tested_at": "2026-02-15T01:12:50Z",
-    "ip": "38.25.22.33",
+    "proxy": "http://38.187.7.6:3128",
+    "tested_at": "2026-02-15T01:43:43Z",
+    "ip": "38.187.7.6",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Lima",
+    "region_code": "LIM",
+    "city": "Quilmaná District",
+    "latitude": -12.9406805,
+    "longitude": -76.3984537,
+    "is_eu": false,
+    "postal": "15712",
+    "connection": {
+      "asn": 271814,
+      "org": "NEXTNET S.A.C",
+      "isp": "NEXTNET SAC",
+      "domain": "nextnet.com.pe"
+    }
+  },
+  {
+    "proxy": "http://67.43.228.253:1343",
+    "tested_at": "2026-02-15T01:43:45Z",
+    "ip": "190.237.204.122",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -108,10 +131,79 @@
     "is_eu": false,
     "postal": "15081",
     "connection": {
-      "asn": 265691,
+      "asn": 6147,
+      "org": "PE TDP GRS",
+      "isp": "INTEGRATEL PER S.A.A.",
+      "domain": "tdp.net.pe"
+    }
+  },
+  {
+    "proxy": "http://38.52.182.55:999",
+    "tested_at": "2026-02-15T01:43:45Z",
+    "ip": "38.52.182.50",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Lima",
+    "region_code": "LIM",
+    "city": "Lima",
+    "latitude": -12.2179228,
+    "longitude": -76.9071431,
+    "is_eu": false,
+    "postal": "15822",
+    "connection": {
+      "asn": 273026,
       "org": "Cogent Communications",
-      "isp": "WI NET TELECOM S.A.C.",
-      "domain": "win.pe"
+      "isp": "NEXSATEL SOCIEDAD ANONIMA CERRADA NEXSATEL S.A.C.",
+      "domain": "nexsatel.com.pe"
+    }
+  },
+  {
+    "proxy": "http://200.48.35.122:999",
+    "tested_at": "2026-02-15T01:43:48Z",
+    "ip": "200.10.68.234",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Junin",
+    "region_code": "JUN",
+    "city": "Tarma",
+    "latitude": -11.4193347,
+    "longitude": -75.6889493,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 6147,
+      "org": "INTEGRATEL PER S.A.A.",
+      "isp": "INTEGRATEL PER S.A.A.",
+      "domain": "telefonica.com.pe"
+    }
+  },
+  {
+    "proxy": "http://206.84.201.101:999",
+    "tested_at": "2026-02-15T01:43:50Z",
+    "ip": "206.84.201.101",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Lima Metropolitan Area",
+    "region_code": "",
+    "city": "Callao",
+    "latitude": -12.0508491,
+    "longitude": -77.1259843,
+    "is_eu": false,
+    "postal": "22435",
+    "connection": {
+      "asn": 273101,
+      "org": "Cogent Communications",
+      "isp": "REDESVIP E.I.R.L.",
+      "domain": "redesvip.com"
     }
   }
 ]

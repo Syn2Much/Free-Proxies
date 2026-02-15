@@ -1,25 +1,94 @@
 [
   {
-    "proxy": "http://103.124.97.12:8080",
-    "tested_at": "2026-02-15T00:09:28Z",
-    "ip": "103.124.97.12",
+    "proxy": "http://49.236.212.134:8888",
+    "tested_at": "2026-02-15T01:43:14Z",
+    "ip": "49.236.212.134",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Nepal",
     "country_code": "NP",
-    "region": "Gandaki Pradesh",
+    "region": "Bagmati Pradesh",
     "region_code": "",
-    "city": "Parbat",
-    "latitude": 28.2586837,
-    "longitude": 83.7743509,
+    "city": "Kathmandu",
+    "latitude": 27.7172453,
+    "longitude": 85.3239605,
     "is_eu": false,
-    "postal": "33400",
+    "postal": "46600",
     "connection": {
-      "asn": 138388,
-      "org": "Pi net Prefix",
-      "isp": "Pokhara Internet Pvt. Ltd.",
-      "domain": "pokharainternet.com.np"
+      "asn": 55915,
+      "org": "Classic Tech Pvt. Ltd.",
+      "isp": "Classic Tech Pvt. Ltd.",
+      "domain": "classic.com.np"
+    }
+  },
+  {
+    "proxy": "http://182.93.95.80:8080",
+    "tested_at": "2026-02-15T01:43:19Z",
+    "ip": "182.93.95.80",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Nepal",
+    "country_code": "NP",
+    "region": "Bagmati Pradesh",
+    "region_code": "",
+    "city": "Kathmandu",
+    "latitude": 27.7172453,
+    "longitude": 85.3239605,
+    "is_eu": false,
+    "postal": "46600",
+    "connection": {
+      "asn": 4007,
+      "org": "Subisu Corporate Pool10",
+      "isp": "Subisu Cablenet",
+      "domain": "subisu.net.np"
+    }
+  },
+  {
+    "proxy": "http://182.93.75.162:8080",
+    "tested_at": "2026-02-15T01:43:43Z",
+    "ip": "182.93.75.162",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Nepal",
+    "country_code": "NP",
+    "region": "Bagmati Pradesh",
+    "region_code": "",
+    "city": "Kathmandu",
+    "latitude": 27.7172453,
+    "longitude": 85.3239605,
+    "is_eu": false,
+    "postal": "46600",
+    "connection": {
+      "asn": 4007,
+      "org": "Subisu Retail Pool",
+      "isp": "Subisu Cablenet",
+      "domain": "subisu.net.np"
+    }
+  },
+  {
+    "proxy": "http://36.253.18.38:8181",
+    "tested_at": "2026-02-15T01:43:49Z",
+    "ip": "36.253.18.38",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Nepal",
+    "country_code": "NP",
+    "region": "Bagmati Pradesh",
+    "region_code": "",
+    "city": "Patan",
+    "latitude": 27.6644011,
+    "longitude": 85.3187914,
+    "is_eu": false,
+    "postal": "44707",
+    "connection": {
+      "asn": 38565,
+      "org": "Ncell Pty. Ltd.",
+      "isp": "Ncell Pty. Ltd.",
+      "domain": "ncell.com.np"
     }
   }
 ]

@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://37.16.74.14:21922",
+    "tested_at": "2026-02-15T01:43:22Z",
+    "ip": "37.41.226.162",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Oman",
+    "country_code": "OM",
+    "region": "Al Batinah North Governorate",
+    "region_code": "BS",
+    "city": "Oman Smart Future City",
+    "latitude": 23.74745,
+    "longitude": 57.63254,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 28885,
+      "org": "Omanmobile Telecommunication Company LLC",
+      "isp": "Oman Telecommunications Company S.A.O.G",
+      "domain": "omantel.om"
+    }
+  }
+]

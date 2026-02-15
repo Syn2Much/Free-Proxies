@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "http://72.10.164.178:4665",
-    "tested_at": "2026-02-15T01:12:11Z",
-    "ip": "61.219.179.76",
+    "proxy": "http://35.234.17.221:8080",
+    "tested_at": "2026-02-15T01:43:54Z",
+    "ip": "35.234.17.221",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "region": "Keelung City",
+    "region_code": "KEE",
+    "city": "Taipei",
+    "latitude": 25.0329694,
+    "longitude": 121.5654177,
+    "is_eu": false,
+    "postal": "11008",
+    "connection": {
+      "asn": 396982,
+      "org": "Google LLC",
+      "isp": "Google LLC",
+      "domain": "google.com"
+    }
+  },
+  {
+    "proxy": "http://118.163.120.181:58837",
+    "tested_at": "2026-02-15T01:44:05Z",
+    "ip": "118.163.120.181",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -19,30 +42,7 @@
       "asn": 3462,
       "org": "Chunghwa Telecom CO.,LTD.",
       "isp": "Chunghwa Telecom Co., Ltd.",
-      "domain": "hinet.net"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:5207",
-    "tested_at": "2026-02-15T01:12:40Z",
-    "ip": "27.247.129.176",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Taiwan",
-    "country_code": "TW",
-    "region": "",
-    "region_code": "",
-    "city": "Banqiao District",
-    "latitude": 25.0114095,
-    "longitude": 121.4618415,
-    "is_eu": false,
-    "postal": "22055",
-    "connection": {
-      "asn": 9674,
-      "org": "Far Eastone Telecommunication Co., Ltd.",
-      "isp": "Far Easttone Telecommunication Co., Ltd.",
-      "domain": "fareastone.com.tw"
+      "domain": "cht.com.tw"
     }
   }
 ]

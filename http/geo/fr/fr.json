@@ -1,76 +1,7 @@
 [
   {
-    "proxy": "http://185.41.152.110:3128",
-    "tested_at": "2026-02-15T01:11:59Z",
-    "ip": "185.41.152.110",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Grand Est",
-    "region_code": "GES",
-    "city": "Marly",
-    "latitude": 49.059828,
-    "longitude": 6.154795,
-    "is_eu": true,
-    "postal": "57155",
-    "connection": {
-      "asn": 197922,
-      "org": "FIRSTHEBERG",
-      "isp": "Techcrea Solutions SAS",
-      "domain": "techcrea.fr"
-    }
-  },
-  {
-    "proxy": "http://178.170.43.129:8082",
-    "tested_at": "2026-02-15T01:12:00Z",
-    "ip": "178.170.43.129",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Boulogne-Billancourt",
-    "latitude": 48.8396952,
-    "longitude": 2.2399123,
-    "is_eu": true,
-    "postal": "92100",
-    "connection": {
-      "asn": 21409,
-      "org": "SERVERS",
-      "isp": "Ikoula Net SAS",
-      "domain": "ikoula.com"
-    }
-  },
-  {
-    "proxy": "http://164.132.248.251:80",
-    "tested_at": "2026-02-15T01:12:00Z",
-    "ip": "164.132.248.251",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 16276,
-      "org": "OVH SAS",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
-    }
-  },
-  {
     "proxy": "http://90.84.188.97:8000",
-    "tested_at": "2026-02-15T01:12:03Z",
+    "tested_at": "2026-02-15T01:43:06Z",
     "ip": "90.84.188.97",
     "success": true,
     "type": "IPv4",
@@ -92,8 +23,31 @@
     }
   },
   {
+    "proxy": "http://178.170.43.129:8082",
+    "tested_at": "2026-02-15T01:43:07Z",
+    "ip": "178.170.43.129",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Boulogne-Billancourt",
+    "latitude": 48.8396952,
+    "longitude": 2.2399123,
+    "is_eu": true,
+    "postal": "92100",
+    "connection": {
+      "asn": 21409,
+      "org": "SERVERS",
+      "isp": "Ikoula Net SAS",
+      "domain": "ikoula.com"
+    }
+  },
+  {
     "proxy": "http://62.133.62.12:1081",
-    "tested_at": "2026-02-15T01:12:09Z",
+    "tested_at": "2026-02-15T01:43:11Z",
     "ip": "62.133.62.12",
     "success": true,
     "type": "IPv4",
@@ -116,10 +70,10 @@
   },
   {
     "proxy": "http://37.187.109.70:10111",
-    "tested_at": "2026-02-15T01:12:35Z",
-    "ip": "2001:41d0:a:6246::1",
+    "tested_at": "2026-02-15T01:43:21Z",
+    "ip": "37.187.109.70",
     "success": true,
-    "type": "IPv6",
+    "type": "IPv4",
     "continent": "Europe",
     "country": "France",
     "country_code": "FR",
@@ -132,60 +86,60 @@
     "postal": "59100",
     "connection": {
       "asn": 16276,
-      "org": "OVH",
+      "org": "OVH SAS",
       "isp": "OVH SAS",
       "domain": "ovh.net"
     }
   },
   {
-    "proxy": "http://178.170.43.106:8081",
-    "tested_at": "2026-02-15T01:12:39Z",
-    "ip": "178.170.43.106",
+    "proxy": "http://130.110.250.13:1111",
+    "tested_at": "2026-02-15T01:43:27Z",
+    "ip": "130.110.250.13",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "France",
     "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Boulogne-Billancourt",
-    "latitude": 48.8396952,
-    "longitude": 2.2399123,
+    "region": "Provence-Alpes-Côte d'Azur",
+    "region_code": "PAC",
+    "city": "Marseille",
+    "latitude": 43.296482,
+    "longitude": 5.36978,
     "is_eu": true,
-    "postal": "92100",
+    "postal": "13000",
     "connection": {
-      "asn": 21409,
-      "org": "SERVERS",
-      "isp": "Ikoula Net SAS",
-      "domain": "ikoula.com"
+      "asn": 31898,
+      "org": "Oracle Svenska Ab",
+      "isp": "Oracle Corporation",
+      "domain": "oracle.com"
     }
   },
   {
-    "proxy": "http://94.183.188.7:6891",
-    "tested_at": "2026-02-15T01:12:40Z",
-    "ip": "94.183.188.7",
+    "proxy": "http://5.189.161.47:3128",
+    "tested_at": "2026-02-15T01:43:29Z",
+    "ip": "5.189.161.47",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "France",
     "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
+    "region": "Grand Est",
+    "region_code": "GES",
+    "city": "Lauterbourg",
+    "latitude": 48.974797,
+    "longitude": 8.176773,
     "is_eu": true,
-    "postal": "75007",
+    "postal": "67630",
     "connection": {
-      "asn": 56971,
-      "org": "CGI GLOBAL LIMITED",
-      "isp": "CGI GLOBAL LIMITED",
-      "domain": "cloudbackbone.net"
+      "asn": 51167,
+      "org": "Contabo GmbH",
+      "isp": "Contabo GmbH",
+      "domain": "contabo.de"
     }
   },
   {
     "proxy": "http://62.133.62.12:1082",
-    "tested_at": "2026-02-15T01:12:43Z",
+    "tested_at": "2026-02-15T01:43:39Z",
     "ip": "62.133.62.12",
     "success": true,
     "type": "IPv4",
@@ -204,6 +158,29 @@
       "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
       "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
       "domain": "gir.network"
+    }
+  },
+  {
+    "proxy": "http://178.170.43.106:8081",
+    "tested_at": "2026-02-15T01:44:00Z",
+    "ip": "178.170.43.106",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Boulogne-Billancourt",
+    "latitude": 48.8396952,
+    "longitude": 2.2399123,
+    "is_eu": true,
+    "postal": "92100",
+    "connection": {
+      "asn": 21409,
+      "org": "SERVERS",
+      "isp": "Ikoula Net SAS",
+      "domain": "ikoula.com"
     }
   }
 ]

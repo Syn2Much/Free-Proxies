@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://72.10.160.170:22153",
-    "tested_at": "2026-02-15T00:40:35Z",
-    "ip": "122.151.22.217",
+    "proxy": "http://61.29.96.146:8000",
+    "tested_at": "2026-02-15T01:43:56Z",
+    "ip": "61.29.96.146",
     "success": true,
     "type": "IPv4",
     "continent": "Oceania",
     "country": "Australia",
     "country_code": "AU",
-    "region": "New South Wales",
-    "region_code": "NSW",
-    "city": "Sydney",
-    "latitude": -33.8688197,
-    "longitude": 151.2092955,
+    "region": "Victoria",
+    "region_code": "VIC",
+    "city": "Hawthorn",
+    "latitude": -37.826,
+    "longitude": 145.034,
     "is_eu": false,
-    "postal": "2000",
+    "postal": "3122",
     "connection": {
-      "asn": 9443,
-      "org": "Vocus Australia",
-      "isp": "VOCUS PTY LTD",
-      "domain": "vocus.com.au"
+      "asn": 2764,
+      "org": "Aapt Limited",
+      "isp": "Aapt Limited",
+      "domain": "powertel.co.zw"
     }
   }
 ]

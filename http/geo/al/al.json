@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://79.106.165.246:8989",
-    "tested_at": "2026-02-15T00:40:56Z",
-    "ip": "79.106.165.246",
+    "proxy": "http://185.89.156.2:44224",
+    "tested_at": "2026-02-15T01:43:57Z",
+    "ip": "185.89.156.2",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,39 +10,16 @@
     "country_code": "AL",
     "region": "Southern Albania",
     "region_code": "",
-    "city": "Korçë",
-    "latitude": 40.6140785,
-    "longitude": 20.7778071,
+    "city": "Mollas",
+    "latitude": 40.4265952,
+    "longitude": 20.6757427,
     "is_eu": false,
-    "postal": "7001",
+    "postal": "7403",
     "connection": {
-      "asn": 42313,
-      "org": "TEST",
-      "isp": "ONE ALBANIA SH.A.",
-      "domain": "one.al"
-    }
-  },
-  {
-    "proxy": "http://79.106.33.26:8079",
-    "tested_at": "2026-02-15T00:40:57Z",
-    "ip": "79.106.33.26",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Albania",
-    "country_code": "AL",
-    "region": "Central Albania",
-    "region_code": "",
-    "city": "Kashar",
-    "latitude": 41.3445243,
-    "longitude": 19.7234519,
-    "is_eu": false,
-    "postal": "1051",
-    "connection": {
-      "asn": 42313,
-      "org": "TEST 0",
-      "isp": "ONE ALBANIA SH.A.",
-      "domain": "one.al"
+      "asn": 198279,
+      "org": "Atu Residential Customers",
+      "isp": "Albanian Telecommunications Union Sh. P.K.",
+      "domain": "atu.al"
     }
   }
 ]

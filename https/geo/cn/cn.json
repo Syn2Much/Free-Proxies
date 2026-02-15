@@ -1,7 +1,7 @@
 [
   {
-    "proxy": "https://180.166.128.182:34001",
-    "tested_at": "2026-02-15T01:12:20Z",
+    "proxy": "https://180.166.128.182:34000",
+    "tested_at": "2026-02-15T01:43:24Z",
     "ip": "58.34.88.74",
     "success": true,
     "type": "IPv4",
@@ -23,8 +23,77 @@
     }
   },
   {
-    "proxy": "https://180.166.128.182:12011",
-    "tested_at": "2026-02-15T01:12:30Z",
+    "proxy": "https://180.166.128.182:13010",
+    "tested_at": "2026-02-15T01:43:28Z",
+    "ip": "58.34.88.74",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "China",
+    "country_code": "CN",
+    "region": "Shanghai",
+    "region_code": "31",
+    "city": "Shanghai",
+    "latitude": 31.230416,
+    "longitude": 121.473701,
+    "is_eu": false,
+    "postal": "200001",
+    "connection": {
+      "asn": 4812,
+      "org": "Chinanet Shanghai Province Network",
+      "isp": "China Telecom group",
+      "domain": "online.sh.cn"
+    }
+  },
+  {
+    "proxy": "https://114.55.114.43:8082",
+    "tested_at": "2026-02-15T01:43:29Z",
+    "ip": "117.162.168.20",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "China",
+    "country_code": "CN",
+    "region": "Beijing",
+    "region_code": "11",
+    "city": "Beijing",
+    "latitude": 39.904211,
+    "longitude": 116.407395,
+    "is_eu": false,
+    "postal": "100010",
+    "connection": {
+      "asn": 56045,
+      "org": "China Mobile",
+      "isp": "China Mobile Communications Corporation",
+      "domain": "chinamobile.com"
+    }
+  },
+  {
+    "proxy": "https://114.55.114.43:8406",
+    "tested_at": "2026-02-15T01:43:49Z",
+    "ip": "115.213.77.83",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "China",
+    "country_code": "CN",
+    "region": "Zhejiang",
+    "region_code": "33",
+    "city": "Ningbo",
+    "latitude": 29.868336,
+    "longitude": 121.54399,
+    "is_eu": false,
+    "postal": "315051",
+    "connection": {
+      "asn": 4134,
+      "org": "Chinanet zj Hangzhou Node Network",
+      "isp": "No. 1,jin rong Street",
+      "domain": "chinatelecom.cn"
+    }
+  },
+  {
+    "proxy": "https://180.166.128.182:24001",
+    "tested_at": "2026-02-15T01:43:58Z",
     "ip": "58.34.88.74",
     "success": true,
     "type": "IPv4",

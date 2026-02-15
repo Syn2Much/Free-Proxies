@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://36.37.251.137:8080",
-    "tested_at": "2026-02-15T00:09:48Z",
-    "ip": "36.37.251.137",
+    "proxy": "http://96.9.66.208:80",
+    "tested_at": "2026-02-15T01:44:03Z",
+    "ip": "96.9.66.208",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,79 +16,10 @@
     "is_eu": false,
     "postal": "120603",
     "connection": {
-      "asn": 38623,
-      "org": "VIETTEL CAMBODIA PTE., LTD.",
-      "isp": "VIETTEL CAMBODIA PTE., LTD",
-      "domain": "viettel.com.vn"
-    }
-  },
-  {
-    "proxy": "http://103.9.190.130:8080",
-    "tested_at": "2026-02-15T00:09:52Z",
-    "ip": "103.9.190.130",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Cambodia",
-    "country_code": "KH",
-    "region": "Phnom Penh",
-    "region_code": "12",
-    "city": "Phnom Phen City",
-    "latitude": 11.5448729,
-    "longitude": 104.8921668,
-    "is_eu": false,
-    "postal": "120603",
-    "connection": {
-      "asn": 38901,
-      "org": "EZECOM CO., LTD.",
-      "isp": "EZECOM CO., LTD.",
-      "domain": "ezecom.com.kh"
-    }
-  },
-  {
-    "proxy": "http://36.37.155.160:8080",
-    "tested_at": "2026-02-15T00:09:54Z",
-    "ip": "36.37.155.160",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Cambodia",
-    "country_code": "KH",
-    "region": "Phnom Penh",
-    "region_code": "12",
-    "city": "Phnom Phen City",
-    "latitude": 11.5448729,
-    "longitude": 104.8921668,
-    "is_eu": false,
-    "postal": "120603",
-    "connection": {
-      "asn": 38623,
-      "org": "VIETTEL CAMBODIA PTE, LTD.",
-      "isp": "VIETTEL CAMBODIA PTE., LTD",
-      "domain": "metfone.com.kh"
-    }
-  },
-  {
-    "proxy": "http://110.74.195.34:25",
-    "tested_at": "2026-02-15T00:10:08Z",
-    "ip": "110.74.195.34",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Cambodia",
-    "country_code": "KH",
-    "region": "Phnom Penh",
-    "region_code": "12",
-    "city": "Phnom Phen City",
-    "latitude": 11.5448729,
-    "longitude": 104.8921668,
-    "is_eu": false,
-    "postal": "120603",
-    "connection": {
-      "asn": 38901,
-      "org": "EZECOM CO., LTD.",
-      "isp": "EZECOM CO., LTD.",
-      "domain": "ezecom.com.kh"
+      "asn": 131207,
+      "org": "Sinet, Dedicated Fiber, Dedicated Speed, Dedicated Support, Dedicated Always.",
+      "isp": "S.i Group",
+      "domain": "sinet.com.kh"
     }
   }
 ]

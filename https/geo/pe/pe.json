@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://47.243.181.85:41695",
-    "tested_at": "2026-02-14T19:27:50Z",
-    "ip": "38.253.150.191",
+    "proxy": "https://47.243.181.85:41698",
+    "tested_at": "2026-02-15T01:43:09Z",
+    "ip": "38.25.26.87",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -10,11 +10,11 @@
     "country_code": "PE",
     "region": "Lima",
     "region_code": "LIM",
-    "city": "Breña",
-    "latitude": -12.0584783,
-    "longitude": -77.0506617,
+    "city": "San Isidro",
+    "latitude": -12.0971829,
+    "longitude": -77.032585,
     "is_eu": false,
-    "postal": "15083",
+    "postal": "15073",
     "connection": {
       "asn": 265691,
       "org": "Cogent Communications",
