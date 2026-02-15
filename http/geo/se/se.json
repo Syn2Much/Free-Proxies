@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://83.219.250.8:62920",
-    "tested_at": "2026-02-15T03:17:03Z",
-    "ip": "83.219.250.8",
+    "proxy": "http://71.168.71.12:8888",
+    "tested_at": "2026-02-15T04:19:41Z",
+    "ip": "45.84.107.74",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,62 +10,16 @@
     "country_code": "SE",
     "region": "Stockholm County",
     "region_code": "AB",
-    "city": "Stockholm",
-    "latitude": 59.3293235,
-    "longitude": 18.0685808,
+    "city": "Sundbyberg",
+    "latitude": 59.3670471,
+    "longitude": 17.9663093,
     "is_eu": true,
-    "postal": "111 29",
+    "postal": "172 31",
     "connection": {
-      "asn": 41745,
-      "org": "Baykov Ilya Sergeevich",
-      "isp": "Baykov Ilya Sergeevich",
-      "domain": "fortis.host"
-    }
-  },
-  {
-    "proxy": "http://193.181.35.95:8118",
-    "tested_at": "2026-02-15T03:17:04Z",
-    "ip": "193.181.35.95",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Stockholm",
-    "latitude": 59.3293235,
-    "longitude": 18.0685808,
-    "is_eu": true,
-    "postal": "111 29",
-    "connection": {
-      "asn": 42201,
-      "org": "Pvdatanet Ab",
-      "isp": "Pvdatanet Ab",
-      "domain": "pvdatanet.com"
-    }
-  },
-  {
-    "proxy": "http://65.108.203.36:18080",
-    "tested_at": "2026-02-15T03:17:25Z",
-    "ip": "2001:67c:198c:906:27::387",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Östergötland County",
-    "region_code": "E",
-    "city": "Linköping",
-    "latitude": 58.410807,
-    "longitude": 15.6213727,
-    "is_eu": true,
-    "postal": "582 24",
-    "connection": {
-      "asn": 205016,
-      "org": "Hern Labs Ab",
-      "isp": "Hern Labs Ab",
-      "domain": "hernlabs.se"
+      "asn": 214503,
+      "org": "R0CKET CLOUD",
+      "isp": "Quxlabs Ab",
+      "domain": "quxlabs.com"
     }
   }
 ]

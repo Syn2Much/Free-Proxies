@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://165.231.253.242:9443",
-    "tested_at": "2026-02-15T03:48:44Z",
-    "ip": "165.231.253.248",
+    "proxy": "https://165.231.253.66:9443",
+    "tested_at": "2026-02-15T04:20:00Z",
+    "ip": "196.240.60.220",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -23,8 +23,31 @@
     }
   },
   {
+    "proxy": "https://47.243.181.85:41488",
+    "tested_at": "2026-02-15T04:20:01Z",
+    "ip": "103.119.172.135",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "India",
+    "country_code": "IN",
+    "region": "Maharashtra",
+    "region_code": "MH",
+    "city": "Mumbai",
+    "latitude": 19.0759837,
+    "longitude": 72.8776559,
+    "is_eu": false,
+    "postal": "400070",
+    "connection": {
+      "asn": 138296,
+      "org": "NIXI",
+      "isp": "Juweriyah Networks Private Limited",
+      "domain": "nixi.in"
+    }
+  },
+  {
     "proxy": "https://45.114.142.178:443",
-    "tested_at": "2026-02-15T03:48:54Z",
+    "tested_at": "2026-02-15T04:20:11Z",
     "ip": "45.114.142.178",
     "success": true,
     "type": "IPv4",

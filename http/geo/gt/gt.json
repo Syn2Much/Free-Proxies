@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://38.52.208.49:999",
-    "tested_at": "2026-02-15T03:48:29Z",
-    "ip": "38.52.212.255",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "Guatemala Department",
-    "region_code": "GU",
-    "city": "Guatemala City",
-    "latitude": 14.6349149,
-    "longitude": -90.5068824,
-    "is_eu": false,
-    "postal": "01004",
-    "connection": {
-      "asn": 272818,
-      "org": "Cogent Communications",
-      "isp": "CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
-      "domain": "centralredes.com"
-    }
-  },
-  {
     "proxy": "http://45.5.118.249:999",
-    "tested_at": "2026-02-15T03:48:44Z",
+    "tested_at": "2026-02-15T04:20:31Z",
     "ip": "45.5.118.249",
     "success": true,
     "type": "IPv4",

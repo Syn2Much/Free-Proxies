@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://72.10.160.170:4819",
+    "tested_at": "2026-02-15T04:19:56Z",
+    "ip": "74.117.86.30",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Grenada",
+    "country_code": "GD",
+    "region": "Saint John",
+    "region_code": "04",
+    "city": "Gouyave",
+    "latitude": 12.1691738,
+    "longitude": -61.7261422,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 46650,
+      "org": "Columbus Communications Grenada Ltd.",
+      "isp": "Columbus Communications Grenada Ltd.",
+      "domain": "columbus.co"
+    }
+  }
+]

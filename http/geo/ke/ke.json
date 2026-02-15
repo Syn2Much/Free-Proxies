@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://102.207.191.68:8080",
-    "tested_at": "2026-02-15T03:48:44Z",
-    "ip": "102.207.191.68",
+    "proxy": "http://102.0.16.226:8080",
+    "tested_at": "2026-02-15T04:20:04Z",
+    "ip": "102.0.16.226",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Kenya",
     "country_code": "KE",
-    "region": "Kitui",
-    "region_code": "18",
-    "city": "Mwingi",
-    "latitude": -0.937411,
-    "longitude": 38.0605006,
+    "region": "Embu County",
+    "region_code": "06",
+    "city": "Embu",
+    "latitude": -0.5388381,
+    "longitude": 37.4596409,
     "is_eu": false,
-    "postal": "90400",
+    "postal": "60100",
     "connection": {
-      "asn": 329497,
-      "org": "Customer Assignment Public Ipv Addresses for Subscriber customer Devices.",
-      "isp": "Avitech Solutions LTD",
-      "domain": "avitechsolutionsltd.com"
-    }
-  },
-  {
-    "proxy": "http://102.209.18.28:8080",
-    "tested_at": "2026-02-15T03:48:46Z",
-    "ip": "38.226.202.42",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Nairobi",
-    "region_code": "110",
-    "city": "Nairobi",
-    "latitude": -1.3237958,
-    "longitude": 36.8808553,
-    "is_eu": false,
-    "postal": "200",
-    "connection": {
-      "asn": 329437,
-      "org": "VENNET SOLUTIONS LIMITED",
-      "isp": "VENNET SOLUTIONS LIMITED",
-      "domain": "vennet.co.ke"
+      "asn": 327708,
+      "org": "Allocated to Airtel Kenya Mobile Broadband And Fixed Internet",
+      "isp": "Airtel Rwanda LTD",
+      "domain": "airtel.com"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://217.24.245.58:8079",
-    "tested_at": "2026-02-15T03:48:19Z",
-    "ip": "217.24.245.58",
+    "proxy": "http://77.242.16.30:8080",
+    "tested_at": "2026-02-15T04:20:13Z",
+    "ip": "77.242.16.30",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,16 +10,16 @@
     "country_code": "AL",
     "region": "Central Albania",
     "region_code": "",
-    "city": "Tirana",
-    "latitude": 41.3275459,
-    "longitude": 19.8186982,
+    "city": "Labinot-Fushë",
+    "latitude": 41.1437394,
+    "longitude": 20.15515,
     "is_eu": false,
-    "postal": "1051",
+    "postal": "3010",
     "connection": {
-      "asn": 42313,
-      "org": "TEST1",
-      "isp": "ONE ALBANIA SH.A.",
-      "domain": "albtelecom.al"
+      "asn": 35047,
+      "org": "Web App Servers",
+      "isp": "Abissnet SH.A.",
+      "domain": "abissnet.al"
     }
   }
 ]

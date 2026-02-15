@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://67.43.228.250:16533",
-    "tested_at": "2026-02-15T03:17:04Z",
-    "ip": "168.181.123.82",
+    "proxy": "http://181.78.44.63:999",
+    "tested_at": "2026-02-15T04:19:48Z",
+    "ip": "181.78.44.63",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Honduras",
     "country_code": "HN",
-    "region": "Atlántida",
-    "region_code": "AT",
-    "city": "San Juan Pueblo",
-    "latitude": 15.5973118,
-    "longitude": -87.2145498,
+    "region": "Cortés",
+    "region_code": "CR",
+    "city": "San Pedro Sula",
+    "latitude": 15.5149204,
+    "longitude": -87.9922684,
     "is_eu": false,
-    "postal": "87566",
+    "postal": "21101",
     "connection": {
-      "asn": 264847,
-      "org": "ENRED S.DE.R.L",
-      "isp": "ENRED S.DE.R.L",
-      "domain": "enredhn.com"
-    }
-  },
-  {
-    "proxy": "http://67.43.228.251:16533",
-    "tested_at": "2026-02-15T03:17:35Z",
-    "ip": "168.181.123.82",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Honduras",
-    "country_code": "HN",
-    "region": "Atlántida",
-    "region_code": "AT",
-    "city": "San Juan Pueblo",
-    "latitude": 15.5973118,
-    "longitude": -87.2145498,
-    "is_eu": false,
-    "postal": "87566",
-    "connection": {
-      "asn": 264847,
-      "org": "ENRED S.DE.R.L",
-      "isp": "ENRED S.DE.R.L",
-      "domain": "enredhn.com"
+      "asn": 52468,
+      "org": "Ufinet Honduras, S. A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "ufinet.com"
     }
   }
 ]

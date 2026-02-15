@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://212.110.188.201:34408",
-    "tested_at": "2026-02-15T03:48:20Z",
-    "ip": "212.110.188.201",
+    "proxy": "http://212.110.188.195:34411",
+    "tested_at": "2026-02-15T04:19:46Z",
+    "ip": "212.110.188.195",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -23,55 +23,9 @@
     }
   },
   {
-    "proxy": "http://109.120.135.230:2030",
-    "tested_at": "2026-02-15T03:48:20Z",
-    "ip": "2a0b:4140:685e::2",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "London",
-    "latitude": 51.5073509,
-    "longitude": -0.1277583,
-    "is_eu": false,
-    "postal": "SW1",
-    "connection": {
-      "asn": 210644,
-      "org": "AEZA NETWORK STOCKHOLM",
-      "isp": "AEZA INTERNATIONAL LTD",
-      "domain": "aeza.net"
-    }
-  },
-  {
-    "proxy": "http://62.3.71.255:8118",
-    "tested_at": "2026-02-15T03:48:25Z",
-    "ip": "216.169.132.18",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "Manchester",
-    "latitude": 53.4807593,
-    "longitude": -2.2426305,
-    "is_eu": false,
-    "postal": "M2 3FU",
-    "connection": {
-      "asn": 62240,
-      "org": "NETPR MAN CV",
-      "isp": "Clouvider Limited",
-      "domain": "clouvider.com"
-    }
-  },
-  {
-    "proxy": "http://212.110.188.187:34403",
-    "tested_at": "2026-02-15T03:48:31Z",
-    "ip": "212.110.188.187",
+    "proxy": "http://212.110.188.204:34411",
+    "tested_at": "2026-02-15T04:19:57Z",
+    "ip": "212.110.188.204",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -93,7 +47,7 @@
   },
   {
     "proxy": "http://212.110.188.200:34407",
-    "tested_at": "2026-02-15T03:48:49Z",
+    "tested_at": "2026-02-15T04:20:08Z",
     "ip": "212.110.188.200",
     "success": true,
     "type": "IPv4",
@@ -116,7 +70,7 @@
   },
   {
     "proxy": "http://37.27.180.250:2081",
-    "tested_at": "2026-02-15T03:48:53Z",
+    "tested_at": "2026-02-15T04:20:23Z",
     "ip": "141.98.101.182",
     "success": true,
     "type": "IPv4",
@@ -135,29 +89,6 @@
       "org": "M LTD Manchester Infrastructure",
       "isp": "M Europe SRL",
       "domain": "m247.com"
-    }
-  },
-  {
-    "proxy": "http://212.110.188.206:34404",
-    "tested_at": "2026-02-15T03:49:00Z",
-    "ip": "212.110.188.206",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "York",
-    "latitude": 53.9599651,
-    "longitude": -1.0872979,
-    "is_eu": false,
-    "postal": "YO1 8SG",
-    "connection": {
-      "asn": 35425,
-      "org": "Bytemark Services",
-      "isp": "IOMART MANAGED SERVICES LIMITED",
-      "domain": "rapidswitch.com"
     }
   }
 ]

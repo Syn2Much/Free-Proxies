@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://67.43.228.253:13279",
-    "tested_at": "2026-02-15T03:48:17Z",
-    "ip": "111.252.192.149",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Taiwan",
-    "country_code": "TW",
-    "region": "Taiwan Province",
-    "region_code": "",
-    "city": "Changhua",
-    "latitude": 24.0889788,
-    "longitude": 120.5566917,
-    "is_eu": false,
-    "postal": "500",
-    "connection": {
-      "asn": 3462,
-      "org": "Chunghwa Telecom CO.,LTD.",
-      "isp": "Chunghwa Telecom Co., Ltd.",
-      "domain": "cht.com.tw"
-    }
-  },
-  {
-    "proxy": "http://35.234.17.221:8080",
-    "tested_at": "2026-02-15T03:48:23Z",
-    "ip": "35.234.17.221",
+    "proxy": "http://220.128.223.136:8082",
+    "tested_at": "2026-02-15T04:20:22Z",
+    "ip": "220.128.223.136",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,10 +16,10 @@
     "is_eu": false,
     "postal": "11008",
     "connection": {
-      "asn": 396982,
-      "org": "Google LLC",
-      "isp": "Google LLC",
-      "domain": "google.com"
+      "asn": 3462,
+      "org": "Chunghwa Telecom CO.,LTD.",
+      "isp": "Chunghwa Telecom Co., Ltd.",
+      "domain": "twnic.tw"
     }
   }
 ]

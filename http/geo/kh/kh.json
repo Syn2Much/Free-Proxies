@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://110.74.215.171:8080",
-    "tested_at": "2026-02-15T03:48:28Z",
-    "ip": "110.74.215.171",
+    "proxy": "http://203.171.252.7:8080",
+    "tested_at": "2026-02-15T04:19:45Z",
+    "ip": "203.171.252.7",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,15 +16,15 @@
     "is_eu": false,
     "postal": "120603",
     "connection": {
-      "asn": 38901,
-      "org": "EZECOM CO., LTD.",
-      "isp": "EZECOM CO., LTD.",
-      "domain": "ezecom.com.kh"
+      "asn": 38235,
+      "org": "Angkor Data Communication",
+      "isp": "ANGKOR DATA COMMUNICATION GROUP CO., LTD. A D C",
+      "domain": "mekongnet.com.kh"
     }
   },
   {
     "proxy": "http://110.235.250.77:8080",
-    "tested_at": "2026-02-15T03:48:38Z",
+    "tested_at": "2026-02-15T04:20:18Z",
     "ip": "110.235.250.77",
     "success": true,
     "type": "IPv4",
@@ -47,7 +47,7 @@
   },
   {
     "proxy": "http://103.216.48.124:8080",
-    "tested_at": "2026-02-15T03:48:45Z",
+    "tested_at": "2026-02-15T04:20:32Z",
     "ip": "103.216.48.124",
     "success": true,
     "type": "IPv4",
@@ -66,29 +66,6 @@
       "org": "Today Communication Co.,ltd",
       "isp": "Today Communication Co.,ltd",
       "domain": "today.com.kh"
-    }
-  },
-  {
-    "proxy": "http://110.74.195.34:25",
-    "tested_at": "2026-02-15T03:49:07Z",
-    "ip": "110.74.195.34",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Cambodia",
-    "country_code": "KH",
-    "region": "Phnom Penh",
-    "region_code": "12",
-    "city": "Phnom Phen City",
-    "latitude": 11.5448729,
-    "longitude": 104.8921668,
-    "is_eu": false,
-    "postal": "120603",
-    "connection": {
-      "asn": 38901,
-      "org": "EZECOM CO., LTD.",
-      "isp": "EZECOM CO., LTD.",
-      "domain": "ezecom.com.kh"
     }
   }
 ]

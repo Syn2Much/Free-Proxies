@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://212.51.157.178:8080",
-    "tested_at": "2026-02-15T02:15:02Z",
-    "ip": "212.51.157.178",
+    "proxy": "http://72.10.164.178:4583",
+    "tested_at": "2026-02-15T04:20:27Z",
+    "ip": "157.143.108.210",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Switzerland",
     "country_code": "CH",
-    "region": "Zurich",
-    "region_code": "ZH",
-    "city": "Oberengstringen",
-    "latitude": 47.4090873,
-    "longitude": 8.4627128,
+    "region": "Schaffhausen",
+    "region_code": "SH",
+    "city": "Neuhausen am Rheinfall",
+    "latitude": 47.6837423,
+    "longitude": 8.6126098,
     "is_eu": false,
-    "postal": "8102",
+    "postal": "8212",
     "connection": {
-      "asn": 13030,
-      "org": "Liip AG",
-      "isp": "Init switzerland Ltd.",
-      "domain": "init7.net"
+      "asn": 8758,
+      "org": "Iway AG",
+      "isp": "Iway AG",
+      "domain": "iway.ch"
     }
   }
 ]

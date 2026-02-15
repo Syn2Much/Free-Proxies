@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://67.43.228.253:26149",
-    "tested_at": "2026-02-15T03:48:13Z",
-    "ip": "190.173.80.89",
+    "proxy": "http://72.10.160.94:21263",
+    "tested_at": "2026-02-15T04:20:03Z",
+    "ip": "181.230.126.126",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -10,57 +10,11 @@
     "country_code": "AR",
     "region": "Buenos Aires",
     "region_code": "B",
-    "city": "Ciudadela",
-    "latitude": -34.6352975,
-    "longitude": -58.5432951,
+    "city": "Chivilcoy",
+    "latitude": -34.8969795,
+    "longitude": -60.0190731,
     "is_eu": false,
-    "postal": "1702",
-    "connection": {
-      "asn": 22927,
-      "org": "Telefonica De Argentina",
-      "isp": "Telefonica De Argentina",
-      "domain": "telefonica.com.ar"
-    }
-  },
-  {
-    "proxy": "http://190.210.62.131:8080",
-    "tested_at": "2026-02-15T03:48:16Z",
-    "ip": "190.210.62.131",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Buenos Aires",
-    "region_code": "B",
-    "city": "Buenos Aires",
-    "latitude": -34.6036844,
-    "longitude": -58.3815591,
-    "is_eu": false,
-    "postal": "C1405 DJG",
-    "connection": {
-      "asn": 16814,
-      "org": "NSS S.A.",
-      "isp": "NSS S.A.",
-      "domain": "iplan.com.ar"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:29329",
-    "tested_at": "2026-02-15T03:48:19Z",
-    "ip": "186.124.58.172",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Salta",
-    "region_code": "A",
-    "city": "Cerrillos",
-    "latitude": -24.8958166,
-    "longitude": -65.4871162,
-    "is_eu": false,
-    "postal": "4403",
+    "postal": "B6620 KSB",
     "connection": {
       "asn": 7303,
       "org": "Telecom Argentina S.A.",
@@ -70,7 +24,7 @@
   },
   {
     "proxy": "http://72.10.160.93:17545",
-    "tested_at": "2026-02-15T03:48:28Z",
+    "tested_at": "2026-02-15T04:20:13Z",
     "ip": "190.112.99.123",
     "success": true,
     "type": "IPv4",
@@ -92,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://181.209.118.252:999",
-    "tested_at": "2026-02-15T03:48:50Z",
-    "ip": "181.209.118.250",
+    "proxy": "http://170.80.95.7:11211",
+    "tested_at": "2026-02-15T04:20:20Z",
+    "ip": "170.80.95.1",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -102,39 +56,16 @@
     "country_code": "AR",
     "region": "Buenos Aires",
     "region_code": "B",
-    "city": "Buenos Aires",
-    "latitude": -34.6036844,
-    "longitude": -58.3815591,
+    "city": "San Carlos de Bolívar",
+    "latitude": -36.2391263,
+    "longitude": -61.1255879,
     "is_eu": false,
-    "postal": "C1405 DJG",
+    "postal": "B6550 CGG",
     "connection": {
-      "asn": 52361,
-      "org": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
-      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
-      "domain": "arsat.com.ar"
-    }
-  },
-  {
-    "proxy": "http://167.249.52.218:999",
-    "tested_at": "2026-02-15T03:49:07Z",
-    "ip": "167.249.52.218",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Mendoza",
-    "region_code": "M",
-    "city": "Baños Lunlunta",
-    "latitude": -33.0666618,
-    "longitude": -68.8333511,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 263793,
-      "org": "TECNET ARGENTINA S.A.",
-      "isp": "TECNET ARGENTINA S.A.",
-      "domain": "tecnetmza.com.ar"
+      "asn": 270089,
+      "org": "FIBRAS OPTICAS DE MAR DEL PLATA S.A.",
+      "isp": "FIBRAS OPTICAS DE MAR DEL PLATA S.A.",
+      "domain": "sectornet.com.ar"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://192.203.0.118:999",
-    "tested_at": "2026-02-15T03:48:45Z",
-    "ip": "192.203.0.118",
+    "proxy": "http://192.203.0.166:999",
+    "tested_at": "2026-02-15T04:19:44Z",
+    "ip": "192.203.0.166",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -20,6 +20,29 @@
       "org": "BOOM NET",
       "isp": "BOOM NET",
       "domain": "boomsolutionspr.com"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:1215",
+    "tested_at": "2026-02-15T04:20:22Z",
+    "ip": "24.41.236.83",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "region": "Puerto Rico",
+    "region_code": "PR",
+    "city": "Pájaros",
+    "latitude": 18.360759,
+    "longitude": -66.2218425,
+    "is_eu": false,
+    "postal": "00958",
+    "connection": {
+      "asn": 14638,
+      "org": "Liberty Communications of Puerto Rico LLC",
+      "isp": "Liberty Communications of Puerto Rico LLC",
+      "domain": "libertypr.com"
     }
   }
 ]

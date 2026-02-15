@@ -1,31 +1,31 @@
 [
   {
-    "proxy": "http://181.78.95.49:999",
-    "tested_at": "2026-02-15T03:48:20Z",
-    "ip": "181.78.95.50",
+    "proxy": "http://170.245.132.85:999",
+    "tested_at": "2026-02-15T04:19:47Z",
+    "ip": "170.245.132.81",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Paraguay",
     "country_code": "PY",
-    "region": "San Pedro",
-    "region_code": "2",
-    "city": "Puerto Antequera",
-    "latitude": -24.085215,
-    "longitude": -57.2000138,
+    "region": "Paraguarí",
+    "region_code": "9",
+    "city": "Carapeguá",
+    "latitude": -25.7643636,
+    "longitude": -57.2423411,
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 52468,
-      "org": "UFINET PARAGUAY S.A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
+      "asn": 270096,
+      "org": "MACHADO BAEZ, NERY JAVIER LOCAL NET PARAGUAY",
+      "isp": "MACHADO BAEZ, NERY JAVIER LOCAL NET PARAGUAY",
+      "domain": "local.net.py"
     }
   },
   {
-    "proxy": "http://45.179.193.156:999",
-    "tested_at": "2026-02-15T03:48:48Z",
-    "ip": "45.179.193.122",
+    "proxy": "http://45.177.16.129:999",
+    "tested_at": "2026-02-15T04:20:19Z",
+    "ip": "45.177.16.254",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -39,10 +39,10 @@
     "is_eu": false,
     "postal": "7000",
     "connection": {
-      "asn": 267920,
-      "org": "Saldivar Sosa Rodrigo Agustin raynet",
-      "isp": "Saldivar Sosa Rodrigo Agustin raynet",
-      "domain": "raynet.com.py"
+      "asn": 267885,
+      "org": "Cross Connect Paraguay S.A.",
+      "isp": "MSW S.A.",
+      "domain": "cross.net.py"
     }
   }
 ]

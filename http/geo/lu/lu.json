@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://158.101.175.124:5566",
-    "tested_at": "2026-02-15T02:46:32Z",
-    "ip": "107.189.1.160",
+    "proxy": "http://172.232.54.209:8888",
+    "tested_at": "2026-02-15T04:20:24Z",
+    "ip": "145.223.8.13",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,16 +10,16 @@
     "country_code": "LU",
     "region": "Canton Luxembourg",
     "region_code": "LU",
-    "city": "Luxembourg City",
-    "latitude": 49.611621,
-    "longitude": 6.1319346,
+    "city": "Steinsel",
+    "latitude": 49.6769584,
+    "longitude": 6.1237699,
     "is_eu": true,
-    "postal": "1136",
+    "postal": "7317",
     "connection": {
-      "asn": 53667,
-      "org": "BuyVM",
-      "isp": "Frantech Solutions",
-      "domain": "frantech.ca"
+      "asn": 209854,
+      "org": "Cyberzonehub",
+      "isp": "Cyberzone S.A.",
+      "domain": "brandergroup.net"
     }
   }
 ]

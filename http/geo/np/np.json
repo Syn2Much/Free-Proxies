@@ -1,8 +1,54 @@
 [
   {
-    "proxy": "http://36.253.18.38:8181",
-    "tested_at": "2026-02-15T03:49:08Z",
-    "ip": "36.253.18.38",
+    "proxy": "http://72.10.164.178:9691",
+    "tested_at": "2026-02-15T04:19:41Z",
+    "ip": "49.236.213.254",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Nepal",
+    "country_code": "NP",
+    "region": "Bagmati Pradesh",
+    "region_code": "",
+    "city": "Kathmandu",
+    "latitude": 27.7172453,
+    "longitude": 85.3239605,
+    "is_eu": false,
+    "postal": "46600",
+    "connection": {
+      "asn": 55915,
+      "org": "Classic Tech Pvt. Ltd.",
+      "isp": "Classic Tech Pvt. Ltd.",
+      "domain": "classic.com.np"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:16291",
+    "tested_at": "2026-02-15T04:19:41Z",
+    "ip": "110.44.115.173",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Nepal",
+    "country_code": "NP",
+    "region": "Bagmati Pradesh",
+    "region_code": "",
+    "city": "Kathmandu",
+    "latitude": 27.7172453,
+    "longitude": 85.3239605,
+    "is_eu": false,
+    "postal": "46600",
+    "connection": {
+      "asn": 45650,
+      "org": "VIA NET COMMUNICATION PUBLIC LIMITED",
+      "isp": "VIA NET COMMUNICATION PUBLIC LIMITED",
+      "domain": "vianet.com.np"
+    }
+  },
+  {
+    "proxy": "http://43.245.85.46:808",
+    "tested_at": "2026-02-15T04:19:54Z",
+    "ip": "43.245.85.46",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +62,33 @@
     "is_eu": false,
     "postal": "44707",
     "connection": {
-      "asn": 38565,
-      "org": "Ncell Pty. Ltd.",
-      "isp": "Ncell Pty. Ltd.",
-      "domain": "ncell.com.np"
+      "asn": 45650,
+      "org": "VIA NET COMMUNICATION PUBLIC LIMITED",
+      "isp": "VIA NET COMMUNICATION PUBLIC LIMITED",
+      "domain": "vianet.com.np"
+    }
+  },
+  {
+    "proxy": "http://202.166.217.188:2121",
+    "tested_at": "2026-02-15T04:20:05Z",
+    "ip": "202.166.217.188",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Nepal",
+    "country_code": "NP",
+    "region": "Bagmati Pradesh",
+    "region_code": "",
+    "city": "Kathmandu",
+    "latitude": 27.7172453,
+    "longitude": 85.3239605,
+    "is_eu": false,
+    "postal": "46600",
+    "connection": {
+      "asn": 17501,
+      "org": "Assigned by Kathmandu, Jawalakhel",
+      "isp": "Worldlink Communications",
+      "domain": "worldlink.com.np"
     }
   }
 ]
