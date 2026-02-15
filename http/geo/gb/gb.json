@@ -1,76 +1,7 @@
 [
   {
-    "proxy": "http://212.110.188.201:34408",
-    "tested_at": "2026-02-15T05:22:24Z",
-    "ip": "212.110.188.201",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "York",
-    "latitude": 53.9599651,
-    "longitude": -1.0872979,
-    "is_eu": false,
-    "postal": "YO1 8SG",
-    "connection": {
-      "asn": 35425,
-      "org": "Bytemark Services",
-      "isp": "IOMART MANAGED SERVICES LIMITED",
-      "domain": "rapidswitch.com"
-    }
-  },
-  {
-    "proxy": "http://62.3.71.255:8118",
-    "tested_at": "2026-02-15T05:22:53Z",
-    "ip": "216.169.132.18",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "Manchester",
-    "latitude": 53.4807593,
-    "longitude": -2.2426305,
-    "is_eu": false,
-    "postal": "M2 3FU",
-    "connection": {
-      "asn": 62240,
-      "org": "NETPR MAN CV",
-      "isp": "Clouvider Limited",
-      "domain": "clouvider.com"
-    }
-  },
-  {
-    "proxy": "http://212.110.188.196:34403",
-    "tested_at": "2026-02-15T05:22:57Z",
-    "ip": "212.110.188.196",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "England",
-    "region_code": "ENG",
-    "city": "York",
-    "latitude": 53.9599651,
-    "longitude": -1.0872979,
-    "is_eu": false,
-    "postal": "YO1 8SG",
-    "connection": {
-      "asn": 35425,
-      "org": "Bytemark Services",
-      "isp": "IOMART MANAGED SERVICES LIMITED",
-      "domain": "rapidswitch.com"
-    }
-  },
-  {
     "proxy": "http://37.27.180.250:2081",
-    "tested_at": "2026-02-15T05:22:58Z",
+    "tested_at": "2026-02-15T05:53:36Z",
     "ip": "141.98.101.182",
     "success": true,
     "type": "IPv4",
@@ -89,6 +20,29 @@
       "org": "M LTD Manchester Infrastructure",
       "isp": "M Europe SRL",
       "domain": "m247.com"
+    }
+  },
+  {
+    "proxy": "http://212.110.188.213:34411",
+    "tested_at": "2026-02-15T05:53:55Z",
+    "ip": "212.110.188.213",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "England",
+    "region_code": "ENG",
+    "city": "York",
+    "latitude": 53.9599651,
+    "longitude": -1.0872979,
+    "is_eu": false,
+    "postal": "YO1 8SG",
+    "connection": {
+      "asn": 35425,
+      "org": "Bytemark Services",
+      "isp": "IOMART MANAGED SERVICES LIMITED",
+      "domain": "rapidswitch.com"
     }
   }
 ]

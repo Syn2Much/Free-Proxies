@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://45.4.0.61:999",
-    "tested_at": "2026-02-15T05:22:22Z",
-    "ip": "45.4.3.105",
+    "proxy": "http://38.3.162.129:999",
+    "tested_at": "2026-02-15T05:53:33Z",
+    "ip": "38.3.162.130",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -10,91 +10,45 @@
     "country_code": "CL",
     "region": "Santiago Metropolitan Region",
     "region_code": "",
-    "city": "San José de Tango",
-    "latitude": -33.616667,
-    "longitude": -70.8,
+    "city": "Puente Alto",
+    "latitude": -33.6186082,
+    "longitude": -70.5906057,
     "is_eu": false,
-    "postal": "971 0000",
+    "postal": "815 0000",
     "connection": {
-      "asn": 265662,
-      "org": "TLINK SPA",
-      "isp": "TLINK SPA",
-      "domain": "tlink.cl"
-    }
-  },
-  {
-    "proxy": "http://190.153.237.6:37453",
-    "tested_at": "2026-02-15T05:22:33Z",
-    "ip": "190.153.237.5",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
-    "is_eu": false,
-    "postal": "832 0202",
-    "connection": {
-      "asn": 14259,
-      "org": "Gtd Internet S.A.",
-      "isp": "Gtd Internet S.A.",
-      "domain": "gtdinternet.com"
-    }
-  },
-  {
-    "proxy": "http://170.233.192.225:999",
-    "tested_at": "2026-02-15T05:22:44Z",
-    "ip": "170.233.192.231",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
-    "is_eu": false,
-    "postal": "832 0202",
-    "connection": {
-      "asn": 52510,
-      "org": "MI INTERNET SPA",
-      "isp": "MI INTERNET SPA",
-      "domain": "miinternet.cl"
-    }
-  },
-  {
-    "proxy": "http://38.7.195.53:999",
-    "tested_at": "2026-02-15T05:22:46Z",
-    "ip": "38.7.195.49",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
-    "is_eu": false,
-    "postal": "832 0202",
-    "connection": {
-      "asn": 263702,
+      "asn": 274025,
       "org": "Cogent Communications",
-      "isp": "GRUPO ZGH SPA",
-      "domain": "zglobalhost.com"
+      "isp": "SERVICIOS INTEGRALES METFY TELECOM SPA",
+      "domain": "metfy.cl"
     }
   },
   {
-    "proxy": "http://38.7.195.51:999",
-    "tested_at": "2026-02-15T05:22:58Z",
-    "ip": "38.7.195.49",
+    "proxy": "http://204.199.139.36:999",
+    "tested_at": "2026-02-15T05:53:53Z",
+    "ip": "200.123.41.1",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Quinta Normal",
+    "latitude": -33.4317378,
+    "longitude": -70.6923917,
+    "is_eu": false,
+    "postal": "8500000",
+    "connection": {
+      "asn": 273237,
+      "org": "INGBELL CHILE SPA",
+      "isp": "INGBELL CHILE SPA",
+      "domain": "ingbell.cl"
+    }
+  },
+  {
+    "proxy": "http://186.67.74.52:3128",
+    "tested_at": "2026-02-15T05:54:02Z",
+    "ip": "186.67.74.52",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -108,10 +62,33 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 263702,
-      "org": "Cogent Communications",
-      "isp": "GRUPO ZGH SPA",
-      "domain": "zglobalhost.com"
+      "asn": 27651,
+      "org": "Servicio Nacional De Aduanas De Chile",
+      "isp": "ENTEL CHILE S.A.",
+      "domain": "entel.cl"
+    }
+  },
+  {
+    "proxy": "http://177.128.115.198:999",
+    "tested_at": "2026-02-15T05:54:09Z",
+    "ip": "177.128.115.195",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Melipilla",
+    "latitude": -33.6861588,
+    "longitude": -71.2166838,
+    "is_eu": false,
+    "postal": "958 0887",
+    "connection": {
+      "asn": 269988,
+      "org": "BINET NETWORKING DATA LIMITADA",
+      "isp": "BINET NETWORKING DATA LIMITADA",
+      "domain": "bnet.cl"
     }
   }
 ]

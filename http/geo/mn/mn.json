@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://202.179.2.250:8080",
-    "tested_at": "2026-02-15T05:23:05Z",
-    "ip": "202.179.2.250",
+    "proxy": "http://202.21.106.35:8080",
+    "tested_at": "2026-02-15T05:54:13Z",
+    "ip": "202.21.106.35",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "14201",
     "connection": {
-      "asn": 9934,
-      "org": "MTC NEWORK S",
-      "isp": "Mongolia Telecom",
-      "domain": "mtcone.net"
+      "asn": 9484,
+      "org": "MobiNet Customer 1",
+      "isp": "Mobinet LLC",
+      "domain": "mobinet.mn"
     }
   }
 ]

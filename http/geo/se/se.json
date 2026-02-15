@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://212.113.100.114:8089",
-    "tested_at": "2026-02-15T05:23:05Z",
-    "ip": "212.113.100.114",
+    "proxy": "http://67.43.236.19:17437",
+    "tested_at": "2026-02-15T05:54:03Z",
+    "ip": "193.203.13.250",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,10 +16,33 @@
     "is_eu": true,
     "postal": "111 29",
     "connection": {
-      "asn": 210644,
-      "org": "Aeza International LTD",
-      "isp": "AEZA INTERNATIONAL LTD",
-      "domain": "aeza.net"
+      "asn": 212238,
+      "org": "Packethub S.A.",
+      "isp": "Datacamp Limited",
+      "domain": "packethub.net"
+    }
+  },
+  {
+    "proxy": "http://193.181.35.104:8118",
+    "tested_at": "2026-02-15T05:54:19Z",
+    "ip": "193.181.35.104",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Sweden",
+    "country_code": "SE",
+    "region": "Stockholm County",
+    "region_code": "AB",
+    "city": "Stockholm",
+    "latitude": 59.3293235,
+    "longitude": 18.0685808,
+    "is_eu": true,
+    "postal": "111 29",
+    "connection": {
+      "asn": 42201,
+      "org": "Pvdatanet Ab",
+      "isp": "Pvdatanet Ab",
+      "domain": "pvdatanet.com"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://103.9.190.130:8080",
-    "tested_at": "2026-02-15T04:50:55Z",
-    "ip": "103.9.190.130",
+    "proxy": "http://36.37.155.160:8080",
+    "tested_at": "2026-02-15T05:53:46Z",
+    "ip": "36.37.155.160",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,33 @@
     "is_eu": false,
     "postal": "120603",
     "connection": {
-      "asn": 38901,
-      "org": "EZECOM CO., LTD.",
-      "isp": "EZECOM CO., LTD.",
-      "domain": "ezecom.com.kh"
+      "asn": 38623,
+      "org": "VIETTEL CAMBODIA PTE, LTD.",
+      "isp": "VIETTEL CAMBODIA PTE., LTD",
+      "domain": "metfone.com.kh"
+    }
+  },
+  {
+    "proxy": "http://49.156.44.115:8080",
+    "tested_at": "2026-02-15T05:54:04Z",
+    "ip": "49.156.44.115",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "region": "Phnom Penh",
+    "region_code": "12",
+    "city": "Phnom Phen City",
+    "latitude": 11.5448729,
+    "longitude": 104.8921668,
+    "is_eu": false,
+    "postal": "120603",
+    "connection": {
+      "asn": 24492,
+      "org": "Wicam Corporation Ltd.",
+      "isp": "Wicam Corporation Ltd.",
+      "domain": "wicam.com.kh"
     }
   }
 ]

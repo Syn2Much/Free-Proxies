@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://45.5.118.249:999",
-    "tested_at": "2026-02-15T05:22:43Z",
-    "ip": "45.5.118.249",
+    "proxy": "http://24.152.53.6:999",
+    "tested_at": "2026-02-15T05:53:45Z",
+    "ip": "24.152.53.3",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Guatemala",
     "country_code": "GT",
-    "region": "Chimaltenango",
-    "region_code": "CM",
-    "city": "San José Poaquil",
-    "latitude": 14.8173986,
-    "longitude": -90.9128192,
+    "region": "Jalapa",
+    "region_code": "JA",
+    "city": "Jalapa",
+    "latitude": 14.6325483,
+    "longitude": -89.9930052,
     "is_eu": false,
-    "postal": "04002",
+    "postal": "",
     "connection": {
-      "asn": 52468,
-      "org": "INFINITUM S.A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "infinitum.com.gt"
-    }
-  },
-  {
-    "proxy": "http://143.208.57.162:999",
-    "tested_at": "2026-02-15T05:22:54Z",
-    "ip": "143.208.57.162",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Guatemala",
-    "country_code": "GT",
-    "region": "Chimaltenango",
-    "region_code": "CM",
-    "city": "Parramos",
-    "latitude": 14.6136872,
-    "longitude": -90.8032181,
-    "is_eu": false,
-    "postal": "04014",
-    "connection": {
-      "asn": 22869,
-      "org": "COMUNICACIONES METROPOLITANAS CABLECOLOR",
-      "isp": "CABLECOLOR S.A.",
-      "domain": "cablecolor.net"
+      "asn": 269964,
+      "org": "TV CABLE UNIVERSAL S.A",
+      "isp": "TV CABLE UNIVERSAL S.A",
+      "domain": "vosguatemala.com"
     }
   }
 ]

@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://210.223.44.230:3128",
-    "tested_at": "2026-02-15T05:22:19Z",
-    "ip": "210.223.44.230",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Republic of Korea",
-    "country_code": "KR",
-    "region": "",
-    "region_code": "",
-    "city": "Seoul",
-    "latitude": 37.566535,
-    "longitude": 126.9779692,
-    "is_eu": false,
-    "postal": "04523",
-    "connection": {
-      "asn": 4766,
-      "org": "Korea Telecom",
-      "isp": "Korea Telecom",
-      "domain": "kt.com"
-    }
-  },
-  {
     "proxy": "http://8.213.151.128:3128",
-    "tested_at": "2026-02-15T05:22:45Z",
+    "tested_at": "2026-02-15T05:53:45Z",
     "ip": "8.213.151.128",
     "success": true,
     "type": "IPv4",
@@ -46,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://121.168.58.213:3128",
-    "tested_at": "2026-02-15T05:23:12Z",
-    "ip": "121.168.58.213",
+    "proxy": "http://121.168.58.144:3128",
+    "tested_at": "2026-02-15T05:53:58Z",
+    "ip": "121.168.58.144",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -61,6 +38,29 @@
     "longitude": 127.0286009,
     "is_eu": false,
     "postal": "16490",
+    "connection": {
+      "asn": 4766,
+      "org": "Korea Telecom",
+      "isp": "Korea Telecom",
+      "domain": "kt.com"
+    }
+  },
+  {
+    "proxy": "http://210.223.44.230:3128",
+    "tested_at": "2026-02-15T05:54:11Z",
+    "ip": "210.223.44.230",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "",
+    "region_code": "",
+    "city": "Seoul",
+    "latitude": 37.566535,
+    "longitude": 126.9779692,
+    "is_eu": false,
+    "postal": "04523",
     "connection": {
       "asn": 4766,
       "org": "Korea Telecom",

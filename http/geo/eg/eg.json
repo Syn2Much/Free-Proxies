@@ -1,8 +1,54 @@
 [
   {
-    "proxy": "http://197.164.101.13:1976",
-    "tested_at": "2026-02-15T05:22:30Z",
-    "ip": "197.164.101.13",
+    "proxy": "http://82.129.233.7:1976",
+    "tested_at": "2026-02-15T05:53:33Z",
+    "ip": "82.129.233.7",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Al Minufiya",
+    "region_code": "",
+    "city": "Sirs Al Layyanah",
+    "latitude": 30.4390852,
+    "longitude": 30.9671759,
+    "is_eu": false,
+    "postal": "32861",
+    "connection": {
+      "asn": 24835,
+      "org": "LOCAL ISP",
+      "isp": "Vodafone Data",
+      "domain": "rayatelecom.net"
+    }
+  },
+  {
+    "proxy": "http://196.204.83.232:1981",
+    "tested_at": "2026-02-15T05:53:45Z",
+    "ip": "196.204.83.232",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Giza",
+    "region_code": "",
+    "city": "Abo El Nomros",
+    "latitude": 29.9517097,
+    "longitude": 31.219709,
+    "is_eu": false,
+    "postal": "12911",
+    "connection": {
+      "asn": 24835,
+      "org": "Local ISP",
+      "isp": "Vodafone Data",
+      "domain": "hinet.com.eg"
+    }
+  },
+  {
+    "proxy": "http://197.164.101.12:1981",
+    "tested_at": "2026-02-15T05:53:48Z",
+    "ip": "197.164.101.12",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -23,9 +69,9 @@
     }
   },
   {
-    "proxy": "http://154.236.191.49:1981",
-    "tested_at": "2026-02-15T05:22:33Z",
-    "ip": "154.236.191.49",
+    "proxy": "http://197.164.101.12:1976",
+    "tested_at": "2026-02-15T05:53:52Z",
+    "ip": "197.164.101.12",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -33,16 +79,108 @@
     "country_code": "EG",
     "region": "Cairo",
     "region_code": "C",
-    "city": "El-Reyad",
-    "latitude": 30.6522489,
-    "longitude": 31.2299414,
+    "city": "Cairo",
+    "latitude": 30.0444196,
+    "longitude": 31.2357116,
     "is_eu": false,
-    "postal": "19519",
+    "postal": "28625",
+    "connection": {
+      "asn": 24863,
+      "org": "",
+      "isp": "Link Egypt link.net",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://197.164.101.14:1976",
+    "tested_at": "2026-02-15T05:54:18Z",
+    "ip": "197.164.101.14",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Cairo",
+    "region_code": "C",
+    "city": "Cairo",
+    "latitude": 30.0444196,
+    "longitude": 31.2357116,
+    "is_eu": false,
+    "postal": "28625",
+    "connection": {
+      "asn": 24863,
+      "org": "",
+      "isp": "Link Egypt link.net",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://217.52.247.87:1981",
+    "tested_at": "2026-02-15T05:54:18Z",
+    "ip": "217.52.247.87",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Cairo",
+    "region_code": "C",
+    "city": "Cairo",
+    "latitude": 30.0444196,
+    "longitude": 31.2357116,
+    "is_eu": false,
+    "postal": "28625",
     "connection": {
       "asn": 36992,
       "org": "Nile Online",
       "isp": "ETISALAT MISR",
       "domain": "nile-online.com"
+    }
+  },
+  {
+    "proxy": "http://41.65.236.34:1981",
+    "tested_at": "2026-02-15T05:54:23Z",
+    "ip": "41.65.236.34",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Giza",
+    "region_code": "",
+    "city": "Giza",
+    "latitude": 30.0130557,
+    "longitude": 31.2088526,
+    "is_eu": false,
+    "postal": "12510",
+    "connection": {
+      "asn": 36992,
+      "org": "Nile Online",
+      "isp": "ETISALAT MISR",
+      "domain": "nile-online.com"
+    }
+  },
+  {
+    "proxy": "http://196.204.83.237:1981",
+    "tested_at": "2026-02-15T05:54:27Z",
+    "ip": "156.207.225.90",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Egypt",
+    "country_code": "EG",
+    "region": "Giza",
+    "region_code": "",
+    "city": "Giza",
+    "latitude": 30.0130557,
+    "longitude": 31.2088526,
+    "is_eu": false,
+    "postal": "12510",
+    "connection": {
+      "asn": 8452,
+      "org": "Te Data",
+      "isp": "TE AS",
+      "domain": "afrinic.net."
     }
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "proxy": "https://47.243.181.85:28085",
-    "tested_at": "2026-02-15T05:22:20Z",
+    "tested_at": "2026-02-15T05:53:31Z",
     "ip": "47.243.181.85",
     "success": true,
     "type": "IPv4",
@@ -23,8 +23,31 @@
     }
   },
   {
+    "proxy": "https://47.243.181.85:41487",
+    "tested_at": "2026-02-15T05:53:42Z",
+    "ip": "124.217.188.75",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.372845,
+    "longitude": 114.185199,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 10118,
+      "org": "Domain Five Enterprises LTD",
+      "isp": "HGC Global Communications Limited",
+      "domain": "hthk.com"
+    }
+  },
+  {
     "proxy": "https://47.242.121.18:8443",
-    "tested_at": "2026-02-15T05:22:29Z",
+    "tested_at": "2026-02-15T05:53:51Z",
     "ip": "47.242.121.18",
     "success": true,
     "type": "IPv4",
@@ -46,54 +69,8 @@
     }
   },
   {
-    "proxy": "https://20.205.138.223:443",
-    "tested_at": "2026-02-15T05:22:50Z",
-    "ip": "20.205.138.223",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.276022,
-    "longitude": 114.1751471,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 8075,
-      "org": "Microsoft Corporation",
-      "isp": "Microsoft Corporation",
-      "domain": "microsoft.com"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41487",
-    "tested_at": "2026-02-15T05:22:51Z",
-    "ip": "58.176.128.253",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.3668502,
-    "longitude": 114.1302591,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 9269,
-      "org": "Hong Kong Broadband Network Limited",
-      "isp": "Hong Kong Broadband Network Limited",
-      "domain": "hkbn.net"
-    }
-  },
-  {
     "proxy": "https://47.240.86.21:3128",
-    "tested_at": "2026-02-15T05:23:09Z",
+    "tested_at": "2026-02-15T05:53:51Z",
     "ip": "47.240.86.21",
     "success": true,
     "type": "IPv4",
@@ -112,6 +89,29 @@
       "org": "Alibaba Cloud Hk",
       "isp": "Alibaba us Technology Co., Ltd.",
       "domain": "alibabacloud.com"
+    }
+  },
+  {
+    "proxy": "https://20.205.138.223:443",
+    "tested_at": "2026-02-15T05:54:11Z",
+    "ip": "20.205.138.223",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.276022,
+    "longitude": 114.1751471,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 8075,
+      "org": "Microsoft Corporation",
+      "isp": "Microsoft Corporation",
+      "domain": "microsoft.com"
     }
   }
 ]

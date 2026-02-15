@@ -1,25 +1,71 @@
 [
   {
-    "proxy": "http://185.65.247.133:48049",
-    "tested_at": "2026-02-15T05:22:46Z",
-    "ip": "185.65.247.133",
+    "proxy": "http://178.34.190.6:8080",
+    "tested_at": "2026-02-15T05:53:43Z",
+    "ip": "178.34.190.6",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Ukraine",
     "country_code": "UA",
-    "region": "Kyiv city",
-    "region_code": "30",
-    "city": "Kyiv",
-    "latitude": 50.4501,
-    "longitude": 30.5234,
+    "region": "Simferopol municipality council",
+    "region_code": "",
+    "city": "Simferopol",
+    "latitude": 44.952117,
+    "longitude": 34.102417,
     "is_eu": false,
-    "postal": "01001",
+    "postal": "",
     "connection": {
-      "asn": 200000,
-      "org": "Hosting Ukraine VPS Network",
-      "isp": "Hosting Ukraine LTD",
-      "domain": "ukraine.com.ua"
+      "asn": 201776,
+      "org": "Miranda media LTD",
+      "isp": "Miranda media LTD",
+      "domain": "miranda-media.ru"
+    }
+  },
+  {
+    "proxy": "http://46.185.34.136:8187",
+    "tested_at": "2026-02-15T05:53:48Z",
+    "ip": "46.185.34.136",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Rivne Oblast",
+    "region_code": "",
+    "city": "Rivne",
+    "latitude": 50.6199,
+    "longitude": 26.251617,
+    "is_eu": false,
+    "postal": "27160",
+    "connection": {
+      "asn": 15895,
+      "org": "Kyivstar Gsm",
+      "isp": "Kyivstar Pjsc",
+      "domain": "kyivstar.net"
+    }
+  },
+  {
+    "proxy": "http://77.52.187.196:18080",
+    "tested_at": "2026-02-15T05:54:13Z",
+    "ip": "77.52.187.196",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "region": "Dnipropetrovsk Oblast",
+    "region_code": "12",
+    "city": "Shyroke",
+    "latitude": 47.693307,
+    "longitude": 33.2682606,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 21497,
+      "org": "Prjsc Vf Ukraine",
+      "isp": "Prjsc Vf Ukraine",
+      "domain": "vodafone.ua"
     }
   }
 ]

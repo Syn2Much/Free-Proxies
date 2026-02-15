@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://185.186.240.9:1396",
-    "tested_at": "2026-02-15T04:51:18Z",
-    "ip": "185.186.240.9",
+    "proxy": "http://185.125.23.109:8899",
+    "tested_at": "2026-02-15T05:54:23Z",
+    "ip": "185.125.23.106",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Iran",
     "country_code": "IR",
-    "region": "Tehran Province",
-    "region_code": "23",
-    "city": "Tehran",
-    "latitude": 35.6891975,
-    "longitude": 51.3889736,
+    "region": "Hamadan Province",
+    "region_code": "13",
+    "city": "Hamedan",
+    "latitude": 34.7988575,
+    "longitude": 48.5150225,
     "is_eu": false,
-    "postal": "1317947564",
+    "postal": "",
     "connection": {
-      "asn": 203684,
-      "org": "Gostaresh Ertebat Azin Kia Company Pjsc",
-      "isp": "Imen Sanat Novin Alighapoo Private Joint Stock Company",
-      "domain": "azinkia.ir"
+      "asn": 48359,
+      "org": "Taknet Wireless Network",
+      "isp": "Hesabgar Pardaz Gharb Pjsc",
+      "domain": "taknet.ir"
     }
   }
 ]

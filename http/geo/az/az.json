@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://72.10.160.94:3559",
-    "tested_at": "2026-02-15T03:17:44Z",
-    "ip": "185.146.112.71",
+    "proxy": "http://213.154.2.210:3128",
+    "tested_at": "2026-02-15T05:53:30Z",
+    "ip": "213.154.2.210",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -11,15 +11,38 @@
     "region": "Baku",
     "region_code": "BA",
     "city": "Baku",
-    "latitude": 40.3999248,
-    "longitude": 49.9789212,
+    "latitude": 40.4092617,
+    "longitude": 49.8670924,
     "is_eu": false,
     "postal": "AZ 1009",
     "connection": {
-      "asn": 57293,
-      "org": "AG TELECOM FTTB",
-      "isp": "AG Telekom Mmc.",
-      "domain": "katv1.az"
+      "asn": 28787,
+      "org": "Baku Telephone Communication LLC",
+      "isp": "Aztelekom LLC",
+      "domain": "aztelekom.az"
+    }
+  },
+  {
+    "proxy": "http://5.134.48.59:8080",
+    "tested_at": "2026-02-15T05:54:04Z",
+    "ip": "5.134.48.59",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Azerbaijan",
+    "country_code": "AZ",
+    "region": "Baku",
+    "region_code": "BA",
+    "city": "Baku",
+    "latitude": 40.4092617,
+    "longitude": 49.8670924,
+    "is_eu": false,
+    "postal": "AZ 1009",
+    "connection": {
+      "asn": 39232,
+      "org": "SUPERONLAYN LTD",
+      "isp": "Uninet LLC",
+      "domain": "superonline.az"
     }
   }
 ]
