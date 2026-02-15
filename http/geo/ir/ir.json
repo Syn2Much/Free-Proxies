@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://81.12.106.158:8080",
-    "tested_at": "2026-02-15T03:49:06Z",
-    "ip": "81.12.106.158",
+    "proxy": "http://185.186.240.9:1396",
+    "tested_at": "2026-02-15T04:51:18Z",
+    "ip": "185.186.240.9",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Iran",
     "country_code": "IR",
-    "region": "Khuzestan Province",
-    "region_code": "06",
-    "city": "دهستان شهیدمدرس",
-    "latitude": 31.7118865,
-    "longitude": 49.1182927,
+    "region": "Tehran Province",
+    "region_code": "23",
+    "city": "Tehran",
+    "latitude": 35.6891975,
+    "longitude": 51.3889736,
     "is_eu": false,
-    "postal": "",
+    "postal": "1317947564",
     "connection": {
-      "asn": 42337,
-      "org": "RESPINA Networks",
-      "isp": "Respina Networks Beyond Pjsc",
-      "domain": "sinet.ir"
+      "asn": 203684,
+      "org": "Gostaresh Ertebat Azin Kia Company Pjsc",
+      "isp": "Imen Sanat Novin Alighapoo Private Joint Stock Company",
+      "domain": "azinkia.ir"
     }
   }
 ]

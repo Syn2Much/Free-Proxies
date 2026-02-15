@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://192.203.0.166:999",
-    "tested_at": "2026-02-15T04:19:44Z",
-    "ip": "192.203.0.166",
+    "proxy": "http://23.138.88.96:999",
+    "tested_at": "2026-02-15T04:51:07Z",
+    "ip": "23.138.88.97",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,22 +10,22 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "Fajardo",
-    "latitude": 18.3257869,
-    "longitude": -65.6523838,
+    "city": "Adjuntas",
+    "latitude": 18.1627363,
+    "longitude": -66.7221187,
     "is_eu": false,
-    "postal": "00738-4805",
+    "postal": "00601",
     "connection": {
-      "asn": 63393,
-      "org": "BOOM NET",
-      "isp": "BOOM NET",
-      "domain": "boomsolutionspr.com"
+      "asn": 400354,
+      "org": "ALPHANET CORP",
+      "isp": "ALPHANET CORP",
+      "domain": "alphanetwireless.net"
     }
   },
   {
-    "proxy": "http://72.10.164.178:1215",
-    "tested_at": "2026-02-15T04:20:22Z",
-    "ip": "24.41.236.83",
+    "proxy": "http://198.52.243.3:9999",
+    "tested_at": "2026-02-15T04:51:53Z",
+    "ip": "198.52.243.174",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -33,16 +33,16 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "Pájaros",
-    "latitude": 18.360759,
-    "longitude": -66.2218425,
+    "city": "Humacao",
+    "latitude": 18.1496828,
+    "longitude": -65.8273847,
     "is_eu": false,
-    "postal": "00958",
+    "postal": "00792",
     "connection": {
-      "asn": 14638,
-      "org": "Liberty Communications of Puerto Rico LLC",
-      "isp": "Liberty Communications of Puerto Rico LLC",
-      "domain": "libertypr.com"
+      "asn": 401013,
+      "org": "BNET",
+      "isp": "BNET",
+      "domain": "bnetglobal.com"
     }
   }
 ]

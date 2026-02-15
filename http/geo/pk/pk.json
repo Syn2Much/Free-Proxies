@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://103.205.178.226:8080",
-    "tested_at": "2026-02-15T03:17:06Z",
-    "ip": "103.205.178.226",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Pakistan",
-    "country_code": "PK",
-    "region": "Sindh",
-    "region_code": "SD",
-    "city": "Karachi",
-    "latitude": 24.8614622,
-    "longitude": 67.0099388,
-    "is_eu": false,
-    "postal": "74400",
-    "connection": {
-      "asn": 38713,
-      "org": "Satcomm pvt. Ltd.",
-      "isp": "Satcomm pvt. Ltd.",
-      "domain": "satcomm.pk"
-    }
-  },
-  {
-    "proxy": "http://103.153.39.35:8083",
-    "tested_at": "2026-02-15T03:17:41Z",
-    "ip": "103.153.39.35",
+    "proxy": "http://103.198.154.196:8080",
+    "tested_at": "2026-02-15T04:51:50Z",
+    "ip": "103.198.154.196",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -33,39 +10,16 @@
     "country_code": "PK",
     "region": "Punjab",
     "region_code": "PB",
-    "city": "Burewala",
-    "latitude": 30.1592839,
-    "longitude": 72.694262,
+    "city": "Lahore",
+    "latitude": 31.5546061,
+    "longitude": 74.3571581,
     "is_eu": false,
-    "postal": "78646",
+    "postal": "54000",
     "connection": {
-      "asn": 140900,
-      "org": "Getlinks smc private Limited Market",
-      "isp": "Getlinks smc private Limited",
-      "domain": "getlinks.net.pk"
-    }
-  },
-  {
-    "proxy": "http://115.42.67.186:8080",
-    "tested_at": "2026-02-15T03:17:48Z",
-    "ip": "115.42.67.186",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Pakistan",
-    "country_code": "PK",
-    "region": "Balochistan",
-    "region_code": "BA",
-    "city": "Gaddani",
-    "latitude": 25.0861084,
-    "longitude": 66.7307796,
-    "is_eu": false,
-    "postal": "90300",
-    "connection": {
-      "asn": 132165,
-      "org": "Connect Communication",
-      "isp": "Connect Communication",
-      "domain": "connect.net.pk"
+      "asn": 151330,
+      "org": "PLAY BROADBAND PRIVATE LIMITED",
+      "isp": "PLAY BROADBAND PRIVATE LIMITED",
+      "domain": "pbb.net.pk"
     }
   }
 ]

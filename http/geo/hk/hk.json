@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://47.243.92.199:3128",
+    "tested_at": "2026-02-15T04:50:55Z",
+    "ip": "47.243.92.199",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.276022,
+    "longitude": 114.1751471,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 45102,
+      "org": "Alibaba Cloud Hk",
+      "isp": "Alibaba us Technology Co., Ltd.",
+      "domain": "alibabacloud.com"
+    }
+  },
+  {
     "proxy": "http://101.47.73.135:3128",
-    "tested_at": "2026-02-15T04:19:51Z",
+    "tested_at": "2026-02-15T04:51:08Z",
     "ip": "101.47.73.135",
     "success": true,
     "type": "IPv4",
@@ -23,32 +46,9 @@
     }
   },
   {
-    "proxy": "http://67.43.228.251:10111",
-    "tested_at": "2026-02-15T04:20:00Z",
-    "ip": "218.250.144.181",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.2799907,
-    "longitude": 114.1587983,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 4760,
-      "org": "Hong Kong Telecommunications hkt Limited Mass Internet",
-      "isp": "Pccw Ims Limited",
-      "domain": "netvigator.com"
-    }
-  },
-  {
-    "proxy": "http://67.43.228.253:12859",
-    "tested_at": "2026-02-15T04:20:05Z",
-    "ip": "218.252.153.30",
+    "proxy": "http://203.196.8.6:3128",
+    "tested_at": "2026-02-15T04:51:32Z",
+    "ip": "203.196.8.6",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -62,16 +62,39 @@
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 9908,
-      "org": "Hong Kong Cable Television Limited",
-      "isp": "Hong Kong Cable Television Limited",
-      "domain": "hkcable.com"
+      "asn": 23764,
+      "org": "Chinatelecom Next Carrying Network backbone",
+      "isp": "China Telecom Global Limited",
+      "domain": "chinatelecom.com.hk"
     }
   },
   {
-    "proxy": "http://47.243.92.199:3128",
-    "tested_at": "2026-02-15T04:20:15Z",
-    "ip": "47.243.92.199",
+    "proxy": "http://160.20.55.235:8080",
+    "tested_at": "2026-02-15T04:51:34Z",
+    "ip": "160.20.55.235",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.276022,
+    "longitude": 114.1751471,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 58411,
+      "org": "Datamax Osi Limited",
+      "isp": "Gateway Technology Development Company Limited",
+      "domain": "datamaxosi.com"
+    }
+  },
+  {
+    "proxy": "http://47.240.24.245:443",
+    "tested_at": "2026-02-15T04:51:44Z",
+    "ip": "47.240.24.245",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",

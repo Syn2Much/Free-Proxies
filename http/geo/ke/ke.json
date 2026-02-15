@@ -1,25 +1,94 @@
 [
   {
-    "proxy": "http://102.0.16.226:8080",
-    "tested_at": "2026-02-15T04:20:04Z",
-    "ip": "102.0.16.226",
+    "proxy": "http://102.211.145.37:8080",
+    "tested_at": "2026-02-15T04:50:59Z",
+    "ip": "102.211.145.37",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Kenya",
     "country_code": "KE",
-    "region": "Embu County",
-    "region_code": "06",
-    "city": "Embu",
-    "latitude": -0.5388381,
-    "longitude": 37.4596409,
+    "region": "Nairobi",
+    "region_code": "110",
+    "city": "Nairobi",
+    "latitude": -1.2920659,
+    "longitude": 36.8219462,
     "is_eu": false,
-    "postal": "60100",
+    "postal": "200",
     "connection": {
-      "asn": 327708,
-      "org": "Allocated to Airtel Kenya Mobile Broadband And Fixed Internet",
-      "isp": "Airtel Rwanda LTD",
-      "domain": "airtel.com"
+      "asn": 328490,
+      "org": "Unwired Communications",
+      "isp": "Unwired Communications Limited",
+      "domain": "unwired.co.ke"
+    }
+  },
+  {
+    "proxy": "http://102.208.166.248:8082",
+    "tested_at": "2026-02-15T04:51:36Z",
+    "ip": "102.208.166.248",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Nairobi",
+    "region_code": "110",
+    "city": "Nairobi",
+    "latitude": -1.2920659,
+    "longitude": 36.8219462,
+    "is_eu": false,
+    "postal": "200",
+    "connection": {
+      "asn": 329452,
+      "org": "Alwen Networks Co. Limited",
+      "isp": "Alwen Networks Co. Limited",
+      "domain": "alwennetworks.com"
+    }
+  },
+  {
+    "proxy": "http://41.72.213.182:8090",
+    "tested_at": "2026-02-15T04:51:41Z",
+    "ip": "41.72.213.182",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Nairobi",
+    "region_code": "110",
+    "city": "Nairobi",
+    "latitude": -1.3222736,
+    "longitude": 36.8288933,
+    "is_eu": false,
+    "postal": "200",
+    "connection": {
+      "asn": 30844,
+      "org": "Callkey Networks",
+      "isp": "Liquid Telecommunications LTD",
+      "domain": "liquidtelecom.mu"
+    }
+  },
+  {
+    "proxy": "http://41.89.225.225:3128",
+    "tested_at": "2026-02-15T04:51:48Z",
+    "ip": "41.89.225.225",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Nairobi",
+    "region_code": "110",
+    "city": "Nairobi",
+    "latitude": -1.2920659,
+    "longitude": 36.8219462,
+    "is_eu": false,
+    "postal": "200",
+    "connection": {
+      "asn": 36914,
+      "org": "Kenya Methodist University Meru Campus",
+      "isp": "Kenya Education Network",
+      "domain": "kenet.or.ke"
     }
   }
 ]

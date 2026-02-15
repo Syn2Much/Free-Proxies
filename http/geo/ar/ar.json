@@ -1,71 +1,25 @@
 [
   {
-    "proxy": "http://72.10.160.94:21263",
-    "tested_at": "2026-02-15T04:20:03Z",
-    "ip": "181.230.126.126",
+    "proxy": "http://72.10.164.178:12111",
+    "tested_at": "2026-02-15T04:51:25Z",
+    "ip": "190.229.64.40",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Argentina",
     "country_code": "AR",
-    "region": "Buenos Aires",
-    "region_code": "B",
-    "city": "Chivilcoy",
-    "latitude": -34.8969795,
-    "longitude": -60.0190731,
+    "region": "Misiónes",
+    "region_code": "N",
+    "city": "Puerto Iguazú",
+    "latitude": -25.5971635,
+    "longitude": -54.578599,
     "is_eu": false,
-    "postal": "B6620 KSB",
+    "postal": "N3370 ZAA",
     "connection": {
       "asn": 7303,
-      "org": "Telecom Argentina S.A.",
+      "org": "Apolo Gold Telecom Per",
       "isp": "Telecom Argentina S.A.",
-      "domain": "telecom.com.ar"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.93:17545",
-    "tested_at": "2026-02-15T04:20:13Z",
-    "ip": "190.112.99.123",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "La Rioja",
-    "region_code": "F",
-    "city": "La Rioja",
-    "latitude": -29.4134538,
-    "longitude": -66.8564579,
-    "is_eu": false,
-    "postal": "5300",
-    "connection": {
-      "asn": 28048,
-      "org": "Internet Para Todos Gobierno De La Rioja",
-      "isp": "Internet Para Todos Gobierno De La Rioja",
-      "domain": "internetparatodos.com.ar"
-    }
-  },
-  {
-    "proxy": "http://170.80.95.7:11211",
-    "tested_at": "2026-02-15T04:20:20Z",
-    "ip": "170.80.95.1",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Buenos Aires",
-    "region_code": "B",
-    "city": "San Carlos de Bolívar",
-    "latitude": -36.2391263,
-    "longitude": -61.1255879,
-    "is_eu": false,
-    "postal": "B6550 CGG",
-    "connection": {
-      "asn": 270089,
-      "org": "FIBRAS OPTICAS DE MAR DEL PLATA S.A.",
-      "isp": "FIBRAS OPTICAS DE MAR DEL PLATA S.A.",
-      "domain": "sectornet.com.ar"
+      "domain": ""
     }
   }
 ]

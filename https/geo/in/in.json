@@ -1,8 +1,31 @@
 [
   {
-    "proxy": "https://165.231.253.66:9443",
-    "tested_at": "2026-02-15T04:20:00Z",
-    "ip": "196.240.60.220",
+    "proxy": "https://45.114.142.178:443",
+    "tested_at": "2026-02-15T04:50:54Z",
+    "ip": "45.114.142.178",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "India",
+    "country_code": "IN",
+    "region": "Telangana",
+    "region_code": "TG",
+    "city": "Hyderabad",
+    "latitude": 17.385044,
+    "longitude": 78.486671,
+    "is_eu": false,
+    "postal": "500002",
+    "connection": {
+      "asn": 18229,
+      "org": "Psr Holdings Private Limited",
+      "isp": "CtrlS",
+      "domain": "psrholdings.in"
+    }
+  },
+  {
+    "proxy": "https://165.231.253.242:9443",
+    "tested_at": "2026-02-15T04:51:05Z",
+    "ip": "165.231.253.254",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -23,49 +46,26 @@
     }
   },
   {
-    "proxy": "https://47.243.181.85:41488",
-    "tested_at": "2026-02-15T04:20:01Z",
-    "ip": "103.119.172.135",
+    "proxy": "https://165.231.253.210:9443",
+    "tested_at": "2026-02-15T04:51:36Z",
+    "ip": "165.231.253.221",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "India",
     "country_code": "IN",
-    "region": "Maharashtra",
-    "region_code": "MH",
-    "city": "Mumbai",
-    "latitude": 19.0759837,
-    "longitude": 72.8776559,
+    "region": "Delhi",
+    "region_code": "DL",
+    "city": "New Delhi",
+    "latitude": 28.6139391,
+    "longitude": 77.2090212,
     "is_eu": false,
-    "postal": "400070",
+    "postal": "110001",
     "connection": {
-      "asn": 138296,
-      "org": "NIXI",
-      "isp": "Juweriyah Networks Private Limited",
-      "domain": "nixi.in"
-    }
-  },
-  {
-    "proxy": "https://45.114.142.178:443",
-    "tested_at": "2026-02-15T04:20:11Z",
-    "ip": "45.114.142.178",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "India",
-    "country_code": "IN",
-    "region": "Telangana",
-    "region_code": "TG",
-    "city": "Hyderabad",
-    "latitude": 17.385044,
-    "longitude": 78.486671,
-    "is_eu": false,
-    "postal": "500002",
-    "connection": {
-      "asn": 18229,
-      "org": "Psr Holdings Private Limited",
-      "isp": "CtrlS",
-      "domain": "psrholdings.in"
+      "asn": 41564,
+      "org": "Fiber Grid",
+      "isp": "Orion Network Limited",
+      "domain": "fibergrid.co.za"
     }
   }
 ]

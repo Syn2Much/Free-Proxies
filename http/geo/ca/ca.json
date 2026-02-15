@@ -1,100 +1,8 @@
 [
   {
-    "proxy": "http://67.43.236.22:30315",
-    "tested_at": "2026-02-15T04:19:40Z",
-    "ip": "24.65.101.251",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Alberta",
-    "region_code": "AB",
-    "city": "Edmonton",
-    "latitude": 53.544389,
-    "longitude": -113.4909267,
-    "is_eu": false,
-    "postal": "T5J 0G8",
-    "connection": {
-      "asn": 6327,
-      "org": "Shaw Communications",
-      "isp": "Shaw Communications",
-      "domain": "shaw.ca"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.171:13367",
-    "tested_at": "2026-02-15T04:19:40Z",
-    "ip": "50.68.35.52",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "British Columbia",
-    "region_code": "BC",
-    "city": "Vancouver",
-    "latitude": 49.2827291,
-    "longitude": -123.1207375,
-    "is_eu": false,
-    "postal": "98661",
-    "connection": {
-      "asn": 6327,
-      "org": "Shaw Communications",
-      "isp": "Shaw Communications",
-      "domain": "shaw.ca"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.90:24795",
-    "tested_at": "2026-02-15T04:19:46Z",
-    "ip": "75.159.130.49",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Alberta",
-    "region_code": "AB",
-    "city": "Edmonton",
-    "latitude": 53.5458806,
-    "longitude": -113.4095919,
-    "is_eu": false,
-    "postal": "T5J 0G8",
-    "connection": {
-      "asn": 852,
-      "org": "TELUS DSL SPGVAB01",
-      "isp": "Telus Communications Inc.",
-      "domain": "telus.com"
-    }
-  },
-  {
-    "proxy": "http://188.227.196.62:1080",
-    "tested_at": "2026-02-15T04:19:57Z",
-    "ip": "188.227.196.62",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Québec",
-    "region_code": "QC",
-    "city": "Québec City",
-    "latitude": 46.8138783,
-    "longitude": -71.2079809,
-    "is_eu": false,
-    "postal": "G1R 4S9",
-    "connection": {
-      "asn": 400897,
-      "org": "PetroSky",
-      "isp": "PETROSKY CLOUD LLC",
-      "domain": "abuseradar.com"
-    }
-  },
-  {
-    "proxy": "http://85.208.108.43:2094",
-    "tested_at": "2026-02-15T04:20:10Z",
-    "ip": "85.208.108.43",
+    "proxy": "http://143.198.37.6:8888",
+    "tested_at": "2026-02-15T04:51:07Z",
+    "ip": "178.249.214.14",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -108,15 +16,38 @@
     "is_eu": false,
     "postal": "M5H 2N2",
     "connection": {
-      "asn": 53363,
-      "org": "Worktitans B.V.",
-      "isp": "TANGRAM CANADA INC.",
-      "domain": "the.hosting"
+      "asn": 212238,
+      "org": "CDNEXT TOR",
+      "isp": "Datacamp Limited",
+      "domain": "datacamp.co.uk"
+    }
+  },
+  {
+    "proxy": "http://68.183.193.91:3128",
+    "tested_at": "2026-02-15T04:51:12Z",
+    "ip": "68.183.193.91",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
+    "is_eu": false,
+    "postal": "M5H 2N2",
+    "connection": {
+      "asn": 14061,
+      "org": "Digitalocean, LLC",
+      "isp": "Digitalocean, LLC",
+      "domain": "digitalocean.com"
     }
   },
   {
     "proxy": "http://72.10.160.173:12875",
-    "tested_at": "2026-02-15T04:20:21Z",
+    "tested_at": "2026-02-15T04:51:29Z",
     "ip": "142.181.129.95",
     "success": true,
     "type": "IPv4",

@@ -1,77 +1,8 @@
 [
   {
-    "proxy": "http://72.10.160.174:25811",
-    "tested_at": "2026-02-15T04:19:41Z",
-    "ip": "186.105.248.145",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Maipú",
-    "latitude": -33.5209155,
-    "longitude": -70.7631335,
-    "is_eu": false,
-    "postal": "925 1542",
-    "connection": {
-      "asn": 7418,
-      "org": "TELEF NICA CHILE S.A.",
-      "isp": "TELEF NICA CHILE S.A.",
-      "domain": "telefonicachile.cl"
-    }
-  },
-  {
-    "proxy": "http://179.57.171.227:999",
-    "tested_at": "2026-02-15T04:19:45Z",
-    "ip": "179.57.171.227",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Araucanía Region",
-    "region_code": "AR",
-    "city": "Villarrica",
-    "latitude": -39.2820124,
-    "longitude": -72.2307798,
-    "is_eu": false,
-    "postal": "493 0611",
-    "connection": {
-      "asn": 14117,
-      "org": "Telefonica del Sur S.A",
-      "isp": "Telefonica Del Sur S.A.",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://45.180.26.1:999",
-    "tested_at": "2026-02-15T04:19:52Z",
-    "ip": "201.236.21.58",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Valparaiso Region",
-    "region_code": "VS",
-    "city": "La Calera",
-    "latitude": -32.7877958,
-    "longitude": -71.2039963,
-    "is_eu": false,
-    "postal": "229 0000",
-    "connection": {
-      "asn": 15311,
-      "org": "MONTALVA PROPIEDADES LTDA",
-      "isp": "TELEFONICA EMPRESAS CHILE SA",
-      "domain": "movistar.cl"
-    }
-  },
-  {
-    "proxy": "http://204.199.140.25:999",
-    "tested_at": "2026-02-15T04:20:09Z",
-    "ip": "204.199.140.26",
+    "proxy": "http://38.7.195.55:999",
+    "tested_at": "2026-02-15T04:50:57Z",
+    "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -85,16 +16,16 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 273237,
-      "org": "INGBELL CHILE SPA",
-      "isp": "INGBELL CHILE SPA",
-      "domain": "ingbell.cl"
+      "asn": 263702,
+      "org": "Cogent Communications",
+      "isp": "GRUPO ZGH SPA",
+      "domain": "zglobalhost.com"
     }
   },
   {
-    "proxy": "http://72.10.160.90:7757",
-    "tested_at": "2026-02-15T04:20:11Z",
-    "ip": "181.42.17.206",
+    "proxy": "http://38.7.195.52:999",
+    "tested_at": "2026-02-15T04:51:40Z",
+    "ip": "38.7.195.49",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -108,79 +39,10 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 27651,
-      "org": "ENTEL CHILE S.A.",
-      "isp": "ENTEL CHILE S.A.",
-      "domain": "entel.cl"
-    }
-  },
-  {
-    "proxy": "http://186.67.74.52:3128",
-    "tested_at": "2026-02-15T04:20:15Z",
-    "ip": "186.67.74.52",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Santiago",
-    "latitude": -33.4378305,
-    "longitude": -70.6504492,
-    "is_eu": false,
-    "postal": "832 0202",
-    "connection": {
-      "asn": 27651,
-      "org": "Servicio Nacional De Aduanas De Chile",
-      "isp": "ENTEL CHILE S.A.",
-      "domain": "entel.cl"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.172:25811",
-    "tested_at": "2026-02-15T04:20:25Z",
-    "ip": "186.105.248.145",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "Maipú",
-    "latitude": -33.5209155,
-    "longitude": -70.7631335,
-    "is_eu": false,
-    "postal": "925 1542",
-    "connection": {
-      "asn": 7418,
-      "org": "TELEF NICA CHILE S.A.",
-      "isp": "TELEF NICA CHILE S.A.",
-      "domain": "telefonicachile.cl"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.170:27463",
-    "tested_at": "2026-02-15T04:20:29Z",
-    "ip": "190.114.36.49",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Chile",
-    "country_code": "CL",
-    "region": "Santiago Metropolitan Region",
-    "region_code": "",
-    "city": "La Pintana",
-    "latitude": -33.5855661,
-    "longitude": -70.6285838,
-    "is_eu": false,
-    "postal": "815 0513",
-    "connection": {
-      "asn": 27901,
-      "org": "Pacifico Cable Spa.",
-      "isp": "Pacifico Cable Spa.",
-      "domain": "mundopacifico.cl"
+      "asn": 263702,
+      "org": "Cogent Communications",
+      "isp": "GRUPO ZGH SPA",
+      "domain": "zglobalhost.com"
     }
   }
 ]
