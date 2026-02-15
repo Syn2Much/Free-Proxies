@@ -1,8 +1,123 @@
 [
   {
-    "proxy": "http://37.238.40.153:8080",
-    "tested_at": "2026-02-15T03:17:32Z",
-    "ip": "37.238.45.74",
+    "proxy": "http://46.161.195.133:8080",
+    "tested_at": "2026-02-15T03:48:17Z",
+    "ip": "46.161.195.133",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Iraqi Kurdistan Region",
+    "region_code": "",
+    "city": "Duhok",
+    "latitude": 36.8632107,
+    "longitude": 42.9884805,
+    "is_eu": false,
+    "postal": "42001",
+    "connection": {
+      "asn": 205254,
+      "org": "Valeen for General Trading, Internet Services And Information Technology LTD",
+      "isp": "Valeen for General Trading, Internet Services And Information Technology LTD",
+      "domain": "valeenonline.com"
+    }
+  },
+  {
+    "proxy": "http://159.255.163.153:47193",
+    "tested_at": "2026-02-15T03:48:17Z",
+    "ip": "188.72.43.161",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Erbil Governorate",
+    "region_code": "AR",
+    "city": "Xebat",
+    "latitude": 36.278,
+    "longitude": 43.6707,
+    "is_eu": false,
+    "postal": "28500",
+    "connection": {
+      "asn": 213098,
+      "org": "Pirmam For Information Technology Services LTD",
+      "isp": "Pirmam For Information Technology Services LTD",
+      "domain": "pirmam.com"
+    }
+  },
+  {
+    "proxy": "http://62.201.217.194:8080",
+    "tested_at": "2026-02-15T03:48:18Z",
+    "ip": "62.201.217.194",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Sulaimaniya Governorate",
+    "region_code": "SU",
+    "city": "Kalar",
+    "latitude": 34.6307795,
+    "longitude": 45.3275531,
+    "is_eu": false,
+    "postal": "46021",
+    "connection": {
+      "asn": 44217,
+      "org": "Sulaymaniyah Users",
+      "isp": "Iq Networks for Data And Internet Services LTD",
+      "domain": "iq.email"
+    }
+  },
+  {
+    "proxy": "http://109.127.82.4:8085",
+    "tested_at": "2026-02-15T03:48:43Z",
+    "ip": "109.127.82.4",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Erbil Governorate",
+    "region_code": "AR",
+    "city": "Erbil",
+    "latitude": 36.2062933,
+    "longitude": 44.0088697,
+    "is_eu": false,
+    "postal": "44001",
+    "connection": {
+      "asn": 21277,
+      "org": "Allai Newroz Telecom",
+      "isp": "Allay Nawroz Telecom Company for Communication ltd.",
+      "domain": "newroztelecom.com"
+    }
+  },
+  {
+    "proxy": "http://185.138.120.109:8080",
+    "tested_at": "2026-02-15T03:48:45Z",
+    "ip": "93.180.217.20",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "region": "Karbala",
+    "region_code": "KA",
+    "city": "Karbala",
+    "latitude": 32.6068464,
+    "longitude": 44.0103922,
+    "is_eu": false,
+    "postal": "56001",
+    "connection": {
+      "asn": 203217,
+      "org": "Horizon Scope Mobile Telecom Wll",
+      "isp": "Horizon Scope Mobile Telecom Wll",
+      "domain": "horizonscope.com"
+    }
+  },
+  {
+    "proxy": "http://37.238.63.49:8080",
+    "tested_at": "2026-02-15T03:48:47Z",
+    "ip": "37.237.227.211",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -17,7 +132,7 @@
     "postal": "10001",
     "connection": {
       "asn": 199739,
-      "org": "Earthlink Ltd. Communications internet Services",
+      "org": "Earthlink Ltd. Communications internet Services orange",
       "isp": "Earthlink Telecommunications Equipment Trading Services Dmcc",
       "domain": "earthlink.iq"
     }

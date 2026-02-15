@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://72.10.160.93:27345",
-    "tested_at": "2026-02-15T03:17:14Z",
-    "ip": "186.189.99.207",
+    "proxy": "http://186.67.74.52:3128",
+    "tested_at": "2026-02-15T03:48:18Z",
+    "ip": "186.67.74.52",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -16,16 +16,131 @@
     "is_eu": false,
     "postal": "832 0202",
     "connection": {
-      "asn": 52341,
-      "org": "WOM S.A.",
-      "isp": "WOM S.A.",
-      "domain": "wom.cl"
+      "asn": 27651,
+      "org": "Servicio Nacional De Aduanas De Chile",
+      "isp": "ENTEL CHILE S.A.",
+      "domain": "entel.cl"
     }
   },
   {
-    "proxy": "http://72.10.160.90:7757",
-    "tested_at": "2026-02-15T03:17:15Z",
-    "ip": "181.42.17.206",
+    "proxy": "http://167.249.29.218:999",
+    "tested_at": "2026-02-15T03:48:18Z",
+    "ip": "167.249.29.218",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 64139,
+      "org": "GRUPO METROWAN TELECOM SPA",
+      "isp": "GRUPO METROWAN TELECOM SPA",
+      "domain": "metrowan.cl"
+    }
+  },
+  {
+    "proxy": "http://190.153.237.6:37453",
+    "tested_at": "2026-02-15T03:48:35Z",
+    "ip": "190.153.237.5",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 14259,
+      "org": "Gtd Internet S.A.",
+      "isp": "Gtd Internet S.A.",
+      "domain": "gtdinternet.com"
+    }
+  },
+  {
+    "proxy": "http://204.199.139.75:999",
+    "tested_at": "2026-02-15T03:48:45Z",
+    "ip": "204.199.139.75",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Isla de Maipo",
+    "latitude": -33.7464562,
+    "longitude": -70.9,
+    "is_eu": false,
+    "postal": "979 0152",
+    "connection": {
+      "asn": 273237,
+      "org": "INGBELL CHILE SPA",
+      "isp": "INGBELL CHILE SPA",
+      "domain": "ingbell.cl"
+    }
+  },
+  {
+    "proxy": "http://200.95.184.50:999",
+    "tested_at": "2026-02-15T03:48:47Z",
+    "ip": "200.95.184.205",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Ñuble Region",
+    "region_code": "NB",
+    "city": "Chillán",
+    "latitude": -36.6062618,
+    "longitude": -72.1023351,
+    "is_eu": false,
+    "postal": "3780000",
+    "connection": {
+      "asn": 264859,
+      "org": "Comunicaciones Cablevision Ltda.",
+      "isp": "Comunicaciones Cablevision Ltda.",
+      "domain": "wmnet.cl"
+    }
+  },
+  {
+    "proxy": "http://204.199.140.17:999",
+    "tested_at": "2026-02-15T03:48:52Z",
+    "ip": "204.199.140.16",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Chile",
+    "country_code": "CL",
+    "region": "Santiago Metropolitan Region",
+    "region_code": "",
+    "city": "Santiago",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492,
+    "is_eu": false,
+    "postal": "832 0202",
+    "connection": {
+      "asn": 273237,
+      "org": "INGBELL CHILE SPA",
+      "isp": "INGBELL CHILE SPA",
+      "domain": "ingbell.cl"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.90:15605",
+    "tested_at": "2026-02-15T03:49:04Z",
+    "ip": "181.43.124.110",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -46,9 +161,9 @@
     }
   },
   {
-    "proxy": "http://72.10.160.90:15605",
-    "tested_at": "2026-02-15T03:17:37Z",
-    "ip": "181.43.124.110",
+    "proxy": "http://72.10.160.90:7757",
+    "tested_at": "2026-02-15T03:49:05Z",
+    "ip": "181.42.17.206",
     "success": true,
     "type": "IPv4",
     "continent": "South America",

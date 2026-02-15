@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://85.9.87.26:8080",
-    "tested_at": "2026-02-15T02:14:35Z",
-    "ip": "85.9.87.26",
+    "proxy": "http://81.12.106.158:8080",
+    "tested_at": "2026-02-15T03:49:06Z",
+    "ip": "81.12.106.158",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Iran",
     "country_code": "IR",
-    "region": "Tehran Province",
-    "region_code": "23",
-    "city": "Tehran",
-    "latitude": 35.6891975,
-    "longitude": 51.3889736,
+    "region": "Khuzestan Province",
+    "region_code": "06",
+    "city": "دهستان شهیدمدرس",
+    "latitude": 31.7118865,
+    "longitude": 49.1182927,
     "is_eu": false,
-    "postal": "1317947564",
+    "postal": "",
     "connection": {
-      "asn": 47376,
-      "org": "Pishgaman",
-      "isp": "Web Gostaran Bandar Company pjs",
-      "domain": "pishgaman.net"
+      "asn": 42337,
+      "org": "RESPINA Networks",
+      "isp": "Respina Networks Beyond Pjsc",
+      "domain": "sinet.ir"
     }
   }
 ]

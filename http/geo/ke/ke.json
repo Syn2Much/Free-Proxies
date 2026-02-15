@@ -1,31 +1,31 @@
 [
   {
-    "proxy": "http://102.213.248.38:8080",
-    "tested_at": "2026-02-15T03:17:29Z",
-    "ip": "102.213.248.38",
+    "proxy": "http://102.207.191.68:8080",
+    "tested_at": "2026-02-15T03:48:44Z",
+    "ip": "102.207.191.68",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Kenya",
     "country_code": "KE",
-    "region": "Nairobi",
-    "region_code": "110",
-    "city": "Nairobi",
-    "latitude": -1.2920659,
-    "longitude": 36.8219462,
+    "region": "Kitui",
+    "region_code": "18",
+    "city": "Mwingi",
+    "latitude": -0.937411,
+    "longitude": 38.0605006,
     "is_eu": false,
-    "postal": "200",
+    "postal": "90400",
     "connection": {
-      "asn": 329192,
-      "org": "Optinode Group LLP",
-      "isp": "Optinode Group LLP",
-      "domain": "optinode.co.ke"
+      "asn": 329497,
+      "org": "Customer Assignment Public Ipv Addresses for Subscriber customer Devices.",
+      "isp": "Avitech Solutions LTD",
+      "domain": "avitechsolutionsltd.com"
     }
   },
   {
-    "proxy": "http://197.155.64.226:8090",
-    "tested_at": "2026-02-15T03:17:52Z",
-    "ip": "197.155.64.226",
+    "proxy": "http://102.209.18.28:8080",
+    "tested_at": "2026-02-15T03:48:46Z",
+    "ip": "38.226.202.42",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -34,15 +34,15 @@
     "region": "Nairobi",
     "region_code": "110",
     "city": "Nairobi",
-    "latitude": -1.2920659,
-    "longitude": 36.8219462,
+    "latitude": -1.3237958,
+    "longitude": 36.8808553,
     "is_eu": false,
     "postal": "200",
     "connection": {
-      "asn": 30844,
-      "org": "Pioneer Hi Bred",
-      "isp": "Liquid Telecommunications LTD",
-      "domain": "liquidtelecom.mu"
+      "asn": 329437,
+      "org": "VENNET SOLUTIONS LIMITED",
+      "isp": "VENNET SOLUTIONS LIMITED",
+      "domain": "vennet.co.ke"
     }
   }
 ]

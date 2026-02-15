@@ -1,25 +1,94 @@
 [
   {
-    "proxy": "http://38.159.232.109:999",
-    "tested_at": "2026-02-15T03:17:12Z",
-    "ip": "24.152.49.188",
+    "proxy": "http://200.125.170.108:999",
+    "tested_at": "2026-02-15T03:48:14Z",
+    "ip": "200.125.170.108",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Dominican Republic",
     "country_code": "DO",
-    "region": "La Vega",
-    "region_code": "13",
-    "city": "La Vega",
-    "latitude": 19.2152609,
-    "longitude": -70.5205436,
+    "region": "Monte Plata",
+    "region_code": "29",
+    "city": "Mejía de Navarrete",
+    "latitude": 18.735693,
+    "longitude": -70.162651,
     "is_eu": false,
-    "postal": "41000",
+    "postal": "",
     "connection": {
-      "asn": 269965,
-      "org": "LIGHTWAVE S.R.L",
-      "isp": "LIGHTWAVE S.R.L",
-      "domain": "lightwave.com.do"
+      "asn": 269931,
+      "org": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
+      "isp": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
+      "domain": "wmservice.com.do"
+    }
+  },
+  {
+    "proxy": "http://38.156.14.34:999",
+    "tested_at": "2026-02-15T03:48:20Z",
+    "ip": "38.156.14.34",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Santo Domingo",
+    "region_code": "32",
+    "city": "Santo Domingo Este",
+    "latitude": 18.505583,
+    "longitude": -69.8001762,
+    "is_eu": false,
+    "postal": "11507",
+    "connection": {
+      "asn": 273224,
+      "org": "Cogent Communications",
+      "isp": "BRAVIC SRL",
+      "domain": "cismatechnology.com"
+    }
+  },
+  {
+    "proxy": "http://38.156.23.38:999",
+    "tested_at": "2026-02-15T03:48:21Z",
+    "ip": "38.156.23.35",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Puerto Plata",
+    "region_code": "18",
+    "city": "Puerto Plata",
+    "latitude": 19.7807686,
+    "longitude": -70.6871091,
+    "is_eu": false,
+    "postal": "57000",
+    "connection": {
+      "asn": 64134,
+      "org": "VISNETWORK SRL",
+      "isp": "VISNETWORK SRL",
+      "domain": "visnetworkrd.com"
+    }
+  },
+  {
+    "proxy": "http://190.110.36.195:999",
+    "tested_at": "2026-02-15T03:48:46Z",
+    "ip": "190.110.36.192",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "region": "Santiago",
+    "region_code": "25",
+    "city": "Santiago De Los Caballeros",
+    "latitude": 19.4791963,
+    "longitude": -70.6930568,
+    "is_eu": false,
+    "postal": "51000",
+    "connection": {
+      "asn": 271968,
+      "org": "CENTRIC MOBILITY CEMO , S.R.L",
+      "isp": "CENTRIC MOBILITY CEMO , S.R.L",
+      "domain": "cemo.com.do"
     }
   }
 ]

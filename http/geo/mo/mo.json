@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://67.43.236.19:1825",
+    "tested_at": "2026-02-15T03:49:05Z",
+    "ip": "60.246.36.51",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Macao",
+    "country_code": "MO",
+    "region": "Macau",
+    "region_code": "",
+    "city": "Estrada da Ponta da Cabrita",
+    "latitude": 22.1595214,
+    "longitude": 113.5624706,
+    "is_eu": false,
+    "postal": "999078",
+    "connection": {
+      "asn": 4609,
+      "org": "Companhia De Telecomunicacoes De Macau",
+      "isp": "Companhia De Telecomunicacoes De Macau",
+      "domain": "ctm.com.mo"
+    }
+  }
+]

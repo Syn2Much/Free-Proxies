@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://80.91.116.129:8081",
-    "tested_at": "2026-02-15T02:45:45Z",
-    "ip": "77.242.21.186",
+    "proxy": "http://217.24.245.58:8079",
+    "tested_at": "2026-02-15T03:48:19Z",
+    "ip": "217.24.245.58",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,16 +10,16 @@
     "country_code": "AL",
     "region": "Central Albania",
     "region_code": "",
-    "city": "Kamëz",
-    "latitude": 41.3783926,
-    "longitude": 19.7770261,
+    "city": "Tirana",
+    "latitude": 41.3275459,
+    "longitude": 19.8186982,
     "is_eu": false,
-    "postal": "1030",
+    "postal": "1051",
     "connection": {
-      "asn": 35047,
-      "org": "Business Static Pool",
-      "isp": "Abissnet SH.A.",
-      "domain": "abissnet.al"
+      "asn": 42313,
+      "org": "TEST1",
+      "isp": "ONE ALBANIA SH.A.",
+      "domain": "albtelecom.al"
     }
   }
 ]

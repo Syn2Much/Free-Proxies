@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://72.10.160.92:18627",
-    "tested_at": "2026-02-15T03:17:16Z",
-    "ip": "118.232.16.240",
+    "proxy": "http://67.43.228.253:13279",
+    "tested_at": "2026-02-15T03:48:17Z",
+    "ip": "111.252.192.149",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,38 +16,15 @@
     "is_eu": false,
     "postal": "500",
     "connection": {
-      "asn": 38841,
-      "org": "Kbro Co. Ltd.",
-      "isp": "Kbro Co. Ltd.",
-      "domain": "kbro.com.tw"
-    }
-  },
-  {
-    "proxy": "http://67.43.228.253:14303",
-    "tested_at": "2026-02-15T03:17:17Z",
-    "ip": "115.43.20.56",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Taiwan",
-    "country_code": "TW",
-    "region": "Taipei City",
-    "region_code": "TPQ",
-    "city": "City Hall Road",
-    "latitude": 25.035775,
-    "longitude": 121.5634503,
-    "is_eu": false,
-    "postal": "110",
-    "connection": {
-      "asn": 9416,
-      "org": "Homeplus Digital Co., Ltd.",
-      "isp": "Hoshin Multimedia Center Inc.",
-      "domain": "cns.net.tw"
+      "asn": 3462,
+      "org": "Chunghwa Telecom CO.,LTD.",
+      "isp": "Chunghwa Telecom Co., Ltd.",
+      "domain": "cht.com.tw"
     }
   },
   {
     "proxy": "http://35.234.17.221:8080",
-    "tested_at": "2026-02-15T03:17:47Z",
+    "tested_at": "2026-02-15T03:48:23Z",
     "ip": "35.234.17.221",
     "success": true,
     "type": "IPv4",

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://67.43.236.20:26559",
-    "tested_at": "2026-02-15T03:17:06Z",
-    "ip": "112.134.135.5",
+    "proxy": "http://72.10.160.94:3573",
+    "tested_at": "2026-02-15T03:48:39Z",
+    "ip": "124.43.76.220",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,39 +10,16 @@
     "country_code": "LK",
     "region": "Western Province",
     "region_code": "1",
-    "city": "Colombo",
-    "latitude": 6.9270786,
-    "longitude": 79.861243,
+    "city": "Battaramulla",
+    "latitude": 6.8979941,
+    "longitude": 79.9222869,
     "is_eu": false,
-    "postal": "83400-000",
+    "postal": "10120",
     "connection": {
       "asn": 9329,
-      "org": "ADSL DYNAMIC POOL",
+      "org": "ADSL SECTION STATIC POOL",
       "isp": "Sri Lanka Telecom LTD",
       "domain": "slt.com.lk"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:26661",
-    "tested_at": "2026-02-15T03:17:26Z",
-    "ip": "175.157.139.193",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Sri Lanka",
-    "country_code": "LK",
-    "region": "Western Province",
-    "region_code": "1",
-    "city": "Colombo",
-    "latitude": 6.9270786,
-    "longitude": 79.861243,
-    "is_eu": false,
-    "postal": "83400-000",
-    "connection": {
-      "asn": 18001,
-      "org": "Dialog Axiata PLC",
-      "isp": "Dialog Axiata PLC",
-      "domain": "dialog.lk"
     }
   }
 ]

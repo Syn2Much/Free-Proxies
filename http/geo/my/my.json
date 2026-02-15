@@ -1,76 +1,7 @@
 [
   {
-    "proxy": "http://67.43.236.18:29009",
-    "tested_at": "2026-02-15T03:17:05Z",
-    "ip": "110.159.0.94",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Malaysia",
-    "country_code": "MY",
-    "region": "Selangor",
-    "region_code": "10",
-    "city": "Cyberjaya",
-    "latitude": 2.921318,
-    "longitude": 101.6559349,
-    "is_eu": false,
-    "postal": "63200",
-    "connection": {
-      "asn": 4788,
-      "org": "TMNST",
-      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-      "domain": "tm.com.my"
-    }
-  },
-  {
-    "proxy": "http://47.238.203.170:50000",
-    "tested_at": "2026-02-15T03:17:05Z",
-    "ip": "14.192.49.4",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Malaysia",
-    "country_code": "MY",
-    "region": "Federal Territory of Kuala Lumpur",
-    "region_code": "",
-    "city": "Kuala Lumpur",
-    "latitude": 3.139003,
-    "longitude": 101.686855,
-    "is_eu": false,
-    "postal": "50050",
-    "connection": {
-      "asn": 395793,
-      "org": "Ariskisp",
-      "isp": "Arisk Communications Inc.",
-      "domain": "lightcloud.my"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.91:33095",
-    "tested_at": "2026-02-15T03:17:15Z",
-    "ip": "101.78.18.214",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Malaysia",
-    "country_code": "MY",
-    "region": "Selangor",
-    "region_code": "10",
-    "city": "Tanjong Sepat",
-    "latitude": 2.6526169,
-    "longitude": 101.6499125,
-    "is_eu": false,
-    "postal": "50470",
-    "connection": {
-      "asn": 133421,
-      "org": "Innet Solutions Sdn Bhd",
-      "isp": "INNET SOLUTIONS SDN BHD",
-      "domain": "innet.com.my"
-    }
-  },
-  {
     "proxy": "http://72.10.164.178:28873",
-    "tested_at": "2026-02-15T03:17:45Z",
+    "tested_at": "2026-02-15T03:48:14Z",
     "ip": "60.49.214.22",
     "success": true,
     "type": "IPv4",
@@ -87,6 +18,98 @@
     "connection": {
       "asn": 4788,
       "org": "TMNST",
+      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+      "domain": "tm.com.my"
+    }
+  },
+  {
+    "proxy": "http://58.84.16.214:1231",
+    "tested_at": "2026-02-15T03:48:39Z",
+    "ip": "58.84.16.214",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "region": "Putrajaya",
+    "region_code": "",
+    "city": "Putrajaya",
+    "latitude": 2.926361,
+    "longitude": 101.696445,
+    "is_eu": false,
+    "postal": "62100",
+    "connection": {
+      "asn": 38182,
+      "org": "Extreme Broadband",
+      "isp": "Extreme Broadband",
+      "domain": "extremebb.net"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.90:5181",
+    "tested_at": "2026-02-15T03:48:44Z",
+    "ip": "180.74.224.23",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "region": "Negeri Sembilan",
+    "region_code": "05",
+    "city": "Seremban",
+    "latitude": 2.725889,
+    "longitude": 101.9378239,
+    "is_eu": false,
+    "postal": "70000",
+    "connection": {
+      "asn": 4788,
+      "org": "Unifi Home",
+      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://72.10.160.171:32241",
+    "tested_at": "2026-02-15T03:49:05Z",
+    "ip": "210.186.174.7",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "region": "Malacca",
+    "region_code": "04",
+    "city": "Melaka",
+    "latitude": 2.186977,
+    "longitude": 102.2636261,
+    "is_eu": false,
+    "postal": "75050",
+    "connection": {
+      "asn": 4788,
+      "org": "TMNET",
+      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+      "domain": "tm.com.my"
+    }
+  },
+  {
+    "proxy": "http://60.54.47.75:8081",
+    "tested_at": "2026-02-15T03:49:14Z",
+    "ip": "60.54.47.75",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "region": "Selangor",
+    "region_code": "10",
+    "city": "Cyberjaya",
+    "latitude": 2.921318,
+    "longitude": 101.6559349,
+    "is_eu": false,
+    "postal": "63200",
+    "connection": {
+      "asn": 4788,
+      "org": "TM TECHNOLOGY SERVICES SDN BHD",
       "isp": "TM TECHNOLOGY SERVICES SDN BHD",
       "domain": "tm.com.my"
     }

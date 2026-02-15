@@ -1,168 +1,7 @@
 [
   {
-    "proxy": "http://178.253.22.108:65431",
-    "tested_at": "2026-02-15T03:17:03Z",
-    "ip": "178.253.22.108",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 210976,
-      "org": "Timeweb, LLP",
-      "isp": "Timeweb, LLP",
-      "domain": "timeweb.ru"
-    }
-  },
-  {
-    "proxy": "http://94.176.3.42:7443",
-    "tested_at": "2026-02-15T03:17:14Z",
-    "ip": "94.176.3.42",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 57043,
-      "org": "Izitell Cloud Fzco",
-      "isp": "HOSTKEY B.V.",
-      "domain": "izitell.com"
-    }
-  },
-  {
-    "proxy": "http://145.40.68.148:10080",
-    "tested_at": "2026-02-15T03:17:19Z",
-    "ip": "145.40.68.148",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 15830,
-      "org": "Equinix Services, Inc.",
-      "isp": "Equinix emea Acquisition Enterprises B.V.",
-      "domain": "packet.net"
-    }
-  },
-  {
-    "proxy": "http://104.248.198.6:8080",
-    "tested_at": "2026-02-15T03:17:21Z",
-    "ip": "104.248.198.6",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 14061,
-      "org": "Digitalocean, LLC",
-      "isp": "Digitalocean, LLC",
-      "domain": "digitalocean.com"
-    }
-  },
-  {
-    "proxy": "http://5.129.237.45:49488",
-    "tested_at": "2026-02-15T03:17:28Z",
-    "ip": "2a03:6f02::c817",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 9123,
-      "org": "TW Cloud",
-      "isp": "JSC TIMEWEB",
-      "domain": "timeweb.ru"
-    }
-  },
-  {
-    "proxy": "http://145.40.68.148:9400",
-    "tested_at": "2026-02-15T03:17:30Z",
-    "ip": "145.40.68.148",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 15830,
-      "org": "Equinix Services, Inc.",
-      "isp": "Equinix emea Acquisition Enterprises B.V.",
-      "domain": "packet.net"
-    }
-  },
-  {
-    "proxy": "http://209.38.54.154:8443",
-    "tested_at": "2026-02-15T03:17:35Z",
-    "ip": "164.90.199.121",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 14061,
-      "org": "Digitalocean, LLC",
-      "isp": "Digitalocean, LLC",
-      "domain": "digitalocean.com"
-    }
-  },
-  {
     "proxy": "http://94.176.3.43:7443",
-    "tested_at": "2026-02-15T03:17:36Z",
+    "tested_at": "2026-02-15T03:48:12Z",
     "ip": "94.176.3.43",
     "success": true,
     "type": "IPv4",
@@ -184,9 +23,9 @@
     }
   },
   {
-    "proxy": "http://144.124.227.90:10880",
-    "tested_at": "2026-02-15T03:17:41Z",
-    "ip": "144.124.227.90",
+    "proxy": "http://94.176.3.42:7443",
+    "tested_at": "2026-02-15T03:48:17Z",
+    "ip": "94.176.3.42",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -200,15 +39,15 @@
     "is_eu": true,
     "postal": "1012 JS",
     "connection": {
-      "asn": 216071,
-      "org": "SERVERS TECH FZCO",
-      "isp": "SERVERS TECH FZCO",
-      "domain": "vdsina.com"
+      "asn": 57043,
+      "org": "Izitell Cloud Fzco",
+      "isp": "HOSTKEY B.V.",
+      "domain": "izitell.com"
     }
   },
   {
     "proxy": "http://94.176.3.109:7443",
-    "tested_at": "2026-02-15T03:17:43Z",
+    "tested_at": "2026-02-15T03:48:22Z",
     "ip": "94.176.3.109",
     "success": true,
     "type": "IPv4",
@@ -230,31 +69,8 @@
     }
   },
   {
-    "proxy": "http://104.248.198.6:1080",
-    "tested_at": "2026-02-15T03:17:43Z",
-    "ip": "104.248.198.6",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "region": "North Holland",
-    "region_code": "NH",
-    "city": "Amsterdam",
-    "latitude": 52.3702157,
-    "longitude": 4.8951679,
-    "is_eu": true,
-    "postal": "1012 JS",
-    "connection": {
-      "asn": 14061,
-      "org": "Digitalocean, LLC",
-      "isp": "Digitalocean, LLC",
-      "domain": "digitalocean.com"
-    }
-  },
-  {
     "proxy": "http://147.75.34.105:443",
-    "tested_at": "2026-02-15T03:17:53Z",
+    "tested_at": "2026-02-15T03:48:30Z",
     "ip": "147.75.34.105",
     "success": true,
     "type": "IPv4",
@@ -276,9 +92,9 @@
     }
   },
   {
-    "proxy": "http://145.40.68.148:10052",
-    "tested_at": "2026-02-15T03:17:55Z",
-    "ip": "145.40.68.148",
+    "proxy": "http://5.180.180.32:1080",
+    "tested_at": "2026-02-15T03:48:32Z",
+    "ip": "5.180.180.32",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -292,10 +108,148 @@
     "is_eu": true,
     "postal": "1012 JS",
     "connection": {
-      "asn": 15830,
-      "org": "Equinix Services, Inc.",
-      "isp": "Equinix emea Acquisition Enterprises B.V.",
-      "domain": "packet.net"
+      "asn": 41436,
+      "org": "CLOUDWEBMANAGE EU",
+      "isp": "Kamatera INC",
+      "domain": "omc.co.il"
+    }
+  },
+  {
+    "proxy": "http://109.234.35.246:8080",
+    "tested_at": "2026-02-15T03:48:37Z",
+    "ip": "109.234.35.246",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
+    "is_eu": true,
+    "postal": "1012 JS",
+    "connection": {
+      "asn": 216071,
+      "org": "SERVERS TECH FZCO",
+      "isp": "SERVERS TECH FZCO",
+      "domain": "vdsina.com"
+    }
+  },
+  {
+    "proxy": "http://71.168.71.12:8890",
+    "tested_at": "2026-02-15T03:48:47Z",
+    "ip": "194.26.192.46",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "Flevoland",
+    "region_code": "FL",
+    "city": "Lelystad",
+    "latitude": 52.518537,
+    "longitude": 5.471422,
+    "is_eu": true,
+    "postal": "8245",
+    "connection": {
+      "asn": 210558,
+      "org": "1 Services GmbH",
+      "isp": "1 Services GmbH",
+      "domain": "as210558.net"
+    }
+  },
+  {
+    "proxy": "http://193.106.150.70:1080",
+    "tested_at": "2026-02-15T03:48:51Z",
+    "ip": "193.106.150.70",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "Drenthe",
+    "region_code": "DR",
+    "city": "Meppel",
+    "latitude": 52.6921234,
+    "longitude": 6.1937187,
+    "is_eu": true,
+    "postal": "7942 JE",
+    "connection": {
+      "asn": 21100,
+      "org": "Inweb Ltd.",
+      "isp": "GREEN FLOID LLC",
+      "domain": "domishko.ru"
+    }
+  },
+  {
+    "proxy": "http://146.190.232.76:3128",
+    "tested_at": "2026-02-15T03:48:51Z",
+    "ip": "146.190.232.76",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
+    "is_eu": true,
+    "postal": "1012 JS",
+    "connection": {
+      "asn": 14061,
+      "org": "Digitalocean, LLC",
+      "isp": "Digitalocean, LLC",
+      "domain": "digitalocean.com"
+    }
+  },
+  {
+    "proxy": "http://5.129.237.45:49488",
+    "tested_at": "2026-02-15T03:48:55Z",
+    "ip": "2a03:6f02::c817",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
+    "is_eu": true,
+    "postal": "1012 JS",
+    "connection": {
+      "asn": 9123,
+      "org": "TW Cloud",
+      "isp": "JSC TIMEWEB",
+      "domain": "timeweb.ru"
+    }
+  },
+  {
+    "proxy": "http://144.124.227.90:10880",
+    "tested_at": "2026-02-15T03:49:00Z",
+    "ip": "144.124.227.90",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "region": "North Holland",
+    "region_code": "NH",
+    "city": "Amsterdam",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
+    "is_eu": true,
+    "postal": "1012 JS",
+    "connection": {
+      "asn": 216071,
+      "org": "SERVERS TECH FZCO",
+      "isp": "SERVERS TECH FZCO",
+      "domain": "vdsina.com"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://217.28.18.4:8104",
-    "tested_at": "2026-02-15T03:17:23Z",
-    "ip": "217.28.18.4",
+    "proxy": "http://212.110.188.201:34408",
+    "tested_at": "2026-02-15T03:48:20Z",
+    "ip": "212.110.188.201",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -10,22 +10,91 @@
     "country_code": "GB",
     "region": "England",
     "region_code": "ENG",
-    "city": "Liverpool",
-    "latitude": 53.4083714,
-    "longitude": -2.9915726,
+    "city": "York",
+    "latitude": 53.9599651,
+    "longitude": -1.0872979,
     "is_eu": false,
-    "postal": "L2 3SW",
+    "postal": "YO1 8SG",
     "connection": {
-      "asn": 25582,
-      "org": "Nwip LTD",
-      "isp": "Nwip LTD",
-      "domain": "nwip.co.uk"
+      "asn": 35425,
+      "org": "Bytemark Services",
+      "isp": "IOMART MANAGED SERVICES LIMITED",
+      "domain": "rapidswitch.com"
     }
   },
   {
-    "proxy": "http://212.110.188.213:34411",
-    "tested_at": "2026-02-15T03:17:24Z",
-    "ip": "212.110.188.213",
+    "proxy": "http://109.120.135.230:2030",
+    "tested_at": "2026-02-15T03:48:20Z",
+    "ip": "2a0b:4140:685e::2",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "England",
+    "region_code": "ENG",
+    "city": "London",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583,
+    "is_eu": false,
+    "postal": "SW1",
+    "connection": {
+      "asn": 210644,
+      "org": "AEZA NETWORK STOCKHOLM",
+      "isp": "AEZA INTERNATIONAL LTD",
+      "domain": "aeza.net"
+    }
+  },
+  {
+    "proxy": "http://62.3.71.255:8118",
+    "tested_at": "2026-02-15T03:48:25Z",
+    "ip": "216.169.132.18",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "England",
+    "region_code": "ENG",
+    "city": "Manchester",
+    "latitude": 53.4807593,
+    "longitude": -2.2426305,
+    "is_eu": false,
+    "postal": "M2 3FU",
+    "connection": {
+      "asn": 62240,
+      "org": "NETPR MAN CV",
+      "isp": "Clouvider Limited",
+      "domain": "clouvider.com"
+    }
+  },
+  {
+    "proxy": "http://212.110.188.187:34403",
+    "tested_at": "2026-02-15T03:48:31Z",
+    "ip": "212.110.188.187",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "England",
+    "region_code": "ENG",
+    "city": "York",
+    "latitude": 53.9599651,
+    "longitude": -1.0872979,
+    "is_eu": false,
+    "postal": "YO1 8SG",
+    "connection": {
+      "asn": 35425,
+      "org": "Bytemark Services",
+      "isp": "IOMART MANAGED SERVICES LIMITED",
+      "domain": "rapidswitch.com"
+    }
+  },
+  {
+    "proxy": "http://212.110.188.200:34407",
+    "tested_at": "2026-02-15T03:48:49Z",
+    "ip": "212.110.188.200",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -47,7 +116,7 @@
   },
   {
     "proxy": "http://37.27.180.250:2081",
-    "tested_at": "2026-02-15T03:17:37Z",
+    "tested_at": "2026-02-15T03:48:53Z",
     "ip": "141.98.101.182",
     "success": true,
     "type": "IPv4",
@@ -69,26 +138,26 @@
     }
   },
   {
-    "proxy": "http://109.120.135.230:2030",
-    "tested_at": "2026-02-15T03:17:38Z",
-    "ip": "2a0b:4140:685e::2",
+    "proxy": "http://212.110.188.206:34404",
+    "tested_at": "2026-02-15T03:49:00Z",
+    "ip": "212.110.188.206",
     "success": true,
-    "type": "IPv6",
+    "type": "IPv4",
     "continent": "Europe",
     "country": "United Kingdom",
     "country_code": "GB",
     "region": "England",
     "region_code": "ENG",
-    "city": "London",
-    "latitude": 51.5073509,
-    "longitude": -0.1277583,
+    "city": "York",
+    "latitude": 53.9599651,
+    "longitude": -1.0872979,
     "is_eu": false,
-    "postal": "SW1",
+    "postal": "YO1 8SG",
     "connection": {
-      "asn": 210644,
-      "org": "AEZA NETWORK STOCKHOLM",
-      "isp": "AEZA INTERNATIONAL LTD",
-      "domain": "aeza.net"
+      "asn": 35425,
+      "org": "Bytemark Services",
+      "isp": "IOMART MANAGED SERVICES LIMITED",
+      "domain": "rapidswitch.com"
     }
   }
 ]

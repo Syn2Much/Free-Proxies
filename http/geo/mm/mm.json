@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://185.133.213.86:8074",
-    "tested_at": "2026-02-15T03:17:20Z",
-    "ip": "185.133.213.86",
+    "proxy": "http://103.81.115.210:8080",
+    "tested_at": "2026-02-15T03:48:37Z",
+    "ip": "103.81.115.210",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,56 +16,10 @@
     "is_eu": false,
     "postal": "00000",
     "connection": {
-      "asn": 133524,
-      "org": "Route Object for Global Technology",
-      "isp": "Global Technology Co., Ltd.",
-      "domain": "globalnetmm.com"
-    }
-  },
-  {
-    "proxy": "http://67.43.236.20:21573",
-    "tested_at": "2026-02-15T03:17:28Z",
-    "ip": "38.83.17.16",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Myanmar [Burma]",
-    "country_code": "MM",
-    "region": "Yangon",
-    "region_code": "06",
-    "city": "Yangon",
-    "latitude": 16.9576163,
-    "longitude": 96.1555258,
-    "is_eu": false,
-    "postal": "00000",
-    "connection": {
-      "asn": 135405,
-      "org": "Cogent Communications",
-      "isp": "Tah Moe Hnye chan Thar Tun We Thar Company Limited",
-      "domain": "welinkbroadband.com"
-    }
-  },
-  {
-    "proxy": "http://203.81.67.22:8080",
-    "tested_at": "2026-02-15T03:17:37Z",
-    "ip": "203.81.67.22",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Myanmar [Burma]",
-    "country_code": "MM",
-    "region": "Yangon",
-    "region_code": "06",
-    "city": "Yangon",
-    "latitude": 16.8660694,
-    "longitude": 96.195132,
-    "is_eu": false,
-    "postal": "00000",
-    "connection": {
-      "asn": 9988,
-      "org": "Myanma Post And Telecommunication",
-      "isp": "Myanma Post Telecommunication",
-      "domain": "mptjo.com.mm"
+      "asn": 132148,
+      "org": "HORIZON TELECOM INTERNATIONAL COMPANY LIMITED",
+      "isp": "HORIZON TELECOM INTERNATIONAL COMPANY LIMITED",
+      "domain": "telecom-horizon.com"
     }
   }
 ]

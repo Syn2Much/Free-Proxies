@@ -1,77 +1,8 @@
 [
   {
-    "proxy": "http://165.16.59.65:8080",
-    "tested_at": "2026-02-15T03:17:17Z",
-    "ip": "165.16.59.65",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Libya",
-    "country_code": "LY",
-    "region": "Jabal al Gharbi",
-    "region_code": "JG",
-    "city": "Jadu",
-    "latitude": 31.9584113,
-    "longitude": 12.0204247,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 37284,
-      "org": "Aljeel Aljadeed For Technology",
-      "isp": "Aljeel Aljadeed For Technology",
-      "domain": "aljeel.ly"
-    }
-  },
-  {
-    "proxy": "http://102.68.128.211:8080",
-    "tested_at": "2026-02-15T03:17:20Z",
-    "ip": "102.68.128.207",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Libya",
-    "country_code": "LY",
-    "region": "Tripoli",
-    "region_code": "TB",
-    "city": "Tripoli",
-    "latitude": 32.8872094,
-    "longitude": 13.1913383,
-    "is_eu": false,
-    "postal": "350",
-    "connection": {
-      "asn": 21003,
-      "org": "For Company Use And Interface Assignments",
-      "isp": "General Post And Telecommunication Company gptc",
-      "domain": "noclibya.com"
-    }
-  },
-  {
-    "proxy": "http://41.254.47.66:19000",
-    "tested_at": "2026-02-15T03:17:44Z",
-    "ip": "41.254.47.66",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Libya",
-    "country_code": "LY",
-    "region": "Tripoli",
-    "region_code": "TB",
-    "city": "Tripoli",
-    "latitude": 32.8872094,
-    "longitude": 13.1913383,
-    "is_eu": false,
-    "postal": "350",
-    "connection": {
-      "asn": 21003,
-      "org": "Libyan Telecom and Technology",
-      "isp": "LTT Network Backbone and POPs",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://41.254.48.54:19333",
-    "tested_at": "2026-02-15T03:17:55Z",
-    "ip": "102.214.107.5",
+    "proxy": "http://41.254.48.192:1978",
+    "tested_at": "2026-02-15T03:48:35Z",
+    "ip": "41.254.48.192",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -86,9 +17,32 @@
     "postal": "1087",
     "connection": {
       "asn": 21003,
-      "org": "This Pool Dedicated for Home Users for Shred Internet Service",
+      "org": "Libyan Telecom And Technology",
       "isp": "General Post And Telecommunication Company gptc",
-      "domain": "rltt.net"
+      "domain": "ltt.ly"
+    }
+  },
+  {
+    "proxy": "http://165.16.58.124:8080",
+    "tested_at": "2026-02-15T03:48:40Z",
+    "ip": "165.16.58.124",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Jabal al Gharbi",
+    "region_code": "JG",
+    "city": "Yefren",
+    "latitude": 32.053558,
+    "longitude": 12.5355393,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 37284,
+      "org": "Aljeel Aljadeed For Technology",
+      "isp": "Aljeel Aljadeed For Technology",
+      "domain": "aljeel.ly"
     }
   }
 ]

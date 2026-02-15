@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://72.10.160.173:24279",
-    "tested_at": "2026-02-15T03:17:04Z",
-    "ip": "27.34.64.92",
+    "proxy": "http://36.253.18.38:8181",
+    "tested_at": "2026-02-15T03:49:08Z",
+    "ip": "36.253.18.38",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -10,16 +10,16 @@
     "country_code": "NP",
     "region": "Bagmati Pradesh",
     "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
+    "city": "Patan",
+    "latitude": 27.6644011,
+    "longitude": 85.3187914,
     "is_eu": false,
-    "postal": "46600",
+    "postal": "44707",
     "connection": {
-      "asn": 17501,
-      "org": "Dynamic Allocation for Broadband Subscribers",
-      "isp": "Worldlink Communications",
-      "domain": "worldlink.com.np"
+      "asn": 38565,
+      "org": "Ncell Pty. Ltd.",
+      "isp": "Ncell Pty. Ltd.",
+      "domain": "ncell.com.np"
     }
   }
 ]

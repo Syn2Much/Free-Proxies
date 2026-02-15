@@ -1,71 +1,25 @@
 [
   {
-    "proxy": "http://178.34.190.6:8080",
-    "tested_at": "2026-02-15T03:17:05Z",
-    "ip": "178.34.190.6",
+    "proxy": "http://88.135.210.179:8080",
+    "tested_at": "2026-02-15T03:48:22Z",
+    "ip": "88.135.210.179",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Ukraine",
     "country_code": "UA",
-    "region": "Simferopol municipality council",
+    "region": "Ivano-Frankivsk Oblast",
     "region_code": "",
-    "city": "Simferopol",
-    "latitude": 44.952117,
-    "longitude": 34.102417,
+    "city": "Ivano-Frankivsk",
+    "latitude": 48.922633,
+    "longitude": 24.711117,
     "is_eu": false,
-    "postal": "",
+    "postal": "76000",
     "connection": {
-      "asn": 201776,
-      "org": "Miranda media LTD",
-      "isp": "Miranda media LTD",
-      "domain": "miranda-media.ru"
-    }
-  },
-  {
-    "proxy": "http://31.134.120.124:1214",
-    "tested_at": "2026-02-15T03:17:18Z",
-    "ip": "31.134.120.124",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Kyiv city",
-    "region_code": "30",
-    "city": "Kyiv",
-    "latitude": 50.4501,
-    "longitude": 30.5234,
-    "is_eu": false,
-    "postal": "01001",
-    "connection": {
-      "asn": 56668,
-      "org": "Fop Demchuk Sergiy Olexandrovuch",
-      "isp": "Fop Demchuk Sergiy Olexandrovuch",
-      "domain": "simnet.kiev.ua"
-    }
-  },
-  {
-    "proxy": "http://195.149.125.150:8080",
-    "tested_at": "2026-02-15T03:17:18Z",
-    "ip": "195.149.125.150",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Ukraine",
-    "country_code": "UA",
-    "region": "Odesa Oblast",
-    "region_code": "51",
-    "city": "Moldove",
-    "latitude": 46.2141398,
-    "longitude": 29.6513956,
-    "is_eu": false,
-    "postal": "68271",
-    "connection": {
-      "asn": 29475,
-      "org": "Complex Communication Systems LTD",
-      "isp": "Complex Communication Systems LTD",
-      "domain": "tst.od.ua"
+      "asn": 49125,
+      "org": "Uteam LTD",
+      "isp": "Uteam LTD",
+      "domain": "uteam.ua"
     }
   }
 ]

@@ -1,94 +1,25 @@
 [
   {
-    "proxy": "http://212.182.119.149:8080",
-    "tested_at": "2026-02-15T02:45:55Z",
-    "ip": "212.182.119.149",
+    "proxy": "http://144.31.0.166:3128",
+    "tested_at": "2026-02-15T03:48:13Z",
+    "ip": "144.31.0.166",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Poland",
     "country_code": "PL",
-    "region": "Lublin Voivodeship",
-    "region_code": "06",
-    "city": "Lublin",
-    "latitude": 51.2464536,
-    "longitude": 22.5684463,
+    "region": "Masovian Voivodeship",
+    "region_code": "14",
+    "city": "Warsaw",
+    "latitude": 52.2296756,
+    "longitude": 21.0122287,
     "is_eu": true,
-    "postal": "20-484",
+    "postal": "00-110",
     "connection": {
-      "asn": 12346,
-      "org": "Avir Sp. z o.o.",
-      "isp": "non academic part of Lublin MAN",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://185.28.250.90:8090",
-    "tested_at": "2026-02-15T02:46:15Z",
-    "ip": "185.28.250.90",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Poland",
-    "country_code": "PL",
-    "region": "Lesser Poland Voivodeship",
-    "region_code": "12",
-    "city": "Kraków",
-    "latitude": 50.0646501,
-    "longitude": 19.9449799,
-    "is_eu": true,
-    "postal": "30-730",
-    "connection": {
-      "asn": 206910,
-      "org": "BESTCONNECT CUST",
-      "isp": "Janusz Ciurus Trading AS Bestconnect",
-      "domain": "mynet.pl"
-    }
-  },
-  {
-    "proxy": "http://193.239.103.13:34415",
-    "tested_at": "2026-02-15T02:46:27Z",
-    "ip": "193.239.103.13",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Poland",
-    "country_code": "PL",
-    "region": "Kuyavian-Pomeranian Voivodeship",
-    "region_code": "04",
-    "city": "Kobylnica",
-    "latitude": 52.4489287,
-    "longitude": 17.0925845,
-    "is_eu": true,
-    "postal": "88-121",
-    "connection": {
-      "asn": 12741,
-      "org": "Solarme Tomasz Kaszynski",
-      "isp": "Netia SA",
-      "domain": "solarme.pl"
-    }
-  },
-  {
-    "proxy": "http://185.32.6.131:8070",
-    "tested_at": "2026-02-15T02:46:37Z",
-    "ip": "212.127.88.213",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Poland",
-    "country_code": "PL",
-    "region": "Województwo dolnośląskie",
-    "region_code": "02",
-    "city": "Wrocław",
-    "latitude": 51.1078852,
-    "longitude": 17.0385376,
-    "is_eu": true,
-    "postal": "50-101",
-    "connection": {
-      "asn": 35179,
-      "org": "Korbank S. A.",
-      "isp": "Korbank S. A.",
-      "domain": "korbank.pl"
+      "asn": 215730,
+      "org": "H NEXUS LTD",
+      "isp": "H NEXUS LTD",
+      "domain": "h2.nexus"
     }
   }
 ]
