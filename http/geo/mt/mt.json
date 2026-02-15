@@ -1,0 +1,25 @@
+[
+  {
+    "proxy": "http://84.255.40.228:8998",
+    "tested_at": "2026-02-15T00:09:28Z",
+    "ip": "84.255.40.228",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Malta",
+    "country_code": "MT",
+    "region": "Northern Region",
+    "region_code": "",
+    "city": "Saint Paul's Bay",
+    "latitude": 35.936017,
+    "longitude": 14.3966503,
+    "is_eu": true,
+    "postal": "SPB 3416",
+    "connection": {
+      "asn": 12709,
+      "org": "Melita PLC",
+      "isp": "Melita Limited",
+      "domain": "melita.com"
+    }
+  }
+]

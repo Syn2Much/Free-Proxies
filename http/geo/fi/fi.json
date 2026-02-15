@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "http://94.159.112.138:3129",
-    "tested_at": "2026-02-14T23:38:12Z",
-    "ip": "94.159.112.138",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Finland",
-    "country_code": "FI",
-    "region": "Mainland Finland",
-    "region_code": "",
-    "city": "Helsinki",
-    "latitude": 60.1698557,
-    "longitude": 24.938379,
-    "is_eu": true,
-    "postal": "02101",
-    "connection": {
-      "asn": 216300,
-      "org": "New Hosting Technologies LLC",
-      "isp": "Closed Joint Stock Company Abkhazmedia",
-      "domain": "landvps.ru"
-    }
-  },
-  {
     "proxy": "http://91.217.76.97:1080",
-    "tested_at": "2026-02-14T23:38:32Z",
+    "tested_at": "2026-02-15T00:09:47Z",
     "ip": "91.217.76.97",
     "success": true,
     "type": "IPv4",
@@ -43,6 +20,75 @@
       "org": "FIRST SERVER LIMITED",
       "isp": "FIRST SERVER LIMITED",
       "domain": "first-server.net"
+    }
+  },
+  {
+    "proxy": "http://65.108.159.129:3128",
+    "tested_at": "2026-02-15T00:09:48Z",
+    "ip": "65.108.159.129",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Finland",
+    "country_code": "FI",
+    "region": "Mainland Finland",
+    "region_code": "",
+    "city": "Helsinki",
+    "latitude": 60.1698557,
+    "longitude": 24.938379,
+    "is_eu": true,
+    "postal": "02101",
+    "connection": {
+      "asn": 24940,
+      "org": "Hetzner Online GmbH",
+      "isp": "Hetzner Online GmbH",
+      "domain": "hetzner.com"
+    }
+  },
+  {
+    "proxy": "http://65.108.159.129:8080",
+    "tested_at": "2026-02-15T00:10:09Z",
+    "ip": "65.108.159.129",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Finland",
+    "country_code": "FI",
+    "region": "Mainland Finland",
+    "region_code": "",
+    "city": "Helsinki",
+    "latitude": 60.1698557,
+    "longitude": 24.938379,
+    "is_eu": true,
+    "postal": "02101",
+    "connection": {
+      "asn": 24940,
+      "org": "Hetzner Online GmbH",
+      "isp": "Hetzner Online GmbH",
+      "domain": "hetzner.com"
+    }
+  },
+  {
+    "proxy": "http://193.47.60.119:52681",
+    "tested_at": "2026-02-15T00:10:17Z",
+    "ip": "193.47.60.119",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Finland",
+    "country_code": "FI",
+    "region": "Mainland Finland",
+    "region_code": "",
+    "city": "Helsinki",
+    "latitude": 60.1698557,
+    "longitude": 24.938379,
+    "is_eu": true,
+    "postal": "02101",
+    "connection": {
+      "asn": 41745,
+      "org": "Baykov Ilya Sergeevich",
+      "isp": "Baykov Ilya Sergeevich",
+      "domain": "fortis.host"
     }
   }
 ]

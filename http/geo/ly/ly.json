@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://102.68.129.54:8080",
-    "tested_at": "2026-02-14T23:38:10Z",
-    "ip": "102.68.129.62",
+    "proxy": "http://41.254.47.66:19000",
+    "tested_at": "2026-02-15T00:09:27Z",
+    "ip": "41.254.47.66",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -17,15 +17,15 @@
     "postal": "350",
     "connection": {
       "asn": 21003,
-      "org": "Palm City",
-      "isp": "General Post And Telecommunication Company gptc",
-      "domain": "rltt.net"
+      "org": "Libyan Telecom and Technology",
+      "isp": "LTT Network Backbone and POPs",
+      "domain": ""
     }
   },
   {
-    "proxy": "http://41.254.48.190:1976",
-    "tested_at": "2026-02-14T23:38:14Z",
-    "ip": "41.254.48.190",
+    "proxy": "http://102.38.7.110:1972",
+    "tested_at": "2026-02-15T00:09:28Z",
+    "ip": "102.38.7.107",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -39,16 +39,39 @@
     "is_eu": false,
     "postal": "350",
     "connection": {
-      "asn": 21003,
-      "org": "Libyan Telecom And Technology",
-      "isp": "General Post And Telecommunication Company gptc",
-      "domain": "ltt.ly"
+      "asn": 328539,
+      "org": "Giga for Telecommunication And Technology Limited",
+      "isp": "Giga for Telecommunication And Technology Limited",
+      "domain": "giga.ly"
     }
   },
   {
-    "proxy": "http://102.68.128.210:8080",
-    "tested_at": "2026-02-14T23:38:17Z",
-    "ip": "102.68.128.196",
+    "proxy": "http://165.16.2.238:9999",
+    "tested_at": "2026-02-15T00:09:30Z",
+    "ip": "165.16.2.234",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Al Hizam Al Akhdar",
+    "region_code": "HZ",
+    "city": "Qaminis",
+    "latitude": 31.661538,
+    "longitude": 20.0181673,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 37284,
+      "org": "Aljeel Aljadeed For Technology",
+      "isp": "Aljeel Aljadeed For Technology",
+      "domain": "aljeel.ly"
+    }
+  },
+  {
+    "proxy": "http://102.68.128.212:8080",
+    "tested_at": "2026-02-15T00:09:49Z",
+    "ip": "102.68.128.200",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -69,9 +92,9 @@
     }
   },
   {
-    "proxy": "http://102.68.128.214:8080",
-    "tested_at": "2026-02-14T23:38:39Z",
-    "ip": "102.68.128.195",
+    "proxy": "http://102.68.135.147:8080",
+    "tested_at": "2026-02-15T00:10:01Z",
+    "ip": "102.68.135.147",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -86,9 +109,9 @@
     "postal": "350",
     "connection": {
       "asn": 21003,
-      "org": "For Company Use And Interface Assignments",
+      "org": "Early Technical",
       "isp": "General Post And Telecommunication Company gptc",
-      "domain": "noclibya.com"
+      "domain": "earlytechnicaleducation.org"
     }
   }
 ]

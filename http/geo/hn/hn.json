@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://190.130.6.11:8080",
-    "tested_at": "2026-02-14T23:38:07Z",
-    "ip": "190.130.6.11",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Honduras",
-    "country_code": "HN",
-    "region": "Francisco Morazán",
-    "region_code": "FM",
-    "city": "Tegucigalpa",
-    "latitude": 14.0722751,
-    "longitude": -87.192136,
-    "is_eu": false,
-    "postal": "12101",
-    "connection": {
-      "asn": 7727,
-      "org": "Hondutel",
-      "isp": "Hondutel",
-      "domain": "hondutel.hn"
-    }
-  },
-  {
-    "proxy": "http://181.78.44.243:999",
-    "tested_at": "2026-02-14T23:38:10Z",
-    "ip": "181.78.44.241",
+    "proxy": "http://72.10.164.178:6511",
+    "tested_at": "2026-02-15T00:09:54Z",
+    "ip": "191.103.86.247",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -39,39 +16,16 @@
     "is_eu": false,
     "postal": "21101",
     "connection": {
-      "asn": 52468,
-      "org": "Ufinet Honduras, S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
+      "asn": 52262,
+      "org": "Navega.com Honduras",
+      "isp": "Telef nica Celular S.a",
+      "domain": "navega.com"
     }
   },
   {
-    "proxy": "http://181.78.44.63:999",
-    "tested_at": "2026-02-14T23:38:27Z",
-    "ip": "181.78.44.63",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Honduras",
-    "country_code": "HN",
-    "region": "Cortés",
-    "region_code": "CR",
-    "city": "San Pedro Sula",
-    "latitude": 15.5149204,
-    "longitude": -87.9922684,
-    "is_eu": false,
-    "postal": "21101",
-    "connection": {
-      "asn": 52468,
-      "org": "Ufinet Honduras, S. A.",
-      "isp": "UFINET PANAMA S.A.",
-      "domain": "ufinet.com"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:9763",
-    "tested_at": "2026-02-14T23:38:35Z",
-    "ip": "170.247.85.249",
+    "proxy": "http://181.78.45.75:999",
+    "tested_at": "2026-02-15T00:10:02Z",
+    "ip": "45.68.63.133",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -79,16 +33,16 @@
     "country_code": "HN",
     "region": "Yoro",
     "region_code": "YO",
-    "city": "El Progreso",
-    "latitude": 15.3843415,
-    "longitude": -87.8058402,
+    "city": "La Mina",
+    "latitude": 15.3173064,
+    "longitude": -87.8328712,
     "is_eu": false,
     "postal": "23201",
     "connection": {
-      "asn": 262262,
-      "org": "METRONET",
-      "isp": "Metronet",
-      "domain": "metronethn.com"
+      "asn": 64150,
+      "org": "PIT HONDURAS S. DE R.L. DE C.V.",
+      "isp": "PIT HONDURAS S. DE R.L. DE C.V.",
+      "domain": "pithonduras.hn"
     }
   }
 ]

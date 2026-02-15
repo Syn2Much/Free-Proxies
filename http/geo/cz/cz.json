@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://84.244.119.36:23500",
+    "tested_at": "2026-02-15T00:09:49Z",
+    "ip": "84.244.119.36",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "region": "Central Bohemia",
+    "region_code": "",
+    "city": "Týnec nad Sázavou",
+    "latitude": 49.833479,
+    "longitude": 14.5898402,
+    "is_eu": true,
+    "postal": "257 41",
+    "connection": {
+      "asn": 25248,
+      "org": "Ralsko Net S.R.O.",
+      "isp": "Radiokomunikace A.S.",
+      "domain": "cra.cz"
+    }
+  },
+  {
     "proxy": "http://185.115.74.185:8080",
-    "tested_at": "2026-02-14T23:38:01Z",
+    "tested_at": "2026-02-15T00:10:08Z",
     "ip": "185.115.75.43",
     "success": true,
     "type": "IPv4",

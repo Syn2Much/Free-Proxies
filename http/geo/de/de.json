@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://209.38.222.145:8080",
-    "tested_at": "2026-02-14T23:38:02Z",
+    "tested_at": "2026-02-15T00:09:26Z",
     "ip": "209.38.222.145",
     "success": true,
     "type": "IPv4",
@@ -23,32 +23,9 @@
     }
   },
   {
-    "proxy": "http://37.187.92.9:1029",
-    "tested_at": "2026-02-14T23:38:02Z",
-    "ip": "185.220.101.17",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Brandenburg",
-    "region_code": "BB",
-    "city": "Brandenburg",
-    "latitude": 52.4125287,
-    "longitude": 12.5316444,
-    "is_eu": true,
-    "postal": "14770",
-    "connection": {
-      "asn": 60729,
-      "org": "Artikel10 E.V.",
-      "isp": "Stiftung Erneuerbare Freiheit",
-      "domain": "relayon.org"
-    }
-  },
-  {
     "proxy": "http://37.187.92.9:1040",
-    "tested_at": "2026-02-14T23:38:08Z",
-    "ip": "185.220.101.140",
+    "tested_at": "2026-02-15T00:09:27Z",
+    "ip": "185.220.101.97",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -66,57 +43,11 @@
       "org": "Artikel10 E.V.",
       "isp": "Stiftung Erneuerbare Freiheit",
       "domain": "relayon.org"
-    }
-  },
-  {
-    "proxy": "http://85.234.69.183:3128",
-    "tested_at": "2026-02-14T23:38:16Z",
-    "ip": "85.234.69.183",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Hesse",
-    "region_code": "HE",
-    "city": "Eschborn",
-    "latitude": 50.1467469,
-    "longitude": 8.5614555,
-    "is_eu": true,
-    "postal": "65760",
-    "connection": {
-      "asn": 199524,
-      "org": "G core Labs S.A.",
-      "isp": "G core Labs S.A.",
-      "domain": "gcore.com"
-    }
-  },
-  {
-    "proxy": "http://157.230.106.35:8080",
-    "tested_at": "2026-02-14T23:38:31Z",
-    "ip": "157.230.106.35",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "Hesse",
-    "region_code": "HE",
-    "city": "Frankfurt",
-    "latitude": 50.1109221,
-    "longitude": 8.6821267,
-    "is_eu": true,
-    "postal": "60311",
-    "connection": {
-      "asn": 14061,
-      "org": "Digitalocean, LLC",
-      "isp": "Digitalocean, LLC",
-      "domain": "digitalocean.com"
     }
   },
   {
     "proxy": "http://91.107.254.36:2000",
-    "tested_at": "2026-02-14T23:38:31Z",
+    "tested_at": "2026-02-15T00:09:37Z",
     "ip": "2a01:4f8:1c1e:74d6::1",
     "success": true,
     "type": "IPv6",
@@ -138,8 +69,54 @@
     }
   },
   {
+    "proxy": "http://194.59.204.87:9080",
+    "tested_at": "2026-02-15T00:09:47Z",
+    "ip": "194.59.204.87",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Bavaria",
+    "region_code": "BY",
+    "city": "Nuremberg",
+    "latitude": 49.4254092,
+    "longitude": 11.0796553,
+    "is_eu": true,
+    "postal": "90403",
+    "connection": {
+      "asn": 197540,
+      "org": "Netcup GmbH",
+      "isp": "Netcup GmbH",
+      "domain": "netcup.de"
+    }
+  },
+  {
+    "proxy": "http://157.230.106.35:8080",
+    "tested_at": "2026-02-15T00:09:58Z",
+    "ip": "157.230.106.35",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "region": "Hesse",
+    "region_code": "HE",
+    "city": "Frankfurt",
+    "latitude": 50.1109221,
+    "longitude": 8.6821267,
+    "is_eu": true,
+    "postal": "60311",
+    "connection": {
+      "asn": 14061,
+      "org": "Digitalocean, LLC",
+      "isp": "Digitalocean, LLC",
+      "domain": "digitalocean.com"
+    }
+  },
+  {
     "proxy": "http://128.140.118.165:1080",
-    "tested_at": "2026-02-14T23:38:33Z",
+    "tested_at": "2026-02-15T00:10:01Z",
     "ip": "2a01:4f8:c17:162d::1",
     "success": true,
     "type": "IPv6",
@@ -161,31 +138,8 @@
     }
   },
   {
-    "proxy": "http://82.165.61.217:8085",
-    "tested_at": "2026-02-14T23:38:44Z",
-    "ip": "82.165.61.217",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Germany",
-    "country_code": "DE",
-    "region": "North Rhine-Westphalia",
-    "region_code": "NW",
-    "city": "Essen",
-    "latitude": 51.4556432,
-    "longitude": 7.0115552,
-    "is_eu": true,
-    "postal": "45127",
-    "connection": {
-      "asn": 8560,
-      "org": "De Rhr Bap Ngcs Public",
-      "isp": "IONOS SE",
-      "domain": ""
-    }
-  },
-  {
     "proxy": "http://47.91.65.23:3128",
-    "tested_at": "2026-02-14T23:38:47Z",
+    "tested_at": "2026-02-15T00:10:11Z",
     "ip": "47.91.65.23",
     "success": true,
     "type": "IPv4",

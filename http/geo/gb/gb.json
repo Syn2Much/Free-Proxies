@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://212.110.188.203:34410",
-    "tested_at": "2026-02-14T23:38:11Z",
-    "ip": "212.110.188.203",
+    "proxy": "http://212.110.188.212:34410",
+    "tested_at": "2026-02-15T00:09:45Z",
+    "ip": "212.110.188.212",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -23,9 +23,32 @@
     }
   },
   {
-    "proxy": "http://212.110.188.201:34408",
-    "tested_at": "2026-02-14T23:38:20Z",
-    "ip": "212.110.188.201",
+    "proxy": "http://109.120.135.230:2030",
+    "tested_at": "2026-02-15T00:09:52Z",
+    "ip": "2a0b:4140:685e::2",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "region": "England",
+    "region_code": "ENG",
+    "city": "London",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583,
+    "is_eu": false,
+    "postal": "SW1",
+    "connection": {
+      "asn": 210644,
+      "org": "AEZA NETWORK STOCKHOLM",
+      "isp": "AEZA INTERNATIONAL LTD",
+      "domain": "aeza.net"
+    }
+  },
+  {
+    "proxy": "http://212.110.188.196:34403",
+    "tested_at": "2026-02-15T00:09:56Z",
+    "ip": "212.110.188.196",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -47,7 +70,7 @@
   },
   {
     "proxy": "http://37.27.180.250:2081",
-    "tested_at": "2026-02-14T23:38:33Z",
+    "tested_at": "2026-02-15T00:09:56Z",
     "ip": "141.98.101.182",
     "success": true,
     "type": "IPv4",
@@ -69,32 +92,9 @@
     }
   },
   {
-    "proxy": "http://62.255.223.195:8080",
-    "tested_at": "2026-02-14T23:38:47Z",
-    "ip": "62.255.223.195",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "region": "Scotland",
-    "region_code": "SCT",
-    "city": "Edinburgh",
-    "latitude": 55.953252,
-    "longitude": -3.188267,
-    "is_eu": false,
-    "postal": "EH1 3EG",
-    "connection": {
-      "asn": 5089,
-      "org": "Virgin Media Limited",
-      "isp": "Virgin Media Limited",
-      "domain": "adsgroup.org.uk"
-    }
-  },
-  {
-    "proxy": "http://212.110.188.210:34408",
-    "tested_at": "2026-02-14T23:39:02Z",
-    "ip": "212.110.188.210",
+    "proxy": "http://212.110.188.201:34408",
+    "tested_at": "2026-02-15T00:10:10Z",
+    "ip": "212.110.188.201",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",

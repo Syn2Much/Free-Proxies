@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://80.91.116.129:8081",
-    "tested_at": "2026-02-14T23:38:25Z",
+    "tested_at": "2026-02-15T00:09:35Z",
     "ip": "77.242.21.186",
     "success": true,
     "type": "IPv4",
@@ -20,52 +20,6 @@
       "org": "Business Static Pool",
       "isp": "Abissnet SH.A.",
       "domain": "abissnet.al"
-    }
-  },
-  {
-    "proxy": "http://77.242.21.186:8081",
-    "tested_at": "2026-02-14T23:38:38Z",
-    "ip": "77.242.21.186",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Albania",
-    "country_code": "AL",
-    "region": "Central Albania",
-    "region_code": "",
-    "city": "Kamëz",
-    "latitude": 41.3783926,
-    "longitude": 19.7770261,
-    "is_eu": false,
-    "postal": "1030",
-    "connection": {
-      "asn": 35047,
-      "org": "Business Static Pool",
-      "isp": "Abissnet SH.A.",
-      "domain": "abissnet.al"
-    }
-  },
-  {
-    "proxy": "http://46.252.35.91:8080",
-    "tested_at": "2026-02-14T23:38:41Z",
-    "ip": "46.252.35.91",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Albania",
-    "country_code": "AL",
-    "region": "Central Albania",
-    "region_code": "",
-    "city": "Tirana",
-    "latitude": 41.3275459,
-    "longitude": 19.8186982,
-    "is_eu": false,
-    "postal": "1051",
-    "connection": {
-      "asn": 21183,
-      "org": "ABCOM class",
-      "isp": "Vodafone Albania SH.A.",
-      "domain": "abcom.al"
     }
   }
 ]

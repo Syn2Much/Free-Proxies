@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://198.52.243.21:9999",
-    "tested_at": "2026-02-14T23:38:25Z",
-    "ip": "198.52.243.159",
+    "proxy": "http://72.10.160.170:13989",
+    "tested_at": "2026-02-15T00:09:41Z",
+    "ip": "72.50.56.142",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,22 +10,22 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "Humacao",
-    "latitude": 18.1496828,
-    "longitude": -65.8273847,
+    "city": "San Juan",
+    "latitude": 18.4655394,
+    "longitude": -66.1057355,
     "is_eu": false,
-    "postal": "00792",
+    "postal": "00901",
     "connection": {
-      "asn": 401013,
-      "org": "BNET",
-      "isp": "BNET",
-      "domain": "bnetglobal.com"
+      "asn": 10396,
+      "org": "Puerto Rico Telephone Company",
+      "isp": "DATACOM CARIBE, INC.",
+      "domain": "prtc.net"
     }
   },
   {
-    "proxy": "http://23.138.88.96:999",
-    "tested_at": "2026-02-14T23:38:29Z",
-    "ip": "23.138.88.97",
+    "proxy": "http://192.254.104.201:999",
+    "tested_at": "2026-02-15T00:10:18Z",
+    "ip": "154.64.221.26",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -33,39 +33,16 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "Adjuntas",
-    "latitude": 18.1627363,
-    "longitude": -66.7221187,
+    "city": "San Juan",
+    "latitude": 18.4655394,
+    "longitude": -66.1057355,
     "is_eu": false,
-    "postal": "00601",
+    "postal": "00901",
     "connection": {
-      "asn": 400354,
-      "org": "ALPHANET CORP",
-      "isp": "ALPHANET CORP",
-      "domain": "alphanetwireless.net"
-    }
-  },
-  {
-    "proxy": "http://192.203.0.166:999",
-    "tested_at": "2026-02-14T23:38:46Z",
-    "ip": "192.203.0.166",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Puerto Rico",
-    "country_code": "PR",
-    "region": "Puerto Rico",
-    "region_code": "PR",
-    "city": "Fajardo",
-    "latitude": 18.3257869,
-    "longitude": -65.6523838,
-    "is_eu": false,
-    "postal": "00738-4805",
-    "connection": {
-      "asn": 63393,
-      "org": "BOOM NET",
-      "isp": "BOOM NET",
-      "domain": "boomsolutionspr.com"
+      "asn": 21559,
+      "org": "Cogent Communications",
+      "isp": "OSNET",
+      "domain": "osnetpr.net"
     }
   }
 ]

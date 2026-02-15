@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://178.252.134.188:3128",
-    "tested_at": "2026-02-14T23:07:12Z",
+    "tested_at": "2026-02-15T00:09:27Z",
     "ip": "178.252.134.188",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,29 @@
       "org": "MABNA",
       "isp": "Gostaresh e ertebatat e Mabna Company private Joint Stock",
       "domain": "mabnatelecom.com"
+    }
+  },
+  {
+    "proxy": "http://185.186.240.9:1396",
+    "tested_at": "2026-02-15T00:10:15Z",
+    "ip": "185.186.240.9",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Iran",
+    "country_code": "IR",
+    "region": "Tehran Province",
+    "region_code": "23",
+    "city": "Tehran",
+    "latitude": 35.6891975,
+    "longitude": 51.3889736,
+    "is_eu": false,
+    "postal": "1317947564",
+    "connection": {
+      "asn": 203684,
+      "org": "Gostaresh Ertebat Azin Kia Company Pjsc",
+      "isp": "Imen Sanat Novin Alighapoo Private Joint Stock Company",
+      "domain": "azinkia.ir"
     }
   }
 ]

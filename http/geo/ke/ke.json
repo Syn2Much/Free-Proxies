@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://154.159.247.119:8080",
-    "tested_at": "2026-02-14T23:38:26Z",
-    "ip": "154.159.247.119",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Murang`a",
-    "region_code": "",
-    "city": "Maragua",
-    "latitude": -0.794421,
-    "longitude": 37.13122,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 36926,
-      "org": "",
-      "isp": "Airtel KE Mobile Fixed Internet",
-      "domain": ""
-    }
-  },
-  {
-    "proxy": "http://197.232.47.122:8080",
-    "tested_at": "2026-02-14T23:38:59Z",
-    "ip": "197.232.47.122",
+    "proxy": "http://102.211.216.18:8080",
+    "tested_at": "2026-02-15T00:09:42Z",
+    "ip": "102.211.216.18",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -33,16 +10,62 @@
     "country_code": "KE",
     "region": "Kiambu",
     "region_code": "13",
-    "city": "Kikuyu",
-    "latitude": -1.2543366,
-    "longitude": 36.681661,
+    "city": "Juja",
+    "latitude": -1.1018224,
+    "longitude": 37.0144027,
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 36866,
-      "org": "Jamii Telecommunications Limited",
-      "isp": "Jamii Telecommunications Limited",
-      "domain": "jtl.co.ke"
+      "asn": 37129,
+      "org": "Rasmilink",
+      "isp": "Rasmilink",
+      "domain": "rasmilink.co.ke"
+    }
+  },
+  {
+    "proxy": "http://102.207.191.68:8080",
+    "tested_at": "2026-02-15T00:09:42Z",
+    "ip": "102.207.191.68",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Kitui",
+    "region_code": "18",
+    "city": "Mwingi",
+    "latitude": -0.937411,
+    "longitude": 38.0605006,
+    "is_eu": false,
+    "postal": "90400",
+    "connection": {
+      "asn": 329497,
+      "org": "Customer Assignment Public Ipv Addresses for Subscriber customer Devices.",
+      "isp": "Avitech Solutions LTD",
+      "domain": "avitechsolutionsltd.com"
+    }
+  },
+  {
+    "proxy": "http://41.89.225.225:3128",
+    "tested_at": "2026-02-15T00:09:48Z",
+    "ip": "41.89.225.225",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Kenya",
+    "country_code": "KE",
+    "region": "Nairobi",
+    "region_code": "110",
+    "city": "Nairobi",
+    "latitude": -1.2920659,
+    "longitude": 36.8219462,
+    "is_eu": false,
+    "postal": "200",
+    "connection": {
+      "asn": 36914,
+      "org": "Kenya Methodist University Meru Campus",
+      "isp": "Kenya Education Network",
+      "domain": "kenet.or.ke"
     }
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://185.202.165.1:53281",
-    "tested_at": "2026-02-14T23:38:50Z",
+    "tested_at": "2026-02-15T00:09:27Z",
     "ip": "185.44.232.30",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,52 @@
       "org": "AVATEL TELECOM, SA",
       "isp": "AVATEL TELECOM, SA",
       "domain": "avatel.es"
+    }
+  },
+  {
+    "proxy": "http://193.38.224.169:8081",
+    "tested_at": "2026-02-15T00:09:31Z",
+    "ip": "193.38.224.169",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Spain",
+    "country_code": "ES",
+    "region": "Castile and León",
+    "region_code": "CL",
+    "city": "León",
+    "latitude": 42.5987263,
+    "longitude": -5.5670959,
+    "is_eu": true,
+    "postal": "24003",
+    "connection": {
+      "asn": 206276,
+      "org": "Citelia S.A.",
+      "isp": "Citelia S.A.",
+      "domain": "citelia.es"
+    }
+  },
+  {
+    "proxy": "http://77.225.198.220:9812",
+    "tested_at": "2026-02-15T00:10:16Z",
+    "ip": "77.225.198.220",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Spain",
+    "country_code": "ES",
+    "region": "Madrid",
+    "region_code": "M",
+    "city": "Madrid",
+    "latitude": 40.4167754,
+    "longitude": -3.7037902,
+    "is_eu": true,
+    "postal": "28080",
+    "connection": {
+      "asn": 12430,
+      "org": "Comunitel Global S.A.",
+      "isp": "VODAFONE ESPANA S.A.U.",
+      "domain": "vodafone.es"
     }
   }
 ]

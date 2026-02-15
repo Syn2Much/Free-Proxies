@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://36.253.18.38:8181",
-    "tested_at": "2026-02-14T23:07:24Z",
-    "ip": "36.253.18.38",
+    "proxy": "http://103.124.97.12:8080",
+    "tested_at": "2026-02-15T00:09:28Z",
+    "ip": "103.124.97.12",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Nepal",
     "country_code": "NP",
-    "region": "Bagmati Pradesh",
+    "region": "Gandaki Pradesh",
     "region_code": "",
-    "city": "Patan",
-    "latitude": 27.6644011,
-    "longitude": 85.3187914,
+    "city": "Parbat",
+    "latitude": 28.2586837,
+    "longitude": 83.7743509,
     "is_eu": false,
-    "postal": "44707",
+    "postal": "33400",
     "connection": {
-      "asn": 38565,
-      "org": "Ncell Pty. Ltd.",
-      "isp": "Ncell Pty. Ltd.",
-      "domain": "ncell.com.np"
+      "asn": 138388,
+      "org": "Pi net Prefix",
+      "isp": "Pokhara Internet Pvt. Ltd.",
+      "domain": "pokharainternet.com.np"
     }
   }
 ]

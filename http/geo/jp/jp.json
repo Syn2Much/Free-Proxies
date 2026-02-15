@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://150.230.104.3:16728",
-    "tested_at": "2026-02-14T23:38:03Z",
+    "tested_at": "2026-02-15T00:09:27Z",
     "ip": "150.230.104.3",
     "success": true,
     "type": "IPv4",
@@ -23,72 +23,26 @@
     }
   },
   {
-    "proxy": "http://47.79.94.78:1122",
-    "tested_at": "2026-02-14T23:38:16Z",
-    "ip": "47.79.94.78",
+    "proxy": "http://61.118.38.234:60808",
+    "tested_at": "2026-02-15T00:10:14Z",
+    "ip": "61.118.38.234",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Japan",
     "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
+    "region": "Chiba Prefecture",
+    "region_code": "12",
+    "city": "Funabashi",
+    "latitude": 35.6999967,
+    "longitude": 139.9868982,
     "is_eu": false,
-    "postal": "100-0002",
+    "postal": "273-0005",
     "connection": {
-      "asn": 45102,
-      "org": "Alibaba Cloud LLC",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibaba-inc.com"
-    }
-  },
-  {
-    "proxy": "http://47.79.95.122:1122",
-    "tested_at": "2026-02-14T23:38:17Z",
-    "ip": "47.79.95.122",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
-    "is_eu": false,
-    "postal": "100-0002",
-    "connection": {
-      "asn": 45102,
-      "org": "Alibaba Cloud LLC",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibaba-inc.com"
-    }
-  },
-  {
-    "proxy": "http://8.209.255.13:3128",
-    "tested_at": "2026-02-14T23:38:19Z",
-    "ip": "8.209.255.13",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Shibuya City",
-    "latitude": 35.6549037,
-    "longitude": 139.6945698,
-    "is_eu": false,
-    "postal": "150-0036",
-    "connection": {
-      "asn": 45102,
-      "org": "Shiodome Sumitomo Blog 1 Tokyo",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibaba-inc.com"
+      "asn": 4713,
+      "org": "Open Computer Network",
+      "isp": "NTT Docomo Business,inc.",
+      "domain": "ntt.com"
     }
   }
 ]

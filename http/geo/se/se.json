@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://65.108.203.35:18080",
-    "tested_at": "2026-02-14T23:38:31Z",
-    "ip": "2001:67c:2660:425:f24d:a2ff:fe74:2bdc",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Östergötland County",
-    "region_code": "E",
-    "city": "Linköping",
-    "latitude": 58.410807,
-    "longitude": 15.6213727,
-    "is_eu": true,
-    "postal": "582 24",
-    "connection": {
-      "asn": 205016,
-      "org": "Hern Labs Ab",
-      "isp": "Hern Labs Ab",
-      "domain": "hernlabs.se"
-    }
-  },
-  {
-    "proxy": "http://109.120.135.230:2030",
-    "tested_at": "2026-02-14T23:38:36Z",
-    "ip": "109.120.135.230",
+    "proxy": "http://77.110.97.209:8080",
+    "tested_at": "2026-02-15T00:09:56Z",
+    "ip": "77.110.97.209",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -43,6 +20,29 @@
       "org": "Aeza International LTD",
       "isp": "AEZA INTERNATIONAL LTD",
       "domain": "aeza.net"
+    }
+  },
+  {
+    "proxy": "http://37.187.92.9:1029",
+    "tested_at": "2026-02-15T00:09:57Z",
+    "ip": "45.84.107.128",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Sweden",
+    "country_code": "SE",
+    "region": "Stockholm County",
+    "region_code": "AB",
+    "city": "Sundbyberg",
+    "latitude": 59.3670471,
+    "longitude": 17.9663093,
+    "is_eu": true,
+    "postal": "172 31",
+    "connection": {
+      "asn": 214503,
+      "org": "R0CKET CLOUD",
+      "isp": "Quxlabs Ab",
+      "domain": "quxlabs.com"
     }
   }
 ]
