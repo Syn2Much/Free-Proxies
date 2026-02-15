@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://195.34.91.67:8080",
-    "tested_at": "2026-02-15T04:51:00Z",
-    "ip": "195.34.91.67",
+    "proxy": "http://185.65.247.133:48049",
+    "tested_at": "2026-02-15T05:22:46Z",
+    "ip": "185.65.247.133",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Ukraine",
     "country_code": "UA",
-    "region": "Kyiv Oblast",
-    "region_code": "32",
-    "city": "Boyarka",
-    "latitude": 50.317117,
-    "longitude": 30.298167,
+    "region": "Kyiv city",
+    "region_code": "30",
+    "city": "Kyiv",
+    "latitude": 50.4501,
+    "longitude": 30.5234,
     "is_eu": false,
-    "postal": "08150",
+    "postal": "01001",
     "connection": {
-      "asn": 25514,
-      "org": "Modus global LLC",
-      "isp": "Modus global LLC",
-      "domain": "maximuma.net"
+      "asn": 200000,
+      "org": "Hosting Ukraine VPS Network",
+      "isp": "Hosting Ukraine LTD",
+      "domain": "ukraine.com.ua"
     }
   }
 ]

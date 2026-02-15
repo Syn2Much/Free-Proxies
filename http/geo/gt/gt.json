@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://45.5.118.249:999",
-    "tested_at": "2026-02-15T04:20:31Z",
+    "tested_at": "2026-02-15T05:22:43Z",
     "ip": "45.5.118.249",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,29 @@
       "org": "INFINITUM S.A.",
       "isp": "UFINET PANAMA S.A.",
       "domain": "infinitum.com.gt"
+    }
+  },
+  {
+    "proxy": "http://143.208.57.162:999",
+    "tested_at": "2026-02-15T05:22:54Z",
+    "ip": "143.208.57.162",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "region": "Chimaltenango",
+    "region_code": "CM",
+    "city": "Parramos",
+    "latitude": 14.6136872,
+    "longitude": -90.8032181,
+    "is_eu": false,
+    "postal": "04014",
+    "connection": {
+      "asn": 22869,
+      "org": "COMUNICACIONES METROPOLITANAS CABLECOLOR",
+      "isp": "CABLECOLOR S.A.",
+      "domain": "cablecolor.net"
     }
   }
 ]

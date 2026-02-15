@@ -1,7 +1,7 @@
 [
   {
     "proxy": "https://5.189.184.6:443",
-    "tested_at": "2026-02-15T04:51:14Z",
+    "tested_at": "2026-02-15T05:22:28Z",
     "ip": "5.189.184.6",
     "success": true,
     "type": "IPv4",
@@ -23,8 +23,31 @@
     }
   },
   {
+    "proxy": "https://84.17.43.225:9443",
+    "tested_at": "2026-02-15T05:22:38Z",
+    "ip": "84.17.43.232",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "is_eu": true,
+    "postal": "75007",
+    "connection": {
+      "asn": 212238,
+      "org": "CDNEXT PAR",
+      "isp": "Datacamp Limited",
+      "domain": "datacamp.co.uk"
+    }
+  },
+  {
     "proxy": "https://51.38.191.151:443",
-    "tested_at": "2026-02-15T04:51:44Z",
+    "tested_at": "2026-02-15T05:22:38Z",
     "ip": "2001:41d0:305:2100::4801",
     "success": true,
     "type": "IPv6",
@@ -38,6 +61,29 @@
     "longitude": 2.3522219,
     "is_eu": true,
     "postal": "75007",
+    "connection": {
+      "asn": 16276,
+      "org": "OVH",
+      "isp": "OVH SAS",
+      "domain": "ovh.net"
+    }
+  },
+  {
+    "proxy": "https://91.121.88.53:443",
+    "tested_at": "2026-02-15T05:22:41Z",
+    "ip": "2001:41d0:1:8d35::1",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Europe",
+    "country": "France",
+    "country_code": "FR",
+    "region": "Hauts-de-France",
+    "region_code": "HDF",
+    "city": "Roubaix",
+    "latitude": 50.6927049,
+    "longitude": 3.177847,
+    "is_eu": true,
+    "postal": "59100",
     "connection": {
       "asn": 16276,
       "org": "OVH",

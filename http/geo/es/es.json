@@ -1,25 +1,48 @@
 [
   {
-    "proxy": "http://185.202.165.1:53281",
-    "tested_at": "2026-02-15T04:51:22Z",
-    "ip": "185.44.232.30",
+    "proxy": "http://77.225.198.220:9812",
+    "tested_at": "2026-02-15T05:22:25Z",
+    "ip": "77.225.198.220",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Spain",
     "country_code": "ES",
-    "region": "Andalusia",
-    "region_code": "AN",
-    "city": "Fuengirola",
-    "latitude": 36.544148,
-    "longitude": -4.6249439,
+    "region": "Madrid",
+    "region_code": "M",
+    "city": "Madrid",
+    "latitude": 40.4167754,
+    "longitude": -3.7037902,
     "is_eu": true,
-    "postal": "29640",
+    "postal": "28080",
     "connection": {
-      "asn": 200845,
-      "org": "AVATEL TELECOM, SA",
-      "isp": "AVATEL TELECOM, SA",
-      "domain": "avatel.es"
+      "asn": 12430,
+      "org": "Comunitel Global S.A.",
+      "isp": "VODAFONE ESPANA S.A.U.",
+      "domain": "vodafone.es"
+    }
+  },
+  {
+    "proxy": "http://80.78.128.94:8080",
+    "tested_at": "2026-02-15T05:22:26Z",
+    "ip": "80.78.128.94",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Spain",
+    "country_code": "ES",
+    "region": "Comunitat Valenciana",
+    "region_code": "VC",
+    "city": "Finestrat",
+    "latitude": 38.5677498,
+    "longitude": -0.2125435,
+    "is_eu": true,
+    "postal": "03509",
+    "connection": {
+      "asn": 202913,
+      "org": "CLOUDWIFI, SL",
+      "isp": "CLOUDWIFI, SL",
+      "domain": "cloudwifi.es"
     }
   }
 ]

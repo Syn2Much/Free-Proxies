@@ -1,53 +1,7 @@
 [
   {
-    "proxy": "https://84.17.57.113:443",
-    "tested_at": "2026-02-15T04:51:03Z",
-    "ip": "84.17.57.118",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.276022,
-    "longitude": 114.1751471,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 60068,
-      "org": "Cdn Hong Kong",
-      "isp": "Datacamp Limited",
-      "domain": "cdn77.com"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41488",
-    "tested_at": "2026-02-15T04:51:22Z",
-    "ip": "49.131.201.177",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "New Territories",
-    "latitude": 22.426445,
-    "longitude": 114.262781,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 17924,
-      "org": "Smartone Mobile Communications Limited",
-      "isp": "Smartone Mobile Communications Limited",
-      "domain": "smartone.com"
-    }
-  },
-  {
     "proxy": "https://47.243.181.85:28085",
-    "tested_at": "2026-02-15T04:51:24Z",
+    "tested_at": "2026-02-15T05:22:20Z",
     "ip": "47.243.181.85",
     "success": true,
     "type": "IPv4",
@@ -69,9 +23,9 @@
     }
   },
   {
-    "proxy": "https://47.240.86.21:3128",
-    "tested_at": "2026-02-15T04:51:34Z",
-    "ip": "47.240.86.21",
+    "proxy": "https://47.242.121.18:8443",
+    "tested_at": "2026-02-15T05:22:29Z",
+    "ip": "47.242.121.18",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -93,7 +47,7 @@
   },
   {
     "proxy": "https://20.205.138.223:443",
-    "tested_at": "2026-02-15T04:51:35Z",
+    "tested_at": "2026-02-15T05:22:50Z",
     "ip": "20.205.138.223",
     "success": true,
     "type": "IPv4",
@@ -115,9 +69,32 @@
     }
   },
   {
-    "proxy": "https://47.242.121.18:8443",
-    "tested_at": "2026-02-15T04:51:44Z",
-    "ip": "47.242.121.18",
+    "proxy": "https://47.243.181.85:41487",
+    "tested_at": "2026-02-15T05:22:51Z",
+    "ip": "58.176.128.253",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "region": "Hong Kong",
+    "region_code": "",
+    "city": "Hong Kong",
+    "latitude": 22.3668502,
+    "longitude": 114.1302591,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 9269,
+      "org": "Hong Kong Broadband Network Limited",
+      "isp": "Hong Kong Broadband Network Limited",
+      "domain": "hkbn.net"
+    }
+  },
+  {
+    "proxy": "https://47.240.86.21:3128",
+    "tested_at": "2026-02-15T05:23:09Z",
+    "ip": "47.240.86.21",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",

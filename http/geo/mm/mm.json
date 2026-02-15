@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://103.81.115.210:8080",
-    "tested_at": "2026-02-15T03:48:37Z",
-    "ip": "103.81.115.210",
+    "proxy": "http://136.228.160.250:8080",
+    "tested_at": "2026-02-15T05:22:47Z",
+    "ip": "136.228.160.250",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "00000",
     "connection": {
-      "asn": 132148,
-      "org": "HORIZON TELECOM INTERNATIONAL COMPANY LIMITED",
-      "isp": "HORIZON TELECOM INTERNATIONAL COMPANY LIMITED",
-      "domain": "telecom-horizon.com"
+      "asn": 9988,
+      "org": "Myanma Post Telecommunication",
+      "isp": "Myanma Post Telecommunication",
+      "domain": "mptjo.com.mm"
     }
   }
 ]

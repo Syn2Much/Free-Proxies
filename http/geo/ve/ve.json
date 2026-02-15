@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://190.94.213.80:999",
-    "tested_at": "2026-02-15T04:51:02Z",
-    "ip": "190.94.213.80",
+    "proxy": "http://190.94.212.249:999",
+    "tested_at": "2026-02-15T05:22:32Z",
+    "ip": "190.94.212.249",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -23,55 +23,32 @@
     }
   },
   {
-    "proxy": "http://45.184.103.110:999",
-    "tested_at": "2026-02-15T04:51:06Z",
-    "ip": "45.184.103.110",
+    "proxy": "http://190.97.241.102:999",
+    "tested_at": "2026-02-15T05:22:32Z",
+    "ip": "190.97.241.102",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Venezuela",
     "country_code": "VE",
-    "region": "Carabobo State",
-    "region_code": "G",
-    "city": "Valencia",
-    "latitude": 10.1579312,
-    "longitude": -67.9972104,
+    "region": "Trujillo State",
+    "region_code": "T",
+    "city": "Valera",
+    "latitude": 9.3191109,
+    "longitude": -70.6032995,
     "is_eu": false,
-    "postal": "2001",
+    "postal": "3101",
     "connection": {
-      "asn": 269771,
-      "org": "PRINTER NET SERVICE, C.A.",
-      "isp": "PRINTER NET SERVICE, C.A.",
-      "domain": "pns.com.ve"
+      "asn": 263703,
+      "org": "VIGINET C.A",
+      "isp": "VIGINET C.A",
+      "domain": "viginet.com.ve"
     }
   },
   {
-    "proxy": "http://38.171.255.232:999",
-    "tested_at": "2026-02-15T04:51:06Z",
-    "ip": "38.171.255.232",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Carabobo State",
-    "region_code": "G",
-    "city": "Valencia",
-    "latitude": 10.1579312,
-    "longitude": -67.9972104,
-    "is_eu": false,
-    "postal": "2001",
-    "connection": {
-      "asn": 61461,
-      "org": "Cogent Communications",
-      "isp": "Airtek Solutions C.A.",
-      "domain": "airtek.com.ve"
-    }
-  },
-  {
-    "proxy": "http://190.94.213.244:999",
-    "tested_at": "2026-02-15T04:51:10Z",
-    "ip": "190.94.213.244",
+    "proxy": "http://190.94.212.43:999",
+    "tested_at": "2026-02-15T05:23:08Z",
+    "ip": "190.94.212.43",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -89,52 +66,6 @@
       "org": "Ifx Networks Venezuela C.A.",
       "isp": "Ifx Networks Venezuela C.A.",
       "domain": "ifxnw.com.ve"
-    }
-  },
-  {
-    "proxy": "http://190.97.254.254:999",
-    "tested_at": "2026-02-15T04:51:32Z",
-    "ip": "38.150.26.175",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Zulia State",
-    "region_code": "V",
-    "city": "San Carlos del Zulia",
-    "latitude": 8.9999952,
-    "longitude": -71.9253141,
-    "is_eu": false,
-    "postal": "5147",
-    "connection": {
-      "asn": 269741,
-      "org": "Cogent Communications, LLC",
-      "isp": "INVERSIONES RED NET 0 0, C.A",
-      "domain": "lidernetzone.net"
-    }
-  },
-  {
-    "proxy": "http://45.230.169.129:999",
-    "tested_at": "2026-02-15T04:51:38Z",
-    "ip": "45.230.169.130",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Venezuela",
-    "country_code": "VE",
-    "region": "Capital District",
-    "region_code": "A",
-    "city": "Caracas",
-    "latitude": 10.4805937,
-    "longitude": -66.9036063,
-    "is_eu": false,
-    "postal": "1012",
-    "connection": {
-      "asn": 266742,
-      "org": "SOLUCIONES DCN NETWORK C.A",
-      "isp": "SOLUCIONES DCN NETWORK C.A",
-      "domain": ""
     }
   }
 ]

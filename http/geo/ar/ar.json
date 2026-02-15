@@ -1,25 +1,94 @@
 [
   {
-    "proxy": "http://72.10.164.178:12111",
-    "tested_at": "2026-02-15T04:51:25Z",
-    "ip": "190.229.64.40",
+    "proxy": "http://45.169.169.14:8085",
+    "tested_at": "2026-02-15T05:22:23Z",
+    "ip": "45.169.169.14",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Argentina",
     "country_code": "AR",
-    "region": "Misiónes",
-    "region_code": "N",
-    "city": "Puerto Iguazú",
-    "latitude": -25.5971635,
-    "longitude": -54.578599,
+    "region": "La Pampa",
+    "region_code": "L",
+    "city": "General Acha",
+    "latitude": -37.3687938,
+    "longitude": -64.5998672,
     "is_eu": false,
-    "postal": "N3370 ZAA",
+    "postal": "8200",
+    "connection": {
+      "asn": 267762,
+      "org": "WILBERGER CESAR GUSTAVO",
+      "isp": "Wilberger Cesar Gustavo",
+      "domain": "insert.com.ar"
+    }
+  },
+  {
+    "proxy": "http://181.209.71.222:8080",
+    "tested_at": "2026-02-15T05:22:55Z",
+    "ip": "181.209.71.222",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "Tornquist",
+    "latitude": -38.0987358,
+    "longitude": -62.2236252,
+    "is_eu": false,
+    "postal": "8160",
+    "connection": {
+      "asn": 52361,
+      "org": "Universidad Nacional De Cordoba",
+      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
+      "domain": "arsat.com.ar"
+    }
+  },
+  {
+    "proxy": "http://181.209.82.206:999",
+    "tested_at": "2026-02-15T05:22:56Z",
+    "ip": "181.209.82.206",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "Buenos Aires",
+    "latitude": -34.6036844,
+    "longitude": -58.3815591,
+    "is_eu": false,
+    "postal": "C1405 DJG",
+    "connection": {
+      "asn": 52361,
+      "org": "Net g S.R.L",
+      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
+      "domain": "arsat.com.ar"
+    }
+  },
+  {
+    "proxy": "http://67.43.236.21:15853",
+    "tested_at": "2026-02-15T05:22:59Z",
+    "ip": "190.226.86.247",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "Olivos",
+    "latitude": -34.5105515,
+    "longitude": -58.4963913,
+    "is_eu": false,
+    "postal": "B1636",
     "connection": {
       "asn": 7303,
-      "org": "Apolo Gold Telecom Per",
+      "org": "Apolo gold telecom per",
       "isp": "Telecom Argentina S.A.",
-      "domain": ""
+      "domain": "telecom.com.ar"
     }
   }
 ]

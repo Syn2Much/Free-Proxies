@@ -1,145 +1,7 @@
 [
   {
-    "proxy": "http://190.12.95.170:47029",
-    "tested_at": "2026-02-15T04:50:56Z",
-    "ip": "190.12.95.170",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Lima",
-    "region_code": "LIM",
-    "city": "Lima District",
-    "latitude": -12.046374,
-    "longitude": -77.0427934,
-    "is_eu": false,
-    "postal": "15081",
-    "connection": {
-      "asn": 27843,
-      "org": "SERVICIO NACIONAL DE METEOROLOGIA E HIDROLOGIA SENAMHI",
-      "isp": "WIN EMPRESAS S.A.C.",
-      "domain": "on.pe"
-    }
-  },
-  {
-    "proxy": "http://38.159.166.213:999",
-    "tested_at": "2026-02-15T04:51:05Z",
-    "ip": "38.159.166.157",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Lima",
-    "region_code": "LIM",
-    "city": "Lima District",
-    "latitude": -12.046374,
-    "longitude": -77.0427934,
-    "is_eu": false,
-    "postal": "15081",
-    "connection": {
-      "asn": 274113,
-      "org": "Cogent Communications",
-      "isp": "CINTELSUR PERU S.A.C.",
-      "domain": "cintel.pe"
-    }
-  },
-  {
-    "proxy": "http://45.189.117.52:999",
-    "tested_at": "2026-02-15T04:51:30Z",
-    "ip": "45.189.117.53",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Lima",
-    "region_code": "LIM",
-    "city": "Lima District",
-    "latitude": -12.046374,
-    "longitude": -77.0427934,
-    "is_eu": false,
-    "postal": "15081",
-    "connection": {
-      "asn": 273133,
-      "org": "CONEX TV E.I.R.L.",
-      "isp": "CONEX TV E.I.R.L.",
-      "domain": "fiberdigital.pe"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.90:16377",
-    "tested_at": "2026-02-15T04:51:31Z",
-    "ip": "38.250.158.146",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Tacna",
-    "region_code": "TAC",
-    "city": "Tacna",
-    "latitude": -18.0065679,
-    "longitude": -70.2462741,
-    "is_eu": false,
-    "postal": "23001",
-    "connection": {
-      "asn": 270068,
-      "org": "Wow Tel Sac",
-      "isp": "DESARROLLO DE INFRAESTRUCTURA DE TELECOMUNICACIONES PERU S.A.C. INFRATEL",
-      "domain": "wowperu.pe"
-    }
-  },
-  {
-    "proxy": "http://67.43.228.253:29067",
-    "tested_at": "2026-02-15T04:51:35Z",
-    "ip": "190.236.210.89",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Lima Metropolitan Area",
-    "region_code": "",
-    "city": "Callao",
-    "latitude": -12.0508491,
-    "longitude": -77.1259843,
-    "is_eu": false,
-    "postal": "22435",
-    "connection": {
-      "asn": 6147,
-      "org": "PE TDP GRS",
-      "isp": "INTEGRATEL PER S.A.A.",
-      "domain": "tdp.net.pe"
-    }
-  },
-  {
-    "proxy": "http://201.230.121.86:999",
-    "tested_at": "2026-02-15T04:51:38Z",
-    "ip": "201.230.121.86",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Peru",
-    "country_code": "PE",
-    "region": "Apurimac",
-    "region_code": "APU",
-    "city": "Andarapa",
-    "latitude": -13.5279385,
-    "longitude": -73.3659226,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 6147,
-      "org": "PE TDPERX1 LACNIC",
-      "isp": "Telefonica del Peru",
-      "domain": ""
-    }
-  },
-  {
     "proxy": "http://38.52.182.101:999",
-    "tested_at": "2026-02-15T04:51:49Z",
+    "tested_at": "2026-02-15T05:22:43Z",
     "ip": "38.52.182.96",
     "success": true,
     "type": "IPv4",
@@ -158,6 +20,52 @@
       "org": "Cogent Communications",
       "isp": "NEXSATEL SOCIEDAD ANONIMA CERRADA NEXSATEL S.A.C.",
       "domain": "nexsatel.com.pe"
+    }
+  },
+  {
+    "proxy": "http://45.189.118.214:999",
+    "tested_at": "2026-02-15T05:22:44Z",
+    "ip": "204.157.243.62",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Lima",
+    "region_code": "LIM",
+    "city": "Ate",
+    "latitude": -12.03856,
+    "longitude": -76.928749,
+    "is_eu": false,
+    "postal": "15487",
+    "connection": {
+      "asn": 274131,
+      "org": "AGIS",
+      "isp": "Andinatel S.A.C.",
+      "domain": ""
+    }
+  },
+  {
+    "proxy": "http://200.107.142.39:3128",
+    "tested_at": "2026-02-15T05:22:46Z",
+    "ip": "200.107.142.38",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Peru",
+    "country_code": "PE",
+    "region": "Cajamarca",
+    "region_code": "CAJ",
+    "city": "San Ignacio",
+    "latitude": -5.146268,
+    "longitude": -79.0023523,
+    "is_eu": false,
+    "postal": "3322",
+    "connection": {
+      "asn": 6147,
+      "org": "TELEFONICA DEL PERU SAA",
+      "isp": "INTEGRATEL PER S.A.A.",
+      "domain": "telefonica.com.pe"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://23.138.88.96:999",
-    "tested_at": "2026-02-15T04:51:07Z",
-    "ip": "23.138.88.97",
+    "proxy": "http://23.131.56.129:999",
+    "tested_at": "2026-02-15T05:22:42Z",
+    "ip": "23.131.56.46",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -10,22 +10,22 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "Adjuntas",
-    "latitude": 18.1627363,
-    "longitude": -66.7221187,
+    "city": "Betances",
+    "latitude": 18.0299225,
+    "longitude": -67.1321012,
     "is_eu": false,
-    "postal": "00601",
+    "postal": "00623",
     "connection": {
-      "asn": 400354,
-      "org": "ALPHANET CORP",
-      "isp": "ALPHANET CORP",
-      "domain": "alphanetwireless.net"
+      "asn": 399826,
+      "org": "Webiffi LLC",
+      "isp": "Webiffi LLC",
+      "domain": "webiffi.com"
     }
   },
   {
-    "proxy": "http://198.52.243.3:9999",
-    "tested_at": "2026-02-15T04:51:53Z",
-    "ip": "198.52.243.174",
+    "proxy": "http://192.203.0.250:999",
+    "tested_at": "2026-02-15T05:22:50Z",
+    "ip": "192.203.0.250",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -33,16 +33,16 @@
     "country_code": "PR",
     "region": "Puerto Rico",
     "region_code": "PR",
-    "city": "Humacao",
-    "latitude": 18.1496828,
-    "longitude": -65.8273847,
+    "city": "Yabucoa",
+    "latitude": 18.0505201,
+    "longitude": -65.8793288,
     "is_eu": false,
-    "postal": "00792",
+    "postal": "00767",
     "connection": {
-      "asn": 401013,
-      "org": "BNET",
-      "isp": "BNET",
-      "domain": "bnetglobal.com"
+      "asn": 63393,
+      "org": "BOOM NET",
+      "isp": "BOOM NET",
+      "domain": "boomsolutionspr.com"
     }
   }
 ]

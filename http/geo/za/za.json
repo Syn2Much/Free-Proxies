@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://41.180.70.2:8080",
-    "tested_at": "2026-02-15T04:51:09Z",
-    "ip": "41.180.70.2",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Gauteng",
-    "region_code": "GT",
-    "city": "Johannesburg",
-    "latitude": -26.2041028,
-    "longitude": 28.0473051,
-    "is_eu": false,
-    "postal": "2001",
-    "connection": {
-      "asn": 36916,
-      "org": "Fixed Line ISP",
-      "isp": "X dsl Networking Solutions",
-      "domain": "x-dsl.co.za"
-    }
-  },
-  {
-    "proxy": "http://41.57.6.30:6060",
-    "tested_at": "2026-02-15T04:51:18Z",
-    "ip": "41.57.6.30",
+    "proxy": "http://217.29.209.22:8865",
+    "tested_at": "2026-02-15T05:23:06Z",
+    "ip": "217.29.209.22",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -33,85 +10,16 @@
     "country_code": "ZA",
     "region": "North West",
     "region_code": "NW",
-    "city": "Rustenburg",
-    "latitude": -25.6544483,
-    "longitude": 27.255854,
+    "city": "Potchefstroom",
+    "latitude": -26.7145297,
+    "longitude": 27.0970475,
     "is_eu": false,
-    "postal": "0300",
-    "connection": {
-      "asn": 327688,
-      "org": "Breakout Point 1",
-      "isp": "Screamer Telecommunications",
-      "domain": "screamer.co.za"
-    }
-  },
-  {
-    "proxy": "http://102.213.23.22:1452",
-    "tested_at": "2026-02-15T04:51:26Z",
-    "ip": "102.213.23.22",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Gauteng",
-    "region_code": "GT",
-    "city": "Johannesburg",
-    "latitude": -26.2041028,
-    "longitude": 28.0473051,
-    "is_eu": false,
-    "postal": "2001",
-    "connection": {
-      "asn": 327996,
-      "org": "Accelerit pppoe 1 .",
-      "isp": "Accelerit Technologies Pty LTD",
-      "domain": "accelerit.co.za"
-    }
-  },
-  {
-    "proxy": "http://169.239.223.79:9999",
-    "tested_at": "2026-02-15T04:51:50Z",
-    "ip": "169.239.223.79",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Eastern Cape",
-    "region_code": "EC",
-    "city": "Queenstown",
-    "latitude": -31.8976415,
-    "longitude": 26.9263671,
-    "is_eu": false,
-    "postal": "5319",
+    "postal": "2520",
     "connection": {
       "asn": 328471,
       "org": "HERO TELECOMS PTY LTD",
       "isp": "HERO TELECOMS PTY LTD",
       "domain": "herotel.com"
-    }
-  },
-  {
-    "proxy": "http://102.23.237.121:8080",
-    "tested_at": "2026-02-15T04:51:53Z",
-    "ip": "102.23.237.121",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Northern Cape",
-    "region_code": "NC",
-    "city": "Upington",
-    "latitude": -28.3952677,
-    "longitude": 21.2368084,
-    "is_eu": false,
-    "postal": "8801",
-    "connection": {
-      "asn": 327750,
-      "org": "Jenny Za Ipv Network",
-      "isp": "JENNY INTERNET PTY LTD",
-      "domain": "jennyinternet.co.za"
     }
   }
 ]

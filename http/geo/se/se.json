@@ -1,33 +1,10 @@
 [
   {
-    "proxy": "http://65.108.203.36:18080",
-    "tested_at": "2026-02-15T04:50:52Z",
-    "ip": "2001:67c:198c:906:27::3a4",
+    "proxy": "http://212.113.100.114:8089",
+    "tested_at": "2026-02-15T05:23:05Z",
+    "ip": "212.113.100.114",
     "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Östergötland County",
-    "region_code": "E",
-    "city": "Linköping",
-    "latitude": 58.410807,
-    "longitude": 15.6213727,
-    "is_eu": true,
-    "postal": "582 24",
-    "connection": {
-      "asn": 205016,
-      "org": "Hern Labs Ab",
-      "isp": "Hern Labs Ab",
-      "domain": "hernlabs.se"
-    }
-  },
-  {
-    "proxy": "http://65.108.203.35:28080",
-    "tested_at": "2026-02-15T04:50:53Z",
-    "ip": "2001:67c:2628:647:32:604:0:29",
-    "success": true,
-    "type": "IPv6",
+    "type": "IPv4",
     "continent": "Europe",
     "country": "Sweden",
     "country_code": "SE",
@@ -39,33 +16,10 @@
     "is_eu": true,
     "postal": "111 29",
     "connection": {
-      "asn": 205016,
-      "org": "Hern Labs Ab",
-      "isp": "Hern Labs Ab",
-      "domain": "hernlabs.se"
-    }
-  },
-  {
-    "proxy": "http://65.108.203.37:28080",
-    "tested_at": "2026-02-15T04:50:53Z",
-    "ip": "2001:67c:2628:647:10::100",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Europe",
-    "country": "Sweden",
-    "country_code": "SE",
-    "region": "Stockholm County",
-    "region_code": "AB",
-    "city": "Stockholm",
-    "latitude": 59.3293235,
-    "longitude": 18.0685808,
-    "is_eu": true,
-    "postal": "111 29",
-    "connection": {
-      "asn": 205016,
-      "org": "Hern Labs Ab",
-      "isp": "Hern Labs Ab",
-      "domain": "hernlabs.se"
+      "asn": 210644,
+      "org": "Aeza International LTD",
+      "isp": "AEZA INTERNATIONAL LTD",
+      "domain": "aeza.net"
     }
   }
 ]

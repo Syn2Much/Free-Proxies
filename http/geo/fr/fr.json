@@ -1,30 +1,30 @@
 [
   {
-    "proxy": "http://37.187.109.70:10111",
-    "tested_at": "2026-02-15T04:50:59Z",
-    "ip": "37.187.109.70",
+    "proxy": "http://173.212.215.22:3128",
+    "tested_at": "2026-02-15T05:22:18Z",
+    "ip": "173.212.215.22",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "France",
     "country_code": "FR",
-    "region": "Hauts-de-France",
-    "region_code": "HDF",
-    "city": "Roubaix",
-    "latitude": 50.6927049,
-    "longitude": 3.177847,
+    "region": "Grand Est",
+    "region_code": "GES",
+    "city": "Lauterbourg",
+    "latitude": 48.974797,
+    "longitude": 8.176773,
     "is_eu": true,
-    "postal": "59100",
+    "postal": "67630",
     "connection": {
-      "asn": 16276,
-      "org": "OVH SAS",
-      "isp": "OVH SAS",
-      "domain": "ovh.net"
+      "asn": 51167,
+      "org": "Contabo GmbH",
+      "isp": "Contabo GmbH",
+      "domain": "contabo.de"
     }
   },
   {
     "proxy": "http://185.41.152.110:3128",
-    "tested_at": "2026-02-15T04:51:04Z",
+    "tested_at": "2026-02-15T05:22:31Z",
     "ip": "185.41.152.110",
     "success": true,
     "type": "IPv4",
@@ -47,7 +47,7 @@
   },
   {
     "proxy": "http://90.84.188.97:8000",
-    "tested_at": "2026-02-15T04:51:22Z",
+    "tested_at": "2026-02-15T05:22:44Z",
     "ip": "90.84.188.97",
     "success": true,
     "type": "IPv4",
@@ -69,31 +69,8 @@
     }
   },
   {
-    "proxy": "http://94.183.188.7:6891",
-    "tested_at": "2026-02-15T04:51:23Z",
-    "ip": "94.183.188.7",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "France",
-    "country_code": "FR",
-    "region": "Île-de-France",
-    "region_code": "IDF",
-    "city": "Paris",
-    "latitude": 48.856614,
-    "longitude": 2.3522219,
-    "is_eu": true,
-    "postal": "75007",
-    "connection": {
-      "asn": 56971,
-      "org": "CGI GLOBAL LIMITED",
-      "isp": "CGI GLOBAL LIMITED",
-      "domain": "cloudbackbone.net"
-    }
-  },
-  {
     "proxy": "http://62.133.62.12:1082",
-    "tested_at": "2026-02-15T04:51:24Z",
+    "tested_at": "2026-02-15T05:22:54Z",
     "ip": "62.133.62.12",
     "success": true,
     "type": "IPv4",
@@ -115,26 +92,26 @@
     }
   },
   {
-    "proxy": "http://173.212.246.157:3128",
-    "tested_at": "2026-02-15T04:51:28Z",
-    "ip": "173.212.246.157",
+    "proxy": "http://62.133.62.12:1081",
+    "tested_at": "2026-02-15T05:22:54Z",
+    "ip": "62.133.62.12",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "France",
     "country_code": "FR",
-    "region": "Grand Est",
-    "region_code": "GES",
-    "city": "Lauterbourg",
-    "latitude": 48.974797,
-    "longitude": 8.176773,
+    "region": "Île-de-France",
+    "region_code": "IDF",
+    "city": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
     "is_eu": true,
-    "postal": "67630",
+    "postal": "75007",
     "connection": {
-      "asn": 51167,
-      "org": "Contabo GmbH",
-      "isp": "Contabo GmbH",
-      "domain": "contabo.de"
+      "asn": 215540,
+      "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+      "domain": "gir.network"
     }
   }
 ]

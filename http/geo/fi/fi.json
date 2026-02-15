@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://65.108.159.129:3128",
-    "tested_at": "2026-02-15T04:51:14Z",
-    "ip": "65.108.159.129",
+    "proxy": "http://91.217.76.97:1080",
+    "tested_at": "2026-02-15T05:22:41Z",
+    "ip": "91.217.76.97",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -16,16 +16,16 @@
     "is_eu": true,
     "postal": "02101",
     "connection": {
-      "asn": 24940,
-      "org": "Hetzner Online GmbH",
-      "isp": "Hetzner Online GmbH",
-      "domain": "hetzner.com"
+      "asn": 200740,
+      "org": "FIRST SERVER LIMITED",
+      "isp": "FIRST SERVER LIMITED",
+      "domain": "first-server.net"
     }
   },
   {
-    "proxy": "http://94.159.112.138:3129",
-    "tested_at": "2026-02-15T04:51:27Z",
-    "ip": "94.159.112.138",
+    "proxy": "http://193.47.60.119:52681",
+    "tested_at": "2026-02-15T05:22:48Z",
+    "ip": "193.47.60.119",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -39,16 +39,16 @@
     "is_eu": true,
     "postal": "02101",
     "connection": {
-      "asn": 216300,
-      "org": "New Hosting Technologies LLC",
-      "isp": "Closed Joint Stock Company Abkhazmedia",
-      "domain": "landvps.ru"
+      "asn": 41745,
+      "org": "Baykov Ilya Sergeevich",
+      "isp": "Baykov Ilya Sergeevich",
+      "domain": "fortis.host"
     }
   },
   {
-    "proxy": "http://65.108.159.129:8080",
-    "tested_at": "2026-02-15T04:51:47Z",
-    "ip": "65.108.159.129",
+    "proxy": "http://178.252.171.230:8080",
+    "tested_at": "2026-02-15T05:22:50Z",
+    "ip": "95.216.106.60",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
