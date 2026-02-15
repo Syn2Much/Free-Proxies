@@ -1,7 +1,53 @@
 [
   {
+    "proxy": "http://181.78.27.33:999",
+    "tested_at": "2026-02-15T06:25:17Z",
+    "ip": "181.78.27.33",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "region": "San Pedro",
+    "region_code": "2",
+    "city": "Tacuati",
+    "latitude": -23.4595396,
+    "longitude": -56.7383988,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 52468,
+      "org": "UFINET PARAGUAY S.A.",
+      "isp": "UFINET PANAMA S.A.",
+      "domain": "ufinet.com"
+    }
+  },
+  {
+    "proxy": "http://181.40.18.42:999",
+    "tested_at": "2026-02-15T06:25:27Z",
+    "ip": "181.40.18.42",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "region": "Distrito Capital de Paraguay",
+    "region_code": "",
+    "city": "Asuncion",
+    "latitude": -25.2637399,
+    "longitude": -57.575926,
+    "is_eu": false,
+    "postal": "1226",
+    "connection": {
+      "asn": 23201,
+      "org": "Telecel S.A.",
+      "isp": "Telecel S.A.",
+      "domain": "telecel.com.py"
+    }
+  },
+  {
     "proxy": "http://45.179.193.122:999",
-    "tested_at": "2026-02-15T05:53:35Z",
+    "tested_at": "2026-02-15T06:25:41Z",
     "ip": "45.179.193.122",
     "success": true,
     "type": "IPv4",
@@ -20,29 +66,6 @@
       "org": "Saldivar Sosa Rodrigo Agustin raynet",
       "isp": "Saldivar Sosa Rodrigo Agustin raynet",
       "domain": "raynet.com.py"
-    }
-  },
-  {
-    "proxy": "http://170.245.132.86:999",
-    "tested_at": "2026-02-15T05:54:17Z",
-    "ip": "170.245.132.86",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Paraguay",
-    "country_code": "PY",
-    "region": "Paraguarí",
-    "region_code": "9",
-    "city": "Carapeguá",
-    "latitude": -25.7643636,
-    "longitude": -57.2423411,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 270096,
-      "org": "MACHADO BAEZ, NERY JAVIER LOCAL NET PARAGUAY",
-      "isp": "MACHADO BAEZ, NERY JAVIER LOCAL NET PARAGUAY",
-      "domain": "local.net.py"
     }
   }
 ]

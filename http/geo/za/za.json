@@ -1,71 +1,25 @@
 [
   {
-    "proxy": "http://102.39.157.235:8080",
-    "tested_at": "2026-02-15T05:53:33Z",
-    "ip": "102.39.157.235",
+    "proxy": "http://196.251.193.241:8104",
+    "tested_at": "2026-02-15T06:25:11Z",
+    "ip": "196.251.193.115",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "South Africa",
     "country_code": "ZA",
-    "region": "Western Cape",
-    "region_code": "WC",
-    "city": "Cape Town",
-    "latitude": -33.719294,
-    "longitude": 18.4543113,
+    "region": "North West",
+    "region_code": "NW",
+    "city": "Brits",
+    "latitude": -25.6099895,
+    "longitude": 27.7959713,
     "is_eu": false,
-    "postal": "8001",
+    "postal": "0250",
     "connection": {
-      "asn": 11845,
-      "org": "Vox Telecom",
-      "isp": "Vox Telecom LTD",
-      "domain": "voxtelecom.co.za"
-    }
-  },
-  {
-    "proxy": "http://102.23.237.121:8080",
-    "tested_at": "2026-02-15T05:53:56Z",
-    "ip": "102.23.237.121",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Northern Cape",
-    "region_code": "NC",
-    "city": "Upington",
-    "latitude": -28.3952677,
-    "longitude": 21.2368084,
-    "is_eu": false,
-    "postal": "8801",
-    "connection": {
-      "asn": 327750,
-      "org": "Jenny Za Ipv Network",
-      "isp": "JENNY INTERNET PTY LTD",
-      "domain": "jennyinternet.co.za"
-    }
-  },
-  {
-    "proxy": "http://154.0.14.116:3128",
-    "tested_at": "2026-02-15T05:54:07Z",
-    "ip": "154.0.14.116",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Gauteng",
-    "region_code": "GT",
-    "city": "Johannesburg",
-    "latitude": -26.2041028,
-    "longitude": 28.0473051,
-    "is_eu": false,
-    "postal": "2001",
-    "connection": {
-      "asn": 37680,
-      "org": "Cisp Internal",
-      "isp": "Cool Ideas Service Provider pty LTD",
-      "domain": "coolideas.co.za"
+      "asn": 37403,
+      "org": "Infogro Dsl",
+      "isp": "Info gro pty LTD",
+      "domain": "infogro.net"
     }
   }
 ]

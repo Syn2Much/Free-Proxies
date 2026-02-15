@@ -1,7 +1,99 @@
 [
   {
+    "proxy": "https://47.243.181.85:41795",
+    "tested_at": "2026-02-15T06:25:06Z",
+    "ip": "2804:d55:832f:6300:5873:b734:97ca:8805",
+    "success": true,
+    "type": "IPv6",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of Paraná",
+    "region_code": "PR",
+    "city": "Curitiba",
+    "latitude": -25.4289541,
+    "longitude": -49.267137,
+    "is_eu": false,
+    "postal": "80020-150",
+    "connection": {
+      "asn": 8167,
+      "org": "V Tal",
+      "isp": "V Tal",
+      "domain": "vtal.com"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41797",
+    "tested_at": "2026-02-15T06:25:07Z",
+    "ip": "45.169.214.5",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of São Paulo",
+    "region_code": "SP",
+    "city": "São Paulo",
+    "latitude": -23.5505199,
+    "longitude": -46.6333094,
+    "is_eu": false,
+    "postal": "01005-000",
+    "connection": {
+      "asn": 52941,
+      "org": "SPACE NETWORK",
+      "isp": "SPACE NETWORK",
+      "domain": "spacenetwork.psi.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41799",
+    "tested_at": "2026-02-15T06:25:08Z",
+    "ip": "2804:9338:82e:cf00:9ccc:c4e9:7aef:e503",
+    "success": true,
+    "type": "IPv6",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of Paraná",
+    "region_code": "PR",
+    "city": "Rondon",
+    "latitude": -23.4162737,
+    "longitude": -52.7718498,
+    "is_eu": false,
+    "postal": "87800-000",
+    "connection": {
+      "asn": 262426,
+      "org": "TELECOMUNICA ES RONDONOPOLIS LTDA ME",
+      "isp": "TELECOMUNICA ES RONDONOPOLIS LTDA ME",
+      "domain": "bravaroo.com.br"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41803",
+    "tested_at": "2026-02-15T06:25:25Z",
+    "ip": "131.72.94.183",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Brazil",
+    "country_code": "BR",
+    "region": "State of São Paulo",
+    "region_code": "SP",
+    "city": "Pindamonhangaba",
+    "latitude": -22.9284296,
+    "longitude": -45.4595782,
+    "is_eu": false,
+    "postal": "12420-010",
+    "connection": {
+      "asn": 262797,
+      "org": "PROVALE SCM LTDA",
+      "isp": "PROVALE SCM LTDA",
+      "domain": "provale.com.br"
+    }
+  },
+  {
     "proxy": "https://134.65.238.25:3128",
-    "tested_at": "2026-02-15T05:53:31Z",
+    "tested_at": "2026-02-15T06:25:25Z",
     "ip": "134.65.238.25",
     "success": true,
     "type": "IPv4",
@@ -20,98 +112,6 @@
       "org": "Oracle Corporation",
       "isp": "Oracle Corporation",
       "domain": "oracle.com"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41797",
-    "tested_at": "2026-02-15T05:53:35Z",
-    "ip": "187.109.88.53",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of Minas Gerais",
-    "region_code": "MG",
-    "city": "Rio Pomba",
-    "latitude": -21.2688048,
-    "longitude": -43.1824468,
-    "is_eu": false,
-    "postal": "36180-000",
-    "connection": {
-      "asn": 53139,
-      "org": "Rdf Informatica LTDA",
-      "isp": "Rdf Informatica LTDA",
-      "domain": "rdfnet.com.br"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41804",
-    "tested_at": "2026-02-15T05:53:42Z",
-    "ip": "177.128.55.187",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "Goiás",
-    "region_code": "GO",
-    "city": "Goiás",
-    "latitude": -15.93397,
-    "longitude": -50.1403832,
-    "is_eu": false,
-    "postal": "76600-000",
-    "connection": {
-      "asn": 270692,
-      "org": "JOSE CARLOS GONZAGA CARDOSO ME",
-      "isp": "JOSE CARLOS GONZAGA CARDOSO ME",
-      "domain": "gonzagatelecom.com.br"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41799",
-    "tested_at": "2026-02-15T05:54:23Z",
-    "ip": "131.108.155.75",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of Pernambuco",
-    "region_code": "PE",
-    "city": "Camaragibe",
-    "latitude": -8.0239207,
-    "longitude": -34.9784672,
-    "is_eu": false,
-    "postal": "54762-330",
-    "connection": {
-      "asn": 270946,
-      "org": "ULTRANET PROVEDOR CUSTODIA LTDA",
-      "isp": "ULTRANET PROVEDOR CUSTODIA LTDA",
-      "domain": "ultra.net.br"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41803",
-    "tested_at": "2026-02-15T05:54:24Z",
-    "ip": "177.23.96.142",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Brazil",
-    "country_code": "BR",
-    "region": "State of São Paulo",
-    "region_code": "SP",
-    "city": "Piraju",
-    "latitude": -23.2011917,
-    "longitude": -49.3769579,
-    "is_eu": false,
-    "postal": "18800-001",
-    "connection": {
-      "asn": 263347,
-      "org": "CEDNET PROVEDOR INTERNET",
-      "isp": "CEDNET PROVEDOR INTERNET",
-      "domain": "cednet.com.br"
     }
   }
 ]

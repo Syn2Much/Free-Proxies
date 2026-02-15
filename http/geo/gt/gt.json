@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://24.152.53.6:999",
-    "tested_at": "2026-02-15T05:53:45Z",
-    "ip": "24.152.53.3",
+    "proxy": "http://45.171.64.24:999",
+    "tested_at": "2026-02-15T06:25:43Z",
+    "ip": "45.171.64.21",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
     "country": "Guatemala",
     "country_code": "GT",
-    "region": "Jalapa",
-    "region_code": "JA",
-    "city": "Jalapa",
-    "latitude": 14.6325483,
-    "longitude": -89.9930052,
+    "region": "Chimaltenango",
+    "region_code": "CM",
+    "city": "Patzicía",
+    "latitude": 14.6307149,
+    "longitude": -90.9271367,
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 269964,
-      "org": "TV CABLE UNIVERSAL S.A",
-      "isp": "TV CABLE UNIVERSAL S.A",
-      "domain": "vosguatemala.com"
+      "asn": 22869,
+      "org": "TECNOCOLOR, S.A.",
+      "isp": "CABLECOLOR S.A.",
+      "domain": "tecnocolor.com.gt"
     }
   }
 ]

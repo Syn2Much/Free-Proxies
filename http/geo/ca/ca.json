@@ -1,54 +1,8 @@
 [
   {
-    "proxy": "http://85.208.108.43:2094",
-    "tested_at": "2026-02-15T05:53:30Z",
-    "ip": "85.208.108.43",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 53363,
-      "org": "Worktitans B.V.",
-      "isp": "TANGRAM CANADA INC.",
-      "domain": "the.hosting"
-    }
-  },
-  {
-    "proxy": "http://85.208.108.43:10808",
-    "tested_at": "2026-02-15T05:53:30Z",
-    "ip": "85.208.108.43",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Canada",
-    "country_code": "CA",
-    "region": "Ontario",
-    "region_code": "ON",
-    "city": "Toronto",
-    "latitude": 43.653226,
-    "longitude": -79.3831843,
-    "is_eu": false,
-    "postal": "M5H 2N2",
-    "connection": {
-      "asn": 53363,
-      "org": "Worktitans B.V.",
-      "isp": "TANGRAM CANADA INC.",
-      "domain": "the.hosting"
-    }
-  },
-  {
-    "proxy": "http://67.43.228.252:4403",
-    "tested_at": "2026-02-15T05:53:54Z",
-    "ip": "184.160.78.246",
+    "proxy": "http://188.227.196.62:1080",
+    "tested_at": "2026-02-15T06:24:53Z",
+    "ip": "188.227.196.62",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -56,21 +10,44 @@
     "country_code": "CA",
     "region": "Québec",
     "region_code": "QC",
-    "city": "Montreal",
-    "latitude": 45.5016889,
-    "longitude": -73.567256,
+    "city": "Québec City",
+    "latitude": 46.8138783,
+    "longitude": -71.2079809,
     "is_eu": false,
-    "postal": "H3A 2A6",
+    "postal": "G1R 4S9",
     "connection": {
-      "asn": 5769,
-      "org": "Videotron Ltee",
-      "isp": "Videotron Ltee",
-      "domain": "videotron.com"
+      "asn": 400897,
+      "org": "PetroSky",
+      "isp": "PETROSKY CLOUD LLC",
+      "domain": "abuseradar.com"
+    }
+  },
+  {
+    "proxy": "http://85.208.108.43:10808",
+    "tested_at": "2026-02-15T06:25:04Z",
+    "ip": "85.208.108.43",
+    "success": true,
+    "type": "IPv4",
+    "continent": "North America",
+    "country": "Canada",
+    "country_code": "CA",
+    "region": "Ontario",
+    "region_code": "ON",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843,
+    "is_eu": false,
+    "postal": "M5H 2N2",
+    "connection": {
+      "asn": 53363,
+      "org": "Worktitans B.V.",
+      "isp": "TANGRAM CANADA INC.",
+      "domain": "the.hosting"
     }
   },
   {
     "proxy": "http://51.79.71.106:8080",
-    "tested_at": "2026-02-15T05:54:00Z",
+    "tested_at": "2026-02-15T06:25:24Z",
     "ip": "51.79.71.106",
     "success": true,
     "type": "IPv4",
@@ -92,9 +69,9 @@
     }
   },
   {
-    "proxy": "http://143.198.37.6:8888",
-    "tested_at": "2026-02-15T05:54:02Z",
-    "ip": "178.249.214.14",
+    "proxy": "http://85.208.108.43:2094",
+    "tested_at": "2026-02-15T06:25:25Z",
+    "ip": "85.208.108.43",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -108,10 +85,10 @@
     "is_eu": false,
     "postal": "M5H 2N2",
     "connection": {
-      "asn": 212238,
-      "org": "CDNEXT TOR",
-      "isp": "Datacamp Limited",
-      "domain": "datacamp.co.uk"
+      "asn": 53363,
+      "org": "Worktitans B.V.",
+      "isp": "TANGRAM CANADA INC.",
+      "domain": "the.hosting"
     }
   }
 ]

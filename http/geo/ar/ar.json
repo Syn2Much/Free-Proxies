@@ -1,54 +1,31 @@
 [
   {
-    "proxy": "http://181.209.96.156:999",
-    "tested_at": "2026-02-15T05:53:33Z",
-    "ip": "181.209.96.155",
+    "proxy": "http://190.111.218.142:999",
+    "tested_at": "2026-02-15T06:25:02Z",
+    "ip": "45.172.19.196",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
     "country": "Argentina",
     "country_code": "AR",
-    "region": "Jujuy",
-    "region_code": "Y",
-    "city": "Yuto",
-    "latitude": -23.6427652,
-    "longitude": -64.4718995,
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "Monte Grande",
+    "latitude": -34.8271786,
+    "longitude": -58.4620124,
     "is_eu": false,
-    "postal": "4518",
+    "postal": "1842",
     "connection": {
-      "asn": 52361,
-      "org": "Jujuy Sapem",
-      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
-      "domain": "arsat.com.ar"
+      "asn": 264619,
+      "org": "Wireless Provider",
+      "isp": "Wireless Provider",
+      "domain": "wirelessprovider.com.ar"
     }
   },
   {
-    "proxy": "http://181.209.59.182:999",
-    "tested_at": "2026-02-15T05:53:56Z",
-    "ip": "181.209.59.178",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Argentina",
-    "country_code": "AR",
-    "region": "Tucumán",
-    "region_code": "T",
-    "city": "Tafí del Valle",
-    "latitude": -26.8516667,
-    "longitude": -65.7098167,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 52361,
-      "org": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
-      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
-      "domain": "arsat.com.ar"
-    }
-  },
-  {
-    "proxy": "http://181.104.70.198:3128",
-    "tested_at": "2026-02-15T05:54:13Z",
-    "ip": "181.104.70.198",
+    "proxy": "http://181.209.82.195:999",
+    "tested_at": "2026-02-15T06:25:19Z",
+    "ip": "181.209.82.197",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -62,10 +39,56 @@
     "is_eu": false,
     "postal": "C1405 DJG",
     "connection": {
-      "asn": 7303,
-      "org": "Telecom Personal Bs AS",
-      "isp": "Telecom Argentina S.A.",
-      "domain": "telecom.com.ar"
+      "asn": 52361,
+      "org": "Net g S.R.L",
+      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
+      "domain": "arsat.com.ar"
+    }
+  },
+  {
+    "proxy": "http://181.209.82.202:999",
+    "tested_at": "2026-02-15T06:25:28Z",
+    "ip": "181.209.82.202",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Buenos Aires",
+    "region_code": "B",
+    "city": "Buenos Aires",
+    "latitude": -34.6036844,
+    "longitude": -58.3815591,
+    "is_eu": false,
+    "postal": "C1405 DJG",
+    "connection": {
+      "asn": 52361,
+      "org": "Net g S.R.L",
+      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
+      "domain": "arsat.com.ar"
+    }
+  },
+  {
+    "proxy": "http://181.209.108.226:999",
+    "tested_at": "2026-02-15T06:25:39Z",
+    "ip": "181.209.108.226",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Argentina",
+    "country_code": "AR",
+    "region": "Santa Fe",
+    "region_code": "S",
+    "city": "Fighiera",
+    "latitude": -33.1923016,
+    "longitude": -60.4704403,
+    "is_eu": false,
+    "postal": "S2128 DKB",
+    "connection": {
+      "asn": 52361,
+      "org": "Jujuy Sapem",
+      "isp": "Arsat Empresa Argentina De Soluciones Satelitales S.A.",
+      "domain": "arsat.com.ar"
     }
   }
 ]

@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://38.156.23.41:999",
-    "tested_at": "2026-02-15T05:53:35Z",
-    "ip": "38.156.23.250",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Santiago",
-    "region_code": "25",
-    "city": "Santiago De Los Caballeros",
-    "latitude": 19.4791963,
-    "longitude": -70.6930568,
-    "is_eu": false,
-    "postal": "51000",
-    "connection": {
-      "asn": 64134,
-      "org": "VISNETWORK SRL",
-      "isp": "VISNETWORK SRL",
-      "domain": "visnetworkrd.com"
-    }
-  },
-  {
-    "proxy": "http://38.52.220.122:999",
-    "tested_at": "2026-02-15T05:54:09Z",
-    "ip": "38.52.220.5",
+    "proxy": "http://38.159.37.173:999",
+    "tested_at": "2026-02-15T06:24:58Z",
+    "ip": "38.159.37.170",
     "success": true,
     "type": "IPv4",
     "continent": "North America",
@@ -39,102 +16,10 @@
     "is_eu": false,
     "postal": "10119",
     "connection": {
-      "asn": 272112,
+      "asn": 271965,
       "org": "Cogent Communications",
-      "isp": "TELECABLE DOMINICANO, S.A.",
-      "domain": "telecabledominicano.com.do"
-    }
-  },
-  {
-    "proxy": "http://190.110.35.228:999",
-    "tested_at": "2026-02-15T05:54:09Z",
-    "ip": "168.196.124.138",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Santiago",
-    "region_code": "25",
-    "city": "Santiago De Los Caballeros",
-    "latitude": 19.4791963,
-    "longitude": -70.6930568,
-    "is_eu": false,
-    "postal": "51000",
-    "connection": {
-      "asn": 264821,
-      "org": "COMCAST SRL",
-      "isp": "COMCAST SRL",
-      "domain": "comcast-srl.com"
-    }
-  },
-  {
-    "proxy": "http://38.156.237.214:999",
-    "tested_at": "2026-02-15T05:54:15Z",
-    "ip": "38.156.237.214",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Distrito Nacional",
-    "region_code": "01",
-    "city": "Santo Domingo",
-    "latitude": 18.4860575,
-    "longitude": -69.9312117,
-    "is_eu": false,
-    "postal": "10119",
-    "connection": {
-      "asn": 272882,
-      "org": "BITNET DOMINICANA, S.R.L.",
-      "isp": "BITNET DOMINICANA, S.R.L.",
-      "domain": "bitnet.com.do"
-    }
-  },
-  {
-    "proxy": "http://38.253.85.27:999",
-    "tested_at": "2026-02-15T05:54:26Z",
-    "ip": "38.253.85.27",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Puerto Plata",
-    "region_code": "18",
-    "city": "Maimón",
-    "latitude": 19.8224199,
-    "longitude": -70.7792902,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 273048,
-      "org": "Cogent Communications",
-      "isp": "WIMAS, S.R.L.",
-      "domain": "wimas-srl.com"
-    }
-  },
-  {
-    "proxy": "http://38.156.236.101:999",
-    "tested_at": "2026-02-15T05:54:30Z",
-    "ip": "38.156.236.98",
-    "success": true,
-    "type": "IPv4",
-    "continent": "North America",
-    "country": "Dominican Republic",
-    "country_code": "DO",
-    "region": "Distrito Nacional",
-    "region_code": "01",
-    "city": "Santo Domingo",
-    "latitude": 18.4610416,
-    "longitude": -69.9277577,
-    "is_eu": false,
-    "postal": "10119",
-    "connection": {
-      "asn": 272882,
-      "org": "BITNET DOMINICANA, S.R.L.",
-      "isp": "BITNET DOMINICANA, S.R.L.",
-      "domain": "bitnet.com.do"
+      "isp": "ORBITEK SRL",
+      "domain": "orbiteksrl.com"
     }
   }
 ]

@@ -1,25 +1,25 @@
 [
   {
-    "proxy": "http://72.10.164.178:4583",
-    "tested_at": "2026-02-15T04:20:27Z",
-    "ip": "157.143.108.210",
+    "proxy": "http://104.244.78.150:5555",
+    "tested_at": "2026-02-15T06:25:24Z",
+    "ip": "104.244.78.150",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Switzerland",
     "country_code": "CH",
-    "region": "Schaffhausen",
-    "region_code": "SH",
-    "city": "Neuhausen am Rheinfall",
-    "latitude": 47.6837423,
-    "longitude": 8.6126098,
+    "region": "Bern",
+    "region_code": "BE",
+    "city": "Bern",
+    "latitude": 46.9479739,
+    "longitude": 7.4474468,
     "is_eu": false,
-    "postal": "8212",
+    "postal": "3011",
     "connection": {
-      "asn": 8758,
-      "org": "Iway AG",
-      "isp": "Iway AG",
-      "domain": "iway.ch"
+      "asn": 53667,
+      "org": "BuyVM",
+      "isp": "Frantech Solutions",
+      "domain": "frantech.ca"
     }
   }
 ]

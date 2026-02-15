@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://197.255.125.190:7777",
-    "tested_at": "2026-02-15T04:20:03Z",
-    "ip": "197.255.125.190",
+    "proxy": "http://41.189.171.186:8080",
+    "tested_at": "2026-02-15T06:25:19Z",
+    "ip": "143.105.208.94",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 37074,
-      "org": "For Infrastructure",
-      "isp": "University of Ghana",
-      "domain": "ug.edu.gh"
+      "asn": 14593,
+      "org": "Starlink",
+      "isp": "Space Exploration Technologies Corporation",
+      "domain": "spacex.com"
     }
   }
 ]

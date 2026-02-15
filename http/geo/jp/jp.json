@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://8.209.255.13:3128",
-    "tested_at": "2026-02-15T05:53:36Z",
+    "tested_at": "2026-02-15T06:25:16Z",
     "ip": "8.209.255.13",
     "success": true,
     "type": "IPv4",
@@ -23,31 +23,8 @@
     }
   },
   {
-    "proxy": "http://47.79.91.116:1122",
-    "tested_at": "2026-02-15T05:53:40Z",
-    "ip": "47.79.91.116",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
-    "is_eu": false,
-    "postal": "100-0002",
-    "connection": {
-      "asn": 45102,
-      "org": "Alibaba Cloud LLC",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibaba-inc.com"
-    }
-  },
-  {
     "proxy": "http://150.230.104.3:16728",
-    "tested_at": "2026-02-15T05:53:45Z",
+    "tested_at": "2026-02-15T06:25:31Z",
     "ip": "150.230.104.3",
     "success": true,
     "type": "IPv4",
@@ -66,52 +43,6 @@
       "org": "Oracle Corporation",
       "isp": "Oracle Corporation",
       "domain": "oracle.com"
-    }
-  },
-  {
-    "proxy": "http://94.177.131.12:3128",
-    "tested_at": "2026-02-15T05:54:02Z",
-    "ip": "94.177.131.12",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
-    "is_eu": false,
-    "postal": "100-0002",
-    "connection": {
-      "asn": 199524,
-      "org": "G core Labs S.A.",
-      "isp": "G core Labs S.A.",
-      "domain": "gcore.com"
-    }
-  },
-  {
-    "proxy": "http://20.210.76.175:8561",
-    "tested_at": "2026-02-15T05:54:09Z",
-    "ip": "20.194.180.34",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Shibuya City",
-    "latitude": 35.6549037,
-    "longitude": 139.6945698,
-    "is_eu": false,
-    "postal": "150-0036",
-    "connection": {
-      "asn": 8075,
-      "org": "Microsoft Corporation",
-      "isp": "Microsoft Corporation",
-      "domain": "microsoft.com"
     }
   }
 ]

@@ -1,31 +1,31 @@
 [
   {
-    "proxy": "http://152.53.136.194:10000",
-    "tested_at": "2026-02-15T04:19:49Z",
-    "ip": "103.224.52.31",
+    "proxy": "http://67.43.236.20:16007",
+    "tested_at": "2026-02-15T06:25:26Z",
+    "ip": "58.161.132.190",
     "success": true,
     "type": "IPv4",
     "continent": "Oceania",
     "country": "Australia",
     "country_code": "AU",
-    "region": "Victoria",
-    "region_code": "VIC",
-    "city": "Melbourne",
-    "latitude": -37.8136276,
-    "longitude": 144.9630576,
+    "region": "Queensland",
+    "region_code": "QLD",
+    "city": "Brisbane",
+    "latitude": -27.4697707,
+    "longitude": 153.0251235,
     "is_eu": false,
-    "postal": "3000",
+    "postal": "4004",
     "connection": {
-      "asn": 38195,
-      "org": "Origin Energy Limited",
-      "isp": "SUPERLOOP AUSTRALIA PTY LTD",
-      "domain": "superloop.com"
+      "asn": 1221,
+      "org": "Telstra Limited",
+      "isp": "Telstra Limited",
+      "domain": "telstra.net"
     }
   },
   {
-    "proxy": "http://61.29.96.146:8000",
-    "tested_at": "2026-02-15T04:19:50Z",
-    "ip": "61.29.96.146",
+    "proxy": "http://152.53.136.194:10000",
+    "tested_at": "2026-02-15T06:25:29Z",
+    "ip": "106.70.133.69",
     "success": true,
     "type": "IPv4",
     "continent": "Oceania",
@@ -33,16 +33,16 @@
     "country_code": "AU",
     "region": "Victoria",
     "region_code": "VIC",
-    "city": "Hawthorn",
-    "latitude": -37.826,
-    "longitude": 145.034,
+    "city": "Laverton",
+    "latitude": -37.858,
+    "longitude": 144.773,
     "is_eu": false,
-    "postal": "3122",
+    "postal": "3028",
     "connection": {
-      "asn": 2764,
-      "org": "Aapt Limited",
-      "isp": "Aapt Limited",
-      "domain": "powertel.co.zw"
+      "asn": 4804,
+      "org": "Optus Internet Pty LTD",
+      "isp": "Singtel Optus Pty LTD",
+      "domain": "optus.net.au"
     }
   }
 ]

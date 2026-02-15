@@ -1,30 +1,7 @@
 [
   {
-    "proxy": "https://23.106.249.52:2569",
-    "tested_at": "2026-02-15T05:53:39Z",
-    "ip": "23.106.249.52",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Singapore",
-    "country_code": "SG",
-    "region": "Southeast",
-    "region_code": "",
-    "city": "Singapore",
-    "latitude": 1.3553794,
-    "longitude": 103.8677444,
-    "is_eu": false,
-    "postal": "550304",
-    "connection": {
-      "asn": 59253,
-      "org": "Leaseweb Asia Pacific Pte. Ltd.",
-      "isp": "LEASEWEB SINGAPORE PTE. LTD.",
-      "domain": "leaseweb.com"
-    }
-  },
-  {
     "proxy": "https://128.199.195.19:8888",
-    "tested_at": "2026-02-15T05:53:40Z",
+    "tested_at": "2026-02-15T06:24:54Z",
     "ip": "128.199.195.19",
     "success": true,
     "type": "IPv4",
@@ -46,9 +23,9 @@
     }
   },
   {
-    "proxy": "https://23.106.249.34:21125",
-    "tested_at": "2026-02-15T05:53:47Z",
-    "ip": "23.106.249.34",
+    "proxy": "https://23.106.249.54:6550",
+    "tested_at": "2026-02-15T06:25:05Z",
+    "ip": "23.106.249.54",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -70,7 +47,7 @@
   },
   {
     "proxy": "https://128.199.207.200:443",
-    "tested_at": "2026-02-15T05:53:55Z",
+    "tested_at": "2026-02-15T06:25:08Z",
     "ip": "128.199.207.200",
     "success": true,
     "type": "IPv4",
@@ -92,8 +69,54 @@
     }
   },
   {
+    "proxy": "https://23.106.249.34:21125",
+    "tested_at": "2026-02-15T06:25:14Z",
+    "ip": "23.106.249.34",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Singapore",
+    "country_code": "SG",
+    "region": "Southeast",
+    "region_code": "",
+    "city": "Singapore",
+    "latitude": 1.3553794,
+    "longitude": 103.8677444,
+    "is_eu": false,
+    "postal": "550304",
+    "connection": {
+      "asn": 59253,
+      "org": "Leaseweb Asia Pacific Pte. Ltd.",
+      "isp": "LEASEWEB SINGAPORE PTE. LTD.",
+      "domain": "leaseweb.com"
+    }
+  },
+  {
+    "proxy": "https://23.106.249.52:2569",
+    "tested_at": "2026-02-15T06:25:25Z",
+    "ip": "23.106.249.52",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Singapore",
+    "country_code": "SG",
+    "region": "Southeast",
+    "region_code": "",
+    "city": "Singapore",
+    "latitude": 1.3553794,
+    "longitude": 103.8677444,
+    "is_eu": false,
+    "postal": "550304",
+    "connection": {
+      "asn": 59253,
+      "org": "Leaseweb Asia Pacific Pte. Ltd.",
+      "isp": "LEASEWEB SINGAPORE PTE. LTD.",
+      "domain": "leaseweb.com"
+    }
+  },
+  {
     "proxy": "https://51.79.173.71:443",
-    "tested_at": "2026-02-15T05:54:01Z",
+    "tested_at": "2026-02-15T06:25:26Z",
     "ip": "51.79.173.71",
     "success": true,
     "type": "IPv4",
@@ -112,29 +135,6 @@
       "org": "Tony, Stark",
       "isp": "OVH SAS",
       "domain": "ovh.net"
-    }
-  },
-  {
-    "proxy": "https://23.106.249.54:6550",
-    "tested_at": "2026-02-15T05:54:01Z",
-    "ip": "23.106.249.54",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Singapore",
-    "country_code": "SG",
-    "region": "Southeast",
-    "region_code": "",
-    "city": "Singapore",
-    "latitude": 1.3553794,
-    "longitude": 103.8677444,
-    "is_eu": false,
-    "postal": "550304",
-    "connection": {
-      "asn": 59253,
-      "org": "Leaseweb Asia Pacific Pte. Ltd.",
-      "isp": "LEASEWEB SINGAPORE PTE. LTD.",
-      "domain": "leaseweb.com"
     }
   }
 ]

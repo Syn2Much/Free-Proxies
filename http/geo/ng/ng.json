@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://155.93.96.210:8080",
-    "tested_at": "2026-02-15T05:22:25Z",
-    "ip": "155.93.96.210",
+    "proxy": "http://102.221.238.238:8080",
+    "tested_at": "2026-02-15T06:25:33Z",
+    "ip": "102.221.238.238",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -10,16 +10,16 @@
     "country_code": "NG",
     "region": "Lagos",
     "region_code": "LA",
-    "city": "Lagos",
-    "latitude": 6.5873161,
-    "longitude": 3.3785711,
+    "city": "Ikeja",
+    "latitude": 6.5893734,
+    "longitude": 3.3613958,
     "is_eu": false,
-    "postal": "8600-000",
+    "postal": "102214",
     "connection": {
-      "asn": 16284,
-      "org": "Inq. Digital Nigeria",
-      "isp": "Inq. Digital Nigeria",
-      "domain": "inq.inc"
+      "asn": 328722,
+      "org": "Prefixes Assigned to Rack Centre Datacenter Pop",
+      "isp": "Ciudad Infrastructure Limited",
+      "domain": "ciudad.ng"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://84.242.58.9:8080",
-    "tested_at": "2026-02-14T23:38:26Z",
-    "ip": "84.242.58.9",
+    "proxy": "http://178.214.80.12:1981",
+    "tested_at": "2026-02-15T06:25:21Z",
+    "ip": "178.214.80.12",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,10 +16,10 @@
     "is_eu": false,
     "postal": "123",
     "connection": {
-      "asn": 51407,
-      "org": "Mada Al arab General Services Company",
-      "isp": "Mada Al arab General Services Company",
-      "domain": "mada.ps"
+      "asn": 51336,
+      "org": "Gemzo Information Technology Private Joint stock Company",
+      "isp": "Gemzo Information Technology Private Joint stock Company",
+      "domain": "gemzo.net"
     }
   }
 ]

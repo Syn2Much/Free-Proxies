@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://165.16.2.254:9999",
-    "tested_at": "2026-02-15T05:53:36Z",
-    "ip": "165.16.2.250",
+    "proxy": "http://165.16.2.234:9999",
+    "tested_at": "2026-02-15T06:25:08Z",
+    "ip": "165.16.2.234",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -23,9 +23,78 @@
     }
   },
   {
-    "proxy": "http://102.214.104.56:8080",
-    "tested_at": "2026-02-15T05:54:13Z",
-    "ip": "102.214.104.56",
+    "proxy": "http://165.16.27.42:1981",
+    "tested_at": "2026-02-15T06:25:10Z",
+    "ip": "165.16.27.23",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Derna",
+    "region_code": "DR",
+    "city": "Derna",
+    "latitude": 32.755613,
+    "longitude": 22.6377432,
+    "is_eu": false,
+    "postal": "",
+    "connection": {
+      "asn": 37284,
+      "org": "Organisation Transahar IT Communications",
+      "isp": "Aljeel Aljadeed For Technology",
+      "domain": "aljeel.ly"
+    }
+  },
+  {
+    "proxy": "http://165.16.92.193:8103",
+    "tested_at": "2026-02-15T06:25:12Z",
+    "ip": "165.16.92.192",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Tripoli",
+    "region_code": "TB",
+    "city": "Tripoli",
+    "latitude": 32.8872094,
+    "longitude": 13.1913383,
+    "is_eu": false,
+    "postal": "350",
+    "connection": {
+      "asn": 37284,
+      "org": "Aljeel Aljadeed For Technology",
+      "isp": "Aljeel Aljadeed For Technology",
+      "domain": "aljeel.ly"
+    }
+  },
+  {
+    "proxy": "http://165.16.92.193:8104",
+    "tested_at": "2026-02-15T06:25:42Z",
+    "ip": "165.16.92.192",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Africa",
+    "country": "Libya",
+    "country_code": "LY",
+    "region": "Tripoli",
+    "region_code": "TB",
+    "city": "Tripoli",
+    "latitude": 32.8872094,
+    "longitude": 13.1913383,
+    "is_eu": false,
+    "postal": "350",
+    "connection": {
+      "asn": 37284,
+      "org": "Aljeel Aljadeed For Technology",
+      "isp": "Aljeel Aljadeed For Technology",
+      "domain": "aljeel.ly"
+    }
+  },
+  {
+    "proxy": "http://41.254.47.66:19000",
+    "tested_at": "2026-02-15T06:25:43Z",
+    "ip": "41.254.47.66",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -40,9 +109,9 @@
     "postal": "350",
     "connection": {
       "asn": 21003,
-      "org": "This Pool Dedicated for Natting And Loopback Ip Access for Company Hardware",
-      "isp": "General Post And Telecommunication Company gptc",
-      "domain": "rltt.net"
+      "org": "Libyan Telecom and Technology",
+      "isp": "LTT Network Backbone and POPs",
+      "domain": ""
     }
   }
 ]

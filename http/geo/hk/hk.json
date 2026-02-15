@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://8.217.147.173:8080",
-    "tested_at": "2026-02-15T05:53:41Z",
-    "ip": "8.217.147.173",
+    "proxy": "http://160.20.55.235:8080",
+    "tested_at": "2026-02-15T06:24:54Z",
+    "ip": "160.20.55.235",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,38 +16,15 @@
     "is_eu": false,
     "postal": "",
     "connection": {
-      "asn": 45102,
-      "org": "Aliyun Computing Co.ltd",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibaba-inc.com"
-    }
-  },
-  {
-    "proxy": "http://47.243.92.199:3128",
-    "tested_at": "2026-02-15T05:53:42Z",
-    "ip": "47.243.92.199",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Hong Kong",
-    "country_code": "HK",
-    "region": "Hong Kong",
-    "region_code": "",
-    "city": "Hong Kong",
-    "latitude": 22.276022,
-    "longitude": 114.1751471,
-    "is_eu": false,
-    "postal": "",
-    "connection": {
-      "asn": 45102,
-      "org": "Alibaba Cloud Hk",
-      "isp": "Alibaba us Technology Co., Ltd.",
-      "domain": "alibabacloud.com"
+      "asn": 58411,
+      "org": "Datamax Osi Limited",
+      "isp": "Gateway Technology Development Company Limited",
+      "domain": "datamaxosi.com"
     }
   },
   {
     "proxy": "http://101.47.73.135:3128",
-    "tested_at": "2026-02-15T05:53:52Z",
+    "tested_at": "2026-02-15T06:25:22Z",
     "ip": "101.47.73.135",
     "success": true,
     "type": "IPv4",
@@ -69,9 +46,9 @@
     }
   },
   {
-    "proxy": "http://47.240.24.245:443",
-    "tested_at": "2026-02-15T05:54:26Z",
-    "ip": "47.240.24.245",
+    "proxy": "http://47.243.92.199:3128",
+    "tested_at": "2026-02-15T06:25:30Z",
+    "ip": "47.243.92.199",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",

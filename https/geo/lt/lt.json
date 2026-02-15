@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "https://89.124.11.11:443",
-    "tested_at": "2026-02-15T05:53:40Z",
-    "ip": "89.124.11.11",
+    "proxy": "https://89.124.11.13:443",
+    "tested_at": "2026-02-15T06:24:53Z",
+    "ip": "89.124.11.13",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -24,7 +24,7 @@
   },
   {
     "proxy": "https://89.124.11.12:443",
-    "tested_at": "2026-02-15T05:53:40Z",
+    "tested_at": "2026-02-15T06:25:33Z",
     "ip": "89.124.11.12",
     "success": true,
     "type": "IPv4",
@@ -46,9 +46,9 @@
     }
   },
   {
-    "proxy": "https://89.124.11.10:443",
-    "tested_at": "2026-02-15T05:54:00Z",
-    "ip": "89.124.11.10",
+    "proxy": "https://89.124.11.11:443",
+    "tested_at": "2026-02-15T06:25:34Z",
+    "ip": "89.124.11.11",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
@@ -69,9 +69,9 @@
     }
   },
   {
-    "proxy": "https://89.124.11.13:443",
-    "tested_at": "2026-02-15T05:54:22Z",
-    "ip": "89.124.11.13",
+    "proxy": "https://89.124.11.10:443",
+    "tested_at": "2026-02-15T06:25:35Z",
+    "ip": "89.124.11.10",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
