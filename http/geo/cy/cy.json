@@ -1,48 +1,25 @@
 [
   {
-    "proxy": "http://72.10.160.171:11867",
-    "tested_at": "2026-02-14T21:01:35Z",
-    "ip": "216.241.129.121",
+    "proxy": "http://185.135.99.14:8080",
+    "tested_at": "2026-02-15T03:17:25Z",
+    "ip": "185.135.99.14",
     "success": true,
     "type": "IPv4",
     "continent": "Europe",
     "country": "Cyprus",
     "country_code": "CY",
-    "region": "South Cyprus",
+    "region": "Gazimağusa District",
     "region_code": "",
-    "city": "Larnaca",
-    "latitude": 34.9002535,
-    "longitude": 33.6231723,
+    "city": "Famagusta",
+    "latitude": 35.1149116,
+    "longitude": 33.919245,
     "is_eu": true,
-    "postal": "6050",
+    "postal": "",
     "connection": {
-      "asn": 35432,
-      "org": "RETAIL DYNAMIC SHARED",
-      "isp": "Cablenet Communication Systems PLC",
-      "domain": "cablenetcy.net"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.170:11867",
-    "tested_at": "2026-02-14T21:01:42Z",
-    "ip": "216.241.129.121",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Cyprus",
-    "country_code": "CY",
-    "region": "South Cyprus",
-    "region_code": "",
-    "city": "Larnaca",
-    "latitude": 34.9002535,
-    "longitude": 33.6231723,
-    "is_eu": true,
-    "postal": "6050",
-    "connection": {
-      "asn": 35432,
-      "org": "RETAIL DYNAMIC SHARED",
-      "isp": "Cablenet Communication Systems PLC",
-      "domain": "cablenetcy.net"
+      "asn": 43242,
+      "org": "fixnet1",
+      "isp": "ARINET SECURITY INTERNET CONSULTANCY LTD",
+      "domain": "fixnetbroadband.com"
     }
   }
 ]

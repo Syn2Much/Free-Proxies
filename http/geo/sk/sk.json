@@ -1,7 +1,30 @@
 [
   {
+    "proxy": "http://45.129.141.143:3128",
+    "tested_at": "2026-02-15T03:17:13Z",
+    "ip": "45.129.141.143",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Europe",
+    "country": "Slovak Republic",
+    "country_code": "SK",
+    "region": "Bratislava",
+    "region_code": "",
+    "city": "Bratislava",
+    "latitude": 48.1485965,
+    "longitude": 17.1077477,
+    "is_eu": true,
+    "postal": "811 06",
+    "connection": {
+      "asn": 61424,
+      "org": "VPS1 NET",
+      "isp": "Eserver S.R.O.",
+      "domain": "di.city"
+    }
+  },
+  {
     "proxy": "http://185.225.204.5:3128",
-    "tested_at": "2026-02-15T01:44:00Z",
+    "tested_at": "2026-02-15T03:17:32Z",
     "ip": "185.225.204.149",
     "success": true,
     "type": "IPv4",

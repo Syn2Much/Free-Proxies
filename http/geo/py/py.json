@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://45.170.128.120:999",
-    "tested_at": "2026-02-15T02:45:47Z",
+    "tested_at": "2026-02-15T03:17:20Z",
     "ip": "45.170.128.120",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,29 @@
       "org": "GIG NET SOCIEDAD ANONIMA",
       "isp": "GIG NET SOCIEDAD ANONIMA",
       "domain": "giganet.net.py"
+    }
+  },
+  {
+    "proxy": "http://190.128.195.58:999",
+    "tested_at": "2026-02-15T03:17:38Z",
+    "ip": "190.128.195.58",
+    "success": true,
+    "type": "IPv4",
+    "continent": "South America",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "region": "Itapúa",
+    "region_code": "7",
+    "city": "Carlos Antonio López, Paraguay",
+    "latitude": -26.3980997,
+    "longitude": -54.7604286,
+    "is_eu": false,
+    "postal": "6550",
+    "connection": {
+      "asn": 23201,
+      "org": "Telecel S.A.",
+      "isp": "Telecel S.A.",
+      "domain": "telecel.com.py"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://203.81.67.22:8080",
-    "tested_at": "2026-02-15T02:14:45Z",
-    "ip": "203.81.67.22",
+    "proxy": "http://185.133.213.86:8074",
+    "tested_at": "2026-02-15T03:17:20Z",
+    "ip": "185.133.213.86",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -16,39 +16,39 @@
     "is_eu": false,
     "postal": "00000",
     "connection": {
-      "asn": 9988,
-      "org": "Myanma Post And Telecommunication",
-      "isp": "Myanma Post Telecommunication",
-      "domain": "mptjo.com.mm"
+      "asn": 133524,
+      "org": "Route Object for Global Technology",
+      "isp": "Global Technology Co., Ltd.",
+      "domain": "globalnetmm.com"
     }
   },
   {
-    "proxy": "http://67.43.236.20:26207",
-    "tested_at": "2026-02-15T02:14:54Z",
-    "ip": "203.96.241.14",
+    "proxy": "http://67.43.236.20:21573",
+    "tested_at": "2026-02-15T03:17:28Z",
+    "ip": "38.83.17.16",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Myanmar [Burma]",
     "country_code": "MM",
-    "region": "Magway",
-    "region_code": "03",
-    "city": "Chauk",
-    "latitude": 20.9006356,
-    "longitude": 94.8261424,
+    "region": "Yangon",
+    "region_code": "06",
+    "city": "Yangon",
+    "latitude": 16.9576163,
+    "longitude": 96.1555258,
     "is_eu": false,
-    "postal": "24398",
+    "postal": "00000",
     "connection": {
-      "asn": 136442,
-      "org": "Ocean Wave Communication Co., LTD",
-      "isp": "Ocean Wave Communication Co., LTD",
-      "domain": "mowcn.com"
+      "asn": 135405,
+      "org": "Cogent Communications",
+      "isp": "Tah Moe Hnye chan Thar Tun We Thar Company Limited",
+      "domain": "welinkbroadband.com"
     }
   },
   {
-    "proxy": "http://203.81.81.226:8055",
-    "tested_at": "2026-02-15T02:15:12Z",
-    "ip": "203.81.81.226",
+    "proxy": "http://203.81.67.22:8080",
+    "tested_at": "2026-02-15T03:17:37Z",
+    "ip": "203.81.67.22",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",

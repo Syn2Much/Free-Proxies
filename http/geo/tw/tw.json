@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://72.10.160.92:18627",
-    "tested_at": "2026-02-15T02:45:42Z",
+    "tested_at": "2026-02-15T03:17:16Z",
     "ip": "118.232.16.240",
     "success": true,
     "type": "IPv4",
@@ -23,32 +23,32 @@
     }
   },
   {
-    "proxy": "http://61.216.156.222:60808",
-    "tested_at": "2026-02-15T02:45:45Z",
-    "ip": "61.216.156.222",
+    "proxy": "http://67.43.228.253:14303",
+    "tested_at": "2026-02-15T03:17:17Z",
+    "ip": "115.43.20.56",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
     "country": "Taiwan",
     "country_code": "TW",
-    "region": "",
-    "region_code": "",
-    "city": "Banqiao District",
-    "latitude": 25.0114095,
-    "longitude": 121.4618415,
+    "region": "Taipei City",
+    "region_code": "TPQ",
+    "city": "City Hall Road",
+    "latitude": 25.035775,
+    "longitude": 121.5634503,
     "is_eu": false,
-    "postal": "22055",
+    "postal": "110",
     "connection": {
-      "asn": 3462,
-      "org": "Data Communication Business Group,",
-      "isp": "Chunghwa Telecom Co., Ltd.",
-      "domain": "hinet.net"
+      "asn": 9416,
+      "org": "Homeplus Digital Co., Ltd.",
+      "isp": "Hoshin Multimedia Center Inc.",
+      "domain": "cns.net.tw"
     }
   },
   {
-    "proxy": "http://118.163.120.181:58837",
-    "tested_at": "2026-02-15T02:45:58Z",
-    "ip": "118.163.120.181",
+    "proxy": "http://35.234.17.221:8080",
+    "tested_at": "2026-02-15T03:17:47Z",
+    "ip": "35.234.17.221",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -62,10 +62,10 @@
     "is_eu": false,
     "postal": "11008",
     "connection": {
-      "asn": 3462,
-      "org": "Chunghwa Telecom CO.,LTD.",
-      "isp": "Chunghwa Telecom Co., Ltd.",
-      "domain": "cht.com.tw"
+      "asn": 396982,
+      "org": "Google LLC",
+      "isp": "Google LLC",
+      "domain": "google.com"
     }
   }
 ]

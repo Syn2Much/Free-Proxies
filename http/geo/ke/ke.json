@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://102.0.16.226:8080",
-    "tested_at": "2026-02-15T02:45:49Z",
-    "ip": "102.0.16.226",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Embu County",
-    "region_code": "06",
-    "city": "Embu",
-    "latitude": -0.5388381,
-    "longitude": 37.4596409,
-    "is_eu": false,
-    "postal": "60100",
-    "connection": {
-      "asn": 327708,
-      "org": "Allocated to Airtel Kenya Mobile Broadband And Fixed Internet",
-      "isp": "Airtel Rwanda LTD",
-      "domain": "airtel.com"
-    }
-  },
-  {
-    "proxy": "http://102.211.145.37:8080",
-    "tested_at": "2026-02-15T02:45:55Z",
-    "ip": "102.211.145.37",
+    "proxy": "http://102.213.248.38:8080",
+    "tested_at": "2026-02-15T03:17:29Z",
+    "ip": "102.213.248.38",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
@@ -39,56 +16,33 @@
     "is_eu": false,
     "postal": "200",
     "connection": {
-      "asn": 328490,
-      "org": "Unwired Communications",
-      "isp": "Unwired Communications Limited",
-      "domain": "unwired.co.ke"
+      "asn": 329192,
+      "org": "Optinode Group LLP",
+      "isp": "Optinode Group LLP",
+      "domain": "optinode.co.ke"
     }
   },
   {
-    "proxy": "http://102.0.11.176:8080",
-    "tested_at": "2026-02-15T02:45:58Z",
-    "ip": "102.0.11.176",
+    "proxy": "http://197.155.64.226:8090",
+    "tested_at": "2026-02-15T03:17:52Z",
+    "ip": "197.155.64.226",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "Kenya",
     "country_code": "KE",
-    "region": "Kiambu",
-    "region_code": "13",
-    "city": "Ruiru",
-    "latitude": -1.1457029,
-    "longitude": 36.9648534,
+    "region": "Nairobi",
+    "region_code": "110",
+    "city": "Nairobi",
+    "latitude": -1.2920659,
+    "longitude": 36.8219462,
     "is_eu": false,
-    "postal": "01001",
+    "postal": "200",
     "connection": {
-      "asn": 327708,
-      "org": "Allocated to Airtel Kenya Mobile Broadband And Fixed Internet",
-      "isp": "Airtel Rwanda LTD",
-      "domain": "airtel.com"
-    }
-  },
-  {
-    "proxy": "http://197.248.75.221:8104",
-    "tested_at": "2026-02-15T02:46:09Z",
-    "ip": "197.248.75.221",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "Kenya",
-    "country_code": "KE",
-    "region": "Nakuru",
-    "region_code": "31",
-    "city": "Naivasha",
-    "latitude": -0.7171778,
-    "longitude": 36.4310251,
-    "is_eu": false,
-    "postal": "2050 -20117",
-    "connection": {
-      "asn": 37061,
-      "org": "For Safaricom Kenya Enterprise Business Unit",
-      "isp": "Safaricom Limited",
-      "domain": "safaricom.co.ke"
+      "asn": 30844,
+      "org": "Pioneer Hi Bred",
+      "isp": "Liquid Telecommunications LTD",
+      "domain": "liquidtelecom.mu"
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://72.10.164.178:29017",
-    "tested_at": "2026-02-14T23:38:14Z",
-    "ip": "190.104.19.167",
+    "proxy": "http://158.172.153.36:999",
+    "tested_at": "2026-02-15T03:17:32Z",
+    "ip": "158.172.153.36",
     "success": true,
     "type": "IPv4",
     "continent": "South America",
@@ -17,32 +17,9 @@
     "postal": "3212",
     "connection": {
       "asn": 27882,
-      "org": "Telef nica Celular De Bolivia S.A.",
+      "org": "BO TIGO 0 0",
       "isp": "Telef nica Celular De Bolivia S.A.",
-      "domain": "tigo.com.bo"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.90:23847",
-    "tested_at": "2026-02-14T23:38:37Z",
-    "ip": "190.129.166.110",
-    "success": true,
-    "type": "IPv4",
-    "continent": "South America",
-    "country": "Bolivia",
-    "country_code": "BO",
-    "region": "Santa Cruz",
-    "region_code": "S",
-    "city": "Santa Cruz de la Sierra",
-    "latitude": -17.8145819,
-    "longitude": -63.1560853,
-    "is_eu": false,
-    "postal": "3212",
-    "connection": {
-      "asn": 6568,
-      "org": "EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA",
-      "isp": "EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA",
-      "domain": "entelnet.bo"
+      "domain": "tigo.net.bo"
     }
   }
 ]

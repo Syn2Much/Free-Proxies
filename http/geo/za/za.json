@@ -1,76 +1,7 @@
 [
   {
-    "proxy": "http://196.251.222.234:8104",
-    "tested_at": "2026-02-15T02:45:58Z",
-    "ip": "196.251.222.205",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Gauteng",
-    "region_code": "GT",
-    "city": "Johannesburg",
-    "latitude": -26.2041028,
-    "longitude": 28.0473051,
-    "is_eu": false,
-    "postal": "2001",
-    "connection": {
-      "asn": 37403,
-      "org": "Infogro Dsl",
-      "isp": "Info gro pty LTD",
-      "domain": "infogro.net"
-    }
-  },
-  {
-    "proxy": "http://217.29.208.206:9999",
-    "tested_at": "2026-02-15T02:46:02Z",
-    "ip": "217.29.208.206",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "North West",
-    "region_code": "NW",
-    "city": "Potchefstroom",
-    "latitude": -26.7145297,
-    "longitude": 27.0970475,
-    "is_eu": false,
-    "postal": "2520",
-    "connection": {
-      "asn": 328471,
-      "org": "HERO TELECOMS PTY LTD",
-      "isp": "HERO TELECOMS PTY LTD",
-      "domain": "herotel.com"
-    }
-  },
-  {
-    "proxy": "http://41.79.148.233:8084",
-    "tested_at": "2026-02-15T02:46:06Z",
-    "ip": "41.222.152.21",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "North West",
-    "region_code": "NW",
-    "city": "Brits",
-    "latitude": -25.6099895,
-    "longitude": 27.7959713,
-    "is_eu": false,
-    "postal": "0250",
-    "connection": {
-      "asn": 37403,
-      "org": "Infogro Netblock",
-      "isp": "Info gro pty LTD",
-      "domain": "infogro.net"
-    }
-  },
-  {
-    "proxy": "http://196.251.222.41:8104",
-    "tested_at": "2026-02-15T02:46:17Z",
+    "proxy": "http://196.251.222.50:8104",
+    "tested_at": "2026-02-15T03:17:21Z",
     "ip": "196.251.222.250",
     "success": true,
     "type": "IPv4",
@@ -92,49 +23,26 @@
     }
   },
   {
-    "proxy": "http://102.218.40.67:8082",
-    "tested_at": "2026-02-15T02:46:26Z",
-    "ip": "102.218.40.66",
+    "proxy": "http://196.216.132.43:8080",
+    "tested_at": "2026-02-15T03:17:51Z",
+    "ip": "196.216.132.43",
     "success": true,
     "type": "IPv4",
     "continent": "Africa",
     "country": "South Africa",
     "country_code": "ZA",
-    "region": "KwaZulu-Natal",
-    "region_code": "KZN",
-    "city": "Newcastle",
-    "latitude": -27.7138429,
-    "longitude": 29.9971769,
+    "region": "North West",
+    "region_code": "NW",
+    "city": "Lichtenburg",
+    "latitude": -26.1093224,
+    "longitude": 26.1713917,
     "is_eu": false,
-    "postal": "2940",
+    "postal": "2740",
     "connection": {
-      "asn": 328942,
-      "org": "Newcastle Broadband Users",
-      "isp": "IMVULA ITECHNOLOGIES PTY LTD",
-      "domain": "imvulaitech.co.za"
-    }
-  },
-  {
-    "proxy": "http://102.209.191.10:8080",
-    "tested_at": "2026-02-15T02:46:30Z",
-    "ip": "102.209.191.10",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Africa",
-    "country": "South Africa",
-    "country_code": "ZA",
-    "region": "Gauteng",
-    "region_code": "GT",
-    "city": "Johannesburg",
-    "latitude": -26.2041028,
-    "longitude": 28.0473051,
-    "is_eu": false,
-    "postal": "2001",
-    "connection": {
-      "asn": 329402,
-      "org": "Mavoni Telecoms pty LTD",
-      "isp": "Mavoni Telecoms pty LTD",
-      "domain": "mavoni.co.za"
+      "asn": 328471,
+      "org": "HERO TELECOMS PTY LTD",
+      "isp": "HERO TELECOMS PTY LTD",
+      "domain": "herotel.com"
     }
   }
 ]

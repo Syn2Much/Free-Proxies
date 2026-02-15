@@ -1,31 +1,8 @@
 [
   {
-    "proxy": "http://72.10.160.171:32241",
-    "tested_at": "2026-02-15T02:45:52Z",
-    "ip": "210.186.174.7",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Malaysia",
-    "country_code": "MY",
-    "region": "Malacca",
-    "region_code": "04",
-    "city": "Melaka",
-    "latitude": 2.186977,
-    "longitude": 102.2636261,
-    "is_eu": false,
-    "postal": "75050",
-    "connection": {
-      "asn": 4788,
-      "org": "TMNET",
-      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-      "domain": "tm.com.my"
-    }
-  },
-  {
-    "proxy": "http://113.23.200.86:8081",
-    "tested_at": "2026-02-15T02:45:54Z",
-    "ip": "113.23.200.84",
+    "proxy": "http://67.43.236.18:29009",
+    "tested_at": "2026-02-15T03:17:05Z",
+    "ip": "110.159.0.94",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -39,10 +16,79 @@
     "is_eu": false,
     "postal": "63200",
     "connection": {
-      "asn": 38182,
-      "org": "Extreme Broadband",
-      "isp": "Extreme Broadband",
-      "domain": ""
+      "asn": 4788,
+      "org": "TMNST",
+      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+      "domain": "tm.com.my"
+    }
+  },
+  {
+    "proxy": "http://47.238.203.170:50000",
+    "tested_at": "2026-02-15T03:17:05Z",
+    "ip": "14.192.49.4",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "region": "Federal Territory of Kuala Lumpur",
+    "region_code": "",
+    "city": "Kuala Lumpur",
+    "latitude": 3.139003,
+    "longitude": 101.686855,
+    "is_eu": false,
+    "postal": "50050",
+    "connection": {
+      "asn": 395793,
+      "org": "Ariskisp",
+      "isp": "Arisk Communications Inc.",
+      "domain": "lightcloud.my"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.91:33095",
+    "tested_at": "2026-02-15T03:17:15Z",
+    "ip": "101.78.18.214",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "region": "Selangor",
+    "region_code": "10",
+    "city": "Tanjong Sepat",
+    "latitude": 2.6526169,
+    "longitude": 101.6499125,
+    "is_eu": false,
+    "postal": "50470",
+    "connection": {
+      "asn": 133421,
+      "org": "Innet Solutions Sdn Bhd",
+      "isp": "INNET SOLUTIONS SDN BHD",
+      "domain": "innet.com.my"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:28873",
+    "tested_at": "2026-02-15T03:17:45Z",
+    "ip": "60.49.214.22",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "region": "Selangor",
+    "region_code": "10",
+    "city": "Shah Alam",
+    "latitude": 3.073281,
+    "longitude": 101.518461,
+    "is_eu": false,
+    "postal": "40000",
+    "connection": {
+      "asn": 4788,
+      "org": "TMNST",
+      "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+      "domain": "tm.com.my"
     }
   }
 ]

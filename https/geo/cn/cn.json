@@ -1,76 +1,7 @@
 [
   {
     "proxy": "https://180.166.128.182:34000",
-    "tested_at": "2026-02-15T02:45:41Z",
-    "ip": "58.34.88.74",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "China",
-    "country_code": "CN",
-    "region": "Shanghai",
-    "region_code": "31",
-    "city": "Shanghai",
-    "latitude": 31.230416,
-    "longitude": 121.473701,
-    "is_eu": false,
-    "postal": "200001",
-    "connection": {
-      "asn": 4812,
-      "org": "Chinanet Shanghai Province Network",
-      "isp": "China Telecom group",
-      "domain": "online.sh.cn"
-    }
-  },
-  {
-    "proxy": "https://114.55.114.43:8095",
-    "tested_at": "2026-02-15T02:45:42Z",
-    "ip": "27.11.233.235",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "China",
-    "country_code": "CN",
-    "region": "Chongqing",
-    "region_code": "50",
-    "city": "Chongqing",
-    "latitude": 29.56301,
-    "longitude": 106.551556,
-    "is_eu": false,
-    "postal": "400014",
-    "connection": {
-      "asn": 4837,
-      "org": "China Unicom Chongqing Province Network",
-      "isp": "China Unicom China1 Backbone",
-      "domain": "chinaunicom.cn"
-    }
-  },
-  {
-    "proxy": "https://180.166.128.182:34001",
-    "tested_at": "2026-02-15T02:46:04Z",
-    "ip": "58.34.88.74",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "China",
-    "country_code": "CN",
-    "region": "Shanghai",
-    "region_code": "31",
-    "city": "Shanghai",
-    "latitude": 31.230416,
-    "longitude": 121.473701,
-    "is_eu": false,
-    "postal": "200001",
-    "connection": {
-      "asn": 4812,
-      "org": "Chinanet Shanghai Province Network",
-      "isp": "China Telecom group",
-      "domain": "online.sh.cn"
-    }
-  },
-  {
-    "proxy": "https://180.166.128.182:12011",
-    "tested_at": "2026-02-15T02:46:07Z",
+    "tested_at": "2026-02-15T03:17:24Z",
     "ip": "58.34.88.74",
     "success": true,
     "type": "IPv4",

@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://94.155.175.135:8080",
-    "tested_at": "2026-02-15T02:45:57Z",
+    "tested_at": "2026-02-15T03:17:06Z",
     "ip": "94.155.175.135",
     "success": true,
     "type": "IPv4",
@@ -20,29 +20,6 @@
       "org": "OMEGA TRADE 1 OOD",
       "isp": "Bulgarian Telecommunication Group Eood",
       "domain": "utelecom.com.ua"
-    }
-  },
-  {
-    "proxy": "http://85.196.179.34:8080",
-    "tested_at": "2026-02-15T02:46:25Z",
-    "ip": "85.196.179.34",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Europe",
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "region": "Sofia-city",
-    "region_code": "",
-    "city": "Sofia",
-    "latitude": 42.6977082,
-    "longitude": 23.3218675,
-    "is_eu": true,
-    "postal": "1000",
-    "connection": {
-      "asn": 29580,
-      "org": "Gpon Studentski Grad",
-      "isp": "A1 Bulgaria Ead",
-      "domain": "a1.bg"
     }
   }
 ]

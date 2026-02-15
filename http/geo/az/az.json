@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://85.132.37.9:1313",
-    "tested_at": "2026-02-14T16:51:53Z",
-    "ip": "85.132.37.9",
+    "proxy": "http://72.10.160.94:3559",
+    "tested_at": "2026-02-15T03:17:44Z",
+    "ip": "185.146.112.71",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -11,15 +11,15 @@
     "region": "Baku",
     "region_code": "BA",
     "city": "Baku",
-    "latitude": 40.4092617,
-    "longitude": 49.8670924,
+    "latitude": 40.3999248,
+    "longitude": 49.9789212,
     "is_eu": false,
     "postal": "AZ 1009",
     "connection": {
-      "asn": 209489,
-      "org": "Leased Ipv Blocks",
-      "isp": "Azintex.com LLC",
-      "domain": "delta-telecom.net"
+      "asn": 57293,
+      "org": "AG TELECOM FTTB",
+      "isp": "AG Telekom Mmc.",
+      "domain": "katv1.az"
     }
   }
 ]

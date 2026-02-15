@@ -1,7 +1,7 @@
 [
   {
     "proxy": "https://20.78.213.56:443",
-    "tested_at": "2026-02-15T02:45:52Z",
+    "tested_at": "2026-02-15T03:17:15Z",
     "ip": "20.78.213.56",
     "success": true,
     "type": "IPv4",
@@ -23,77 +23,8 @@
     }
   },
   {
-    "proxy": "https://103.100.159.145:443",
-    "tested_at": "2026-02-15T02:45:54Z",
-    "ip": "103.100.159.145",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
-    "is_eu": false,
-    "postal": "100-0002",
-    "connection": {
-      "asn": 138968,
-      "org": "Softbank Corp.",
-      "isp": "Rainbow Network Limited",
-      "domain": "softbank.jp"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41400",
-    "tested_at": "2026-02-15T02:46:13Z",
-    "ip": "118.153.245.81",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Tokyo",
-    "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
-    "is_eu": false,
-    "postal": "100-0002",
-    "connection": {
-      "asn": 2516,
-      "org": "KDDI CORPORATION",
-      "isp": "KDDI CORPORATION",
-      "domain": "kddi.com"
-    }
-  },
-  {
-    "proxy": "https://47.243.181.85:41419",
-    "tested_at": "2026-02-15T02:46:15Z",
-    "ip": "2402:6b00:f015:c600:2078:d401:4078:bb04",
-    "success": true,
-    "type": "IPv6",
-    "continent": "Asia",
-    "country": "Japan",
-    "country_code": "JP",
-    "region": "Aichi Prefecture",
-    "region_code": "23",
-    "city": "Nagoya",
-    "latitude": 35.1891168,
-    "longitude": 136.890033,
-    "is_eu": false,
-    "postal": "460-8511",
-    "connection": {
-      "asn": 18126,
-      "org": "Chubu Telecommunications CO.,INC.",
-      "isp": "Chubu Telecommunications CO.,INC.",
-      "domain": "ctc.co.jp"
-    }
-  },
-  {
     "proxy": "https://203.189.96.232:443",
-    "tested_at": "2026-02-15T02:46:33Z",
+    "tested_at": "2026-02-15T03:17:25Z",
     "ip": "203.189.96.232",
     "success": true,
     "type": "IPv4",
@@ -115,11 +46,11 @@
     }
   },
   {
-    "proxy": "https://37.120.210.66:9443",
-    "tested_at": "2026-02-15T02:46:34Z",
-    "ip": "37.120.210.70",
+    "proxy": "https://47.243.181.85:41408",
+    "tested_at": "2026-02-15T03:17:25Z",
+    "ip": "2404:7a84:5381:500:34af:26c7:45d3:8ee",
     "success": true,
-    "type": "IPv4",
+    "type": "IPv6",
     "continent": "Asia",
     "country": "Japan",
     "country_code": "JP",
@@ -131,16 +62,39 @@
     "is_eu": false,
     "postal": "100-0002",
     "connection": {
-      "asn": 9009,
-      "org": "M LTD Tokyo Infrastructure",
-      "isp": "M Europe SRL",
-      "domain": "m247.ro"
+      "asn": 2518,
+      "org": "Biglobe Inc.",
+      "isp": "Biglobe Inc.",
+      "domain": "biglobe.co.jp"
     }
   },
   {
-    "proxy": "https://47.243.181.85:41406",
-    "tested_at": "2026-02-15T02:46:35Z",
-    "ip": "147.192.35.129",
+    "proxy": "https://47.243.181.85:41410",
+    "tested_at": "2026-02-15T03:17:27Z",
+    "ip": "240b:10:3a22:b800:9032:d632:13fd:fbb1",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Tokyo",
+    "region_code": "13",
+    "city": "Shinagawa City",
+    "latitude": 35.6050553,
+    "longitude": 139.7102847,
+    "is_eu": false,
+    "postal": "142-0053",
+    "connection": {
+      "asn": 2516,
+      "org": "Japan Internet Xing Co., Ltd.",
+      "isp": "KDDI CORPORATION",
+      "domain": "jpne.co.jp"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41399",
+    "tested_at": "2026-02-15T03:17:35Z",
+    "ip": "114.19.38.211",
     "success": true,
     "type": "IPv4",
     "continent": "Asia",
@@ -148,16 +102,62 @@
     "country_code": "JP",
     "region": "Tokyo",
     "region_code": "13",
-    "city": "Tokyo",
-    "latitude": 35.7090259,
-    "longitude": 139.7319925,
+    "city": "Chiyoda City",
+    "latitude": 35.6952553,
+    "longitude": 139.7620134,
     "is_eu": false,
-    "postal": "100-0002",
+    "postal": "101-0052",
     "connection": {
-      "asn": 2527,
-      "org": "So net Service",
-      "isp": "Sony Network Communications Inc.",
-      "domain": "sonynetwork.co.jp"
+      "asn": 2516,
+      "org": "KDDI CORPORATION",
+      "isp": "KDDI CORPORATION",
+      "domain": "kddi.com"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41419",
+    "tested_at": "2026-02-15T03:17:36Z",
+    "ip": "210.170.29.11",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Saitama Prefecture",
+    "region_code": "11",
+    "city": "Okegawa",
+    "latitude": 36.0057789,
+    "longitude": 139.5425311,
+    "is_eu": false,
+    "postal": "363-0026",
+    "connection": {
+      "asn": 2519,
+      "org": "Arteria Networks Corporation",
+      "isp": "Arteria Networks Corporation",
+      "domain": "arteria-net.com"
+    }
+  },
+  {
+    "proxy": "https://47.243.181.85:41402",
+    "tested_at": "2026-02-15T03:17:38Z",
+    "ip": "2402:6b00:f841:c800:ed27:d9e9:c78e:d65d",
+    "success": true,
+    "type": "IPv6",
+    "continent": "Asia",
+    "country": "Japan",
+    "country_code": "JP",
+    "region": "Yamanashi Prefecture",
+    "region_code": "19",
+    "city": "Fuji",
+    "latitude": 35.1613985,
+    "longitude": 138.6762728,
+    "is_eu": false,
+    "postal": "417-8601",
+    "connection": {
+      "asn": 18126,
+      "org": "Chubu Telecommunications CO.,INC.",
+      "isp": "Chubu Telecommunications CO.,INC.",
+      "domain": "ctc.co.jp"
     }
   }
 ]

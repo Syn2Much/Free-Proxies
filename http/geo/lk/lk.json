@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://67.43.236.20:26559",
-    "tested_at": "2026-02-15T02:45:43Z",
+    "tested_at": "2026-02-15T03:17:06Z",
     "ip": "112.134.135.5",
     "success": true,
     "type": "IPv4",
@@ -20,6 +20,29 @@
       "org": "ADSL DYNAMIC POOL",
       "isp": "Sri Lanka Telecom LTD",
       "domain": "slt.com.lk"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:26661",
+    "tested_at": "2026-02-15T03:17:26Z",
+    "ip": "175.157.139.193",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "region": "Western Province",
+    "region_code": "1",
+    "city": "Colombo",
+    "latitude": 6.9270786,
+    "longitude": 79.861243,
+    "is_eu": false,
+    "postal": "83400-000",
+    "connection": {
+      "asn": 18001,
+      "org": "Dialog Axiata PLC",
+      "isp": "Dialog Axiata PLC",
+      "domain": "dialog.lk"
     }
   }
 ]

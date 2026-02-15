@@ -1,7 +1,7 @@
 [
   {
     "proxy": "http://72.10.160.173:24279",
-    "tested_at": "2026-02-15T02:45:41Z",
+    "tested_at": "2026-02-15T03:17:04Z",
     "ip": "27.34.64.92",
     "success": true,
     "type": "IPv4",
@@ -20,52 +20,6 @@
       "org": "Dynamic Allocation for Broadband Subscribers",
       "isp": "Worldlink Communications",
       "domain": "worldlink.com.np"
-    }
-  },
-  {
-    "proxy": "http://110.44.115.83:8080",
-    "tested_at": "2026-02-15T02:45:55Z",
-    "ip": "110.44.115.83",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Nepal",
-    "country_code": "NP",
-    "region": "Bagmati Pradesh",
-    "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
-    "is_eu": false,
-    "postal": "46600",
-    "connection": {
-      "asn": 45650,
-      "org": "VIA NET COMMUNICATION PUBLIC LIMITED",
-      "isp": "VIA NET COMMUNICATION PUBLIC LIMITED",
-      "domain": "vianet.com.np"
-    }
-  },
-  {
-    "proxy": "http://182.93.85.225:8080",
-    "tested_at": "2026-02-15T02:46:19Z",
-    "ip": "182.93.85.225",
-    "success": true,
-    "type": "IPv4",
-    "continent": "Asia",
-    "country": "Nepal",
-    "country_code": "NP",
-    "region": "Bagmati Pradesh",
-    "region_code": "",
-    "city": "Kathmandu",
-    "latitude": 27.7172453,
-    "longitude": 85.3239605,
-    "is_eu": false,
-    "postal": "46600",
-    "connection": {
-      "asn": 4007,
-      "org": "Subisu Retail Pool",
-      "isp": "Subisu Cablenet",
-      "domain": "subisu.net.np"
     }
   }
 ]
